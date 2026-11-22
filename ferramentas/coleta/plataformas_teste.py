@@ -15,12 +15,9 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # quarta rodada (22/11/2026): páginas de evento da Fever (sessões, horários, endereço)
-    "fever": [
-        "https://feverup.com/m/637531",
-        "https://feverup.com/m/830991",
-        "https://feverup.com/m/770445",
-        "https://feverup.com/m/850366",
+ALVOS = {  # quinta rodada (22/11/2026): campos de uma sessão da Ingresso.com (link de compra da sessão)
+    "ingresso": [
+        "https://api-content.ingresso.com/v0/sessions/city/2/theater/34?partnership=home",
     ],
 }
 
