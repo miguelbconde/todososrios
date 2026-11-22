@@ -82,11 +82,12 @@ def _detalhe(texto):
             sched = []
         for bloco in sched:
             for s in bloco.get("sessions", []):
-                data = (s.get("dateIso") or "")[:10]
+                iso = (s.get("dateIso") or "").split("/")
+                data, ate = iso[0][:10], (iso[-1][:10] if len(iso) > 1 else iso[0][:10])
                 hora = (s.get("time") or "")[:5]
                 precos = "; ".join(f"{x.get('tipo')}: R$ {x.get('preco')}" if str(x.get("preco")) not in ("0", "") else "grátis"
                                    for x in s.get("ingressos", []))
-                sessoes.append({"data": data, "hora": hora, "unidade": bloco.get("location") or "", "precos": precos,
+                sessoes.append({"data": data, "ate": ate or data, "hora": hora, "unidade": bloco.get("location") or "", "precos": precos,
                                 "acessibilidade": ", ".join(s.get("acessibilidade") or [])})
     sin = ""
     j = texto.find('"sinopseMarkdown":"')
@@ -125,7 +126,7 @@ def sesc(pasta):
         if not lista or (total and pagina >= total) or pagina >= 80:
             break
         pagina += 1
-    linhas = []
+    linhas, motivos = [], {}
     for e in candidatos:
         url = f"{base}/programacao/{e['slug']}"
         st, txt = baixar(url)
@@ -134,13 +135,21 @@ def sesc(pasta):
             falhas.append(f"{e.get('title')} (código {st})"); continue
         sessoes, sin = _detalhe(decodificar_next(txt))
         tags = ", ".join(t.get("label", "") for t in e.get("tags", []))
+        if not sessoes:
+            motivos["sem sessões na página"] = motivos.get("sem sessões na página", 0) + 1
         for s in sessoes:
-            if not s["data"] or s["data"] < HOJE.isoformat() or s["data"] > limite.isoformat():
-                continue
-            if s["unidade"] not in SESC_RIO:
-                continue
-            bairro, regiao = SESC_RIO[s["unidade"]]
-            linhas.append(f"{s['data']} {s['hora']} | {limpo(e.get('title'))} | {s['unidade']} ({bairro}, {regiao}) | "
+            if not s["data"] or s["ate"] < HOJE.isoformat():
+                motivos["já passou"] = motivos.get("já passou", 0) + 1; continue
+            if s["data"] > limite.isoformat():
+                motivos["depois da janela"] = motivos.get("depois da janela", 0) + 1; continue
+            unidade = s["unidade"] if s["unidade"] in SESC_RIO else e.get("location")
+            if unidade not in SESC_RIO:
+                motivos["unidade fora do Rio: " + s["unidade"]] = motivos.get("unidade fora do Rio: " + s["unidade"], 0) + 1; continue
+            bairro, regiao = SESC_RIO[unidade]
+            # sessão de um dia, ou período (exposição, temporada): o período aparece por inteiro
+            quando = f"{s['data']} {s['hora']}" if s["ate"] == s["data"] else \
+                f"de {s['data']} até {s['ate']}, {s['hora'] or 'horário na página'} (em cartaz na edição que termina em {edicao_fim(HOJE).isoformat()})"
+            linhas.append(f"{quando} | {limpo(e.get('title'))} | {unidade} ({bairro}, {regiao}) | "
                           f"{s['precos'] or 'preço não informado'} | {tags}"
                           f"{' | acessibilidade: ' + s['acessibilidade'] if s['acessibilidade'] else ''} | {url} | sinopse oficial: {sin}")
     linhas.sort()
@@ -148,7 +157,7 @@ def sesc(pasta):
         f.write(f"FAGENDA_sesc | Sesc RJ — programação oficial das unidades na cidade do Rio (agenda dedicada do Todos os Rios) | {base}/programacao\n")
         f.write("## sessões, por data\n")
         f.write("\n".join(linhas) + "\n")
-    return {"paginas": pagina, "eventos_no_rio": len(candidatos), "sessoes": len(linhas), "falhas": falhas}
+    return {"paginas": pagina, "eventos_no_rio": len(candidatos), "linhas": len(linhas), "fora": motivos, "falhas": falhas}
 
 
 # ------------------------------------------------------------------ Arte que Acontece
