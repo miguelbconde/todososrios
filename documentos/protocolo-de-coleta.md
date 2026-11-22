@@ -135,6 +135,6 @@ Num dia sem exceções, uma linha basta.
 - Os dados organizados dos próprios sites ainda são fracos para virar ficha sozinhos (21/11): o IMS não diz em que cidade é cada sessão, o Teatro das Artes só dá o período da temporada e o TotalEnergies não traz datas. Por isso o robô lê, por enquanto, só a Sympla da rede municipal e a Ingresso.com.
 - Temporadas da Sympla (vários dias, sem dizer quais) e locais que o robô não reconhece ficam para a redação. Para ensinar um local novo ao robô, acrescente-o em `dados/locais.json` (local, endereco, bairro, regiao, apelidos).
 - Sites que só montam a programação depois de abrir (Circo Voador, Blue Note, Caixa Cultural, MIS e outros) chegam vazios.
-- Ticketmaster barra robôs e Eventim não responde da nuvem.
+- Ticketmaster barra robôs e Eventim não responde da nuvem. A Shotgun responde com verificação anti-robô (22/11/2026) e fica em espera: pelos nossos limites, não contornamos.
 - O cadastro tem endereços errados, anotados em `dados/fontes.csv` com "Ronda 19/11".
 - Os programas `ferramentas/redacao/redacao_*.py` e `destaques_*.py` são do sistema antigo e ficam só como registro. Não use.
