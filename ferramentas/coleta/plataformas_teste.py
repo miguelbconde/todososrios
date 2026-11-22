@@ -15,19 +15,15 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # sétima rodada (22/11/2026): Sesc RJ e páginas seguintes do Arte que Acontece
+ALVOS = {  # oitava rodada (22/11/2026): agenda do Sesc RJ (site cultura.sescrio.org.br, dados em apicultura)
     "sesc": [
-        "https://www.sescrio.org.br/robots.txt",
-        "https://cultura.sescrio.org.br/robots.txt",
-        "https://www.sescrio.org.br/",
-        "https://cultura.sescrio.org.br/",
-        "https://www.sescrio.org.br/wp-json/",
-        "https://cultura.sescrio.org.br/wp-json/",
+        "https://cultura.sescrio.org.br/programacao",
+        "https://apicultura.sescrio.org.br/robots.txt",
+        "https://apicultura.sescrio.org.br/wp-json/",
+        "https://apicultura.sescrio.org.br/wp-json/wp/v2/types",
     ],
     "arteacontece": [
-        "https://artequeacontece.com.br/wp-json/tribe/events/v1/events?per_page=100&categories=rio-de-janeiro&start_date=2025-01-01&end_date=2027-12-31",
-        "https://artequeacontece.com.br/eventos/category/rio-de-janeiro/lista/?tribe-bar-date=2026-11-22",
-        "https://artequeacontece.com.br/eventos/category/rio-de-janeiro/page/2/",
+        "https://artequeacontece.com.br/wp-json/tribe/events/v1/events?per_page=50&page=4&categories=rio-de-janeiro&start_date=2025-01-01&end_date=2027-12-31",
     ],
 }
 
