@@ -77,6 +77,11 @@ PUBLICOS = ("municipal", "Municipal", "Arena", "Areninha", "Biblioteca", "Muhcab
             "Teatro de", "Sesc", "CCBB", "Espaço Cultural")
 
 
+REGIOES_BOA = ("Centro", "Zona Sul", "Zona Norte", "Zona Oeste")  # "A boa" (22/11/2026): 4 por dia, uma em cada região
+MAX_BOA = 4
+MES_MIN, MES_MAX = 3, 4  # "A boa do mês" (22/11/2026): 3 ou 4 grandes nomes e eventos de compra antecipada
+
+
 def validar_destaques(eventos, destaques):
     """Regras públicas de curadoria. Uma regra só é cobrada se o dia oferece opções para cumpri-la."""
     por_id = {e["id"]: e for e in eventos}
@@ -96,14 +101,18 @@ def validar_destaques(eventos, destaques):
             esc.append(e)
         def possivel(n):  # o dia permite atingir n?
             return min(n, len(lista))
+        if len(lista) > MAX_BOA:
+            alertas.append((dia, f"{len(lista)} destaques; o máximo é {MAX_BOA}"))
         regs = {e["regiao"] for e in esc}; regs_pool = {e["regiao"] for e in pool}
-        if len(regs) < possivel(min(3, len(regs_pool))):
-            alertas.append((dia, f"Só {len(regs)} região(ões); o dia oferecia {len(regs_pool)}"))
+        faltam = [r for r in REGIOES_BOA if r in regs_pool and r not in regs]  # decisão de 22/11/2026: uma em cada
+        if faltam:
+            alertas.append((dia, f"Falta destaque em: {', '.join(faltam)} (o dia oferecia)"))
         areas = {a for e in esc for a in e["areas"]}; areas_pool = {a for e in pool for a in e["areas"]}
         if len(areas) < possivel(min(3, len(areas_pool))):
             alertas.append((dia, f"Só {len(areas)} área(s); o dia oferecia {len(areas_pool)}"))
         baratos = sum(e["faixa"] in ("gratis", "popular") for e in esc)
-        if esc and baratos * 2 < len(esc) and sum(e["faixa"] in ("gratis", "popular") for e in pool) >= len(esc) / 2:
+        locais_baratos = {e["local"] for e in pool if e["faixa"] in ("gratis", "popular")}  # um destaque por espaço
+        if esc and baratos * 2 < len(esc) and len(locais_baratos) >= len(esc) / 2:
             alertas.append((dia, f"Só {baratos} de {len(esc)} destaques grátis ou a preço popular"))
         locais = [e["local"] for e in esc]
         if len(set(locais)) < len(locais):
@@ -111,6 +120,13 @@ def validar_destaques(eventos, destaques):
         tem_publico = lambda l: any(any(k in e["local"] for k in PUBLICOS) for e in l)
         if esc and not tem_publico(esc) and tem_publico(pool):  # só cobra se o dia oferece opção
             alertas.append((dia, "Nenhum espaço público, comunitário ou sem fins lucrativos"))
+    mes = destaques.get("mes", [])
+    if mes and not MES_MIN <= len(mes) <= MES_MAX:
+        alertas.append(("mês", f"A boa do mês tem {len(mes)} escolhas; o padrão é de {MES_MIN} a {MES_MAX}"))
+    for d in mes:
+        e = por_id.get(d["id"])
+        if e and e["status"] != "conferido":
+            alertas.append(("mês", f"“{e['titulo']}” não está conferido e não pode estar na A boa do mês"))
     return alertas
 
 
@@ -365,7 +381,7 @@ def main(edicao_id):
     linhas += ["", "## Destaques (A boa)", ""]
     for dia, l in destaques["dias"].items():
         linhas.append(f"- **{dia[8:10]}/{dia[5:7]}**: " + "; ".join(nomes.get(d["id"], d["id"]) for d in l))
-    linhas += ["", "Regras de curadoria:"] + ([f"- ⚠️ {d[8:10]}/{d[5:7]} — {a}" for d, a in alertas_dest] or ["- Todas as regras cumpridas."])
+    linhas += ["", "Regras de curadoria:"] + ([f"- ⚠️ {(d[8:10] + '/' + d[5:7]) if len(d) == 10 else d} — {a}" for d, a in alertas_dest] or ["- Todas as regras cumpridas."])
     linhas += ["", "## Traduções", ""]
     linhas += ([f"- Sem tradução (aparece em português no site em inglês e espanhol): {', '.join(sem_traducao)}"] if sem_traducao
                else ["- Todas as sinopses têm versão em inglês e espanhol."])

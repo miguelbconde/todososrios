@@ -57,25 +57,37 @@ def porque_automatico(e):
     return (f"Em {onde}.", f"In {onde}.", f"En {onde}.")
 
 
-def escolher_destaques(eventos, dia, n=6):
-    """Regra fixa para os dias sem destaque da redação: diversidade de regiões, áreas e espaços,
-    prioridade para o grátis e o barato, para espaços públicos e para fora da Zona Sul."""
+REGIOES_BOA = ("Centro", "Zona Sul", "Zona Norte", "Zona Oeste")  # decisão de 22/11/2026: 4 por dia, uma em cada
+
+
+def escolher_destaques(eventos, dia, n=4):
+    """Regra fixa para os dias sem destaque da redação (decisão de 22/11/2026): 4 destaques, um no Centro,
+    um na Zona Sul, um na Zona Norte e um na Zona Oeste. Dentro de cada região, prioridade para o grátis e o
+    barato e para os espaços públicos, variando as áreas. Região sem opção é completada por outra (Sudoeste antes)."""
     pool = [e for e in eventos if e["tipo"] == "evento" and not e.get("automatica") and not e.get("robo") and e["status"] == "conferido"
             and any(s["data"] == dia for s in e["sessoes"])]
 
     def nota(e):
-        return ((e["faixa"] in ("gratis", "popular")) * 4 + any(k in e["local"] for k in PUBLICOS) * 2
-                + (e["regiao"] != "Zona Sul") + (e["regiao"] in ("Zona Norte", "Zona Oeste")))
+        return (e["faixa"] in ("gratis", "popular")) * 4 + any(k in e["local"] for k in PUBLICOS) * 2
     pool.sort(key=lambda e: (-nota(e), e["id"]))
-    esc, regs, areas, locais = [], set(), set(), set()
-    for rodada in (0, 1):  # primeiro só quem traz região ou área nova; depois completa
-        for e in pool:
-            if len(esc) >= n or e in esc or e["local"] in locais:
-                continue
-            if rodada == 0 and e["regiao"] in regs and set(e["areas"]) <= areas:
-                continue
-            esc.append(e); regs.add(e["regiao"]); areas |= set(e["areas"]); locais.add(e["local"])
-    return esc
+    esc, areas, locais = [], set(), set()
+
+    def pega(cands):
+        for exigir_area_nova in (True, False):
+            for e in cands:
+                if e in esc or e["local"] in locais:
+                    continue
+                if exigir_area_nova and set(e["areas"]) <= areas:
+                    continue
+                esc.append(e); areas.update(e["areas"]); locais.add(e["local"])
+                return True
+        return False
+    for r in REGIOES_BOA:
+        pega([e for e in pool if e["regiao"] == r])
+    for r in ("Zona Sudoeste",) + REGIOES_BOA:  # completa o que faltou
+        while len(esc) < n and pega([e for e in pool if e["regiao"] == r]):
+            pass
+    return esc[:n]
 
 
 def main(plataformas=None):

@@ -124,6 +124,30 @@
    "recusadas": [],
    "removidas": 0,
    "nota": "Rodada extra de 22/11 (noite), lote 6: 17 fichas de teatros e casas de música (Sympla, grupo cultural)."
+  },
+  {
+   "data": "2026-11-22",
+   "novas": 3,
+   "corrigidas": 0,
+   "recusadas": [],
+   "removidas": 0,
+   "nota": "22/11 (noite, em conversa): 3 grandes shows para A boa do mês (Paulinho da Viola, Ferrugem, Leo Gandelman)."
+  },
+  {
+   "data": "2026-11-22",
+   "novas": 0,
+   "corrigidas": 0,
+   "recusadas": [],
+   "removidas": 3,
+   "nota": "22/11 (noite, em conversa): novas regras de A boa (4 por dia, uma em cada região) e A boa do mês (3 ou 4 grandes nomes); 3 duplicatas removidas."
+  },
+  {
+   "data": "2026-11-22",
+   "novas": 0,
+   "corrigidas": 0,
+   "recusadas": [],
+   "removidas": 0,
+   "nota": "22/11 (noite): teste das regras novas de A boa"
   }
  ]
 }

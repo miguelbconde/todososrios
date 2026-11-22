@@ -6746,6 +6746,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-05",
+     "hora": "21:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 95",
+   "preco_min": 95,
+   "preco_max": 95,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o preço 'a partir de'; não diz se é inteira.",
+   "aviso": "",
+   "tipo": "evento",
+   "titulo": "Ferrugem: Sentimento – gravação do audiovisual",
+   "areas": [
+    "Música"
+   ],
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Ferrugem grava no Qualistage o audiovisual do álbum \"Sentimento\", lançado em janeiro, com sucessos da carreira e faixas inéditas.",
+   "fonte": "Site do Qualistage (ronda de 22/11)",
+   "link": "https://qualistage.com.br/evento/441/ferrugem",
+   "trecho_fonte": "A partir de R$ 95,00 Sábado - 05 | DEZEMBRO 21h30 18 anos || No dia 5 de dezembro, o cantor sobe ao palco do Qualistage, no Rio de Janeiro, para registrar o audiovisual de “Sentimento” [...] Lançado em janeiro deste ano || A noite também marca a apresentação de novas faixas inéditas",
+   "id": "f-2f4279be22",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "19:30"
     }
@@ -6924,40 +6957,6 @@
    "trecho_fonte": "2026-12-12 17:00 até 2026-12-20 17:00 | Mesmo Rio | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/130205",
    "id": "f-345c3d2ed6",
    "entrou_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Régis Araújo: Tá Bixada",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ziembinski",
-   "endereco": "Rua Heitor Beltrão, s/nº",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Régis Araújo apresenta \"Tá Bixada\".",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128666",
-   "trecho_fonte": "2026-11-25 20:00 até 2026-11-25 20:00 | Semana da Comédia: Festival Queer Comedy – Régis Araújo em Tá Bixada | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128666",
-   "id": "f-34accf3b3b",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -8012,6 +8011,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-03",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site não informa o preço na página extraída.",
+   "aviso": "",
+   "tipo": "evento",
+   "titulo": "Leo Gandelman: Cosmos",
+   "areas": [
+    "Música"
+   ],
+   "local": "Teatro Casa Grande (Teatro Axia Casa Grande)",
+   "endereco": "Av. Afrânio de Melo Franco, 290",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "O saxofonista Leo Gandelman lança \"Cosmos\", seu primeiro disco de composições inéditas desde 2012, com Eduardo Farias, Estevan Cipri, Frederico Heliodoro e Fred Selva. Casa abre às 19h30.",
+   "fonte": "Site do Teatro Axia Casa Grande (ronda de 22/11)",
+   "link": "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/leo-gandelman-cosmos/",
+   "trecho_fonte": "Leo Gandelman lança Cosmos, seu novo álbum autoral, na quinta-feira, 3 de dezembro, às 20h30, no Teatro AXIA Casa Grande. Após 14 anos sem lançar um disco de composições inéditas — desde Vip Vop (2012) [...] Leo Gandelman é acompanhado por Eduardo Farias (piano), Estevan Cipri (bateria), Frederico Heliodoro (baixo) e Fred Selva (vibrafone e percussão) [...] ? Abertura da casa: 19h30 [...] ?Classificação etária: 14 anos.",
+   "id": "f-70d707fb63",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "16:00"
     }
@@ -8105,40 +8137,6 @@
    "trecho_fonte": "2026-11-28 20:30 até 2026-11-28 20:30 | Stand up: Wêlson Nunes | Areninha Cultural Municipal Carlos Zéfiro, Estrada Marechal Alencastro s/nº | organizador: MUNICIPIO DO RIO DE JANEIRO - Areninha Cultural Carlos Zéfiro | https://bileto.sympla.com.br/event/127399",
    "id": "f-74cf9d83c0",
    "entrou_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Amanda Mendonça canta Djavan",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Centro da Música Carioca Artur da Távola",
-   "endereco": "Rua Conde de Bonfim, 824",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "Amanda Mendonça interpreta canções de Djavan na série Quartas Acústicas do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129675",
-   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 19:00 | Quartas Acústicas apresenta Amanda Mendonça Canta Djavan | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129675",
-   "id": "f-758966ed18",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -8397,40 +8395,6 @@
    "trecho_fonte": "2026-11-29 15:00 | Os Thiagos: Deixe-me ir | Sesc Tijuca (Tijuca, Zona Norte) | grátis | MÚSICA, 14 ANOS, GRÁTIS || homenageia o icônico mestre Cartola. Aqui sete músicos sambistas e periféricos [...] sambas autorais do grupo e clássicos do samba de raiz",
    "id": "f-8b6457b70f",
    "entrou_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-24",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Priscilla com 2L: A Cara da Mãe e o P*u do Pai",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ziembinski",
-   "endereco": "Rua Heitor Beltrão, s/nº",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Priscilla com 2L apresenta \"A cara da mãe e o p*u do pai\".",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129354",
-   "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | Semana da Comédia: Festival Queer Comedy – Priscilla com 2L em A cara da mãe e o p*u do pai | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/129354",
-   "id": "f-8d66714315",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -9193,6 +9157,39 @@
    "link": "https://bileto.sympla.com.br/event/130333",
    "trecho_fonte": "2026-12-17 19:00 até 2026-12-17 19:00 | Quinta Homenagem apresenta Os Lobos 60 Anos | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/130333",
    "id": "f-a5beeec037",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-16",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "A partir de R$ 120 (meia R$ 60)",
+   "preco_min": 60,
+   "preco_max": 120,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Preço: o menor valor informado; pode haver setores mais caros.",
+   "aviso": "",
+   "tipo": "evento",
+   "titulo": "Paulinho da Viola",
+   "areas": [
+    "Música"
+   ],
+   "local": "Vivo Rio",
+   "endereco": "Av. Infante Dom Henrique, 85",
+   "bairro": "Glória (Aterro do Flamengo)",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Paulinho da Viola, autor de \"Foi um Rio que Passou em Minha Vida\" e \"Pecado Capital\", com quase 60 anos de carreira no samba e na MPB. Casa abre às 19h.",
+   "fonte": "Site do Vivo Rio (ronda de 22/11)",
+   "link": "https://vivorio.com.br/eventos/paulinho-da-viola-2/",
+   "trecho_fonte": "Paulinho da Viola 16 jan | sábado [...] abertura da casa 19h INGRESSOS A PARTIR DE: R$ 60 (meia) R$ 120 (inteira) Classificação Etária 18 Gênero MPB [...] Sábado, 16 de Janeiro às 21h || clássicos como: ‘Foi um rio que passou em minha vida’, ‘Coração Leviano’, ‘Pecado Capital’ || ao longo de quase 60 anos de carreira",
+   "id": "f-a5ca51917a",
    "entrou_em": "2026-11-22"
   },
   {

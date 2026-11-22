@@ -35,7 +35,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
 - Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
-- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque e mantém "A boa do mês" (6 a 10 escolhas para os próximos dois meses).
+- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque (4 por dia, um em cada região: Centro, Zona Sul, Zona Norte, Zona Oeste) e mantém "A boa do mês" (3 ou 4 grandes nomes e eventos disputados nos próximos dois meses).
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
 - Manda à coordenação o relatório de exceções.
 - Não mexe no código, no cadastro nem nas tarefas agendadas.
