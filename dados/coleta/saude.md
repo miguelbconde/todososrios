@@ -10,9 +10,7 @@
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 6395 sessões de cinema
-- Sympla: 2000 eventos no Rio
-- Fever: 60 eventos no Rio
+- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
 
 ## Fichas automáticas (sem IA)
 
@@ -27,12 +25,13 @@
   - 2026-11-22: 0 novas, 0 corrigidas, 0 recusadas — Ajuste de A boa de 24/11 para cumprir a regra de 3 áreas.
   - 2026-11-22: 2 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11 (2ª rodada): 2 fichas da Fever (Candlelight no Museu do Amanhã); 12 pendências da Sympla seguem sem dados suficientes; nenhuma ficha automática nova; sem PDF da Secretaria.
   - 2026-11-22: 18 novas, 0 corrigidas, 0 recusadas — Rodada extra de 22/11: 18 fichas da Sympla só pela listagem (páginas bloqueadas), 9 delas para 23 a 25/11; Encontro de Corais e Pagode do Túnel saem das pendências.
+  - 2026-11-22: 7 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11 (3ª rodada), lote 1: 7 exposições do Arte que Acontece.
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2026-11-25: **141**
-- Por região: Centro 53, Zona Sul 48, Zona Norte 23, Zona Sudoeste 11, Zona Oeste 6
-- Fora da Zona Sul: 66%
+- Fichas da redação de hoje até 2026-11-25: **148**
+- Por região: Centro 59, Zona Sul 49, Zona Norte 23, Zona Sudoeste 11, Zona Oeste 6
+- Fora da Zona Sul: 67%
 - Grátis: 48
 
 ## Alarmes

@@ -1,13 +1,13 @@
 # Relatório da edição — Edição de 19 a 25 de novembro de 2026
 
-- Eventos e exposições: **478** (441 eventos com 2894 sessões; 37 em cartaz)
+- Eventos e exposições: **485** (441 eventos com 2894 sessões; 44 em cartaz)
 - Grátis: **48** · preço popular (até R$ 40): **73**
-- Conferidos sem ressalva: **474** · a confirmar: **4**
+- Conferidos sem ressalva: **480** · a confirmar: **5**
 
 ## Distribuição por região
 
-- Centro: 60
-- Zona Sul: 150
+- Centro: 66
+- Zona Sul: 151
 - Zona Sudoeste: 119
 - Zona Norte: 106
 - Zona Oeste: 43
@@ -53,12 +53,23 @@
 - **Jazz em dobro: Michael Jackson & Stevie Wonder** (f-3c83d02223) · sinopse · *duvida* — 'Repertório' deduzido do título. → **Corrigido: sinopse reescrita mais perto do título.**
 - **Game Drag Show com Samara Rios** (f-a4b33a2570) · bairro · *duvida* — Cinelândia não é bairro oficial. → **Mantido: a base usa Cinelândia para o Teatro Rival.**
 - **Samba dos Fidalgos – 2ª edição** (f-421f7a21f2) · bairro · *nao_encontrado* — A fonte não diz o bairro; Bangu foi deduzido do endereço. → **pendente (sai como “a confirmar”)**
+- **Rosana Palazyan: Quintal** (f-c6b14b6989) · sinopse · *diverge* — 'conviveu' no lugar de 'conversou durante a preparação da mostra' → **Corrigido: sinopse e trecho seguem a fonte.**
+- **Rosana Palazyan: Quintal** (f-c6b14b6989) · cartaz.fim · *duvida* — galeria diz 28/11, Arte que Acontece diz 26/11 → **Mantido: 28/11, data da fonte oficial (galeria).**
+- **Tainan Cabral: Armadilhas no Paraíso** (f-d85692266b) · sinopse · *diverge* — 'e equipe' não está na fonte → **Corrigido: os cinco curadores pelo nome.**
+- **Carnaval Como Método** (f-d9430fc970) · cartaz.fim · *duvida* — ArtRio diz 29/11/2026; Arte que Acontece diz 21/02/2027 → **pendente (sai como “a confirmar”)**
 
 ## Conferência mecânica (regras)
 
 - [baixa] **Exposição Literária – Mês da Consciência Negra** (2026-11-19-046) — Preço não informado na fonte
 - [baixa] **O gesto do poder, o poder do gesto – um recorte da Coleção Instituto PIPA** (2026-11-19-132) — Preço não informado na fonte
 - [baixa] **Encontro dos Povos Originários** (2026-11-19-141) — Preço não informado na fonte
+- [baixa] **Amigo Oculto** (f-0e743de4be) — Preço não informado na fonte
+- [baixa] **Rosana Palazyan: Quintal** (f-c6b14b6989) — Preço não informado na fonte
+- [baixa] **Fernanda Morais: Diários de Classe** (f-cb046c7db2) — Preço não informado na fonte
+- [baixa] **Tainan Cabral: Armadilhas no Paraíso** (f-d85692266b) — Preço não informado na fonte
+- [baixa] **Carnaval Como Método** (f-d9430fc970) — Preço não informado na fonte
+- [baixa] **Romain Dumesnil: EXORAMA** (f-dbb5dba5a3) — Preço não informado na fonte
+- [baixa] **Andréa Hygino: Projeto parquinho** (f-f3b05f223f) — Preço não informado na fonte
 - [baixa] **Coral Brasil Ensemble – UFRJ (Música no Assyrio)** (2026-11-19-130) — Preço não informado na fonte
 - [baixa] **Clube Akorin: Musicalizar Brincando** (2026-11-19-146) — Preço não informado na fonte
 - [baixa] **Bluey – Diversão em Família** (2026-11-19-164) — Preço não informado na fonte
@@ -137,7 +148,7 @@ Regras de curadoria:
 
 ## Traduções
 
-- Todas as sinopses têm versão em inglês e espanhol.
+- Sem tradução (aparece em português no site em inglês e espanhol): Amigo Oculto, Rosana Palazyan: Quintal, Fernanda Morais: Diários de Classe, Tainan Cabral: Armadilhas no Paraíso, Carnaval Como Método, Romain Dumesnil: EXORAMA, Andréa Hygino: Projeto parquinho
 
 ## Notas de redação
 
@@ -156,6 +167,13 @@ Regras de curadoria:
 - **Casa da Mônica** — Fecha no feriado de 20/11.
 - **ECOS – coletiva** — As fontes divergem num ponto: o site da galeria diz “segunda a sexta”; a ArtRio diz “terça a sexta”. Vale o site da galeria. Também divergem no número de obras (vinte no site da galeria, dezenove na ArtRio); vale o site da galeria.
 - **Encontro dos Povos Originários** — A coleta só trouxe o período e a chamada do evento, sem a grade de atividades nem o preço.
+- **Amigo Oculto** — Preço não informado. "Diferentes gerações" completa-se pelo resumo do Arte que Acontece.
+- **Rosana Palazyan: Quintal** — Fim: a galeria diz 28/11; o Arte que Acontece diz 26/11. Ficou a data da galeria. Horário e preço não informados.
+- **Fernanda Morais: Diários de Classe** — O site do CCJF só lista o título; período e curadoria vêm do Arte que Acontece. Horário de visitação e preço não informados pela fonte.
+- **Tainan Cabral: Armadilhas no Paraíso** — Nenhuma fonte oficial do MAR na ronda; fatos do Arte que Acontece. Horário e preço não informados por esta fonte.
+- **Carnaval Como Método** — Data de encerramento diverge: ArtRio diz 29/11, Arte que Acontece diz 21/02/2027. Ficou 29/11 até confirmar no site do MAM. Preço não informado.
+- **Romain Dumesnil: EXORAMA** — Preço não informado. Achada pelo radar do Arte que Acontece; fatos do site da galeria.
+- **Andréa Hygino: Projeto parquinho** — Nenhuma fonte oficial do MAM na ronda; fatos do Arte que Acontece. Horário é o geral do museu, dado pela ArtRio. Preço não informado.
 - **Mensageiras da Cultura – 50 anos da Kotekitai** — O PDF traz o mesmo evento duas vezes, com títulos diferentes (“Asas de Kotekitai” e “Mensageiras da Cultura”). Ficou um só registro.
 - **Coral Brasil Ensemble – UFRJ (Música no Assyrio)** — O trecho coletado não traz o preço do ingresso.
 - **Clube Akorin: Musicalizar Brincando** — A fonte não informa o preço.
