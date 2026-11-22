@@ -15,19 +15,12 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # terceira rodada (22/11/2026): Fever e Shotgun
+ALVOS = {  # quarta rodada (22/11/2026): páginas de evento da Fever (sessões, horários, endereço)
     "fever": [
-        "https://feverup.com/robots.txt",
-        "https://feverup.com/pt/rio-de-janeiro",
-        "https://feverup.com/en/rio-de-janeiro",
-        "https://feverup.com/pt/rio",
-        "https://feverup.com/sitemap.xml",
-    ],
-    "shotgun": [
-        "https://shotgun.live/robots.txt",
-        "https://shotgun.live/pt-br/cities/rio-de-janeiro",
-        "https://shotgun.live/en/cities/rio-de-janeiro",
-        "https://shotgun.live/sitemap.xml",
+        "https://feverup.com/m/637531",
+        "https://feverup.com/m/830991",
+        "https://feverup.com/m/770445",
+        "https://feverup.com/m/850366",
     ],
 }
 
