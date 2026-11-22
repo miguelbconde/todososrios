@@ -1,12 +1,12 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-22 10:45 UTC, em 179 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-22 10:29 UTC, em 174 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **52**
-- não respondeu: **20**
+- coletada: **53**
+- não respondeu: **19**
 - coletada, mas sem datas à vista: **14**
 - recusou a visita: **3**
 - em espera: **2**
@@ -54,6 +54,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Pinakotheke Cultural | coletada | texto de 14 página(s) |
 | Portas Vilaseca Galeria | coletada | texto de 6 página(s) |
 | Qualistage | coletada | texto de 11 página(s) |
+| Real Gabinete Português de Leitura | coletada | texto de 12 página(s) |
 | Rio Scenarium | coletada | texto de 2 página(s) |
 | Sala Cecília Meireles | coletada | texto de 12 página(s) |
 | Teatro Bangu Shopping | coletada | texto de 13 página(s) |
@@ -102,7 +103,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | É Tudo Verdade | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
 | Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
-| Real Gabinete Português de Leitura | não respondeu: URLError: <urlopen error timed out> |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
 | Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |
