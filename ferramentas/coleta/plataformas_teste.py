@@ -15,9 +15,12 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # quinta rodada (22/11/2026): campos de uma sessão da Ingresso.com (link de compra da sessão)
-    "ingresso": [
-        "https://api-content.ingresso.com/v0/sessions/city/2/theater/34?partnership=home",
+ALVOS = {  # sexta rodada (22/11/2026): Arte que Acontece (agenda de exposições; calendário WordPress?)
+    "arteacontece": [
+        "https://artequeacontece.com.br/robots.txt",
+        "https://artequeacontece.com.br/wp-json/tribe/events/v1/events?per_page=50&categories=rio-de-janeiro&start_date=2026-11-22",
+        "https://artequeacontece.com.br/wp-json/tribe/events/v1/categories?per_page=50",
+        "https://artequeacontece.com.br/eventos/category/rio-de-janeiro/",
     ],
 }
 
