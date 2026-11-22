@@ -6996,6 +6996,103 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Organizador: Sesi RJ.",
+   "aviso": "dias",
+   "titulo": "O Sonho de Ícaro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"O Sonho de Ícaro\" em cartaz no Teatro Firjan SESI Centro até 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128513",
+   "trecho_fonte": "2026-11-19 19:00 até 2026-12-20 17:00 | O SONHO DE ÍCARO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1 | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128513",
+   "id": "f-38ba6a7f25",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-04",
      "hora": "19:00"
     },
@@ -7264,6 +7361,55 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-25",
+     "hora": "14:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "14:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "14:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "14:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação nem o tipo de festival. Horário de abertura (14h) aplicado a todos os dias; 21h parece ser o encerramento.",
+   "aviso": "dias",
+   "titulo": "Festival Arpoarte 2026",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Armazéns 3 e 4 do Píer Mauá",
+   "endereco": "Avenida Rodrigues Alves",
+   "bairro": "Centro (Praça Mauá)",
+   "regiao": "Centro",
+   "sinopse": "Festival Arpoarte nos armazéns 3 e 4 do Píer Mauá, de 25 a 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
+   "trecho_fonte": "2026-11-25 14:00 até 2026-11-29 21:00 | FESTIVAL ARPOARTE 2026 | Armazém 3 e 4  - Pier Mauá, Avenida Rodrigues Alves Praça Mauá | organizador: FESTIVAL ARPOARTE 2026 | https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
+   "id": "f-474fbba1fc",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-26",
      "hora": "19:00"
     }
@@ -7463,6 +7609,43 @@
    "link": "https://www.sympla.com.br/evento/quarteto-jequitiba-na-serie-vitrine-musical-unirio-no-saguao-do-ccjf-rj/3532443",
    "trecho_fonte": "2026-12-10 17:30 até 2026-12-10 18:30 | Quarteto Jequitibá na Série Vitrine Musical UNIRIO no Saguão do CCJF-RJ | Centro Cultural Justiça Federal, Avenida Rio Branco Centro | organizador: Sérgio Barrenechea | https://www.sympla.com.br/evento/quarteto-jequitiba-na-serie-vitrine-musical-unirio-no-saguao-do-ccjf-rj/3532443",
    "id": "f-51fccee40a",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "Antes que Termine",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Antes que Termine\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 25 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127411",
+   "trecho_fonte": "2026-11-11 20:00 até 2026-11-25 20:00 | Antes que Termine | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/127411",
+   "id": "f-54a5b61566",
    "entrou_em": "2026-11-22"
   },
   {
@@ -7962,6 +8145,56 @@
    "sessoes": [
     {
      "data": "2026-11-22",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Sintonia Dominó. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário; a fonte não diz.",
+   "aviso": "dias",
+   "titulo": "Lia e a Árvore da Montanha",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Gláucio Gill",
+   "endereco": "Praça Cardeal Arcoverde, s/nº",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Lia e a Árvore da Montanha\" em cartaz no Teatro Gláucio Gill, em Copacabana, às 16h, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
+   "trecho_fonte": "2026-11-14 16:00 até 2026-11-29 16:00 | Lia e a Árvore da Montanha | Teatro Gláucio Gill, Praça Cardeal Arcoverde Copacabana | organizador: Sintonia Dominó | https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
+   "id": "f-77a74481e4",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
      "hora": "15:00"
     }
    ],
@@ -8093,6 +8326,43 @@
    "link": "https://bileto.sympla.com.br/event/129077",
    "trecho_fonte": "2026-11-28 22:00 até 2026-11-28 22:00 | Palco Leopoldina apresenta: Antes de Mim - Projeto Na Ponta dos Pés | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/129077",
    "id": "f-87c5ee44d2",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Persona Produções. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.",
+   "aviso": "dias",
+   "titulo": "Cordélia Brasil",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Cordélia Brasil\" em cartaz no Teatro Glauce Rocha, no Centro, até 26 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/cordelia-brasil/3623959",
+   "trecho_fonte": "2026-11-05 19:00 até 2026-11-26 23:30 | Cordélia Brasil | Teatro Glauce Rocha, Avenida Rio Branco centro | organizador: Persona Produções | https://www.sympla.com.br/evento/cordelia-brasil/3623959",
+   "id": "f-897e83ed8a",
    "entrou_em": "2026-11-22"
   },
   {
@@ -8260,6 +8530,169 @@
    "link": "https://bileto.sympla.com.br/event/129895",
    "trecho_fonte": "2026-12-04 20:30 até 2026-12-04 20:30 | JHORDAN MATHEUS - Passando de Fase | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/129895",
    "id": "f-90cb83d106",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "Brás Cubas (Armazém Companhia de Teatro)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A Armazém Companhia de Teatro em temporada com \"Brás Cubas\" na Fundição Progresso, na Lapa, até 12 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
+   "trecho_fonte": "2026-11-19 19:00 até 2026-12-12 19:00 | BRÁS CUBAS (Armazém Companhia de Teatro) | Fundição Progresso, Rua dos Arcos Lapa | organizador: Espaço Armazém - Fundição Progresso | https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
+   "id": "f-913b8130f3",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Casa do Choro. Organizador: Casa do Choro. A sessão de 26/11 tem página própria na Sympla: https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621209.",
+   "aviso": "",
+   "titulo": "Orquestra Furiosa Portátil na Casa do Choro",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa do Choro",
+   "endereco": "Rua da Carioca, 38",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A Orquestra Furiosa Portátil celebra os 80 anos de Cristóvão Bastos na Casa do Choro, no Centro, em 25 e 26 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621204",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 20:00 | Orquestra Furiosa Portátil - Temporada 2026 - Cristovão Bastos 80 anos - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621204 || 2026-11-26 19:00 até 2026-11-26 20:00 | Orquestra Furiosa Portátil - Temporada 2026 - Cristovão Bastos 80 anos - Casa do Choro",
+   "id": "f-9253f75471",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "Senhorita Júlia, Pássaros em uma Mesma Gaiola",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126358",
+   "trecho_fonte": "2026-11-14 20:00 até 2026-11-29 20:00 | Senhorita Júlia, pássaros em uma mesma gaiola | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126358",
+   "id": "f-94d2c5ff86",
    "entrou_em": "2026-11-22"
   },
   {
@@ -8525,6 +8958,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO RIVAL.",
+   "aviso": "",
+   "titulo": "Azymuth: Águia Não Come Mosca e Grandes Clássicos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "O Azymuth faz show especial com o repertório de \"Águia Não Come Mosca\" e clássicos, com abertura do Vanessa Rodrigues Organ Trio, no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/124326",
+   "trecho_fonte": "2026-11-26 19:30 até 2026-11-26 19:30 | AZYMUTH – ESPECIAL “ÁGUIA NÃO COME MOSCA E GRANDES CLÁSSICOS  Show de abertura: Vanessa Rodrigues Organ Trio | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/124326",
+   "id": "f-a2c07e1696",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-02",
      "hora": "19:00"
     }
@@ -8552,6 +9018,51 @@
    "link": "https://bileto.sympla.com.br/event/130520",
    "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 19:00 | CINECLUBE CARLOS GOMES # 6 :  Macumbaria +  Arruma um Pessoal pra Gente Botar uma Macumba num Disco | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130520",
    "id": "f-a2c6e8e1a7",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "Descalços no Parque",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Clara Nunes",
+   "endereco": "Rua Marquês de São Vicente, 52, loja 370",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Descalços no Parque\" em cartaz no Teatro Clara Nunes, na Gávea, até 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/117119",
+   "trecho_fonte": "2026-11-21 20:00 até 2026-11-28 20:00 | Descalços no Parque | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370 | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/117119",
+   "id": "f-a3a00c3382",
    "entrou_em": "2026-11-22"
   },
   {
@@ -9032,6 +9543,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "Lisandra na Mesa de Jantar",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Lisandra na Mesa de Jantar\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 26 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129512",
+   "trecho_fonte": "2026-11-05 20:00 até 2026-11-26 20:00 | Lisandra na Mesa de Jantar | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/129512",
+   "id": "f-b29d9de2c6",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "17:00"
     },
@@ -9066,6 +9614,103 @@
    "link": "https://www.sympla.com.br/evento/peca-para-os-homens-rio-de-janeiro-dia-unico-25-de-novembro-com-3-sessoes-17h-19h-e-21h/3654723",
    "trecho_fonte": "2026-11-25 17:00 até 2026-11-25 21:00 | PEÇA PARA OS HOMENS RIO DE JANEIRO DIA ÚNICO: 25 DE NOVEMBRO, COM 3 SESSÕES: 17h, 19h e 21h | Axia Marina da Glória, Avenida Infante Dom Henrique  | organizador: Natasha Corbelino | https://www.sympla.com.br/evento/peca-para-os-homens-rio-de-janeiro-dia-unico-25-de-novembro-com-3-sessoes-17h-19h-e-21h/3654723",
    "id": "f-b49a9fecf5",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte avisa que não é permitida a entrada após o início.",
+   "aviso": "dias",
+   "titulo": "O que Meu Peito Carrega Sobre Mim",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeira",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "\"O que Meu Peito Carrega Sobre Mim\" em cartaz no Teatro Poeira, em Botafogo, até 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129151",
+   "trecho_fonte": "2026-11-14 20:00 até 2026-12-20 19:00 | O que meu peito carrega sobre mim - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/129151",
+   "id": "f-b6ff10b271",
    "entrou_em": "2026-11-22"
   },
   {
@@ -9139,6 +9784,56 @@
    "link": "https://www.sympla.com.br/evento/simplesmente-maysa-homenagem-aos-90-anos/3649840",
    "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 20:00 | Simplesmente Maysa: homenagem aos 90 anos | Espaço Cenáculo, Rua Almirante Tamandaré Flamengo | organizador: Luana Suares",
    "id": "f-b9f598d320",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título (obra conhecida do repertório infantil) e pelo horário.",
+   "aviso": "dias",
+   "titulo": "Os Saltimbancos",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Montagem de \"Os Saltimbancos\" em cartaz no Teatro Cândido Mendes, em Ipanema, às 17h, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126898",
+   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | OS SALTIMBANCOS | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126898",
+   "id": "f-beb283b529",
    "entrou_em": "2026-11-22"
   },
   {
@@ -9440,6 +10135,176 @@
    "link": "https://www.sympla.com.br/evento/25-11-corpocabeca-rj-grandiosa-ch-mx-danca-a-deriva-edicao-rj/3651123",
    "trecho_fonte": "2026-11-25 18:00 até 2026-11-25 20:30 | 25/11 | CorpoCabeça (RJ) // GRANDIOSA (CH/MX) | Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS",
    "id": "f-c8571452d5",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Vanucci. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não confirma que Rogério Koury é pianista; inferido pelo título.",
+   "aviso": "dias",
+   "titulo": "Piano em Cena – Rogério Koury",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Piano em Cena\", com Rogério Koury, em temporada no Teatro Vanucci, na Gávea, até 15 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/122438",
+   "trecho_fonte": "2026-10-28 20:00 até 2026-12-15 20:00 | PIANO EM CENA – ROGÉRIO KOURY | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371 | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/122438",
+   "id": "f-c949923f2e",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-16",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte avisa que não é permitida a entrada após o início.",
+   "aviso": "dias",
+   "titulo": "As Coisas que me Tiram o Sono",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeira",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "\"As Coisas que me Tiram o Sono\" em cartaz no Teatro Poeira, em Botafogo, até 16 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128599",
+   "trecho_fonte": "2026-11-03 20:00 até 2026-12-16 20:00 | As coisas que me tiram o sono - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/128599",
+   "id": "f-cad0eb95eb",
    "entrou_em": "2026-11-22"
   },
   {
@@ -9805,6 +10670,56 @@
    "id": "f-d2eac34399",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TABLADO. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário.",
+   "aviso": "dias",
+   "titulo": "A Bruxinha que Era Boa",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro O Tablado",
+   "endereco": "Avenida Lineu de Paula Machado, 795",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Montagem de \"A Bruxinha que Era Boa\" em cartaz no Tablado, no Jardim Botânico, às 17h, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/123789",
+   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | A Bruxinha que era boa | Teatro O Tablado., Avenida Lineu de Paula Machado, 795 | organizador: TABLADO | https://bileto.sympla.com.br/event/123789",
+   "id": "f-d4254bc016",
+   "entrou_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -10298,6 +11213,55 @@
    "link": "https://feverup.com/m/637531",
    "trecho_fonte": "2026-12-10 19:00 até 2026-12-27 17:00 | Ballet -  “O Quebra Nozes” | Theatro Municipal do Rio de Janeiro, Praça Floriano, S/N - Centro [...] | a partir de R$ 10 | datas: 2026-12-10 19:00; 2026-12-11 19:00; 2026-12-12 19:00; 2026-12-13 17:00; 2026-12-16 19:00; 2026-12-17 19:00; 2026-12-18 19:00; 2026-12-19 19:00; 2026-12-20 17:00; 2026-12-22 19:00 || ATENÇÃO! Não será permitido o acesso de espectadores à Sala de Espetáculos após o início da apresentação",
    "id": "f-e7300b7d46",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.",
+   "aviso": "dias",
+   "titulo": "Nhá Eva",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Companhia de Teatro Contemporâneo",
+   "endereco": "Rua Conde de Irajá",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Nhá Eva\" em cartaz na Companhia de Teatro Contemporâneo, em Botafogo, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/nha-eva/3614258",
+   "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258",
+   "id": "f-e7b56859d2",
    "entrou_em": "2026-11-22"
   },
   {
