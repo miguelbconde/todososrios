@@ -105,6 +105,7 @@ def ingresso():
                         data = (s.get("date") or {}).get("localDate", "")[:10]
                         sessoes.append({
                             "cinema_id": cid, "filme_id": fid, "data": data, "hora": s.get("time", ""),
+                            "sessao_id": str(s.get("id") or ""),
                             "sala": s.get("room") or sala.get("name", ""), "preco": s.get("price"),
                             "tipos": [t for t in s.get("type", []) if t],
                         })

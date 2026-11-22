@@ -76,7 +76,10 @@ def main(edicao, caminho):
         sess, vistos = [], set()
         for s in ss:
             if (s["data"], s["hora"]) not in vistos:
-                vistos.add((s["data"], s["hora"])); sess.append({"data": s["data"], "hora": s["hora"]})
+                vistos.add((s["data"], s["hora"]))
+                # link de compra da sessão, limpo (sem o código de parceria que a plataforma acrescenta)
+                sess.append({"data": s["data"], "hora": s["hora"]} | (
+                    {"compra": f"https://checkout.ingresso.com/?sessionId={s['sessao_id']}"} if s.get("sessao_id", "").isdigit() else {}))
         precos = sorted({s["preco"] for s in ss if isinstance(s.get("preco"), (int, float)) and s["preco"] > 0})
         if precos:
             texto = reais(precos[0]) if len(precos) == 1 else f"{reais(precos[0])} a {reais(precos[-1])}"
