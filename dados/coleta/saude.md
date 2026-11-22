@@ -2,9 +2,9 @@
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-22 10:29 UTC
-- Lidas com datas: **53** de 91 visitadas
-- não respondeu: 19
+- Feita em: 2026-11-22 10:45 UTC
+- Lidas com datas: **52** de 91 visitadas
+- não respondeu: 20
 - coletada, mas sem datas à vista: 14
 - recusou a visita: 3
 - em espera: 2

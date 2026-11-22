@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-22 10:29 UTC",
- "segundos": 174,
+ "feito_em": "2026-11-22 10:45 UTC",
+ "segundos": 179,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40955,
+   "caracteres": 40944,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -138,7 +138,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 290,
+   "caracteres": 270,
    "url_final": "https://www.caixacultural.gov.br/Paginas/default.aspx",
    "paginas": [
     "https://www.caixacultural.gov.br/Paginas/default.aspx"
@@ -160,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9648,
+   "caracteres": 9567,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 38528,
+   "caracteres": 37820,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 318,
+   "mencoes_de_data": 322,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -321,7 +321,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 36588,
+   "caracteres": 36578,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -337,7 +337,7 @@
     "http://www.abi.org.br/institucional/direcao/conselho-fiscal/",
     "http://www.abi.org.br/institucional/direcao/comissoes/"
    ],
-   "mencoes_de_data": 8,
+   "mencoes_de_data": 9,
    "situacao": "coletada",
    "arquivo": "F028.txt"
   },
@@ -541,28 +541,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 12 página(s)"
-   ],
-   "caracteres": 31454,
-   "url_final": "https://www.realgabinete.com.br",
-   "paginas": [
-    "https://www.realgabinete.com.br",
-    "https://www.realgabinete.com.br/Agenda",
-    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
-    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
-   ],
-   "mencoes_de_data": 4,
-   "situacao": "coletada",
-   "arquivo": "F049.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -804,7 +785,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6868,
+   "caracteres": 6873,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1576,7 +1557,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1764,
+   "caracteres": 1706,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1829,7 +1810,7 @@
     "dados estruturados (1 eventos)",
     "texto de 6 página(s)"
    ],
-   "caracteres": 15457,
+   "caracteres": 15756,
    "url_final": "https://museubispodorosario.com",
    "paginas": [
     "https://museubispodorosario.com",
@@ -2079,7 +2060,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63237,
+   "caracteres": 63256,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
