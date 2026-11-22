@@ -2,11 +2,11 @@
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-22 13:03 UTC
-- Lidas com datas: **52** de 89 visitadas
+- Feita em: 2026-11-22 13:36 UTC
+- Lidas com datas: **53** de 89 visitadas
 - não respondeu: 19
 - coletada, mas sem datas à vista: 14
-- recusou a visita: 4
+- recusou a visita: 3
 
 ## Plataformas de ingresso
 

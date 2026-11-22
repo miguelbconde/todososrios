@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-22 13:03 UTC",
- "segundos": 182,
+ "feito_em": "2026-11-22 13:36 UTC",
+ "segundos": 176,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40937,
+   "caracteres": 40863,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37677,
+   "caracteres": 37828,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 320,
+   "mencoes_de_data": 324,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -671,9 +671,22 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "recusou a visita (código 522)"
+   "degraus": [
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 8238,
+   "url_final": "https://teatrorivalrefit.com.br",
+   "paginas": [
+    "https://teatrorivalrefit.com.br",
+    "https://teatrorivalrefit.com.br/eventos/",
+    "https://teatrorivalrefit.com.br/",
+    "https://teatrorivalrefit.com.br/page/2/",
+    "https://teatrorivalrefit.com.br/page/3/",
+    "https://teatrorivalrefit.com.br/page/60/"
+   ],
+   "mencoes_de_data": 43,
+   "situacao": "coletada",
+   "arquivo": "F062.txt"
   },
   {
    "ids": [
@@ -791,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6870,
+   "caracteres": 6877,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -813,7 +826,7 @@
    "degraus": [
     "texto de 3 página(s)"
    ],
-   "caracteres": 4332,
+   "caracteres": 4225,
    "url_final": "https://bluenoterio.com.br",
    "paginas": [
     "https://bluenoterio.com.br",
@@ -1530,7 +1543,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 2087,
+   "caracteres": 1729,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1538,7 +1551,7 @@
     "https://silviacintra.com.br/en/exhibitions/",
     "https://silviacintra.com.br/exposicoes/o-silencio/"
    ],
-   "mencoes_de_data": 1,
+   "mencoes_de_data": 0,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F112.txt"
   },
@@ -2033,7 +2046,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63270,
+   "caracteres": 63325,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2087,7 +2100,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
