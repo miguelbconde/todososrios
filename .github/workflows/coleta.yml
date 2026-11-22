@@ -32,7 +32,8 @@ jobs:
         run: |
           python3 ferramentas/coleta/plataformas.py coleta-bruta && python3 ferramentas/coleta/triagem_sympla.py coleta-bruta || echo "extração das plataformas falhou; a ronda segue"
       - name: Agendas dedicadas (Sesc RJ e Arte que Acontece)
-        run: python3 ferramentas/coleta/agendas.py coleta-bruta || echo "ALARME: as agendas dedicadas (Sesc, Arte que Acontece) falharam" >> alarmes.txt
+        run: |
+          python3 ferramentas/coleta/agendas.py coleta-bruta || echo "ALARME: as agendas dedicadas (Sesc, Arte que Acontece) falharam" >> alarmes.txt
       - name: Guardar o texto bruto num ramo temporário (fora do site e da linha principal; substituído a cada ronda)
         run: |
           cd coleta-bruta
