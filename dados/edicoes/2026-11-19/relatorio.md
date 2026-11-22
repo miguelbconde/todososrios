@@ -1,13 +1,13 @@
 # Relatório da edição — Programação de hoje até 21 de janeiro de 2027
 
-- Eventos e exposições: **694** (648 eventos com 6558 sessões; 46 em cartaz)
+- Eventos e exposições: **711** (665 eventos com 6675 sessões; 46 em cartaz)
 - Grátis: **54** · preço popular (até R$ 40): **81**
-- Conferidos sem ressalva: **683** · a confirmar: **11**
+- Conferidos sem ressalva: **700** · a confirmar: **11**
 
 ## Distribuição por região
 
-- Centro: 91
-- Zona Sul: 191
+- Centro: 97
+- Zona Sul: 202
 - Zona Sudoeste: 164
 - Zona Norte: 187
 - Zona Oeste: 61
@@ -92,8 +92,11 @@
 - [baixa] **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** (2026-11-19-163) — Preço não informado na fonte
 - [media] **Ensaio de rua da Imperatriz Leopoldinense** (2026-11-19-176) — Link oficial ausente
 - [baixa] **Roda de Samba do Vinny Santa Fé** (f-71017228ea) — Preço não informado na fonte
+- [baixa] **Lia e a Árvore da Montanha** (f-77a74481e4) — Preço não informado na fonte
 - [baixa] **Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá** (f-bed416f1da) — Preço não informado na fonte
 - [media] **Ensaio de rua da Estação Primeira de Mangueira** (2026-11-19-177) — Link oficial ausente
+- [baixa] **Os Saltimbancos** (f-beb283b529) — Preço não informado na fonte
+- [baixa] **A Bruxinha que Era Boa** (f-d4254bc016) — Preço não informado na fonte
 - [baixa] **Pé do Meu Samba, a Roda – 2ª edição** (f-f62f029adb) — Preço não informado na fonte
 - [media] **Ensaio de rua da Portela** (2026-11-19-178) — Link oficial ausente
 - [baixa] **Um Homem Célebre** (f-a9155630c6) — Preço não informado na fonte
@@ -103,11 +106,22 @@
 - [baixa] **Confissões de Adolescente – o musical** (2026-11-19-142) — Preço não informado na fonte
 - [baixa] **O Mercador de Veneza** (2026-11-19-148) — Preço não informado na fonte
 - [baixa] **Adorável Face de Andronieva Petrosa** (2026-11-19-151) — Preço não informado na fonte
+- [baixa] **O Sonho de Ícaro** (f-38ba6a7f25) — Preço não informado na fonte
+- [baixa] **Cordélia Brasil** (f-897e83ed8a) — Preço não informado na fonte
+- [baixa] **Brás Cubas (Armazém Companhia de Teatro)** (f-913b8130f3) — Preço não informado na fonte
 - [baixa] **Gessica Ferreira: Hitch – Conselheira Amorosa** (f-c41d054710) — Preço não informado na fonte
 - [baixa] **Algoritmo** (f-5157b0c813) — Preço não informado na fonte
+- [baixa] **Antes que Termine** (f-54a5b61566) — Preço não informado na fonte
+- [baixa] **Senhorita Júlia, Pássaros em uma Mesma Gaiola** (f-94d2c5ff86) — Preço não informado na fonte
+- [baixa] **Descalços no Parque** (f-a3a00c3382) — Preço não informado na fonte
 - [baixa] **Minha Vó Ri** (f-a8b365287d) — Preço não informado na fonte
 - [alta] **Minha Vó Ri** (f-a8b365287d) — Possível duplicata de 2026-11-19-001
+- [baixa] **Lisandra na Mesa de Jantar** (f-b29d9de2c6) — Preço não informado na fonte
+- [baixa] **O que Meu Peito Carrega Sobre Mim** (f-b6ff10b271) — Preço não informado na fonte
 - [baixa] **Vozes do Brasil: Bossa & Outras Bossas** (f-c762369089) — Preço não informado na fonte
+- [baixa] **Piano em Cena – Rogério Koury** (f-c949923f2e) — Preço não informado na fonte
+- [baixa] **As Coisas que me Tiram o Sono** (f-cad0eb95eb) — Preço não informado na fonte
+- [baixa] **Nhá Eva** (f-e7b56859d2) — Preço não informado na fonte
 - [baixa] **Moacyr Luz e Samba do Trabalhador** (f-9b5a6ff868) — Preço não informado na fonte
 - [baixa] **Lançamento: Migrantes da Descolonização** (2026-11-19-134) — Preço não informado na fonte
 - [baixa] **Lançamento: Ministério do Tempo Livre – um manifesto** (2026-11-19-154) — Preço não informado na fonte
@@ -131,6 +145,7 @@
 - [baixa] **Jazz em dobro: Michael Jackson & Stevie Wonder** (f-3c83d02223) — Preço não informado na fonte
 - [baixa] **Priscilla com 2L: A Cara da Mãe e o P*u do Pai** (f-8d66714315) — Preço não informado na fonte
 - [baixa] **Game Drag Show com Samara Rios** (f-a4b33a2570) — Preço não informado na fonte
+- [baixa] **Festival Arpoarte 2026** (f-474fbba1fc) — Preço não informado na fonte
 - [baixa] **Encontro literário Lia Benchimol: Wabi Sabi** (2026-11-19-157) — Preço não informado na fonte
 - [baixa] **Peça para os Homens** (f-b49a9fecf5) — Preço não informado na fonte
 - [baixa] **Dança à Deriva: CorpoCabeça (RJ) e Grandiosa (CH/MX)** (f-c8571452d5) — Preço não informado na fonte
@@ -140,6 +155,7 @@
 - [baixa] **Violões em Copa: Marco Lima e Almir Côrtes** (f-04136f3901) — Preço não informado na fonte
 - [baixa] **Amanda Mendonça canta Djavan** (f-758966ed18) — Preço não informado na fonte
 - [alta] **Amanda Mendonça canta Djavan** (f-758966ed18) — Possível duplicata de 2026-11-19-061
+- [baixa] **Orquestra Furiosa Portátil na Casa do Choro** (f-9253f75471) — Preço não informado na fonte
 - [baixa] **EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”** (f-a59e80521b) — Preço não informado na fonte
 - [baixa] **Simplesmente Maysa: homenagem aos 90 anos** (f-b9f598d320) — Preço não informado na fonte
 - [baixa] **Musubu – Grupo Rio Nikkei Taiko** (f-f0bac0d0f2) — Preço não informado na fonte
@@ -157,6 +173,7 @@
 - [baixa] **Zeppa: Na Voz do Compositor** (f-8f37410ce6) — Preço não informado na fonte
 - [baixa] **Gosto Amargo na Pele** (f-9c2207768d) — Preço não informado na fonte
 - [baixa] **1ª Mostra de Artes de Terreiro Os Ciclomáticos** (f-c21b141a4f) — Preço não informado na fonte
+- [baixa] **Azymuth: Águia Não Come Mosca e Grandes Clássicos** (f-a2c07e1696) — Preço não informado na fonte
 - [baixa] **Ariane Mathias: Rindo de Nervoso** (f-d219493664) — Preço não informado na fonte
 - [baixa] **Yuri Marçal: Macumbeiro** (f-db9886b6e6) — Preço não informado na fonte
 - [baixa] **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** (f-d2eac34399) — Preço não informado na fonte
@@ -313,11 +330,12 @@
 - **11/12**: O Quebra-Nozes; Jade Vitóriah: A Cor da Minha Voz; Gilsons; 16º Sarau Pretos Novos; Matheus Ceará; Procura-se Messias
 - **12/12**: Olhar para Dentro; O Quebra-Nozes; Cineclube Adélia Sampaio; Cores Sonoras; Procura-se Messias; Cuidado Quando For Falar de Mim
 - **13/12**: O Quebra-Nozes; El Corazón y Otros Frutos Amargos; Canela de Velho; Primeira Pessoa; Cuidado Quando For Falar de Mim; Dia de Jogo
-- **16/12**: O Quebra-Nozes; Primeira Pessoa
-- **17/12**: O Quebra-Nozes; Os Lobos 60 Anos; Dia de Jogo; Mesmo Rio; Hienas: Uma Comédia Tóxica
-- **18/12**: O Quebra-Nozes; Cantos de Força – 10 anos de Afrotelúricos; Dia de Jogo; Hienas: Uma Comédia Tóxica
-- **19/12**: O Quebra-Nozes; Dia de Jogo; Mesmo Rio; Hienas: Uma Comédia Tóxica
-- **20/12**: O Quebra-Nozes; Dia de Jogo; Mesmo Rio
+- **15/12**: Piano em Cena – Rogério Koury
+- **16/12**: O Quebra-Nozes; Primeira Pessoa; As Coisas que me Tiram o Sono
+- **17/12**: O Quebra-Nozes; Os Lobos 60 Anos; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio; O Sonho de Ícaro
+- **18/12**: O Quebra-Nozes; Cantos de Força – 10 anos de Afrotelúricos; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; O Sonho de Ícaro; Hienas: Uma Comédia Tóxica
+- **19/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio; O Sonho de Ícaro; Hienas: Uma Comédia Tóxica
+- **20/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio; O Sonho de Ícaro
 - **22/12**: O Quebra-Nozes
 
 Regras de curadoria:
@@ -375,10 +393,13 @@ Regras de curadoria:
 - **Ensaio de rua da Imperatriz Leopoldinense** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Candlelight: Queen & ABBA** — Só a Fever tem o evento. Na edição, apenas a sessão de 22/11; a próxima listada é 30/01/2027. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Roda de Samba do Vinny Santa Fé** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **Lia e a Árvore da Montanha** — A listagem da Sympla não informa preço nem classificação. organizador: Sintonia Dominó. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário; a fonte não diz.
 - **Cadê o Sobrevento?** — Libras indicada só na sessão de 22/11. Classificação livre.
 - **Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Entre o Sim e o Nunca** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Ensaio de rua da Estação Primeira de Mangueira** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Os Saltimbancos** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título (obra conhecida do repertório infantil) e pelo horário.
+- **A Bruxinha que Era Boa** — A listagem da Sympla não informa preço nem classificação. organizador: TABLADO. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário.
 - **Pé do Meu Samba, a Roda – 2ª edição** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **La Strada – Os Que Vieram Antes de Nós** — Sessões novas da agenda oficial do Sesc (ronda de 22/11). A sessão de 19/11 veio da ronda anterior.
 - **Ensaio de rua da Portela** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
@@ -392,10 +413,21 @@ Regras de curadoria:
 - **Confissões de Adolescente – o musical** — A fonte não informa o preço.
 - **O Mercador de Veneza** — A coleta não trouxe o preço.
 - **Adorável Face de Andronieva Petrosa** — A coleta não trouxe o preço.
+- **O Sonho de Ícaro** — A listagem da Sympla não informa preço nem classificação. organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Organizador: Sesi RJ.
+- **Cordélia Brasil** — A listagem da Sympla não informa preço nem classificação. organizador: Persona Produções. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.
+- **Brás Cubas (Armazém Companhia de Teatro)** — A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
 - **Gessica Ferreira: Hitch – Conselheira Amorosa** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero da apresentação; o título sugere humor.
 - **Algoritmo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo palco.
+- **Antes que Termine** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
+- **Senhorita Júlia, Pássaros em uma Mesma Gaiola** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
+- **Descalços no Parque** — A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
 - **Minha Vó Ri** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo palco.
+- **Lisandra na Mesa de Jantar** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
+- **O que Meu Peito Carrega Sobre Mim** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte avisa que não é permitida a entrada após o início.
 - **Vozes do Brasil: Bossa & Outras Bossas** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço repetido da ficha do mesmo espaço na base. A listagem não diz a formação.
+- **Piano em Cena – Rogério Koury** — A listagem da Sympla não informa preço nem classificação. organizador: Teatro Vanucci. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não confirma que Rogério Koury é pianista; inferido pelo título.
+- **As Coisas que me Tiram o Sono** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte avisa que não é permitida a entrada após o início.
+- **Nhá Eva** — A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.
 - **Moacyr Luz e Samba do Trabalhador** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Lançamento: Migrantes da Descolonização** — A fonte não informa preço.
 - **Lançamento: Ministério do Tempo Livre – um manifesto** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
@@ -420,6 +452,7 @@ Regras de curadoria:
 - **Jazz em dobro: Michael Jackson & Stevie Wonder** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não diz quem se apresenta.
 - **Priscilla com 2L: A Cara da Mãe e o P*u do Pai** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Game Drag Show com Samara Rios** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço repetido da ficha do mesmo espaço na base. Área escolhida pelo formato de espetáculo; a listagem não detalha.
+- **Festival Arpoarte 2026** — A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação nem o tipo de festival. Horário de abertura (14h) aplicado a todos os dias; 21h parece ser o encerramento.
 - **Encontro literário Lia Benchimol: Wabi Sabi** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Peça para os Homens** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Horários das três sessões tirados do título do evento. A fonte não dá o número do endereço; bairro pelo nome do local.
 - **Oficina de Carimbó – Cultura e Ancestralidade Amazônida** — Oficina gratuita e aberta; a fonte não diz se há inscrição prévia.
@@ -431,6 +464,7 @@ Regras de curadoria:
 - **Lançamento: Mistérios sob o Céu de Alcântara** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Violões em Copa: Marco Lima e Almir Côrtes** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). 
 - **Amanda Mendonça canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Orquestra Furiosa Portátil na Casa do Choro** — A listagem da Sympla não informa preço nem classificação. organizador: Casa do Choro. Organizador: Casa do Choro. A sessão de 26/11 tem página própria na Sympla: https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621209.
 - **EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Simplesmente Maysa: homenagem aos 90 anos** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem canta.
 - **Musubu – Grupo Rio Nikkei Taiko** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). 
@@ -448,6 +482,7 @@ Regras de curadoria:
 - **Zeppa: Na Voz do Compositor** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Gosto Amargo na Pele** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco.
 - **1ª Mostra de Artes de Terreiro Os Ciclomáticos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação da mostra.
+- **Azymuth: Águia Não Come Mosca e Grandes Clássicos** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO RIVAL.
 - **Ariane Mathias: Rindo de Nervoso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.
 - **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** — A listagem da Sympla não informa preço nem classificação. organizador: IICRio. Organizador: Istituto Italiano di Cultura.

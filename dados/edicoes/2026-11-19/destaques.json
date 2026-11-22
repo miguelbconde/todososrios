@@ -436,6 +436,13 @@
     "automatico": true
    }
   ],
+  "2026-12-15": [
+   {
+    "id": "f-c949923f2e",
+    "porque": "Em Gávea.",
+    "automatico": true
+   }
+  ],
   "2026-12-16": [
    {
     "id": "f-e7300b7d46",
@@ -445,6 +452,11 @@
    {
     "id": "f-abe3a23c33",
     "porque": "Em Leblon.",
+    "automatico": true
+   },
+   {
+    "id": "f-cad0eb95eb",
+    "porque": "Em Botafogo.",
     "automatico": true
    }
   ],
@@ -460,6 +472,11 @@
     "automatico": true
    },
    {
+    "id": "f-b6ff10b271",
+    "porque": "Em Botafogo.",
+    "automatico": true
+   },
+   {
     "id": "f-176da8f5f3",
     "porque": "Em Centro.",
     "automatico": true
@@ -470,7 +487,7 @@
     "automatico": true
    },
    {
-    "id": "f-4e91eb3d3d",
+    "id": "f-38ba6a7f25",
     "porque": "Em Centro.",
     "automatico": true
    }
@@ -487,7 +504,17 @@
     "automatico": true
    },
    {
+    "id": "f-b6ff10b271",
+    "porque": "Em Botafogo.",
+    "automatico": true
+   },
+   {
     "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-38ba6a7f25",
     "porque": "Em Centro.",
     "automatico": true
    },
@@ -504,6 +531,11 @@
     "automatico": true
    },
    {
+    "id": "f-b6ff10b271",
+    "porque": "Em Botafogo.",
+    "automatico": true
+   },
+   {
     "id": "f-176da8f5f3",
     "porque": "Em Centro.",
     "automatico": true
@@ -511,6 +543,11 @@
    {
     "id": "f-345c3d2ed6",
     "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-38ba6a7f25",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
@@ -526,6 +563,11 @@
     "automatico": true
    },
    {
+    "id": "f-b6ff10b271",
+    "porque": "Em Botafogo.",
+    "automatico": true
+   },
+   {
     "id": "f-176da8f5f3",
     "porque": "Em Centro.",
     "automatico": true
@@ -533,6 +575,11 @@
    {
     "id": "f-345c3d2ed6",
     "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-38ba6a7f25",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -591,6 +638,7 @@
   "2026-12-11",
   "2026-12-12",
   "2026-12-13",
+  "2026-12-15",
   "2026-12-16",
   "2026-12-17",
   "2026-12-18",
