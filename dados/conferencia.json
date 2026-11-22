@@ -544,6 +544,22 @@
    "veredito": "duvida",
    "detalhe": "O endereço da ficha está certo, mas a nota erra ao dizer que ele não está no texto coletado: F013 traz \"Biblioteca Parque Estadual Av. Pres. Vargas, 1261 – Centro, Rio de Janeiro – RJ, 20071-004\".",
    "resolucao": "Corrigido: a nota estava errada; o endereço consta na fonte e entrou no trecho."
+  },
+  {
+   "id": "f-f29bb7524a",
+   "titulo": "CEP 20.000",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A listagem da Sympla não diz o que é a programação; áreas escolhidas pelo histórico do evento.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-f29bb7524a",
+   "titulo": "CEP 20.000",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Sinopse dizia que a programação era do próprio espaço, o que a fonte não diz.",
+   "resolucao": "Corrigido: frase retirada."
   }
  ]
 }

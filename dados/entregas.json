@@ -4,6 +4,22 @@
    "data": "2026-11-19",
    "fichas": 178,
    "origem": "migração da edição de 19/11"
+  },
+  {
+   "data": "2026-11-22",
+   "novas": 19,
+   "corrigidas": 0,
+   "recusadas": [],
+   "removidas": 0,
+   "nota": "Redação diária de 22/11: 19 fichas da Sympla (só pela listagem; páginas dos eventos bloqueadas), 25 fichas automáticas revistas sem vetos."
+  },
+  {
+   "data": "2026-11-22",
+   "novas": 0,
+   "corrigidas": 0,
+   "recusadas": [],
+   "removidas": 0,
+   "nota": "Ajuste de A boa de 24/11 para cumprir a regra de 3 áreas."
   }
  ]
 }

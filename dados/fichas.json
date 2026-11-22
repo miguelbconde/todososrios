@@ -5893,6 +5893,618 @@
    "nota_redacao": "Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.",
    "id": "2026-11-19-178",
    "entrou_em": "2026-11-19"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). ",
+   "titulo": "Violões em Copa: Marco Lima e Almir Côrtes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Abu",
+   "endereco": "Avenida Nossa Senhora de Copacabana, 249, loja E",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Encontro de violões com Marco Lima e Almir Côrtes no Espaço Abu, em Copacabana.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129507",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 19:00 | Violões em Copa  Marco Lima e Almir Côrtes | Espaço Abu, Av. Nossa Sra. de Copacabana,249 - Loja E  | organizador: ESPACO ABU",
+   "id": "f-04136f3901",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Espetáculo “Descoberta das Américas” e lançamento do livro “Descobrimento”",
+   "areas": [
+    "Livros & Debates",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "No Instituto Italiano de Cultura, apresentação do espetáculo “Descoberta das Américas” e lançamento do livro “Descobrimento”.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/espetaculo-descoberta-das-americas-e-lancamento-do-livro-descobrimento/3627320",
+   "trecho_fonte": "2026-11-24 18:00 até 2026-11-24 20:00 | Espetáculo Descoberta das Américas e lançamento do livro \"DESCOBRIMENTO\" | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio",
+   "id": "f-08c1e2974f",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro deduzido do endereço.",
+   "titulo": "Anna Ratto",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Manouche",
+   "endereco": "Rua Jardim Botânico, 983",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Anna Ratto no Manouche, no Jardim Botânico.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129279",
+   "trecho_fonte": "2026-11-25 20:30 até 2026-11-25 20:30 | Anna Ratto | Manouche, R. Jardim Botânico,983  | organizador: MIRANDA RESTAURANTE E EVENTOS",
+   "id": "f-16fc963054",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro deduzido do endereço (Rua Álvaro Alvim, Cinelândia).",
+   "titulo": "Aldir Blanc – 80 anos: Guinga, Moacyr Luz e Zé Renato (data extra)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Show em homenagem aos 80 anos de Aldir Blanc com Guinga, Moacyr Luz e Zé Renato, em data extra no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/123830",
+   "trecho_fonte": "2026-11-25 19:30 até 2026-11-25 19:30 | ALDIR BLANC – 80 ANOS GUINGA, MOACYR LUZ E ZÉ RENATO DATA EXTRA! | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL",
+   "id": "f-30ea734113",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-23",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Samba, Livre, Leve e Solto, com Paulão 7 Cordas",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Glorioso Cultural",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Roda de samba comandada por Paulão 7 Cordas no Glorioso Cultural, no Catete, das 20h às 23h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-livre-leve-e-solto-comandado-por-paulao-7-cordas/3650523",
+   "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 23:30 | SAMBA, LIVRE, LEVE E SOLTO  -  Comandado por Paulão 7 Cordas | Glorioso Cultural, Rua do Catete Catete | organizador: Paulo Cesar Figueiredo",
+   "id": "f-54fb9840fe",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem a programação musical.",
+   "titulo": "Feijoada Clementiana – 65 anos da São Clemente",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Quadra da São Clemente",
+   "endereco": "Avenida Presidente Vargas",
+   "bairro": "Cidade Nova",
+   "regiao": "Centro",
+   "sinopse": "Feijoada na quadra da escola de samba São Clemente, na Cidade Nova, pelos 65 anos da agremiação, das 14h às 22h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/feijoada-clementiana-65-anos-da-sao-clemente/3650613",
+   "trecho_fonte": "2026-11-22 14:00 até 2026-11-22 22:00 | FEIJOADA CLEMENTIANA - 65 ANOS DA SÃO CLEMENTE | Quadra da São Clemente, Avenida Presidente Vargas Cidade Nova | organizador: G.R.E.S. São Clemente",
+   "id": "f-56e6ced95d",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço e bairro repetidos da ficha do mesmo local na base. Não marquei “na rua” porque a fonte não diz que é ao ar livre, embora o Passeio Público seja um jardim.",
+   "titulo": "Samba do Passeio",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Passeio Público",
+   "endereco": "Passeio Público",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Roda de samba de domingo no Passeio Público, no Centro, do meio-dia às 22h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-do-passeio-todo-domingo-tem/3660136",
+   "trecho_fonte": "2026-11-22 12:00 até 2026-11-22 22:00 | Samba do Passeio - Todo Domingo Tem! | Passeio Público, Rua do Passeio Lapa | organizador: Samba do Passeio",
+   "id": "f-6a919fb0d6",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-23",
+     "hora": "16:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Moacyr Luz e Samba do Trabalhador",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Renascença Clube",
+   "endereco": "Rua Barão de São Francisco",
+   "bairro": "Andaraí",
+   "regiao": "Zona Norte",
+   "sinopse": "Roda de samba de segunda-feira com Moacyr Luz e o Samba do Trabalhador no Renascença Clube, no Andaraí, das 16h30 às 21h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/moacyr-luz-e-samba-do-trabalhador-23-de-novembro/3657804",
+   "trecho_fonte": "2026-11-23 16:30 até 2026-11-23 21:30 | Moacyr Luz e Samba do Trabalhador - 23 de Novembro | Renascença Clube, Rua Barão de São Francisco Andaraí | organizador: Moacyr Luz e Samba do Trabalhador",
+   "id": "f-9b5a6ff868",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A EurAsia Dance Company apresenta as coreografias “Om Mani Padme Hum” e “Svarupa & Vyakta” no Instituto Italiano de Cultura.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/eurasia-dance-company-apresenta-om-mani-padme-hum-e-svarupa-vyakta/3608726",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 21:00 | EurAsia Dance Company apresenta 'Om Mani Padme Hum' e 'Svarupa & Vyakta' | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio",
+   "id": "f-a59e80521b",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "O Neguinho da Beija-Flor – Musical",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Dulcina",
+   "endereco": "Rua Alcindo Guanabara",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Sessão de domingo do musical “O Neguinho da Beija-Flor” no Teatro Dulcina, no Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/o-neguinho-da-beija-flor-musical/3646572",
+   "trecho_fonte": "2026-11-22 18:00 até 2026-11-22 19:50 | O Neguinho da Beija Flor - Musical | Teatro Dulcina, Rua Alcindo Guanabara Centro - rj | organizador: Lapilar Produções",
+   "id": "f-aa4f94a9ca",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem canta.",
+   "titulo": "Simplesmente Maysa: homenagem aos 90 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cenáculo",
+   "endereco": "Rua Almirante Tamandaré",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Homenagem aos 90 anos de Maysa no Espaço Cenáculo, no Flamengo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/simplesmente-maysa-homenagem-aos-90-anos/3649840",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 20:00 | Simplesmente Maysa: homenagem aos 90 anos | Espaço Cenáculo, Rua Almirante Tamandaré Flamengo | organizador: Luana Suares",
+   "id": "f-b9f598d320",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Tarde e noite de samba na Batuq, na Penha, com Saideiras Casuais, Marcelle Motta, Marina Iris e Quilombo de Irajá.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/saideiras-casuais-marcelle-motta-marina-iris-quilombo-de-iraja-na-batuq/3641988",
+   "trecho_fonte": "2026-11-22 16:00 até 2026-11-22 23:59 | SAIDEIRAS CASUAIS + MARCELLE MOTTA + MARINA IRIS + QUILOMBO DE IRAJÁ na BATUQ!!! | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba",
+   "id": "f-bed416f1da",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Dança à Deriva: CorpoCabeça (RJ) e Grandiosa (CH/MX)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cacilda Becker",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Dança à Deriva – Edição RJ, com CorpoCabeça (RJ) e Grandiosa (CH/MX), no Teatro Cacilda Becker, no Catete.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/25-11-corpocabeca-rj-grandiosa-ch-mx-danca-a-deriva-edicao-rj/3651123",
+   "trecho_fonte": "2026-11-25 18:00 até 2026-11-25 20:30 | 25/11 | CorpoCabeça (RJ) // GRANDIOSA (CH/MX) | Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS",
+   "id": "f-c8571452d5",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Choro Batucada",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Glorioso Cultural",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Choro Batucada no Glorioso Cultural, no Catete, na terça a partir das 19h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/choro-batucada-24-11/3661775",
+   "trecho_fonte": "2026-11-24 19:00 até 2026-11-25 00:00 | Choro Batucada 24/11 | Glorioso Cultural, Rua do Catete Catete | organizador: Choro Batucada",
+   "id": "f-d119469024",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte dá só “Avenida Rio Branco”, sem número. Título corrigido (a fonte grafa “Lançamentro”). Organizado por pessoa física.",
+   "titulo": "Lançamento do livro “Quando o Morro Tiver Vez no Rio de Janeiro”",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Lançamento do livro “Quando o Morro Tiver Vez no Rio de Janeiro” (2026), no Centro Cultural Justiça Federal, das 18h às 20h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/lancamentro-do-livro-quando-o-morro-tiver-vez-no-rio-de-janeiro-2026/3651233",
+   "trecho_fonte": "2026-11-25 18:00 até 2026-11-25 20:00 | Lançamentro do livro Quando o Morro Tiver Vez no Rio de Janeiro (2026) | Centro Cultural da Justiça Federal, Avenida Rio Branco Centro | organizador: Allan Borges Nogueira",
+   "id": "f-dbedc656f5",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro (Botafogo) deduzido do endereço; a fonte não o dá.",
+   "titulo": "Camerata de Violões convida Mauro Senise – 30 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Acaso Cultural",
+   "endereco": "Rua Vicente de Sousa, 16",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "A Camerata de Violões recebe Mauro Senise no Acaso Cultural, em Botafogo, em apresentação que marca 30 anos.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128627",
+   "trecho_fonte": "2026-11-22 18:30 até 2026-11-22 18:30 | Camerata de Violões convida Mauro Senise – 30 anos | Acaso Cultural, Rua Vicente de Sousa, 16  | organizador: ACASO CULTURAL",
+   "id": "f-f02c2c3296",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). ",
+   "titulo": "Musubu – Grupo Rio Nikkei Taiko",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Apresentação do espetáculo Musubu, do Grupo Rio Nikkei Taiko, no Teatro Firjan SESI Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128510",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 19:00 | MUSUBU – Grupo Rio Nikkei Taiko | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ",
+   "id": "f-f0bac0d0f2",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Organizador: Município do Rio (órgão público). Endereço repetido da ficha do mesmo espaço na base. Áreas escolhidas pelo histórico do evento (poesia e música); a listagem não detalha a programação.",
+   "titulo": "CEP 20.000",
+   "areas": [
+    "Livros & Debates",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sinopse": "Edição do CEP 20.000 no Espaço Cultural Municipal Sérgio Porto, na quarta à noite.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/117824",
+   "trecho_fonte": "2026-11-25 19:30 até 2026-11-25 19:30 | CEP 20.000 | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0  | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto",
+   "id": "f-f29bb7524a",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-23",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Marcos Ariel Quarteto",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Vinícius Show Bar",
+   "endereco": "Rua Vinícius de Moraes",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Show do Marcos Ariel Quarteto no Vinícius Show Bar, em Ipanema, das 20h às 22h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/marcos-ariel-quarteto/3641710",
+   "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 22:00 | Marcos Ariel Quarteto | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar",
+   "id": "f-fb442c15f2",
+   "entrou_em": "2026-11-22"
   }
  ]
 }
