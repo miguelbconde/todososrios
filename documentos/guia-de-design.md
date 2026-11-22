@@ -298,6 +298,8 @@ Ressalva registrada: o que mais diz "Rio" tende a ser a marca, ainda por desenha
 
 **Revisão da marca (19/11/2026, mesmo dia).** Depois de novos estudos (`docs/estudo-marca/fluxo.html` e `cotejo.html`), a coordenação editorial trocou o C pelo **E4: o nome num só fluxo, como no endereço**. "TODOSOSRIOS" em sem serifa pesada, caixa-alta e levemente espaçada, com "TODOSOS" mais claro (peso normal, 55% da cor do texto) e "RIOS" no peso máximo, seguido do ponto de sol. Contraste do trecho claro: 3,45:1 no modo claro e 4,29:1 no escuro, acima do mínimo de 3:1 para letra grande. Para leitores de tela, o link do logo se chama "Todos os Rios". Ajustes testados e recusados: "TODOSOS" na cor secundária e as duas partes na mesma cor. Por fim, ganhou um respiro entre as três palavras (cerca de um sexto de espaço, menor que um espaço normal), que ajuda a ler sem desfazer o fluxo (`docs/estudo-marca/espaco.html`).
 
+**Ícone de aplicativo (22/11/2026).** Para o site poder ser instalado no celular como aplicativo, o ícone é o "R." da marca: "R" na Source Serif 4 (peso 600) na cor do texto (`#2a2623`), ponto em cor de sol (`#d96c14`), sobre o fundo de areia (`#f8f4ec`), com folga nas bordas para caber também nos recortes redondos do Android. Desenhado em vetor a partir da própria fonte (sem depender dela instalada); arquivos em `docs/icones/`. Serve também de ícone da aba do navegador.
+
 **Passos seguintes, quando for a hora:**
 1. Dois ou três estudos da mesma tela (o dia de hoje, no celular), lado a lado.
 2. Medir contraste e testar com letra ampliada e leitor de tela.
