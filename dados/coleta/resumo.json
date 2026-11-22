@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-21 11:47 UTC",
- "segundos": 206,
+ "feito_em": "2026-11-22 08:22 UTC",
+ "segundos": 187,
  "fontes": [
   {
    "ids": [
@@ -12,9 +12,29 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 59262,
+   "url_final": "https://www.agentilcarioca.com.br/",
+   "paginas": [
+    "https://www.agentilcarioca.com.br/",
+    "https://www.agentilcarioca.com.br/contact/",
+    "https://www.agentilcarioca.com.br/exhibitions/",
+    "https://www.agentilcarioca.com.br/en/contact/",
+    "https://www.agentilcarioca.com.br/contact/equipe/",
+    "https://www.agentilcarioca.com.br/en/exhibitions/",
+    "https://www.agentilcarioca.com.br/exhibitions/location/1/",
+    "https://www.agentilcarioca.com.br/exhibitions/location/2/",
+    "https://www.agentilcarioca.com.br/exhibitions/150-vivian-caccuri-anatomy-of-presence-schauwerk-sindelfingen-sindelfingen-alemanha/",
+    "https://www.agentilcarioca.com.br/exhibitions/138-opavivara-imaginalivre-parque-cultural-casa-do-governador-vila-velha/",
+    "https://www.agentilcarioca.com.br/exhibitions/147-vivian-caccuri-selva-eletrica-caixa-cultural-de-brasilia-brasilia-brasil/",
+    "https://www.agentilcarioca.com.br/exhibitions/148-arjan-martins-o-gesto-do-poder-o-centro-cultural-do-patrimonio-paco-imperial-rio/",
+    "https://www.agentilcarioca.com.br/exhibitions/152-diego-kohli-danca-para-montanhas/"
+   ],
+   "mencoes_de_data": 104,
+   "situacao": "coletada",
+   "arquivo": "F001.txt"
   },
   {
    "ids": [
@@ -91,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40894,
+   "caracteres": 41032,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -140,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 8635,
+   "caracteres": 9567,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -175,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 38412,
+   "caracteres": 37797,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -191,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 325,
+   "mencoes_de_data": 326,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -383,7 +403,7 @@
     "feed (3 itens)",
     "texto de 1 página(s)"
    ],
-   "caracteres": 1542,
+   "caracteres": 5539,
    "url_final": "https://www.d-edge.com.br/",
    "paginas": [
     "https://www.d-edge.com.br/"
@@ -417,7 +437,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 26451,
+   "caracteres": 26527,
    "url_final": "https://fundicaoprogresso.com.br",
    "paginas": [
     "https://fundicaoprogresso.com.br",
@@ -464,7 +484,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 8467,
+   "caracteres": 8464,
    "url_final": "https://www.riocarnaval.com/",
    "paginas": [
     "https://www.riocarnaval.com/",
@@ -651,9 +671,22 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "recusou a visita (código 522)"
+   "degraus": [
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 8238,
+   "url_final": "https://teatrorivalrefit.com.br",
+   "paginas": [
+    "https://teatrorivalrefit.com.br",
+    "https://teatrorivalrefit.com.br/eventos/",
+    "https://teatrorivalrefit.com.br/",
+    "https://teatrorivalrefit.com.br/page/2/",
+    "https://teatrorivalrefit.com.br/page/3/",
+    "https://teatrorivalrefit.com.br/page/60/"
+   ],
+   "mencoes_de_data": 43,
+   "situacao": "coletada",
+   "arquivo": "F062.txt"
   },
   {
    "ids": [
@@ -739,7 +772,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 55944,
+   "caracteres": 60878,
    "url_final": "https://artrio.com",
    "paginas": [
     "https://artrio.com",
@@ -748,14 +781,14 @@
     "https://artrio.com/agenda-cultural?year=2026&month=11",
     "https://artrio.com/agenda-cultural?year=2026&month=12",
     "https://artrio.com/agenda-cultural?year=2027&month=01",
+    "https://artrio.com/agenda-cultural/luisa-strina-juliana-santos",
+    "https://artrio.com/agenda-cultural/luisa-strina-pedro-zylbersztajn",
+    "https://artrio.com/agenda-cultural/claraboia-e-portas-vilaseca-meia-luz-de-emilia-estrada",
     "https://artrio.com/agenda-cultural/cassia-bomeny-galeria-adrianna-eu",
-    "https://artrio.com/agenda-cultural/casa-roberto-marinho-guardar",
-    "https://artrio.com/agenda-cultural/mercedes-viegas-ecos",
-    "https://artrio.com/agenda-cultural/albuquerque-contempora%cc%82nea-presente-oculto-coletiva",
-    "https://artrio.com/agenda-cultural/fortes-daloia-joao-maria-gusmao",
-    "https://artrio.com/agenda-cultural/fortes-daloia-sarah-morris"
+    "https://artrio.com/agenda-cultural/dan-galeria-interior-ordenar-para-desordenar-arte-como-transformacao-coletiva",
+    "https://artrio.com/agenda-cultural/galeria-bere-7-ervas"
    ],
-   "mencoes_de_data": 717,
+   "mencoes_de_data": 782,
    "situacao": "coletada",
    "arquivo": "F066.txt"
   },
@@ -771,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6892,
+   "caracteres": 6858,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -934,13 +967,12 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 50008,
+   "caracteres": 49660,
    "url_final": "https://casarobertomarinho.org.br",
    "paginas": [
     "https://casarobertomarinho.org.br",
     "https://casarobertomarinho.org.br/acontece?locale=pt-BR",
     "https://casarobertomarinho.org.br/exposicao/58?locale=pt-BR",
-    "https://casarobertomarinho.org.br/acontece/638?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/637?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/636?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/635?locale=pt-BR",
@@ -948,9 +980,10 @@
     "https://casarobertomarinho.org.br/acontece/633?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/632?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/630?locale=pt-BR",
-    "https://casarobertomarinho.org.br/acontece/631?locale=pt-BR"
+    "https://casarobertomarinho.org.br/acontece/631?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/629?locale=pt-BR"
    ],
-   "mencoes_de_data": 524,
+   "mencoes_de_data": 522,
    "situacao": "coletada",
    "arquivo": "F076.txt"
   },
@@ -1054,14 +1087,14 @@
    "degraus": [
     "texto de 3 página(s)"
    ],
-   "caracteres": 13130,
+   "caracteres": 11511,
    "url_final": "https://ecovillarihappy.com.br",
    "paginas": [
     "https://ecovillarihappy.com.br",
     "https://ecovillarihappy.com.br/programacao/",
     "https://ecovillarihappy.com.br/realize-seu-evento/"
    ],
-   "mencoes_de_data": 54,
+   "mencoes_de_data": 49,
    "situacao": "coletada",
    "arquivo": "F084.txt"
   },
@@ -1119,9 +1152,19 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "degraus": [
+    "texto de 3 página(s)"
+   ],
+   "caracteres": 11974,
+   "url_final": "https://galeriaathena.com",
+   "paginas": [
+    "https://galeriaathena.com",
+    "https://galeriaathena.com/exhibitions/past/2026/",
+    "https://galeriaathena.com/en/exhibitions/past/2026/"
+   ],
+   "mencoes_de_data": 4,
+   "situacao": "coletada",
+   "arquivo": "F089.txt"
   },
   {
    "ids": [
@@ -1134,7 +1177,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
   },
   {
    "ids": [
@@ -1149,7 +1192,7 @@
     "feed (7 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 34696,
+   "caracteres": 34264,
    "url_final": "https://grupoestacao.com.br",
    "paginas": [
     "https://grupoestacao.com.br",
@@ -1167,7 +1210,7 @@
     "https://grupoestacao.com.br/filme/fogareu/",
     "https://grupoestacao.com.br/filme/josephine-fragmentos-de-um-crime/"
    ],
-   "mencoes_de_data": 98,
+   "mencoes_de_data": 94,
    "situacao": "coletada",
    "arquivo": "F091.txt"
   },
@@ -1182,10 +1225,10 @@
    ],
    "degraus": [
     "feed (5 itens)",
-    "calendário WordPress (40 eventos)",
+    "calendário WordPress (39 eventos)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 70726,
+   "caracteres": 70632,
    "url_final": "https://ims.com.br",
    "paginas": [
     "https://ims.com.br",
@@ -1245,7 +1288,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 8897,
+   "caracteres": 8894,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1450,9 +1493,30 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "degraus": [
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 43612,
+   "url_final": "https://pinakotheke.com.br",
+   "paginas": [
+    "https://pinakotheke.com.br",
+    "https://pinakotheke.com.br/exhibitions/",
+    "https://pinakotheke.com.br/exhibitions/35/overview/",
+    "https://pinakotheke.com.br/news/25-revolta-em-preto-e-branco-exposicao-e-destaque-no-segundo-caderno-do-o/",
+    "https://pinakotheke.com.br/en/exhibitions/",
+    "https://pinakotheke.com.br/exhibitions/36-revolta-em-preto-e-branco-pinakotheke-rio-de-janeiro/overview/",
+    "https://pinakotheke.com.br/exhibitions/37-xxxv-silviano-santiago-por-helio-oiticica-pinakotheke-rio-de-janeiro/overview/",
+    "https://pinakotheke.com.br/exhibitions/35-entre-espacos-raul-mourao-e-marcius-galan-pinakotheke-fortaleza/overview/",
+    "https://pinakotheke.com.br/exhibitions/34-surrealismos-arte-para-alem-da-razao-pinakotheke-sao-paulo/overview/",
+    "https://pinakotheke.com.br/exhibitions/32-frederico-morais-arte-e-critica-pinakotheke-cultural/overview/",
+    "https://pinakotheke.com.br/exhibitions/33-o-inicio-do-mundo-pinakotheke-cultural/overview/",
+    "https://pinakotheke.com.br/exhibitions/31-anima-christian-cravo-multiarte/overview/",
+    "https://pinakotheke.com.br/exhibitions/23-djanira-110-anos-pinakotheke-cultural/overview/",
+    "https://pinakotheke.com.br/exhibitions/24-luz-de-abril-portugal-1974-alecio-de-pinakotheke-cultural/overview/"
+   ],
+   "mencoes_de_data": 37,
+   "situacao": "coletada",
+   "arquivo": "F105.txt"
   },
   {
    "ids": [
@@ -1466,7 +1530,7 @@
    "degraus": [
     "texto de 6 página(s)"
    ],
-   "caracteres": 13578,
+   "caracteres": 13663,
    "url_final": "https://portasvilaseca.com.br/pt",
    "paginas": [
     "https://portasvilaseca.com.br/pt",
@@ -1476,7 +1540,7 @@
     "https://portasvilaseca.com.br/pt/exposicao/o-tempo-da-cor-kika-carvalho",
     "https://portasvilaseca.com.br/pt/exposicao/das-promessas-que-a-gente-fez-kika-carvalho"
    ],
-   "mencoes_de_data": 12,
+   "mencoes_de_data": 9,
    "situacao": "coletada",
    "arquivo": "F107.txt"
   },
@@ -1512,7 +1576,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1791,
+   "caracteres": 1810,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1575,10 +1639,10 @@
     "Zona Sul"
    ],
    "degraus": [
-    "dados estruturados (19 eventos)",
-    "texto de 11 página(s)"
+    "dados estruturados (20 eventos)",
+    "texto de 12 página(s)"
    ],
-   "caracteres": 38239,
+   "caracteres": 40549,
    "url_final": "https://teatrodasartes.com.br",
    "paginas": [
     "https://teatrodasartes.com.br",
@@ -1590,10 +1654,11 @@
     "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
     "https://teatrodasartes.com.br/eventos/maldito-coracao-novembro-2026/",
     "https://teatrodasartes.com.br/eventos/chiquititas-novembro-2026/",
+    "https://teatrodasartes.com.br/eventos/ca-entre-nos-dezembro-2026/",
     "https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/",
     "https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/"
    ],
-   "mencoes_de_data": 38,
+   "mencoes_de_data": 43,
    "situacao": "coletada",
    "arquivo": "F116.txt"
   },
@@ -1669,7 +1734,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 32637,
+   "caracteres": 32669,
    "url_final": "https://vivorio.com.br",
    "paginas": [
     "https://vivorio.com.br",
@@ -1824,12 +1889,11 @@
    "degraus": [
     "texto de 11 página(s)"
    ],
-   "caracteres": 80919,
+   "caracteres": 81249,
    "url_final": "https://qualistage.com.br",
    "paginas": [
     "https://qualistage.com.br",
     "https://qualistage.com.br/eventos",
-    "https://qualistage.com.br/evento/437/dino-fonseca",
     "https://qualistage.com.br/evento/436/sandro-luiz",
     "https://qualistage.com.br/evento/400/seal",
     "https://qualistage.com.br/evento/438/jorge-vercillo",
@@ -1837,9 +1901,10 @@
     "https://qualistage.com.br/evento/435/geriatricus",
     "https://qualistage.com.br/evento/441/ferrugem",
     "https://qualistage.com.br/evento/423/mauricio-manieri",
-    "https://qualistage.com.br/evento/443/di-ferrero-e-thiago-castanho-e-marcao-britto-charlie-brown-jr"
+    "https://qualistage.com.br/evento/443/di-ferrero-e-thiago-castanho-e-marcao-britto-charlie-brown-jr",
+    "https://qualistage.com.br/evento/424/rodrigo-teaser-data-extra-2"
    ],
-   "mencoes_de_data": 31,
+   "mencoes_de_data": 32,
    "situacao": "coletada",
    "arquivo": "F137.txt"
   },
@@ -1948,13 +2013,12 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 29380,
+   "caracteres": 28134,
    "url_final": "https://teatrobangushopping.com.br",
    "paginas": [
     "https://teatrobangushopping.com.br",
     "https://teatrobangushopping.com.br/eventos",
     "https://teatrobangushopping.com.br/programacao",
-    "https://teatrobangushopping.com.br/evento/muato-concerto-sobre-o-pagode",
     "https://teatrobangushopping.com.br/evento/serginho-lacerda-qual-o-seu-talento",
     "https://teatrobangushopping.com.br/evento/starlight-concert-concertos-de-natal",
     "https://teatrobangushopping.com.br/evento/daniel-lopes-e-kwesny-kd-o-show",
@@ -1963,9 +2027,10 @@
     "https://teatrobangushopping.com.br/evento/rodrigo-santanna-mulheres-em-turbulencia",
     "https://teatrobangushopping.com.br/evento/bita-em-festa-dos-bichos",
     "https://teatrobangushopping.com.br/evento/murilo-couto-novo-show",
-    "https://teatrobangushopping.com.br/evento/cacau-protasio-e-romulo-bellotti-em-durval-e-valcylange"
+    "https://teatrobangushopping.com.br/evento/cacau-protasio-e-romulo-bellotti-em-durval-e-valcylange",
+    "https://teatrobangushopping.com.br/evento/trilhas-epicas-de-game-of-thrones-e-senhor-dos-aneis"
    ],
-   "mencoes_de_data": 140,
+   "mencoes_de_data": 141,
    "situacao": "coletada",
    "arquivo": "F181.txt"
   },
@@ -2014,7 +2079,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63271,
+   "caracteres": 63275,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2032,7 +2097,7 @@
     "https://www.travessa.com.br/dvds/filmes",
     "https://www.travessa.com.br/dvds/show"
    ],
-   "mencoes_de_data": 64,
+   "mencoes_de_data": 62,
    "situacao": "coletada",
    "arquivo": "F189.txt"
   },

@@ -661,37 +661,6 @@
    "entrou_em": "2026-11-19"
   },
   {
-   "titulo": "OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)",
-   "areas": [
-    "Artes Visuais"
-   ],
-   "tipo": "cartaz",
-   "local": "Terreiro Contemporâneo (Teatro Chica Xavier, Galeria Quilombo e Sala Rubens Barbot)",
-   "endereco": "Rua Carlos de Carvalho, 53",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [],
-   "cartaz": {
-    "inicio": "2026-11-18",
-    "fim": "2026-11-21",
-    "horario": "Horário contínuo, nos dias da mostra"
-   },
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Exposição de Rona Neves na Galeria Quilombo, aberta durante os dias da Mostra do Impossível.",
-   "fonte": "Programação Unificada – Novembro Negro 2026 (PDF SMC)",
-   "link": "https://confrariadoimpossivel.com/2026-mostra-do-impossivel/",
-   "trecho_fonte": "Novembro Negro: 19/11 (quinta-feira) • Horário contínuo – Exposição OFÁ/Um Corpo Flecha, de Rona Neves (Galeria Quilombo)",
-   "nota_redacao": "A exposição aparece na programação de 19, 20 e 21/11. Preço e horário de abertura não informados na fonte.",
-   "id": "2026-11-19-094",
-   "entrou_em": "2026-11-19"
-  },
-  {
    "titulo": "País Brasa, Planeta Fogo",
    "areas": [
     "Artes Visuais"
@@ -1191,38 +1160,6 @@
    "entrou_em": "2026-11-19"
   },
   {
-   "titulo": "40 Anos do Monumento a Zumbi",
-   "areas": [
-    "Festas & Feiras"
-   ],
-   "tipo": "evento",
-   "local": "Monumento a Zumbi dos Palmares",
-   "endereco": "Praça XI, em frente ao Terreirão do Samba",
-   "bairro": "Praça XI",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "06:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": true,
-   "sinopse": "Três dias de festa na Praça XI pelos 40 anos do monumento: shows, blocos afro, afoxés, escolas de samba, feira de negócios e gastronomia.",
-   "fonte": "Programação Unificada – Novembro Negro 2026 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "40 Anos do Monumento à Zumbi – Elevando a Autoestima do Povo Afro Carioca Data e horário: 19, 20 e 21/11, das 6h às 23h | Local: Monumento à Zumbi, Praça XI, em frente ao Terreirão do Samba | Classificação indicativa: Livre | Valor: Gratuito",
-   "nota_redacao": "",
-   "id": "2026-11-19-092",
-   "entrou_em": "2026-11-19"
-  },
-  {
    "titulo": "Amanhecer Rio – Festival Cultura e Cuidado",
    "areas": [
     "Festas & Feiras",
@@ -1234,10 +1171,6 @@
    "bairro": "Centro",
    "regiao": "Centro",
    "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "08:00"
-    },
     {
      "data": "2026-11-22",
      "hora": "08:00"
@@ -1260,39 +1193,6 @@
    "entrou_em": "2026-11-19"
   },
   {
-   "titulo": "Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade",
-   "areas": [
-    "Infantil",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "EcoVilla Ri Happy",
-   "endereco": "Rua Jardim Botânico, 1.008",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "09:30"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Manhã de percussão, canto e brincadeiras em família sobre ritmos e tradições afro-brasileiras, em homenagem ao Dia da Consciência Negra.",
-   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
-   "link": "https://ecovillarihappy.com.br/programacao/",
-   "trecho_fonte": "Sábado Musical, com Batuca Jardim - Ritmos da Ancestralidade” 21 de novembro | Sábado às 09h30 [...] Em homenagem ao Dia da Consciência Negra, o Batuca Jardim convida crianças e famílias para uma experiência musical [...] Por meio da percussão, do canto e de atividades lúdicas e coletivas || Classificação: Livre",
-   "nota_redacao": "A fonte não informa o preço.",
-   "id": "2026-11-19-144",
-   "entrou_em": "2026-11-19"
-  },
-  {
    "titulo": "Inside Out – 15 anos",
    "areas": [
     "Artes Visuais"
@@ -1303,10 +1203,6 @@
    "bairro": "Centro",
    "regiao": "Centro",
    "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "10:00"
-    },
     {
      "data": "2026-11-22",
      "hora": "10:00"
@@ -1326,1563 +1222,6 @@
    "trecho_fonte": "“Inside Out – 15 anos’ Sábado e domingo (21 e 22/11), às 10h. Grátis. Livre.",
    "nota_redacao": "",
    "id": "2026-11-19-022",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Bebês no MAR – exposição Guilherme Kid",
-   "areas": [
-    "Infantil",
-    "Artes Visuais"
-   ],
-   "tipo": "evento",
-   "local": "Museu de Arte do Rio (MAR)",
-   "endereco": "Praça Mauá, 5",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "10:00"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "11:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis (com inscrição)",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Visita educativa para bebês de 0 a 2 anos e suas famílias. É preciso se inscrever pelo link nas redes do museu.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Bebês no MAR – exposição Guilherme Kid Sábado(21/11), às 10h e 11h. Grátis, com inscrição (link nas redes do MAR). Livre. Visita educativa para familiares e seus bebês de 0 a 2 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-029",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Festival Rio Santa – Edição Especial Zumbi dos Palmares",
-   "areas": [
-    "Festas & Feiras"
-   ],
-   "tipo": "evento",
-   "local": "Parque Glória Maria",
-   "endereco": "Rua Murtinho Nobre, 169",
-   "bairro": "Santa Teresa",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "10:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": true,
-   "sinopse": "Festival que celebra a cultura negra e a figura de Zumbi dos Palmares no parque de Santa Teresa.",
-   "fonte": "Programação Unificada – Novembro Negro 2026 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Novembro Negro: Parque Glória Maria 1. Festival Rio Santa – Edição Especial Zumbi dos Palmares Data e horário: 21/11, às 10h | Classificação: Livre | Valor: Gratuito | Linguagem: Festival",
-   "nota_redacao": "",
-   "id": "2026-11-19-033",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Contação de histórias: Mapa do Tesouro",
-   "areas": [
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Dicró",
-   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
-   "bairro": "Penha Circular",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "10:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "Libras",
-   "na_rua": false,
-   "sinopse": "Um pirata sai atrás de ouro e, no caminho, encontra o menino Dayo e sua avó, que vive perto do rio. Com Juliana Dandarilê, na Agroflorestinha da arena.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Agroflorestinha da Arena Dicró apresenta Contação de Histórias: Mapa do Tesouro Sábado (21/11), às 10h. Grátis. Livre. [...] Tradução em Libras por estudantes da UFRJ (TradInter Lab).",
-   "nota_redacao": "",
-   "id": "2026-11-19-065",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Rolé Estácio – Berço do Samba",
-   "areas": [
-    "Festas & Feiras",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Praça do Estácio (saída B do metrô)",
-   "endereco": "Praça do Estácio",
-   "bairro": "Estácio",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "10:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "Intérpretes de Libras no roteiro guiado",
-   "na_rua": true,
-   "sinopse": "Caminhada guiada pelas ruas do Estácio, por lugares e memórias de Ismael Silva, Bide e da Deixa Falar. Termina na quadra da Estácio de Sá, com feijoada e música a partir das 13h (consumo à parte).",
-   "fonte": "Programação Unificada – Novembro Negro 2026 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Rolé Estácio – Berço do Samba Data e horário: 21/11, às 10h (roteiro guiado); feijoada e atrações musicais na quadra, a partir das 13h | Local: ponto de encontro na Praça do Estácio (saída B do metrô), com encerramento na quadra da G.R.E.S. Estácio de Sá | Classificação indicativa: Livre | Valor: Gratuito, sem necessidade de inscrição (feijoada e consumação à parte) | [...] Acessibilidade: intérpretes de Libras no roteiro guiado",
-   "nota_redacao": "",
-   "id": "2026-11-19-091",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Oficina Da Imaginação à Selva: uma aventura pela floresta de Mogli",
-   "areas": [
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "EcoVilla Ri Happy",
-   "endereco": "Rua Jardim Botânico, 1.008",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "10:30"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Duas horas de atividades para crianças em torno da mata, dos bichos e das histórias da floresta de Mogli, dentro da Temporada da Consciência Negra.",
-   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
-   "link": "https://ecovillarihappy.com.br/programacao/",
-   "trecho_fonte": "Oficina Da Imaginação à Selva: Uma Aventura pela Floresta de Mogli (Gratuito) 21 de novembro | Sábado, das 10h30 às 12h30 [...] Como parte da Temporada da Consciência Negra, a EcoVilla Ri Happy convidará as crianças a embarcar na oficina gratuita Da Imaginação à Selva, uma aventura inspirada na floresta de Mogli. Em duas horas de atividades lúdicas e criativas || Classificação: Livre",
-   "nota_redacao": "",
-   "id": "2026-11-19-145",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "A Cura da Terra – Pequenas Revoluções",
-   "areas": [
-    "Teatro",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
-   "endereco": "Rua Padre Leonel Franca, 240",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "11:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Uma banda se prepara para o show e conta, em vozes e histórias, algumas das principais revoluções indígenas da América Latina. Dialoga com o livro “A Cura da Terra”, de Eliane Potiguara. Estreia.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “A Cura da Terra – Pequenas Revoluções” Sábados e domingos, às 11h. De 21 a 29/11. Grátis. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-005",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Zuzuê Contos Africanos",
-   "areas": [
-    "Infantil",
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ruth de Souza",
-   "endereco": "Rua Murtinho Nobre, 169",
-   "bairro": "Santa Teresa",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "11:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 20 a R$ 40",
-   "preco_min": 20,
-   "preco_max": 40,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "Libras integrada à cena",
-   "na_rua": false,
-   "sinopse": "Paulinha Cavalcanti, Anderson Barreto e Árvore Vicente narram histórias afro-diaspóricas, com Libras integrada à cena. Cerca de 50 minutos.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Zuzuê Contos Africanos” Sábado e domingo, às 11h. Até 29/11. R$ 20 a R$ 40. Livre. [...] com libras como parte integrante da cena",
-   "nota_redacao": "",
-   "id": "2026-11-19-019",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Baile Charme do Projeto Black Music Soul",
-   "areas": [
-    "Festas & Feiras",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural Professora Dyla Sylvia de Sá",
-   "endereco": "Rua Barão, 1.180",
-   "bairro": "Praça Seca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "11:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Baile de charme, tradição da cultura negra e urbana do Rio, em plena manhã de sábado na Praça Seca.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Baile Charme do Projeto Black Music Soul Sábado (21/11), às 11h. Grátis. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-049",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Bluey – Diversão em Família",
-   "areas": [
-    "Infantil",
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Multiplan",
-   "endereco": "Av. das Américas, 3.900",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "15:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "A partir de R$ 25",
-   "preco_min": 25,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Show oficial da série de animação, numa adaptação para o palco feita para a América Latina. Último fim de semana.",
-   "fonte": "Site do Teatro Multiplan (ronda de 19/11)",
-   "link": "https://teatromultiplan.com.br/eventos/bluey-2026/",
-   "trecho_fonte": "Bluey - Diversão em Família 07 a 22 de novembro Sexta, Sábado e Domingo às 11h, Sábado e Domingo às 15h, Sábado às 18h [...] O espetáculo faz únicas apresentações de 7 a 22 de novembro, no Teatro Multiplan. [...] adaptação teatral original desenvolvida especialmente para a América Latina. [...] Duração 60 min Classificação etária Livre Ingressos a partir de a partir de R$ 25",
-   "nota_redacao": "O site só dá o preço inicial.",
-   "id": "2026-11-19-164",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "O Clube Romance: Quando, de Carla Madeira",
-   "areas": [
-    "Livros & Debates"
-   ],
-   "tipo": "evento",
-   "local": "Livraria da Travessa – BarraShopping",
-   "endereco": "Av. das Américas, 4.666",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "13:30"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Encontro do clube de leitura sobre o romance de Carla Madeira, com mediação de Gabriela Campany.",
-   "fonte": "Site da Livraria da Travessa (ronda de 19/11)",
-   "link": "https://www.travessa.com.br/eventos",
-   "trecho_fonte": "21/11 . SÁBADO BarraShopping | 13:30 QUANDO Autor(a): Carla Madeira O CLUBE ROMANCE MEDIAÇÃO GABRIELA CAMPANY",
-   "nota_redacao": "A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.",
-   "id": "2026-11-19-167",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Na capoeira de Carybé",
-   "areas": [
-    "Livros & Debates"
-   ],
-   "tipo": "evento",
-   "local": "Centro Municipal de Arte Hélio Oiticica",
-   "endereco": "Rua Luís de Camões, 68",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "14:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Conversa sobre a história da capoeira, criada por pessoas escravizadas no Brasil colonial como forma de resistência. Atividade da programação de férias.",
-   "fonte": "Programação Unificada – Novembro Negro 2026 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Novembro Negro: Centro Municipal de Artes Hélio Oiticica 1. Programação de Férias: Na capoeira de Carybé (Consciência Negra) Data e horário: 21/11, às 14h | Classificação: Livre | Valor: Gratuito | Linguagem: Cultura Popular",
-   "nota_redacao": "",
-   "id": "2026-11-19-034",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Encontro com Vanessa Gomes, autora de “Fora do Lugar”",
-   "areas": [
-    "Livros & Debates"
-   ],
-   "tipo": "evento",
-   "local": "Biblioteca José Bonifácio (Muhcab)",
-   "endereco": "Rua Pedro Ernesto, 80",
-   "bairro": "Gamboa",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "14:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "A escritora conversa sobre literatura, racismo, identidade e violência contra a mulher a partir do seu romance.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Biblioteca José Bonifácio Rua Pedro Ernesto, 80 — Gamboa, Rio de Janeiro 21/11/26 - 14:00 Encontro com Vanessa Gomes, a autora de “Fora do Lugar” || Novembro Negro: Data e horário: 21/11, às 14h | Valor: Gratuito | Linguagem: Literatura",
-   "nota_redacao": "",
-   "id": "2026-11-19-038",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "FIPAZO – Festival de Pole Dance, Aéreos e Danças da Zona Oeste",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Abelardo Barbosa – Chacrinha",
-   "endereco": "Rua Soldado Eliseu Hipólito, s/nº",
-   "bairro": "Pedra de Guaratiba",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "14:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "14:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30",
-   "preco_min": 30,
-   "preco_max": 30,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Terceira edição do festival não competitivo que reúne artistas de Pedra de Guaratiba e de outras regiões em números de pole dance, circo e dança.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "FIPAZO – Festival Internacional de Pole Dance, Aéreos e Danças da Zona Oeste Sábado e domingo (21 e 22/11), às 14h. R$ 30. 16 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-084",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Oficina Cliques e Movimento",
-   "areas": [
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Casa Museu Eva Klabin",
-   "endereco": "Av. Epitácio Pessoa, 2.480",
-   "bairro": "Lagoa",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "15:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis (senha 10 minutos antes)",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Crianças a partir de 3 anos criam cenas e histórias em stop motion, com celular, corpo e tecidos. As senhas são distribuídas dez minutos antes.",
-   "fonte": "Site da Casa Museu Eva Klabin (ronda de 19/11)",
-   "link": "https://www.evaklabin.org.br/pt",
-   "trecho_fonte": "A oficina de práticas artísticas [...] Chamada de \"Cliques e Movimentos\", se baseia no uso do \"Stop Motion Studio\", corpos e tecidos [...] voltada para crianças a partir de 3 anos de idade. [...] As oficinas são gratuitas e a participação ocorre mediante a retirada de senhas, dez minutos antes da atividade. Essa atividade estará aberta ao público nos dias 15, 21, 22 e 29 de novembro, sempre às 15h. || Entrada gratuita Classificação livre",
-   "nota_redacao": "A fonte dá dois endereços para a casa: “Avenida Epitácio Pessoa, 2480”, no rodapé do site, e “Praça Benedito Cerqueira, 0 | Lagoa”, no serviço da oficina. Fica o do rodapé, que é o endereço fixo da instituição.",
-   "id": "2026-11-19-140",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Escola do Rock",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "EcoVilla Ri Happy",
-   "endereco": "Rua Jardim Botânico, 1.008",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "15:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Musical baseado no filme de 2003: um guitarrista se passa por professor substituto e monta uma banda com alunos do quinto ano para disputar a Batalha das Bandas.",
-   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
-   "link": "https://ecovillarihappy.com.br/programacao/",
-   "trecho_fonte": "Escola do Rock - CEFTEM 14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30 Classificação: Livre Baseado no filme School of Rock, de 2003 [...] ao fingir ser um professor substituto em uma prestigiosa e conservadora escola, Dewey forma um grupo do quinto ano, na tentativa de ganhar o próximo concurso: a Batalha das Bandas.",
-   "nota_redacao": "A fonte não informa o preço.",
-   "id": "2026-11-19-143",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Encontro literário: Maria e o Segredo da Poupança",
-   "areas": [
-    "Livros & Debates",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Biblioteca Municipal Ziraldo (Cidade das Artes)",
-   "endereco": "Av. das Américas, 5.300",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "16:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Encontro em torno do livro “Maria e o Segredo da Poupança”.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Biblioteca Ziraldo Encontro Literário: Maria e o Segredo da Poupança 21/11 às 16h Gratuito",
-   "nota_redacao": "O PDF não dá o endereço da Biblioteca Ziraldo; usei o da Cidade das Artes, onde ela funciona (regulamento das bibliotecas da SMC: “Biblioteca Municipal Ziraldo, Av. das Américas, Barra da Tijuca”). A área Infantil é dedução pelo título.",
-   "id": "2026-11-19-045",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Quintal",
-   "areas": [
-    "Infantil",
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ziembinski",
-   "endereco": "Rua Heitor Beltrão, s/nº",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "16:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 20 a R$ 40",
-   "preco_min": 20,
-   "preco_max": 40,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Cinco crianças do subúrbio estão prestes a perder o quintal onde brincam para um condomínio de luxo. Infantojuvenil sobre a memória dos bairros e o direito de brincar. Último fim de semana.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Quintal” Sábados e domingos às 16h. Até 22/11. R$ 20 a R$40. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-054",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Sudi – O Elogio da Surdez",
-   "areas": [
-    "Infantil",
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural Banco do Brasil (CCBB)",
-   "endereco": "Rua Primeiro de Março, 66",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "16:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 (meia R$ 15)",
-   "preco_min": 15,
-   "preco_max": 30,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "Libras em cena",
-   "na_rua": false,
-   "sinopse": "Uma menina que percebe o mundo pelos olhos, pela pele e pelas mãos parte em busca da Flor de Oto, ao lado de uma amiga que fala Libras.",
-   "fonte": "Site CCBB Rio",
-   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/sudi-o-elogio-da-surdez/",
-   "trecho_fonte": "Sudi – O Elogio da Surdez 21/11/26 a 22/11/26 ... Livre 16h Teatro I R$30 (inteira) | R$15 (meia-entrada)",
-   "nota_redacao": "Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.",
-   "id": "2026-11-19-109",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Cartografia de Futuros Imaginários – Casa Aberta",
-   "areas": [
-    "Artes Visuais"
-   ],
-   "tipo": "evento",
-   "local": "Casa Firjan",
-   "endereco": "Rua Guilhermina Guinle, 211",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "16:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis (sujeito a lotação)",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Atividade de uma hora para criar zines com palavras, imagens e recortes.",
-   "fonte": "Site da Casa Firjan (ronda de 19/11)",
-   "link": "https://casafirjan.com.br/",
-   "trecho_fonte": "21 de novembro de 2026 Sábado Horário: 16h00 | Duração: 1h Cartografia de Futuros Imaginários | Atividade Casa Aberta Crie zines com palavras, imagens e recortes, transforme ideias em narrativas e explore diferentes caminhos para o amanhã. || 22 de novembro de 2026 Domingo Horário: 16h00 | Duração: 1h Cartografia de Futuros Imaginários | Atividade Casa Aberta || Sábados e domingos Horário: 16h [...] Atividade gratuita, sujeito a lotação [...] Classificação: 12 anos",
-   "nota_redacao": "",
-   "id": "2026-11-19-138",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Danças populares de Moçambique, com Bela Zango",
-   "areas": [
-    "Festas & Feiras",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Museu do Pontal",
-   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "16:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis (contribuição sugerida de R$ 20)",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "A cantora e bailarina moçambicana apresenta a música e as danças tradicionais do seu país. Ela é uma das poucas mulheres a dominar a timbila, xilofone do povo Chopi.",
-   "fonte": "Site do Museu do Pontal (ronda de 19/11)",
-   "link": "https://museudopontal.org.br/programacao/dancas-populares-mocambique-21nov/",
-   "trecho_fonte": "Danças populares de Moçambique – 21 de novembro, 16h | Neste sábado, 21 de novembro, a cantora e bailarina moçambicana Bela Zango conduz uma atividade que apresenta ao público elementos da música e da dança tradicional de Moçambique. A atividade acontece às 16h. [...] É também uma das poucas mulheres a dominar a Timbila, xilofone tradicional do povo Chopi || A entrada no Museu do Pontal é gratuita para todos . Entretanto, sugerimos uma contribuição mínima de R$ 20 àqueles que puderem apoiar as atividades do Museu.",
-   "nota_redacao": "",
-   "id": "2026-11-19-159",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Moraes Musical Moreira",
-   "areas": [
-    "Teatro",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Carlos Gomes",
-   "endereco": "Praça Tiradentes, s/nº",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "17:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 40 a R$ 80",
-   "preco_min": 40,
-   "preco_max": 80,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Musical sobre a vida e a obra de Moraes Moreira, em linguagem de cordel: o Poeta Cantador revisita a jornada do jovem Vaqueiro do Som pelo país.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Moraes Musical Moreira” Quintas e sextas-feiras, às 19h, sábados, às 17h e às 20h, e domingos, às 17h. R$ 40 a R$ 80. 12 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-013",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Baú da Dona Ivone Lara, com Bruno Castro e Áurea Martins",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Centro da Música Carioca Artur da Távola",
-   "endereco": "Rua Conde de Bonfim, 824",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "17:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 a R$ 60 (moradores do Rio pagam meia)",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Parceiro de Dona Ivone Lara por mais de vinte anos, Bruno Castro canta clássicos e sambas pouco conhecidos da Primeira-Dama do Samba, com participação de Áurea Martins.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Evento/Show: Sábado Homenagem – Bruno Castro apresenta Baú da Dona Ivone Lara: Tributo à Primeira-Dama do Samba com participação especial de Áurea Martins Data: 21/11/2026 – Sábado Horário: 17h Espaço: Sala Paulo Moura Ingresso: R$ 60,00 (inteira) / R$ 30,00 (meia-entrada) MORADORES DA CIDADE DO RIO DE JANEIRO PAGAM MEIA ENTRADA. Classificação: Livre",
-   "nota_redacao": "",
-   "id": "2026-11-19-058",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Samba do Sacramento",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural Banco do Brasil (CCBB)",
-   "endereco": "Rua Primeiro de Março, 66",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "17:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": true,
-   "sinopse": "A roda comandada por Marcos Sacramento volta ao CCBB, com Rita Benneditto, Nilze Carvalho, Nina Rosa e DJs.",
-   "fonte": "Site CCBB Rio",
-   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/samba-do-sacramento/",
-   "trecho_fonte": "Samba do Sacramento no CCBB 21/11/26 ... Livre Sábado, 17h às 3h Área Externa Entrada gratuita",
-   "nota_redacao": "Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.",
-   "id": "2026-11-19-110",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Tudo Entre Nós – leitura dramatizada e roda de conversa",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Correios Léa Garcia",
-   "endereco": "Rua Visconde de Itaboraí, 20",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "18:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Dezesseis anos depois da separação, um ex-casal negro e maduro se reencontra para vender o apartamento. Comédia romântica de Davi Martins, com Lica Oliveira e Valdo Boaventura, seguida do “Papo entre Nós”.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Tudo Entre Nós – Leitura Dramatizada, seguida de roda de conversa “Papo entre Nós” Serviço: Sábado, 21 de novembro, às 18h. Grátis. 16 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-018",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Urban Charme – Mostra de Charme (10 anos)",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Fernando Torres",
-   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
-   "bairro": "Madureira",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "18:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 20 a R$ 40",
-   "preco_min": 20,
-   "preco_max": 40,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Na edição de dez anos, trinta grupos de dança charme e hip hop se dividem em duas noites em Madureira.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Urban Charme – Mostra de Charme (10 anos) Sábado e domingo (21 e 22/11), às 18h. R$ 20 a R$ 40. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-069",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Ensaio de rua da Mocidade Independente",
-   "areas": [
-    "Festas & Feiras",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Avenida Ministro Ary Franco",
-   "endereco": "Avenida Ministro Ary Franco",
-   "bairro": "Padre Miguel",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "18:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": true,
-   "sinopse": "A Mocidade de Padre Miguel ensaia na Avenida Ministro Ary Franco, preparando o Carnaval 2027. Escola de samba do Grupo Especial.",
-   "fonte": "Agenda dos ensaios de rua do Grupo Especial (programação recebida pela coordenação editorial)",
-   "link": "",
-   "trecho_fonte": "A temporada de preparação para o Carnaval 2027 já começou e as escolas do Grupo Especial do Rio estão tomando as ruas com entrada gratuita [...] SÁBADO: • Mocidade Independente • Padre Miguel / Bangu (Av. Ministro Ary Franco), concentração às 18h.",
-   "nota_redacao": "Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.",
-   "id": "2026-11-19-175",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Equina",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Espaço Cultural Sérgio Porto",
-   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
-   "bairro": "Humaitá",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "18:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "18 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Espetáculo de dança de Aline Bernardi e Dani Lima sobre os laços de cuidado entre humanos e cavalos, a partir da pesquisa de doutorado de Aline.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Equina” sábados 19h e domingos 18h. Até 29/11. R$ 30 a R$ 60. 18 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-002",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Corpo-Encruzilhada",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
-   "endereco": "Rua José Higino, 115",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Dança-teatro com percussão ao vivo, inspirada nos itans de Exu, orixá dos caminhos. Aproxima saberes afro-brasileiros das vivências da juventude periférica.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Corpo-Encruzilhada” Sábado (21/11), às 19h. Grátis. 12 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-064",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Fora do Quadro",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Dicró",
-   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
-   "bairro": "Penha Circular",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "18 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Espetáculo de dança em que o muro de um quartel símbolo da ditadura vira passarela para ballroom, voguing, waacking, hip hop, jazz e sapateado.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Fora do Quadro” Sábado (21/11),às 19h. Grátis. 18 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-066",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Batalha na Areninha",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Carlos Zéfiro",
-   "endereco": "Estrada Marechal Alencastro, s/nº",
-   "bairro": "Anchieta",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Encontro de MCs em Anchieta: rimas, improviso e prêmio em dinheiro para quem vencer a noite.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Batalha na Areninha Dia 21/11 - 19h - Gratuito",
-   "nota_redacao": "",
-   "id": "2026-11-19-074",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Felipe Ferreira – Novo",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Hermeto Pascoal",
-   "endereco": "Praça Primeiro de Maio, s/nº",
-   "bairro": "Bangu",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 35 a R$ 60",
-   "preco_min": 35,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Stand-up do humorista da Pavuna, conhecido pelos vídeos nas redes.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Show de Comédia Stand Up “Novo – Felipe Ferreira” Sábado (21/11), às 19h. R$ 35 a R$ 60. 16 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-081",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "No Ritmo do Circo",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Gilberto Gil",
-   "endereco": "Av. Marechal Fontenelle, 5.000",
-   "bairro": "Realengo",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 40",
-   "preco_min": 40,
-   "preco_max": 40,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Espetáculo de circo na areninha de Realengo. A fonte não traz mais detalhes.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo no Ritmo do Circo 21/11 - 19 horas - R$ 40,00 - Livre",
-   "nota_redacao": "",
-   "id": "2026-11-19-088",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Mostra de Cenas e Performances (Mostra do Impossível)",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Terreiro Contemporâneo (Teatro Chica Xavier, Galeria Quilombo e Sala Rubens Barbot)",
-   "endereco": "Rua Carlos de Carvalho, 53",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "Grátis ou até R$ 10 (ver programação)",
-   "preco_min": 5,
-   "preco_max": 10,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Noite de cenas curtas e performances de artistas negros, em sequência, nos três espaços do Terreiro Contemporâneo. Encerra a 8ª Mostra do Impossível.",
-   "fonte": "Programação Unificada – Novembro Negro 2026 (PDF SMC)",
-   "link": "https://confrariadoimpossivel.com/2026-mostra-do-impossivel/",
-   "trecho_fonte": "Novembro Negro: 21/11 (sábado) [...] 19h – Mostra de Cenas e Performances – Movimento Aquecimento, com Nyl MC (Galeria Quilombo) [...] 21h – Mostra de Cenas e Performances – Casa de Laffond: A Experiência, com Casa de Laffond (Sala Rubens Barbot) [...] Local: Terreiro Contemporâneo – Teatro Chica Xavier, Galeria Quilombo e Sala Rubens Barbot (R. Carlos de Carvalho, 53, Centro)",
-   "nota_redacao": "Preço: a fonte diz “Majoritariamente gratuito; apenas uma sessão com ingressos a preços populares (R$ 10 a inteira e R$ 5 a meia)”, sem dizer qual.",
-   "id": "2026-11-19-093",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Entre o Sim e o Nunca",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural Banco do Brasil (CCBB)",
-   "endereco": "Rua Primeiro de Março, 66",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 (meia R$ 15)",
-   "preco_min": 15,
-   "preco_max": 30,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Aos 35 anos, uma mulher descobre que o pai registrado não é o biológico e sai em busca da própria origem. Drama com humor.",
-   "fonte": "Site CCBB Rio",
-   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/",
-   "trecho_fonte": "Entre o Sim e o Nunca 04/11/26 a 29/11/26 ... 12 anos Qua a Sáb, 19h | Dom, 17h Teatro III R$ 30 (inteira) | R$ 15 (meia-entrada)",
-   "nota_redacao": "Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.",
-   "id": "2026-11-19-104",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Confissões de Adolescente – o musical",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "EcoVilla Ri Happy",
-   "endereco": "Rua Jardim Botânico, 1.008",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Versão musical inédita da história sobre as dores e as descobertas de crescer.",
-   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
-   "link": "https://ecovillarihappy.com.br/programacao/",
-   "trecho_fonte": "Confissões de Adolescente 23 de outubro a 29 de novembro | Sextas às 20h, Sábados e Domingos às 19h Classificação: 16 anos FENÔMENO QUE MARCOU GERAÇÕES, ‘CONFISSÕES DE ADOLESOCENTE’ RETORNA AOS PALCOS EM VERSÃO MUSICAL INÉDITA.",
-   "nota_redacao": "A fonte não informa o preço.",
-   "id": "2026-11-19-142",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Minha Vó Ri",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Espaço Cultural Sérgio Porto",
-   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
-   "bairro": "Humaitá",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "14 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Primeiro solo de Júlia Bernat, dirigido por Débora Lamm. Mistura autoficção e pesquisa sobre a história do ativismo lésbico, com trilha de Ângela Ro Ro e Cássia Eller.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Minha Vó Ri” Sextas e Sábados às 20h, Domingos às 19h. Classificação 14 anos R$ 30 a R$ 60.",
-   "nota_redacao": "",
-   "id": "2026-11-19-001",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Nada sob Controle",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Café Pequeno",
-   "endereco": "Av. Ataulfo de Paiva, 269",
-   "bairro": "Leblon",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 15 a R$ 30",
-   "preco_min": 15,
-   "preco_max": 30,
-   "gratis": false,
-   "classificacao": "14 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Comédia circense do Circo Teatro Saltimbanco, feita de situações cômicas, desencontros e improviso, na tradição do palhaço de circo. Última semana.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "“Nada sob Controle” 13 a 22 de novembro Sextas e Sábados às 20h e Domingos às 19h R$ 15 | R$ 30. 14 anos. Nada Sob Controle é um espetáculo de comédia circense do Circo Teatro Saltimbanco",
-   "nota_redacao": "O PDF traz o espetáculo dentro do bloco do Teatro Café Pequeno, logo depois de “O Último Dia da Minha Vida”, sem repetir o nome do teatro.",
-   "id": "2026-11-19-004",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Superiores",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
-   "endereco": "Rua Padre Leonel Franca, 240",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Nove atores criam com o corpo e a voz todos os sons e ambientes de uma fábula sobre poder, falada numa língua inventada que o público entende pelo som.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Superiores” Sextas e sábados, 20h, domingos, 19h. Até 29/11. R$ 30 a R$ 60. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-006",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "As Irmãs Pereira",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ziembinski",
-   "endereco": "Rua Heitor Beltrão, s/nº",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 35 a R$ 70",
-   "preco_min": 35,
-   "preco_max": 70,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Três irmãs entre os 60 e os 70 anos se reúnem numa casa do Largo do Boticário para decidir onde jogar as cinzas da mãe, e acabam revirando o passado e os desejos do presente.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “As Irmãs Pereira” Sextas-feiras e sábados às 20h, e domingo às 19h. R$ 35 a R$ 70. 12 anos.",
-   "nota_redacao": "",
-   "id": "2026-11-19-053",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Adorável Face de Andronieva Petrosa",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Poeirinha",
-   "endereco": "Rua São João Batista, 104",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Primeiro solo de Fabianna de Mello e Souza, em 40 anos de carreira: uma atriz recebe uma carta anônima que a acusa de plágio e passa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e direção de Denise Stutz.",
-   "fonte": "Site do Teatro Poeira (ronda de 19/11)",
-   "link": "https://www.teatropoeira.com.br/",
-   "trecho_fonte": "Adoravel Face TEATRO POEIRINHA 29 OUT a 20 DEZ QUI a SAB 20h e DOM 19h [...] Após 40 anos de carreira, Fabianna de Mello e Souza atua em seu primeiro solo, que transforma uma acusação de plágio em reflexão [...] ‘Adorável Face de Andronieva Petrosa’, solo de Fabianna de Mello e Souza, com dramaturgia de Cecilia Ripoll e direção de Denise Stutz, fará uma temporada no Teatro Poeirinha, de 29 de outubro a 20 de dezembro, com sessões de quinta à sábado, às 20h e domingos [...] Em cena, uma atriz recebe uma carta anônima acusando-a de plágio. [...] o que é original? || CLASSIFICAÇÃO: Livre",
-   "nota_redacao": "A coleta não trouxe o preço.",
-   "id": "2026-11-19-151",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Muato – DERÊ: Concerto sobre o Pagode",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Bangu Shopping",
-   "endereco": "Rua da Fonseca, 240",
-   "bairro": "Bangu",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Sozinho no palco, com voz, violão de oito cordas, guitarra, pedais de loop e samples, o artista revisita o pagode nascido no subúrbio carioca nos anos 90, entre música, manifesto e poesia.",
-   "fonte": "Site do Teatro Bangu Shopping (ronda de 19/11)",
-   "link": "https://teatrobangushopping.com.br/evento/muato-concerto-sobre-o-pagode",
-   "trecho_fonte": "Muato - Concerto Sobre o Pagode [...] sáb, 21 de novembro de 2026 20h00 Em “DERÊ - CONCERTO SOBRE O PAGODE”, o premiado artista Muato, apresenta um show que flutua entre a música, o manifesto e a poesia. O artista se expressa através de sua voz, violão de 8 cordas, guitarra, pedais de loop, samples [...] repertório baseado no Pagode, gênero que nasceu no subúrbio carioca nos anos 90. [...] 21/11/2026 Livre || Rua da Fonseca, 240 – Espaço 174 – Bangu – Rio de Janeiro – RJ",
-   "nota_redacao": "A coleta não trouxe o preço.",
-   "id": "2026-11-19-170",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Leonardo Bessa",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Carioca da Gema",
-   "endereco": "Av. Mem de Sá, 79",
-   "bairro": "Lapa",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "20:30"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 35",
-   "preco_min": 35,
-   "preco_max": 35,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "O cantor e compositor do Salgueiro passa por samba de raiz, pagode e sambas-enredo, com histórias entre as músicas.",
-   "fonte": "Site do Carioca da Gema (ronda de 19/11)",
-   "link": "https://www.barcariocadagema.com.br/shows",
-   "trecho_fonte": "sáb., 21 de nov. Leonardo Bessa / 21 de nov. de 2026, 20:30 BRT [...] Cantor e compositor do Salgueiro, passeia pelo samba de raiz, pagode e grandes sambas-enredo, com histórias, bom humor e muita interação. || SÁBADOS-abertura 20:30/inicio show principal 22:00 || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
-   "nota_redacao": "20h30 é a abertura da casa; a página informa que, aos sábados, o show principal começa às 22h.",
-   "id": "2026-11-19-126",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Rockeria 14 anos",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Circo Voador",
-   "endereco": "Rua dos Arcos, s/nº",
-   "bairro": "Lapa",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "21:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "A festa de rock celebra 14 anos com show da Vaa Surf Band e DJs convidados.",
-   "fonte": "API pública do Circo Voador",
-   "link": "https://www.circovoador.com.br/",
-   "trecho_fonte": "slug 2026-11-21-rockeria · data_raw 20261121 · chamada: \"Uma das festas mais queridas do Rio está completando 14 anos\" · \"Show: Vaa Surf Band / DJs Leo Paes Leme convida DJ Saddam e DJ Felipe Guga – Abertura dos Portões: 21:00\"",
-   "nota_redacao": "Coletado no site em 15–17/11 e não relido nesta edição. Horário = abertura dos portões. Preço só na ticketeira.",
-   "id": "2026-11-19-114",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "O Mercador de Veneza",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Casa Grande (Teatro Axia Casa Grande)",
-   "endereco": "Av. Afrânio de Melo Franco, 290",
-   "bairro": "Leblon",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "14 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "A peça de William Shakespeare, com direção de Daniela Stirbulov e Dan Stulbach no papel do agiota Shylock. Dura duas horas. Curta temporada, até 29 de novembro.",
-   "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
-   "link": "https://www.teatroaxiacasagrande.com.br/programacao/",
-   "trecho_fonte": "CURTA TEMPORADA O Mercador de Veneza 07 de Novembro a 29 de Novembro [...] Data: 7 a 29 de novembro de 2026 Horário: Sábado às 21h00 e Domingo às 19h00 Abertura da casa: 1 hora antes do evento || O Mercador de Veneza, do dramaturgo inglês William Shakespeare [...] A peça tem direção de Daniela Stirbulov e é protagonizada por Dan Stulbach que dá vida ao marcante agiota Shylock [...] Duração: 120 minutos [...] Classificação etária: 14 anos.",
-   "nota_redacao": "A coleta não trouxe o preço.",
-   "id": "2026-11-19-148",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Dino Fonseca – Barzim de Rock",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Qualistage",
-   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-21",
-     "hora": "21:30"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "A partir de R$ 85",
-   "preco_min": 85,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "18 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Mais de três horas de sucessos do rock nacional e internacional.",
-   "fonte": "Site do Qualistage (ronda de 19/11)",
-   "link": "https://qualistage.com.br/evento/437/dino-fonseca",
-   "trecho_fonte": "O Barzim de Rock é uma turnê [...] Com mais de 3 horas de apresentação de Dino Fonseca, que conduz uma verdadeira viagem pelos maiores sucessos do rock nacional e internacional || A partir de R$ 85,00 Sábado - 21 | NOVEMBRO 21h30 18 anos",
-   "nota_redacao": "O site só dá o preço inicial. O endereço não está no texto coletado; é o endereço público do espaço.",
-   "id": "2026-11-19-162",
    "entrou_em": "2026-11-19"
   },
   {
@@ -3018,6 +1357,72 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "titulo": "A Cura da Terra – Pequenas Revoluções",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "11:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Uma banda se prepara para o show e conta, em vozes e histórias, algumas das principais revoluções indígenas da América Latina. Dialoga com o livro “A Cura da Terra”, de Eliane Potiguara. Estreia.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “A Cura da Terra – Pequenas Revoluções” Sábados e domingos, às 11h. De 21 a 29/11. Grátis. Livre.",
+   "nota_redacao": "",
+   "id": "2026-11-19-005",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Zuzuê Contos Africanos",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ruth de Souza",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "11:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 20 a R$ 40",
+   "preco_min": 20,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Libras integrada à cena",
+   "na_rua": false,
+   "sinopse": "Paulinha Cavalcanti, Anderson Barreto e Árvore Vicente narram histórias afro-diaspóricas, com Libras integrada à cena. Cerca de 50 minutos.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Zuzuê Contos Africanos” Sábado e domingo, às 11h. Até 29/11. R$ 20 a R$ 40. Livre. [...] com libras como parte integrante da cena",
+   "nota_redacao": "",
+   "id": "2026-11-19-019",
+   "entrou_em": "2026-11-19"
+  },
+  {
    "titulo": "Festival Quem Dança é Mais Feliz",
    "areas": [
     "Teatro"
@@ -3147,6 +1552,43 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "titulo": "Bluey – Diversão em Família",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Multiplan",
+   "endereco": "Av. das Américas, 3.900",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "A partir de R$ 25",
+   "preco_min": 25,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Show oficial da série de animação, numa adaptação para o palco feita para a América Latina. Último fim de semana.",
+   "fonte": "Site do Teatro Multiplan (ronda de 19/11)",
+   "link": "https://teatromultiplan.com.br/eventos/bluey-2026/",
+   "trecho_fonte": "Bluey - Diversão em Família 07 a 22 de novembro Sexta, Sábado e Domingo às 11h, Sábado e Domingo às 15h, Sábado às 18h [...] O espetáculo faz únicas apresentações de 7 a 22 de novembro, no Teatro Multiplan. [...] adaptação teatral original desenvolvida especialmente para a América Latina. [...] Duração 60 min Classificação etária Livre Ingressos a partir de a partir de R$ 25",
+   "nota_redacao": "O site só dá o preço inicial.",
+   "id": "2026-11-19-164",
+   "entrou_em": "2026-11-19"
+  },
+  {
    "titulo": "Música no Museu",
    "areas": [
     "Música"
@@ -3215,6 +1657,38 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "titulo": "FIPAZO – Festival de Pole Dance, Aéreos e Danças da Zona Oeste",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Abelardo Barbosa – Chacrinha",
+   "endereco": "Rua Soldado Eliseu Hipólito, s/nº",
+   "bairro": "Pedra de Guaratiba",
+   "regiao": "Zona Oeste",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "14:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Terceira edição do festival não competitivo que reúne artistas de Pedra de Guaratiba e de outras regiões em números de pole dance, circo e dança.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "FIPAZO – Festival Internacional de Pole Dance, Aéreos e Danças da Zona Oeste Sábado e domingo (21 e 22/11), às 14h. R$ 30. 16 anos.",
+   "nota_redacao": "",
+   "id": "2026-11-19-084",
+   "entrou_em": "2026-11-19"
+  },
+  {
    "titulo": "Rio Maracatu",
    "areas": [
     "Música"
@@ -3247,6 +1721,104 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "titulo": "Oficina Cliques e Movimento",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Casa Museu Eva Klabin",
+   "endereco": "Av. Epitácio Pessoa, 2.480",
+   "bairro": "Lagoa",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis (senha 10 minutos antes)",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Crianças a partir de 3 anos criam cenas e histórias em stop motion, com celular, corpo e tecidos. As senhas são distribuídas dez minutos antes.",
+   "fonte": "Site da Casa Museu Eva Klabin (ronda de 19/11)",
+   "link": "https://www.evaklabin.org.br/pt",
+   "trecho_fonte": "A oficina de práticas artísticas [...] Chamada de \"Cliques e Movimentos\", se baseia no uso do \"Stop Motion Studio\", corpos e tecidos [...] voltada para crianças a partir de 3 anos de idade. [...] As oficinas são gratuitas e a participação ocorre mediante a retirada de senhas, dez minutos antes da atividade. Essa atividade estará aberta ao público nos dias 15, 21, 22 e 29 de novembro, sempre às 15h. || Entrada gratuita Classificação livre",
+   "nota_redacao": "A fonte dá dois endereços para a casa: “Avenida Epitácio Pessoa, 2480”, no rodapé do site, e “Praça Benedito Cerqueira, 0 | Lagoa”, no serviço da oficina. Fica o do rodapé, que é o endereço fixo da instituição.",
+   "id": "2026-11-19-140",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Escola do Rock",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Musical baseado no filme de 2003: um guitarrista se passa por professor substituto e monta uma banda com alunos do quinto ano para disputar a Batalha das Bandas.",
+   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "trecho_fonte": "Escola do Rock - CEFTEM 14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30 Classificação: Livre Baseado no filme School of Rock, de 2003 [...] ao fingir ser um professor substituto em uma prestigiosa e conservadora escola, Dewey forma um grupo do quinto ano, na tentativa de ganhar o próximo concurso: a Batalha das Bandas.",
+   "nota_redacao": "A fonte não informa o preço.",
+   "id": "2026-11-19-143",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Quintal",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 20 a R$ 40",
+   "preco_min": 20,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Cinco crianças do subúrbio estão prestes a perder o quintal onde brincam para um condomínio de luxo. Infantojuvenil sobre a memória dos bairros e o direito de brincar. Último fim de semana.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Quintal” Sábados e domingos às 16h. Até 22/11. R$ 20 a R$40. Livre.",
+   "nota_redacao": "",
+   "id": "2026-11-19-054",
+   "entrou_em": "2026-11-19"
+  },
+  {
    "titulo": "Meu Amigo Tempo – O Tempo Também Brinca",
    "areas": [
     "Infantil"
@@ -3276,6 +1848,71 @@
    "trecho_fonte": "Domingo das Crianças: Luana Rodrigues apresenta Meu Amigo Tempo – O Tempo Também Brinca Domingo (22/11), às 16h. R$ 10 a R$ 20. Livre.",
    "nota_redacao": "",
    "id": "2026-11-19-060",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Sudi – O Elogio da Surdez",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 (meia R$ 15)",
+   "preco_min": 15,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Libras em cena",
+   "na_rua": false,
+   "sinopse": "Uma menina que percebe o mundo pelos olhos, pela pele e pelas mãos parte em busca da Flor de Oto, ao lado de uma amiga que fala Libras.",
+   "fonte": "Site CCBB Rio",
+   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/sudi-o-elogio-da-surdez/",
+   "trecho_fonte": "Sudi – O Elogio da Surdez 21/11/26 a 22/11/26 ... Livre 16h Teatro I R$30 (inteira) | R$15 (meia-entrada)",
+   "nota_redacao": "Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.",
+   "id": "2026-11-19-109",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Cartografia de Futuros Imaginários – Casa Aberta",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "evento",
+   "local": "Casa Firjan",
+   "endereco": "Rua Guilhermina Guinle, 211",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis (sujeito a lotação)",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Atividade de uma hora para criar zines com palavras, imagens e recortes.",
+   "fonte": "Site da Casa Firjan (ronda de 19/11)",
+   "link": "https://casafirjan.com.br/",
+   "trecho_fonte": "21 de novembro de 2026 Sábado Horário: 16h00 | Duração: 1h Cartografia de Futuros Imaginários | Atividade Casa Aberta Crie zines com palavras, imagens e recortes, transforme ideias em narrativas e explore diferentes caminhos para o amanhã. || 22 de novembro de 2026 Domingo Horário: 16h00 | Duração: 1h Cartografia de Futuros Imaginários | Atividade Casa Aberta || Sábados e domingos Horário: 16h [...] Atividade gratuita, sujeito a lotação [...] Classificação: 12 anos",
+   "nota_redacao": "",
+   "id": "2026-11-19-138",
    "entrou_em": "2026-11-19"
   },
   {
@@ -3410,6 +2047,75 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "titulo": "Moraes Musical Moreira",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Carlos Gomes",
+   "endereco": "Praça Tiradentes, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "17:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 40 a R$ 80",
+   "preco_min": 40,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Musical sobre a vida e a obra de Moraes Moreira, em linguagem de cordel: o Poeta Cantador revisita a jornada do jovem Vaqueiro do Som pelo país.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Moraes Musical Moreira” Quintas e sextas-feiras, às 19h, sábados, às 17h e às 20h, e domingos, às 17h. R$ 40 a R$ 80. 12 anos.",
+   "nota_redacao": "",
+   "id": "2026-11-19-013",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Entre o Sim e o Nunca",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 (meia R$ 15)",
+   "preco_min": 15,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Aos 35 anos, uma mulher descobre que o pai registrado não é o biológico e sai em busca da própria origem. Drama com humor.",
+   "fonte": "Site CCBB Rio",
+   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/",
+   "trecho_fonte": "Entre o Sim e o Nunca 04/11/26 a 29/11/26 ... 12 anos Qua a Sáb, 19h | Dom, 17h Teatro III R$ 30 (inteira) | R$ 15 (meia-entrada)",
+   "nota_redacao": "Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.",
+   "id": "2026-11-19-104",
+   "entrou_em": "2026-11-19"
+  },
+  {
    "titulo": "Ensaio de rua da Estação Primeira de Mangueira",
    "areas": [
     "Festas & Feiras",
@@ -3443,6 +2149,70 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "titulo": "Equina",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Espetáculo de dança de Aline Bernardi e Dani Lima sobre os laços de cuidado entre humanos e cavalos, a partir da pesquisa de doutorado de Aline.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Equina” sábados 19h e domingos 18h. Até 29/11. R$ 30 a R$ 60. 18 anos.",
+   "nota_redacao": "",
+   "id": "2026-11-19-002",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Urban Charme – Mostra de Charme (10 anos)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 20 a R$ 40",
+   "preco_min": 20,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Na edição de dez anos, trinta grupos de dança charme e hip hop se dividem em duas noites em Madureira.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Urban Charme – Mostra de Charme (10 anos) Sábado e domingo (21 e 22/11), às 18h. R$ 20 a R$ 40. Livre.",
+   "nota_redacao": "",
+   "id": "2026-11-19-069",
+   "entrou_em": "2026-11-19"
+  },
+  {
    "titulo": "Ensaio de rua da Portela",
    "areas": [
     "Festas & Feiras",
@@ -3473,6 +2243,230 @@
    "trecho_fonte": "A temporada de preparação para o Carnaval 2027 já começou e as escolas do Grupo Especial do Rio estão tomando as ruas com entrada gratuita [...] DOMINGO: • Portela • Madureira (Esquina da Rua Clara Nunes com Estrada do Portela), a partir das 18h.",
    "nota_redacao": "Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.",
    "id": "2026-11-19-178",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Minha Vó Ri",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Primeiro solo de Júlia Bernat, dirigido por Débora Lamm. Mistura autoficção e pesquisa sobre a história do ativismo lésbico, com trilha de Ângela Ro Ro e Cássia Eller.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Minha Vó Ri” Sextas e Sábados às 20h, Domingos às 19h. Classificação 14 anos R$ 30 a R$ 60.",
+   "nota_redacao": "",
+   "id": "2026-11-19-001",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Nada sob Controle",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Café Pequeno",
+   "endereco": "Av. Ataulfo de Paiva, 269",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 15 a R$ 30",
+   "preco_min": 15,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Comédia circense do Circo Teatro Saltimbanco, feita de situações cômicas, desencontros e improviso, na tradição do palhaço de circo. Última semana.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "“Nada sob Controle” 13 a 22 de novembro Sextas e Sábados às 20h e Domingos às 19h R$ 15 | R$ 30. 14 anos. Nada Sob Controle é um espetáculo de comédia circense do Circo Teatro Saltimbanco",
+   "nota_redacao": "O PDF traz o espetáculo dentro do bloco do Teatro Café Pequeno, logo depois de “O Último Dia da Minha Vida”, sem repetir o nome do teatro.",
+   "id": "2026-11-19-004",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Superiores",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Nove atores criam com o corpo e a voz todos os sons e ambientes de uma fábula sobre poder, falada numa língua inventada que o público entende pelo som.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Superiores” Sextas e sábados, 20h, domingos, 19h. Até 29/11. R$ 30 a R$ 60. Livre.",
+   "nota_redacao": "",
+   "id": "2026-11-19-006",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "As Irmãs Pereira",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Três irmãs entre os 60 e os 70 anos se reúnem numa casa do Largo do Boticário para decidir onde jogar as cinzas da mãe, e acabam revirando o passado e os desejos do presente.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “As Irmãs Pereira” Sextas-feiras e sábados às 20h, e domingo às 19h. R$ 35 a R$ 70. 12 anos.",
+   "nota_redacao": "",
+   "id": "2026-11-19-053",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Confissões de Adolescente – o musical",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Versão musical inédita da história sobre as dores e as descobertas de crescer.",
+   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "trecho_fonte": "Confissões de Adolescente 23 de outubro a 29 de novembro | Sextas às 20h, Sábados e Domingos às 19h Classificação: 16 anos FENÔMENO QUE MARCOU GERAÇÕES, ‘CONFISSÕES DE ADOLESOCENTE’ RETORNA AOS PALCOS EM VERSÃO MUSICAL INÉDITA.",
+   "nota_redacao": "A fonte não informa o preço.",
+   "id": "2026-11-19-142",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "O Mercador de Veneza",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Casa Grande (Teatro Axia Casa Grande)",
+   "endereco": "Av. Afrânio de Melo Franco, 290",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "A peça de William Shakespeare, com direção de Daniela Stirbulov e Dan Stulbach no papel do agiota Shylock. Dura duas horas. Curta temporada, até 29 de novembro.",
+   "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
+   "link": "https://www.teatroaxiacasagrande.com.br/programacao/",
+   "trecho_fonte": "CURTA TEMPORADA O Mercador de Veneza 07 de Novembro a 29 de Novembro [...] Data: 7 a 29 de novembro de 2026 Horário: Sábado às 21h00 e Domingo às 19h00 Abertura da casa: 1 hora antes do evento || O Mercador de Veneza, do dramaturgo inglês William Shakespeare [...] A peça tem direção de Daniela Stirbulov e é protagonizada por Dan Stulbach que dá vida ao marcante agiota Shylock [...] Duração: 120 minutos [...] Classificação etária: 14 anos.",
+   "nota_redacao": "A coleta não trouxe o preço.",
+   "id": "2026-11-19-148",
+   "entrou_em": "2026-11-19"
+  },
+  {
+   "titulo": "Adorável Face de Andronieva Petrosa",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeirinha",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Primeiro solo de Fabianna de Mello e Souza, em 40 anos de carreira: uma atriz recebe uma carta anônima que a acusa de plágio e passa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e direção de Denise Stutz.",
+   "fonte": "Site do Teatro Poeira (ronda de 19/11)",
+   "link": "https://www.teatropoeira.com.br/",
+   "trecho_fonte": "Adoravel Face TEATRO POEIRINHA 29 OUT a 20 DEZ QUI a SAB 20h e DOM 19h [...] Após 40 anos de carreira, Fabianna de Mello e Souza atua em seu primeiro solo, que transforma uma acusação de plágio em reflexão [...] ‘Adorável Face de Andronieva Petrosa’, solo de Fabianna de Mello e Souza, com dramaturgia de Cecilia Ripoll e direção de Denise Stutz, fará uma temporada no Teatro Poeirinha, de 29 de outubro a 20 de dezembro, com sessões de quinta à sábado, às 20h e domingos [...] Em cena, uma atriz recebe uma carta anônima acusando-a de plágio. [...] o que é original? || CLASSIFICAÇÃO: Livre",
+   "nota_redacao": "A coleta não trouxe o preço.",
+   "id": "2026-11-19-151",
    "entrou_em": "2026-11-19"
   },
   {

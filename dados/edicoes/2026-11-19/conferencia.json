@@ -80,36 +80,12 @@
    "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
   },
   {
-   "id": "2026-11-19-045",
-   "titulo": "Encontro literário: Maria e o Segredo da Poupança",
-   "campo": "endereco",
-   "veredito": "nao_encontrado",
-   "detalhe": "A fonte traz só \"Biblioteca Ziraldo\", sem endereço nem bairro, logo abaixo do bloco da Cidade das Artes. A ficha usa \"Av. das Américas, 5.300, Barra da Tijuca\" e acrescenta \"(Cidade das Artes)\" ao local. Nota do redator: \"O PDF não dá o endereço da Biblioteca Ziraldo; usei o da Cidade das Artes, onde ela funciona (regulamento das bibliotecas da SMC...)\".",
-   "resolucao": "Mantido: o regulamento das bibliotecas da SMC lista a “Biblioteca Municipal Ziraldo, Av. das Américas, Barra da Tijuca”, e a imprensa a situa na Cidade das Artes."
-  },
-  {
    "id": "2026-11-19-062",
    "titulo": "Música Brasilis",
    "campo": "sinopse",
    "veredito": "nao_encontrado",
    "detalhe": "A ficha diz \"Exposição sobre a história da música brasileira\". A fonte traz só \"Exposição “Música Brasilis” Terça-feira a domingo, das 10h às 17h. Grátis. Livre.\", sem descrição.",
    "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
-  },
-  {
-   "id": "2026-11-19-065",
-   "titulo": "Contação de histórias: Mapa do Tesouro",
-   "campo": "local",
-   "veredito": "diverge",
-   "detalhe": "A ficha chama o espaço de \"Arena Carioca Dicró\". Na fonte semanal o cabeçalho é \"Arena Cultural Carlos Roberto de Oliveira - Dicró\"; na do Novembro Negro, \"Arena Cultural Dicró\". \"Arena Carioca\" não aparece em nenhuma.",
-   "resolucao": "Corrigido: “Arena Cultural Dicró”."
-  },
-  {
-   "id": "2026-11-19-066",
-   "titulo": "Fora do Quadro",
-   "campo": "local",
-   "veredito": "diverge",
-   "detalhe": "A ficha chama o espaço de \"Arena Carioca Dicró\". Na fonte semanal o cabeçalho é \"Arena Cultural Carlos Roberto de Oliveira - Dicró\"; na do Novembro Negro, \"Arena Cultural Dicró\". \"Arena Carioca\" não aparece em nenhuma.",
-   "resolucao": "Corrigido: “Arena Cultural Dicró”."
   },
   {
    "id": "2026-11-19-067",
@@ -142,30 +118,6 @@
    "veredito": "duvida",
    "detalhe": "A fonte diz \"Até 27 de novembro, às 11h\", sem dizer em quais dias da semana nem em que praça (\"Livros nas Praças\"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária \"A partir das 11h\" na areninha; a fonte diz \"às 11h\" e não confirma que é todo dia.",
    "resolucao": "Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”."
-  },
-  {
-   "id": "2026-11-19-093",
-   "titulo": "Mostra de Cenas e Performances (Mostra do Impossível)",
-   "campo": "preco_texto",
-   "veredito": "duvida",
-   "detalhe": "A fonte do Novembro Negro diz que a Mostra é \"Majoritariamente gratuito; apenas uma sessão com ingressos a preços populares (R$ 10 a inteira e R$ 5 a meia)\", sem dizer qual. A semanal só atribui \"R$ 5 a R$ 10\" aos dias 19 e 20/11 no Teatro Correios Léa Garcia, o que sugere que a noite de 21/11 no Terreiro Contemporâneo seja gratuita, mas nenhuma fonte afirma isso. A ficha publica \"Grátis ou até R$ 10 (ver programação)\", min 5, max 10, gratis=false.",
-   "resolucao": "Mantido: o texto “Grátis ou até R$ 10 (ver programação)” cobre o que a fonte diz, e a ficha leva à programação oficial da mostra."
-  },
-  {
-   "id": "2026-11-19-094",
-   "titulo": "OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)",
-   "campo": "trecho_fonte",
-   "veredito": "nao_encontrado",
-   "detalhe": "O trecho termina com \"[idem em 20/11 e 21/11]\", que é anotação do redator e não existe na fonte. O restante confere (\"Horário contínuo – Exposição OFÁ/Um Corpo Flecha, de Rona Neves (Galeria Quilombo)\" aparece em 19, 20 e 21/11).",
-   "resolucao": "Corrigido: anotação retirada do trecho."
-  },
-  {
-   "id": "2026-11-19-094",
-   "titulo": "OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)",
-   "campo": "preco_texto",
-   "veredito": "duvida",
-   "detalhe": "A ficha deixa o preço vazio e gratis=false. A fonte não dá preço da exposição, mas diz que a Mostra é \"Majoritariamente gratuito; apenas uma sessão com ingressos a preços populares\"; o mais provável é que a exposição seja gratuita, sem confirmação expressa.",
-   "resolucao": "Mantido: preço fica como não informado."
   },
   {
    "id": "2026-11-19-138",
@@ -245,22 +197,6 @@
    "campo": "classificacao",
    "veredito": "diverge",
    "detalhe": "A ficha deixa vazio. F123 traz \"CLASSIFICAÇÃO: Livre\" (e \"DURAÇÃO: 50 minutos\").",
-   "resolucao": "Corrigido: Livre."
-  },
-  {
-   "id": "2026-11-19-144",
-   "titulo": "Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F084 traz, logo abaixo da data, \"Classificação: Livre\".",
-   "resolucao": "Corrigido: Livre."
-  },
-  {
-   "id": "2026-11-19-145",
-   "titulo": "Oficina Da Imaginação à Selva: uma aventura pela floresta de Mogli",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F084 traz \"21 de novembro | Sábado, das 10h30 às 12h30 Classificação: Livre\".",
    "resolucao": "Corrigido: Livre."
   },
   {

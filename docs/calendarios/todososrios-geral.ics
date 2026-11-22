@@ -8,38 +8,8 @@ X-WR-TIMEZONE:America/Sao_Paulo
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:2026-11-19-092-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T090000Z
-DTEND:20261121T110000Z
-SUMMARY:40 Anos do Monumento a Zumbi
-LOCATION:Monumento a Zumbi dos Palmares\, Praça XI\, em frente ao Terrei
- rão do Samba – Praça XI
-DESCRIPTION:Três dias de festa na Praça XI pelos 40 anos do monumento: 
- shows\, blocos afro\, afoxés\, escolas de samba\, feira de negócios e 
- gastronomia.\n\nGrátis · Livre\n\nFonte: https://cultura.prefeitura.ri
- o/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Festas & Feiras
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-090-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T110000Z
-DTEND:20261121T130000Z
-SUMMARY:Amanhecer Rio – Festival Cultura e Cuidado
-LOCATION:Passeio Público\, Passeio Público – Centro
-DESCRIPTION:Três manhãs no Passeio Público com shows\, conversas\, iog
- a e feira. Sexta tem Jonathan Ferr\; sábado\, Michael Sullivan\; doming
- o\, a Bateria da Portela e a roda Quintal da Magia. Idealizado por Marcu
- s Faustini.\n\nGrátis · Livre\n\nFonte: https://cultura.prefeitura.rio
- /agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Festas & Feiras\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-090-1@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
 SUMMARY:Amanhecer Rio – Festival Cultura e Cuidado
@@ -53,39 +23,8 @@ URL:https://cultura.prefeitura.rio/agendacultural/
 CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-144-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T123000Z
-DTEND:20261121T143000Z
-SUMMARY:Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade
-LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
- ânico
-DESCRIPTION:Manhã de percussão\, canto e brincadeiras em família sobre
-  ritmos e tradições afro-brasileiras\, em homenagem ao Dia da Consciê
- ncia Negra.\n\nPreço não informado · Livre\n\nFonte: https://ecovilla
- rihappy.com.br/programacao/\nTodos os Rios — agenda cultural aberta do
-  Rio
-URL:https://ecovillarihappy.com.br/programacao/
-CATEGORIES:Infantil\,Música
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-022-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T130000Z
-DTEND:20261121T150000Z
-SUMMARY:Inside Out – 15 anos
-LOCATION:Museu do Amanhã\, Praça Mauá\, 1 – Centro
-DESCRIPTION:Edição especial do projeto do artista francês JR: retratos
-  em preto e branco\, em grande escala\, de gente da vizinhança. O públ
- ico pode tirar sua foto e entrar na intervenção.\n\nGrátis · Livre\n
- \nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios 
- — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Artes Visuais
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-022-1@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Inside Out – 15 anos
@@ -99,1102 +38,8 @@ URL:https://cultura.prefeitura.rio/agendacultural/
 CATEGORIES:Artes Visuais
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-029-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T130000Z
-DTEND:20261121T150000Z
-SUMMARY:Bebês no MAR – exposição Guilherme Kid
-LOCATION:Museu de Arte do Rio (MAR)\, Praça Mauá\, 5 – Centro
-DESCRIPTION:Visita educativa para bebês de 0 a 2 anos e suas famílias. 
- É preciso se inscrever pelo link nas redes do museu.\n\nGrátis (com in
- scrição) · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacultu
- ral/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil\,Artes Visuais
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-029-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:Bebês no MAR – exposição Guilherme Kid
-LOCATION:Museu de Arte do Rio (MAR)\, Praça Mauá\, 5 – Centro
-DESCRIPTION:Visita educativa para bebês de 0 a 2 anos e suas famílias. 
- É preciso se inscrever pelo link nas redes do museu.\n\nGrátis (com in
- scrição) · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacultu
- ral/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil\,Artes Visuais
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-033-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T130000Z
-DTEND:20261121T150000Z
-SUMMARY:Festival Rio Santa – Edição Especial Zumbi dos Palmares
-LOCATION:Parque Glória Maria\, Rua Murtinho Nobre\, 169 – Santa Teresa
-DESCRIPTION:Festival que celebra a cultura negra e a figura de Zumbi dos 
- Palmares no parque de Santa Teresa.\n\nGrátis · Livre\n\nFonte: https:
- //cultura.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultu
- ral aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Festas & Feiras
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-065-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T130000Z
-DTEND:20261121T150000Z
-SUMMARY:Contação de histórias: Mapa do Tesouro
-LOCATION:Arena Cultural Dicró\, Rua Flora Lobo\, Parque Ary Barroso\, s/
- nº – Penha Circular
-DESCRIPTION:Um pirata sai atrás de ouro e\, no caminho\, encontra o meni
- no Dayo e sua avó\, que vive perto do rio. Com Juliana Dandarilê\, na 
- Agroflorestinha da arena.\n\nGrátis · Livre\n\nFonte: https://cultura.
- prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta
-  do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-091-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T130000Z
-DTEND:20261121T150000Z
-SUMMARY:Rolé Estácio – Berço do Samba
-LOCATION:Praça do Estácio (saída B do metrô)\, Praça do Estácio –
-  Estácio
-DESCRIPTION:Caminhada guiada pelas ruas do Estácio\, por lugares e memó
- rias de Ismael Silva\, Bide e da Deixa Falar. Termina na quadra da Está
- cio de Sá\, com feijoada e música a partir das 13h (consumo à parte).
- \n\nGrátis · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacult
- ural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Festas & Feiras\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-145-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T133000Z
-DTEND:20261121T153000Z
-SUMMARY:Oficina Da Imaginação à Selva: uma aventura pela floresta de M
- ogli
-LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
- ânico
-DESCRIPTION:Duas horas de atividades para crianças em torno da mata\, do
- s bichos e das histórias da floresta de Mogli\, dentro da Temporada da 
- Consciência Negra.\n\nGrátis · Livre\n\nFonte: https://ecovillarihapp
- y.com.br/programacao/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://ecovillarihappy.com.br/programacao/
-CATEGORIES:Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-005-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:A Cura da Terra – Pequenas Revoluções
-LOCATION:Teatro Municipal Domingos Oliveira (Planetário)\, Rua Padre Leo
- nel Franca\, 240 – Gávea
-DESCRIPTION:Uma banda se prepara para o show e conta\, em vozes e histór
- ias\, algumas das principais revoluções indígenas da América Latina.
-  Dialoga com o livro “A Cura da Terra”\, de Eliane Potiguara. Estrei
- a.\n\nGrátis · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacu
- ltural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-005-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:A Cura da Terra – Pequenas Revoluções
-LOCATION:Teatro Municipal Domingos Oliveira (Planetário)\, Rua Padre Leo
- nel Franca\, 240 – Gávea
-DESCRIPTION:Uma banda se prepara para o show e conta\, em vozes e histór
- ias\, algumas das principais revoluções indígenas da América Latina.
-  Dialoga com o livro “A Cura da Terra”\, de Eliane Potiguara. Estrei
- a.\n\nGrátis · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacu
- ltural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-019-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:Zuzuê Contos Africanos
-LOCATION:Teatro Municipal Ruth de Souza\, Rua Murtinho Nobre\, 169 – Sa
- nta Teresa
-DESCRIPTION:Paulinha Cavalcanti\, Anderson Barreto e Árvore Vicente narr
- am histórias afro-diaspóricas\, com Libras integrada à cena. Cerca de
-  50 minutos.\n\nR$ 20 a R$ 40 · Livre\n\nFonte: https://cultura.prefeit
- ura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-019-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:Zuzuê Contos Africanos
-LOCATION:Teatro Municipal Ruth de Souza\, Rua Murtinho Nobre\, 169 – Sa
- nta Teresa
-DESCRIPTION:Paulinha Cavalcanti\, Anderson Barreto e Árvore Vicente narr
- am histórias afro-diaspóricas\, com Libras integrada à cena. Cerca de
-  50 minutos.\n\nR$ 20 a R$ 40 · Livre\n\nFonte: https://cultura.prefeit
- ura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-049-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:Baile Charme do Projeto Black Music Soul
-LOCATION:Centro Cultural Professora Dyla Sylvia de Sá\, Rua Barão\, 1.1
- 80 – Praça Seca
-DESCRIPTION:Baile de charme\, tradição da cultura negra e urbana do Rio
- \, em plena manhã de sábado na Praça Seca.\n\nGrátis · Livre\n\nFon
- te: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios — ag
- enda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Festas & Feiras\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-164-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T140000Z
-DTEND:20261121T160000Z
-SUMMARY:Bluey – Diversão em Família
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
- o palco feita para a América Latina. Último fim de semana.\n\nA partir
-  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
- y-2026/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://teatromultiplan.com.br/eventos/bluey-2026/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-164-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T180000Z
-DTEND:20261121T200000Z
-SUMMARY:Bluey – Diversão em Família
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
- o palco feita para a América Latina. Último fim de semana.\n\nA partir
-  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
- y-2026/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://teatromultiplan.com.br/eventos/bluey-2026/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-164-2@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T210000Z
-DTEND:20261121T230000Z
-SUMMARY:Bluey – Diversão em Família
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
- o palco feita para a América Latina. Último fim de semana.\n\nA partir
-  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
- y-2026/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://teatromultiplan.com.br/eventos/bluey-2026/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-164-3@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-SUMMARY:Bluey – Diversão em Família
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
- o palco feita para a América Latina. Último fim de semana.\n\nA partir
-  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
- y-2026/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://teatromultiplan.com.br/eventos/bluey-2026/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-164-4@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T180000Z
-DTEND:20261122T200000Z
-SUMMARY:Bluey – Diversão em Família
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
- o palco feita para a América Latina. Último fim de semana.\n\nA partir
-  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
- y-2026/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://teatromultiplan.com.br/eventos/bluey-2026/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-167-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T163000Z
-DTEND:20261121T183000Z
-SUMMARY:O Clube Romance: Quando\, de Carla Madeira
-LOCATION:Livraria da Travessa – BarraShopping\, Av. das Américas\, 4.6
- 66 – Barra da Tijuca
-DESCRIPTION:Encontro do clube de leitura sobre o romance de Carla Madeira
- \, com mediação de Gabriela Campany.\n\nPreço não informado\n\nFonte
- : https://www.travessa.com.br/eventos\nTodos os Rios — agenda cultural
-  aberta do Rio
-URL:https://www.travessa.com.br/eventos
-CATEGORIES:Livros & Debates
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-034-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T170000Z
-DTEND:20261121T190000Z
-SUMMARY:Na capoeira de Carybé
-LOCATION:Centro Municipal de Arte Hélio Oiticica\, Rua Luís de Camões\
- , 68 – Centro
-DESCRIPTION:Conversa sobre a história da capoeira\, criada por pessoas e
- scravizadas no Brasil colonial como forma de resistência. Atividade da 
- programação de férias.\n\nGrátis · Livre\n\nFonte: https://cultura.
- prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta
-  do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Livros & Debates
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-038-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T170000Z
-DTEND:20261121T190000Z
-SUMMARY:Encontro com Vanessa Gomes\, autora de “Fora do Lugar”
-LOCATION:Biblioteca José Bonifácio (Muhcab)\, Rua Pedro Ernesto\, 80 
- – Gamboa
-DESCRIPTION:A escritora conversa sobre literatura\, racismo\, identidade 
- e violência contra a mulher a partir do seu romance.\n\nGrátis\n\nFont
- e: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios — age
- nda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Livros & Debates
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-084-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T170000Z
-DTEND:20261121T190000Z
-SUMMARY:FIPAZO – Festival de Pole Dance\, Aéreos e Danças da Zona Oes
- te
-LOCATION:Arena Cultural Abelardo Barbosa – Chacrinha\, Rua Soldado Elis
- eu Hipólito\, s/nº – Pedra de Guaratiba
-DESCRIPTION:Terceira edição do festival não competitivo que reúne art
- istas de Pedra de Guaratiba e de outras regiões em números de pole dan
- ce\, circo e dança.\n\nR$ 30 · 16 anos\n\nFonte: https://cultura.prefe
- itura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do R
- io
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-084-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T170000Z
-DTEND:20261122T190000Z
-SUMMARY:FIPAZO – Festival de Pole Dance\, Aéreos e Danças da Zona Oes
- te
-LOCATION:Arena Cultural Abelardo Barbosa – Chacrinha\, Rua Soldado Elis
- eu Hipólito\, s/nº – Pedra de Guaratiba
-DESCRIPTION:Terceira edição do festival não competitivo que reúne art
- istas de Pedra de Guaratiba e de outras regiões em números de pole dan
- ce\, circo e dança.\n\nR$ 30 · 16 anos\n\nFonte: https://cultura.prefe
- itura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do R
- io
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-140-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T180000Z
-DTEND:20261121T200000Z
-SUMMARY:Oficina Cliques e Movimento
-LOCATION:Casa Museu Eva Klabin\, Av. Epitácio Pessoa\, 2.480 – Lagoa
-DESCRIPTION:Crianças a partir de 3 anos criam cenas e histórias em stop
-  motion\, com celular\, corpo e tecidos. As senhas são distribuídas de
- z minutos antes.\n\nGrátis (senha 10 minutos antes) · Livre\n\nFonte: 
- https://www.evaklabin.org.br/pt\nTodos os Rios — agenda cultural abert
- a do Rio
-URL:https://www.evaklabin.org.br/pt
-CATEGORIES:Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-140-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T180000Z
-DTEND:20261122T200000Z
-SUMMARY:Oficina Cliques e Movimento
-LOCATION:Casa Museu Eva Klabin\, Av. Epitácio Pessoa\, 2.480 – Lagoa
-DESCRIPTION:Crianças a partir de 3 anos criam cenas e histórias em stop
-  motion\, com celular\, corpo e tecidos. As senhas são distribuídas de
- z minutos antes.\n\nGrátis (senha 10 minutos antes) · Livre\n\nFonte: 
- https://www.evaklabin.org.br/pt\nTodos os Rios — agenda cultural abert
- a do Rio
-URL:https://www.evaklabin.org.br/pt
-CATEGORIES:Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-143-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T180000Z
-DTEND:20261121T200000Z
-SUMMARY:Escola do Rock
-LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
- ânico
-DESCRIPTION:Musical baseado no filme de 2003: um guitarrista se passa por
-  professor substituto e monta uma banda com alunos do quinto ano para di
- sputar a Batalha das Bandas.\n\nPreço não informado · Livre\n\nFonte:
-  https://ecovillarihappy.com.br/programacao/\nTodos os Rios — agenda c
- ultural aberta do Rio
-URL:https://ecovillarihappy.com.br/programacao/
-CATEGORIES:Teatro\,Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-143-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T180000Z
-DTEND:20261122T200000Z
-SUMMARY:Escola do Rock
-LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
- ânico
-DESCRIPTION:Musical baseado no filme de 2003: um guitarrista se passa por
-  professor substituto e monta uma banda com alunos do quinto ano para di
- sputar a Batalha das Bandas.\n\nPreço não informado · Livre\n\nFonte:
-  https://ecovillarihappy.com.br/programacao/\nTodos os Rios — agenda c
- ultural aberta do Rio
-URL:https://ecovillarihappy.com.br/programacao/
-CATEGORIES:Teatro\,Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-045-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-SUMMARY:Encontro literário: Maria e o Segredo da Poupança
-LOCATION:Biblioteca Municipal Ziraldo (Cidade das Artes)\, Av. das Améri
- cas\, 5.300 – Barra da Tijuca
-DESCRIPTION:Encontro em torno do livro “Maria e o Segredo da Poupança
- ”.\n\nGrátis\n\nFonte: https://cultura.prefeitura.rio/agendacultural/
- \nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Livros & Debates\,Infantil
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-054-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-SUMMARY:Quintal
-LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
- juca
-DESCRIPTION:Cinco crianças do subúrbio estão prestes a perder o quinta
- l onde brincam para um condomínio de luxo. Infantojuvenil sobre a memó
- ria dos bairros e o direito de brincar. Último fim de semana.\n\nR$ 20 
- a R$ 40 · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacultural
- /\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-054-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T190000Z
-DTEND:20261122T210000Z
-SUMMARY:Quintal
-LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
- juca
-DESCRIPTION:Cinco crianças do subúrbio estão prestes a perder o quinta
- l onde brincam para um condomínio de luxo. Infantojuvenil sobre a memó
- ria dos bairros e o direito de brincar. Último fim de semana.\n\nR$ 20 
- a R$ 40 · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacultural
- /\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-109-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-SUMMARY:Sudi – O Elogio da Surdez
-LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
- , 66 – Centro
-DESCRIPTION:Uma menina que percebe o mundo pelos olhos\, pela pele e pela
- s mãos parte em busca da Flor de Oto\, ao lado de uma amiga que fala Li
- bras.\n\nR$ 30 (meia R$ 15) · Livre\n\nFonte: https://ccbb.com.br/rio-d
- e-janeiro/programacao/sudi-o-elogio-da-surdez/\nTodos os Rios — agenda
-  cultural aberta do Rio
-URL:https://ccbb.com.br/rio-de-janeiro/programacao/sudi-o-elogio-da-surde
- z/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-109-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T190000Z
-DTEND:20261122T210000Z
-SUMMARY:Sudi – O Elogio da Surdez
-LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
- , 66 – Centro
-DESCRIPTION:Uma menina que percebe o mundo pelos olhos\, pela pele e pela
- s mãos parte em busca da Flor de Oto\, ao lado de uma amiga que fala Li
- bras.\n\nR$ 30 (meia R$ 15) · Livre\n\nFonte: https://ccbb.com.br/rio-d
- e-janeiro/programacao/sudi-o-elogio-da-surdez/\nTodos os Rios — agenda
-  cultural aberta do Rio
-URL:https://ccbb.com.br/rio-de-janeiro/programacao/sudi-o-elogio-da-surde
- z/
-CATEGORIES:Infantil\,Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-138-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-SUMMARY:Cartografia de Futuros Imaginários – Casa Aberta
-LOCATION:Casa Firjan\, Rua Guilhermina Guinle\, 211 – Botafogo
-DESCRIPTION:Atividade de uma hora para criar zines com palavras\, imagens
-  e recortes.\n\nGrátis (sujeito a lotação) · 12 anos\n\nFonte: https
- ://casafirjan.com.br/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://casafirjan.com.br/
-CATEGORIES:Artes Visuais
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-138-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T190000Z
-DTEND:20261122T210000Z
-SUMMARY:Cartografia de Futuros Imaginários – Casa Aberta
-LOCATION:Casa Firjan\, Rua Guilhermina Guinle\, 211 – Botafogo
-DESCRIPTION:Atividade de uma hora para criar zines com palavras\, imagens
-  e recortes.\n\nGrátis (sujeito a lotação) · 12 anos\n\nFonte: https
- ://casafirjan.com.br/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://casafirjan.com.br/
-CATEGORIES:Artes Visuais
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-159-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-SUMMARY:Danças populares de Moçambique\, com Bela Zango
-LOCATION:Museu do Pontal\, Av. Célia Ribeiro da Silva Mendes\, s/nº –
-  Barra da Tijuca
-DESCRIPTION:A cantora e bailarina moçambicana apresenta a música e as d
- anças tradicionais do seu país. Ela é uma das poucas mulheres a domin
- ar a timbila\, xilofone do povo Chopi.\n\nGrátis (contribuição sugeri
- da de R$ 20)\n\nFonte: https://museudopontal.org.br/programacao/dancas-p
- opulares-mocambique-21nov/\nTodos os Rios — agenda cultural aberta do 
- Rio
-URL:https://museudopontal.org.br/programacao/dancas-populares-mocambique-
- 21nov/
-CATEGORIES:Festas & Feiras\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-013-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T200000Z
-DTEND:20261121T220000Z
-SUMMARY:Moraes Musical Moreira
-LOCATION:Teatro Municipal Carlos Gomes\, Praça Tiradentes\, s/nº – Ce
- ntro
-DESCRIPTION:Musical sobre a vida e a obra de Moraes Moreira\, em linguage
- m de cordel: o Poeta Cantador revisita a jornada do jovem Vaqueiro do So
- m pelo país.\n\nR$ 40 a R$ 80 · 12 anos\n\nFonte: https://cultura.pref
- eitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do 
- Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-013-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:Moraes Musical Moreira
-LOCATION:Teatro Municipal Carlos Gomes\, Praça Tiradentes\, s/nº – Ce
- ntro
-DESCRIPTION:Musical sobre a vida e a obra de Moraes Moreira\, em linguage
- m de cordel: o Poeta Cantador revisita a jornada do jovem Vaqueiro do So
- m pelo país.\n\nR$ 40 a R$ 80 · 12 anos\n\nFonte: https://cultura.pref
- eitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do 
- Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-013-2@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T200000Z
-DTEND:20261122T220000Z
-SUMMARY:Moraes Musical Moreira
-LOCATION:Teatro Municipal Carlos Gomes\, Praça Tiradentes\, s/nº – Ce
- ntro
-DESCRIPTION:Musical sobre a vida e a obra de Moraes Moreira\, em linguage
- m de cordel: o Poeta Cantador revisita a jornada do jovem Vaqueiro do So
- m pelo país.\n\nR$ 40 a R$ 80 · 12 anos\n\nFonte: https://cultura.pref
- eitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do 
- Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-058-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T200000Z
-DTEND:20261121T220000Z
-SUMMARY:Baú da Dona Ivone Lara\, com Bruno Castro e Áurea Martins
-LOCATION:Centro da Música Carioca Artur da Távola\, Rua Conde de Bonfim
- \, 824 – Tijuca
-DESCRIPTION:Parceiro de Dona Ivone Lara por mais de vinte anos\, Bruno Ca
- stro canta clássicos e sambas pouco conhecidos da Primeira-Dama do Samb
- a\, com participação de Áurea Martins.\n\nR$ 30 a R$ 60 (moradores do
-  Rio pagam meia) · Livre\n\nFonte: https://cultura.prefeitura.rio/agend
- acultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-110-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T200000Z
-DTEND:20261121T220000Z
-SUMMARY:Samba do Sacramento
-LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
- , 66 – Centro
-DESCRIPTION:A roda comandada por Marcos Sacramento volta ao CCBB\, com Ri
- ta Benneditto\, Nilze Carvalho\, Nina Rosa e DJs.\n\nGrátis · Livre\n\
- nFonte: https://ccbb.com.br/rio-de-janeiro/programacao/samba-do-sacramen
- to/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://ccbb.com.br/rio-de-janeiro/programacao/samba-do-sacramento/
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-018-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T210000Z
-DTEND:20261121T230000Z
-SUMMARY:Tudo Entre Nós – leitura dramatizada e roda de conversa
-LOCATION:Teatro Correios Léa Garcia\, Rua Visconde de Itaboraí\, 20 –
-  Centro
-DESCRIPTION:Dezesseis anos depois da separação\, um ex-casal negro e ma
- duro se reencontra para vender o apartamento. Comédia romântica de Dav
- i Martins\, com Lica Oliveira e Valdo Boaventura\, seguida do “Papo en
- tre Nós”.\n\nGrátis · 16 anos\n\nFonte: https://cultura.prefeitura.
- rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-069-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T210000Z
-DTEND:20261121T230000Z
-SUMMARY:Urban Charme – Mostra de Charme (10 anos)
-LOCATION:Arena Cultural Fernando Torres\, Rua Bernardino de Andrade\, 200
-  (Parque de Madureira) – Madureira
-DESCRIPTION:Na edição de dez anos\, trinta grupos de dança charme e hi
- p hop se dividem em duas noites em Madureira.\n\nR$ 20 a R$ 40 · Livre\
- n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios 
- — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-069-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T210000Z
-DTEND:20261122T230000Z
-SUMMARY:Urban Charme – Mostra de Charme (10 anos)
-LOCATION:Arena Cultural Fernando Torres\, Rua Bernardino de Andrade\, 200
-  (Parque de Madureira) – Madureira
-DESCRIPTION:Na edição de dez anos\, trinta grupos de dança charme e hi
- p hop se dividem em duas noites em Madureira.\n\nR$ 20 a R$ 40 · Livre\
- n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios 
- — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-175-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T210000Z
-DTEND:20261121T230000Z
-SUMMARY:Ensaio de rua da Mocidade Independente
-LOCATION:Avenida Ministro Ary Franco\, Avenida Ministro Ary Franco – Pa
- dre Miguel
-DESCRIPTION:A Mocidade de Padre Miguel ensaia na Avenida Ministro Ary Fra
- nco\, preparando o Carnaval 2027. Escola de samba do Grupo Especial.\n\n
- Grátis\n\nFonte: \nTodos os Rios — agenda cultural aberta do Rio
-URL:
-CATEGORIES:Festas & Feiras\,Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-002-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Equina
-LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
-  do nº 292 – Humaitá
-DESCRIPTION:Espetáculo de dança de Aline Bernardi e Dani Lima sobre os 
- laços de cuidado entre humanos e cavalos\, a partir da pesquisa de dout
- orado de Aline.\n\nR$ 30 a R$ 60 · 18 anos\n\nFonte: https://cultura.pr
- efeitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta d
- o Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-002-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T210000Z
-DTEND:20261122T230000Z
-SUMMARY:Equina
-LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
-  do nº 292 – Humaitá
-DESCRIPTION:Espetáculo de dança de Aline Bernardi e Dani Lima sobre os 
- laços de cuidado entre humanos e cavalos\, a partir da pesquisa de dout
- orado de Aline.\n\nR$ 30 a R$ 60 · 18 anos\n\nFonte: https://cultura.pr
- efeitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta d
- o Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-064-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Corpo-Encruzilhada
-LOCATION:Centro Coreográfico da Cidade do Rio de Janeiro\, Rua José Hig
- ino\, 115 – Tijuca
-DESCRIPTION:Dança-teatro com percussão ao vivo\, inspirada nos itans de
-  Exu\, orixá dos caminhos. Aproxima saberes afro-brasileiros das vivên
- cias da juventude periférica.\n\nGrátis · 12 anos\n\nFonte: https://c
- ultura.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultural
-  aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-066-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Fora do Quadro
-LOCATION:Arena Cultural Dicró\, Rua Flora Lobo\, Parque Ary Barroso\, s/
- nº – Penha Circular
-DESCRIPTION:Espetáculo de dança em que o muro de um quartel símbolo da
-  ditadura vira passarela para ballroom\, voguing\, waacking\, hip hop\, 
- jazz e sapateado.\n\nGrátis · 18 anos\n\nFonte: https://cultura.prefei
- tura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Ri
- o
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-074-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Batalha na Areninha
-LOCATION:Areninha Cultural Carlos Zéfiro\, Estrada Marechal Alencastro\,
-  s/nº – Anchieta
-DESCRIPTION:Encontro de MCs em Anchieta: rimas\, improviso e prêmio em d
- inheiro para quem vencer a noite.\n\nGrátis\n\nFonte: https://cultura.p
- refeitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta 
- do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-081-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Felipe Ferreira – Novo
-LOCATION:Areninha Cultural Hermeto Pascoal\, Praça Primeiro de Maio\, s/
- nº – Bangu
-DESCRIPTION:Stand-up do humorista da Pavuna\, conhecido pelos vídeos nas
-  redes.\n\nR$ 35 a R$ 60 · 16 anos\n\nFonte: https://cultura.prefeitura
- .rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-088-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:No Ritmo do Circo
-LOCATION:Areninha Cultural Gilberto Gil\, Av. Marechal Fontenelle\, 5.000
-  – Realengo
-DESCRIPTION:Espetáculo de circo na areninha de Realengo. A fonte não tr
- az mais detalhes.\n\nR$ 40 · Livre\n\nFonte: https://cultura.prefeitura
- .rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-093-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Mostra de Cenas e Performances (Mostra do Impossível)
-LOCATION:Terreiro Contemporâneo (Teatro Chica Xavier\, Galeria Quilombo 
- e Sala Rubens Barbot)\, Rua Carlos de Carvalho\, 53 – Centro
-DESCRIPTION:Noite de cenas curtas e performances de artistas negros\, em 
- sequência\, nos três espaços do Terreiro Contemporâneo. Encerra a 8
- ª Mostra do Impossível.\n\nGrátis ou até R$ 10 (ver programação) 
- · Livre\n\nFonte: https://confrariadoimpossivel.com/2026-mostra-do-impo
- ssivel/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://confrariadoimpossivel.com/2026-mostra-do-impossivel/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-104-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Entre o Sim e o Nunca
-LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
- , 66 – Centro
-DESCRIPTION:Aos 35 anos\, uma mulher descobre que o pai registrado não 
- é o biológico e sai em busca da própria origem. Drama com humor.\n\nR
- $ 30 (meia R$ 15) · 12 anos\n\nFonte: https://ccbb.com.br/rio-de-janeir
- o/programacao/entre-sim-e-o-nunca/\nTodos os Rios — agenda cultural ab
- erta do Rio
-URL:https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-104-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T200000Z
-DTEND:20261122T220000Z
-SUMMARY:Entre o Sim e o Nunca
-LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
- , 66 – Centro
-DESCRIPTION:Aos 35 anos\, uma mulher descobre que o pai registrado não 
- é o biológico e sai em busca da própria origem. Drama com humor.\n\nR
- $ 30 (meia R$ 15) · 12 anos\n\nFonte: https://ccbb.com.br/rio-de-janeir
- o/programacao/entre-sim-e-o-nunca/\nTodos os Rios — agenda cultural ab
- erta do Rio
-URL:https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-104-2@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261125T220000Z
-DTEND:20261126T000000Z
-SUMMARY:Entre o Sim e o Nunca
-LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
- , 66 – Centro
-DESCRIPTION:Aos 35 anos\, uma mulher descobre que o pai registrado não 
- é o biológico e sai em busca da própria origem. Drama com humor.\n\nR
- $ 30 (meia R$ 15) · 12 anos\n\nFonte: https://ccbb.com.br/rio-de-janeir
- o/programacao/entre-sim-e-o-nunca/\nTodos os Rios — agenda cultural ab
- erta do Rio
-URL:https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-142-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-SUMMARY:Confissões de Adolescente – o musical
-LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
- ânico
-DESCRIPTION:Versão musical inédita da história sobre as dores e as des
- cobertas de crescer.\n\nPreço não informado · 16 anos\n\nFonte: https
- ://ecovillarihappy.com.br/programacao/\nTodos os Rios — agenda cultura
- l aberta do Rio
-URL:https://ecovillarihappy.com.br/programacao/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-142-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:Confissões de Adolescente – o musical
-LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
- ânico
-DESCRIPTION:Versão musical inédita da história sobre as dores e as des
- cobertas de crescer.\n\nPreço não informado · 16 anos\n\nFonte: https
- ://ecovillarihappy.com.br/programacao/\nTodos os Rios — agenda cultura
- l aberta do Rio
-URL:https://ecovillarihappy.com.br/programacao/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-001-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:Minha Vó Ri
-LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
-  do nº 292 – Humaitá
-DESCRIPTION:Primeiro solo de Júlia Bernat\, dirigido por Débora Lamm. M
- istura autoficção e pesquisa sobre a história do ativismo lésbico\, 
- com trilha de Ângela Ro Ro e Cássia Eller.\n\nR$ 30 a R$ 60 · 14 anos
- \n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios
-  — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-001-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:Minha Vó Ri
-LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
-  do nº 292 – Humaitá
-DESCRIPTION:Primeiro solo de Júlia Bernat\, dirigido por Débora Lamm. M
- istura autoficção e pesquisa sobre a história do ativismo lésbico\, 
- com trilha de Ângela Ro Ro e Cássia Eller.\n\nR$ 30 a R$ 60 · 14 anos
- \n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios
-  — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-004-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:Nada sob Controle
-LOCATION:Teatro Municipal Café Pequeno\, Av. Ataulfo de Paiva\, 269 – 
- Leblon
-DESCRIPTION:Comédia circense do Circo Teatro Saltimbanco\, feita de situ
- ações cômicas\, desencontros e improviso\, na tradição do palhaço 
- de circo. Última semana.\n\nR$ 15 a R$ 30 · 14 anos\n\nFonte: https://
- cultura.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultura
- l aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-004-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:Nada sob Controle
-LOCATION:Teatro Municipal Café Pequeno\, Av. Ataulfo de Paiva\, 269 – 
- Leblon
-DESCRIPTION:Comédia circense do Circo Teatro Saltimbanco\, feita de situ
- ações cômicas\, desencontros e improviso\, na tradição do palhaço 
- de circo. Última semana.\n\nR$ 15 a R$ 30 · 14 anos\n\nFonte: https://
- cultura.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultura
- l aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-006-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:Superiores
-LOCATION:Teatro Municipal Domingos Oliveira (Planetário)\, Rua Padre Leo
- nel Franca\, 240 – Gávea
-DESCRIPTION:Nove atores criam com o corpo e a voz todos os sons e ambient
- es de uma fábula sobre poder\, falada numa língua inventada que o púb
- lico entende pelo som.\n\nR$ 30 a R$ 60 · Livre\n\nFonte: https://cultu
- ra.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultural abe
- rta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-006-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:Superiores
-LOCATION:Teatro Municipal Domingos Oliveira (Planetário)\, Rua Padre Leo
- nel Franca\, 240 – Gávea
-DESCRIPTION:Nove atores criam com o corpo e a voz todos os sons e ambient
- es de uma fábula sobre poder\, falada numa língua inventada que o púb
- lico entende pelo som.\n\nR$ 30 a R$ 60 · Livre\n\nFonte: https://cultu
- ra.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultural abe
- rta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-053-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:As Irmãs Pereira
-LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
- juca
-DESCRIPTION:Três irmãs entre os 60 e os 70 anos se reúnem numa casa do
-  Largo do Boticário para decidir onde jogar as cinzas da mãe\, e acaba
- m revirando o passado e os desejos do presente.\n\nR$ 35 a R$ 70 · 12 a
- nos\n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os R
- ios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-053-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:As Irmãs Pereira
-LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
- juca
-DESCRIPTION:Três irmãs entre os 60 e os 70 anos se reúnem numa casa do
-  Largo do Boticário para decidir onde jogar as cinzas da mãe\, e acaba
- m revirando o passado e os desejos do presente.\n\nR$ 35 a R$ 70 · 12 a
- nos\n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os R
- ios — agenda cultural aberta do Rio
-URL:https://cultura.prefeitura.rio/agendacultural/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-151-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:Adorável Face de Andronieva Petrosa
-LOCATION:Teatro Poeirinha\, Rua São João Batista\, 104 – Botafogo
-DESCRIPTION:Primeiro solo de Fabianna de Mello e Souza\, em 40 anos de ca
- rreira: uma atriz recebe uma carta anônima que a acusa de plágio e pas
- sa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e dir
- eção de Denise Stutz.\n\nPreço não informado · Livre\n\nFonte: http
- s://www.teatropoeira.com.br/\nTodos os Rios — agenda cultural aberta d
- o Rio
-URL:https://www.teatropoeira.com.br/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-151-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:Adorável Face de Andronieva Petrosa
-LOCATION:Teatro Poeirinha\, Rua São João Batista\, 104 – Botafogo
-DESCRIPTION:Primeiro solo de Fabianna de Mello e Souza\, em 40 anos de ca
- rreira: uma atriz recebe uma carta anônima que a acusa de plágio e pas
- sa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e dir
- eção de Denise Stutz.\n\nPreço não informado · Livre\n\nFonte: http
- s://www.teatropoeira.com.br/\nTodos os Rios — agenda cultural aberta d
- o Rio
-URL:https://www.teatropoeira.com.br/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-170-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T230000Z
-DTEND:20261122T010000Z
-SUMMARY:Muato – DERÊ: Concerto sobre o Pagode
-LOCATION:Teatro Bangu Shopping\, Rua da Fonseca\, 240 – Bangu
-DESCRIPTION:Sozinho no palco\, com voz\, violão de oito cordas\, guitarr
- a\, pedais de loop e samples\, o artista revisita o pagode nascido no su
- búrbio carioca nos anos 90\, entre música\, manifesto e poesia.\n\nPre
- ço não informado · Livre\n\nFonte: https://teatrobangushopping.com.br
- /evento/muato-concerto-sobre-o-pagode\nTodos os Rios — agenda cultural
-  aberta do Rio
-URL:https://teatrobangushopping.com.br/evento/muato-concerto-sobre-o-pago
- de
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-126-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261121T233000Z
-DTEND:20261122T013000Z
-SUMMARY:Leonardo Bessa
-LOCATION:Carioca da Gema\, Av. Mem de Sá\, 79 – Lapa
-DESCRIPTION:O cantor e compositor do Salgueiro passa por samba de raiz\, 
- pagode e sambas-enredo\, com histórias entre as músicas.\n\nR$ 35\n\nF
- onte: https://www.barcariocadagema.com.br/shows\nTodos os Rios — agend
- a cultural aberta do Rio
-URL:https://www.barcariocadagema.com.br/shows
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-114-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T000000Z
-DTEND:20261122T020000Z
-SUMMARY:Rockeria 14 anos
-LOCATION:Circo Voador\, Rua dos Arcos\, s/nº – Lapa
-DESCRIPTION:A festa de rock celebra 14 anos com show da Vaa Surf Band e D
- Js convidados.\n\nPreço não informado\n\nFonte: https://www.circovoado
- r.com.br/\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://www.circovoador.com.br/
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-148-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T000000Z
-DTEND:20261122T020000Z
-SUMMARY:O Mercador de Veneza
-LOCATION:Teatro Casa Grande (Teatro Axia Casa Grande)\, Av. Afrânio de M
- elo Franco\, 290 – Leblon
-DESCRIPTION:A peça de William Shakespeare\, com direção de Daniela Sti
- rbulov e Dan Stulbach no papel do agiota Shylock. Dura duas horas. Curta
-  temporada\, até 29 de novembro.\n\nPreço não informado · 14 anos\n\
- nFonte: https://www.teatroaxiacasagrande.com.br/programacao/\nTodos os R
- ios — agenda cultural aberta do Rio
-URL:https://www.teatroaxiacasagrande.com.br/programacao/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-148-1@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T220000Z
-DTEND:20261123T000000Z
-SUMMARY:O Mercador de Veneza
-LOCATION:Teatro Casa Grande (Teatro Axia Casa Grande)\, Av. Afrânio de M
- elo Franco\, 290 – Leblon
-DESCRIPTION:A peça de William Shakespeare\, com direção de Daniela Sti
- rbulov e Dan Stulbach no papel do agiota Shylock. Dura duas horas. Curta
-  temporada\, até 29 de novembro.\n\nPreço não informado · 14 anos\n\
- nFonte: https://www.teatroaxiacasagrande.com.br/programacao/\nTodos os R
- ios — agenda cultural aberta do Rio
-URL:https://www.teatroaxiacasagrande.com.br/programacao/
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-162-0@todososrios.rio
-DTSTAMP:20261121T115339Z
-DTSTART:20261122T003000Z
-DTEND:20261122T023000Z
-SUMMARY:Dino Fonseca – Barzim de Rock
-LOCATION:Qualistage\, Av. Ayrton Senna\, 3.000 (Via Parque Shopping) – 
- Barra da Tijuca
-DESCRIPTION:Mais de três horas de sucessos do rock nacional e internacio
- nal.\n\nA partir de R$ 85 · 18 anos\n\nFonte: https://qualistage.com.br
- /evento/437/dino-fonseca\nTodos os Rios — agenda cultural aberta do Ri
- o
-URL:https://qualistage.com.br/evento/437/dino-fonseca
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-027-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Festival Trançando Cultura do Ayó
@@ -1209,7 +54,7 @@ CATEGORIES:Festas & Feiras
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-072-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Tudo por um Pop Star
@@ -1225,7 +70,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-075-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Mensageiras da Cultura – 50 anos da Kotekitai
@@ -1240,7 +85,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-075-1@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
 SUMMARY:Mensageiras da Cultura – 50 anos da Kotekitai
@@ -1255,7 +100,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-086-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Domingo recreativo para crianças
@@ -1268,8 +113,39 @@ URL:https://cultura.prefeitura.rio/agendacultural/
 CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-005-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:A Cura da Terra – Pequenas Revoluções
+LOCATION:Teatro Municipal Domingos Oliveira (Planetário)\, Rua Padre Leo
+ nel Franca\, 240 – Gávea
+DESCRIPTION:Uma banda se prepara para o show e conta\, em vozes e histór
+ ias\, algumas das principais revoluções indígenas da América Latina.
+  Dialoga com o livro “A Cura da Terra”\, de Eliane Potiguara. Estrei
+ a.\n\nGrátis · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacu
+ ltural/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro\,Música
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-019-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Zuzuê Contos Africanos
+LOCATION:Teatro Municipal Ruth de Souza\, Rua Murtinho Nobre\, 169 – Sa
+ nta Teresa
+DESCRIPTION:Paulinha Cavalcanti\, Anderson Barreto e Árvore Vicente narr
+ am histórias afro-diaspóricas\, com Libras integrada à cena. Cerca de
+  50 minutos.\n\nR$ 20 a R$ 40 · Livre\n\nFonte: https://cultura.prefeit
+ ura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Infantil\,Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-047-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Festival Quem Dança é Mais Feliz
@@ -1284,7 +160,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-059-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Ramon Araújo
@@ -1300,7 +176,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-130-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Coral Brasil Ensemble – UFRJ (Música no Assyrio)
@@ -1317,7 +193,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-146-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Clube Akorin: Musicalizar Brincando
@@ -1332,8 +208,36 @@ URL:https://ecovillarihappy.com.br/programacao/
 CATEGORIES:Infantil\,Música
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-164-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T140000Z
+DTEND:20261122T160000Z
+SUMMARY:Bluey – Diversão em Família
+LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
+DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
+ o palco feita para a América Latina. Último fim de semana.\n\nA partir
+  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
+ y-2026/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://teatromultiplan.com.br/eventos/bluey-2026/
+CATEGORIES:Infantil\,Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-164-1@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Bluey – Diversão em Família
+LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
+DESCRIPTION:Show oficial da série de animação\, numa adaptação para 
+ o palco feita para a América Latina. Último fim de semana.\n\nA partir
+  de R$ 25 · Livre\n\nFonte: https://teatromultiplan.com.br/eventos/blue
+ y-2026/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://teatromultiplan.com.br/eventos/bluey-2026/
+CATEGORIES:Infantil\,Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-105-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
 SUMMARY:Música no Museu
@@ -1348,7 +252,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-105-1@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T153000Z
 DTEND:20261125T173000Z
 SUMMARY:Música no Museu
@@ -1363,7 +267,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-168-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
 SUMMARY:Clube do Livro Trill: As Vacas Não Me Olham Mais na Cara\, de Do
@@ -1377,8 +281,25 @@ URL:https://www.travessa.com.br/eventos
 CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-084-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T170000Z
+DTEND:20261122T190000Z
+SUMMARY:FIPAZO – Festival de Pole Dance\, Aéreos e Danças da Zona Oes
+ te
+LOCATION:Arena Cultural Abelardo Barbosa – Chacrinha\, Rua Soldado Elis
+ eu Hipólito\, s/nº – Pedra de Guaratiba
+DESCRIPTION:Terceira edição do festival não competitivo que reúne art
+ istas de Pedra de Guaratiba e de outras regiões em números de pole dan
+ ce\, circo e dança.\n\nR$ 30 · 16 anos\n\nFonte: https://cultura.prefe
+ itura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do R
+ io
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-117-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T180000Z
 DTEND:20261122T200000Z
 SUMMARY:Rio Maracatu
@@ -1391,8 +312,55 @@ URL:https://cultura.sescrio.org.br/programacao/rio-maracatu
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-140-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Oficina Cliques e Movimento
+LOCATION:Casa Museu Eva Klabin\, Av. Epitácio Pessoa\, 2.480 – Lagoa
+DESCRIPTION:Crianças a partir de 3 anos criam cenas e histórias em stop
+  motion\, com celular\, corpo e tecidos. As senhas são distribuídas de
+ z minutos antes.\n\nGrátis (senha 10 minutos antes) · Livre\n\nFonte: 
+ https://www.evaklabin.org.br/pt\nTodos os Rios — agenda cultural abert
+ a do Rio
+URL:https://www.evaklabin.org.br/pt
+CATEGORIES:Infantil
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-143-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T180000Z
+DTEND:20261122T200000Z
+SUMMARY:Escola do Rock
+LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
+ ânico
+DESCRIPTION:Musical baseado no filme de 2003: um guitarrista se passa por
+  professor substituto e monta uma banda com alunos do quinto ano para di
+ sputar a Batalha das Bandas.\n\nPreço não informado · Livre\n\nFonte:
+  https://ecovillarihappy.com.br/programacao/\nTodos os Rios — agenda c
+ ultural aberta do Rio
+URL:https://ecovillarihappy.com.br/programacao/
+CATEGORIES:Teatro\,Infantil
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-054-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Quintal
+LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
+ juca
+DESCRIPTION:Cinco crianças do subúrbio estão prestes a perder o quinta
+ l onde brincam para um condomínio de luxo. Infantojuvenil sobre a memó
+ ria dos bairros e o direito de brincar. Último fim de semana.\n\nR$ 20 
+ a R$ 40 · Livre\n\nFonte: https://cultura.prefeitura.rio/agendacultural
+ /\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Infantil\,Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-060-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Meu Amigo Tempo – O Tempo Também Brinca
@@ -1407,8 +375,38 @@ URL:https://cultura.prefeitura.rio/agendacultural/
 CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-109-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Sudi – O Elogio da Surdez
+LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
+ , 66 – Centro
+DESCRIPTION:Uma menina que percebe o mundo pelos olhos\, pela pele e pela
+ s mãos parte em busca da Flor de Oto\, ao lado de uma amiga que fala Li
+ bras.\n\nR$ 30 (meia R$ 15) · Livre\n\nFonte: https://ccbb.com.br/rio-d
+ e-janeiro/programacao/sudi-o-elogio-da-surdez/\nTodos os Rios — agenda
+  cultural aberta do Rio
+URL:https://ccbb.com.br/rio-de-janeiro/programacao/sudi-o-elogio-da-surde
+ z/
+CATEGORIES:Infantil\,Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-138-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T190000Z
+DTEND:20261122T210000Z
+SUMMARY:Cartografia de Futuros Imaginários – Casa Aberta
+LOCATION:Casa Firjan\, Rua Guilhermina Guinle\, 211 – Botafogo
+DESCRIPTION:Atividade de uma hora para criar zines com palavras\, imagens
+  e recortes.\n\nGrátis (sujeito a lotação) · 12 anos\n\nFonte: https
+ ://casafirjan.com.br/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://casafirjan.com.br/
+CATEGORIES:Artes Visuais
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-153-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Lançamento infantil: João Rapidão e Maria Devagarinha
@@ -1423,7 +421,7 @@ CATEGORIES:Infantil\,Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-160-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Oficina de Batik Experimental\, com Val Pires
@@ -1440,7 +438,7 @@ CATEGORIES:Artes Visuais\,Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-163-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:O Grande Encontro – Leci Brandão\, Sandro Luiz\, Tião Casemir
@@ -1457,7 +455,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-176-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Ensaio de rua da Imperatriz Leopoldinense
@@ -1469,8 +467,56 @@ URL:
 CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-013-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Moraes Musical Moreira
+LOCATION:Teatro Municipal Carlos Gomes\, Praça Tiradentes\, s/nº – Ce
+ ntro
+DESCRIPTION:Musical sobre a vida e a obra de Moraes Moreira\, em linguage
+ m de cordel: o Poeta Cantador revisita a jornada do jovem Vaqueiro do So
+ m pelo país.\n\nR$ 40 a R$ 80 · 12 anos\n\nFonte: https://cultura.pref
+ eitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta do 
+ Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro\,Música
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-104-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T200000Z
+DTEND:20261122T220000Z
+SUMMARY:Entre o Sim e o Nunca
+LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
+ , 66 – Centro
+DESCRIPTION:Aos 35 anos\, uma mulher descobre que o pai registrado não 
+ é o biológico e sai em busca da própria origem. Drama com humor.\n\nR
+ $ 30 (meia R$ 15) · 12 anos\n\nFonte: https://ccbb.com.br/rio-de-janeir
+ o/programacao/entre-sim-e-o-nunca/\nTodos os Rios — agenda cultural ab
+ erta do Rio
+URL:https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-104-1@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261125T220000Z
+DTEND:20261126T000000Z
+SUMMARY:Entre o Sim e o Nunca
+LOCATION:Centro Cultural Banco do Brasil (CCBB)\, Rua Primeiro de Março\
+ , 66 – Centro
+DESCRIPTION:Aos 35 anos\, uma mulher descobre que o pai registrado não 
+ é o biológico e sai em busca da própria origem. Drama com humor.\n\nR
+ $ 30 (meia R$ 15) · 12 anos\n\nFonte: https://ccbb.com.br/rio-de-janeir
+ o/programacao/entre-sim-e-o-nunca/\nTodos os Rios — agenda cultural ab
+ erta do Rio
+URL:https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-177-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T200000Z
 DTEND:20261122T220000Z
 SUMMARY:Ensaio de rua da Estação Primeira de Mangueira
@@ -1482,8 +528,39 @@ URL:
 CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-002-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Equina
+LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
+  do nº 292 – Humaitá
+DESCRIPTION:Espetáculo de dança de Aline Bernardi e Dani Lima sobre os 
+ laços de cuidado entre humanos e cavalos\, a partir da pesquisa de dout
+ orado de Aline.\n\nR$ 30 a R$ 60 · 18 anos\n\nFonte: https://cultura.pr
+ efeitura.rio/agendacultural/\nTodos os Rios — agenda cultural aberta d
+ o Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-069-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T210000Z
+DTEND:20261122T230000Z
+SUMMARY:Urban Charme – Mostra de Charme (10 anos)
+LOCATION:Arena Cultural Fernando Torres\, Rua Bernardino de Andrade\, 200
+  (Parque de Madureira) – Madureira
+DESCRIPTION:Na edição de dez anos\, trinta grupos de dança charme e hi
+ p hop se dividem em duas noites em Madureira.\n\nR$ 20 a R$ 40 · Livre\
+ n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios 
+ — agenda cultural aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-178-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:Ensaio de rua da Portela
@@ -1497,8 +574,119 @@ URL:
 CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-001-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Minha Vó Ri
+LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
+  do nº 292 – Humaitá
+DESCRIPTION:Primeiro solo de Júlia Bernat\, dirigido por Débora Lamm. M
+ istura autoficção e pesquisa sobre a história do ativismo lésbico\, 
+ com trilha de Ângela Ro Ro e Cássia Eller.\n\nR$ 30 a R$ 60 · 14 anos
+ \n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os Rios
+  — agenda cultural aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-004-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Nada sob Controle
+LOCATION:Teatro Municipal Café Pequeno\, Av. Ataulfo de Paiva\, 269 – 
+ Leblon
+DESCRIPTION:Comédia circense do Circo Teatro Saltimbanco\, feita de situ
+ ações cômicas\, desencontros e improviso\, na tradição do palhaço 
+ de circo. Última semana.\n\nR$ 15 a R$ 30 · 14 anos\n\nFonte: https://
+ cultura.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultura
+ l aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-006-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Superiores
+LOCATION:Teatro Municipal Domingos Oliveira (Planetário)\, Rua Padre Leo
+ nel Franca\, 240 – Gávea
+DESCRIPTION:Nove atores criam com o corpo e a voz todos os sons e ambient
+ es de uma fábula sobre poder\, falada numa língua inventada que o púb
+ lico entende pelo som.\n\nR$ 30 a R$ 60 · Livre\n\nFonte: https://cultu
+ ra.prefeitura.rio/agendacultural/\nTodos os Rios — agenda cultural abe
+ rta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-053-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:As Irmãs Pereira
+LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
+ juca
+DESCRIPTION:Três irmãs entre os 60 e os 70 anos se reúnem numa casa do
+  Largo do Boticário para decidir onde jogar as cinzas da mãe\, e acaba
+ m revirando o passado e os desejos do presente.\n\nR$ 35 a R$ 70 · 12 a
+ nos\n\nFonte: https://cultura.prefeitura.rio/agendacultural/\nTodos os R
+ ios — agenda cultural aberta do Rio
+URL:https://cultura.prefeitura.rio/agendacultural/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-142-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Confissões de Adolescente – o musical
+LOCATION:EcoVilla Ri Happy\, Rua Jardim Botânico\, 1.008 – Jardim Bot
+ ânico
+DESCRIPTION:Versão musical inédita da história sobre as dores e as des
+ cobertas de crescer.\n\nPreço não informado · 16 anos\n\nFonte: https
+ ://ecovillarihappy.com.br/programacao/\nTodos os Rios — agenda cultura
+ l aberta do Rio
+URL:https://ecovillarihappy.com.br/programacao/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-148-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:O Mercador de Veneza
+LOCATION:Teatro Casa Grande (Teatro Axia Casa Grande)\, Av. Afrânio de M
+ elo Franco\, 290 – Leblon
+DESCRIPTION:A peça de William Shakespeare\, com direção de Daniela Sti
+ rbulov e Dan Stulbach no papel do agiota Shylock. Dura duas horas. Curta
+  temporada\, até 29 de novembro.\n\nPreço não informado · 14 anos\n\
+ nFonte: https://www.teatroaxiacasagrande.com.br/programacao/\nTodos os R
+ ios — agenda cultural aberta do Rio
+URL:https://www.teatroaxiacasagrande.com.br/programacao/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-19-151-0@todososrios.rio
+DTSTAMP:20261122T082856Z
+DTSTART:20261122T220000Z
+DTEND:20261123T000000Z
+SUMMARY:Adorável Face de Andronieva Petrosa
+LOCATION:Teatro Poeirinha\, Rua São João Batista\, 104 – Botafogo
+DESCRIPTION:Primeiro solo de Fabianna de Mello e Souza\, em 40 anos de ca
+ rreira: uma atriz recebe uma carta anônima que a acusa de plágio e pas
+ sa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e dir
+ eção de Denise Stutz.\n\nPreço não informado · Livre\n\nFonte: http
+ s://www.teatropoeira.com.br/\nTodos os Rios — agenda cultural aberta d
+ o Rio
+URL:https://www.teatropoeira.com.br/
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-134-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261123T200000Z
 DTEND:20261123T220000Z
 SUMMARY:Lançamento: Migrantes da Descolonização
@@ -1514,7 +702,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-154-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261123T220000Z
 DTEND:20261124T000000Z
 SUMMARY:Lançamento: Ministério do Tempo Livre – um manifesto
@@ -1528,7 +716,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-155-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261123T220000Z
 DTEND:20261124T000000Z
 SUMMARY:Lançamento: Música em Pauta
@@ -1543,7 +731,7 @@ CATEGORIES:Livros & Debates\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-171-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261123T220000Z
 DTEND:20261124T000000Z
 SUMMARY:Ensaio de rua do Paraíso do Tuiuti
@@ -1558,7 +746,7 @@ CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-127-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261123T223000Z
 DTEND:20261124T003000Z
 SUMMARY:Três a Varejo + 1
@@ -1572,7 +760,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-165-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261123T233000Z
 DTEND:20261124T013000Z
 SUMMARY:Camila Cardoso – Antes e Depois do Plantão
@@ -1585,7 +773,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-118-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T130000Z
 DTEND:20261124T150000Z
 SUMMARY:Seminário Estadual: Por uma Educação Antirracista
@@ -1600,7 +788,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-139-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T170000Z
 DTEND:20261124T190000Z
 SUMMARY:Meninas e Mulheres na Ciência e Tecnologia: redes que abrem cami
@@ -1615,7 +803,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-123-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T190000Z
 DTEND:20261124T210000Z
 SUMMARY:A poesia brasileira na Coleção Ciranda da Poesia – ciclo de c
@@ -1632,7 +820,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-085-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T210000Z
 DTEND:20261124T230000Z
 SUMMARY:Alice no País das Maravilhas: O Despertar da União – O Musical
@@ -1647,7 +835,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-156-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T220000Z
 DTEND:20261125T000000Z
 SUMMARY:Lançamento duplo: A Vida Imprópria e O Arquivo como Gesto
@@ -1661,7 +849,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-003-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
 SUMMARY:O Último Dia da Minha Vida
@@ -1676,7 +864,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-003-1@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:O Último Dia da Minha Vida
@@ -1691,7 +879,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-051-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
 SUMMARY:Priscilla em 2L em A Cara da Mãe e o P@u do Pai
@@ -1706,7 +894,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-150-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
 SUMMARY:Margaridas
@@ -1720,7 +908,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-150-1@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:Margaridas
@@ -1734,7 +922,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-040-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SUMMARY:Mesa-redonda: O Mundo que se Quer Esconder das Crianças
@@ -1749,7 +937,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-050-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T170000Z
 DTEND:20261125T190000Z
 SUMMARY:Rap & Repente – Artes do Improviso
@@ -1764,7 +952,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-157-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T190000Z
 DTEND:20261125T210000Z
 SUMMARY:Encontro literário Lia Benchimol: Wabi Sabi
@@ -1779,7 +967,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-111-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T203000Z
 DTEND:20261125T223000Z
 SUMMARY:Clube de Leitura CCBB com Raphael Montes
@@ -1794,7 +982,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-061-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T220000Z
 DTEND:20261126T000000Z
 SUMMARY:Amanda Mendonça canta Djavan
@@ -1810,7 +998,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-119-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T220000Z
 DTEND:20261126T000000Z
 SUMMARY:Aula-baile de forró e samba de gafieira – Corpos em Diálogo
@@ -1826,7 +1014,7 @@ CATEGORIES:Festas & Feiras
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-158-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T220000Z
 DTEND:20261126T000000Z
 SUMMARY:Lançamento: Mistérios sob o Céu de Alcântara
@@ -1840,7 +1028,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-052-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:Régis Araújo em Tá Bixada
@@ -1856,7 +1044,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-149-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:Atom Pink Floyd – Pink Floyd Symphonic
@@ -1872,7 +1060,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-166-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:Maurício Meirelles – Surto Coletivo
@@ -1885,7 +1073,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-172-0@todososrios.rio
-DTSTAMP:20261121T115339Z
+DTSTAMP:20261122T082856Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:Ensaio de rua da Unidos de Vila Isabel

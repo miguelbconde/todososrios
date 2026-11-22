@@ -1,16 +1,16 @@
 # Relatório da edição — Edição de 19 a 25 de novembro de 2026
 
-- Eventos e exposições: **490** (452 eventos com 3603 sessões; 38 em cartaz)
-- Grátis: **65** · preço popular (até R$ 40): **77**
-- Conferidos sem ressalva: **488** · a confirmar: **2**
+- Eventos e exposições: **439** (402 eventos com 2853 sessões; 37 em cartaz)
+- Grátis: **48** · preço popular (até R$ 40): **73**
+- Conferidos sem ressalva: **437** · a confirmar: **2**
 
 ## Distribuição por região
 
-- Centro: 58
-- Zona Sul: 142
-- Zona Sudoeste: 131
-- Zona Norte: 113
-- Zona Oeste: 46
+- Centro: 46
+- Zona Sul: 133
+- Zona Sudoeste: 118
+- Zona Norte: 101
+- Zona Oeste: 41
 
 ## Conferente independente (IA)
 
@@ -24,17 +24,11 @@
 - **Zanele Muholi** (2026-11-19-030) · sinopse · *duvida* — A ficha escreve "da ativista visual sul-africana", no feminino. A fonte usa forma neutra de propósito: "Muholi é um(a) ativista visual e fotógrafo(a) sul-africano(a)". O gênero atribuído não vem da fonte. → **Corrigido: sinopse reescrita sem atribuir gênero.**
 - **Ponto de Leitura: Brasilidades que vêm de Áfricas** (2026-11-19-032) · preco_texto · *duvida* — As fontes divergem: a semanal diz "R$ 10 a R$ 20 (terças-feiras são gratuitas)"; a do Novembro Negro diz "Local: Biblioteca do MAR | Valor: Gratuita". A ficha publica o preço da semanal, com gratis=false. → **pendente (sai como “a confirmar”)**
 - **Programa Hélio Oiticica** (2026-11-19-035) · sinopse · *nao_encontrado* — A ficha diz "Exposição permanente dedicada à obra de Hélio Oiticica". A fonte traz só "Exposição “Programa Hélio Oiticica” Segunda-feira a sábado, das 10h às 18h. Grátis. Livre."; não diz que é permanente nem descreve o conteúdo. → **Corrigido: sinopse reduzida ao que a fonte informa.**
-- **Encontro literário: Maria e o Segredo da Poupança** (2026-11-19-045) · endereco · *nao_encontrado* — A fonte traz só "Biblioteca Ziraldo", sem endereço nem bairro, logo abaixo do bloco da Cidade das Artes. A ficha usa "Av. das Américas, 5.300, Barra da Tijuca" e acrescenta "(Cidade das Artes)" ao local. Nota do redator: "O PDF não dá o endereço da Biblioteca Ziraldo; usei o da Cidade das Artes, onde ela funciona (regulamento das bibliotecas da SMC...)". → **Mantido: o regulamento das bibliotecas da SMC lista a “Biblioteca Municipal Ziraldo, Av. das Américas, Barra da Tijuca”, e a imprensa a situa na Cidade das Artes.**
 - **Música Brasilis** (2026-11-19-062) · sinopse · *nao_encontrado* — A ficha diz "Exposição sobre a história da música brasileira". A fonte traz só "Exposição “Música Brasilis” Terça-feira a domingo, das 10h às 17h. Grátis. Livre.", sem descrição. → **Corrigido: sinopse reduzida ao que a fonte informa.**
-- **Contação de histórias: Mapa do Tesouro** (2026-11-19-065) · local · *diverge* — A ficha chama o espaço de "Arena Carioca Dicró". Na fonte semanal o cabeçalho é "Arena Cultural Carlos Roberto de Oliveira - Dicró"; na do Novembro Negro, "Arena Cultural Dicró". "Arena Carioca" não aparece em nenhuma. → **Corrigido: “Arena Cultural Dicró”.**
-- **Fora do Quadro** (2026-11-19-066) · local · *diverge* — A ficha chama o espaço de "Arena Carioca Dicró". Na fonte semanal o cabeçalho é "Arena Cultural Carlos Roberto de Oliveira - Dicró"; na do Novembro Negro, "Arena Cultural Dicró". "Arena Carioca" não aparece em nenhuma. → **Corrigido: “Arena Cultural Dicró”.**
 - **Cravejar o Corpo, Inventar o Mundo – Madah Sodré** (2026-11-19-067) · local · *diverge* — A ficha chama o espaço de "Arena Carioca Dicró". Na fonte semanal o cabeçalho é "Arena Cultural Carlos Roberto de Oliveira - Dicró"; na do Novembro Negro, "Arena Cultural Dicró". "Arena Carioca" não aparece em nenhuma. → **Corrigido: “Arena Cultural Dicró”.**
 - **Urban Charme – Mostra de Charme (10 anos)** (2026-11-19-069) · endereco · *nao_encontrado* — A ficha acrescenta "(Parque de Madureira)" ao endereço. A fonte dá só "Rua Bernardino de Andrade 200, Madureira". → **Mantido: “Parque de Madureira” vem do cadastro do projeto e ajuda a achar o lugar.**
 - **Urban Charme – Mostra de Charme (10 anos)** (2026-11-19-069) · sinopse · *nao_encontrado* — A sinopse diz que as duas noites são "no Parque de Madureira". Nenhuma das fontes cita o Parque de Madureira; o local é a "Arena Cultural Fernando Torres". → **Corrigido: “em Madureira”.**
 - **Ônibus Biblioteca – Livros nas Praças** (2026-11-19-082) · cartaz · *duvida* — A fonte diz "Até 27 de novembro, às 11h", sem dizer em quais dias da semana nem em que praça ("Livros nas Praças"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária "A partir das 11h" na areninha; a fonte diz "às 11h" e não confirma que é todo dia. → **Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”.**
-- **Mostra de Cenas e Performances (Mostra do Impossível)** (2026-11-19-093) · preco_texto · *duvida* — A fonte do Novembro Negro diz que a Mostra é "Majoritariamente gratuito; apenas uma sessão com ingressos a preços populares (R$ 10 a inteira e R$ 5 a meia)", sem dizer qual. A semanal só atribui "R$ 5 a R$ 10" aos dias 19 e 20/11 no Teatro Correios Léa Garcia, o que sugere que a noite de 21/11 no Terreiro Contemporâneo seja gratuita, mas nenhuma fonte afirma isso. A ficha publica "Grátis ou até R$ 10 (ver programação)", min 5, max 10, gratis=false. → **Mantido: o texto “Grátis ou até R$ 10 (ver programação)” cobre o que a fonte diz, e a ficha leva à programação oficial da mostra.**
-- **OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)** (2026-11-19-094) · trecho_fonte · *nao_encontrado* — O trecho termina com "[idem em 20/11 e 21/11]", que é anotação do redator e não existe na fonte. O restante confere ("Horário contínuo – Exposição OFÁ/Um Corpo Flecha, de Rona Neves (Galeria Quilombo)" aparece em 19, 20 e 21/11). → **Corrigido: anotação retirada do trecho.**
-- **OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)** (2026-11-19-094) · preco_texto · *duvida* — A ficha deixa o preço vazio e gratis=false. A fonte não dá preço da exposição, mas diz que a Mostra é "Majoritariamente gratuito; apenas uma sessão com ingressos a preços populares"; o mais provável é que a exposição seja gratuita, sem confirmação expressa. → **Mantido: preço fica como não informado.**
 - **Cartografia de Futuros Imaginários – Casa Aberta** (2026-11-19-138) · sessoes · *diverge* — A ficha só tem 21/11 às 16h. F074 lista também "22 de novembro de 2026 Domingo Horário: 16h00 | Duração: 1h Cartografia de Futuros Imaginários | Atividade Casa Aberta" e, na página de atividades, "Sábados e domingos Horário: 16h". Falta a sessão de domingo, 22/11. → **Corrigido: entra também domingo, 22/11, às 16h.**
 - **Cartografia de Futuros Imaginários – Casa Aberta** (2026-11-19-138) · gratis · *diverge* — A ficha traz preço vazio e gratis=false, e a nota diz que a fonte não informa preço. F074 (página Atividades) diz "Atividade gratuita, sujeito a lotação". → **Corrigido: grátis, sujeito a lotação.**
 - **Cartografia de Futuros Imaginários – Casa Aberta** (2026-11-19-138) · classificacao · *diverge* — A ficha deixa vazio (e está na seção Infantil); a nota diz que a fonte não informa. F074 traz "Classificação: 12 anos". → **Corrigido: 12 anos; a ficha saiu da seção Infantil.**
@@ -45,8 +39,6 @@
 - **Atom Pink Floyd – Pink Floyd Symphonic** (2026-11-19-149) · classificacao · *diverge* — A ficha deixa vazio. F114 traz "Classificação etária: 16 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis." → **Corrigido: 16 anos.**
 - **Margaridas** (2026-11-19-150) · classificacao · *diverge* — A ficha deixa vazio. F123 traz "CLASSIFICAÇÃO ETÁRIA: 10 anos" (e "DURAÇÃO: 60 minutos"). → **Corrigido: 10 anos.**
 - **Adorável Face de Andronieva Petrosa** (2026-11-19-151) · classificacao · *diverge* — A ficha deixa vazio. F123 traz "CLASSIFICAÇÃO: Livre" (e "DURAÇÃO: 50 minutos"). → **Corrigido: Livre.**
-- **Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade** (2026-11-19-144) · classificacao · *diverge* — A ficha deixa vazio. F084 traz, logo abaixo da data, "Classificação: Livre". → **Corrigido: Livre.**
-- **Oficina Da Imaginação à Selva: uma aventura pela floresta de Mogli** (2026-11-19-145) · classificacao · *diverge* — A ficha deixa vazio. F084 traz "21 de novembro | Sábado, das 10h30 às 12h30 Classificação: Livre". → **Corrigido: Livre.**
 - **Clube Akorin: Musicalizar Brincando** (2026-11-19-146) · classificacao · *diverge* — A ficha deixa vazio. F084 traz "22 de novembro | Domingo, às 11h Classificação: Livre". → **Corrigido: Livre.**
 - **Oficina Cliques e Movimento** (2026-11-19-140) · classificacao · *diverge* — A ficha deixa vazio. F075 traz no Serviço "Entrada gratuita Classificação livre" (e o texto diz "voltada para crianças a partir de 3 anos de idade"). → **Corrigido: Livre.**
 - **Oficina Cliques e Movimento** (2026-11-19-140) · endereco · *duvida* — A ficha traz Av. Epitácio Pessoa, 2.480, que aparece no rodapé do site ("Avenida Epitácio Pessoa, 2480"). Mas o Serviço da própria oficina, em F075, diz "Local: Casa Museu Eva Klabin Praça Benedito Cerqueira, 0 | Lagoa – Rio de Janeiro". A fonte dá dois endereços. → **Mantido: Av. Epitácio Pessoa, 2.480 é o endereço fixo da casa (rodapé do site); a divergência fica anotada na ficha.**
@@ -59,29 +51,21 @@
 ## Conferência mecânica (regras)
 
 - [baixa] **Exposição Literária – Mês da Consciência Negra** (2026-11-19-046) — Preço não informado na fonte
-- [baixa] **OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)** (2026-11-19-094) — Preço não informado na fonte
 - [baixa] **O gesto do poder, o poder do gesto – um recorte da Coleção Instituto PIPA** (2026-11-19-132) — Preço não informado na fonte
 - [baixa] **Encontro dos Povos Originários** (2026-11-19-141) — Preço não informado na fonte
-- [media] **40 Anos do Monumento a Zumbi** (2026-11-19-092) — Horário incomum: 06:00
-- [baixa] **Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade** (2026-11-19-144) — Preço não informado na fonte
-- [baixa] **Bluey – Diversão em Família** (2026-11-19-164) — Preço não informado na fonte
-- [baixa] **O Clube Romance: Quando, de Carla Madeira** (2026-11-19-167) — Preço não informado na fonte
-- [baixa] **Escola do Rock** (2026-11-19-143) — Preço não informado na fonte
-- [media] **Ensaio de rua da Mocidade Independente** (2026-11-19-175) — Link oficial ausente
-- [baixa] **Confissões de Adolescente – o musical** (2026-11-19-142) — Preço não informado na fonte
-- [baixa] **Adorável Face de Andronieva Petrosa** (2026-11-19-151) — Preço não informado na fonte
-- [baixa] **Muato – DERÊ: Concerto sobre o Pagode** (2026-11-19-170) — Preço não informado na fonte
-- [baixa] **Rockeria 14 anos** (2026-11-19-114) — Preço não informado na fonte
-- [baixa] **O Mercador de Veneza** (2026-11-19-148) — Preço não informado na fonte
-- [baixa] **Dino Fonseca – Barzim de Rock** (2026-11-19-162) — Preço não informado na fonte
 - [baixa] **Coral Brasil Ensemble – UFRJ (Música no Assyrio)** (2026-11-19-130) — Preço não informado na fonte
 - [baixa] **Clube Akorin: Musicalizar Brincando** (2026-11-19-146) — Preço não informado na fonte
+- [baixa] **Bluey – Diversão em Família** (2026-11-19-164) — Preço não informado na fonte
 - [baixa] **Clube do Livro Trill: As Vacas Não Me Olham Mais na Cara, de Dora Freind** (2026-11-19-168) — Preço não informado na fonte
+- [baixa] **Escola do Rock** (2026-11-19-143) — Preço não informado na fonte
 - [baixa] **Lançamento infantil: João Rapidão e Maria Devagarinha** (2026-11-19-153) — Preço não informado na fonte
 - [baixa] **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** (2026-11-19-163) — Preço não informado na fonte
 - [media] **Ensaio de rua da Imperatriz Leopoldinense** (2026-11-19-176) — Link oficial ausente
 - [media] **Ensaio de rua da Estação Primeira de Mangueira** (2026-11-19-177) — Link oficial ausente
 - [media] **Ensaio de rua da Portela** (2026-11-19-178) — Link oficial ausente
+- [baixa] **Confissões de Adolescente – o musical** (2026-11-19-142) — Preço não informado na fonte
+- [baixa] **O Mercador de Veneza** (2026-11-19-148) — Preço não informado na fonte
+- [baixa] **Adorável Face de Andronieva Petrosa** (2026-11-19-151) — Preço não informado na fonte
 - [baixa] **Lançamento: Migrantes da Descolonização** (2026-11-19-134) — Preço não informado na fonte
 - [baixa] **Lançamento: Ministério do Tempo Livre – um manifesto** (2026-11-19-154) — Preço não informado na fonte
 - [baixa] **Lançamento: Música em Pauta** (2026-11-19-155) — Preço não informado na fonte
@@ -100,7 +84,6 @@
 
 ## Destaques (A boa)
 
-- **21/11**: Rolé Estácio – Berço do Samba; Baú da Dona Ivone Lara, com Bruno Castro e Áurea Martins; A Cura da Terra – Pequenas Revoluções; Baile Charme do Projeto Black Music Soul; Fora do Quadro; FIPAZO – Festival de Pole Dance, Aéreos e Danças da Zona Oeste
 - **22/11**: Amanhecer Rio – Festival Cultura e Cuidado; Mensageiras da Cultura – 50 anos da Kotekitai; Quintal; Festival Quem Dança é Mais Feliz; Equina; Domingo recreativo para crianças
 - **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Música em Pauta
 - **24/11**: O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical; A poesia brasileira na Coleção Ciranda da Poesia – ciclo de conferências; Seminário Estadual: Por uma Educação Antirracista
@@ -117,7 +100,6 @@ Regras de curadoria:
 
 - **Ponto de Leitura: Brasilidades que vêm de Áfricas** — Preço diverge entre as fontes: o PDF semanal dá R$ 10 a R$ 20 (grátis às terças); o do Novembro Negro diz “Valor: Gratuita”.
 - **Exposição Literária – Mês da Consciência Negra** — Preço não informado na fonte.
-- **OFÁ / Um Corpo Flecha, de Rona Neves (Mostra do Impossível)** — A exposição aparece na programação de 19, 20 e 21/11. Preço e horário de abertura não informados na fonte.
 - **País Brasa, Planeta Fogo** — Consta no PDF semanal anterior, com data de encerramento em 2027; o PDF desta semana não repete a exposição.
 - **A Cidade entre o Jardim e a Baía** — Consta no PDF semanal anterior, com data de encerramento em 2027; o PDF desta semana não repete a exposição.
 - **MEME: no Br@sil da memeficação** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
@@ -131,36 +113,26 @@ Regras de curadoria:
 - **Casa da Mônica** — Fecha no feriado de 20/11.
 - **ECOS – coletiva** — As fontes divergem num ponto: o site da galeria diz “segunda a sexta”; a ArtRio diz “terça a sexta”. Vale o site da galeria. Também divergem no número de obras (vinte no site da galeria, dezenove na ArtRio); vale o site da galeria.
 - **Encontro dos Povos Originários** — A coleta só trouxe o período e a chamada do evento, sem a grade de atividades nem o preço.
-- **Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade** — A fonte não informa o preço.
-- **Bluey – Diversão em Família** — O site só dá o preço inicial.
-- **O Clube Romance: Quando, de Carla Madeira** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
-- **Oficina Cliques e Movimento** — A fonte dá dois endereços para a casa: “Avenida Epitácio Pessoa, 2480”, no rodapé do site, e “Praça Benedito Cerqueira, 0 | Lagoa”, no serviço da oficina. Fica o do rodapé, que é o endereço fixo da instituição.
-- **Escola do Rock** — A fonte não informa o preço.
-- **Encontro literário: Maria e o Segredo da Poupança** — O PDF não dá o endereço da Biblioteca Ziraldo; usei o da Cidade das Artes, onde ela funciona (regulamento das bibliotecas da SMC: “Biblioteca Municipal Ziraldo, Av. das Américas, Barra da Tijuca”). A área Infantil é dedução pelo título.
-- **Sudi – O Elogio da Surdez** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
-- **Samba do Sacramento** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
-- **Ensaio de rua da Mocidade Independente** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
-- **Mostra de Cenas e Performances (Mostra do Impossível)** — Preço: a fonte diz “Majoritariamente gratuito; apenas uma sessão com ingressos a preços populares (R$ 10 a inteira e R$ 5 a meia)”, sem dizer qual.
-- **Entre o Sim e o Nunca** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
-- **Confissões de Adolescente – o musical** — A fonte não informa o preço.
-- **Nada sob Controle** — O PDF traz o espetáculo dentro do bloco do Teatro Café Pequeno, logo depois de “O Último Dia da Minha Vida”, sem repetir o nome do teatro.
-- **Adorável Face de Andronieva Petrosa** — A coleta não trouxe o preço.
-- **Muato – DERÊ: Concerto sobre o Pagode** — A coleta não trouxe o preço.
-- **Leonardo Bessa** — 20h30 é a abertura da casa; a página informa que, aos sábados, o show principal começa às 22h.
-- **Rockeria 14 anos** — Coletado no site em 15–17/11 e não relido nesta edição. Horário = abertura dos portões. Preço só na ticketeira.
-- **O Mercador de Veneza** — A coleta não trouxe o preço.
-- **Dino Fonseca – Barzim de Rock** — O site só dá o preço inicial. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Mensageiras da Cultura – 50 anos da Kotekitai** — O PDF traz o mesmo evento duas vezes, com títulos diferentes (“Asas de Kotekitai” e “Mensageiras da Cultura”). Ficou um só registro.
 - **Coral Brasil Ensemble – UFRJ (Música no Assyrio)** — O trecho coletado não traz o preço do ingresso.
 - **Clube Akorin: Musicalizar Brincando** — A fonte não informa o preço.
+- **Bluey – Diversão em Família** — O site só dá o preço inicial.
 - **Música no Museu** — Coletado no site em 15–17/11 e relido na ronda de 19/11: o site agora dá horário (13h) para o concerto de domingo, 22/11, que entra.
 - **Clube do Livro Trill: As Vacas Não Me Olham Mais na Cara, de Dora Freind** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Rio Maracatu** — Coletado no site em 15–17/11 e não relido nesta edição.
+- **Oficina Cliques e Movimento** — A fonte dá dois endereços para a casa: “Avenida Epitácio Pessoa, 2480”, no rodapé do site, e “Praça Benedito Cerqueira, 0 | Lagoa”, no serviço da oficina. Fica o do rodapé, que é o endereço fixo da instituição.
+- **Escola do Rock** — A fonte não informa o preço.
+- **Sudi – O Elogio da Surdez** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Lançamento infantil: João Rapidão e Maria Devagarinha** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** — O site só dá o preço inicial. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Ensaio de rua da Imperatriz Leopoldinense** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Entre o Sim e o Nunca** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Ensaio de rua da Estação Primeira de Mangueira** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Ensaio de rua da Portela** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Nada sob Controle** — O PDF traz o espetáculo dentro do bloco do Teatro Café Pequeno, logo depois de “O Último Dia da Minha Vida”, sem repetir o nome do teatro.
+- **Confissões de Adolescente – o musical** — A fonte não informa o preço.
+- **O Mercador de Veneza** — A coleta não trouxe o preço.
+- **Adorável Face de Andronieva Petrosa** — A coleta não trouxe o preço.
 - **Lançamento: Migrantes da Descolonização** — A fonte não informa preço.
 - **Lançamento: Ministério do Tempo Livre – um manifesto** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Lançamento: Música em Pauta** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
@@ -209,7 +181,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **As Dez Vantagens De Morrer Depois De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -221,7 +192,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -234,7 +204,6 @@ Regras de curadoria:
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **As Dez Vantagens De Morrer Depois De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Assalto À Brasileira** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -251,8 +220,9 @@ Regras de curadoria:
 - **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Antártida** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Como Roubar Um Banco** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -261,7 +231,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Como Roubar Um Banco** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -272,7 +241,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Alcatraz: Escapada Impossível 2.0 - Escape Route** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -310,7 +278,6 @@ Regras de curadoria:
 - **Sessão Debate: Fiz Um Foguete Imaginando Que Você Vinha** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -319,7 +286,6 @@ Regras de curadoria:
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -332,11 +298,8 @@ Regras de curadoria:
 - **Sessão Vitrine: Eu Vou Ter Saudades De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -347,7 +310,6 @@ Regras de curadoria:
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -372,13 +334,11 @@ Regras de curadoria:
 - **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **As Crianças Estão Bem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Caçador De Morte** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Vou Ter Saudades De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Fogaréu** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **I Love Boosters** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jim Queen** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -388,7 +348,6 @@ Regras de curadoria:
 - **Ran (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Razão E Sensibilidade** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -406,7 +365,6 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Daniel E A Fornalha Ardente** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -416,7 +374,6 @@ Regras de curadoria:
 - **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -426,7 +383,6 @@ Regras de curadoria:
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verity** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -440,7 +396,6 @@ Regras de curadoria:
 - **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -449,7 +404,6 @@ Regras de curadoria:
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -458,7 +412,6 @@ Regras de curadoria:
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -471,7 +424,6 @@ Regras de curadoria:
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -492,7 +444,6 @@ Regras de curadoria:
 - **Malês (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -504,7 +455,6 @@ Regras de curadoria:
 - **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Como Roubar Um Banco** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -523,7 +473,6 @@ Regras de curadoria:
 - **Verity** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -531,8 +480,8 @@ Regras de curadoria:
 - **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Kaohsiung: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
