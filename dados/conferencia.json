@@ -560,6 +560,38 @@
    "veredito": "diverge",
    "detalhe": "Sinopse dizia que a programação era do próprio espaço, o que a fonte não diz.",
    "resolucao": "Corrigido: frase retirada."
+  },
+  {
+   "id": "f-e2a918e0a9",
+   "titulo": "Pagode do Túnel – Samba de Axé",
+   "campo": "local",
+   "veredito": "diverge",
+   "detalhe": "Nome do local deduzido; a fonte dá só 'QUADRA'.",
+   "resolucao": "Corrigido: local passa a 'Quadra (Avenida Brasil)'."
+  },
+  {
+   "id": "f-3c83d02223",
+   "titulo": "Jazz em dobro: Michael Jackson & Stevie Wonder",
+   "campo": "sinopse",
+   "veredito": "duvida",
+   "detalhe": "'Repertório' deduzido do título.",
+   "resolucao": "Corrigido: sinopse reescrita mais perto do título."
+  },
+  {
+   "id": "f-a4b33a2570",
+   "titulo": "Game Drag Show com Samara Rios",
+   "campo": "bairro",
+   "veredito": "duvida",
+   "detalhe": "Cinelândia não é bairro oficial.",
+   "resolucao": "Mantido: a base usa Cinelândia para o Teatro Rival."
+  },
+  {
+   "id": "f-421f7a21f2",
+   "titulo": "Samba dos Fidalgos – 2ª edição",
+   "campo": "bairro",
+   "veredito": "nao_encontrado",
+   "detalhe": "A fonte não diz o bairro; Bangu foi deduzido do endereço.",
+   "resolucao": ""
   }
  ]
 }
