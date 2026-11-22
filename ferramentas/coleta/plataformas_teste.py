@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reconhecimento das plataformas de ingresso (teste, 19/11/2026).
+"""Reconhecimento das plataformas de ingresso (teste, 19/11/2026; terceira rodada em 22/11/2026: Fever e Shotgun).
 
 Visita poucas páginas públicas de cada plataforma, sem login, identificando-se como TodosOsRiosBot,
 com pausa entre visitas. Guarda as respostas brutas numa pasta temporária, que o fluxo do GitHub
@@ -15,19 +15,19 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # segunda rodada
-    "sympla": [
-        "https://discovery-next.svc.sympla.com.br/_next/static/chunks/app/eventos/page-14dc5065956e4075.js",
-        "https://www.sympla.com.br/eventos/rio-de-janeiro-rj?page=2",
+ALVOS = {  # terceira rodada (22/11/2026): Fever e Shotgun
+    "fever": [
+        "https://feverup.com/robots.txt",
+        "https://feverup.com/pt/rio-de-janeiro",
+        "https://feverup.com/en/rio-de-janeiro",
+        "https://feverup.com/pt/rio",
+        "https://feverup.com/sitemap.xml",
     ],
-    "ingresso": [
-        "https://api-content.ingresso.com/v0/sessions/city/2/theater/34?partnership=home",
-        "https://api-content.ingresso.com/v0/sessions/city/2/theater/506?partnership=home",
-        "https://api-content.ingresso.com/v0/sessions/city/2/theater/728?partnership=home",
-    ],
-    "eventim": [
-        "https://www.eventim.com.br/robots.txt",
-        "https://www.eventim.com.br/",
+    "shotgun": [
+        "https://shotgun.live/robots.txt",
+        "https://shotgun.live/pt-br/cities/rio-de-janeiro",
+        "https://shotgun.live/en/cities/rio-de-janeiro",
+        "https://shotgun.live/sitemap.xml",
     ],
 }
 
