@@ -76,8 +76,163 @@
     "id": "2026-11-19-003",
     "porque": "Última sessão da temporada, a no máximo R$ 20."
    }
+  ],
+  "2026-11-26": [
+   {
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
+    "automatico": true
+   }
+  ],
+  "2026-11-27": [
+   {
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
+    "automatico": true
+   }
+  ],
+  "2026-11-28": [
+   {
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-f47b3902e1",
+    "porque": "De graça, em Madureira.",
+    "automatico": true
+   }
+  ],
+  "2026-11-29": [
+   {
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
+    "automatico": true
+   }
+  ],
+  "2026-11-30": [
+   {
+    "id": "f-cc87a92854",
+    "porque": "A preço popular, em Centro.",
+    "automatico": true
+   }
+  ],
+  "2026-12-02": [
+   {
+    "id": "2026-11-19-116",
+    "porque": "De graça, em Tijuca.",
+    "automatico": true
+   }
+  ],
+  "2026-12-03": [
+   {
+    "id": "f-24c0dccb9e",
+    "porque": "A preço popular, em Centro.",
+    "automatico": true
+   }
+  ],
+  "2026-12-05": [
+   {
+    "id": "f-f47b3902e1",
+    "porque": "De graça, em Madureira.",
+    "automatico": true
+   }
+  ],
+  "2026-12-10": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-11": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-12": [
+   {
+    "id": "f-f47b3902e1",
+    "porque": "De graça, em Madureira.",
+    "automatico": true
+   },
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-13": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-16": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-17": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-18": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-19": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-20": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
+  ],
+  "2026-12-22": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   }
   ]
  },
  "mes": [],
- "automaticos": []
+ "automaticos": [
+  "2026-11-26",
+  "2026-11-27",
+  "2026-11-28",
+  "2026-11-29",
+  "2026-11-30",
+  "2026-12-02",
+  "2026-12-03",
+  "2026-12-05",
+  "2026-12-10",
+  "2026-12-11",
+  "2026-12-12",
+  "2026-12-13",
+  "2026-12-16",
+  "2026-12-17",
+  "2026-12-18",
+  "2026-12-19",
+  "2026-12-20",
+  "2026-12-22"
+ ]
 }

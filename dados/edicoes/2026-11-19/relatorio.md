@@ -1,15 +1,15 @@
 # Relatório da edição — Programação de hoje até 21 de janeiro de 2027
 
-- Eventos e exposições: **600** (556 eventos com 6360 sessões; 44 em cartaz)
-- Grátis: **48** · preço popular (até R$ 40): **75**
-- Conferidos sem ressalva: **595** · a confirmar: **5**
+- Eventos e exposições: **614** (568 eventos com 6389 sessões; 46 em cartaz)
+- Grátis: **54** · preço popular (até R$ 40): **81**
+- Conferidos sem ressalva: **609** · a confirmar: **5**
 
 ## Distribuição por região
 
-- Centro: 68
-- Zona Sul: 180
+- Centro: 71
+- Zona Sul: 182
 - Zona Sudoeste: 159
-- Zona Norte: 138
+- Zona Norte: 147
 - Zona Oeste: 55
 
 ## Conferente independente (IA)
@@ -64,6 +64,8 @@
 - [baixa] **O gesto do poder, o poder do gesto – um recorte da Coleção Instituto PIPA** (2026-11-19-132) — Preço não informado na fonte
 - [baixa] **Encontro dos Povos Originários** (2026-11-19-141) — Preço não informado na fonte
 - [baixa] **Amigo Oculto** (f-0e743de4be) — Preço não informado na fonte
+- [baixa] **Infâncias** (f-33ccd17d21) — Preço não informado na fonte
+- [baixa] **Renato Bezerra de Mello: Gestos Cotidianos** (f-bef83bad71) — Preço não informado na fonte
 - [baixa] **Rosana Palazyan: Quintal** (f-c6b14b6989) — Preço não informado na fonte
 - [baixa] **Fernanda Morais: Diários de Classe** (f-cb046c7db2) — Preço não informado na fonte
 - [baixa] **Tainan Cabral: Armadilhas no Paraíso** (f-d85692266b) — Preço não informado na fonte
@@ -209,6 +211,24 @@
 - **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Música em Pauta
 - **24/11**: O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical; Seminário Estadual: Por uma Educação Antirracista; Choro Batucada
 - **25/11**: Rap & Repente – Artes do Improviso; Amanda Mendonça canta Djavan; Mesa-redonda: O Mundo que se Quer Esconder das Crianças; O Último Dia da Minha Vida
+- **26/11**: La Strada – Os Que Vieram Antes de Nós
+- **27/11**: La Strada – Os Que Vieram Antes de Nós
+- **28/11**: La Strada – Os Que Vieram Antes de Nós; Olhar para Dentro
+- **29/11**: La Strada – Os Que Vieram Antes de Nós
+- **30/11**: We Are Making a Film About Mark Fisher
+- **02/12**: Terreiro de Mangueira – Cordel Negro
+- **03/12**: Som Bonde Carioca em Tão Iguais
+- **05/12**: Olhar para Dentro
+- **10/12**: O Quebra-Nozes
+- **11/12**: O Quebra-Nozes
+- **12/12**: Olhar para Dentro; O Quebra-Nozes
+- **13/12**: O Quebra-Nozes
+- **16/12**: O Quebra-Nozes
+- **17/12**: O Quebra-Nozes
+- **18/12**: O Quebra-Nozes
+- **19/12**: O Quebra-Nozes
+- **20/12**: O Quebra-Nozes
+- **22/12**: O Quebra-Nozes
 
 Regras de curadoria:
 - Todas as regras cumpridas.
@@ -235,6 +255,8 @@ Regras de curadoria:
 - **ECOS – coletiva** — As fontes divergem num ponto: o site da galeria diz “segunda a sexta”; a ArtRio diz “terça a sexta”. Vale o site da galeria. Também divergem no número de obras (vinte no site da galeria, dezenove na ArtRio); vale o site da galeria.
 - **Encontro dos Povos Originários** — A coleta só trouxe o período e a chamada do evento, sem a grade de atividades nem o preço.
 - **Amigo Oculto** — Preço não informado. "Diferentes gerações" completa-se pelo resumo do Arte que Acontece.
+- **Infâncias** — Fonte oficial da FGV Arte não está na ronda; fatos do Arte que Acontece. Sem horário de visitação e sem preço na fonte. Marquei Infantil pelo tema; a fonte não diz se é voltada a crianças.
+- **Renato Bezerra de Mello: Gestos Cotidianos** — A agenda oficial do Sesc na ronda não traz esta exposição; usei os fatos do Arte que Acontece. Sem horário de visitação e sem preço na fonte.
 - **Rosana Palazyan: Quintal** — Fim: a galeria diz 28/11; o Arte que Acontece diz 26/11. Ficou a data da galeria. Horário e preço não informados.
 - **Fernanda Morais: Diários de Classe** — O site do CCJF só lista o título; período e curadoria vêm do Arte que Acontece. Horário de visitação e preço não informados pela fonte.
 - **Tainan Cabral: Armadilhas no Paraíso** — Nenhuma fonte oficial do MAR na ronda; fatos do Arte que Acontece. Horário e preço não informados por esta fonte.
@@ -263,11 +285,14 @@ Regras de curadoria:
 - **Ensaio de rua da Imperatriz Leopoldinense** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Candlelight: Queen & ABBA** — Só a Fever tem o evento. Na edição, apenas a sessão de 22/11; a próxima listada é 30/01/2027. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Roda de Samba do Vinny Santa Fé** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **Cadê o Sobrevento?** — Libras indicada só na sessão de 22/11. Classificação livre.
 - **Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Entre o Sim e o Nunca** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Ensaio de rua da Estação Primeira de Mangueira** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Pé do Meu Samba, a Roda – 2ª edição** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **La Strada – Os Que Vieram Antes de Nós** — Sessões novas da agenda oficial do Sesc (ronda de 22/11). A sessão de 19/11 veio da ronda anterior.
 - **Ensaio de rua da Portela** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **BOCA** — A agenda do Sesc dá só unidade e bairro; endereço do Sesc Copacabana completado pela redação. A sinopse oficial fala em 'O CORRE', não em 'BOCA'; mantive o título da agenda.
 - **Candlelight: The Beatles** — Só a Fever tem o evento. Na edição, apenas a sessão de 22/11; a próxima listada é 27/02/2027. A fonte não diz a formação dos músicos. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **O Neguinho da Beija-Flor – Musical** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Samba pra Roda na Capiberibe** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). O número 27 vem do nome do espaço. A listagem não diz quem toca.
@@ -300,6 +325,7 @@ Regras de curadoria:
 - **Game Drag Show com Samara Rios** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço repetido da ficha do mesmo espaço na base. Área escolhida pelo formato de espetáculo; a listagem não detalha.
 - **Encontro literário Lia Benchimol: Wabi Sabi** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Peça para os Homens** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Horários das três sessões tirados do título do evento. A fonte não dá o número do endereço; bairro pelo nome do local.
+- **Oficina de Carimbó – Cultura e Ancestralidade Amazônida** — Oficina gratuita e aberta; a fonte não diz se há inscrição prévia.
 - **Clube de Leitura CCBB com Raphael Montes** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Dança à Deriva: CorpoCabeça (RJ) e Grandiosa (CH/MX)** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Lançamento do livro “Quando o Morro Tiver Vez no Rio de Janeiro”** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte dá só “Avenida Rio Branco”, sem número. Título corrigido (a fonte grafa “Lançamentro”). Organizado por pessoa física.
@@ -318,6 +344,11 @@ Regras de curadoria:
 - **Pagode do Túnel – Samba de Axé** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte dá o local só como 'QUADRA', sem número do endereço.
 - **Samba do Xoxó e convidados** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A listagem marca abertura às 18h e o título diz 20h: usei 20h. Bairro pelo endereço; a fonte diz Centro. A fonte não dá o número do endereço.
 - **Anna Ratto** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro deduzido do endereço.
+- **Olhar para Dentro** — A agenda dá só o horário de início (9h) aos sábados listados; não diz até que horas. Endereço do Sesc Madureira completado pela redação.
+- **We Are Making a Film About Mark Fisher** — A Fever dá só o preço 'a partir de' (pode ser meia-entrada); não informa a inteira. O texto da página foi cortado na extração; não há mais detalhes do programa.
+- **Terreiro de Mangueira – Cordel Negro** — Nova sessão em 2/12 na agenda oficial do Sesc (ronda de 22/11); a página do evento mudou de endereço. A agenda atual dá o título só como 'Cordel Negro'; a relação exata entre o grupo e o projeto não está clara na fonte. A sessão de 20/11 veio da ronda anterior.
+- **Som Bonde Carioca em Tão Iguais** — O texto da página foi cortado na extração antes da descrição: a fonte não diz que tipo de apresentação é. Classifiquei como Música pelo nome do grupo; a confirmar. Preço 'a partir de' (a inteira não é informada). A casa exige traje esporte fino.
+- **O Quebra-Nozes** — A Fever informa temporada até 27/12, mas lista sessões só até 22/12; pode haver outras sessões entre 23 e 27/12. Preço 'a partir de' (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
