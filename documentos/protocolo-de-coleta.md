@@ -8,7 +8,7 @@ Quem executa não tem memória das conversas anteriores: tudo o que precisa est�
 
 | Peça | O que faz | Quando |
 |---|---|---|
-| **Ronda** (`.github/workflows/coleta.yml`) | Visita as fontes, extrai Ingresso.com e Sympla, guarda o texto bruto no ramo `coleta-bruta`, monta a edição, publica o site, escreve o boletim de saúde e dispara alarme se algo falhar | todo dia, 4h17, no GitHub, sem IA |
+| **Ronda** (`.github/workflows/coleta.yml`) | Visita as fontes, extrai Ingresso.com, Sympla e Fever, guarda o texto bruto no ramo `coleta-bruta`, monta a edição, publica o site, escreve o boletim de saúde e dispara alarme se algo falhar | todo dia, 4h17, no GitHub, sem IA |
 | **Base de fichas** (`dados/fichas.json`) | Guarda todas as fichas da redação, com todas as sessões. Nunca se edita à mão | permanente |
 | **Robô** (`ferramentas/montar.py`) | Monta a edição de quinta a quarta a partir da base, de hoje em diante; refaz o cinema; completa "A boa" pela regra fixa nos dias sem destaque da redação; gera o site | em cada ronda e em cada entrega |
 | **Fichas automáticas da rede municipal** (`ferramentas/robo_sympla.py`, grava `dados/robo.json`) | Da Sympla, transforma em ficha, sem IA, os eventos de data única organizados pelo Município do Rio que reconhece com segurança: shows, tributos, homenagens, cineclubes, rodas de conversa, comédia e o que acontece nos teatros municipais. Dança, circo, oficinas e "espetáculos" de arena e areninha (quase sempre apresentação de escola) ficam para a redação. A sinopse é só uma linha de fatos | em cada ronda |
@@ -44,7 +44,7 @@ Confira em `/home/claude/bruta/resumo.json` (campo `feito_em`, em UTC) se a rond
 
 1. **Pendências de ontem:** `dados/coleta/pendentes.json`.
 2. **PDF da Secretaria Municipal de Cultura** em `entrada/`, se houver um que ainda não aparece no campo `nota` de `dados/entregas.json`. Ele é a fonte principal da rede municipal: arenas, areninhas, lonas, teatros, bibliotecas e museus. Um PDF rende mais que 25 fichas: comece pelos eventos mais próximos e deixe o resto em pendentes. Cite o nome do arquivo na `nota` da entrega.
-3. **Linhas novas de `novo.txt`** (marcadas com ★), nesta ordem: equipamentos públicos e espaços fora da Zona Sul; o que é grátis ou a preço popular; o grupo "PRIORIDADE" da Sympla (`FPLAT_sympla`); o resto; o grupo "cultural" da Sympla. Do grupo "a verificar", leia só os títulos.
+3. **Linhas novas de `novo.txt`** (marcadas com ★), nesta ordem: equipamentos públicos e espaços fora da Zona Sul; o que é grátis ou a preço popular; o grupo "PRIORIDADE" da Sympla (`FPLAT_sympla`) e da Fever (`FPLAT_fever`); o resto; o grupo "cultural" das duas. Do grupo "a verificar", leia só os títulos.
 4. **Cancelamentos e mudanças** em eventos que já estão na base: corrija ou remova.
 5. **Fichas automáticas novas** (`dados/robo.json`, as que têm `"robo": true`): leia só os títulos das que ainda não viu (compare com `dados/coleta/robo-vistos.json`, que guarda os códigos já revistos). Vete em `"vetar"` o que não cabe nos critérios (apresentação de escola, atividade que não é cultural). Se sobrar teto, escolha as melhores e entregue a ficha completa com sinopse própria, mesmo título e mesmo local, lendo o evento na Sympla pelo `FPLAT_sympla.txt`: a ficha da redação passa a valer no lugar da automática. Depois grave em `robo-vistos.json` os códigos revistos, como `{"vistos": ["f-..."]}`. A Sympla não informa preço nessa listagem: não invente.
 
@@ -61,6 +61,7 @@ Para completar hora, preço, endereço ou classificação, faça buscas pontuais
 - **Não redija de novo o que o robô já publicou** (fichas com `"robo": true` em `dados/robo.json`), a não ser para dar a sinopse própria (item 5 acima).
 - **Cinema não se redige:** a grade sai sozinha da Ingresso.com. Mostras e sessões especiais fora dela (cineclubes, Cinemateca do MAM) se redigem normalmente.
 - Sympla: se o evento estiver no site do próprio espaço, a fonte é o espaço. Se só a Sympla tem, a fonte é "Sympla (extração do Todos os Rios)" e o link é o do evento, sem código acrescentado. Registre na nota se o organizador é um órgão público. **Nunca copie e-mail ou outro dado pessoal** (o programa recusa).
+- Fever (desde 22/11/2026): mesma regra da Sympla; a fonte é "Fever (extração do Todos os Rios)" quando só ela tem o evento. Cada linha traz as datas e horas das sessões ("datas:") e o começo do texto da página, de onde sai o trecho exato. O preço "a partir de" da Fever pode ser de um setor especial ou de meia-entrada: confira a inteira no texto antes de marcar preço popular. Vendem pela Fever, entre outros, o Theatro Municipal (balé, Música no Assyrio, Sala Mário Tavares) e a série Candlelight. Vales-presente, passeios turísticos e eventos em "localização secreta" já saem descartados (`fever-descartados.txt`).
 - Quando o site dá só "a partir de R$ X", escreva assim no `preco_texto` e ponha X em `preco_min` e `preco_max`. Não invente a inteira.
 - Dia da semana vira data. Confira feriados.
 

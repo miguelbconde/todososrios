@@ -85,6 +85,8 @@ O mapa completo está em `dados/fontes.csv`. Ele tem 274 entradas, cada uma com 
 
 **Em funcionamento desde 19/11/2026:** a ronda diária extrai a grade dos cinemas de rua, de arte e públicos na Ingresso.com (vira fichas automáticas, sem IA) e os eventos do Rio na Sympla (a redação escolhe, com os critérios editoriais). Passo a passo em `documentos/protocolo-de-coleta.md`.
 
+**Fever e Shotgun (teste de 22/11/2026):** a Fever está aberta: a página da cidade traz a vitrine do Rio (cerca de 60 ofertas) e cada evento tem dados estruturados com datas, horários, lugar e preço. Entrou na ronda diária no mesmo dia, com triagem automática (saem vales-presente, passeios turísticos e "localização secreta") e leitura da redação, como a Sympla. Achado: o Theatro Municipal vende parte da programação pela Fever (balé, Música no Assyrio, sessões na Sala Mário Tavares). A Shotgun responde a qualquer visita automática com uma verificação anti-robô (da Vercel); pelos nossos limites, não contornamos. Fica em espera: alternativas são a leitura assistida das páginas dos espaços que vendem por lá e o pedido direto aos produtores.
+
 **Primeiro teste (19/11/2026):** Ingresso.com e Sympla estão abertas à extração; Ticketmaster barra robôs na entrada e sua chave oficial é incompatível com dados abertos; Eventim não respondeu da nuvem. Detalhes em `dados/coleta/plataformas-teste.md`.
 
 **Decisões da coordenação editorial (19/11/2026):**

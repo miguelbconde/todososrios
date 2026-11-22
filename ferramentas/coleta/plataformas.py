@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extração das plataformas de ingresso — Ingresso.com (cinema) e Sympla (eventos).
+"""Extração das plataformas de ingresso — Ingresso.com (cinema), Sympla e Fever (eventos).
 
 Faz parte da ronda diária. Segue o protocolo do Todos os Rios para plataformas (plano diretor, seção 5):
 só fatos sobre eventos (título, datas, horários, local, preço, classificação, link), nunca dados de
@@ -10,6 +10,7 @@ para robôs que elas publicam (decisão editorial de 19/11/2026).
 Saídas (na pasta de texto bruto da ronda, fora da linha principal):
   plataformas.json        dados estruturados das duas plataformas
   (a lista da Sympla para a redação é feita depois, por triagem_sympla.py)
+  FPLAT_fever.txt         candidatos da Fever, triados pelas mesmas regras, lidos pela peneira e pela redação
 E na linha principal, só números: dados/coleta/plataformas.md
 Uso: python3 plataformas.py <pasta de saída>
 """
@@ -173,6 +174,132 @@ def sympla():
     return {"eventos": list(eventos.values()), "paginas_lidas": pagina, "falhas": falhas}
 
 
+# ------------------------------------------------------------------ Fever (desde 22/11/2026)
+# A página da cidade traz embutida a vitrine de eventos do Rio; a página de cada evento traz os dados
+# estruturados (schema.org: nome, início, fim, lugar, preço) e o endereço. Só fatos sobre eventos.
+FEVER_CIDADE = "https://feverup.com/pt/rio-de-janeiro"
+
+
+def estado_fever(html):
+    m = re.search(r'<script id="serverapp-state" type="application/json">(.*?)</script>', html, re.S)
+    if not m:
+        return {}
+    raw = m.group(1).replace("&q;", '"').replace("&s;", "'").replace("&l;", "<").replace("&g;", ">").replace("&a;", "&")
+    try:
+        return json.loads(raw)
+    except ValueError:
+        return {}
+
+
+def fever():
+    planos, falhas = {}, []
+    st, html = baixar(FEVER_CIDADE)
+    time.sleep(PAUSA)
+    if st != 200:
+        return {"eventos": [], "falhas": [f"página da cidade (código {st})"]}
+
+    def anda(o):
+        if isinstance(o, dict):
+            if "plan_id" in o and "name" in o and isinstance(o.get("location"), (dict, type(None))):
+                planos.setdefault(o["plan_id"], o)
+            for v in o.values():
+                anda(v)
+        elif isinstance(o, list):
+            for v in o:
+                anda(v)
+    anda(estado_fever(html))
+    eventos = []
+    for pid, p in planos.items():
+        loc = p.get("location") or {}
+        if (loc.get("city_name") or "Rio de Janeiro") != "Rio de Janeiro":
+            continue
+        # a vitrine marca como UTC horários que são do Rio: troca o fuso para não atrasar 3 horas
+        local = lambda x: (x or "").replace("+00:00", "-03:00")
+        ev = {"id": str(pid), "titulo": (p.get("name") or "").strip(), "local": (loc.get("name") or "").strip(),
+              "inicio": local(p.get("first_active_session_date")), "fim": local(p.get("last_active_session_date")),
+              "preco_a_partir": (p.get("price_info") or {}).get("amount"), "endereco": "", "datas": [],
+              "texto": "", "link": f"https://feverup.com/m/{pid}"}
+        # só abre a página do evento se ele acontece nos próximos 45 dias (o resto não entra na edição)
+        try:
+            ini = dt.datetime.fromisoformat(ev["inicio"].replace("Z", "+00:00")).date()
+        except ValueError:
+            ini = None
+        if ini and dt.date.today() <= ini + dt.timedelta(days=200) and ini <= dt.date.today() + dt.timedelta(days=45):
+            st, pg = baixar(ev["link"])
+            time.sleep(PAUSA)
+            if st == 200:
+                for bloco in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', pg, re.S):
+                    try:
+                        j = json.loads(bloco)
+                    except ValueError:
+                        continue
+                    if isinstance(j, dict) and j.get("@type") == "Event":
+                        ev["inicio"] = j.get("startDate") or ev["inicio"]
+                        ev["fim"] = j.get("endDate") or ev["fim"]
+                        ev["local"] = ((j.get("location") or {}).get("name") or ev["local"]).strip()
+                        ev["texto"] = re.sub(r"\s+", " ", j.get("description") or "")[:900]
+                        break
+                est = estado_fever(pg)
+                for k, v in est.items():
+                    if k.startswith(("PlanService.getPlanDetail", "immersive-plan-detail", "immersive-plan-venue", "PLAN_PLACE_PREVIEW")):
+                        txt = json.dumps(v, ensure_ascii=False)
+                        a = re.search(r'"address": "([^"]+)"', txt)
+                        if a:
+                            ev["endereco"] = a.group(1); break
+                for k, v in est.items():
+                    if k.startswith("LEVEL_TICKET_SELECTOR_SESSIONS") and isinstance(v, dict):
+                        for it in ((v.get("level") or {}).get("items") or []):
+                            dia = (it.get("value") or {}).get("from", "")[:10]
+                            horas = [h.get("default_label") for h in ((it.get("level") or {}).get("items") or []) if h.get("default_label")]
+                            if dia:
+                                ev["datas"].append(dia + (" " + ", ".join(horas) if horas else ""))
+            else:
+                falhas.append(f"{ev['titulo']} (código {st})")
+        eventos.append(ev)
+    return {"eventos": eventos, "falhas": falhas}
+
+
+def triagem_fever(fv, pasta):
+    """Mesmas regras da triagem da Sympla, mais o que é próprio da Fever (vales-presente, passeios turísticos)."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import triagem_sympla as T
+    proprios = [("vale-presente", r"cartao-presente|gift card|vale-presente"),
+                ("local secreto ou sem data", r"localizacao secreta"),
+                ("turismo ou passeio", r"\b(sem filas|skip the line|visita guiada|passeio|scooter|caminhada|escalada|trem do corcovado|bondinho|cristo redentor|maracana|bastidores do carnaval|aulas? de|comidas)\b")]
+    cand, fora = [], []
+    for e in fv["eventos"]:
+        alvo = T.n(" ".join([e["titulo"], e["local"]]))
+        motivo = next((m for m, r in proprios + T.FORA if re.search(r, alvo)), None)
+        if not motivo:
+            try:
+                dias = (dt.date.fromisoformat(e["fim"][:10]) - dt.date.fromisoformat(e["inicio"][:10])).days
+            except ValueError:
+                dias = 0
+            if dias > 45 and not e["datas"]:
+                motivo = "período longo, sem data precisa"
+        if motivo:
+            fora.append((motivo, e)); continue
+        prio = 2 if re.search(T.PUBLICO, alvo) or re.search(r"theatro municipal|sala mario tavares|sala cecilia", alvo) else 1 if re.search(T.CULTURA, alvo) else 0
+        cand.append((prio, e))
+    cand.sort(key=lambda x: (-x[0], x[1]["inicio"]))
+    rotulo = {2: "PRIORIDADE: equipamento público ou espaço cultural", 1: "cultural", 0: "verificar"}
+    with open(os.path.join(pasta, "FPLAT_fever.txt"), "w", encoding="utf-8") as f:
+        f.write("FPLAT_fever | Fever (extração e triagem automática do Todos os Rios) | " + FEVER_CIDADE + "\n")
+        for nivel in (2, 1, 0):
+            f.write(f"## {rotulo[nivel]}\n")
+            for pr, e in cand:
+                if pr != nivel:
+                    continue
+                di, hi = hora_rio(e["inicio"]); df, hf = hora_rio(e["fim"])
+                preco = f"a partir de R$ {e['preco_a_partir']:g}" if isinstance(e["preco_a_partir"], (int, float)) else ""
+                f.write(f"{di} {hi} até {df} {hf} | {e['titulo']} | {e['local']}, {e['endereco']} | {preco} | "
+                        f"datas: {'; '.join(e['datas']) or '—'} | {e['link']} | texto da página: {e['texto']}\n")
+    with open(os.path.join(pasta, "fever-descartados.txt"), "w", encoding="utf-8") as f:
+        for m, e in sorted(fora, key=lambda x: x[0]):
+            f.write(f"{m} | {e['inicio'][:10]} | {e['titulo']} | {e['local']}\n")
+    return len(cand), len(fora)
+
+
 def hora_rio(iso):
     """'2026-11-19T22:00:00+00:00' -> ('2026-11-19', '19:00') no horário do Rio (UTC−3)."""
     try:
@@ -187,7 +314,11 @@ def main(saida):
     feito = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     ing = ingresso()
     sym = sympla()
-    json.dump({"feito_em": feito, "ingresso": ing, "sympla": sym},
+    try:
+        fv = fever()
+    except Exception as e:  # a Fever nunca derruba a ronda
+        fv = {"eventos": [], "falhas": [f"erro: {type(e).__name__}"]}
+    json.dump({"feito_em": feito, "ingresso": ing, "sympla": sym, "fever": fv},
               open(os.path.join(saida, "plataformas.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     por_cinema = {}
     for s in ing["sessoes"]:
@@ -199,9 +330,15 @@ def main(saida):
     linhas += [f"- Falhou: {x}" for x in ing["falhas"]]
     linhas += ["", f"## Sympla: {len(sym['eventos'])} eventos no Rio ({sym['paginas_lidas']} páginas lidas)", ""]
     linhas += [f"- Falhou: {x}" for x in sym["falhas"]] or ["- Sem falhas."]
+    try:
+        nc, nf = triagem_fever(fv, saida)
+    except Exception as e:
+        nc, nf = 0, 0; fv["falhas"].append(f"triagem: {type(e).__name__}")
+    linhas += ["", f"## Fever: {len(fv['eventos'])} eventos no Rio ({nc} candidatos para a redação, {nf} descartados pela regra)", ""]
+    linhas += [f"- Falhou: {x}" for x in fv["falhas"]] or ["- Sem falhas."]
     os.makedirs(os.path.join(RAIZ, "dados", "coleta"), exist_ok=True)
     open(os.path.join(RAIZ, "dados", "coleta", "plataformas.md"), "w", encoding="utf-8").write("\n".join(linhas) + "\n")
-    print(f"Ingresso.com: {len(ing['sessoes'])} sessões · Sympla: {len(sym['eventos'])} eventos")
+    print(f"Ingresso.com: {len(ing['sessoes'])} sessões · Sympla: {len(sym['eventos'])} eventos · Fever: {len(fv['eventos'])} eventos")
 
 
 if __name__ == "__main__":
