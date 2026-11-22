@@ -59,6 +59,42 @@
    "titulo": "FESTIVAL ARPOARTE 2026",
    "data": "2026-11-25",
    "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
+  },
+  {
+   "fonte": "FAGENDA_sesc",
+   "titulo": "Cadê o Sobrevento?",
+   "data": "2026-11-22",
+   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
+  },
+  {
+   "fonte": "FAGENDA_sesc",
+   "titulo": "BOCA",
+   "data": "2026-11-22",
+   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
+  },
+  {
+   "fonte": "FAGENDA_sesc",
+   "titulo": "La Strada – Os Que Vieram Antes de Nós (nova sessão)",
+   "data": "2026-11-22",
+   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
+  },
+  {
+   "fonte": "FAGENDA_sesc",
+   "titulo": "Oficina de Carimbó – Cultura e Ancestralidade Amazônida",
+   "data": "2026-11-25",
+   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
+  },
+  {
+   "fonte": "FAGENDA_arteacontece",
+   "titulo": "Gestos cotidianos (Sesc Tijuca)",
+   "data": "2026-11-22",
+   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Feijoada do Gamado - Gamadinho & convidados",
+   "data": "2026-11-22",
+   "motivo": "faltam bairro e preço"
   }
  ]
 }
