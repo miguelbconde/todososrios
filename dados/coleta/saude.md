@@ -26,6 +26,7 @@
   - 2026-11-22: 2 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11 (2ª rodada): 2 fichas da Fever (Candlelight no Museu do Amanhã); 12 pendências da Sympla seguem sem dados suficientes; nenhuma ficha automática nova; sem PDF da Secretaria.
   - 2026-11-22: 18 novas, 0 corrigidas, 0 recusadas — Rodada extra de 22/11: 18 fichas da Sympla só pela listagem (páginas bloqueadas), 9 delas para 23 a 25/11; Encontro de Corais e Pagode do Túnel saem das pendências.
   - 2026-11-22: 7 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11 (3ª rodada), lote 1: 7 exposições do Arte que Acontece.
+  - 2026-11-22: 0 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11 (3ª rodada): 7 exposições do Arte que Acontece, com traduções; 5 itens do Sesc ficaram pendentes porque o programa de entrega ainda recusa Sesc; sem PDF da Secretaria.
 
 ## Edição no ar
 

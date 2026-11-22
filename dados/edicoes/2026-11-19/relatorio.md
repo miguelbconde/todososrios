@@ -148,7 +148,7 @@ Regras de curadoria:
 
 ## Traduções
 
-- Sem tradução (aparece em português no site em inglês e espanhol): Amigo Oculto, Rosana Palazyan: Quintal, Fernanda Morais: Diários de Classe, Tainan Cabral: Armadilhas no Paraíso, Carnaval Como Método, Romain Dumesnil: EXORAMA, Andréa Hygino: Projeto parquinho
+- Todas as sinopses têm versão em inglês e espanhol.
 
 ## Notas de redação
 
