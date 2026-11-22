@@ -60,9 +60,9 @@ CORRECOES = {
 }
 # Fontes que só entram com autorização expressa da coordenação editorial
 EM_ESPERA = {
-    "cultura.sescrio.org.br": "o site barra leitores de inteligência artificial; aguardando decisão editorial ou contato com o Sesc",
-    "sescrio.org.br": "o site barra leitores de inteligência artificial; aguardando decisão editorial ou contato com o Sesc",
-    "www.sescrio.org.br": "o site barra leitores de inteligência artificial; aguardando decisão editorial ou contato com o Sesc",
+    "cultura.sescrio.org.br": "lido pela agenda dedicada (agendas.py), desde 22/11/2026",
+    "sescrio.org.br": "lido pela agenda dedicada (agendas.py), desde 22/11/2026",
+    "www.sescrio.org.br": "lido pela agenda dedicada (agendas.py), desde 22/11/2026",
 }
 PROG = re.compile(r"program|agenda|evento|espet[aá]culo|em[-_ ]?cartaz|exposi[cç]|shows?\b|calend[aá]rio|temporada|"
                   r"concerto|cinema|sess[oõ]es|o[-_ ]que[-_ ]fazer|acontece|atra[cç][oõ]es|ingressos|pe[cç]as|mostras?", re.I)

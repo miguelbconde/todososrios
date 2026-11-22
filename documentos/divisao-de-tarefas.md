@@ -20,7 +20,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 ### 1. Robô (GitHub, todo dia às 4h17, sem IA)
 
 - Visita as fontes do cadastro e guarda o texto fora do site.
-- Extrai a grade da Ingresso.com e os eventos da Sympla, já triados por regra.
+- Extrai a grade da Ingresso.com e os eventos da Sympla e da Fever, já triados por regra, e lê as agendas do Sesc RJ e do Arte que Acontece (desde 22/11/2026, por padrão).
 - Monta a edição de quinta a quarta a partir da base de fichas, de hoje em diante. Às quintas, a edição nova abre sozinha.
 - Refaz a grade de todos os cinemas.
 - Completa "A boa" nos dias que não têm destaque escolhido pela redação, com regra fixa: diversidade de regiões, áreas e espaços, prioridade para o grátis e o barato, para espaços públicos e para fora da Zona Sul.
@@ -60,7 +60,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 
 **Decisões que só ele toma**
 - Critérios editoriais, posicionamento público e parcerias.
-- Fontes em espera (hoje: o Sesc).
+- Fontes em espera (o Sesc saiu da espera em 22/11/2026).
 - Passos de conta: domínios, HTTPS, permissões, plano de uso.
 
 **O que ele não faz**

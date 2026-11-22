@@ -290,6 +290,7 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 
 **Tomadas (22/11/2026):**
 - Sem teto diário de fichas: a redação cobre tudo o que cabe nos critérios, entregando em lotes.
+- Sesc RJ e Arte que Acontece entram por padrão na rotina, não como fonte opcional. Os dois sites permitem a leitura nas regras para robôs. O Arte que Acontece bloqueia pelo nome os robôs de IA e aceita uso como referência: serve de radar de fatos, e a ficha se escreve da fonte oficial do espaço. Leitura dedicada em `ferramentas/coleta/agendas.py`, na ronda diária.
 - Robôs só como último recurso (revisão no mesmo dia): é crucial para a adoção do site que tudo rode bem e seja confiável, e o robô erra mais que a redação. Toda ficha de evento passa a ser redigida e conferida pela redação, inclusive a rede municipal na Sympla e os palcos públicos na Fever; as fichas automáticas ficam desligadas (`FICHAS_DO_ROBO` em `ferramentas/montar.py`). Só voltam se o consumo do plano inviabilizar o uso do Claude em outros projetos. Continuam com o robô as tarefas mecânicas: coleta, grade de cinema (dados prontos da Ingresso.com), montagem, publicação, alarme e "A boa" de reserva, que só aparece se a redação falhar.
 
 **Pendente:**
