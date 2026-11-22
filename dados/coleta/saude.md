@@ -15,7 +15,7 @@
 
 ## Fichas automáticas (sem IA)
 
-- Rede municipal pela Sympla: 25 fichas
+- Fichas automáticas: 0 (desligadas desde 22/11/2026; toda ficha é da redação)
 - Locais da Sympla que o robô ainda não reconhece: nenhum
 
 ## Redação (tarefa diária do Claude)
