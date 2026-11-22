@@ -15,15 +15,11 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # oitava rodada (22/11/2026): agenda do Sesc RJ (site cultura.sescrio.org.br, dados em apicultura)
+ALVOS = {  # nona rodada (22/11/2026): Sesc RJ, página 2 da programação e página de um evento
     "sesc": [
-        "https://cultura.sescrio.org.br/programacao",
-        "https://apicultura.sescrio.org.br/robots.txt",
-        "https://apicultura.sescrio.org.br/wp-json/",
-        "https://apicultura.sescrio.org.br/wp-json/wp/v2/types",
-    ],
-    "arteacontece": [
-        "https://artequeacontece.com.br/wp-json/tribe/events/v1/events?per_page=50&page=4&categories=rio-de-janeiro&start_date=2025-01-01&end_date=2027-12-31",
+        "https://cultura.sescrio.org.br/programacao?page=2",
+        "https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-antes-de-nos",
+        "https://cultura.sescrio.org.br/programacao/historias-brincantes-com-cia-trilhos",
     ],
 }
 
