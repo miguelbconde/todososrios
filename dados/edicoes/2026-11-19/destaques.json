@@ -79,130 +79,62 @@
   ],
   "2026-11-26": [
    {
-    "id": "2026-11-19-115",
-    "porque": "A preço popular, em Tijuca.",
-    "automatico": true
-   },
-   {
-    "id": "f-8f37410ce6",
-    "porque": "Em Tijuca.",
-    "automatico": true
+    "id": "f-4a9f433f61",
+    "porque": "Carimbó de mulheres indígenas do Tapajós, de graça e com Libras, na Tijuca."
    },
    {
     "id": "f-db9886b6e6",
-    "porque": "Em Bangu.",
-    "automatico": true
-   },
-   {
-    "id": "f-5dbe31cb4c",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "f-5157b0c813",
-    "porque": "Em Ipanema.",
-    "automatico": true
-   },
-   {
-    "id": "f-d219493664",
-    "porque": "Em Tijuca.",
-    "automatico": true
+    "porque": "Yuri Marçal leva \"Macumbeiro\" a uma areninha pública de Bangu."
    }
   ],
   "2026-11-27": [
    {
     "id": "2026-11-19-115",
-    "porque": "A preço popular, em Tijuca.",
-    "automatico": true
-   },
-   {
-    "id": "f-2bc42b1a23",
-    "porque": "Em Tijuca.",
-    "automatico": true
-   },
-   {
-    "id": "f-2985740e6d",
-    "porque": "Em Centro.",
-    "automatico": true
+    "porque": "Palhaçaria e memória do circo brasileiro a preço popular, na Tijuca."
    },
    {
     "id": "f-f7e52c2e2c",
-    "porque": "Em Centro.",
-    "automatico": true
+    "porque": "Filme e livro sobre a Noitada de Samba, no Centro."
    },
    {
-    "id": "f-5157b0c813",
-    "porque": "Em Ipanema.",
-    "automatico": true
+    "id": "f-d2eac34399",
+    "porque": "Trompas da UFRJ num concerto ao meio-dia no Centro."
    },
    {
-    "id": "f-132c6ce110",
-    "porque": "Em Madureira.",
-    "automatico": true
+    "id": "f-f8ed502f79",
+    "porque": "\"Mistério Buffo\" em três noites num teatro municipal do Leblon."
+   },
+   {
+    "id": "f-db4e688785",
+    "porque": "\"A Ópera do Malandro\" numa areninha pública de Guadalupe."
    }
   ],
   "2026-11-28": [
    {
-    "id": "2026-11-19-115",
-    "porque": "A preço popular, em Tijuca.",
-    "automatico": true
-   },
-   {
     "id": "f-f47b3902e1",
-    "porque": "De graça, em Madureira.",
-    "automatico": true
+    "porque": "Poesia visual dentro de uma caixa de origami, de graça, em Madureira."
    },
    {
-    "id": "f-8d7f1ac2c1",
-    "porque": "Em Madureira.",
-    "automatico": true
+    "id": "f-811784c086",
+    "porque": "Teatro para todas as idades a R$ 20, na Tijuca."
    },
    {
-    "id": "f-cb548d2990",
-    "porque": "Em Bangu.",
-    "automatico": true
+    "id": "f-43ec59dad8",
+    "porque": "Cinco peças curtas de Cecilia Ripoll numa tarde no Humaitá."
    },
    {
     "id": "f-6576ed5f1c",
-    "porque": "Em Pechincha.",
-    "automatico": true
-   },
-   {
-    "id": "f-a9155630c6",
-    "porque": "Em Centro.",
-    "automatico": true
+    "porque": "Yuri Marçal no palco público do Pechincha."
    }
   ],
   "2026-11-29": [
    {
-    "id": "2026-11-19-115",
-    "porque": "A preço popular, em Tijuca.",
-    "automatico": true
+    "id": "f-811784c086",
+    "porque": "Última sessão do mês de \"Cadê o Sobrevento?\", a R$ 20, na Tijuca."
    },
    {
     "id": "f-37698fe132",
-    "porque": "Em Bangu.",
-    "automatico": true
-   },
-   {
-    "id": "f-cb7bacc156",
-    "porque": "Em Guadalupe.",
-    "automatico": true
-   },
-   {
-    "id": "f-e2b00c012e",
-    "porque": "Em Tijuca.",
-    "automatico": true
-   },
-   {
-    "id": "f-a9155630c6",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "f-5157b0c813",
-    "porque": "Em Ipanema.",
-    "automatico": true
+    "porque": "Os Gilsons numa areninha pública de Bangu."
    }
   ],
   "2026-11-30": [
@@ -353,12 +285,41 @@
    }
   ]
  },
- "mes": [],
+ "mes": [
+  {
+   "id": "f-e7300b7d46",
+   "porque": "\"O Quebra-Nozes\" no Theatro Municipal costuma esgotar em dezembro: há ingressos a partir de R$ 10."
+  },
+  {
+   "id": "f-37698fe132",
+   "porque": "Os Gilsons em areninhas públicas da Zona Oeste e da Zona Norte."
+  },
+  {
+   "id": "f-4a9f433f61",
+   "porque": "Carimbó de mulheres indígenas do Tapajós, de graça, na Tijuca."
+  },
+  {
+   "id": "f-33ccd17d21",
+   "porque": "Grande coletiva sobre a infância abre em Botafogo e fica até maio."
+  },
+  {
+   "id": "f-cc87a92854",
+   "porque": "Sessão única sobre Mark Fisher, autor de \"Realismo Capitalista\", no anexo do Theatro Municipal."
+  },
+  {
+   "id": "f-8b6457b70f",
+   "porque": "Samba em homenagem a Cartola, de graça, na Tijuca."
+  },
+  {
+   "id": "f-f47b3902e1",
+   "porque": "Poesia visual de graça aos sábados em Madureira."
+  },
+  {
+   "id": "f-6576ed5f1c",
+   "porque": "Yuri Marçal na Zona Sudoeste, num palco público."
+  }
+ ],
  "automaticos": [
-  "2026-11-26",
-  "2026-11-27",
-  "2026-11-28",
-  "2026-11-29",
   "2026-11-30",
   "2026-12-02",
   "2026-12-03",

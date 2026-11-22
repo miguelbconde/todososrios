@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:2026-11-19-090-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
 SUMMARY:Amanhecer Rio – Festival Cultura e Cuidado
@@ -24,7 +24,7 @@ CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-075-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Mensageiras da Cultura – 50 anos da Kotekitai
@@ -39,7 +39,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-075-1@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T143000Z
 DTEND:20261122T163000Z
 SUMMARY:Mensageiras da Cultura – 50 anos da Kotekitai
@@ -54,7 +54,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-086-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T130000Z
 DTEND:20261122T150000Z
 SUMMARY:Domingo recreativo para crianças
@@ -68,7 +68,7 @@ CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-047-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
 SUMMARY:Festival Quem Dança é Mais Feliz
@@ -83,7 +83,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-054-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 SUMMARY:Quintal
@@ -98,8 +98,38 @@ URL:https://cultura.prefeitura.rio/agendacultural/
 CATEGORIES:Infantil\,Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:f-811784c086-1@todososrios.rio
+DTSTAMP:20261122T203559Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Cadê o Sobrevento?
+LOCATION:Sesc Tijuca\, Rua Barão de Mesquita\, 539 – Tijuca
+DESCRIPTION:Espetáculo que trata do desaparecimento\, há 20 anos\, do g
+ rupo Sobrevento\, famoso pelo teatro de bonecos nos anos 90 e início do
+ s 2000\, e das pessoas que cobram respostas.\n\nR$ 20 (meia R$ 10) · Li
+ vre\n\nFonte: https://cultura.sescrio.org.br/programacao/cade-o-sobreven
+ to\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://cultura.sescrio.org.br/programacao/cade-o-sobrevento
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:f-811784c086-2@todososrios.rio
+DTSTAMP:20261122T203559Z
+DTSTART:20261129T190000Z
+DTEND:20261129T210000Z
+SUMMARY:Cadê o Sobrevento?
+LOCATION:Sesc Tijuca\, Rua Barão de Mesquita\, 539 – Tijuca
+DESCRIPTION:Espetáculo que trata do desaparecimento\, há 20 anos\, do g
+ rupo Sobrevento\, famoso pelo teatro de bonecos nos anos 90 e início do
+ s 2000\, e das pessoas que cobram respostas.\n\nR$ 20 (meia R$ 10) · Li
+ vre\n\nFonte: https://cultura.sescrio.org.br/programacao/cade-o-sobreven
+ to\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://cultura.sescrio.org.br/programacao/cade-o-sobrevento
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-002-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261122T210000Z
 DTEND:20261122T230000Z
 SUMMARY:Equina
@@ -114,24 +144,8 @@ URL:https://cultura.prefeitura.rio/agendacultural/
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-115-1@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261126T220000Z
-DTEND:20261127T000000Z
-SUMMARY:La Strada – Os Que Vieram Antes de Nós
-LOCATION:Sesc Tijuca\, Rua Barão de Mesquita\, 539 – Tijuca
-DESCRIPTION:Palhaçaria e teatro documentário sobre gerações de palha
- ços anônimos que fizeram a história do circo no Brasil.\n\nR$ 30 (mei
- a R$ 15) · Livre\n\nFonte: https://cultura.sescrio.org.br/programacao/l
- a-strada-os-que-vieram-antes-de-nos\nTodos os Rios — agenda cultural a
- berta do Rio
-URL:https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-an
- tes-de-nos
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-115-2@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:La Strada – Os Que Vieram Antes de Nós
@@ -146,126 +160,8 @@ URL:https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-an
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-19-115-3@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261128T220000Z
-DTEND:20261129T000000Z
-SUMMARY:La Strada – Os Que Vieram Antes de Nós
-LOCATION:Sesc Tijuca\, Rua Barão de Mesquita\, 539 – Tijuca
-DESCRIPTION:Palhaçaria e teatro documentário sobre gerações de palha
- ços anônimos que fizeram a história do circo no Brasil.\n\nR$ 30 (mei
- a R$ 15) · Livre\n\nFonte: https://cultura.sescrio.org.br/programacao/l
- a-strada-os-que-vieram-antes-de-nos\nTodos os Rios — agenda cultural a
- berta do Rio
-URL:https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-an
- tes-de-nos
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-19-115-4@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261129T210000Z
-DTEND:20261129T230000Z
-SUMMARY:La Strada – Os Que Vieram Antes de Nós
-LOCATION:Sesc Tijuca\, Rua Barão de Mesquita\, 539 – Tijuca
-DESCRIPTION:Palhaçaria e teatro documentário sobre gerações de palha
- ços anônimos que fizeram a história do circo no Brasil.\n\nR$ 30 (mei
- a R$ 15) · Livre\n\nFonte: https://cultura.sescrio.org.br/programacao/l
- a-strada-os-que-vieram-antes-de-nos\nTodos os Rios — agenda cultural a
- berta do Rio
-URL:https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-an
- tes-de-nos
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:f-a9155630c6-3@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261128T210000Z
-DTEND:20261128T230000Z
-SUMMARY:Um Homem Célebre
-LOCATION:Centro Cultural da Justiça Federal\, Avenida Rio Branco – Cen
- tro
-DESCRIPTION:Espetáculo teatral baseado em Machado de Assis\, em cartaz n
- o Centro Cultural da Justiça Federal até 29 de novembro.\n\nPreço nã
- o informado\n\nATENÇÃO: a fonte não informa os dias exatos da tempora
- da\; listamos de quinta a domingo. Confira antes de ir.\n\nFonte: https:
- //www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-
- espetaculo-teatral/3605830\nTodos os Rios — agenda cultural aberta do 
- Rio
-URL:https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-
- de-assis-espetaculo-teatral/3605830
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:f-a9155630c6-4@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261129T210000Z
-DTEND:20261129T230000Z
-SUMMARY:Um Homem Célebre
-LOCATION:Centro Cultural da Justiça Federal\, Avenida Rio Branco – Cen
- tro
-DESCRIPTION:Espetáculo teatral baseado em Machado de Assis\, em cartaz n
- o Centro Cultural da Justiça Federal até 29 de novembro.\n\nPreço nã
- o informado\n\nATENÇÃO: a fonte não informa os dias exatos da tempora
- da\; listamos de quinta a domingo. Confira antes de ir.\n\nFonte: https:
- //www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-
- espetaculo-teatral/3605830\nTodos os Rios — agenda cultural aberta do 
- Rio
-URL:https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-
- de-assis-espetaculo-teatral/3605830
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:f-5157b0c813-1@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261126T230000Z
-DTEND:20261127T010000Z
-SUMMARY:Algoritmo
-LOCATION:Teatro Municipal Ipanema Rubens Corrêa\, Rua Prudente de Morais
- \, 824 – Ipanema
-DESCRIPTION:"Algoritmo" em cartaz no Teatro Municipal Ipanema Rubens Corr
- êa até 29 de novembro.\n\nPreço não informado\n\nATENÇÃO: a fonte 
- não informa os dias exatos da temporada\; listamos de quinta a domingo.
-  Confira antes de ir.\n\nFonte: https://bileto.sympla.com.br/event/12842
- 0\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/128420
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:f-5157b0c813-2@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261127T230000Z
-DTEND:20261128T010000Z
-SUMMARY:Algoritmo
-LOCATION:Teatro Municipal Ipanema Rubens Corrêa\, Rua Prudente de Morais
- \, 824 – Ipanema
-DESCRIPTION:"Algoritmo" em cartaz no Teatro Municipal Ipanema Rubens Corr
- êa até 29 de novembro.\n\nPreço não informado\n\nATENÇÃO: a fonte 
- não informa os dias exatos da temporada\; listamos de quinta a domingo.
-  Confira antes de ir.\n\nFonte: https://bileto.sympla.com.br/event/12842
- 0\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/128420
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:f-5157b0c813-4@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261129T220000Z
-DTEND:20261130T000000Z
-SUMMARY:Algoritmo
-LOCATION:Teatro Municipal Ipanema Rubens Corrêa\, Rua Prudente de Morais
- \, 824 – Ipanema
-DESCRIPTION:"Algoritmo" em cartaz no Teatro Municipal Ipanema Rubens Corr
- êa até 29 de novembro.\n\nPreço não informado\n\nATENÇÃO: a fonte 
- não informa os dias exatos da temporada\; listamos de quinta a domingo.
-  Confira antes de ir.\n\nFonte: https://bileto.sympla.com.br/event/12842
- 0\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/128420
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-19-155-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261123T220000Z
 DTEND:20261124T000000Z
 SUMMARY:Lançamento: Música em Pauta
@@ -280,7 +176,7 @@ CATEGORIES:Livros & Debates\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-171-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261123T220000Z
 DTEND:20261124T000000Z
 SUMMARY:Ensaio de rua do Paraíso do Tuiuti
@@ -295,7 +191,7 @@ CATEGORIES:Festas & Feiras\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-118-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261124T130000Z
 DTEND:20261124T150000Z
 SUMMARY:Seminário Estadual: Por uma Educação Antirracista
@@ -310,7 +206,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-085-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261124T210000Z
 DTEND:20261124T230000Z
 SUMMARY:Alice no País das Maravilhas: O Despertar da União – O Musical
@@ -325,7 +221,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d119469024-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261124T220000Z
 DTEND:20261125T000000Z
 SUMMARY:Choro Batucada
@@ -339,7 +235,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-003-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
 SUMMARY:O Último Dia da Minha Vida
@@ -354,7 +250,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-003-1@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261125T230000Z
 DTEND:20261126T010000Z
 SUMMARY:O Último Dia da Minha Vida
@@ -369,7 +265,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-051-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261124T230000Z
 DTEND:20261125T010000Z
 SUMMARY:Priscilla em 2L em A Cara da Mãe e o P@u do Pai
@@ -384,7 +280,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-040-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261125T130000Z
 DTEND:20261125T150000Z
 SUMMARY:Mesa-redonda: O Mundo que se Quer Esconder das Crianças
@@ -399,7 +295,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-050-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261125T170000Z
 DTEND:20261125T190000Z
 SUMMARY:Rap & Repente – Artes do Improviso
@@ -414,7 +310,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-061-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261125T220000Z
 DTEND:20261126T000000Z
 SUMMARY:Amanda Mendonça canta Djavan
@@ -430,7 +326,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ff4b3d06a0-5@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261203T230000Z
 DTEND:20261204T010000Z
 SUMMARY:Simplesmente Shakespeare: Romeu e Julieta
@@ -447,7 +343,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ff4b3d06a0-6@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261204T230000Z
 DTEND:20261205T010000Z
 SUMMARY:Simplesmente Shakespeare: Romeu e Julieta
@@ -464,7 +360,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ff4b3d06a0-7@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261205T230000Z
 DTEND:20261206T010000Z
 SUMMARY:Simplesmente Shakespeare: Romeu e Julieta
@@ -481,7 +377,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ff4b3d06a0-8@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261206T230000Z
 DTEND:20261207T010000Z
 SUMMARY:Simplesmente Shakespeare: Romeu e Julieta
@@ -498,7 +394,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ff4b3d06a0-9@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261210T230000Z
 DTEND:20261211T010000Z
 SUMMARY:Simplesmente Shakespeare: Romeu e Julieta
@@ -514,53 +410,22 @@ URL:https://bileto.sympla.com.br/event/129970
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:f-5dbe31cb4c-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261126T210000Z
-DTEND:20261126T230000Z
-SUMMARY:Nota Justa: Afrojazz
-LOCATION:Centro Cultural do Poder Judiciário (CCPJ) – Sala Multiuso\, 
- Rua Dom Manuel\, s/nº – Centro
-DESCRIPTION:"Afrojazz" na série Nota Justa\, do Centro Cultural do Poder
-  Judiciário\, no Centro\, das 18h às 19h30.\n\nPreço não informado\n
- \nFonte: https://www.sympla.com.br/evento/nota-justa-apresenta-afrojazz/
- 3635616\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://www.sympla.com.br/evento/nota-justa-apresenta-afrojazz/3635616
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:f-8f37410ce6-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+UID:f-4a9f433f61-0@todososrios.rio
+DTSTAMP:20261122T203559Z
 DTSTART:20261126T220000Z
 DTEND:20261127T000000Z
-SUMMARY:Zeppa: Na Voz do Compositor
-LOCATION:Centro da Música Carioca Artur da Távola\, Rua Conde de Bonfim
- \, 824 – Tijuca
-DESCRIPTION:Zeppa apresenta "Na Voz do Compositor" na série Quintas Auto
- rais do Centro da Música Carioca\, na Tijuca.\n\nPreço não informado\
- n\nFonte: https://bileto.sympla.com.br/event/129530\nTodos os Rios — a
- genda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/129530
+SUMMARY:Suraras do Tapajós
+LOCATION:Sesc Tijuca\, Rua Barão de Mesquita\, 539 – Tijuca
+DESCRIPTION:Show do coletivo de mulheres indígenas que foi pioneiro no c
+ arimbó\, com músicas próprias e repertório do Pará.\n\nGrátis · L
+ ivre\n\nFonte: https://cultura.sescrio.org.br/programacao/suraras-do-tap
+ ajos\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://cultura.sescrio.org.br/programacao/suraras-do-tapajos
 CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:f-d219493664-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261126T230000Z
-DTEND:20261127T010000Z
-SUMMARY:Ariane Mathias: Rindo de Nervoso
-LOCATION:Teatro Municipal Ziembinski\, Rua Heitor Beltrão\, s/nº – Ti
- juca
-DESCRIPTION:Noite do Festival Queer Comedy\, dentro da Semana da Comédia
-  do Teatro Municipal Ziembinski\, na Tijuca: Ariane Mathias apresenta "R
- indo de Nervoso".\n\nPreço não informado\n\nFonte: https://bileto.symp
- la.com.br/event/128540\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/128540
-CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-db9886b6e6-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261126T230000Z
 DTEND:20261127T010000Z
 SUMMARY:Yuri Marçal: Macumbeiro
@@ -574,8 +439,25 @@ URL:https://bileto.sympla.com.br/event/126804
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
+UID:f-d2eac34399-0@todososrios.rio
+DTSTAMP:20261122T203559Z
+DTSTART:20261127T150000Z
+DTEND:20261127T170000Z
+SUMMARY:Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ
+LOCATION:Istituto Italiano di Cultura do Rio de Janeiro\, Avenida Preside
+ nte Antônio Carlos – Centro
+DESCRIPTION:O ensemble Trompas da UFRJ apresenta um "Concerto Italiano" n
+ a série Notas e Sabores do Istituto Italiano di Cultura\, no Centro\, a
+ o meio-dia.\n\nPreço não informado\n\nFonte: https://www.sympla.com.br
+ /evento/serie-notas-e-sabores-concerto-italiano-com-o-ensemble-trompas-d
+ a-ufrj/3650433\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://www.sympla.com.br/evento/serie-notas-e-sabores-concerto-itali
+ ano-com-o-ensemble-trompas-da-ufrj/3650433
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-f7e52c2e2c-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Noitada de Samba – Foco de Resistência: filme e relançamento 
@@ -593,56 +475,41 @@ URL:https://www.sympla.com.br/evento/noitada-de-samba-foco-de-resistencia
 CATEGORIES:Livros & Debates\,Cinema
 END:VEVENT
 BEGIN:VEVENT
-UID:f-2985740e6d-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261127T213000Z
-DTEND:20261127T233000Z
-SUMMARY:Justiça em Cena: Perigosas Damas
-LOCATION:Centro Cultural do Poder Judiciário (CCPJ) – Tribunal do Júr
- i Histórico\, Rua Dom Manuel\, s/nº (Edifício Des. Caetano Pinto de M
- iranda Montenegro\, 2º andar) – Centro
-DESCRIPTION:"Perigosas Damas" na série Justiça em Cena\, no antigo Trib
- unal do Júri do Centro Cultural do Poder Judiciário\, no Centro.\n\nPr
- eço não informado\n\nFonte: https://www.sympla.com.br/evento/justica-e
- m-cena-apresenta-perigosas-damas/3635750\nTodos os Rios — agenda cultu
- ral aberta do Rio
-URL:https://www.sympla.com.br/evento/justica-em-cena-apresenta-perigosas-
- damas/3635750
+UID:f-db4e688785-0@todososrios.rio
+DTSTAMP:20261122T203559Z
+DTSTART:20261127T223000Z
+DTEND:20261128T003000Z
+SUMMARY:A Ópera do Malandro – o musical
+LOCATION:Areninha Cultural Terra\, Rua Marcos de Macedo\, s/nº – Guada
+ lupe
+DESCRIPTION:Montagem do musical "A Ópera do Malandro" na Areninha Cultur
+ al Terra\, em Guadalupe\, em 27 e 28 de novembro.\n\nPreço não informa
+ do\n\nATENÇÃO: a fonte não informa os dias exatos da temporada\; list
+ amos de quinta a domingo. Confira antes de ir.\n\nFonte: https://bileto.
+ sympla.com.br/event/129270\nTodos os Rios — agenda cultural aberta do 
+ Rio
+URL:https://bileto.sympla.com.br/event/129270
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:f-2bc42b1a23-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261127T220000Z
-DTEND:20261128T000000Z
-SUMMARY:Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
-LOCATION:Centro da Música Carioca Artur da Távola\, Rua Conde de Bonfim
- \, 824 – Tijuca
-DESCRIPTION:Lançamento do álbum "Mãe África"\, de Wesley Nóog e a Ba
- nda Roda Jardim Suspenso\, na série Sextas Lançamentos do Centro da M
- úsica Carioca.\n\nPreço não informado\n\nFonte: https://bileto.sympla
- .com.br/event/128255\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/128255
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:f-132c6ce110-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+UID:f-f8ed502f79-0@todososrios.rio
+DTSTAMP:20261122T203559Z
 DTSTART:20261127T230000Z
 DTEND:20261128T010000Z
-SUMMARY:Yuri Marçal: Macumbeiro
-LOCATION:Arena Cultural Fernando Torres\, Rua Bernardino de Andrade\, 200
-  (Parque de Madureira) – Madureira
-DESCRIPTION:Yuri Marçal apresenta "Macumbeiro" na Arena Carioca Fernando
-  Torres\, em Madureira.\n\nPreço não informado\n\nFonte: https://bilet
- o.sympla.com.br/event/126727\nTodos os Rios — agenda cultural aberta d
- o Rio
-URL:https://bileto.sympla.com.br/event/126727
+SUMMARY:Mistério Buffo
+LOCATION:Teatro Municipal Café Pequeno\, Av. Ataulfo de Paiva\, 269 – 
+ Leblon
+DESCRIPTION:"Mistério Buffo" no Teatro Municipal Café Pequeno\, no Lebl
+ on\, de 27 a 29 de novembro.\n\nPreço não informado\n\nATENÇÃO: a fo
+ nte não informa os dias exatos da temporada\; listamos de quinta a domi
+ ngo. Confira antes de ir.\n\nFonte: https://bileto.sympla.com.br/event/1
+ 29347\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://bileto.sympla.com.br/event/129347
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f47b3902e1-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261128T120000Z
 DTEND:20261128T140000Z
 SUMMARY:Olhar para Dentro
@@ -656,7 +523,7 @@ CATEGORIES:Livros & Debates\,Artes Visuais
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f47b3902e1-1@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261205T120000Z
 DTEND:20261205T140000Z
 SUMMARY:Olhar para Dentro
@@ -670,7 +537,7 @@ CATEGORIES:Livros & Debates\,Artes Visuais
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f47b3902e1-2@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261212T120000Z
 DTEND:20261212T140000Z
 SUMMARY:Olhar para Dentro
@@ -683,22 +550,23 @@ URL:https://cultura.sescrio.org.br/programacao/olhar-para-dentro
 CATEGORIES:Livros & Debates\,Artes Visuais
 END:VEVENT
 BEGIN:VEVENT
-UID:f-cb548d2990-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261128T200000Z
-DTEND:20261128T220000Z
-SUMMARY:Bem-vindo a Bangu
-LOCATION:Areninha Cultural Hermeto Pascoal\, Praça Primeiro de Maio\, s/
- nº – Bangu
-DESCRIPTION:"Bem-vindo a Bangu" na Areninha Cultural Hermeto Pascoal\, em
-  Bangu.\n\nPreço não informado\n\nFonte: https://bileto.sympla.com.br/
- event/129701\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/129701
+UID:f-43ec59dad8-0@todososrios.rio
+DTSTAMP:20261122T203559Z
+DTSTART:20261128T190000Z
+DTEND:20261128T210000Z
+SUMMARY:Reunião Geral das Palavras
+LOCATION:Espaço Cultural Sérgio Porto\, Rua Visconde de Silva\, ao lado
+  do nº 292 – Humaitá
+DESCRIPTION:Coletânea com cinco peças de Cecilia Ripoll\, no Espaço Cu
+ ltural Municipal Sérgio Porto\, no Humaitá.\n\nPreço não informado\n
+ \nFonte: https://bileto.sympla.com.br/event/129799\nTodos os Rios — ag
+ enda cultural aberta do Rio
+URL:https://bileto.sympla.com.br/event/129799
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ef4b37b8ed-2@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261203T200000Z
 DTEND:20261203T220000Z
 SUMMARY:Maria no Fio da Navalha
@@ -715,7 +583,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ef4b37b8ed-3@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261204T200000Z
 DTEND:20261204T220000Z
 SUMMARY:Maria no Fio da Navalha
@@ -732,7 +600,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ef4b37b8ed-4@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261205T200000Z
 DTEND:20261205T220000Z
 SUMMARY:Maria no Fio da Navalha
@@ -749,7 +617,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ef4b37b8ed-5@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261206T200000Z
 DTEND:20261206T220000Z
 SUMMARY:Maria no Fio da Navalha
@@ -766,7 +634,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-6576ed5f1c-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Yuri Marçal: Macumbeiro
@@ -780,51 +648,8 @@ URL:https://bileto.sympla.com.br/event/127034
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:f-8d7f1ac2c1-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261128T230000Z
-DTEND:20261129T010000Z
-SUMMARY:Gilsons
-LOCATION:Arena Cultural Fernando Torres\, Rua Bernardino de Andrade\, 200
-  (Parque de Madureira) – Madureira
-DESCRIPTION:Show dos Gilsons na Arena Carioca Fernando Torres\, em Madure
- ira.\n\nPreço não informado\n\nFonte: https://bileto.sympla.com.br/eve
- nt/127258\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/127258
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
-UID:f-cb7bacc156-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261129T180000Z
-DTEND:20261129T200000Z
-SUMMARY:Festival Esperançar
-LOCATION:Areninha Cultural Terra\, Rua Marcos de Macedo\, s/nº – Guada
- lupe
-DESCRIPTION:Festival Esperançar na Areninha Cultural Terra\, em Guadalup
- e.\n\nPreço não informado\n\nFonte: https://bileto.sympla.com.br/event
- /129274\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/129274
-CATEGORIES:Festas & Feiras
-END:VEVENT
-BEGIN:VEVENT
-UID:f-e2b00c012e-0@todososrios.rio
-DTSTAMP:20261122T203417Z
-DTSTART:20261129T190000Z
-DTEND:20261129T210000Z
-SUMMARY:Domingo das Crianças: Árvore de Histórias
-LOCATION:Centro da Música Carioca Artur da Távola\, Rua Conde de Bonfim
- \, 824 – Tijuca
-DESCRIPTION:O Desdobrar das Histórias apresenta "Árvore de Histórias" 
- na série Domingo das Crianças do Centro da Música Carioca\, na Tijuca
- .\n\nPreço não informado\n\nFonte: https://bileto.sympla.com.br/event/
- 129704\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://bileto.sympla.com.br/event/129704
-CATEGORIES:Infantil
-END:VEVENT
-BEGIN:VEVENT
 UID:f-37698fe132-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Gilsons
@@ -838,7 +663,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cc87a92854-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261130T220000Z
 DTEND:20261201T000000Z
 SUMMARY:We Are Making a Film About Mark Fisher
@@ -854,7 +679,7 @@ CATEGORIES:Cinema\,Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-116-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261202T220000Z
 DTEND:20261203T000000Z
 SUMMARY:Terreiro de Mangueira – Cordel Negro
@@ -869,7 +694,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-0@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261210T220000Z
 DTEND:20261211T000000Z
 SUMMARY:O Quebra-Nozes
@@ -884,7 +709,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-1@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261211T220000Z
 DTEND:20261212T000000Z
 SUMMARY:O Quebra-Nozes
@@ -899,7 +724,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-2@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261212T220000Z
 DTEND:20261213T000000Z
 SUMMARY:O Quebra-Nozes
@@ -914,7 +739,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-3@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
 SUMMARY:O Quebra-Nozes
@@ -929,7 +754,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-4@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261216T220000Z
 DTEND:20261217T000000Z
 SUMMARY:O Quebra-Nozes
@@ -944,7 +769,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-5@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261217T220000Z
 DTEND:20261218T000000Z
 SUMMARY:O Quebra-Nozes
@@ -959,7 +784,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-6@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261218T220000Z
 DTEND:20261219T000000Z
 SUMMARY:O Quebra-Nozes
@@ -974,7 +799,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-7@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261219T220000Z
 DTEND:20261220T000000Z
 SUMMARY:O Quebra-Nozes
@@ -989,7 +814,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-8@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261220T200000Z
 DTEND:20261220T220000Z
 SUMMARY:O Quebra-Nozes
@@ -1004,7 +829,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-9@todososrios.rio
-DTSTAMP:20261122T203417Z
+DTSTAMP:20261122T203559Z
 DTSTART:20261222T220000Z
 DTEND:20261223T000000Z
 SUMMARY:O Quebra-Nozes

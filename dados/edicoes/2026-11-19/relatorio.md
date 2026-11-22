@@ -257,10 +257,10 @@
 - **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Música em Pauta
 - **24/11**: O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical; Seminário Estadual: Por uma Educação Antirracista; Choro Batucada
 - **25/11**: Rap & Repente – Artes do Improviso; Amanda Mendonça canta Djavan; Mesa-redonda: O Mundo que se Quer Esconder das Crianças; O Último Dia da Minha Vida
-- **26/11**: La Strada – Os Que Vieram Antes de Nós; Zeppa: Na Voz do Compositor; Yuri Marçal: Macumbeiro; Nota Justa: Afrojazz; Algoritmo; Ariane Mathias: Rindo de Nervoso
-- **27/11**: La Strada – Os Que Vieram Antes de Nós; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África; Justiça em Cena: Perigosas Damas; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Algoritmo; Yuri Marçal: Macumbeiro
-- **28/11**: La Strada – Os Que Vieram Antes de Nós; Olhar para Dentro; Gilsons; Bem-vindo a Bangu; Yuri Marçal: Macumbeiro; Um Homem Célebre
-- **29/11**: La Strada – Os Que Vieram Antes de Nós; Gilsons; Festival Esperançar; Domingo das Crianças: Árvore de Histórias; Um Homem Célebre; Algoritmo
+- **26/11**: Suraras do Tapajós; Yuri Marçal: Macumbeiro
+- **27/11**: La Strada – Os Que Vieram Antes de Nós; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ; Mistério Buffo; A Ópera do Malandro – o musical
+- **28/11**: Olhar para Dentro; Cadê o Sobrevento?; Reunião Geral das Palavras; Yuri Marçal: Macumbeiro
+- **29/11**: Cadê o Sobrevento?; Gilsons
 - **30/11**: We Are Making a Film About Mark Fisher
 - **02/12**: Terreiro de Mangueira – Cordel Negro
 - **03/12**: Maria no Fio da Navalha; Simplesmente Shakespeare: Romeu e Julieta
@@ -279,8 +279,7 @@
 - **22/12**: O Quebra-Nozes
 
 Regras de curadoria:
-- ⚠️ 28/11 — Só 2 de 6 destaques grátis ou a preço popular
-- ⚠️ 29/11 — Só 1 de 6 destaques grátis ou a preço popular
+- Todas as regras cumpridas.
 
 ## Traduções
 
