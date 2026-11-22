@@ -1,14 +1,14 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-22 15:35 UTC, em 167 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-22 13:36 UTC, em 176 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
 - coletada: **53**
 - não respondeu: **19**
-- coletada, mas sem datas à vista: **13**
-- recusou a visita: **4**
+- coletada, mas sem datas à vista: **14**
+- recusou a visita: **3**
 
 ## Fonte a fonte
 
@@ -76,6 +76,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Danielian Galeria | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 2 página(s) |
 | Festival do Rio | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Galpão Bela Maré / Observatório de Favelas | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 4 página(s) |
+| Livraria Blooks | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Marina da Glória | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Museu Villa-Lobos | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 4 página(s) |
 | Museu da Imagem e do Som (MIS RJ) | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
@@ -87,6 +88,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro dos Quatro | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Trapiche Gamboa | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Z42 Arte | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
+| Museus Castro Maya (Chácara do Céu / Açude) | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
 | Arquivo Nacional | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Fundação Casa de Rui Barbosa | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Jardim Botânico do Rio de Janeiro | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
@@ -95,11 +97,9 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Galeria Nara Roesler | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)> |  |
 | Superliga Carnavalesca do Brasil | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)> |  |
 | Casa do Choro | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
-| Museus Castro Maya (Chácara do Céu / Açude) | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | É Tudo Verdade | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
 | Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
-| Livraria Blooks | recusou a visita (código 403) |  |
+| Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |
-| Solar de Botafogo | recusou a visita (código 522) |  |

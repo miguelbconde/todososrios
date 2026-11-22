@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-22 15:35 UTC",
- "segundos": 167,
+ "feito_em": "2026-11-22 13:36 UTC",
+ "segundos": 176,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40889,
+   "caracteres": 40863,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 38403,
+   "caracteres": 37828,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 320,
+   "mencoes_de_data": 324,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -804,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6850,
+   "caracteres": 6877,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1179,7 +1179,7 @@
     "feed (7 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 34252,
+   "caracteres": 34264,
    "url_final": "https://grupoestacao.com.br",
    "paginas": [
     "https://grupoestacao.com.br",
@@ -1272,9 +1272,17 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "recusou a visita (código 403)"
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 8894,
+   "url_final": "https://blooks.com.br",
+   "paginas": [
+    "https://blooks.com.br"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F095.txt"
   },
   {
    "ids": [
@@ -1535,7 +1543,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1797,
+   "caracteres": 1729,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1558,7 +1566,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "recusou a visita (código 522)"
+   "situacao": "recusou a visita (código 403)"
   },
   {
    "ids": [
@@ -2038,7 +2046,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63222,
+   "caracteres": 63325,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2092,7 +2100,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
