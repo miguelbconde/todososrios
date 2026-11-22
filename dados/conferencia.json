@@ -592,6 +592,38 @@
    "veredito": "nao_encontrado",
    "detalhe": "A fonte não diz o bairro; Bangu foi deduzido do endereço.",
    "resolucao": ""
+  },
+  {
+   "id": "f-c6b14b6989",
+   "titulo": "Rosana Palazyan: Quintal",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "'conviveu' no lugar de 'conversou durante a preparação da mostra'",
+   "resolucao": "Corrigido: sinopse e trecho seguem a fonte."
+  },
+  {
+   "id": "f-c6b14b6989",
+   "titulo": "Rosana Palazyan: Quintal",
+   "campo": "cartaz.fim",
+   "veredito": "duvida",
+   "detalhe": "galeria diz 28/11, Arte que Acontece diz 26/11",
+   "resolucao": "Mantido: 28/11, data da fonte oficial (galeria)."
+  },
+  {
+   "id": "f-d85692266b",
+   "titulo": "Tainan Cabral: Armadilhas no Paraíso",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "'e equipe' não está na fonte",
+   "resolucao": "Corrigido: os cinco curadores pelo nome."
+  },
+  {
+   "id": "f-d9430fc970",
+   "titulo": "Carnaval Como Método",
+   "campo": "cartaz.fim",
+   "veredito": "duvida",
+   "detalhe": "ArtRio diz 29/11/2026; Arte que Acontece diz 21/02/2027",
+   "resolucao": ""
   }
  ]
 }
