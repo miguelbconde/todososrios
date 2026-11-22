@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-22 10:29 UTC",
- "segundos": 174,
+ "feito_em": "2026-11-22 13:03 UTC",
+ "segundos": 182,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40955,
+   "caracteres": 40937,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -138,7 +138,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 290,
+   "caracteres": 270,
    "url_final": "https://www.caixacultural.gov.br/Paginas/default.aspx",
    "paginas": [
     "https://www.caixacultural.gov.br/Paginas/default.aspx"
@@ -160,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9648,
+   "caracteres": 9688,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 38528,
+   "caracteres": 37677,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 318,
+   "mencoes_de_data": 320,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -321,7 +321,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 36588,
+   "caracteres": 36578,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -337,7 +337,7 @@
     "http://www.abi.org.br/institucional/direcao/conselho-fiscal/",
     "http://www.abi.org.br/institucional/direcao/comissoes/"
    ],
-   "mencoes_de_data": 8,
+   "mencoes_de_data": 9,
    "situacao": "coletada",
    "arquivo": "F028.txt"
   },
@@ -403,7 +403,7 @@
     "feed (3 itens)",
     "texto de 1 página(s)"
    ],
-   "caracteres": 5539,
+   "caracteres": 1542,
    "url_final": "https://www.d-edge.com.br/",
    "paginas": [
     "https://www.d-edge.com.br/"
@@ -484,7 +484,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 8464,
+   "caracteres": 8467,
    "url_final": "https://www.riocarnaval.com/",
    "paginas": [
     "https://www.riocarnaval.com/",
@@ -671,22 +671,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 6 página(s)"
-   ],
-   "caracteres": 8238,
-   "url_final": "https://teatrorivalrefit.com.br",
-   "paginas": [
-    "https://teatrorivalrefit.com.br",
-    "https://teatrorivalrefit.com.br/eventos/",
-    "https://teatrorivalrefit.com.br/",
-    "https://teatrorivalrefit.com.br/page/2/",
-    "https://teatrorivalrefit.com.br/page/3/",
-    "https://teatrorivalrefit.com.br/page/60/"
-   ],
-   "mencoes_de_data": 43,
-   "situacao": "coletada",
-   "arquivo": "F062.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 522)"
   },
   {
    "ids": [
@@ -804,7 +791,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6868,
+   "caracteres": 6870,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -826,7 +813,7 @@
    "degraus": [
     "texto de 3 página(s)"
    ],
-   "caracteres": 4225,
+   "caracteres": 4332,
    "url_final": "https://bluenoterio.com.br",
    "paginas": [
     "https://bluenoterio.com.br",
@@ -986,19 +973,6 @@
    "mencoes_de_data": 522,
    "situacao": "coletada",
    "arquivo": "F076.txt"
-  },
-  {
-   "ids": [
-    "F077"
-   ],
-   "nome": "Centro Cultural Arte Sesc",
-   "url": "https://sescrio.org.br",
-   "regioes": [
-    "Zona Sul"
-   ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "em espera: o site barra leitores de inteligência artificial; aguardando decisão editorial ou contato com o Sesc"
   },
   {
    "ids": [
@@ -1546,26 +1520,6 @@
   },
   {
    "ids": [
-    "F111",
-    "F163",
-    "F164",
-    "F165",
-    "F166",
-    "F179"
-   ],
-   "nome": "Sesc Copacabana; Sesc Engenho de Dentro; Sesc Madureira; Sesc Ramos; Sesc Tijuca; Sesc Campo Grande",
-   "url": "https://cultura.sescrio.org.br",
-   "regioes": [
-    "Zona Norte",
-    "Zona Oeste",
-    "Zona Sul"
-   ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "em espera: o site barra leitores de inteligência artificial; aguardando decisão editorial ou contato com o Sesc"
-  },
-  {
-   "ids": [
     "F112"
    ],
    "nome": "Silvia Cintra + Box 4",
@@ -1576,7 +1530,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1764,
+   "caracteres": 2087,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1584,7 +1538,7 @@
     "https://silviacintra.com.br/en/exhibitions/",
     "https://silviacintra.com.br/exposicoes/o-silencio/"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 1,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F112.txt"
   },
@@ -1856,7 +1810,7 @@
     "feed (10 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 18777,
+   "caracteres": 18719,
    "url_final": "https://museudopontal.org.br",
    "paginas": [
     "https://museudopontal.org.br",
@@ -2079,7 +2033,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63237,
+   "caracteres": 63270,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
