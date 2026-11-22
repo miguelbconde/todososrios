@@ -2,14 +2,14 @@
 
 - Eventos e exposições: **711** (665 eventos com 6675 sessões; 46 em cartaz)
 - Grátis: **54** · preço popular (até R$ 40): **81**
-- Conferidos sem ressalva: **700** · a confirmar: **11**
+- Conferidos sem ressalva: **701** · a confirmar: **10**
 
 ## Distribuição por região
 
 - Centro: 97
-- Zona Sul: 202
-- Zona Sudoeste: 164
-- Zona Norte: 187
+- Zona Sul: 204
+- Zona Sudoeste: 165
+- Zona Norte: 184
 - Zona Oeste: 61
 
 ## Conferente independente (IA)
@@ -143,7 +143,6 @@
 - [baixa] **Terças no Ipanema: Bicudos Dois** (f-1228776018) — Preço não informado na fonte
 - [baixa] **Serial Funkers Clássicos** (f-32dfa61e7e) — Preço não informado na fonte
 - [baixa] **Jazz em dobro: Michael Jackson & Stevie Wonder** (f-3c83d02223) — Preço não informado na fonte
-- [baixa] **Priscilla com 2L: A Cara da Mãe e o P*u do Pai** (f-8d66714315) — Preço não informado na fonte
 - [baixa] **Game Drag Show com Samara Rios** (f-a4b33a2570) — Preço não informado na fonte
 - [baixa] **Festival Arpoarte 2026** (f-474fbba1fc) — Preço não informado na fonte
 - [baixa] **Encontro literário Lia Benchimol: Wabi Sabi** (2026-11-19-157) — Preço não informado na fonte
@@ -153,8 +152,6 @@
 - [baixa] **Encontro de Corais** (f-d83d415248) — Preço não informado na fonte
 - [baixa] **Lançamento: Mistérios sob o Céu de Alcântara** (2026-11-19-158) — Preço não informado na fonte
 - [baixa] **Violões em Copa: Marco Lima e Almir Côrtes** (f-04136f3901) — Preço não informado na fonte
-- [baixa] **Amanda Mendonça canta Djavan** (f-758966ed18) — Preço não informado na fonte
-- [alta] **Amanda Mendonça canta Djavan** (f-758966ed18) — Possível duplicata de 2026-11-19-061
 - [baixa] **Orquestra Furiosa Portátil na Casa do Choro** (f-9253f75471) — Preço não informado na fonte
 - [baixa] **EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”** (f-a59e80521b) — Preço não informado na fonte
 - [baixa] **Simplesmente Maysa: homenagem aos 90 anos** (f-b9f598d320) — Preço não informado na fonte
@@ -164,7 +161,6 @@
 - [baixa] **Atom Pink Floyd – Pink Floyd Symphonic** (2026-11-19-149) — Preço não informado na fonte
 - [baixa] **Maurício Meirelles – Surto Coletivo** (2026-11-19-166) — Preço não informado na fonte
 - [media] **Ensaio de rua da Unidos de Vila Isabel** (2026-11-19-172) — Link oficial ausente
-- [baixa] **Régis Araújo: Tá Bixada** (f-34accf3b3b) — Preço não informado na fonte
 - [baixa] **Pagode do Túnel – Samba de Axé** (f-e2a918e0a9) — Preço não informado na fonte
 - [baixa] **Samba do Xoxó e convidados** (f-f6fe4a46e3) — Preço não informado na fonte
 - [baixa] **Simplesmente Shakespeare: Romeu e Julieta** (f-ff4b3d06a0) — Preço não informado na fonte
@@ -207,6 +203,7 @@
 - [baixa] **Dia de Jogo** (f-176da8f5f3) — Preço não informado na fonte
 - [baixa] **O Pulso Ainda Pulsa** (f-eaa477ab3e) — Preço não informado na fonte
 - [baixa] **Violões Itinerantes: Do Rio a Exu** (f-31041482e5) — Preço não informado na fonte
+- [baixa] **Leo Gandelman: Cosmos** (f-70d707fb63) — Preço não informado na fonte
 - [baixa] **Jhordan Matheus: Passando de Fase** (f-e4798b7411) — Preço não informado na fonte
 - [baixa] **1º Encontro de Violonistas Compositores: Andrea Perrone** (f-216d584925) — Preço não informado na fonte
 - [baixa] **VibraSons** (f-394e86f0c0) — Preço não informado na fonte
@@ -311,35 +308,39 @@
 ## Destaques (A boa)
 
 - **22/11**: Amanhecer Rio – Festival Cultura e Cuidado; Mensageiras da Cultura – 50 anos da Kotekitai; Quintal; Festival Quem Dança é Mais Feliz; Equina; Domingo recreativo para crianças
-- **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Música em Pauta
-- **24/11**: O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical; Seminário Estadual: Por uma Educação Antirracista; Choro Batucada
-- **25/11**: Rap & Repente – Artes do Improviso; Amanda Mendonça canta Djavan; Mesa-redonda: O Mundo que se Quer Esconder das Crianças; O Último Dia da Minha Vida
-- **26/11**: Suraras do Tapajós; Yuri Marçal: Macumbeiro
-- **27/11**: La Strada – Os Que Vieram Antes de Nós; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ; Mistério Buffo; A Ópera do Malandro – o musical
-- **28/11**: Olhar para Dentro; Cadê o Sobrevento?; Reunião Geral das Palavras; Yuri Marçal: Macumbeiro
-- **29/11**: Cadê o Sobrevento?; Gilsons
+- **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Ministério do Tempo Livre – um manifesto; Moacyr Luz e Samba do Trabalhador
+- **24/11**: Seminário Estadual: Por uma Educação Antirracista; O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical
+- **25/11**: Música no Museu; O Último Dia da Minha Vida; Aula-baile de forró e samba de gafieira – Corpos em Diálogo; Pagode do Túnel – Samba de Axé
+- **26/11**: Azymuth: Águia Não Come Mosca e Grandes Clássicos; Os Saltimbancos; Suraras do Tapajós; Yuri Marçal: Macumbeiro
+- **27/11**: Noitada de Samba – Foco de Resistência: filme e relançamento do livro; A Bruxinha que Era Boa; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
+- **28/11**: Brás Cubas (Armazém Companhia de Teatro); Piano em Cena – Rogério Koury; Olhar para Dentro; Bem-vindo a Bangu
+- **29/11**: Festival Arpoarte 2026; Os Saltimbancos; Os Thiagos: Deixe-me Ir; Gilsons
 - **30/11**: We Are Making a Film About Mark Fisher
-- **01/12**: Ensaio aberto: X-I-N’TEA; Primeira Pessoa
-- **02/12**: Terreiro de Mangueira – Cordel Negro; Tempo Travesso; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
-- **03/12**: Jhordan Matheus: Passando de Fase; Dia de Jogo; Violões Itinerantes: Do Rio a Exu; O Pulso Ainda Pulsa; Maria no Fio da Navalha; Primeira Pessoa
-- **04/12**: 1º Encontro de Violonistas Compositores: Andrea Perrone; VibraSons; Dia de Jogo; Jhordan Matheus: Passando de Fase; Procura-se Messias; Maria no Fio da Navalha
-- **05/12**: Olhar para Dentro; Burning Love Band: An Elvis Tribute; Wêlson Nunes; Matheus Ceará: Desculpa Eu Ter Vindo; Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical; Procura-se Messias
-- **06/12**: Mulheres ao Vento – A Terra que Piso é Maré; Diogo Defante: especial de fim de ano; 1º Encontro de Violonistas Compositores: concerto com convidados; Dia de Jogo; Bruno Bellandi e Banda: Feijão Retrô; Procura-se Messias
+- **01/12**: Primeira Pessoa; Ensaio aberto: X-I-N’TEA
+- **02/12**: Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco; Terreiro de Mangueira – Cordel Negro; Tempo Travesso
+- **03/12**: Dia de Jogo; Violões Itinerantes: Do Rio a Exu; Jhordan Matheus: Passando de Fase; O Pulso Ainda Pulsa
+- **04/12**: Dia de Jogo; Piano em Cena – Rogério Koury; 1º Encontro de Violonistas Compositores: Andrea Perrone; Jhordan Matheus: Passando de Fase
+- **05/12**: Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical; Procura-se Messias; Olhar para Dentro; Matheus Ceará: Desculpa Eu Ter Vindo
+- **06/12**: Dia de Jogo; Piano em Cena – Rogério Koury; Mulheres ao Vento – A Terra que Piso é Maré; Diogo Defante: especial de fim de ano
 - **08/12**: Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos
-- **10/12**: O Quebra-Nozes; Matheus Ceará: Desculpa Eu Ter Vindo; Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Gilsons; Procura-se Messias; Primeira Pessoa
-- **11/12**: O Quebra-Nozes; Jade Vitóriah: A Cor da Minha Voz; Gilsons; 16º Sarau Pretos Novos; Matheus Ceará; Procura-se Messias
-- **12/12**: Olhar para Dentro; O Quebra-Nozes; Cineclube Adélia Sampaio; Cores Sonoras; Procura-se Messias; Cuidado Quando For Falar de Mim
-- **13/12**: O Quebra-Nozes; El Corazón y Otros Frutos Amargos; Canela de Velho; Primeira Pessoa; Cuidado Quando For Falar de Mim; Dia de Jogo
+- **10/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; Matheus Ceará: Desculpa Eu Ter Vindo; Gilsons
+- **11/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; Jade Vitóriah: A Cor da Minha Voz; Gilsons
+- **12/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; Olhar para Dentro; Dia de Jogo
+- **13/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; El Corazón y Otros Frutos Amargos; Dia de Jogo
 - **15/12**: Piano em Cena – Rogério Koury
 - **16/12**: O Quebra-Nozes; Primeira Pessoa; As Coisas que me Tiram o Sono
-- **17/12**: O Quebra-Nozes; Os Lobos 60 Anos; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio; O Sonho de Ícaro
-- **18/12**: O Quebra-Nozes; Cantos de Força – 10 anos de Afrotelúricos; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; O Sonho de Ícaro; Hienas: Uma Comédia Tóxica
-- **19/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio; O Sonho de Ícaro; Hienas: Uma Comédia Tóxica
-- **20/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio; O Sonho de Ícaro
+- **17/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Os Lobos 60 Anos; Dia de Jogo
+- **18/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Cantos de Força – 10 anos de Afrotelúricos; Dia de Jogo
+- **19/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio
+- **20/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Dia de Jogo; Mesmo Rio
 - **22/12**: O Quebra-Nozes
+- **16/01**: Paulinho da Viola
 
 Regras de curadoria:
-- Todas as regras cumpridas.
+- ⚠️ 22/11 — 6 destaques; o máximo é 4
+- ⚠️ 24/11 — Só 2 área(s); o dia oferecia 3
+- ⚠️ 28/11 — Só 1 de 4 destaques grátis ou a preço popular
+- ⚠️ 11/12 — Só 2 área(s); o dia oferecia 3
 
 ## Traduções
 
@@ -450,7 +451,6 @@ Regras de curadoria:
 - **Terças no Ipanema: Bicudos Dois** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
 - **Serial Funkers Clássicos** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não detalha o repertório.
 - **Jazz em dobro: Michael Jackson & Stevie Wonder** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não diz quem se apresenta.
-- **Priscilla com 2L: A Cara da Mãe e o P*u do Pai** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Game Drag Show com Samara Rios** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço repetido da ficha do mesmo espaço na base. Área escolhida pelo formato de espetáculo; a listagem não detalha.
 - **Festival Arpoarte 2026** — A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação nem o tipo de festival. Horário de abertura (14h) aplicado a todos os dias; 21h parece ser o encerramento.
 - **Encontro literário Lia Benchimol: Wabi Sabi** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
@@ -463,7 +463,6 @@ Regras de curadoria:
 - **Aula-baile de forró e samba de gafieira – Corpos em Diálogo** — No PDF semanal está na seção de atividades formativas.
 - **Lançamento: Mistérios sob o Céu de Alcântara** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Violões em Copa: Marco Lima e Almir Côrtes** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). 
-- **Amanda Mendonça canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Orquestra Furiosa Portátil na Casa do Choro** — A listagem da Sympla não informa preço nem classificação. organizador: Casa do Choro. Organizador: Casa do Choro. A sessão de 26/11 tem página própria na Sympla: https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621209.
 - **EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Simplesmente Maysa: homenagem aos 90 anos** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem canta.
@@ -473,7 +472,6 @@ Regras de curadoria:
 - **Atom Pink Floyd – Pink Floyd Symphonic** — A coleta não trouxe o preço.
 - **Maurício Meirelles – Surto Coletivo** — O site só dá o preço inicial.
 - **Ensaio de rua da Unidos de Vila Isabel** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
-- **Régis Araújo: Tá Bixada** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Pagode do Túnel – Samba de Axé** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte dá o local só como 'QUADRA', sem número do endereço.
 - **Samba do Xoxó e convidados** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A listagem marca abertura às 18h e o título diz 20h: usei 20h. Bairro pelo endereço; a fonte diz Centro. A fonte não dá o número do endereço.
 - **Simplesmente Shakespeare: Romeu e Julieta** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
@@ -520,6 +518,7 @@ Regras de curadoria:
 - **Som Bonde Carioca em Tão Iguais** — O texto da página foi cortado na extração antes da descrição: a fonte não diz que tipo de apresentação é. Classifiquei como Música pelo nome do grupo; a confirmar. Preço 'a partir de' (a inteira não é informada). A casa exige traje esporte fino.
 - **O Pulso Ainda Pulsa** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Teatro presumido pelo espaço.
 - **Violões Itinerantes: Do Rio a Exu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Leo Gandelman: Cosmos** — O site não informa o preço na página extraída.
 - **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
 - **1º Encontro de Violonistas Compositores: Andrea Perrone** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **VibraSons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; dança presumido pelo espaço.
@@ -530,6 +529,7 @@ Regras de curadoria:
 - **Samblack II com Paula Quintanilha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; em outra data o mesmo artista aparece como stand-up.
 - **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Ferrugem: Sentimento – gravação do audiovisual** — O site dá só o preço 'a partir de'; não diz se é inteira.
 - **1º Encontro de Violonistas Compositores: concerto com convidados** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Bruno Bellandi e Banda: Feijão Retrô** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Mulheres ao Vento – A Terra que Piso é Maré** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
@@ -554,6 +554,7 @@ Regras de curadoria:
 - **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
 - **Os Lobos 60 Anos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Cantos de Força – 10 anos de Afrotelúricos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
+- **Paulinho da Viola** — Preço: o menor valor informado; pode haver setores mais caros.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
