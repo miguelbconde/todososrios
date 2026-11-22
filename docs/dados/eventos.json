@@ -3325,6 +3325,58 @@
     {
      "data": "2026-11-22",
      "hora": "18:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Um Homem Célebre",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Espetáculo teatral baseado em Machado de Assis, em cartaz no Centro Cultural da Justiça Federal até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
+   "trecho_fonte": "2026-11-15 18:00 até 2026-11-29 18:00 | UM HOMEM CÉLEBRE - Baseado em Machado de Assis - Espetáculo teatral | Centro Cultural Justiça Federal, Avenida Rio Branco | organizador: Rafael Apolinário Coutinho | https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
+   "id": "f-a9155630c6",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "A play based on Machado de Assis, running at the Centro Cultural da Justiça Federal until November 29.",
+   "sinopse_es": "Obra de teatro basada en Machado de Assis, en cartel en el Centro Cultural da Justiça Federal hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:00"
     }
    ],
    "preco_texto": "",
@@ -3706,6 +3758,142 @@
    "sinopse_es": "Presentación de Gessica Ferreira, \"Hitch – Conselheira Amorosa\", en la Areninha Cultural João Bosco, en Vista Alegre.",
    "faixa": "nao_informado",
    "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Algoritmo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Algoritmo\" em cartaz no Teatro Municipal Ipanema Rubens Corrêa até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128420",
+   "trecho_fonte": "2026-11-12 20:00 até 2026-11-29 19:00 | Algoritmo | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/128420",
+   "id": "f-5157b0c813",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Algoritmo\" runs at Teatro Municipal Ipanema Rubens Corrêa until November 29.",
+   "sinopse_es": "\"Algoritmo\" en cartel en el Teatro Municipal Ipanema Rubens Corrêa hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Minha Vó Ri",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Minha Vó Ri\" em cartaz no Espaço Cultural Municipal Sérgio Porto, no Humaitá, até 13 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128323",
+   "trecho_fonte": "2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323",
+   "id": "f-a8b365287d",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Minha Vó Ri\" runs at Espaço Cultural Municipal Sérgio Porto, in Humaitá, until December 13.",
+   "sinopse_es": "\"Minha Vó Ri\" en cartel en el Espaço Cultural Municipal Sérgio Porto, en Humaitá, hasta el 13 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -6282,6 +6470,42 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Yuri Marçal: Macumbeiro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Arena Carioca Fernando Torres, em Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126727",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | MACUMBEIRO com YURY MARÇAL | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/126727",
+   "id": "f-132c6ce110",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Arena Carioca Fernando Torres, in Madureira.",
+   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Arena Carioca Fernando Torres, en Madureira.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Cris Silva Cruz: Credo Que Delícia",
    "areas": [
     "Teatro"
@@ -6300,6 +6524,50 @@
    "atualizado_em": "2026-11-22",
    "sinopse_en": "A Festival Queer Comedy night, part of the Comedy Week at Teatro Municipal Ziembinski, in Tijuca: Cris Silva Cruz performs \"Credo Que Delícia\".",
    "sinopse_es": "Noche del Festival Queer Comedy, dentro de la Semana de la Comedia del Teatro Municipal Ziembinski, en Tijuca: Cris Silva Cruz presenta \"Credo Que Delícia\".",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Mistério Buffo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Café Pequeno",
+   "endereco": "Av. Ataulfo de Paiva, 269",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Mistério Buffo\" no Teatro Municipal Café Pequeno, no Leblon, de 27 a 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129347",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347",
+   "id": "f-f8ed502f79",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Mistério Buffo\" at Teatro Municipal Café Pequeno, in Leblon, from November 27 to 29.",
+   "sinopse_es": "\"Mistério Buffo\" en el Teatro Municipal Café Pequeno, en Leblon, del 27 al 29 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -6388,6 +6656,426 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Reunião Geral das Palavras",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sinopse": "Coletânea com cinco peças de Cecilia Ripoll, no Espaço Cultural Municipal Sérgio Porto, no Humaitá.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129799",
+   "trecho_fonte": "2026-11-28 16:00 até 2026-11-28 16:00 | Reunião Geral das Palavras: uma coletânea com 5 peças de Cecilia Ripoll | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/129799",
+   "id": "f-43ec59dad8",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "A collection of five plays by Cecilia Ripoll, at Espaço Cultural Municipal Sérgio Porto, in Humaitá.",
+   "sinopse_es": "Colección de cinco obras de Cecilia Ripoll, en el Espaço Cultural Municipal Sérgio Porto, en Humaitá.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Elaine Machado e Banda Raça Brasileira: História da Diva",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Elaine Machado e a Banda Raça Brasileira apresentam \"História da Diva\" na série Sábado Homenagem do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128256",
+   "trecho_fonte": "2026-11-28 17:00 até 2026-11-28 17:00 | Sábado Homenagem Elaine Machado e Banda Raça Brasileira apresenta História da Diva | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128256",
+   "id": "f-a0af483c60",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Elaine Machado and Banda Raça Brasileira present \"História da Diva\" in the Sábado Homenagem series at Centro da Música Carioca, in Tijuca.",
+   "sinopse_es": "Elaine Machado y la Banda Raça Brasileira presentan \"História da Diva\" en la serie Sábado Homenagem del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Bem-vindo a Bangu",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "\"Bem-vindo a Bangu\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129701",
+   "trecho_fonte": "2026-11-28 17:00 até 2026-11-28 17:00 | Bem-vindo a Bangu | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/129701",
+   "id": "f-cb548d2990",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Bem-vindo a Bangu\" at Areninha Cultural Hermeto Pascoal, in Bangu.",
+   "sinopse_es": "\"Bem-vindo a Bangu\" en la Areninha Cultural Hermeto Pascoal, en Bangu.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Maria no Fio da Navalha",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ruth de Souza",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sinopse": "\"Maria no Fio da Navalha\" em cartaz no Teatro Municipal Ruth de Souza, em Santa Teresa, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128568",
+   "trecho_fonte": "2026-11-28 17:00 até 2026-12-06 17:00 | Maria no fio da Navalha | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128568",
+   "id": "f-ef4b37b8ed",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Maria no Fio da Navalha\" runs at Teatro Municipal Ruth de Souza, in Santa Teresa, until December 6.",
+   "sinopse_es": "\"Maria no Fio da Navalha\" en cartel en el Teatro Municipal Ruth de Souza, en Santa Teresa, hasta el 6 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Fora de Quadro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
+   "endereco": "Rua José Higino, 115",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Fora de Quadro\" no Centro Coreográfico da Cidade, na Tijuca, em 28 e 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128863",
+   "trecho_fonte": "2026-11-28 19:00 até 2026-11-29 18:00 | Fora de Quadro | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/128863",
+   "id": "f-9944b1aa2c",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Fora de Quadro\" at the Centro Coreográfico da Cidade, in Tijuca, on November 28 and 29.",
+   "sinopse_es": "\"Fora de Quadro\" en el Centro Coreográfico da Cidade, en Tijuca, el 28 y 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Yuri Marçal: Macumbeiro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127034",
+   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | MACUMBEIRO - Yuri Marçal | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127034",
+   "id": "f-6576ed5f1c",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Areninha Cultural Jacob do Bandolim, in Pechincha.",
+   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Gilsons",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Show dos Gilsons na Arena Carioca Fernando Torres, em Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127258",
+   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | GILSONS | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/127258",
+   "id": "f-8d7f1ac2c1",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Gilsons in concert at Arena Carioca Fernando Torres, in Madureira.",
+   "sinopse_es": "Concierto de Gilsons en la Arena Carioca Fernando Torres, en Madureira.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Stand-up: Wêlson Nunes",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Carlos Zéfiro",
+   "endereco": "Estrada Marechal Alencastro, s/nº",
+   "bairro": "Anchieta",
+   "regiao": "Zona Norte",
+   "sinopse": "Stand-up de Wêlson Nunes na Areninha Cultural Carlos Zéfiro, em Anchieta.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127399",
+   "trecho_fonte": "2026-11-28 20:30 até 2026-11-28 20:30 | Stand up: Wêlson Nunes | Areninha Cultural Municipal Carlos Zéfiro, Estrada Marechal Alencastro s/nº | organizador: MUNICIPIO DO RIO DE JANEIRO - Areninha Cultural Carlos Zéfiro | https://bileto.sympla.com.br/event/127399",
+   "id": "f-74cf9d83c0",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Stand-up comedy by Wêlson Nunes at Areninha Cultural Carlos Zéfiro, in Anchieta.",
+   "sinopse_es": "Stand-up de Wêlson Nunes en la Areninha Cultural Carlos Zéfiro, en Anchieta.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Renato Russo",
+   "endereco": "Parque Poeta Manuel Bandeira, s/nº",
+   "bairro": "Cocotá (Ilha do Governador)",
+   "regiao": "Zona Norte",
+   "sinopse": "Guilherme Lemos e os Filhos da Revolução tocam Legião Urbana na Areninha Cultural Renato Russo, na Ilha do Governador.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128850",
+   "trecho_fonte": "2026-11-28 21:00 até 2026-11-28 21:00 | Tributo à Legião Urbana - Guilherme Lemos e os Filhos da Revolução | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0 | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/128850",
+   "id": "f-ced40906a9",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Guilherme Lemos e os Filhos da Revolução play Legião Urbana at Areninha Cultural Renato Russo, on Ilha do Governador.",
+   "sinopse_es": "Guilherme Lemos e os Filhos da Revolução tocan Legião Urbana en la Areninha Cultural Renato Russo, en la Ilha do Governador.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Antes de Mim\", do Projeto Na Ponta dos Pés, na série Palco Leopoldina da Arena Cultural Dicró, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129077",
+   "trecho_fonte": "2026-11-28 22:00 até 2026-11-28 22:00 | Palco Leopoldina apresenta: Antes de Mim - Projeto Na Ponta dos Pés | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/129077",
+   "id": "f-87c5ee44d2",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Antes de Mim\", by Projeto Na Ponta dos Pés, in the Palco Leopoldina series at Arena Cultural Dicró, in Penha.",
+   "sinopse_es": "\"Antes de Mim\", del Projeto Na Ponta dos Pés, en la serie Palco Leopoldina de la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Quarteto Jequitibá: Retratos do Brasil",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "O Quarteto Jequitibá apresenta \"Retratos do Brasil – Uma viagem pela Música Brasileira\" na série Clássicos Domingos do Centro da Música Carioca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128654",
+   "trecho_fonte": "2026-11-29 11:00 até 2026-11-29 11:00 | Clássicos Domingos Quarteto Jequitibá apresenta Retratos do Brasil - Uma viagem pela Música Brasileira | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128654",
+   "id": "f-a59ccd7888",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Quarteto Jequitibá presents \"Retratos do Brasil – Uma viagem pela Música Brasileira\" in the Clássicos Domingos series at Centro da Música Carioca.",
+   "sinopse_es": "El Quarteto Jequitibá presenta \"Retratos do Brasil – Uma viagem pela Música Brasileira\" en la serie Clássicos Domingos del Centro da Música Carioca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-29",
      "hora": "15:00"
     }
@@ -6418,6 +7106,150 @@
    "sinopse_en": "Seven samba musicians pay tribute to Cartola, with original sambas and classics of traditional samba.",
    "sinopse_es": "Siete sambistas homenajean a Cartola, con sambas propios y clásicos del samba de raíz.",
    "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival Esperançar",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Terra",
+   "endereco": "Rua Marcos de Macedo, s/nº",
+   "bairro": "Guadalupe",
+   "regiao": "Zona Norte",
+   "sinopse": "Festival Esperançar na Areninha Cultural Terra, em Guadalupe.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129274",
+   "trecho_fonte": "2026-11-29 15:00 até 2026-11-29 15:00 | Festival Esperançar | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129274",
+   "id": "f-cb7bacc156",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Festival Esperançar at Areninha Cultural Terra, in Guadalupe.",
+   "sinopse_es": "Festival Esperançar en la Areninha Cultural Terra, en Guadalupe.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Domingo das Crianças: Árvore de Histórias",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "O Desdobrar das Histórias apresenta \"Árvore de Histórias\" na série Domingo das Crianças do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129704",
+   "trecho_fonte": "2026-11-29 16:00 até 2026-11-29 16:00 | Domingo das Crianças - O Desdobrar das Histórias apresenta Árvore de Histórias | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129704",
+   "id": "f-e2b00c012e",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "O Desdobrar das Histórias presents \"Árvore de Histórias\" in the Domingo das Crianças series at Centro da Música Carioca, in Tijuca.",
+   "sinopse_es": "O Desdobrar das Histórias presenta \"Árvore de Histórias\" en la serie Domingo das Crianças del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Gilsons",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Show dos Gilsons na Areninha Cultural Hermeto Pascoal, em Bangu.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126981",
+   "trecho_fonte": "2026-11-29 19:00 até 2026-11-29 19:00 | Gilsons | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/126981",
+   "id": "f-37698fe132",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Gilsons in concert at Areninha Cultural Hermeto Pascoal, in Bangu.",
+   "sinopse_es": "Concierto de Gilsons en la Areninha Cultural Hermeto Pascoal, en Bangu.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Yuri Marçal: Macumbeiro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural João Bosco, em Vista Alegre.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128488",
+   "trecho_fonte": "2026-11-29 19:30 até 2026-11-29 19:30 | Yuri Marçal - Macumbeiro | Areninha Cultural João Bosco de Vista Alegre, Av São Felix, 601 | organizador: Município de Rio de Janeiro - Areninha Cultural João Bosco | https://bileto.sympla.com.br/event/128488",
+   "id": "f-1db2b26c64",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Areninha Cultural João Bosco, in Vista Alegre.",
+   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Areninha Cultural João Bosco, en Vista Alegre.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {

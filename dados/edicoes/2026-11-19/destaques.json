@@ -99,8 +99,8 @@
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
-    "porque": "Em Gávea.",
+    "id": "f-5157b0c813",
+    "porque": "Em Ipanema.",
     "automatico": true
    },
    {
@@ -131,13 +131,13 @@
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
-    "porque": "Em Gávea.",
+    "id": "f-5157b0c813",
+    "porque": "Em Ipanema.",
     "automatico": true
    },
    {
-    "id": "f-d13457973d",
-    "porque": "Em Tijuca.",
+    "id": "f-132c6ce110",
+    "porque": "Em Madureira.",
     "automatico": true
    }
   ],
@@ -153,13 +153,23 @@
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
-    "porque": "Em Gávea.",
+    "id": "f-8d7f1ac2c1",
+    "porque": "Em Madureira.",
     "automatico": true
    },
    {
-    "id": "f-db4e688785",
-    "porque": "Em Guadalupe.",
+    "id": "f-cb548d2990",
+    "porque": "Em Bangu.",
+    "automatico": true
+   },
+   {
+    "id": "f-6576ed5f1c",
+    "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-a9155630c6",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -170,8 +180,28 @@
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
-    "porque": "Em Gávea.",
+    "id": "f-37698fe132",
+    "porque": "Em Bangu.",
+    "automatico": true
+   },
+   {
+    "id": "f-cb7bacc156",
+    "porque": "Em Guadalupe.",
+    "automatico": true
+   },
+   {
+    "id": "f-e2b00c012e",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-a9155630c6",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-5157b0c813",
+    "porque": "Em Ipanema.",
     "automatico": true
    }
   ],
@@ -191,12 +221,22 @@
   ],
   "2026-12-03": [
    {
+    "id": "f-ef4b37b8ed",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
     "id": "f-ff4b3d06a0",
     "porque": "Em Gávea.",
     "automatico": true
    }
   ],
   "2026-12-04": [
+   {
+    "id": "f-ef4b37b8ed",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
    {
     "id": "f-ff4b3d06a0",
     "porque": "Em Gávea.",
@@ -210,12 +250,22 @@
     "automatico": true
    },
    {
+    "id": "f-ef4b37b8ed",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
     "id": "f-ff4b3d06a0",
     "porque": "Em Gávea.",
     "automatico": true
    }
   ],
   "2026-12-06": [
+   {
+    "id": "f-ef4b37b8ed",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
    {
     "id": "f-ff4b3d06a0",
     "porque": "Em Gávea.",
