@@ -1,6 +1,6 @@
 # Protocolo de coleta e atualização do Todos os Rios
 
-*Versão 3 · 21/11/2026. Reescrita do zero: o robô publica sozinho e o Claude só entrega fichas. A divisão de tarefas entre robô, Claude e coordenação editorial está em `documentos/divisao-de-tarefas.md`.*
+*Versão 3.1 · 22/11/2026 (sem teto diário; entrega em lotes; Fever). Versão 3 · 21/11/2026. Reescrita do zero: o robô publica sozinho e o Claude só entrega fichas. A divisão de tarefas entre robô, Claude e coordenação editorial está em `documentos/divisao-de-tarefas.md`.*
 
 Quem executa não tem memória das conversas anteriores: tudo o que precisa está aqui, no `plano-diretor.md` (seções 4, 7 e 8) e no próprio repositório.
 
@@ -24,7 +24,7 @@ Regras que não mudam:
 
 ## 2. Tarefa diária do Claude (todo dia, sem conversa)
 
-**Objetivo:** transformar em fichas o que é novo na ronda e o robô não sabe ler sozinho. Barato e curto.
+**Objetivo:** transformar em fichas tudo o que é novo na ronda e o robô não sabe ler sozinho. Econômico na leitura, completo na cobertura.
 
 ### 2.1 Preparar
 
@@ -43,10 +43,10 @@ Confira em `/home/claude/bruta/resumo.json` (campo `feito_em`, em UTC) se a rond
 **Sem teto (decisão editorial de 22/11/2026):** o Todos os Rios quer ser a referência de tudo o que acontece na cidade, então redija **tudo** o que cabe nos critérios, na ordem de prioridade abaixo. **Entregue em lotes** de até 20 fichas (passos 2.5 a 2.8 a cada lote, com envio ao repositório): se o limite de uso acabar no meio, o que já foi entregue está salvo. Só o que não deu tempo de redigir vai para `dados/coleta/pendentes.json`, que é a primeira coisa a ler no dia seguinte.
 
 1. **Pendências de ontem:** `dados/coleta/pendentes.json`.
-2. **PDF da Secretaria Municipal de Cultura** em `entrada/`, se houver um que ainda não aparece no campo `nota` de `dados/entregas.json`. Ele é a fonte principal da rede municipal: arenas, areninhas, lonas, teatros, bibliotecas e museus. Um PDF rende mais que 25 fichas: comece pelos eventos mais próximos e deixe o resto em pendentes. Cite o nome do arquivo na `nota` da entrega.
+2. **PDF da Secretaria Municipal de Cultura** em `entrada/`, se houver um que ainda não aparece no campo `nota` de `dados/entregas.json`. Ele é a fonte principal da rede municipal: arenas, areninhas, lonas, teatros, bibliotecas e museus. Um PDF rende dezenas de fichas: comece pelos eventos mais próximos e redija todos. Cite o nome do arquivo na `nota` da entrega.
 3. **Linhas novas de `novo.txt`** (marcadas com ★), nesta ordem: equipamentos públicos e espaços fora da Zona Sul; o que é grátis ou a preço popular; o grupo "PRIORIDADE" da Sympla (`FPLAT_sympla`) e da Fever (`FPLAT_fever`); o resto; o grupo "cultural" das duas. Do grupo "a verificar", leia só os títulos.
 4. **Cancelamentos e mudanças** em eventos que já estão na base: corrija ou remova.
-5. **Fichas automáticas novas** (`dados/robo.json`, as que têm `"robo": true`): leia só os títulos das que ainda não viu (compare com `dados/coleta/robo-vistos.json`, que guarda os códigos já revistos). Vete em `"vetar"` o que não cabe nos critérios (apresentação de escola, atividade que não é cultural). Se sobrar teto, escolha as melhores e entregue a ficha completa com sinopse própria, mesmo título e mesmo local, lendo o evento na Sympla pelo `FPLAT_sympla.txt`: a ficha da redação passa a valer no lugar da automática. Depois grave em `robo-vistos.json` os códigos revistos, como `{"vistos": ["f-..."]}`. A Sympla não informa preço nessa listagem: não invente.
+5. **Fichas automáticas novas** (`dados/robo.json`, as que têm `"robo": true`): leia só os títulos das que ainda não viu (compare com `dados/coleta/robo-vistos.json`, que guarda os códigos já revistos). Vete em `"vetar"` o que não cabe nos critérios (apresentação de escola, atividade que não é cultural). Depois, escolha as melhores e entregue a ficha completa com sinopse própria, mesmo título e mesmo local, lendo o evento na Sympla pelo `FPLAT_sympla.txt`: a ficha da redação passa a valer no lugar da automática. Depois grave em `robo-vistos.json` os códigos revistos, como `{"vistos": ["f-..."]}`. A Sympla não informa preço nessa listagem: não invente.
 
 Para completar hora, preço, endereço ou classificação, faça buscas pontuais no arquivo da fonte (`grep`). Não leia arquivos inteiros.
 
@@ -95,7 +95,7 @@ Para cada sinopse nova e cada "por que ir" novo, escreva as versões em inglês 
 2. Rode `python3 ferramentas/entregar.py /home/claude/trabalho/entrega.json`. Ele recusa a ficha com problema grave e diz o motivo: corrija e rode de novo só com ela. No fim, mostra o teste de montagem: "0 alertas de curadoria" é o esperado.
 3. **Num dia sem nada de novo, entregue mesmo assim**, com `{"nota": "nada de novo"}`. É isso que avisa o robô de que a tarefa rodou; sem entrega por 2 dias, dispara o alarme.
 4. Grave em `dados/coleta/pendentes.json` o que ficou para depois, como `{"pendentes": [{"fonte": "F045", "titulo": "...", "data": "AAAA-MM-DD", "motivo": "não deu tempo"}]}`, **sem copiar texto da fonte**. Tire de lá o que você redigiu hoje.
-5. Marque o que foi visto: `cp /home/claude/trabalho/novo.txt.vistos dados/coleta/vistos.json`.
+5. Marque o que foi visto **só no último lote do dia** (ou quando o que sobrou já estiver em pendentes): `cp /home/claude/trabalho/novo.txt.vistos dados/coleta/vistos.json`. Nos lotes intermediários, não mexa em `vistos.json`.
 6. Envie só a base. O site é publicado pelo robô:
    ```
    git checkout -- docs dados/edicoes 2>/dev/null; git clean -fdq dados/edicoes
@@ -121,7 +121,7 @@ Num dia sem exceções, uma linha basta.
 
 - Não mexa em código, no cadastro de fontes nem em tarefas agendadas. Se algo no sistema parecer quebrado, descreva no relatório.
 - Não use e-mail, agenda, redes sociais nem outros conectores.
-- Se o limite de uso acabar no meio, nada se perde: o que não foi entregue continua em `novo.txt` amanhã, porque o `vistos.json` só muda na entrega.
+- Se o limite de uso acabar no meio, nada se perde: os lotes já entregues estão na base, e o resto continua em `novo.txt` amanhã, porque o `vistos.json` só muda no último lote. No dia seguinte, a regra "antes de redigir, veja se já existe" evita ficha repetida.
 
 ## 3. Em conversa com a coordenação editorial
 
