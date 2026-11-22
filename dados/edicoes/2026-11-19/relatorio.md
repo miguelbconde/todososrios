@@ -1,15 +1,15 @@
 # Relatório da edição — Edição de 19 a 25 de novembro de 2026
 
-- Eventos e exposições: **439** (402 eventos com 2853 sessões; 37 em cartaz)
+- Eventos e exposições: **458** (421 eventos com 2872 sessões; 37 em cartaz)
 - Grátis: **48** · preço popular (até R$ 40): **73**
-- Conferidos sem ressalva: **437** · a confirmar: **2**
+- Conferidos sem ressalva: **455** · a confirmar: **3**
 
 ## Distribuição por região
 
-- Centro: 46
-- Zona Sul: 133
+- Centro: 54
+- Zona Sul: 142
 - Zona Sudoeste: 118
-- Zona Norte: 101
+- Zona Norte: 103
 - Zona Oeste: 41
 
 ## Conferente independente (IA)
@@ -47,6 +47,8 @@
 - **O gesto do poder, o poder do gesto – um recorte da Coleção Instituto PIPA** (2026-11-19-132) · trecho_fonte · *duvida* — O campo arquivo_da_fonte aponta F016, que é o site do Carioca da Gema e não tem nada sobre a mostra. O trecho citado existe, mas em F001 (A Gentil Carioca): "Arjan Martins | O gesto do poder, o poder do gesto : Centro Cultural do Patrimônio Paço Imperial | Rio de Janeiro, Brasil [...] 26 Setembro - 22 Novembro 2026". Conferido em F001, o conteúdo da ficha bate; só o arquivo indicado está errado. → **Sem mudança: a ficha confere com a fonte certa (site da galeria A Gentil Carioca); o erro era só na indicação do arquivo dada ao conferente.**
 - **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** (2026-11-19-163) · sinopse · *duvida* — A sinopse fala em "três gerações da música de umbanda". F137 diz "reunindo diferentes gerações e grandes referências da música ligada à cultura afrobrasileira e à Umbanda" e "Completando esse encontro de gerações, Luan Pureza representa a renovação"; o número três é dedução de quem redigiu, não está na fonte. → **Corrigido: “diferentes gerações”, como na fonte.**
 - **Casa da Mônica** (2026-11-19-133) · endereco · *duvida* — O endereço da ficha está certo, mas a nota erra ao dizer que ele não está no texto coletado: F013 traz "Biblioteca Parque Estadual Av. Pres. Vargas, 1261 – Centro, Rio de Janeiro – RJ, 20071-004". → **Corrigido: a nota estava errada; o endereço consta na fonte e entrou no trecho.**
+- **CEP 20.000** (f-f29bb7524a) · areas · *duvida* — A listagem da Sympla não diz o que é a programação; áreas escolhidas pelo histórico do evento. → **pendente (sai como “a confirmar”)**
+- **CEP 20.000** (f-f29bb7524a) · sinopse · *diverge* — Sinopse dizia que a programação era do próprio espaço, o que a fonte não diz. → **Corrigido: frase retirada.**
 
 ## Conferência mecânica (regras)
 
@@ -56,37 +58,56 @@
 - [baixa] **Coral Brasil Ensemble – UFRJ (Música no Assyrio)** (2026-11-19-130) — Preço não informado na fonte
 - [baixa] **Clube Akorin: Musicalizar Brincando** (2026-11-19-146) — Preço não informado na fonte
 - [baixa] **Bluey – Diversão em Família** (2026-11-19-164) — Preço não informado na fonte
+- [baixa] **Samba do Passeio** (f-6a919fb0d6) — Preço não informado na fonte
 - [baixa] **Clube do Livro Trill: As Vacas Não Me Olham Mais na Cara, de Dora Freind** (2026-11-19-168) — Preço não informado na fonte
+- [baixa] **Feijoada Clementiana – 65 anos da São Clemente** (f-56e6ced95d) — Preço não informado na fonte
 - [baixa] **Escola do Rock** (2026-11-19-143) — Preço não informado na fonte
 - [baixa] **Lançamento infantil: João Rapidão e Maria Devagarinha** (2026-11-19-153) — Preço não informado na fonte
 - [baixa] **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** (2026-11-19-163) — Preço não informado na fonte
 - [media] **Ensaio de rua da Imperatriz Leopoldinense** (2026-11-19-176) — Link oficial ausente
+- [baixa] **Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá** (f-bed416f1da) — Preço não informado na fonte
 - [media] **Ensaio de rua da Estação Primeira de Mangueira** (2026-11-19-177) — Link oficial ausente
 - [media] **Ensaio de rua da Portela** (2026-11-19-178) — Link oficial ausente
+- [baixa] **O Neguinho da Beija-Flor – Musical** (f-aa4f94a9ca) — Preço não informado na fonte
+- [baixa] **Camerata de Violões convida Mauro Senise – 30 anos** (f-f02c2c3296) — Preço não informado na fonte
 - [baixa] **Confissões de Adolescente – o musical** (2026-11-19-142) — Preço não informado na fonte
 - [baixa] **O Mercador de Veneza** (2026-11-19-148) — Preço não informado na fonte
 - [baixa] **Adorável Face de Andronieva Petrosa** (2026-11-19-151) — Preço não informado na fonte
+- [baixa] **Moacyr Luz e Samba do Trabalhador** (f-9b5a6ff868) — Preço não informado na fonte
 - [baixa] **Lançamento: Migrantes da Descolonização** (2026-11-19-134) — Preço não informado na fonte
 - [baixa] **Lançamento: Ministério do Tempo Livre – um manifesto** (2026-11-19-154) — Preço não informado na fonte
 - [baixa] **Lançamento: Música em Pauta** (2026-11-19-155) — Preço não informado na fonte
 - [media] **Ensaio de rua do Paraíso do Tuiuti** (2026-11-19-171) — Link oficial ausente
 - [baixa] **Três a Varejo + 1** (2026-11-19-127) — Preço não informado na fonte
+- [baixa] **Samba, Livre, Leve e Solto, com Paulão 7 Cordas** (f-54fb9840fe) — Preço não informado na fonte
+- [baixa] **Marcos Ariel Quarteto** (f-fb442c15f2) — Preço não informado na fonte
 - [baixa] **Camila Cardoso – Antes e Depois do Plantão** (2026-11-19-165) — Preço não informado na fonte
 - [baixa] **Meninas e Mulheres na Ciência e Tecnologia: redes que abrem caminhos** (2026-11-19-139) — Preço não informado na fonte
 - [baixa] **A poesia brasileira na Coleção Ciranda da Poesia – ciclo de conferências** (2026-11-19-123) — Preço não informado na fonte
+- [baixa] **Espetáculo “Descoberta das Américas” e lançamento do livro “Descobrimento”** (f-08c1e2974f) — Preço não informado na fonte
 - [baixa] **Lançamento duplo: A Vida Imprópria e O Arquivo como Gesto** (2026-11-19-156) — Preço não informado na fonte
+- [baixa] **Choro Batucada** (f-d119469024) — Preço não informado na fonte
 - [baixa] **Margaridas** (2026-11-19-150) — Preço não informado na fonte
 - [baixa] **Encontro literário Lia Benchimol: Wabi Sabi** (2026-11-19-157) — Preço não informado na fonte
+- [baixa] **Dança à Deriva: CorpoCabeça (RJ) e Grandiosa (CH/MX)** (f-c8571452d5) — Preço não informado na fonte
+- [baixa] **Lançamento do livro “Quando o Morro Tiver Vez no Rio de Janeiro”** (f-dbedc656f5) — Preço não informado na fonte
 - [baixa] **Lançamento: Mistérios sob o Céu de Alcântara** (2026-11-19-158) — Preço não informado na fonte
+- [baixa] **Violões em Copa: Marco Lima e Almir Côrtes** (f-04136f3901) — Preço não informado na fonte
+- [baixa] **EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”** (f-a59e80521b) — Preço não informado na fonte
+- [baixa] **Simplesmente Maysa: homenagem aos 90 anos** (f-b9f598d320) — Preço não informado na fonte
+- [baixa] **Musubu – Grupo Rio Nikkei Taiko** (f-f0bac0d0f2) — Preço não informado na fonte
+- [baixa] **Aldir Blanc – 80 anos: Guinga, Moacyr Luz e Zé Renato (data extra)** (f-30ea734113) — Preço não informado na fonte
+- [baixa] **CEP 20.000** (f-f29bb7524a) — Preço não informado na fonte
 - [baixa] **Atom Pink Floyd – Pink Floyd Symphonic** (2026-11-19-149) — Preço não informado na fonte
 - [baixa] **Maurício Meirelles – Surto Coletivo** (2026-11-19-166) — Preço não informado na fonte
 - [media] **Ensaio de rua da Unidos de Vila Isabel** (2026-11-19-172) — Link oficial ausente
+- [baixa] **Anna Ratto** (f-16fc963054) — Preço não informado na fonte
 
 ## Destaques (A boa)
 
 - **22/11**: Amanhecer Rio – Festival Cultura e Cuidado; Mensageiras da Cultura – 50 anos da Kotekitai; Quintal; Festival Quem Dança é Mais Feliz; Equina; Domingo recreativo para crianças
 - **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Música em Pauta
-- **24/11**: O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical; A poesia brasileira na Coleção Ciranda da Poesia – ciclo de conferências; Seminário Estadual: Por uma Educação Antirracista
+- **24/11**: O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical; Seminário Estadual: Por uma Educação Antirracista; Choro Batucada
 - **25/11**: Rap & Repente – Artes do Improviso; Amanda Mendonça canta Djavan; Mesa-redonda: O Mundo que se Quer Esconder das Crianças; O Último Dia da Minha Vida
 
 Regras de curadoria:
@@ -117,8 +138,10 @@ Regras de curadoria:
 - **Coral Brasil Ensemble – UFRJ (Música no Assyrio)** — O trecho coletado não traz o preço do ingresso.
 - **Clube Akorin: Musicalizar Brincando** — A fonte não informa o preço.
 - **Bluey – Diversão em Família** — O site só dá o preço inicial.
+- **Samba do Passeio** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço e bairro repetidos da ficha do mesmo local na base. Não marquei “na rua” porque a fonte não diz que é ao ar livre, embora o Passeio Público seja um jardim.
 - **Música no Museu** — Coletado no site em 15–17/11 e relido na ronda de 19/11: o site agora dá horário (13h) para o concerto de domingo, 22/11, que entra.
 - **Clube do Livro Trill: As Vacas Não Me Olham Mais na Cara, de Dora Freind** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
+- **Feijoada Clementiana – 65 anos da São Clemente** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem a programação musical.
 - **Rio Maracatu** — Coletado no site em 15–17/11 e não relido nesta edição.
 - **Oficina Cliques e Movimento** — A fonte dá dois endereços para a casa: “Avenida Epitácio Pessoa, 2480”, no rodapé do site, e “Praça Benedito Cerqueira, 0 | Lagoa”, no serviço da oficina. Fica o do rodapé, que é o endereço fixo da instituição.
 - **Escola do Rock** — A fonte não informa o preço.
@@ -126,31 +149,48 @@ Regras de curadoria:
 - **Lançamento infantil: João Rapidão e Maria Devagarinha** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** — O site só dá o preço inicial. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Ensaio de rua da Imperatriz Leopoldinense** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Entre o Sim e o Nunca** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Ensaio de rua da Estação Primeira de Mangueira** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Ensaio de rua da Portela** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **O Neguinho da Beija-Flor – Musical** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **Camerata de Violões convida Mauro Senise – 30 anos** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro (Botafogo) deduzido do endereço; a fonte não o dá.
 - **Nada sob Controle** — O PDF traz o espetáculo dentro do bloco do Teatro Café Pequeno, logo depois de “O Último Dia da Minha Vida”, sem repetir o nome do teatro.
 - **Confissões de Adolescente – o musical** — A fonte não informa o preço.
 - **O Mercador de Veneza** — A coleta não trouxe o preço.
 - **Adorável Face de Andronieva Petrosa** — A coleta não trouxe o preço.
+- **Moacyr Luz e Samba do Trabalhador** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Lançamento: Migrantes da Descolonização** — A fonte não informa preço.
 - **Lançamento: Ministério do Tempo Livre – um manifesto** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Lançamento: Música em Pauta** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Ensaio de rua do Paraíso do Tuiuti** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Três a Varejo + 1** — A página só dá o preço de terça a sábado; o de segunda-feira não é informado. O horário é o que a página do bar dá para a noite; a mesma página avisa que o show principal pode começar mais tarde.
+- **Samba, Livre, Leve e Solto, com Paulão 7 Cordas** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **Marcos Ariel Quarteto** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Camila Cardoso – Antes e Depois do Plantão** — O site só dá o preço inicial.
 - **Seminário Estadual: Por uma Educação Antirracista** — O PDF do Novembro Negro avisa: “evento sujeito a alterações”. No PDF semanal está na seção de atividades formativas.
 - **Meninas e Mulheres na Ciência e Tecnologia: redes que abrem caminhos** — A fonte não informa preço. A página de atividades da casa tem um botão de inscrição que parece ser deste encontro, mas não repete o título nem a data.
 - **A poesia brasileira na Coleção Ciranda da Poesia – ciclo de conferências** — A fonte não informa preço nem classificação.
+- **Espetáculo “Descoberta das Américas” e lançamento do livro “Descobrimento”** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Lançamento duplo: A Vida Imprópria e O Arquivo como Gesto** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
+- **Choro Batucada** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Margaridas** — A coleta não trouxe o preço.
 - **Encontro literário Lia Benchimol: Wabi Sabi** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Clube de Leitura CCBB com Raphael Montes** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **Dança à Deriva: CorpoCabeça (RJ) e Grandiosa (CH/MX)** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **Lançamento do livro “Quando o Morro Tiver Vez no Rio de Janeiro”** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte dá só “Avenida Rio Branco”, sem número. Título corrigido (a fonte grafa “Lançamentro”). Organizado por pessoa física.
 - **Aula-baile de forró e samba de gafieira – Corpos em Diálogo** — No PDF semanal está na seção de atividades formativas.
 - **Lançamento: Mistérios sob o Céu de Alcântara** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
+- **Violões em Copa: Marco Lima e Almir Côrtes** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). 
+- **EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
+- **Simplesmente Maysa: homenagem aos 90 anos** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem canta.
+- **Musubu – Grupo Rio Nikkei Taiko** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). 
+- **Aldir Blanc – 80 anos: Guinga, Moacyr Luz e Zé Renato (data extra)** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro deduzido do endereço (Rua Álvaro Alvim, Cinelândia).
+- **CEP 20.000** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Organizador: Município do Rio (órgão público). Endereço repetido da ficha do mesmo espaço na base. Áreas escolhidas pelo histórico do evento (poesia e música); a listagem não detalha a programação.
 - **Atom Pink Floyd – Pink Floyd Symphonic** — A coleta não trouxe o preço.
 - **Maurício Meirelles – Surto Coletivo** — O site só dá o preço inicial.
 - **Ensaio de rua da Unidos de Vila Isabel** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Anna Ratto** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro deduzido do endereço.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.

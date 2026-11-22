@@ -11,8 +11,8 @@
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 6395 sessões de cinema
-- Sympla: 2003 eventos no Rio
+- Ingresso.com: 0 sessões de cinema
+- Sympla: 0 eventos no Rio
 
 ## Fichas automáticas (sem IA)
 
@@ -21,16 +21,18 @@
 
 ## Redação (tarefa diária do Claude)
 
-- Última entrega: 2026-11-19
+- Última entrega: 2026-11-22
   - 2026-11-19: 178 novas, 0 corrigidas, 0 recusadas
+  - 2026-11-22: 19 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11: 19 fichas da Sympla (só pela listagem; páginas dos eventos bloqueadas), 25 fichas automáticas revistas sem vetos.
+  - 2026-11-22: 0 novas, 0 corrigidas, 0 recusadas — Ajuste de A boa de 24/11 para cumprir a regra de 3 áreas.
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2026-11-25: **102**
-- Por região: Centro 39, Zona Sul 31, Zona Norte 18, Zona Sudoeste 10, Zona Oeste 4
-- Fora da Zona Sul: 70%
+- Fichas da redação de hoje até 2026-11-25: **121**
+- Por região: Centro 47, Zona Sul 40, Zona Norte 20, Zona Sudoeste 10, Zona Oeste 4
+- Fora da Zona Sul: 67%
 - Grátis: 48
 
 ## Alarmes
 
-- a tarefa diária do Claude não entrega fichas desde 2026-11-19; o site segue no ar, mas só com o que o robô monta sozinho
+- Nenhum.
