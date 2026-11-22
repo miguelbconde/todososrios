@@ -48,6 +48,10 @@ Números da última ronda. Os dados brutos ficam no ramo `coleta-bruta` (`plataf
 - Falhou: Festival do Rio (código 404)
 - Falhou: Instituto Moreira Salles RJ (código 404)
 
-## Sympla: 2003 eventos no Rio (87 páginas lidas)
+## Sympla: 1999 eventos no Rio (87 páginas lidas)
+
+- Sem falhas.
+
+## Fever: 60 eventos no Rio (31 candidatos para a redação, 29 descartados pela regra)
 
 - Sem falhas.

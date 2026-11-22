@@ -1,6 +1,6 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-22 08:22 UTC, em 187 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-22 10:29 UTC, em 174 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
@@ -104,5 +104,5 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
 | Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
+| Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |
-| Solar de Botafogo | recusou a visita (código 522) |  |

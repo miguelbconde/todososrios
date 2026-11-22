@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-22 08:22 UTC",
- "segundos": 187,
+ "feito_em": "2026-11-22 10:29 UTC",
+ "segundos": 174,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 41032,
+   "caracteres": 40955,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -138,7 +138,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 270,
+   "caracteres": 290,
    "url_final": "https://www.caixacultural.gov.br/Paginas/default.aspx",
    "paginas": [
     "https://www.caixacultural.gov.br/Paginas/default.aspx"
@@ -160,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9567,
+   "caracteres": 9648,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37797,
+   "caracteres": 38528,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 326,
+   "mencoes_de_data": 318,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -804,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6858,
+   "caracteres": 6868,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1576,7 +1576,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1810,
+   "caracteres": 1764,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1599,7 +1599,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "recusou a visita (código 522)"
+   "situacao": "recusou a visita (código 403)"
   },
   {
    "ids": [
@@ -2079,7 +2079,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63275,
+   "caracteres": 63237,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
