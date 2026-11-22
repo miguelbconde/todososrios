@@ -2318,6 +2318,41 @@
      "hora": "16:00"
     }
    ],
+   "preco_texto": "a partir de R$ 56,40",
+   "preco_min": 56.4,
+   "preco_max": 56.4,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "titulo": "Candlelight: Queen & ABBA",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Quarteto de cordas toca repertório do Queen e do ABBA num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/384590",
+   "trecho_fonte": "2026-11-22 16:00 até 2027-01-30 18:00 | Candlelight: Queen & ABBA | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 56.4 | datas: 2026-11-22 16:00; 2027-01-30 18:00 || No Museu do Amanhã, no Rio de Janeiro, um quarteto de cordas interpreta o melhor do Queen e do ABBA. [...] Este evento é um concerto tributo.",
+   "id": "f-458db0a30e",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "A string quartet plays songs by Queen and ABBA in a candlelit space at Museu do Amanhã. It is a tribute concert, not affiliated with the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca canciones de Queen y ABBA en un espacio iluminado con velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -2560,6 +2595,41 @@
    "sinopse_en": "Portela rehearses in Madureira, at the corner of Rua Clara Nunes and Estrada do Portela, getting ready for Carnival 2027. A samba school of the top league (Grupo Especial).",
    "sinopse_es": "La Portela ensaya en Madureira, en la esquina de la Rua Clara Nunes con la Estrada do Portela, preparando el Carnaval 2027. Escuela de samba del Grupo Especial.",
    "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 51,20",
+   "preco_min": 51.2,
+   "preco_max": 51.2,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "titulo": "Candlelight: The Beatles",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Concerto à luz de velas com músicas dos Beatles, no Museu do Amanhã. É um concerto tributo, sem ligação com o grupo.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/611277",
+   "trecho_fonte": "2026-11-22 18:00 até 2027-02-27 20:00 | Candlelight: The Beatles | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 51.2 | datas: 2026-11-22 18:00; 2027-02-27 20:00 || redescubra o melhor dos Beatles! Este evento é um concerto tributo.",
+   "id": "f-3a162e4192",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "A candlelit concert of Beatles songs at Museu do Amanhã. It is a tribute concert, not affiliated with the band.",
+   "sinopse_es": "Concierto a la luz de las velas con canciones de los Beatles, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con el grupo.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {

@@ -1,12 +1,12 @@
 # Relatório da edição — Edição de 19 a 25 de novembro de 2026
 
-- Eventos e exposições: **458** (421 eventos com 2872 sessões; 37 em cartaz)
+- Eventos e exposições: **460** (423 eventos com 2874 sessões; 37 em cartaz)
 - Grátis: **48** · preço popular (até R$ 40): **73**
-- Conferidos sem ressalva: **455** · a confirmar: **3**
+- Conferidos sem ressalva: **457** · a confirmar: **3**
 
 ## Distribuição por região
 
-- Centro: 54
+- Centro: 56
 - Zona Sul: 142
 - Zona Sudoeste: 118
 - Zona Norte: 103
@@ -149,10 +149,12 @@ Regras de curadoria:
 - **Lançamento infantil: João Rapidão e Maria Devagarinha** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
 - **O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza** — O site só dá o preço inicial. O endereço não está no texto coletado; é o endereço público do espaço.
 - **Ensaio de rua da Imperatriz Leopoldinense** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Candlelight: Queen & ABBA** — Só a Fever tem o evento. Na edição, apenas a sessão de 22/11; a próxima listada é 30/01/2027. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Entre o Sim e o Nunca** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
 - **Ensaio de rua da Estação Primeira de Mangueira** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
 - **Ensaio de rua da Portela** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
+- **Candlelight: The Beatles** — Só a Fever tem o evento. Na edição, apenas a sessão de 22/11; a próxima listada é 27/02/2027. A fonte não diz a formação dos músicos. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **O Neguinho da Beija-Flor – Musical** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
 - **Camerata de Violões convida Mauro Senise – 30 anos** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro (Botafogo) deduzido do endereço; a fonte não o dá.
 - **Nada sob Controle** — O PDF traz o espetáculo dentro do bloco do Teatro Café Pequeno, logo depois de “O Último Dia da Minha Vida”, sem repetir o nome do teatro.
