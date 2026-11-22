@@ -6087,6 +6087,40 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-24",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.",
+   "aviso": "",
+   "titulo": "Terças no Ipanema: Bicudos Dois",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Bicudos Dois na série Terças no Ipanema, do Teatro Municipal Ipanema Rubens Corrêa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128841",
+   "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | Terças no Ipanema - Bicudos Dois | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/128841",
+   "id": "f-1228776018",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "20:30"
     }
@@ -6147,6 +6181,74 @@
    "trecho_fonte": "2026-12-03 19:00 | Som Bonde Carioca em Tão Iguais | Sala Mário Tavares, Avenida Almirante Barroso, 14 - Centro [...] | a partir de R$ 25 || Quinta-Feira, 03 de Dezenbro de 2026, às 19h ⏱ Duração: 1 hora [...] ♿ Acessibilidade: este local não é acessível para cadeiras de rodas 👤 Idade: livre para todas as idades ❗ Importante: não será permitida a entrada após o início da apresentação",
    "id": "f-24c0dccb9e",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ. Organizador: Centro Cultural do Poder Judiciário (órgão público).",
+   "aviso": "",
+   "titulo": "Justiça em Cena: Perigosas Damas",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural do Poder Judiciário (CCPJ) – Tribunal do Júri Histórico",
+   "endereco": "Rua Dom Manuel, s/nº (Edifício Des. Caetano Pinto de Miranda Montenegro, 2º andar)",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Perigosas Damas\" na série Justiça em Cena, no antigo Tribunal do Júri do Centro Cultural do Poder Judiciário, no Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/justica-em-cena-apresenta-perigosas-damas/3635750",
+   "trecho_fonte": "2026-11-27 18:30 até 2026-11-27 20:00 | Justiça em Cena apresenta Perigosas Damas | Tribunal do Júri Histórico - Edifício Des. Caetano Pinto de Miranda Montenegro - 2º andar, Rua Dom Manuel | organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ | https://www.sympla.com.br/evento/justica-em-cena-apresenta-perigosas-damas/3635750",
+   "id": "f-2985740e6d",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Lançamento do álbum \"Mãe África\", de Wesley Nóog e a Banda Roda Jardim Suspenso, na série Sextas Lançamentos do Centro da Música Carioca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128255",
+   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 19:00 | Sextas Lançamentos - Wesley Nóog & Banda Roda Jardim Suspenso - Lançamento do Álbum Mãe África | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128255",
+   "id": "f-2bc42b1a23",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -6276,6 +6378,40 @@
    "trecho_fonte": "aberta de 2026-11-26 até 2027-05-02 | “Infâncias” na FGV Arte | FGV Arte | Esplanada da Fundação Getulio Vargas, Praia de Botafogo, nº 186, Botafogo || com curadoria de Andréa Hygino e Paulo Herkenhoff. Reunindo artistas modernos e contemporâneos de diferentes gerações e países, a mostra aborda o universo das brincadeiras, da imaginação e das relações familiares, além de questões como educ",
    "id": "f-33ccd17d21",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Régis Araújo: Tá Bixada",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Régis Araújo apresenta \"Tá Bixada\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128666",
+   "trecho_fonte": "2026-11-25 20:00 até 2026-11-25 20:00 | Semana da Comédia: Festival Queer Comedy – Régis Araújo em Tá Bixada | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128666",
+   "id": "f-34accf3b3b",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -6540,6 +6676,40 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ. Organizador: Centro Cultural do Poder Judiciário (órgão público). A fonte não dá o número do endereço.",
+   "aviso": "",
+   "titulo": "Nota Justa: Afrojazz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural do Poder Judiciário (CCPJ) – Sala Multiuso",
+   "endereco": "Rua Dom Manuel, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Afrojazz\" na série Nota Justa, do Centro Cultural do Poder Judiciário, no Centro, das 18h às 19h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/nota-justa-apresenta-afrojazz/3635616",
+   "trecho_fonte": "2026-11-26 18:00 até 2026-11-26 19:30 | Nota Justa apresenta Afrojazz | Sala Multiuso, Rua Dom Manuel Centro | organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ | https://www.sympla.com.br/evento/nota-justa-apresenta-afrojazz/3635616",
+   "id": "f-5dbe31cb4c",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "15:00"
     }
@@ -6663,6 +6833,40 @@
    "trecho_fonte": "2026-11-22 16:00 até 2026-11-23 02:00 | Roda de Samba do Vinny Santa Fé (22/11) - Essência do Samba | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/roda-de-samba-do-vinny-santa-fe-22-11-essencia-do-samba/3645389",
    "id": "f-71017228ea",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Amanda Mendonça canta Djavan",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Amanda Mendonça interpreta canções de Djavan na série Quartas Acústicas do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129675",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 19:00 | Quartas Acústicas apresenta Amanda Mendonça Canta Djavan | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129675",
+   "id": "f-758966ed18",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -6806,6 +7010,74 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-24",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Priscilla com 2L: A Cara da Mãe e o P*u do Pai",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Priscilla com 2L apresenta \"A cara da mãe e o p*u do pai\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129354",
+   "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | Semana da Comédia: Festival Queer Comedy – Priscilla com 2L em A cara da mãe e o p*u do pai | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/129354",
+   "id": "f-8d66714315",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Zeppa: Na Voz do Compositor",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Zeppa apresenta \"Na Voz do Compositor\" na série Quintas Autorais do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129530",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-11-26 19:00 | Quintas Autorais - Zeppa apresenta Na Voz do Compositor | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129530",
+   "id": "f-8f37410ce6",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-23",
      "hora": "16:30"
     }
@@ -6833,6 +7105,64 @@
    "trecho_fonte": "2026-11-23 16:30 até 2026-11-23 21:30 | Moacyr Luz e Samba do Trabalhador - 23 de Novembro | Renascença Clube, Rua Barão de São Francisco Andaraí | organizador: Moacyr Luz e Samba do Trabalhador",
    "id": "f-9b5a6ff868",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco.",
+   "aviso": "dias",
+   "titulo": "Gosto Amargo na Pele",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Correios Léa Garcia",
+   "endereco": "Rua Visconde de Itaboraí, 20",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Gosto Amargo na Pele\" em cartaz no Teatro Correios Léa Garcia, no Centro, de 26 de novembro a 5 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128463",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463",
+   "id": "f-9c2207768d",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -6897,6 +7227,52 @@
    "trecho_fonte": "2026-11-25 19:00 até 2026-11-25 21:00 | EurAsia Dance Company apresenta 'Om Mani Padme Hum' e 'Svarupa & Vyakta' | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio",
    "id": "f-a59e80521b",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco. A página do evento não pôde ser lida.",
+   "aviso": "dias",
+   "titulo": "Ruído Bruto",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Carlos Gomes",
+   "endereco": "Praça Tiradentes, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Ruído Bruto\" em cartaz no Teatro Municipal Carlos Gomes, na Praça Tiradentes, de 24 a 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130260",
+   "trecho_fonte": "2026-11-24 19:00 até 2026-11-28 17:00 | Ruído Bruto | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130260",
+   "id": "f-a9d2e23843",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -7066,6 +7442,82 @@
    "trecho_fonte": "aberta de 2026-10-06 até 2027-01-03 | “Gestos cotidianos”, de Renato Bezerra de Mello, no Sesc Tijuca | Sesc Tijuca, R. Barão de Mesquita, 539 - Tijuca || A curadoria é de Daniela Name e Jocelino Pessoa, em que a mostra reúne 11 conjuntos de trabalhos",
    "id": "f-bef83bad71",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação da mostra.",
+   "aviso": "dias",
+   "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Gonzaguinha",
+   "endereco": "Rua Benedito Hipólito, 125",
+   "bairro": "Praça XI",
+   "regiao": "Centro",
+   "sinopse": "Primeira edição da Mostra de Artes de Terreiro Os Ciclomáticos, no Teatro Municipal Gonzaguinha, de 26 a 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129222",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222",
+   "id": "f-c21b141a4f",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero da apresentação; o título sugere humor.",
+   "aviso": "",
+   "titulo": "Gessica Ferreira: Hitch – Conselheira Amorosa",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Apresentação de Gessica Ferreira, \"Hitch – Conselheira Amorosa\", na Areninha Cultural João Bosco, em Vista Alegre.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/123698",
+   "trecho_fonte": "2026-11-22 19:00 até 2026-11-22 19:00 | Gessica Ferreira - Hitch Conselheira Amorosa | Areninha Cultural João Bosco de Vista Alegre, Av São Felix, 601 | organizador: Município de Rio de Janeiro - Areninha Cultural João Bosco | https://bileto.sympla.com.br/event/123698",
+   "id": "f-c41d054710",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": {
@@ -7263,6 +7715,108 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Cris Silva Cruz: Credo Que Delícia",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Cris Silva Cruz apresenta \"Credo Que Delícia\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129023",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Semana da Comédia: Festival Queer Comedy – Cris Silva Cruz em Credo Que Delícia | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/129023",
+   "id": "f-d13457973d",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Ariane Mathias: Rindo de Nervoso",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Ariane Mathias apresenta \"Rindo de Nervoso\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128540",
+   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Semana da Comédia: Festival Queer Comedy – Ariane Mathias em Rindo de Nervoso | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128540",
+   "id": "f-d219493664",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: IICRio. Organizador: Istituto Italiano di Cultura.",
+   "aviso": "",
+   "titulo": "Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O ensemble Trompas da UFRJ apresenta um \"Concerto Italiano\" na série Notas e Sabores do Istituto Italiano di Cultura, no Centro, ao meio-dia.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/serie-notas-e-sabores-concerto-italiano-com-o-ensemble-trompas-da-ufrj/3650433",
+   "trecho_fonte": "2026-11-27 12:00 até 2026-11-27 14:00 | Série Notas e Sabores: 'Concerto Italiano' com o ensemble Trompas da UFRJ | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio | https://www.sympla.com.br/evento/serie-notas-e-sabores-concerto-italiano-com-o-ensemble-trompas-da-ufrj/3650433",
+   "id": "f-d2eac34399",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "17:00"
     }
@@ -7385,6 +7939,78 @@
    "trecho_fonte": "ArtRio: 19.SEP - 29.NOV MAM Rio | Carnaval como método, coletiva Mostra investiga os processos criativos que estruturam os desfiles das escolas de samba [...] MAM Rio | Av. Infante Dom Henrique, 85 - Aterro do Flamengo Visitação: quartas, quintas, sextas, sábados domingos e feriados, das 10h às 18h. - Aos domingos, das 10h às 11h, visitação exclusiva para pessoas com deficiência intelectual. || Arte que Acontece: aberta de 2026-09-19 até 2027-02-21 [...] reunindo obras inéditas comissionadas a seis carnavalescos em atividade — André Rodrigues em colaboração com Juliana Joannou, Annik Salmon, Antônio Gonzaga, a dupla Gabriel Haddad e Leonardo Bora, e Thayssa Menezes",
    "id": "f-d9430fc970",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "A Ópera do Malandro – o musical",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Terra",
+   "endereco": "Rua Marcos de Macedo, s/nº",
+   "bairro": "Guadalupe",
+   "regiao": "Zona Norte",
+   "sinopse": "Montagem do musical \"A Ópera do Malandro\" na Areninha Cultural Terra, em Guadalupe, em 27 e 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129270",
+   "trecho_fonte": "2026-11-27 19:30 até 2026-11-28 19:30 | A Ópera do Malandro - o muscial | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129270",
+   "id": "f-db4e688785",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.",
+   "aviso": "",
+   "titulo": "Yuri Marçal: Macumbeiro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126804",
+   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Yuri Marcal -  Macumbeiro | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/126804",
+   "id": "f-db9886b6e6",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": {
@@ -7581,6 +8207,40 @@
    "trecho_fonte": "2026-12-10 19:00 até 2026-12-27 17:00 | Ballet -  “O Quebra Nozes” | Theatro Municipal do Rio de Janeiro, Praça Floriano, S/N - Centro [...] | a partir de R$ 10 | datas: 2026-12-10 19:00; 2026-12-11 19:00; 2026-12-12 19:00; 2026-12-13 17:00; 2026-12-16 19:00; 2026-12-17 19:00; 2026-12-18 19:00; 2026-12-19 19:00; 2026-12-20 17:00; 2026-12-22 19:00 || ATENÇÃO! Não será permitido o acesso de espectadores à Sala de Espetáculos após o início da apresentação",
    "id": "f-e7300b7d46",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não descreve o espetáculo;",
+   "aviso": "",
+   "titulo": "O Circo Se Constrói",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Renato Russo",
+   "endereco": "Parque Poeta Manuel Bandeira, s/nº",
+   "bairro": "Cocotá (Ilha do Governador)",
+   "regiao": "Zona Norte",
+   "sinopse": "Espetáculo \"O Circo Se Constrói\" na Areninha Cultural Renato Russo, na Ilha do Governador.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129212",
+   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 19:00 | O Circo Se Constrói | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0 | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/129212",
+   "id": "f-ebbedebb15",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -7820,6 +8480,41 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Cely Leal. Organizadora: Cely Leal (pessoa física, não órgão público).",
+   "aviso": "",
+   "titulo": "Noitada de Samba – Foco de Resistência: filme e relançamento do livro",
+   "areas": [
+    "Livros & Debates",
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Exibição do filme \"Noitada de Samba – Foco de Resistência\" e relançamento do livro de mesmo nome no Centro Cultural da Justiça Federal.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/noitada-de-samba-foco-de-resistencia-exibicao-do-filme-e-relancamento-do-livro-homonimo/3655828",
+   "trecho_fonte": "2026-11-27 18:00 até 2026-11-27 20:00 | Noitada de Samba Foco de Resistência - Exibição do filme e relançamento do livro homônimo | Centro Cultural da Justiça Federal, Avenida Rio Branco Centro | organizador: Cely Leal | https://www.sympla.com.br/evento/noitada-de-samba-foco-de-resistencia-exibicao-do-filme-e-relancamento-do-livro-homonimo/3655828",
+   "id": "f-f7e52c2e2c",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-23",
      "hora": "20:00"
     }
@@ -7847,6 +8542,76 @@
    "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 22:00 | Marcos Ariel Quarteto | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar",
    "id": "f-fb442c15f2",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
+   "aviso": "dias",
+   "titulo": "Simplesmente Shakespeare: Romeu e Julieta",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Montagem de \"Romeu e Julieta\", de Shakespeare, em temporada no Teatro Municipal Domingos Oliveira, na Gávea, até 10 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129970",
+   "trecho_fonte": "2026-11-25 20:00 até 2026-12-10 20:00 | Simplesmente Shakespeare - Romeu e Julieta | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129970",
+   "id": "f-ff4b3d06a0",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-22"
   }
  ]
 }

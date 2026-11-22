@@ -624,6 +624,38 @@
    "veredito": "duvida",
    "detalhe": "ArtRio diz 29/11/2026; Arte que Acontece diz 21/02/2027",
    "resolucao": ""
+  },
+  {
+   "id": "f-a9d2e23843",
+   "titulo": "Ruído Bruto",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte não diz o gênero; Teatro presumido pelo palco.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-9c2207768d",
+   "titulo": "Gosto Amargo na Pele",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte não diz o gênero; Teatro presumido pelo palco.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-c21b141a4f",
+   "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte não detalha a programação; Teatro é suposição.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-24c0dccb9e",
+   "titulo": "Som Bonde Carioca em Tão Iguais",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "Texto da fonte cortado antes da descrição; Música presumida pelo nome.",
+   "resolucao": ""
   }
  ]
 }
