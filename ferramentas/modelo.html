@@ -196,6 +196,22 @@ h2.secao::before,section.bloco::before{top:2px}
 .dia.novo[aria-pressed=true]::before{animation:assenta .26s cubic-bezier(.2,.9,.3,1.2)}
 @keyframes assenta{from{transform:scale(.72);opacity:.35}to{transform:scale(1);opacity:1}}
 @media (prefers-reduced-motion: reduce){.dia.novo[aria-pressed=true]::before{animation:none}}
+
+/* Tela inicial mais limpa (22/11/2026): controles discretos no canto, áreas numa linha só que rola,
+   cartão com menos etiquetas (classificação e acessibilidade vão para o detalhe). */
+.marca{position:relative}
+.marca .controles{position:absolute;top:-12px;right:-8px;order:0;flex:none;gap:0}
+#tema,.idiomas button{border:none;background:transparent;color:var(--tinta2);font:600 13px var(--sans);padding:12px 7px;min-height:44px;border-radius:8px}
+.idiomas{gap:0}
+.idiomas button[aria-pressed=true]{background:transparent;color:var(--acento);text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:2px}
+#tema{margin-right:4px}
+header.topo{padding-top:24px}
+.sub{margin-bottom:0}
+.chips.secoes{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin-right:-18px;padding-right:18px}
+.chips.secoes::-webkit-scrollbar{display:none}
+.chips.secoes .chip{flex:0 0 auto}
+.nota-boa{margin:0}
+.extra{font-size:13px;color:var(--tinta2);margin:-4px 0 10px}
 </style>
 </head>
 <body>
@@ -211,7 +227,6 @@ h2.secao::before,section.bloco::before{top:2px}
     </div>
   </div>
   <p class="sub" data-t="sub">Agenda cultural do Rio de Janeiro</p>
-  <p class="edicao" id="edicao"></p>
 </header>
 
 <div class="busca">
@@ -224,7 +239,7 @@ h2.secao::before,section.bloco::before{top:2px}
 
 <section id="boa">
   <h2 class="qb">A boa de hoje</h2>
-  <p class="nota-boa"><span data-t="boaSub">Os destaques do dia, escolhidos com critérios públicos.</span> <a href="#criterios" data-t="como">Como escolhemos</a></p>
+  <p class="nota-boa"><a href="#criterios" data-t="como">Como escolhemos</a></p>
   <ul class="lista" id="destaques"></ul>
 </section>
 
@@ -282,7 +297,7 @@ const D = /*__DADOS__*/null;
 const AREAS = ["Música","Teatro","Artes Visuais","Cinema","Livros & Debates","Festas & Feiras","Infantil"];
 const REGIOES = ["Centro","Zona Sul","Zona Sudoeste","Zona Norte","Zona Oeste"];
 const T = {
- pt:{sub:"Agenda cultural do Rio de Janeiro",qb:"A boa de hoje",rua:"Na rua",ruaTag:"Na rua",busca:"Buscar: artista, lugar, bairro…",toda:"Toda a programação",boaSub:"Os destaques do dia, escolhidos com critérios públicos.",como:"Como escolhemos",semDest:"Nenhum destaque com esses filtros. Veja a programação completa abaixo.",critTit:"Como escolhemos os destaques",critTxt:"A curadoria é feita com apoio de inteligência artificial e regras fixas, conferidas automaticamente a cada edição: pelo menos três regiões da cidade e três áreas por dia; ao menos metade grátis ou a preço popular; no máximo um destaque por espaço; sempre algum espaço público, comunitário ou sem fins lucrativos; só eventos com informação conferida; nunca patrocínio. Dentro dessas regras pesam a relevância artística, a raridade (estreia, última sessão, evento único) e o valor para a memória e o território.",filtros:"Filtros ▾",area:"Área",regiao:"Região",gratis:"Só grátis",popular:"Até R$ 40",
+ pt:{classif:"Classificação",sub:"Agenda cultural do Rio de Janeiro",qb:"A boa de hoje",rua:"Na rua",ruaTag:"Na rua",busca:"Buscar: artista, lugar, bairro…",toda:"Toda a programação",boaSub:"Os destaques do dia, escolhidos com critérios públicos.",como:"Como escolhemos",semDest:"Nenhum destaque com esses filtros. Veja a programação completa abaixo.",critTit:"Como escolhemos os destaques",critTxt:"A curadoria é feita com apoio de inteligência artificial e regras fixas, conferidas automaticamente a cada edição: pelo menos três regiões da cidade e três áreas por dia; ao menos metade grátis ou a preço popular; no máximo um destaque por espaço; sempre algum espaço público, comunitário ou sem fins lucrativos; só eventos com informação conferida; nunca patrocínio. Dentro dessas regras pesam a relevância artística, a raridade (estreia, última sessão, evento único) e o valor para a memória e o território.",filtros:"Filtros ▾",area:"Área",regiao:"Região",gratis:"Só grátis",popular:"Até R$ 40",
    baixar:"＋ Levar para minha agenda",cartaz:"Em cartaz",hoje:"Hoje",ate:"até",boaMes:"A boa do mês",boaMesSub:"O que vale planejar desde já, nos próximos dois meses",verBoaMes:"Ver a boa do mês →",progAte:"Programação até ",avisoDias:"Temporada sem os dias informados pela fonte: listamos de quinta a domingo. Confira os dias no link do evento antes de ir.",
    n:(n)=>n===1?"1 atividade":`${n} atividades`,vazio:"Nada encontrado com esses filtros. Que tal outra região?",gradeTit:"Grade dos cinemas",gradeBusca:(n)=>n===1?"1 filme em cartaz com esse título.":`${n} filmes em cartaz com esse título. Toque num filme para ver cinemas e horários.`,gradeNCines:(n)=>n===1?"1 cinema":`${n} cinemas`,gradeTxt:(n,f)=>`${n} cinemas, ${f} filmes neste dia. Toque num cinema para ver os horários.`,
    agenda:"Adicionar à agenda",compartilhar:"Compartilhar",maisInfo:"Mais informações",saibaMais:"Saiba mais",ingressos:"Ingressos",ingressosHora:"Ingressos para a sessão das ",chegar:"Como chegar",fonte:"Fonte oficial",aconf:"a confirmar",gratisTag:"Grátis",popTag:"Preço popular",
@@ -295,7 +310,7 @@ const T = {
    erro:"Encontrou um erro ou quer enviar a programação do seu espaço? Escreva para nós (endereço de contato a definir).",
    teste:"Prévia de teste: ainda com poucas fontes.",
    dias:["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],fontes:"Fontes desta edição: ",naoinf:"Preço não informado"},
- en:{sub:"What's on in Rio · Cultural guide",qb:"Today's picks",rua:"Outdoors",ruaTag:"Outdoors",busca:"Search: artist, venue, neighborhood…",toda:"Full programme",boaSub:"Today\u2019s highlights, chosen by public criteria.",como:"How we choose",semDest:"No highlights match these filters. See the full programme below.",critTit:"How we choose highlights",critTxt:"Curation is AI-assisted under fixed rules checked automatically every edition: at least three areas of the city and three categories a day; at least half free or low-price; one highlight per venue at most; always a public, community or non-profit venue; only verified listings; never sponsorship.",filtros:"Filters ▾",area:"Category",regiao:"Area of the city",gratis:"Free only",popular:"Up to R$ 40",
+ en:{classif:"Age rating",sub:"What's on in Rio · Cultural guide",qb:"Today's picks",rua:"Outdoors",ruaTag:"Outdoors",busca:"Search: artist, venue, neighborhood…",toda:"Full programme",boaSub:"Today\u2019s highlights, chosen by public criteria.",como:"How we choose",semDest:"No highlights match these filters. See the full programme below.",critTit:"How we choose highlights",critTxt:"Curation is AI-assisted under fixed rules checked automatically every edition: at least three areas of the city and three categories a day; at least half free or low-price; one highlight per venue at most; always a public, community or non-profit venue; only verified listings; never sponsorship.",filtros:"Filters ▾",area:"Category",regiao:"Area of the city",gratis:"Free only",popular:"Up to R$ 40",
    baixar:"＋ Add to my calendar",cartaz:"Exhibitions",hoje:"Today",ate:"until",boaMes:"Book ahead",boaMesSub:"Worth planning for now, over the next two months",verBoaMes:"See what to book ahead →",progAte:"Listings through ",avisoDias:"The source does not give the exact days of this run: we list Thursday to Sunday. Check the dates at the event link before you go.",
    n:(n)=>n===1?"1 event":`${n} events`,vazio:"Nothing matches these filters. Try another area of the city?",gradeTit:"Cinema showtimes",gradeBusca:(n)=>n===1?"1 film showing with that title.":`${n} films showing with that title. Tap a film to see cinemas and times.`,gradeNCines:(n)=>n===1?"1 cinema":`${n} cinemas`,gradeTxt:(n,f)=>`${n} cinemas, ${f} films this day. Tap a cinema to see showtimes.`,
    agenda:"Add to calendar",compartilhar:"Share",maisInfo:"More info",saibaMais:"Learn more",ingressos:"Tickets",ingressosHora:"Tickets for the showing at ",chegar:"Directions",fonte:"Official source",aconf:"to be confirmed",gratisTag:"Free",popTag:"Low price",
@@ -308,7 +323,7 @@ const T = {
    erro:"Found a mistake or want to send your venue's programme? Write to us (contact address to be defined).",
    teste:"Test preview: few sources so far. Descriptions in Portuguese.",
    dias:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],fontes:"Sources: ",naoinf:"Price not informed"},
- es:{sub:"Agenda cultural de Río de Janeiro",qb:"Lo bueno de hoy",rua:"En la calle",ruaTag:"En la calle",busca:"Buscar: artista, lugar, barrio…",toda:"Toda la programación",boaSub:"Los destacados del día, elegidos con criterios públicos.",como:"Cómo elegimos",semDest:"Ningún destacado con estos filtros. Mira la programación completa abajo.",critTit:"Cómo elegimos los destacados",critTxt:"La curaduría usa inteligencia artificial bajo reglas fijas verificadas en cada edición: al menos tres regiones y tres áreas por día; mitad o más gratis o a precio popular; un destacado por espacio como máximo; siempre algún espacio público, comunitario o sin fines de lucro; solo información verificada; nunca patrocinio.",filtros:"Filtros ▾",area:"Área",regiao:"Región",gratis:"Solo gratis",popular:"Hasta R$ 40",
+ es:{classif:"Clasificación",sub:"Agenda cultural de Río de Janeiro",qb:"Lo bueno de hoy",rua:"En la calle",ruaTag:"En la calle",busca:"Buscar: artista, lugar, barrio…",toda:"Toda la programación",boaSub:"Los destacados del día, elegidos con criterios públicos.",como:"Cómo elegimos",semDest:"Ningún destacado con estos filtros. Mira la programación completa abajo.",critTit:"Cómo elegimos los destacados",critTxt:"La curaduría usa inteligencia artificial bajo reglas fijas verificadas en cada edición: al menos tres regiones y tres áreas por día; mitad o más gratis o a precio popular; un destacado por espacio como máximo; siempre algún espacio público, comunitario o sin fines de lucro; solo información verificada; nunca patrocinio.",filtros:"Filtros ▾",area:"Área",regiao:"Región",gratis:"Solo gratis",popular:"Hasta R$ 40",
    baixar:"＋ Llevar a mi agenda",cartaz:"Exposiciones",hoje:"Hoy",ate:"hasta",boaMes:"Lo bueno del mes",boaMesSub:"Para planear desde ya, en los próximos dos meses",verBoaMes:"Ver lo bueno del mes →",progAte:"Programación hasta el ",avisoDias:"La fuente no informa los días exactos de la temporada: la listamos de jueves a domingo. Confirma las fechas en el enlace del evento antes de ir.",
    n:(n)=>n===1?"1 actividad":`${n} actividades`,vazio:"Nada con estos filtros. ¿Probamos otra región?",gradeTit:"Cartelera de cines",gradeBusca:(n)=>n===1?"1 película en cartel con ese título.":`${n} películas en cartel con ese título. Toca una película para ver cines y horarios.`,gradeNCines:(n)=>n===1?"1 cine":`${n} cines`,gradeTxt:(n,f)=>`${n} cines, ${f} películas este día. Toca un cine para ver los horarios.`,
    agenda:"Añadir a la agenda",compartilhar:"Compartir",maisInfo:"Más información",saibaMais:"Más información",ingressos:"Entradas",ingressosHora:"Entradas para la sesión de las ",chegar:"Cómo llegar",fonte:"Fuente oficial",aconf:"por confirmar",gratisTag:"Gratis",popTag:"Precio popular",
@@ -386,9 +401,10 @@ function card(it,k,porque,horaVisivel){
   return `<li class="ev${aberto?" aberto":""}" data-id="${id}">
    <button class="abre" aria-expanded="${aberto}">${(porque||horaVisivel)&&it.hora?`<div class="quando">${hh(it.hora)}</div>`:""}<h3>${esc(e.titulo)}</h3>${porque?`<p class="porque">${esc(porque)}</p>`:""}
    <div class="onde"><strong>${esc(e.local)}</strong> · ${esc(e.bairro||"—")}${quando?`<br>${quando}`:""}</div>${e.aviso==="dias"?`<div class="avd">${t("avisoDias")}</div>`:""}
-   <div class="tags">${precoTag(e)}${e.areas.map(a=>`<span class="tag">${esc(tA(a))}</span>`).join("")}${e.na_rua?`<span class="tag">${t("ruaTag")}</span>`:""}${e.classificacao?`<span class="tag">${esc(e.classificacao)}</span>`:""}${e.acessibilidade?`<span class="tag" title="${esc(e.acessibilidade)}">♿︎ ${esc(e.acessibilidade)}</span>`:""}${e.status==="a_confirmar"?`<span class="tag conf">${t("aconf")}</span>`:""}</div></button>
+   <div class="tags">${precoTag(e)}${e.areas.slice(0,1).map(a=>`<span class="tag">${esc(tA(a))}</span>`).join("")}${e.na_rua?`<span class="tag">${t("ruaTag")}</span>`:""}${e.status==="a_confirmar"?`<span class="tag conf">${t("aconf")}</span>`:""}</div></button>
    <div class="mais"><p>${esc(sin(e))}</p>
     <p style="font-size:13px;color:var(--tinta2)">${esc(e.endereco)} – ${esc(e.bairro)} · ${esc(e.regiao)}</p>
+    ${e.classificacao||e.acessibilidade?`<p class="extra">${e.classificacao?`${t("classif")}: ${esc(e.classificacao)}`:""}${e.classificacao&&e.acessibilidade?" · ":""}${e.acessibilidade?`♿︎ ${esc(e.acessibilidade)}`:""}</p>`:""}
     <div class="acoes">${e.tipo==="evento"?`<button class="btn cheio" data-ics="${e.id}|${it.hora}|${it.data&&it.data!=="~"?it.data:S.dia}">${t("agenda")}</button>`:""}
      <button class="btn" data-comp="${e.id}|${it.hora||""}|${e.tipo==="cartaz"?"~":(it.data&&it.data!=="~"?it.data:S.dia)}">${t("compartilhar")}</button>
      <a class="btn" href="${mapa}" target="_blank" rel="noopener">${t("chegar")}</a>
@@ -414,7 +430,7 @@ function render(){
   document.querySelectorAll("[data-t]").forEach(el=>{const v=t(el.dataset.t); if(typeof v==="string") el.textContent=v;});
   document.querySelector("#q").placeholder=t("busca");
   document.querySelectorAll(".idiomas button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.lang===S.lang));
-  document.querySelector("#edicao").textContent = t("progAte") + new Date(ED.fim+"T12:00:00Z").toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang,{day:"numeric",month:"long",timeZone:"UTC"});
+  const ed=document.querySelector("#edicao"); if(ed) ed.textContent = t("progAte") + new Date(ED.fim+"T12:00:00Z").toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang,{day:"numeric",month:"long",timeZone:"UTC"});
   const dn = (S.dia==="cartaz"||S.dia==="mes")?null:dDia(S.dia);
   document.querySelector(".qb").textContent = S.dia==="cartaz"? t("cartaz") : S.dia==="mes"? t("boaMes") : (S.dia===hojeISO? t("qb") :
     tituloDia(dn));

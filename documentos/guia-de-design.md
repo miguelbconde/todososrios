@@ -300,6 +300,13 @@ Ressalva registrada: o que mais diz "Rio" tende a ser a marca, ainda por desenha
 
 **Ícone de aplicativo (22/11/2026).** Para o site poder ser instalado no celular como aplicativo, o ícone é o "R." da marca: "R" na Source Serif 4 (peso 600) na cor do texto (`#2a2623`), ponto em cor de sol (`#d96c14`), sobre o fundo de areia (`#f8f4ec`), com folga nas bordas para caber também nos recortes redondos do Android. Desenhado em vetor a partir da própria fonte (sem depender dela instalada); arquivos em `docs/icones/`. Serve também de ícone da aba do navegador.
 
+**Tela inicial mais limpa (22/11/2026).** A coordenação editorial achou a tela inicial carregada. Ajustes:
+- O botão de modo e os idiomas saem da linha própria e vão para o canto, ao lado de "TODOS OS", como texto simples (idioma ativo sublinhado na cor de seleção). A área de toque continua com 44 px.
+- Sai do cabeçalho a linha "Programação até…": a faixa de dias já mostra até onde vai.
+- As áreas (Música, Teatro…) ficam numa linha só, que rola para o lado, em vez de duas linhas.
+- Sob "A boa de hoje" fica só o link "Como escolhemos".
+- A face da ficha mostra no máximo três etiquetas: preço ou grátis, a área principal e "Na rua". Classificação indicativa e acessibilidade passam para o detalhe da ficha, por extenso (antes apareciam cortadas). A busca e os filtros continuam usando todas as áreas.
+
 **Passos seguintes, quando for a hora:**
 1. Dois ou três estudos da mesma tela (o dia de hoje, no celular), lado a lado.
 2. Medir contraste e testar com letra ampliada e leitor de tela.
