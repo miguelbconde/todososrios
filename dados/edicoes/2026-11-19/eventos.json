@@ -1754,6 +1754,38 @@
    "entrou_em": "2026-11-22"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Samba Colinda com Adilson da Vila",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Boteco Colinda",
+   "endereco": "Avenida das Américas",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Samba com o cantor Adilson da Vila e feijoada no Boteco Colinda, na Barra da Tijuca, das 14h às 16h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-colinda-22-11-com-cantor-adilson-da-vila-feijoada/3656507",
+   "trecho_fonte": "2026-11-22 14:00 até 2026-11-22 16:00 | SAMBA COLINDA (22/11)  com Cantor Adilson Da Vila + Feijoada | Boteco Colinda, Avenida das Américas Barra da Tijuca | organizador: Boteco Colinda | https://www.sympla.com.br/evento/samba-colinda-22-11-com-cantor-adilson-da-vila-feijoada/3656507",
+   "id": "f-69e3be5dce",
+   "entrou_em": "2026-11-22"
+  },
+  {
    "titulo": "Rio Maracatu",
    "areas": [
     "Música"
@@ -1849,6 +1881,134 @@
    "nota_redacao": "A fonte não informa o preço.",
    "id": "2026-11-19-143",
    "entrou_em": "2026-11-19"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Classificado como infantil pelo título e pelo horário; a listagem não diz a faixa etária. Bairro pelo endereço.",
+   "titulo": "Brincando com Bento e Totó",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Clara Nunes",
+   "endereco": "Rua Marquês de São Vicente, 52, loja 370",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo Brincando com Bento e Totó no Teatro Clara Nunes, na Gávea, domingo às 15h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/115633",
+   "trecho_fonte": "2026-11-22 15:00 até 2026-11-22 15:00 | Brincando com Bento e Totó | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370  | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/115633",
+   "id": "f-05a34eb9f9",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá nome do espaço nem bairro; bairro pelo endereço (a conferir).",
+   "titulo": "Samba dos Fidalgos – 2ª edição",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Av. Cônego Vasconcelos, 891",
+   "endereco": "Avenida Cônego Vasconcelos, 891",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Segunda edição do Samba dos Fidalgos, na Avenida Cônego Vasconcelos, das 15h às 23h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-dos-fidalgos-2a-edicao/3640558",
+   "trecho_fonte": "2026-11-22 15:00 até 2026-11-22 23:30 | Samba dos Fidalgos / 2ª edição | Av. Cônego Vasconcelos, 891, Avenida Cônego Vasconcelos  | organizador: Dani Rodrigues | https://www.sympla.com.br/evento/samba-dos-fidalgos-2a-edicao/3640558",
+   "id": "f-421f7a21f2",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o nome do espaço, só o endereço.",
+   "titulo": "Então Tah! – Roda de Samba LGBTQIAPN+",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Av. Dom Hélder Câmara, 7775",
+   "endereco": "Avenida Dom Hélder Câmara, 7775",
+   "bairro": "Piedade",
+   "regiao": "Zona Norte",
+   "sinopse": "Roda de samba LGBTQIAPN+ em Piedade, das 15h às 23h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/entao-tah-roda-de-samba-lgbtqiapn/3654621",
+   "trecho_fonte": "2026-11-22 15:00 até 2026-11-22 23:30 | ENTÃO TAH! - RODA DE SAMBA LGBTQIAPN+ | Av. Dom Hélder Câmara, 7775, Avenida Dom Hélder Câmara Piedade | organizador: Claudio Fernandess | https://www.sympla.com.br/evento/entao-tah-roda-de-samba-lgbtqiapn/3654621",
+   "id": "f-5e0f7cddba",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado).",
+   "titulo": "Samba do Xoxó no Terraço da Vila",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Terraço da Vila",
+   "endereco": "Rua Barão de São Francisco, 236",
+   "bairro": "Vila Isabel",
+   "regiao": "Zona Norte",
+   "sinopse": "Samba do Xoxó no Terraço da Vila, em Vila Isabel, das 15h às 23h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-do-xoxo-no-terraco-da-vila/3652748",
+   "trecho_fonte": "2026-11-22 15:00 até 2026-11-22 23:00 | SAMBA DO XOXO NO TERRAÇO DA VILA | R. Barão de São Francisco, 236, Rua Barão de São Francisco Vila Isabel | organizador: Terraço da Vila | https://www.sympla.com.br/evento/samba-do-xoxo-no-terraco-da-vila/3652748",
+   "id": "f-7d69feeb3e",
+   "entrou_em": "2026-11-22"
   },
   {
    "titulo": "Quintal",
@@ -2159,6 +2319,38 @@
    "acessibilidade": "",
    "na_rua": false,
    "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Roda de Samba do Vinny Santa Fé",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Essência do Samba",
+   "endereco": "Rua Honório",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Roda de samba do Vinny Santa Fé no Essência do Samba, no Cachambi, a partir das 16h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/roda-de-samba-do-vinny-santa-fe-22-11-essencia-do-samba/3645389",
+   "trecho_fonte": "2026-11-22 16:00 até 2026-11-23 02:00 | Roda de Samba do Vinny Santa Fé (22/11) - Essência do Samba | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/roda-de-samba-do-vinny-santa-fe-22-11-essencia-do-samba/3645389",
+   "id": "f-71017228ea",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
    "titulo": "Saideiras Casuais + Marcelle Motta + Marina Iris + Quilombo de Irajá",
    "areas": [
     "Música"
@@ -2276,6 +2468,38 @@
    "nota_redacao": "Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.",
    "id": "2026-11-19-177",
    "entrou_em": "2026-11-19"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
+   "titulo": "Pé do Meu Samba, a Roda – 2ª edição",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa Baixo Gávea",
+   "endereco": "Praça Santos Dumont",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Segunda edição da roda Pé do Meu Samba, na Casa Baixo Gávea, das 17h à meia-noite.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pe-do-meu-samba-a-roda-2a-edicao/3644047",
+   "trecho_fonte": "2026-11-22 17:00 até 2026-11-22 23:59 | PÉ DO MEU SAMBA, A RODA (2a edição) | Casa Baixo Gávea, Praça Santos Dumont Gávea | organizador: Ialode Produções Artística | https://www.sympla.com.br/evento/pe-do-meu-samba-a-roda-2a-edicao/3644047",
+   "id": "f-f62f029adb",
+   "entrou_em": "2026-11-22"
   },
   {
    "titulo": "Equina",
@@ -2437,6 +2661,38 @@
    "link": "https://www.sympla.com.br/evento/o-neguinho-da-beija-flor-musical/3646572",
    "trecho_fonte": "2026-11-22 18:00 até 2026-11-22 19:50 | O Neguinho da Beija Flor - Musical | Teatro Dulcina, Rua Alcindo Guanabara Centro - rj | organizador: Lapilar Produções",
    "id": "f-aa4f94a9ca",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-22",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). O número 27 vem do nome do espaço. A listagem não diz quem toca.",
+   "titulo": "Samba pra Roda na Capiberibe",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Capiberibe 27",
+   "endereco": "Rua Capiberibe, 27",
+   "bairro": "Santo Cristo",
+   "regiao": "Centro",
+   "sinopse": "Roda de samba no Centro Cultural Capiberibe 27, no Santo Cristo, das 18h até a madrugada.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-pra-roda-na-capiberibe/3655877",
+   "trecho_fonte": "2026-11-22 18:00 até 2026-11-23 00:30 | SAMBA PRA RODA NA CAPIBERIBE | CENTRO CULTURAL CAPIBERIBE 27, Rua Capiberibe Santo Cristo | organizador: CENTRO CULTUTAL CAPIBERIBE 27 | https://www.sympla.com.br/evento/samba-pra-roda-na-capiberibe/3655877",
+   "id": "f-dd058b1dea",
    "entrou_em": "2026-11-22"
   },
   {
@@ -2699,6 +2955,38 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-22",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço repetido da ficha do mesmo espaço na base. A listagem não diz a formação.",
+   "titulo": "Vozes do Brasil: Bossa & Outras Bossas",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Vinícius Show Bar",
+   "endereco": "Rua Vinícius de Moraes",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Vozes do Brasil apresenta o show Bossa & Outras Bossas no Vinícius Show Bar, das 20h às 22h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/vozes-do-brasil-no-show-bossa-outras-bossas/3641675",
+   "trecho_fonte": "2026-11-22 20:00 até 2026-11-22 22:00 | Vozes do Brasil no show “Bossa & Outras Bossas” | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar | https://www.sympla.com.br/evento/vozes-do-brasil-no-show-bossa-outras-bossas/3641675",
+   "id": "f-c762369089",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-23",
      "hora": "16:30"
     }
@@ -2888,6 +3176,38 @@
    "nota_redacao": "A página só dá o preço de terça a sábado; o de segunda-feira não é informado. O horário é o que a página do bar dá para a noite; a mesma página avisa que o show principal pode começar mais tarde.",
    "id": "2026-11-19-127",
    "entrou_em": "2026-11-19"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-23",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não detalha quem se apresenta.",
+   "titulo": "Xodó em Flor",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Show Xodó em Flor no Teatro Cândido Mendes, em Ipanema, na segunda à noite.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129554",
+   "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 20:00 | Show Xodó em Flor | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/129554",
+   "id": "f-2d78333860",
+   "entrou_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -3147,6 +3467,38 @@
    "entrou_em": "2026-11-22"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem toca.",
+   "titulo": "Pagode da Garagem",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Pagode da Garagem",
+   "endereco": "Praça Tiradentes",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Pagode de terça-feira na Praça Tiradentes, no Centro, a partir das 18h30 e até a madrugada.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3658843",
+   "trecho_fonte": "2026-11-24 18:30 até 2026-11-25 03:30 | Pagode da Garagem Toda Terça Não Se Esqueça | Pagode da Garagem, Praça Tiradentes Centro | organizador: Alison Martins | https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3658843",
+   "id": "f-8446b1e433",
+   "entrou_em": "2026-11-22"
+  },
+  {
    "titulo": "Lançamento duplo: A Vida Imprópria e O Arquivo como Gesto",
    "areas": [
     "Livros & Debates"
@@ -3315,6 +3667,102 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não detalha o repertório.",
+   "titulo": "Serial Funkers Clássicos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Clara Nunes",
+   "endereco": "Rua Marquês de São Vicente, 52, loja 370",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show Serial Funkers Clássicos no Teatro Clara Nunes, na Gávea, na terça à noite.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128893",
+   "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | SERIAL FUNKERS CLÁSSICOS | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370  | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/128893",
+   "id": "f-32dfa61e7e",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não diz quem se apresenta.",
+   "titulo": "Jazz em dobro: Michael Jackson & Stevie Wonder",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Jazz em dobro, show dedicado a Michael Jackson e Stevie Wonder, no Teatro Cândido Mendes, em Ipanema.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127722",
+   "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | Jazz em dobro: Michael Jackson & Stevie Wonder | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/127722",
+   "id": "f-3c83d02223",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Endereço repetido da ficha do mesmo espaço na base. Área escolhida pelo formato de espetáculo; a listagem não detalha.",
+   "titulo": "Game Drag Show com Samara Rios",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Game Drag Show com Samara Rios no Teatro Rival, na Cinelândia.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128074",
+   "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | GAME DRAG SHOW COM SAMARA RIOS | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128074",
+   "id": "f-a4b33a2570",
+   "entrou_em": "2026-11-22"
+  },
+  {
    "titulo": "Mesa-redonda: O Mundo que se Quer Esconder das Crianças",
    "areas": [
     "Livros & Debates"
@@ -3411,6 +3859,46 @@
    "entrou_em": "2026-11-19"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Horários das três sessões tirados do título do evento. A fonte não dá o número do endereço; bairro pelo nome do local.",
+   "titulo": "Peça para os Homens",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Axia Marina da Glória",
+   "endereco": "Avenida Infante Dom Henrique",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Peça para os Homens em dia único no Rio, com três sessões, às 17h, 19h e 21h, na Marina da Glória.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/peca-para-os-homens-rio-de-janeiro-dia-unico-25-de-novembro-com-3-sessoes-17h-19h-e-21h/3654723",
+   "trecho_fonte": "2026-11-25 17:00 até 2026-11-25 21:00 | PEÇA PARA OS HOMENS RIO DE JANEIRO DIA ÚNICO: 25 DE NOVEMBRO, COM 3 SESSÕES: 17h, 19h e 21h | Axia Marina da Glória, Avenida Infante Dom Henrique  | organizador: Natasha Corbelino | https://www.sympla.com.br/evento/peca-para-os-homens-rio-de-janeiro-dia-unico-25-de-novembro-com-3-sessoes-17h-19h-e-21h/3654723",
+   "id": "f-b49a9fecf5",
+   "entrou_em": "2026-11-22"
+  },
+  {
    "titulo": "Clube de Leitura CCBB com Raphael Montes",
    "areas": [
     "Livros & Debates"
@@ -3504,6 +3992,38 @@
    "link": "https://www.sympla.com.br/evento/lancamentro-do-livro-quando-o-morro-tiver-vez-no-rio-de-janeiro-2026/3651233",
    "trecho_fonte": "2026-11-25 18:00 até 2026-11-25 20:00 | Lançamentro do livro Quando o Morro Tiver Vez no Rio de Janeiro (2026) | Centro Cultural da Justiça Federal, Avenida Rio Branco Centro | organizador: Allan Borges Nogueira",
    "id": "f-dbedc656f5",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A listagem não diz quais corais participam. Endereço repetido da ficha do mesmo espaço na base.",
+   "titulo": "Encontro de Corais",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Vinícius Show Bar",
+   "endereco": "Rua Vinícius de Moraes",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Encontro de corais no Vinícius Show Bar, em Ipanema, das 18h30 às 20h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/encontro-de-corais/3627270",
+   "trecho_fonte": "2026-11-25 18:30 até 2026-11-25 20:00 | Encontro de Corais | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar | https://www.sympla.com.br/evento/encontro-de-corais/3627270",
+   "id": "f-d83d415248",
    "entrou_em": "2026-11-22"
   },
   {
@@ -3923,6 +4443,70 @@
    "nota_redacao": "Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.",
    "id": "2026-11-19-172",
    "entrou_em": "2026-11-19"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte dá o local só como 'QUADRA', sem número do endereço.",
+   "titulo": "Pagode do Túnel – Samba de Axé",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Quadra (Avenida Brasil)",
+   "endereco": "Avenida Brasil",
+   "bairro": "Vila Kennedy",
+   "regiao": "Zona Oeste",
+   "sinopse": "Pagode do Túnel, edição Samba de Axé, numa quadra da Avenida Brasil, em Vila Kennedy, a partir das 20h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagode-do-tunel-samba-de-axe/3647011",
+   "trecho_fonte": "2026-11-25 20:00 até 2026-11-26 01:00 | Pagode do Túnel - SAMBA DE AXÉ | QUADRA, Avenida Brasil VILA KENNEDY | organizador: MICHELLE ELOI GUIMARAES | https://www.sympla.com.br/evento/pagode-do-tunel-samba-de-axe/3647011",
+   "id": "f-e2a918e0a9",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A listagem marca abertura às 18h e o título diz 20h: usei 20h. Bairro pelo endereço; a fonte diz Centro. A fonte não dá o número do endereço.",
+   "titulo": "Samba do Xoxó e convidados",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco do Rato",
+   "endereco": "Rua Joaquim Silva",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Samba do Xoxó com convidados no Beco do Rato, na Lapa, na quarta à noite.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-do-xoxo-e-convidados-beco-do-rato-25-11-20h-quarta-feira/3644528",
+   "trecho_fonte": "2026-11-25 18:00 até 2026-11-26 00:30 | SAMBA DO XOXÓ E CONVIDADOS BECO DO RATO 25/11 20H - QUARTA FEIRA | Beco do Rato, Rua Joaquim Silva Centro | organizador: IGOR HANG | https://www.sympla.com.br/evento/samba-do-xoxo-e-convidados-beco-do-rato-25-11-20h-quarta-feira/3644528",
+   "id": "f-f6fe4a46e3",
+   "entrou_em": "2026-11-22"
   },
   {
    "cartaz": null,
