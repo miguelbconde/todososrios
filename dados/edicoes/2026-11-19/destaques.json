@@ -144,34 +144,96 @@
     "automatico": true
    }
   ],
+  "2026-12-01": [
+   {
+    "id": "f-5f105e75e1",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
+    "automatico": true
+   }
+  ],
   "2026-12-02": [
    {
     "id": "2026-11-19-116",
     "porque": "De graça, em Tijuca.",
     "automatico": true
+   },
+   {
+    "id": "f-5d78dd59cd",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-a2c6e8e1a7",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2026-12-03": [
+   {
+    "id": "f-e4798b7411",
+    "porque": "Em Vista Alegre.",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-31041482e5",
+    "porque": "Em Humaitá.",
+    "automatico": true
+   },
+   {
+    "id": "f-eaa477ab3e",
+    "porque": "Em Praça XI.",
+    "automatico": true
+   },
    {
     "id": "f-ef4b37b8ed",
     "porque": "Em Santa Teresa.",
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
-    "porque": "Em Gávea.",
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
     "automatico": true
    }
   ],
   "2026-12-04": [
    {
-    "id": "f-ef4b37b8ed",
-    "porque": "Em Santa Teresa.",
+    "id": "f-216d584925",
+    "porque": "Em Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
+    "id": "f-394e86f0c0",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-90cb83d106",
+    "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-2428b38459",
     "porque": "Em Gávea.",
+    "automatico": true
+   },
+   {
+    "id": "f-ef4b37b8ed",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
@@ -182,25 +244,67 @@
     "automatico": true
    },
    {
-    "id": "f-ef4b37b8ed",
-    "porque": "Em Santa Teresa.",
+    "id": "f-1b5f7ef2ba",
+    "porque": "Em Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
+    "id": "f-2980b29edb",
+    "porque": "Em Pavuna.",
+    "automatico": true
+   },
+   {
+    "id": "f-5cd31fccb9",
+    "porque": "Em Pedra de Guaratiba.",
+    "automatico": true
+   },
+   {
+    "id": "f-088e8527d9",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-2428b38459",
     "porque": "Em Gávea.",
     "automatico": true
    }
   ],
   "2026-12-06": [
    {
-    "id": "f-ef4b37b8ed",
-    "porque": "Em Santa Teresa.",
+    "id": "f-199d2ee2af",
+    "porque": "Em Penha Circular.",
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
+    "id": "f-5822127c1d",
+    "porque": "Em Realengo.",
+    "automatico": true
+   },
+   {
+    "id": "f-b17c85b4fa",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-d2ba37a102",
+    "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-2428b38459",
     "porque": "Em Gávea.",
+    "automatico": true
+   }
+  ],
+  "2026-12-08": [
+   {
+    "id": "f-97527d1876",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -211,8 +315,28 @@
     "automatico": true
    },
    {
-    "id": "f-ff4b3d06a0",
+    "id": "f-c212229e5d",
+    "porque": "Em Madureira.",
+    "automatico": true
+   },
+   {
+    "id": "f-51fccee40a",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-74400b5b7e",
+    "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-2428b38459",
     "porque": "Em Gávea.",
+    "automatico": true
+   },
+   {
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
     "automatico": true
    }
   ],
@@ -220,6 +344,31 @@
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-1e4cfb5e99",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-46ea0de5be",
+    "porque": "Em Realengo.",
+    "automatico": true
+   },
+   {
+    "id": "f-0c3c947f28",
+    "porque": "Em Gamboa.",
+    "automatico": true
+   },
+   {
+    "id": "f-96ac8e8073",
+    "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-2428b38459",
+    "porque": "Em Gávea.",
     "automatico": true
    }
   ],
@@ -233,12 +382,57 @@
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
+   },
+   {
+    "id": "f-cc108ee630",
+    "porque": "Em Penha Circular.",
+    "automatico": true
+   },
+   {
+    "id": "f-e5752a0029",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-2428b38459",
+    "porque": "Em Gávea.",
+    "automatico": true
+   },
+   {
+    "id": "f-b945f69659",
+    "porque": "Em Tijuca.",
+    "automatico": true
    }
   ],
   "2026-12-13": [
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-2e833de58e",
+    "porque": "Em Penha Circular.",
+    "automatico": true
+   },
+   {
+    "id": "f-f78460d8a7",
+    "porque": "Em Madureira.",
+    "automatico": true
+   },
+   {
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
+    "automatico": true
+   },
+   {
+    "id": "f-b945f69659",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -247,12 +441,37 @@
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
+   },
+   {
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
+    "automatico": true
    }
   ],
   "2026-12-17": [
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-a5beeec037",
+    "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-345c3d2ed6",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-4e91eb3d3d",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -261,6 +480,21 @@
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
+   },
+   {
+    "id": "f-c3ec0cdbd0",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-4e91eb3d3d",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2026-12-19": [
@@ -268,12 +502,37 @@
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-345c3d2ed6",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-4e91eb3d3d",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2026-12-20": [
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-345c3d2ed6",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
@@ -321,11 +580,13 @@
  ],
  "automaticos": [
   "2026-11-30",
+  "2026-12-01",
   "2026-12-02",
   "2026-12-03",
   "2026-12-04",
   "2026-12-05",
   "2026-12-06",
+  "2026-12-08",
   "2026-12-10",
   "2026-12-11",
   "2026-12-12",

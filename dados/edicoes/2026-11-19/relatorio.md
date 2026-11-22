@@ -1,16 +1,16 @@
 # Relatório da edição — Programação de hoje até 21 de janeiro de 2027
 
-- Eventos e exposições: **654** (608 eventos com 6478 sessões; 46 em cartaz)
+- Eventos e exposições: **694** (648 eventos com 6558 sessões; 46 em cartaz)
 - Grátis: **54** · preço popular (até R$ 40): **81**
-- Conferidos sem ressalva: **643** · a confirmar: **11**
+- Conferidos sem ressalva: **683** · a confirmar: **11**
 
 ## Distribuição por região
 
-- Centro: 80
-- Zona Sul: 188
-- Zona Sudoeste: 160
-- Zona Norte: 168
-- Zona Oeste: 58
+- Centro: 91
+- Zona Sul: 191
+- Zona Sudoeste: 164
+- Zona Norte: 187
+- Zona Oeste: 61
 
 ## Conferente independente (IA)
 
@@ -183,6 +183,46 @@
 - [baixa] **Domingo das Crianças: Árvore de Histórias** (f-e2b00c012e) — Preço não informado na fonte
 - [baixa] **Gilsons** (f-37698fe132) — Preço não informado na fonte
 - [baixa] **Yuri Marçal: Macumbeiro** (f-1db2b26c64) — Preço não informado na fonte
+- [baixa] **Ensaio aberto: X-I-N’TEA** (f-5f105e75e1) — Preço não informado na fonte
+- [baixa] **Primeira Pessoa** (f-abe3a23c33) — Preço não informado na fonte
+- [baixa] **Tempo Travesso** (f-5d78dd59cd) — Preço não informado na fonte
+- [baixa] **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** (f-a2c6e8e1a7) — Preço não informado na fonte
+- [baixa] **Dia de Jogo** (f-176da8f5f3) — Preço não informado na fonte
+- [baixa] **O Pulso Ainda Pulsa** (f-eaa477ab3e) — Preço não informado na fonte
+- [baixa] **Violões Itinerantes: Do Rio a Exu** (f-31041482e5) — Preço não informado na fonte
+- [baixa] **Jhordan Matheus: Passando de Fase** (f-e4798b7411) — Preço não informado na fonte
+- [baixa] **1º Encontro de Violonistas Compositores: Andrea Perrone** (f-216d584925) — Preço não informado na fonte
+- [baixa] **VibraSons** (f-394e86f0c0) — Preço não informado na fonte
+- [baixa] **Procura-se Messias** (f-2428b38459) — Preço não informado na fonte
+- [baixa] **Jhordan Matheus: Passando de Fase** (f-90cb83d106) — Preço não informado na fonte
+- [baixa] **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** (f-088e8527d9) — Preço não informado na fonte
+- [baixa] **Burning Love Band: An Elvis Tribute** (f-1b5f7ef2ba) — Preço não informado na fonte
+- [baixa] **Samblack II com Paula Quintanilha** (f-9963fe047d) — Preço não informado na fonte
+- [baixa] **Wêlson Nunes** (f-2980b29edb) — Preço não informado na fonte
+- [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-5cd31fccb9) — Preço não informado na fonte
+- [baixa] **1º Encontro de Violonistas Compositores: concerto com convidados** (f-b17c85b4fa) — Preço não informado na fonte
+- [baixa] **Bruno Bellandi e Banda: Feijão Retrô** (f-d2ba37a102) — Preço não informado na fonte
+- [baixa] **Mulheres ao Vento – A Terra que Piso é Maré** (f-199d2ee2af) — Preço não informado na fonte
+- [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-ad2ab9a962) — Preço não informado na fonte
+- [baixa] **Diogo Defante: especial de fim de ano** (f-5822127c1d) — Preço não informado na fonte
+- [baixa] **Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos** (f-97527d1876) — Preço não informado na fonte
+- [baixa] **Quarteto Jequitibá – Série Vitrine Musical UNIRIO** (f-51fccee40a) — Preço não informado na fonte
+- [baixa] **Hienas: Uma Comédia Tóxica** (f-4e91eb3d3d) — Preço não informado na fonte
+- [baixa] **Gilsons** (f-74400b5b7e) — Preço não informado na fonte
+- [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-c212229e5d) — Preço não informado na fonte
+- [baixa] **16º Sarau Pretos Novos** (f-0c3c947f28) — Preço não informado na fonte
+- [baixa] **Jade Vitóriah: A Cor da Minha Voz** (f-1e4cfb5e99) — Preço não informado na fonte
+- [baixa] **Gilsons** (f-46ea0de5be) — Preço não informado na fonte
+- [baixa] **Stand-up: Wêlson Nunes** (f-4c8ae58ab7) — Preço não informado na fonte
+- [baixa] **Cuidado Quando For Falar de Mim** (f-b945f69659) — Preço não informado na fonte
+- [baixa] **Matheus Ceará** (f-96ac8e8073) — Preço não informado na fonte
+- [baixa] **Cineclube Adélia Sampaio** (f-cc108ee630) — Preço não informado na fonte
+- [baixa] **Cores Sonoras** (f-e5752a0029) — Preço não informado na fonte
+- [baixa] **Mesmo Rio** (f-345c3d2ed6) — Preço não informado na fonte
+- [baixa] **El Corazón y Otros Frutos Amargos** (f-2e833de58e) — Preço não informado na fonte
+- [baixa] **Canela de Velho** (f-f78460d8a7) — Preço não informado na fonte
+- [baixa] **Os Lobos 60 Anos** (f-a5beeec037) — Preço não informado na fonte
+- [baixa] **Cantos de Força – 10 anos de Afrotelúricos** (f-c3ec0cdbd0) — Preço não informado na fonte
 - [media] **Vingadores: Doutor Destino** (2026-11-19-cine-1664-25347) — Horário incomum: 00:01
 - [media] **Vingadores: Doutor Destino** (2026-11-19-cine-1681-25347) — Horário incomum: 00:01
 - [media] **Vingadores: Doutor Destino** (2026-11-19-cine-4-25347) — Horário incomum: 00:01
@@ -262,20 +302,22 @@
 - **28/11**: Olhar para Dentro; Cadê o Sobrevento?; Reunião Geral das Palavras; Yuri Marçal: Macumbeiro
 - **29/11**: Cadê o Sobrevento?; Gilsons
 - **30/11**: We Are Making a Film About Mark Fisher
-- **02/12**: Terreiro de Mangueira – Cordel Negro
-- **03/12**: Maria no Fio da Navalha; Simplesmente Shakespeare: Romeu e Julieta
-- **04/12**: Maria no Fio da Navalha; Simplesmente Shakespeare: Romeu e Julieta
-- **05/12**: Olhar para Dentro; Maria no Fio da Navalha; Simplesmente Shakespeare: Romeu e Julieta
-- **06/12**: Maria no Fio da Navalha; Simplesmente Shakespeare: Romeu e Julieta
-- **10/12**: O Quebra-Nozes; Simplesmente Shakespeare: Romeu e Julieta
-- **11/12**: O Quebra-Nozes
-- **12/12**: Olhar para Dentro; O Quebra-Nozes
-- **13/12**: O Quebra-Nozes
-- **16/12**: O Quebra-Nozes
-- **17/12**: O Quebra-Nozes
-- **18/12**: O Quebra-Nozes
-- **19/12**: O Quebra-Nozes
-- **20/12**: O Quebra-Nozes
+- **01/12**: Ensaio aberto: X-I-N’TEA; Primeira Pessoa
+- **02/12**: Terreiro de Mangueira – Cordel Negro; Tempo Travesso; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
+- **03/12**: Jhordan Matheus: Passando de Fase; Dia de Jogo; Violões Itinerantes: Do Rio a Exu; O Pulso Ainda Pulsa; Maria no Fio da Navalha; Primeira Pessoa
+- **04/12**: 1º Encontro de Violonistas Compositores: Andrea Perrone; VibraSons; Dia de Jogo; Jhordan Matheus: Passando de Fase; Procura-se Messias; Maria no Fio da Navalha
+- **05/12**: Olhar para Dentro; Burning Love Band: An Elvis Tribute; Wêlson Nunes; Matheus Ceará: Desculpa Eu Ter Vindo; Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical; Procura-se Messias
+- **06/12**: Mulheres ao Vento – A Terra que Piso é Maré; Diogo Defante: especial de fim de ano; 1º Encontro de Violonistas Compositores: concerto com convidados; Dia de Jogo; Bruno Bellandi e Banda: Feijão Retrô; Procura-se Messias
+- **08/12**: Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos
+- **10/12**: O Quebra-Nozes; Matheus Ceará: Desculpa Eu Ter Vindo; Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Gilsons; Procura-se Messias; Primeira Pessoa
+- **11/12**: O Quebra-Nozes; Jade Vitóriah: A Cor da Minha Voz; Gilsons; 16º Sarau Pretos Novos; Matheus Ceará; Procura-se Messias
+- **12/12**: Olhar para Dentro; O Quebra-Nozes; Cineclube Adélia Sampaio; Cores Sonoras; Procura-se Messias; Cuidado Quando For Falar de Mim
+- **13/12**: O Quebra-Nozes; El Corazón y Otros Frutos Amargos; Canela de Velho; Primeira Pessoa; Cuidado Quando For Falar de Mim; Dia de Jogo
+- **16/12**: O Quebra-Nozes; Primeira Pessoa
+- **17/12**: O Quebra-Nozes; Os Lobos 60 Anos; Dia de Jogo; Mesmo Rio; Hienas: Uma Comédia Tóxica
+- **18/12**: O Quebra-Nozes; Cantos de Força – 10 anos de Afrotelúricos; Dia de Jogo; Hienas: Uma Comédia Tóxica
+- **19/12**: O Quebra-Nozes; Dia de Jogo; Mesmo Rio; Hienas: Uma Comédia Tóxica
+- **20/12**: O Quebra-Nozes; Dia de Jogo; Mesmo Rio
 - **22/12**: O Quebra-Nozes
 
 Regras de curadoria:
@@ -434,9 +476,49 @@ Regras de curadoria:
 - **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **We Are Making a Film About Mark Fisher** — A Fever dá só o preço 'a partir de' (pode ser meia-entrada); não informa a inteira. O texto da página foi cortado na extração; não há mais detalhes do programa.
+- **Ensaio aberto: X-I-N’TEA** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
+- **Primeira Pessoa** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Tempo Travesso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
 - **Terreiro de Mangueira – Cordel Negro** — Nova sessão em 2/12 na agenda oficial do Sesc (ronda de 22/11); a página do evento mudou de endereço. A agenda atual dá o título só como 'Cordel Negro'; a relação exata entre o grupo e o projeto não está clara na fonte. A sessão de 20/11 veio da ronda anterior.
+- **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Dia de Jogo** — A listagem da Sympla não informa preço nem classificação. organizador: Má Companhia De Teatro. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Organizador: Má Companhia de Teatro (não é órgão público).
 - **Som Bonde Carioca em Tão Iguais** — O texto da página foi cortado na extração antes da descrição: a fonte não diz que tipo de apresentação é. Classifiquei como Música pelo nome do grupo; a confirmar. Preço 'a partir de' (a inteira não é informada). A casa exige traje esporte fino.
+- **O Pulso Ainda Pulsa** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Violões Itinerantes: Do Rio a Exu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **1º Encontro de Violonistas Compositores: Andrea Perrone** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **VibraSons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; dança presumido pelo espaço.
+- **Procura-se Messias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
+- **Burning Love Band: An Elvis Tribute** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Samblack II com Paula Quintanilha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; em outra data o mesmo artista aparece como stand-up.
+- **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **1º Encontro de Violonistas Compositores: concerto com convidados** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Bruno Bellandi e Banda: Feijão Retrô** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Mulheres ao Vento – A Terra que Piso é Maré** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Diogo Defante: especial de fim de ano** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Diogo Defante é humorista.
+- **Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Quarteto Jequitibá – Série Vitrine Musical UNIRIO** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
+- **Hienas: Uma Comédia Tóxica** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
 - **O Quebra-Nozes** — A Fever informa temporada até 27/12, mas lista sessões só até 22/12; pode haver outras sessões entre 23 e 27/12. Preço 'a partir de' (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.
+- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **16º Sarau Pretos Novos** — A listagem da Sympla não informa preço nem classificação. organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN. Organizador: Instituto de Pesquisa e Memória Pretos Novos (sem fins lucrativos). A fonte não dá o número do endereço.
+- **Jade Vitóriah: A Cor da Minha Voz** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Cuidado Quando For Falar de Mim** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Matheus Ceará** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Cineclube Adélia Sampaio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não informa o filme.
+- **Cores Sonoras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
+- **Mesmo Rio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **El Corazón y Otros Frutos Amargos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
+- **Os Lobos 60 Anos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Cantos de Força – 10 anos de Afrotelúricos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.

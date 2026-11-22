@@ -7290,6 +7290,150 @@
    "status": "conferido"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Ensaio aberto: X-I-N’TEA",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
+   "endereco": "Rua José Higino, 115",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Ensaio aberto de \"X-I-N’TEA\" no Centro Coreográfico da Cidade, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130300",
+   "trecho_fonte": "2026-12-01 19:00 até 2026-12-01 19:00 | Ensaio aberto: X-I-N’TEA | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130300",
+   "id": "f-5f105e75e1",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Open rehearsal of \"X-I-N’TEA\" at the Centro Coreográfico da Cidade, in Tijuca.",
+   "sinopse_es": "Ensayo abierto de \"X-I-N’TEA\" en el Centro Coreográfico da Cidade, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-16",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Primeira Pessoa",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Café Pequeno",
+   "endereco": "Av. Ataulfo de Paiva, 269",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Primeira Pessoa\" em cartaz no Teatro Municipal Café Pequeno, no Leblon, de 1º a 16 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130051",
+   "trecho_fonte": "2026-12-01 20:00 até 2026-12-16 20:00 | Primeira Pessoa | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/130051",
+   "id": "f-abe3a23c33",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Primeira Pessoa\" runs at Teatro Municipal Café Pequeno, in Leblon, from December 1 to 16.",
+   "sinopse_es": "\"Primeira Pessoa\" en cartel en el Teatro Municipal Café Pequeno, en Leblon, del 1 al 16 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Tempo Travesso",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
+   "endereco": "Rua José Higino, 115",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Tempo Travesso\" no Centro Coreográfico da Cidade, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129992",
+   "trecho_fonte": "2026-12-02 18:30 até 2026-12-02 18:30 | Tempo Travesso | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/129992",
+   "id": "f-5d78dd59cd",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Tempo Travesso\" at the Centro Coreográfico da Cidade, in Tijuca.",
+   "sinopse_es": "\"Tempo Travesso\" en el Centro Coreográfico da Cidade, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
    "titulo": "Terreiro de Mangueira – Cordel Negro",
    "areas": [
     "Música"
@@ -7330,6 +7474,122 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Carlos Gomes",
+   "endereco": "Praça Tiradentes, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Sessão do Cineclube Carlos Gomes com \"Macumbaria\" e \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", na Praça Tiradentes.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130520",
+   "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 19:00 | CINECLUBE CARLOS GOMES # 6 :  Macumbaria +  Arruma um Pessoal pra Gente Botar uma Macumba num Disco | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130520",
+   "id": "f-a2c6e8e1a7",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Cineclube Carlos Gomes screening with \"Macumbaria\" and \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", on Praça Tiradentes.",
+   "sinopse_es": "Sesión del Cineclube Carlos Gomes con \"Macumbaria\" y \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", en la Praça Tiradentes.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Dia de Jogo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Dia de Jogo\", com produção da Má Companhia de Teatro, em cartaz no Centro Cultural da Justiça Federal de 3 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/dia-de-jogo/3653851",
+   "trecho_fonte": "2026-12-03 19:00 até 2026-12-20 19:00 | Dia de Jogo | Centro Cultural Justiça Federal - CCJF, Avenida Rio Branco Centro | organizador: Má Companhia De Teatro | https://www.sympla.com.br/evento/dia-de-jogo/3653851",
+   "id": "f-176da8f5f3",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Dia de Jogo\", produced by Má Companhia de Teatro, runs at the Centro Cultural da Justiça Federal from December 3 to 20.",
+   "sinopse_es": "\"Dia de Jogo\", con producción de la Má Companhia de Teatro, en cartel en el Centro Cultural da Justiça Federal del 3 al 20 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-03",
      "hora": "19:00"
     }
@@ -7361,6 +7621,778 @@
    "sinopse_es": "Presentación de Som Bonde Carioca en la sala anexa del Theatro Municipal, con una hora de duración. No se permite la entrada después del inicio.",
    "faixa": "popular",
    "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "O Pulso Ainda Pulsa",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Gonzaguinha",
+   "endereco": "Rua Benedito Hipólito, 125",
+   "bairro": "Praça XI",
+   "regiao": "Centro",
+   "sinopse": "\"O Pulso Ainda Pulsa\" no Teatro Municipal Gonzaguinha, na Praça XI.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130514",
+   "trecho_fonte": "2026-12-03 19:00 até 2026-12-03 19:00 | O pulso ainda pulsa | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/130514",
+   "id": "f-eaa477ab3e",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"O Pulso Ainda Pulsa\" at Teatro Municipal Gonzaguinha, in Praça XI.",
+   "sinopse_es": "\"O Pulso Ainda Pulsa\" en el Teatro Municipal Gonzaguinha, en Praça XI.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Violões Itinerantes: Do Rio a Exu",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Violões Itinerantes: Do Rio a Exu\" no Espaço Cultural Municipal Sérgio Porto, no Humaitá.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129622",
+   "trecho_fonte": "2026-12-03 19:30 até 2026-12-03 19:30 | Violões Itinerantes: Do Rio a Exu | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/129622",
+   "id": "f-31041482e5",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Violões Itinerantes: Do Rio a Exu\" at Espaço Cultural Municipal Sérgio Porto, in Humaitá.",
+   "sinopse_es": "\"Violões Itinerantes: Do Rio a Exu\" en el Espaço Cultural Municipal Sérgio Porto, en Humaitá.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Jhordan Matheus: Passando de Fase",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Jhordan Matheus apresenta \"Passando de Fase\" na Areninha Cultural João Bosco, em Vista Alegre.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129797",
+   "trecho_fonte": "2026-12-03 20:30 até 2026-12-03 20:30 | Jhordan Matheus - Passando de Fase | Areninha Cultural João Bosco de Vista Alegre, Av São Felix, 601 | organizador: Município de Rio de Janeiro - Areninha Cultural João Bosco | https://bileto.sympla.com.br/event/129797",
+   "id": "f-e4798b7411",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Jhordan Matheus performs \"Passando de Fase\" at Areninha Cultural João Bosco, in Vista Alegre.",
+   "sinopse_es": "Jhordan Matheus presenta \"Passando de Fase\" en la Areninha Cultural João Bosco, en Vista Alegre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "1º Encontro de Violonistas Compositores: Andrea Perrone",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Concerto de Andrea Perrone no 1º Encontro de Violonistas Compositores, no Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130349",
+   "trecho_fonte": "2026-12-04 19:00 até 2026-12-04 19:00 | 1º Encontro de Violonistas Compositores - Concerto Andrea Perrone | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/130349",
+   "id": "f-216d584925",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Concert by Andrea Perrone at the 1st Meeting of Guitarist-Composers, at Centro da Música Carioca, in Tijuca.",
+   "sinopse_es": "Concierto de Andrea Perrone en el 1.er Encuentro de Guitarristas Compositores, en el Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "VibraSons",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
+   "endereco": "Rua José Higino, 115",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"VibraSons\" no Centro Coreográfico da Cidade, na Tijuca, de 4 a 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130281",
+   "trecho_fonte": "2026-12-04 19:00 até 2026-12-06 18:00 | VibraSons | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130281",
+   "id": "f-394e86f0c0",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"VibraSons\" at the Centro Coreográfico da Cidade, in Tijuca, from December 4 to 6.",
+   "sinopse_es": "\"VibraSons\" en el Centro Coreográfico da Cidade, en Tijuca, del 4 al 6 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Procura-se Messias",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Procura-se Messias\" em cartaz no Teatro Municipal Domingos Oliveira, na Gávea, de 4 a 12 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129872",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-12 20:00 | Procura-se Messias | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129872",
+   "id": "f-2428b38459",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Procura-se Messias\" runs at Teatro Municipal Domingos Oliveira, in Gávea, from December 4 to 12.",
+   "sinopse_es": "\"Procura-se Messias\" en cartel en el Teatro Municipal Domingos Oliveira, en Gávea, del 4 al 12 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Jhordan Matheus: Passando de Fase",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Jhordan Matheus apresenta \"Passando de Fase\" na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129895",
+   "trecho_fonte": "2026-12-04 20:30 até 2026-12-04 20:30 | JHORDAN MATHEUS - Passando de Fase | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/129895",
+   "id": "f-90cb83d106",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Jhordan Matheus performs \"Passando de Fase\" at Areninha Cultural Jacob do Bandolim, in Pechincha.",
+   "sinopse_es": "Jhordan Matheus presenta \"Passando de Fase\" en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A Orquestra de Cordas Dedilhadas da UNIRIO toca na Sala de Sessões do Centro Cultural da Justiça Federal, na série Vitrine Musical UNIRIO.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/orquestra-de-cordas-dedilhadas-da-unirio-na-serie-vitrine-musical-unirio-sala-de-sessoes-do-ccjf-rj/3532448",
+   "trecho_fonte": "2026-12-05 17:00 até 2026-12-05 18:30 | Orquestra de Cordas Dedilhadas da UNIRIO na Série Vitrine Musical UNIRIO Sala de Sessões do CCJF-RJ | Centro Cultural Justiça Federal, Avenida Rio Branco Centro | organizador: Sérgio Barrenechea | https://www.sympla.com.br/evento/orquestra-de-cordas-dedilhadas-da-unirio-na-serie-vitrine-musical-unirio-sala-de-sessoes-do-ccjf-rj/3532448",
+   "id": "f-088e8527d9",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "The UNIRIO Plucked String Orchestra plays in the Session Hall of the Centro Cultural da Justiça Federal, in the Vitrine Musical UNIRIO series.",
+   "sinopse_es": "La Orquesta de Cuerdas Pulsadas de la UNIRIO toca en la Sala de Sesiones del Centro Cultural da Justiça Federal, en la serie Vitrine Musical UNIRIO.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Burning Love Band: An Elvis Tribute",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Tributo a Elvis Presley com a Burning Love Band na série Sábado Especial do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130214",
+   "trecho_fonte": "2026-12-05 17:00 até 2026-12-05 17:00 | Sábado Especial apresenta Burning Love Band - An Elvis Tribute | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/130214",
+   "id": "f-1b5f7ef2ba",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Elvis Presley tribute by the Burning Love Band in the Sábado Especial series at Centro da Música Carioca, in Tijuca.",
+   "sinopse_es": "Tributo a Elvis Presley con la Burning Love Band en la serie Sábado Especial del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Samblack II com Paula Quintanilha",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Paula Quintanilha no Samblack II, na Arena Carioca Fernando Torres, em Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127018",
+   "trecho_fonte": "2026-12-05 19:00 até 2026-12-05 19:00 | SAMBLACK II com PAULA QUINTANILHA | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/127018",
+   "id": "f-9963fe047d",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Paula Quintanilha at Samblack II, at Arena Carioca Fernando Torres, in Madureira.",
+   "sinopse_es": "Paula Quintanilha en el Samblack II, en la Arena Carioca Fernando Torres, en Madureira.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Wêlson Nunes",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Jovelina Pérola Negra",
+   "endereco": "Praça Ênio, s/nº",
+   "bairro": "Pavuna",
+   "regiao": "Zona Norte",
+   "sinopse": "Wêlson Nunes na Arena Carioca Jovelina Pérola Negra, na Pavuna.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129721",
+   "trecho_fonte": "2026-12-05 20:00 até 2026-12-05 20:00 | Welson Nunes | Arena Carioca Jovelina Pérola Negra, Praça Ênio | organizador: Município de Rio de Janeiro - Arena Cultural Jovelina Pérola Negra | https://bileto.sympla.com.br/event/129721",
+   "id": "f-2980b29edb",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Wêlson Nunes at Arena Carioca Jovelina Pérola Negra, in Pavuna.",
+   "sinopse_es": "Wêlson Nunes en la Arena Carioca Jovelina Pérola Negra, en Pavuna.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Matheus Ceará: Desculpa Eu Ter Vindo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Abelardo Barbosa – Chacrinha",
+   "endereco": "Rua Soldado Eliseu Hipólito, s/nº",
+   "bairro": "Pedra de Guaratiba",
+   "regiao": "Zona Oeste",
+   "sinopse": "Matheus Ceará apresenta \"Desculpa Eu Ter Vindo\" na Arena Carioca Abelardo Barbosa, em Pedra de Guaratiba.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128194",
+   "trecho_fonte": "2026-12-05 21:00 até 2026-12-05 21:00 | Matheus Ceará: Desculpa Eu ter  Vindo | Arena Carioca Abelardo Barbosa, R. Sd. Elizeu Hipólito, s/n | organizador: Município de Rio de Janeiro - Arena Cultural Abelardo Barbosa | https://bileto.sympla.com.br/event/128194",
+   "id": "f-5cd31fccb9",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Matheus Ceará performs \"Desculpa Eu Ter Vindo\" at Arena Carioca Abelardo Barbosa, in Pedra de Guaratiba.",
+   "sinopse_es": "Matheus Ceará presenta \"Desculpa Eu Ter Vindo\" en la Arena Carioca Abelardo Barbosa, en Pedra de Guaratiba.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "1º Encontro de Violonistas Compositores: concerto com convidados",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Concerto com Cyro Delvizio, Luis Carlos Barbieri, Maria do Céu e Vicente Paschoal no 1º Encontro de Violonistas Compositores, no Centro da Música Carioca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130356",
+   "trecho_fonte": "2026-12-06 11:00 até 2026-12-06 11:00 | 1º Encontro de Violonistas Compositores - Concerto - Participações: Cyro Delvizio, Luis Carlos Barbieri, Maria do Ceu e Vicente Paschoal | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/130356",
+   "id": "f-b17c85b4fa",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Concert with Cyro Delvizio, Luis Carlos Barbieri, Maria do Céu and Vicente Paschoal at the 1st Meeting of Guitarist-Composers, at Centro da Música Carioca.",
+   "sinopse_es": "Concierto con Cyro Delvizio, Luis Carlos Barbieri, Maria do Céu y Vicente Paschoal en el 1.er Encuentro de Guitarristas Compositores, en el Centro da Música Carioca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Bruno Bellandi e Banda: Feijão Retrô",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Bruno Bellandi e banda apresentam \"Feijão Retrô\" na Areninha Cultural Jacob do Bandolim, no Pechincha, às 14h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128236",
+   "trecho_fonte": "2026-12-06 14:00 até 2026-12-06 14:00 | BRUNO BELLANDI E BANDA - FEIJÃO RETRÔ | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/128236",
+   "id": "f-d2ba37a102",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Bruno Bellandi and band present \"Feijão Retrô\" at Areninha Cultural Jacob do Bandolim, in Pechincha, at 2 pm.",
+   "sinopse_es": "Bruno Bellandi y banda presentan \"Feijão Retrô\" en la Areninha Cultural Jacob do Bandolim, en Pechincha, a las 14 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Mulheres ao Vento – A Terra que Piso é Maré",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Mulheres ao Vento – A Terra que Piso é Maré\" na Arena Cultural Dicró, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130373",
+   "trecho_fonte": "2026-12-06 18:00 até 2026-12-06 18:00 | Mulheres ao Vento - A terra que piso é Maré | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130373",
+   "id": "f-199d2ee2af",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Mulheres ao Vento – A Terra que Piso é Maré\" at Arena Cultural Dicró, in Penha.",
+   "sinopse_es": "\"Mulheres ao Vento – A Terra que Piso é Maré\" en la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Matheus Ceará: Desculpa Eu Ter Vindo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Jovelina Pérola Negra",
+   "endereco": "Praça Ênio, s/nº",
+   "bairro": "Pavuna",
+   "regiao": "Zona Norte",
+   "sinopse": "Matheus Ceará apresenta \"Desculpa Eu Ter Vindo\" na Arena Carioca Jovelina Pérola Negra, na Pavuna.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128275",
+   "trecho_fonte": "2026-12-06 20:00 até 2026-12-06 20:00 | Matheus Ceará em: “Desculpa eu ter vindo!” | Arena Carioca Jovelina Pérola Negra, Praça Ênio | organizador: Município de Rio de Janeiro - Arena Cultural Jovelina Pérola Negra | https://bileto.sympla.com.br/event/128275",
+   "id": "f-ad2ab9a962",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Matheus Ceará performs \"Desculpa Eu Ter Vindo\" at Arena Carioca Jovelina Pérola Negra, in Pavuna.",
+   "sinopse_es": "Matheus Ceará presenta \"Desculpa Eu Ter Vindo\" en la Arena Carioca Jovelina Pérola Negra, en Pavuna.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Diogo Defante: especial de fim de ano",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Show de fim de ano de Diogo Defante na Areninha Cultural Gilberto Gil, em Realengo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129330",
+   "trecho_fonte": "2026-12-06 20:30 até 2026-12-06 20:30 | SHOW - DIOGO DEFANTE - ESPECIAL DE FIM DE ANO | Areninha Cultural Gilberto Gil, Av. Marechal Fontenele, 5000 | organizador: Município de Rio de Janeiro - Areninha Cultural Gilberto Gil | https://bileto.sympla.com.br/event/129330",
+   "id": "f-5822127c1d",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Diogo Defante's year-end show at Areninha Cultural Gilberto Gil, in Realengo.",
+   "sinopse_es": "Show de fin de año de Diogo Defante en la Areninha Cultural Gilberto Gil, en Realengo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Carlos Gomes",
+   "endereco": "Praça Tiradentes, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A Orquestra Furiosa Portátil homenageia os 80 anos de Cristóvão Bastos no Teatro Municipal Carlos Gomes, na Praça Tiradentes.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128474",
+   "trecho_fonte": "2026-12-08 19:00 até 2026-12-08 19:00 | Orquestra Furiosa Portátil - Homenagem aos 80 anos de Cristóvão Bastos | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/128474",
+   "id": "f-97527d1876",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "The Orquestra Furiosa Portátil celebrates Cristóvão Bastos's 80th birthday at Teatro Municipal Carlos Gomes, on Praça Tiradentes.",
+   "sinopse_es": "La Orquestra Furiosa Portátil homenajea los 80 años de Cristóvão Bastos en el Teatro Municipal Carlos Gomes, en la Praça Tiradentes.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Quarteto Jequitibá – Série Vitrine Musical UNIRIO",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Quarteto Jequitibá toca no saguão do Centro Cultural da Justiça Federal, na série Vitrine Musical UNIRIO, das 17h30 às 18h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quarteto-jequitiba-na-serie-vitrine-musical-unirio-no-saguao-do-ccjf-rj/3532443",
+   "trecho_fonte": "2026-12-10 17:30 até 2026-12-10 18:30 | Quarteto Jequitibá na Série Vitrine Musical UNIRIO no Saguão do CCJF-RJ | Centro Cultural Justiça Federal, Avenida Rio Branco Centro | organizador: Sérgio Barrenechea | https://www.sympla.com.br/evento/quarteto-jequitiba-na-serie-vitrine-musical-unirio-no-saguao-do-ccjf-rj/3532443",
+   "id": "f-51fccee40a",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Quarteto Jequitibá plays in the lobby of the Centro Cultural da Justiça Federal, in the Vitrine Musical UNIRIO series, from 5:30 to 6:30 pm.",
+   "sinopse_es": "El Quarteto Jequitibá toca en el vestíbulo del Centro Cultural da Justiça Federal, en la serie Vitrine Musical UNIRIO, de 17:30 a 18:30 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Hienas: Uma Comédia Tóxica",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Correios Léa Garcia",
+   "endereco": "Rua Visconde de Itaboraí, 20",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Hienas: Uma Comédia Tóxica\" em cartaz no Teatro Correios Léa Garcia, no Centro, de 10 a 19 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130046",
+   "trecho_fonte": "2026-12-10 19:00 até 2026-12-19 19:00 | HIENAS: Uma comédia tóxica | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/130046",
+   "id": "f-4e91eb3d3d",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Hienas: Uma Comédia Tóxica\" runs at Teatro Correios Léa Garcia, downtown, from December 10 to 19.",
+   "sinopse_es": "\"Hienas: Uma Comédia Tóxica\" en cartel en el Teatro Correios Léa Garcia, en el Centro, del 10 al 19 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
   },
   {
    "cartaz": null,
@@ -7432,6 +8464,574 @@
    "sinopse_en": "December run of the ballet \"O Quebra-Nozes\" at the Theatro Municipal, with evening shows and Sunday matinées.",
    "sinopse_es": "Temporada de diciembre del ballet \"O Quebra-Nozes\" en el Theatro Municipal, con funciones nocturnas y matinés los domingos.",
    "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Gilsons",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show dos Gilsons na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127212",
+   "trecho_fonte": "2026-12-10 20:00 até 2026-12-10 20:00 | GILSONS | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127212",
+   "id": "f-74400b5b7e",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Gilsons in concert at Areninha Cultural Jacob do Bandolim, in Pechincha.",
+   "sinopse_es": "Concierto de Gilsons en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Matheus Ceará: Desculpa Eu Ter Vindo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Matheus Ceará apresenta \"Desculpa Eu Ter Vindo\" na Arena Carioca Fernando Torres, em Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127863",
+   "trecho_fonte": "2026-12-10 20:00 até 2026-12-10 20:00 | MATHEUS CEARÁ - DESCULPA EU TER VINDO | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/127863",
+   "id": "f-c212229e5d",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Matheus Ceará performs \"Desculpa Eu Ter Vindo\" at Arena Carioca Fernando Torres, in Madureira.",
+   "sinopse_es": "Matheus Ceará presenta \"Desculpa Eu Ter Vindo\" en la Arena Carioca Fernando Torres, en Madureira.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "16º Sarau Pretos Novos",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Pretos Novos (IPN)",
+   "endereco": "Rua do Livramento",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "16ª edição do Sarau Pretos Novos, com oficina de gastronomia afro-brasileira, no Instituto Pretos Novos, na Gamboa, das 18h às 21h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/16o-sarau-pretos-novos-e-oficina-gastronomica-afro-brasileira/3658247",
+   "trecho_fonte": "2026-12-11 18:00 até 2026-12-11 21:00 | 16º Sarau Pretos Novos e Oficina Gastronômica Afro-brasileira | Centro Cultural Pretos Novos - CCPN, Rua do Livramento Gamboa | organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN | https://www.sympla.com.br/evento/16o-sarau-pretos-novos-e-oficina-gastronomica-afro-brasileira/3658247",
+   "id": "f-0c3c947f28",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "16th edition of the Sarau Pretos Novos, with an Afro-Brazilian cooking workshop, at the Instituto Pretos Novos, in Gamboa, from 6 to 9 pm.",
+   "sinopse_es": "16.ª edición del Sarau Pretos Novos, con taller de gastronomía afrobrasileña, en el Instituto Pretos Novos, en Gamboa, de 18 a 21 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Jade Vitóriah: A Cor da Minha Voz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Jade Vitóriah apresenta \"A Cor da Minha Voz\" na série Sexta Plural do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128905",
+   "trecho_fonte": "2026-12-11 19:00 até 2026-12-11 19:00 | Sexta Plural - A COR DA MINHA VOZ - Jade Vitóriah — Música, Memória e Emoção | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128905",
+   "id": "f-1e4cfb5e99",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Jade Vitóriah presents \"A Cor da Minha Voz\" in the Sexta Plural series at Centro da Música Carioca, in Tijuca.",
+   "sinopse_es": "Jade Vitóriah presenta \"A Cor da Minha Voz\" en la serie Sexta Plural del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Gilsons",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Show dos Gilsons na Areninha Cultural Gilberto Gil, em Realengo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127006",
+   "trecho_fonte": "2026-12-11 20:00 até 2026-12-11 20:00 | GILSONS | Areninha Cultural Gilberto Gil, Av. Marechal Fontenele, 5000 | organizador: Município de Rio de Janeiro - Areninha Cultural Gilberto Gil | https://bileto.sympla.com.br/event/127006",
+   "id": "f-46ea0de5be",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Gilsons in concert at Areninha Cultural Gilberto Gil, in Realengo.",
+   "sinopse_es": "Concierto de Gilsons en la Areninha Cultural Gilberto Gil, en Realengo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Stand-up: Wêlson Nunes",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Terra",
+   "endereco": "Rua Marcos de Macedo, s/nº",
+   "bairro": "Guadalupe",
+   "regiao": "Zona Norte",
+   "sinopse": "Stand-up de Wêlson Nunes na Areninha Cultural Terra, em Guadalupe.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129682",
+   "trecho_fonte": "2026-12-11 20:00 até 2026-12-11 20:00 | Wêlson Nunes - stand up | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129682",
+   "id": "f-4c8ae58ab7",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Stand-up comedy by Wêlson Nunes at Areninha Cultural Terra, in Guadalupe.",
+   "sinopse_es": "Stand-up de Wêlson Nunes en la Areninha Cultural Terra, en Guadalupe.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Cuidado Quando For Falar de Mim",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Cuidado Quando For Falar de Mim\" no Teatro Municipal Ziembinski, na Tijuca, de 11 a 13 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130480",
+   "trecho_fonte": "2026-12-11 20:00 até 2026-12-13 19:00 | Cuidado quando for falar de mim | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/130480",
+   "id": "f-b945f69659",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Cuidado Quando For Falar de Mim\" at Teatro Municipal Ziembinski, in Tijuca, from December 11 to 13.",
+   "sinopse_es": "\"Cuidado Quando For Falar de Mim\" en el Teatro Municipal Ziembinski, en Tijuca, del 11 al 13 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Matheus Ceará",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Matheus Ceará na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128444",
+   "trecho_fonte": "2026-12-11 21:00 até 2026-12-11 21:00 | MATHEUS CEARÁ | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/128444",
+   "id": "f-96ac8e8073",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Matheus Ceará at Areninha Cultural Jacob do Bandolim, in Pechincha.",
+   "sinopse_es": "Matheus Ceará en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cineclube Adélia Sampaio",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "Sessão do Cineclube Adélia Sampaio na Arena Cultural Dicró, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130380",
+   "trecho_fonte": "2026-12-12 14:00 até 2026-12-12 14:00 | Cineclube Adélia Sampaio | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130380",
+   "id": "f-cc108ee630",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Cineclube Adélia Sampaio screening at Arena Cultural Dicró, in Penha.",
+   "sinopse_es": "Sesión del Cineclube Adélia Sampaio en la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cores Sonoras",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Municipal de Arte Hélio Oiticica",
+   "endereco": "Rua Luís de Camões, 68",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Cores Sonoras\" no Centro Municipal de Arte Hélio Oiticica, no Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130102",
+   "trecho_fonte": "2026-12-12 16:00 até 2026-12-12 16:00 | Cores Sonoras | Centro Municipal de Arte Hélio Oiticica, Rua Luís de Camões, 68 | organizador: Município de Rio de Janeiro - Centro Municipal de Arte Hélio Oiticica | https://bileto.sympla.com.br/event/130102",
+   "id": "f-e5752a0029",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Cores Sonoras\" at the Centro Municipal de Arte Hélio Oiticica, downtown.",
+   "sinopse_es": "\"Cores Sonoras\" en el Centro Municipal de Arte Hélio Oiticica, en el Centro.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Mesmo Rio",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ruth de Souza",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sinopse": "\"Mesmo Rio\" em cartaz no Teatro Municipal Ruth de Souza, em Santa Teresa, de 12 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130205",
+   "trecho_fonte": "2026-12-12 17:00 até 2026-12-20 17:00 | Mesmo Rio | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/130205",
+   "id": "f-345c3d2ed6",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Mesmo Rio\" runs at Teatro Municipal Ruth de Souza, in Santa Teresa, from December 12 to 20.",
+   "sinopse_es": "\"Mesmo Rio\" en cartel en el Teatro Municipal Ruth de Souza, en Santa Teresa, del 12 al 20 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "El Corazón y Otros Frutos Amargos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "\"El Corazón y Otros Frutos Amargos\" na Arena Cultural Dicró, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130374",
+   "trecho_fonte": "2026-12-13 11:00 até 2026-12-13 11:00 | El Corazón y otros frutos amargos | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130374",
+   "id": "f-2e833de58e",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"El Corazón y Otros Frutos Amargos\" at Arena Cultural Dicró, in Penha.",
+   "sinopse_es": "\"El Corazón y Otros Frutos Amargos\" en la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Canela de Velho",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Tia Doca",
+   "endereco": "Rua João Vicente",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "O Canela de Velho se apresenta no Espaço Cultural Tia Doca, em Madureira, das 15h às 23h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/canela-de-velho-no-centro-cultural-tia-doca/3632037",
+   "trecho_fonte": "2026-12-13 15:00 até 2026-12-13 23:00 | CANELA DE VELHO NO CENTRO CULTURAL TIA DOCA | Espaço Cultural Tia Doca, Rua João Vicente Madureira | organizador: Canela de Velho | https://www.sympla.com.br/evento/canela-de-velho-no-centro-cultural-tia-doca/3632037",
+   "id": "f-f78460d8a7",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Canela de Velho performs at Espaço Cultural Tia Doca, in Madureira, from 3 to 11 pm.",
+   "sinopse_es": "Canela de Velho se presenta en el Espaço Cultural Tia Doca, en Madureira, de 15 a 23 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Os Lobos 60 Anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Os Lobos celebram 60 anos na série Quinta Homenagem do Centro da Música Carioca, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130333",
+   "trecho_fonte": "2026-12-17 19:00 até 2026-12-17 19:00 | Quinta Homenagem apresenta Os Lobos 60 Anos | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/130333",
+   "id": "f-a5beeec037",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "Os Lobos celebrate 60 years in the Quinta Homenagem series at Centro da Música Carioca, in Tijuca.",
+   "sinopse_es": "Os Lobos celebran 60 años en la serie Quinta Homenagem del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cantos de Força – 10 anos de Afrotelúricos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ruth de Souza",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sinopse": "\"Cantos de Força\" celebra os 10 anos dos Afrotelúricos no Teatro Municipal Ruth de Souza, em Santa Teresa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130026",
+   "trecho_fonte": "2026-12-18 19:00 até 2026-12-18 19:00 | Cantos de Força - 10 anos de Afrotelúricos | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/130026",
+   "id": "f-c3ec0cdbd0",
+   "entrou_em": "2026-11-22",
+   "sinopse_en": "\"Cantos de Força\" celebrates 10 years of Afrotelúricos at Teatro Municipal Ruth de Souza, in Santa Teresa.",
+   "sinopse_es": "\"Cantos de Força\" celebra los 10 años de Afrotelúricos en el Teatro Municipal Ruth de Souza, en Santa Teresa.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
