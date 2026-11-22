@@ -19,6 +19,12 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import base  # noqa: E402
+
+# Decisão editorial de 22/11/2026: toda ficha de evento é redigida e conferida pela redação (Claude).
+# As fichas automáticas (robo_sympla.py: rede municipal na Sympla e palcos públicos na Fever) ficam
+# desligadas e só voltam como último recurso, se a redação ficar inviável pelo limite de uso.
+# O robô continua cuidando do mecânico: coleta, grade de cinema, montagem, publicação e "A boa" de reserva.
+FICHAS_DO_ROBO = False
 import gerar  # noqa: E402
 
 PUBLICOS = gerar.PUBLICOS
@@ -78,7 +84,7 @@ def main(plataformas=None):
     pasta = os.path.join(base.DADOS, "edicoes", ed["id"])
     os.makedirs(pasta, exist_ok=True)
 
-    if plataformas and os.path.exists(plataformas):  # fichas automáticas da rede municipal (Sympla), refeitas a cada ronda
+    if FICHAS_DO_ROBO and plataformas and os.path.exists(plataformas):  # fichas automáticas (desligadas: ver FICHAS_DO_ROBO)
         import robo_sympla
         try:
             robo_sympla.main(plataformas)
@@ -88,7 +94,7 @@ def main(plataformas=None):
     ids_base = {f["id"] for f in fichas}
     vetos = {v["id"] for v in base.ler(os.path.join(base.DADOS, "vetos.json"), {"vetos": []})["vetos"]}
     robo = [f for f in base.ler(os.path.join(base.DADOS, "robo.json"), {"fichas": []})["fichas"]
-            if f["id"] not in ids_base and f["id"] not in vetos]  # a ficha da redação, se houver, vale mais
+            if f["id"] not in ids_base and f["id"] not in vetos] if FICHAS_DO_ROBO else []  # a ficha da redação vale mais
     fichas = fichas + robo
     conf = base.ler(base.ARQ_CONF, {"resultado": []})["resultado"]
     dest_base = base.ler(base.ARQ_DEST, {"dias": {}})

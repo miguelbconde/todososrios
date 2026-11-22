@@ -28,14 +28,13 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Publica de novo sempre que o Claude entrega fichas.
 - Escreve o **boletim de saúde** (`dados/coleta/saude.md`).
 - **Alarme:** se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, abre um aviso no GitHub ("Alarme do robô"), que chega por e-mail. O aviso se fecha sozinho quando tudo volta ao normal.
-- Transforma em ficha, sozinho, os eventos da rede municipal que a Sympla publica com dia e hora certos e que ele reconhece com segurança: shows, tributos, cineclubes, rodas de conversa, comédia e teatros municipais. Desde 22/11/2026, faz o mesmo com os palcos públicos que vendem pela Fever (Theatro Municipal, Sala Mário Tavares, Sala Cecília Meireles). A sinopse é uma linha de fatos; o Claude pode vetar ou trocar por sinopse própria.
+- **Não redige nem publica fichas de evento sozinho** (decisão de 22/11/2026: a confiabilidade do site vem primeiro). O leitor automático da rede municipal na Sympla e dos palcos públicos na Fever fica desligado e só volta como último recurso, se o limite de uso tornar a redação inviável. A grade de cinema continua automática, porque vem pronta da Ingresso.com.
 
 ### 2. Claude, tarefa diária (todo dia de manhã, sem conversa)
 
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
 - Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
-- Revê os títulos das fichas automáticas novas: veta o que não cabe e dá sinopse própria às melhores.
 - Escolhe "A boa" dos dias que ainda não têm destaque.
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
 - Manda à coordenação o relatório de exceções.

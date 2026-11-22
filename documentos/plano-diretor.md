@@ -290,7 +290,7 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 
 **Tomadas (22/11/2026):**
 - Sem teto diário de fichas: a redação cobre tudo o que cabe nos critérios, entregando em lotes.
-- Robôs, sempre que possível sem risco de erro: além da rede municipal na Sympla, o robô publica sozinho os palcos públicos que vendem pela Fever (Theatro Municipal, Sala Mário Tavares, Sala Cecília Meireles). Locais novos que o robô deve reconhecer entram em `dados/locais.json`.
+- Robôs só como último recurso (revisão no mesmo dia): é crucial para a adoção do site que tudo rode bem e seja confiável, e o robô erra mais que a redação. Toda ficha de evento passa a ser redigida e conferida pela redação, inclusive a rede municipal na Sympla e os palcos públicos na Fever; as fichas automáticas ficam desligadas (`FICHAS_DO_ROBO` em `ferramentas/montar.py`). Só voltam se o consumo do plano inviabilizar o uso do Claude em outros projetos. Continuam com o robô as tarefas mecânicas: coleta, grade de cinema (dados prontos da Ingresso.com), montagem, publicação, alarme e "A boa" de reserva, que só aparece se a redação falhar.
 
 **Pendente:**
 - todososrios.rio: a INWX ainda não concluiu o registro (faltava o CPF, informado em 19/11). Quando sair: cadastrar o DNS na INWX, pôr o arquivo CNAME em `docs/`, trocar a constante `SITE` de `ferramentas/gerar.py` e apontar o encaminhamento do .com.br para o .rio.

@@ -49,7 +49,7 @@ def main(plat=None):
 
     robo = base.ler(os.path.join(base.DADOS, "robo.json"), {"fichas": [], "sem_local": {}})
     linhas += ["", "## Fichas automáticas (sem IA)", "",
-               f"- Rede municipal pela Sympla: {len(robo['fichas'])} fichas",
+               f"- Fichas automáticas: {len(robo['fichas'])} (desligadas desde 22/11/2026; toda ficha é da redação)",
                "- Locais da Sympla que o robô ainda não reconhece: " + (", ".join(f"{k} ({v})" for k, v in robo.get("sem_local", {}).items()) or "nenhum")]
     linhas += ["", "## Redação (tarefa diária do Claude)", ""]
     ent = base.ler(base.ARQ_ENTREGAS, {"entregas": []})["entregas"]
