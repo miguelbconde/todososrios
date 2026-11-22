@@ -8,30 +8,6 @@
   },
   {
    "fonte": "FPLAT_sympla",
-   "titulo": "Querer ficar, mas ter que partir",
-   "data": "2026-11-22",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Ruído Bruto",
-   "data": "2026-11-24",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Terças no Ipanema - Bicudos Dois",
-   "data": "2026-11-24",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Simplesmente Shakespeare - Romeu e Julieta",
-   "data": "2026-11-25",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
    "titulo": "Caminhos de Esperança",
    "data": "2026-11-25",
    "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
@@ -44,57 +20,117 @@
   },
   {
    "fonte": "FPLAT_sympla",
-   "titulo": "Rio Nippon 6ª edição",
-   "data": "2026-11-22",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Gessica Ferreira - Hitch Conselheira Amorosa",
-   "data": "2026-11-22",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
    "titulo": "FESTIVAL ARPOARTE 2026",
    "data": "2026-11-25",
    "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
   },
   {
-   "fonte": "FAGENDA_sesc",
-   "titulo": "Cadê o Sobrevento?",
-   "data": "2026-11-22",
-   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
-  },
-  {
-   "fonte": "FAGENDA_sesc",
-   "titulo": "BOCA",
-   "data": "2026-11-22",
-   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
-  },
-  {
-   "fonte": "FAGENDA_sesc",
-   "titulo": "La Strada – Os Que Vieram Antes de Nós (nova sessão)",
-   "data": "2026-11-22",
-   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
-  },
-  {
-   "fonte": "FAGENDA_sesc",
-   "titulo": "Oficina de Carimbó – Cultura e Ancestralidade Amazônida",
-   "data": "2026-11-25",
-   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
-  },
-  {
-   "fonte": "FAGENDA_arteacontece",
-   "titulo": "Gestos cotidianos (Sesc Tijuca)",
-   "data": "2026-11-22",
-   "motivo": "o programa de entrega ainda recusa fichas do Sesc"
+   "fonte": "FPLAT_sympla",
+   "titulo": "Balé sem Rótulos (Dezembro)",
+   "data": "2026-12-01",
+   "motivo": "não deu tempo"
   },
   {
    "fonte": "FPLAT_sympla",
-   "titulo": "Feijoada do Gamado - Gamadinho & convidados",
-   "data": "2026-11-22",
-   "motivo": "faltam bairro e preço"
+   "titulo": "Ensaio aberto: X-I-N’TEA",
+   "data": "2026-12-01",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Primeira Pessoa",
+   "data": "2026-12-01",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "UM BRASILEIRO EM ISRAEL - Lançamento de Livro + Bate-papo",
+   "data": "2026-12-01",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Tempo Travesso",
+   "data": "2026-12-02",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "CINECLUBE CARLOS GOMES # 6",
+   "data": "2026-12-02",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "O pulso ainda pulsa",
+   "data": "2026-12-03",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Quinta Homenagem - Canários",
+   "data": "2026-12-03",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Dia de Jogo",
+   "data": "2026-12-03",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Violões Itinerantes: Do Rio a Exu",
+   "data": "2026-12-03",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Jhordan Matheus - Passando de Fase",
+   "data": "2026-12-03",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Encantos da Floresta",
+   "data": "2026-12-04",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "VibraSons",
+   "data": "2026-12-04",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "GILSONS (Jacob do Bandolim e Gilberto Gil)",
+   "data": "2026-12-10",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Tributo à Legião Urbana e demais eventos da Sympla de dezembro e janeiro",
+   "data": "2026-12-05",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_fever",
+   "titulo": "Candlelight (Museu do Amanhã, Solar de Botafogo, Teatro dos Quatro) e The Jazz Room (Teatro Rival)",
+   "data": "2026-11-26",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "sites dos espaços (F019, F063, F092, F114, F116 e outros)",
+   "titulo": "linhas novas dos sites de teatros, museus e galerias na ronda de 22/11 (cerca de 500)",
+   "data": "2026-11-23",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "grupos 'cultural' e 'a verificar' da Sympla (cerca de 1.200 linhas)",
+   "data": "2026-11-23",
+   "motivo": "não deu tempo"
   }
  ]
 }
