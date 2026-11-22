@@ -163,6 +163,8 @@ def ics(nome, eventos, carimbo, so_sessoes=None):
                 desc += f" · {e['classificacao']}"
             if e.get("status") == "a_confirmar":
                 desc += "\n\nATENÇÃO: informação a confirmar na fonte."
+            if e.get("aviso") == "dias":
+                desc += "\n\nATENÇÃO: a fonte não informa os dias exatos da temporada; listamos de quinta a domingo. Confira antes de ir."
             desc += f"\n\nFonte: {e['link']}\nTodos os Rios — agenda cultural aberta do Rio"
             L += ["BEGIN:VEVENT", f"UID:{e['id']}-{k}@todososrios.rio", f"DTSTAMP:{carimbo}",
                   f"DTSTART:{ini}", f"DTEND:{fim}", f"SUMMARY:{ics_escape(e['titulo'])}",
@@ -280,7 +282,7 @@ def main(edicao_id):
 
     dest_path = os.path.join(pasta, "destaques.json")
     destaques = json.load(open(dest_path, encoding="utf-8")) if os.path.exists(dest_path) else {"dias": {}}
-    for l in destaques["dias"].values():  # o "por que ir" de cada destaque também tem tradução
+    for l in list(destaques["dias"].values()) + [destaques.get("mes", [])]:  # o "por que ir" de cada destaque também tem tradução
         for d in l:
             t = trad.get(hashlib.sha1(" ".join(d.get("porque", "").split()).encode("utf-8")).hexdigest()[:16])
             if t:
@@ -325,7 +327,7 @@ def main(edicao_id):
     # site
     modelo = open(os.path.join(RAIZ, "ferramentas", "modelo.html"), encoding="utf-8").read()
     site_ev = [{k: v for k, v in e.items() if not (e.get("automatica") and k in ("trecho_fonte", "fonte", "link_espaco"))} for e in publicos]
-    dados_site = json.dumps({"edicao": ed, "eventos": site_ev, "destaques": destaques["dias"],
+    dados_site = json.dumps({"edicao": ed, "eventos": site_ev, "destaques": destaques["dias"], "destaques_mes": destaques.get("mes", []),
                              "feeds": {k: v[0] for k, v in feeds.items()}}, ensure_ascii=False)
     dados_site = dados_site.replace("</", "<\\/")
     # três versões da página (português na raiz, inglês em en/, espanhol em es/), cada uma com título,

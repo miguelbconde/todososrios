@@ -28,7 +28,7 @@ from plataformas import baixar, decodificar_next  # noqa: E402
 
 PAUSA = 3
 HOJE = dt.date.today()
-JANELA_SESC = 16          # dias à frente lidos na agenda do Sesc
+JANELA_SESC = 62          # dias à frente lidos na agenda do Sesc (o site mostra até dois meses)
 # Unidades do Sesc dentro do município do Rio (as demais ficam no estado: Niterói, Petrópolis etc.)
 SESC_RIO = {
     "Arte Sesc": ("Flamengo", "Zona Sul"),
@@ -178,7 +178,7 @@ def arte_que_acontece(pasta):
         total = int(d.get("total_pages") or 1)
         for e in d.get("events", []):
             ini, fim = (e.get("start_date") or "")[:10], (e.get("end_date") or "")[:10]
-            if not fim or fim < HOJE.isoformat() or ini > (HOJE + dt.timedelta(days=21)).isoformat():
+            if not fim or fim < HOJE.isoformat() or ini > (HOJE + dt.timedelta(days=62)).isoformat():
                 continue
             v = e.get("venue") if isinstance(e.get("venue"), dict) else {}
             lugar = limpo(v.get("venue", ""))

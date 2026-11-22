@@ -19,7 +19,7 @@ Devolver ao espaço público a informação sobre a vida cultural da cidade. A A
 
 - **Território:** município do Rio de Janeiro. A Região Metropolitana (Niterói, Baixada) fica para uma fase posterior, como seção separada.
 - **Regiões:** adotamos a mesma divisão usada pela Secretaria Municipal de Cultura: **Centro · Zona Sul · Zona Sudoeste · Zona Norte · Zona Oeste**. Cada evento traz também o bairro.
-- **Periodicidade:** edição semanal de **quinta a quarta-feira**, o mesmo ciclo da programação oficial da Prefeitura. O calendário assinável é atualizado continuamente.
+- **Periodicidade:** atualização diária, com a programação de hoje até **dois meses à frente** (decisão de 22/11/2026; antes, edição semanal de quinta a quarta). O PDF semanal da Prefeitura continua chegando de quinta a quarta. O calendário assinável é atualizado continuamente.
 
 ## 4. Critérios editoriais
 
@@ -290,6 +290,8 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 
 **Tomadas (22/11/2026):**
 - Sem teto diário de fichas: a redação cobre tudo o que cabe nos critérios, entregando em lotes.
+- **Fim da edição semanal:** o site mostra tudo o que está confirmado de hoje até dois meses à frente (janela móvel de 60 dias, `JANELA_DIAS` em `ferramentas/base.py`), para as pessoas se planejarem com antecedência, em especial para shows disputados. O trilho de dias vai até lá, com o mês marcado no dia 1º. "A boa" de cada dia continua; a redação escolhe a dos próximos 7 dias e o robô cobre os demais pela regra fixa. Novo botão **"A boa do mês"** no começo do trilho e ao pé de "A boa de hoje": 6 a 10 escolhas da redação para os próximos dois meses.
+- **Temporadas sem os dias:** quando a fonte (em geral a Sympla) dá só o período de uma peça, a ficha lista sessões de quinta a domingo e leva um aviso visível para conferir os dias no link do evento (também nos calendários).
 - Sesc RJ e Arte que Acontece entram por padrão na rotina, não como fonte opcional. Os dois sites permitem a leitura nas regras para robôs. O Arte que Acontece bloqueia pelo nome os robôs de IA e aceita uso como referência: serve de radar de fatos, e a ficha se escreve da fonte oficial do espaço. Leitura dedicada em `ferramentas/coleta/agendas.py`, na ronda diária.
 - Robôs só como último recurso (revisão no mesmo dia): é crucial para a adoção do site que tudo rode bem e seja confiável, e o robô erra mais que a redação. Toda ficha de evento passa a ser redigida e conferida pela redação, inclusive a rede municipal na Sympla e os palcos públicos na Fever; as fichas automáticas ficam desligadas (`FICHAS_DO_ROBO` em `ferramentas/montar.py`). Só voltam se o consumo do plano inviabilizar o uso do Claude em outros projetos. Continuam com o robô as tarefas mecânicas: coleta, grade de cinema (dados prontos da Ingresso.com), montagem, publicação, alarme e "A boa" de reserva, que só aparece se a redação falhar.
 

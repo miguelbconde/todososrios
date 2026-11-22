@@ -18,6 +18,7 @@ Formato da entrega (todas as chaves são opcionais):
   "apontamentos": [ {"id": "...", "titulo": "...", "campo": "...", "veredito": "diverge|nao_encontrado|duvida",
                      "detalhe": "...", "resolucao": "Corrigido: ... | Mantido: ... | (vazio = a confirmar)"} ],
   "destaques": { "AAAA-MM-DD": [ {"id": "...", "porque": "..."} ] },
+  "destaques_mes": [ {"id": "...", "porque": "..."} ],   ("A boa do mês": a lista inteira, que substitui a anterior)
   "traducoes": [ {"pt": "...", "en": "...", "es": "..."} ],
   "nota": "resumo de uma linha do que foi feito"
 }
@@ -34,7 +35,7 @@ import gerar  # noqa: E402
 
 OBRIG = ["titulo", "areas", "tipo", "local", "endereco", "bairro", "regiao", "sinopse", "fonte", "link", "trecho_fonte"]
 PADRAO = {"cartaz": None, "sessoes": [], "preco_texto": "", "preco_min": None, "preco_max": None, "gratis": False,
-          "classificacao": "", "acessibilidade": "", "na_rua": False, "nota_redacao": ""}
+          "classificacao": "", "acessibilidade": "", "na_rua": False, "nota_redacao": "", "aviso": ""}
 EMAIL = re.compile(r"[\w.+-]+@[\w-]+\.[\w.]+")
 
 
@@ -72,8 +73,8 @@ def problemas(f, dia):
         p.append("marcada como grátis, mas tem preço")
     if not str(f["link"]).startswith("http"):
         p.append("link sem http")
-    if "sesc" in (f["local"] + " " + f["fonte"]).lower():
-        p.append("Sesc está em espera por decisão editorial")
+    if f.get("aviso", "") not in ("", "dias"):
+        p.append('aviso inválido: use "dias" (temporada sem os dias informados) ou deixe vazio')
     for k in ("sinopse", "trecho_fonte", "nota_redacao", "fonte"):
         if EMAIL.search(str(f.get(k) or "")):
             p.append(f"há um e-mail em {k}: dado pessoal não entra")
@@ -135,6 +136,9 @@ def main(caminho):
     for k, l in ent.get("destaques", {}).items():
         if k >= dia:
             dest["dias"][k] = [x for x in l if x.get("id") in por_id or x.get("id") in robo_ids]
+
+    if "destaques_mes" in ent:  # "A boa do mês": o que vale planejar com antecedência (lista inteira, substitui a anterior)
+        dest["mes"] = [x for x in ent["destaques_mes"] if x.get("id") in por_id]
 
     if ent.get("traducoes"):
         sys.path.insert(0, os.path.join(base.RAIZ, "ferramentas", "redacao"))

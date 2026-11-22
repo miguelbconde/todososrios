@@ -87,6 +87,9 @@ body.buscando #resultados{min-height:100vh}  /* a página não encolhe nem pula 
 .dia.passado{opacity:.45}
 .dia.cartaz{min-width:auto;padding:6px 14px}
 .dia.cartaz b{font-size:15px;line-height:2.2}
+.dia.m1 small{color:var(--mar);font-weight:700}
+.avd{font-size:13px;color:var(--popular);background:var(--popular-suave);border-radius:8px;padding:6px 9px;margin:6px 0 0}
+.vermes{display:inline-block;margin:6px 0 0;font-size:15px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin:2px 0 8px}
 .chip{border:1px solid var(--linha);background:transparent;color:var(--tinta);border-radius:999px;
   padding:6px 12px;font:500 14px var(--sans);cursor:pointer}
@@ -280,7 +283,7 @@ const AREAS = ["Música","Teatro","Artes Visuais","Cinema","Livros & Debates","F
 const REGIOES = ["Centro","Zona Sul","Zona Sudoeste","Zona Norte","Zona Oeste"];
 const T = {
  pt:{sub:"Agenda cultural do Rio de Janeiro",qb:"A boa de hoje",rua:"Na rua",ruaTag:"Na rua",busca:"Buscar: artista, lugar, bairro…",toda:"Toda a programação",boaSub:"Os destaques do dia, escolhidos com critérios públicos.",como:"Como escolhemos",semDest:"Nenhum destaque com esses filtros. Veja a programação completa abaixo.",critTit:"Como escolhemos os destaques",critTxt:"A curadoria é feita com apoio de inteligência artificial e regras fixas, conferidas automaticamente a cada edição: pelo menos três regiões da cidade e três áreas por dia; ao menos metade grátis ou a preço popular; no máximo um destaque por espaço; sempre algum espaço público, comunitário ou sem fins lucrativos; só eventos com informação conferida; nunca patrocínio. Dentro dessas regras pesam a relevância artística, a raridade (estreia, última sessão, evento único) e o valor para a memória e o território.",filtros:"Filtros ▾",area:"Área",regiao:"Região",gratis:"Só grátis",popular:"Até R$ 40",
-   baixar:"＋ Levar para minha agenda",cartaz:"Em cartaz",hoje:"Hoje",ate:"até",
+   baixar:"＋ Levar para minha agenda",cartaz:"Em cartaz",hoje:"Hoje",ate:"até",boaMes:"A boa do mês",boaMesSub:"O que vale planejar desde já, nos próximos dois meses",verBoaMes:"Ver a boa do mês →",progAte:"Programação até ",avisoDias:"Temporada sem os dias informados pela fonte: listamos de quinta a domingo. Confira os dias no link do evento antes de ir.",
    n:(n)=>n===1?"1 atividade":`${n} atividades`,vazio:"Nada encontrado com esses filtros. Que tal outra região?",gradeTit:"Grade dos cinemas",gradeBusca:(n)=>n===1?"1 filme em cartaz com esse título.":`${n} filmes em cartaz com esse título. Toque num filme para ver cinemas e horários.`,gradeNCines:(n)=>n===1?"1 cinema":`${n} cinemas`,gradeTxt:(n,f)=>`${n} cinemas, ${f} filmes neste dia. Toque num cinema para ver os horários.`,
    agenda:"Adicionar à agenda",compartilhar:"Compartilhar",maisInfo:"Mais informações",saibaMais:"Saiba mais",ingressos:"Ingressos",ingressosHora:"Ingressos para a sessão das ",chegar:"Como chegar",fonte:"Fonte oficial",aconf:"a confirmar",gratisTag:"Grátis",popTag:"Preço popular",
    radar:"Uma boa fora do seu radar",calTit:"Receba a agenda no celular",
@@ -293,7 +296,7 @@ const T = {
    teste:"Prévia de teste: ainda com poucas fontes.",
    dias:["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],fontes:"Fontes desta edição: ",naoinf:"Preço não informado"},
  en:{sub:"What's on in Rio · Cultural guide",qb:"Today's picks",rua:"Outdoors",ruaTag:"Outdoors",busca:"Search: artist, venue, neighborhood…",toda:"Full programme",boaSub:"Today\u2019s highlights, chosen by public criteria.",como:"How we choose",semDest:"No highlights match these filters. See the full programme below.",critTit:"How we choose highlights",critTxt:"Curation is AI-assisted under fixed rules checked automatically every edition: at least three areas of the city and three categories a day; at least half free or low-price; one highlight per venue at most; always a public, community or non-profit venue; only verified listings; never sponsorship.",filtros:"Filters ▾",area:"Category",regiao:"Area of the city",gratis:"Free only",popular:"Up to R$ 40",
-   baixar:"＋ Add to my calendar",cartaz:"Exhibitions",hoje:"Today",ate:"until",
+   baixar:"＋ Add to my calendar",cartaz:"Exhibitions",hoje:"Today",ate:"until",boaMes:"Book ahead",boaMesSub:"Worth planning for now, over the next two months",verBoaMes:"See what to book ahead →",progAte:"Listings through ",avisoDias:"The source does not give the exact days of this run: we list Thursday to Sunday. Check the dates at the event link before you go.",
    n:(n)=>n===1?"1 event":`${n} events`,vazio:"Nothing matches these filters. Try another area of the city?",gradeTit:"Cinema showtimes",gradeBusca:(n)=>n===1?"1 film showing with that title.":`${n} films showing with that title. Tap a film to see cinemas and times.`,gradeNCines:(n)=>n===1?"1 cinema":`${n} cinemas`,gradeTxt:(n,f)=>`${n} cinemas, ${f} films this day. Tap a cinema to see showtimes.`,
    agenda:"Add to calendar",compartilhar:"Share",maisInfo:"More info",saibaMais:"Learn more",ingressos:"Tickets",ingressosHora:"Tickets for the showing at ",chegar:"Directions",fonte:"Official source",aconf:"to be confirmed",gratisTag:"Free",popTag:"Low price",
    radar:"Something off your radar",calTit:"Get the guide on your phone",
@@ -306,7 +309,7 @@ const T = {
    teste:"Test preview: few sources so far. Descriptions in Portuguese.",
    dias:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],fontes:"Sources: ",naoinf:"Price not informed"},
  es:{sub:"Agenda cultural de Río de Janeiro",qb:"Lo bueno de hoy",rua:"En la calle",ruaTag:"En la calle",busca:"Buscar: artista, lugar, barrio…",toda:"Toda la programación",boaSub:"Los destacados del día, elegidos con criterios públicos.",como:"Cómo elegimos",semDest:"Ningún destacado con estos filtros. Mira la programación completa abajo.",critTit:"Cómo elegimos los destacados",critTxt:"La curaduría usa inteligencia artificial bajo reglas fijas verificadas en cada edición: al menos tres regiones y tres áreas por día; mitad o más gratis o a precio popular; un destacado por espacio como máximo; siempre algún espacio público, comunitario o sin fines de lucro; solo información verificada; nunca patrocinio.",filtros:"Filtros ▾",area:"Área",regiao:"Región",gratis:"Solo gratis",popular:"Hasta R$ 40",
-   baixar:"＋ Llevar a mi agenda",cartaz:"Exposiciones",hoje:"Hoy",ate:"hasta",
+   baixar:"＋ Llevar a mi agenda",cartaz:"Exposiciones",hoje:"Hoy",ate:"hasta",boaMes:"Lo bueno del mes",boaMesSub:"Para planear desde ya, en los próximos dos meses",verBoaMes:"Ver lo bueno del mes →",progAte:"Programación hasta el ",avisoDias:"La fuente no informa los días exactos de la temporada: la listamos de jueves a domingo. Confirma las fechas en el enlace del evento antes de ir.",
    n:(n)=>n===1?"1 actividad":`${n} actividades`,vazio:"Nada con estos filtros. ¿Probamos otra región?",gradeTit:"Cartelera de cines",gradeBusca:(n)=>n===1?"1 película en cartel con ese título.":`${n} películas en cartel con ese título. Toca una película para ver cines y horarios.`,gradeNCines:(n)=>n===1?"1 cine":`${n} cines`,gradeTxt:(n,f)=>`${n} cines, ${f} películas este día. Toca un cine para ver los horarios.`,
    agenda:"Añadir a la agenda",compartilhar:"Compartir",maisInfo:"Más información",saibaMais:"Más información",ingressos:"Entradas",ingressosHora:"Entradas para la sesión de las ",chegar:"Cómo llegar",fonte:"Fuente oficial",aconf:"por confirmar",gratisTag:"Gratis",popTag:"Precio popular",
    radar:"Algo fuera de tu radar",calTit:"Recibe la agenda en el móvil",
@@ -357,6 +360,11 @@ function itens(){
       if(e.tipo==="cartaz"){ if(emCartazNoDia(e,ini)) r.push({e,hora:null,data:"~"}); continue; }
       for(const s of e.sessoes) if(s.data>=ini) r.push({e,hora:s.hora,data:s.data}); }
     return r.sort((a,b)=>(a.data+(a.hora||""))<(b.data+(b.hora||""))?-1:1); }
+  if(S.dia==="mes") return (D.destaques_mes||[]).map(d=>{ const e=E.find(x=>x.id===d.id); if(!e||!passaFiltros(e)) return null;
+      const porque=(S.lang!=="pt"&&d["porque_"+S.lang])||d.porque;
+      if(e.tipo==="cartaz") return emCartazNoDia(e,hojeISO)||(e.cartaz.inicio||"")>=hojeISO ? {e,hora:null,data:e.cartaz.inicio>hojeISO?e.cartaz.inicio:"~",porque} : null;
+      const s=e.sessoes.find(x=>x.data>=hojeISO); return s?{e,hora:s.hora,data:s.data,porque}:null; }).filter(Boolean)
+    .sort((a,b)=>(a.data+(a.hora||""))<(b.data+(b.hora||""))?-1:1);
   if(S.dia==="cartaz") return E.filter(e=>e.tipo==="cartaz" && emCartazNoDia(e, DIAS.includes(hojeISO)?hojeISO:DIAS[0]) && passaFiltros(e))
     .map(e=>({e,hora:null})).sort((a,b)=>(a.e.cartaz.fim||"9999")<(b.e.cartaz.fim||"9999")?-1:1);
   const r=[]; for(const e of E){ if(e.tipo!=="evento"||e.automatica||!passaFiltros(e)) continue;
@@ -377,7 +385,7 @@ function card(it,k,porque,horaVisivel){
   const busca = "https://www.google.com/search?q="+encodeURIComponent(`"${e.titulo}" ${e.local} Rio de Janeiro`);
   return `<li class="ev${aberto?" aberto":""}" data-id="${id}">
    <button class="abre" aria-expanded="${aberto}">${(porque||horaVisivel)&&it.hora?`<div class="quando">${hh(it.hora)}</div>`:""}<h3>${esc(e.titulo)}</h3>${porque?`<p class="porque">${esc(porque)}</p>`:""}
-   <div class="onde"><strong>${esc(e.local)}</strong> · ${esc(e.bairro||"—")}${quando?`<br>${quando}`:""}</div>
+   <div class="onde"><strong>${esc(e.local)}</strong> · ${esc(e.bairro||"—")}${quando?`<br>${quando}`:""}</div>${e.aviso==="dias"?`<div class="avd">${t("avisoDias")}</div>`:""}
    <div class="tags">${precoTag(e)}${e.areas.map(a=>`<span class="tag">${esc(tA(a))}</span>`).join("")}${e.na_rua?`<span class="tag">${t("ruaTag")}</span>`:""}${e.classificacao?`<span class="tag">${esc(e.classificacao)}</span>`:""}${e.acessibilidade?`<span class="tag" title="${esc(e.acessibilidade)}">♿︎ ${esc(e.acessibilidade)}</span>`:""}${e.status==="a_confirmar"?`<span class="tag conf">${t("aconf")}</span>`:""}</div></button>
    <div class="mais"><p>${esc(sin(e))}</p>
     <p style="font-size:13px;color:var(--tinta2)">${esc(e.endereco)} – ${esc(e.bairro)} · ${esc(e.regiao)}</p>
@@ -406,15 +414,19 @@ function render(){
   document.querySelectorAll("[data-t]").forEach(el=>{const v=t(el.dataset.t); if(typeof v==="string") el.textContent=v;});
   document.querySelector("#q").placeholder=t("busca");
   document.querySelectorAll(".idiomas button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.lang===S.lang));
-  document.querySelector("#edicao").textContent = ED.titulo;
-  const dn = S.dia==="cartaz"?null:dDia(S.dia);
-  document.querySelector(".qb").textContent = S.dia==="cartaz"? t("cartaz") : (S.dia===hojeISO? t("qb") :
+  document.querySelector("#edicao").textContent = t("progAte") + new Date(ED.fim+"T12:00:00Z").toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang,{day:"numeric",month:"long",timeZone:"UTC"});
+  const dn = (S.dia==="cartaz"||S.dia==="mes")?null:dDia(S.dia);
+  document.querySelector(".qb").textContent = S.dia==="cartaz"? t("cartaz") : S.dia==="mes"? t("boaMes") : (S.dia===hojeISO? t("qb") :
     tituloDia(dn));
   // dias
-  document.querySelector("#dias").innerHTML = DIAS.map(d=>{const x=dDia(d);
-    return `<button class="dia${d<hojeISO?" passado":""}" data-dia="${d}" aria-pressed="${S.dia===d}"><small>${d===hojeISO?t("hoje"):t("dias")[x.getUTCDay()]}</small><b>${d.slice(8,10)}</b></button>`}).join("")
-    + `<button class="dia cartaz" data-dia="cartaz" aria-pressed="${S.dia==="cartaz"}"><b>${t("cartaz")}</b></button>`;
-  const sel=document.querySelector(`.dia[aria-pressed=true]`); if(sel&&!render.rolou){sel.scrollIntoView({inline:"center",block:"nearest"});render.rolou=true;}
+  const mesCurto = d=>dDia(d).toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang,{month:"short",timeZone:"UTC"}).replace(".","");
+  document.querySelector("#dias").innerHTML =
+    ((D.destaques_mes||[]).length?`<button class="dia cartaz" data-dia="mes" aria-pressed="${S.dia==="mes"}"><b>${t("boaMes")}</b></button>`:"")
+    + `<button class="dia cartaz" data-dia="cartaz" aria-pressed="${S.dia==="cartaz"}"><b>${t("cartaz")}</b></button>`
+    + DIAS.map(d=>{const x=dDia(d), m1=d.slice(8,10)==="01"&&d!==DIAS[0];
+    return `<button class="dia${d<hojeISO?" passado":""}${m1?" m1":""}" data-dia="${d}" aria-pressed="${S.dia===d}"><small>${d===hojeISO?t("hoje"):m1?mesCurto(d):t("dias")[x.getUTCDay()]}</small><b>${d.slice(8,10)}</b></button>`}).join("");
+  // ao abrir em "hoje", o trilho fica no começo, com "A boa do mês" e "Em cartaz" à vista
+  const sel=document.querySelector(`.dia[aria-pressed=true]`); if(sel&&!render.rolou){ if(S.dia===hojeISO) document.querySelector("#dias").scrollLeft=0; else sel.scrollIntoView({inline:"center",block:"nearest"}); render.rolou=true;}
   // a mancha do dia só "assenta" quando o dia muda, não a cada busca ou filtro
   if(sel&&render.ultimoDia!==undefined&&render.ultimoDia!==S.dia) sel.classList.add("novo"); render.ultimoDia=S.dia;
   // filtros
@@ -425,21 +437,22 @@ function render(){
   // destaques do dia (respeitam os filtros escolhidos)
   const boa=document.querySelector("#boa");
   document.body.classList.toggle("buscando", !!S.q);
-  if(S.dia==="cartaz"||S.q){ boa.style.display="none"; document.querySelector("#tituloToda").style.display="none"; }
+  if(S.dia==="cartaz"||S.dia==="mes"||S.q){ boa.style.display="none"; document.querySelector("#tituloToda").style.display="none"; }
   else { boa.style.display=""; document.querySelector("#tituloToda").style.display="";
     const ds=(D.destaques&&D.destaques[S.dia])||[];
     const lst=ds.map(d=>{const e=E.find(x=>x.id===d.id); if(!e||!passaFiltros(e)) return null;
       const s=e.sessoes.find(x=>x.data===S.dia); return s?{it:{e,hora:s.hora},porque:(S.lang!=="pt"&&d["porque_"+S.lang])||d.porque}:null;}).filter(Boolean)
       .sort((a,b)=>a.it.hora<b.it.hora?-1:1);
-    document.querySelector("#destaques").innerHTML = lst.length? lst.map((x,k)=>card(x.it,k,x.porque)).join("")
-      : (ds.length? `<li class="vazio">${t("semDest")}</li>` : ""); }
+    document.querySelector("#destaques").innerHTML = (lst.length? lst.map((x,k)=>card(x.it,k,x.porque)).join("")
+      : (ds.length? `<li class="vazio">${t("semDest")}</li>` : ""))
+      + ((D.destaques_mes||[]).length? `<li class="vazio"><button class="btn vermes" data-dia="mes">${t("verBoaMes")}</button></li>` : ""); }
   // lista
   const its = itens(); render.atual = its;
-  document.querySelector("#contagem").textContent = t("n")(its.length);
+  document.querySelector("#contagem").textContent = S.dia==="mes" ? t("boaMesSub") : t("n")(its.length);
   document.querySelector("#baixar").style.visibility = (S.dia!=="cartaz" && its.length)?"visible":"hidden";
   let html="", ultima=null;
-  if(S.q){ let ud=null; its.forEach((it,k)=>{ if(it.data!==ud){ ud=it.data; html+=`<li class="hora">${it.data==="~"?t("cartaz"):(it.data===hojeISO?t("hoje"):tituloDiaCurto(dDia(it.data)))}</li>`; }
-      html+=card(it,k,null,it.hora); }); }
+  if(S.q||S.dia==="mes"){ let ud=null; its.forEach((it,k)=>{ if(it.data!==ud){ ud=it.data; html+=`<li class="hora">${it.data==="~"?t("cartaz"):(it.data===hojeISO?t("hoje"):tituloDiaCurto(dDia(it.data)))}</li>`; }
+      html+=card(it,k,it.porque||null,it.hora); }); }
   else its.forEach((it,k)=>{ if(it.hora && it.hora!==ultima){ html+=`<li class="hora">${hh(it.hora)}</li>`; ultima=it.hora;} html+=card(it,k); });
   document.querySelector("#lista").innerHTML = html || `<li class="vazio">${t("vazio")}</li>`;
   // grade dos cinemas: um bloco por cinema, um filme por linha com os horários do dia
@@ -460,7 +473,7 @@ function render(){
           return `<li><strong>${esc(x.e.local)}</strong> <small>· ${esc(x.e.bairro)}</small>${Object.entries(dias).map(([d,hs])=>`<div class="sess">${d===hojeISO?t("hoje"):tituloDiaCurto(dDia(d))}: ${hs.map(horaCine).join("")}</div>`).join("")}${x.e.preco_texto?`<span>${esc(x.e.preco_texto.replace(" (preço da plataforma)",""))}</span>`:""}</li>`; }).join("")+
         `</ul></details>`).join("")+`</section>`; }
   }
-  else if(S.dia!=="cartaz"){
+  else if(S.dia!=="cartaz"&&S.dia!=="mes"){
     const porCine={}; for(const e of E){ if(!e.automatica||!passaFiltros(e)) continue;
       const hs=e.sessoes.filter(x=>x.data===S.dia); if(!hs.length) continue;
       (porCine[e.local]=porCine[e.local]||{e,f:[]}).f.push({e,hs}); }
@@ -479,7 +492,7 @@ function render(){
   // uma boa fora do radar
   const filtrado = S.areas.length||S.regioes.length;
   let radar="";
-  if(filtrado && S.dia!=="cartaz"){
+  if(filtrado && S.dia!=="cartaz" && S.dia!=="mes"){
     const fora = E.filter(e=>e.tipo==="evento" && !e.automatica && e.sessoes.some(s=>s.data===S.dia) &&
       !( (S.areas.length? e.areas.some(a=>S.areas.includes(a)) : true) && (S.regioes.length? S.regioes.includes(e.regiao):true) ));
     if(fora.length){ const e=fora[(S.dia.charCodeAt(9)+fora.length)%fora.length]; const s=e.sessoes.find(s=>s.data===S.dia);

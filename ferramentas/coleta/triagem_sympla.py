@@ -62,7 +62,9 @@ def main(pasta):
                 dias = (dt.date.fromisoformat(e["fim"][:10]) - dt.date.fromisoformat(e["inicio"][:10])).days
             except ValueError:
                 dias = 0
-            if dias > 45:
+            # temporada longa de teatro, dança ou circo entra (decisão de 22/11/2026): a redação lista de quinta a
+            # domingo e põe o aviso de conferir os dias; o resto que só traz um período longo continua de fora
+            if dias > 45 and not re.search(r"\b(teatro|peca|espetaculo|musical|danca|circo|comedia|stand.?up|monologo|opera)\b", alvo):
                 motivo = "período longo, sem data precisa"
         if motivo:
             fora.append((motivo, e)); continue
@@ -70,6 +72,8 @@ def main(pasta):
         cand.append((prio, e))
     cand.sort(key=lambda x: (-x[0], x[1]["inicio"]))
     rotulo = {2: "PRIORIDADE: equipamento público ou espaço cultural", 1: "cultural", 0: "verificar"}
+    hoje = dt.date.today()
+    quarta = hoje + dt.timedelta(days=(2 - hoje.weekday()) % 7)
     with open(os.path.join(pasta, "FPLAT_sympla.txt"), "w", encoding="utf-8") as f:
         f.write("FPLAT_sympla | Sympla (extração e triagem automática do Todos os Rios) | https://www.sympla.com.br/eventos/rio-de-janeiro-rj\n")
         for nivel in (2, 1, 0):
@@ -78,8 +82,10 @@ def main(pasta):
                 if pr != nivel:
                     continue
                 di, hi = hora_rio(e["inicio"]); df, hf = hora_rio(e["fim"])
+                # temporada em andamento: a data da quarta faz a peneira enxergá-la toda semana enquanto durar
+                temporada = f" | TEMPORADA em cartaz na semana até {quarta.isoformat()}: dias não informados" if di < hoje.isoformat() and df > di else ""
                 f.write(f"{di} {hi} até {df} {hf} | {e['titulo']} | {e['local']}, {e['endereco']} {e['bairro']} | "
-                        f"organizador: {e['organizador']} | {e['link']}\n")
+                        f"organizador: {e['organizador']} | {e['link']}{temporada}\n")
     with open(os.path.join(pasta, "sympla-descartados.txt"), "w", encoding="utf-8") as f:
         for m, e in sorted(fora, key=lambda x: x[0]):
             f.write(f"{m} | {e['inicio'][:10]} | {e['titulo']} | {e['local']} | {e['organizador']}\n")

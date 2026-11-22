@@ -220,12 +220,12 @@ def fever():
               "inicio": local(p.get("first_active_session_date")), "fim": local(p.get("last_active_session_date")),
               "preco_a_partir": (p.get("price_info") or {}).get("amount"), "endereco": "", "datas": [],
               "texto": "", "link": f"https://feverup.com/m/{pid}"}
-        # só abre a página do evento se ele acontece nos próximos 45 dias (o resto não entra na edição)
+        # só abre a página do evento se ele acontece nos próximos 62 dias (o site mostra até dois meses)
         try:
             ini = dt.datetime.fromisoformat(ev["inicio"].replace("Z", "+00:00")).date()
         except ValueError:
             ini = None
-        if ini and dt.date.today() <= ini + dt.timedelta(days=200) and ini <= dt.date.today() + dt.timedelta(days=45):
+        if ini and dt.date.today() <= ini + dt.timedelta(days=200) and ini <= dt.date.today() + dt.timedelta(days=62):
             st, pg = baixar(ev["link"])
             time.sleep(PAUSA)
             if st == 200:

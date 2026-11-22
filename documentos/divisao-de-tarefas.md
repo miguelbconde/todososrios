@@ -21,7 +21,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 
 - Visita as fontes do cadastro e guarda o texto fora do site.
 - Extrai a grade da Ingresso.com e os eventos da Sympla e da Fever, já triados por regra, e lê as agendas do Sesc RJ e do Arte que Acontece (desde 22/11/2026, por padrão).
-- Monta a edição de quinta a quarta a partir da base de fichas, de hoje em diante. Às quintas, a edição nova abre sozinha.
+- Monta a programação a partir da base de fichas, de hoje até dois meses à frente (desde 22/11/2026; antes, edição semanal de quinta a quarta).
 - Refaz a grade de todos os cinemas.
 - Completa "A boa" nos dias que não têm destaque escolhido pela redação, com regra fixa: diversidade de regiões, áreas e espaços, prioridade para o grátis e o barato, para espaços públicos e para fora da Zona Sul.
 - Publica o site, os calendários e os dados abertos.
@@ -35,7 +35,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
 - Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
-- Escolhe "A boa" dos dias que ainda não têm destaque.
+- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque e mantém "A boa do mês" (6 a 10 escolhas para os próximos dois meses).
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
 - Manda à coordenação o relatório de exceções.
 - Não mexe no código, no cadastro nem nas tarefas agendadas.

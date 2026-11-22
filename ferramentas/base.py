@@ -26,16 +26,17 @@ def hoje():
     return os.environ.get("HOJE") or dt.datetime.now(BRT).date().isoformat()
 
 
+JANELA_DIAS = 60  # decisão de 22/11/2026: o site mostra até dois meses à frente, não mais uma edição semanal
+
+
 def edicao_de(dia):
-    """Edição que contém o dia: de quinta a quarta. O identificador é a data da quinta."""
+    """Programação no ar: de hoje até JANELA_DIAS à frente (decisão de 22/11/2026).
+    O identificador continua sendo a quinta da semana, só para nomear a pasta de trabalho."""
     d = dt.date.fromisoformat(dia)
-    ini = d - dt.timedelta(days=(d.weekday() - 3) % 7)
-    fim = ini + dt.timedelta(days=6)
-    if ini.month == fim.month:
-        titulo = f"Edição de {ini.day} a {fim.day} de {MESES[fim.month - 1]} de {fim.year}"
-    else:
-        titulo = f"Edição de {ini.day} de {MESES[ini.month - 1]} a {fim.day} de {MESES[fim.month - 1]} de {fim.year}"
-    return {"id": ini.isoformat(), "inicio": ini.isoformat(), "fim": fim.isoformat(), "titulo": titulo}
+    semana = d - dt.timedelta(days=(d.weekday() - 3) % 7)
+    fim = d + dt.timedelta(days=JANELA_DIAS)
+    titulo = f"Programação de hoje até {fim.day} de {MESES[fim.month - 1]} de {fim.year}"
+    return {"id": semana.isoformat(), "inicio": d.isoformat(), "fim": fim.isoformat(), "titulo": titulo}
 
 
 def slug(s):

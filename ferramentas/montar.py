@@ -141,8 +141,10 @@ def main(plataformas=None):
         sys.path.insert(0, os.path.join(base.RAIZ, "ferramentas", "redacao"))
         import traduzir
         traduzir.gravar(novas_trad)
+    # "A boa do mês" (desde 22/11/2026): escolha da redação, só com o que ainda está por vir; sem escolha, não aparece
+    mes = [x for x in dest_base.get("mes", []) if x["id"] in por_id]
     base.gravar(os.path.join(pasta, "destaques.json"),
-                {"criterios_versao": dest_base.get("criterios_versao", "2026-11-15"), "dias": dias, "automaticos": auto})
+                {"criterios_versao": dest_base.get("criterios_versao", "2026-11-15"), "dias": dias, "mes": mes, "automaticos": auto})
 
     gerar.main(ed["id"])
     print(f"Edição {ed['id']} montada para {dia}: {len(eventos)} fichas da redação"

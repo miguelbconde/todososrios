@@ -1,6 +1,6 @@
 # Protocolo de coleta e atualização do Todos os Rios
 
-*Versão 3.1 · 22/11/2026 (sem teto diário; entrega em lotes; Fever). Versão 3 · 21/11/2026. Reescrita do zero: o robô publica sozinho e o Claude só entrega fichas. A divisão de tarefas entre robô, Claude e coordenação editorial está em `documentos/divisao-de-tarefas.md`.*
+*Versão 3.2 · 22/11/2026 (programação de dois meses à frente; temporadas sem os dias; "A boa do mês"). Versão 3.1 · 22/11/2026 (sem teto diário; entrega em lotes; Fever). Versão 3 · 21/11/2026. Reescrita do zero: o robô publica sozinho e o Claude só entrega fichas. A divisão de tarefas entre robô, Claude e coordenação editorial está em `documentos/divisao-de-tarefas.md`.*
 
 Quem executa não tem memória das conversas anteriores: tudo o que precisa está aqui, no `plano-diretor.md` (seções 4, 7 e 8) e no próprio repositório.
 
@@ -30,7 +30,7 @@ Regras que não mudam:
 
 ```
 cd /home/claude/todososrios            # clone do repositório miguelbconde/todososrios
-python3 ferramentas/base.py            # mostra: hoje, edição, início, fim
+python3 ferramentas/base.py            # mostra: hoje, pasta de trabalho, início (hoje) e fim (hoje + 60 dias)
 git fetch --depth 1 origin coleta-bruta
 mkdir -p /home/claude/bruta /home/claude/trabalho && git archive FETCH_HEAD | tar -x -C /home/claude/bruta
 python3 -I ferramentas/coleta/peneirar.py /home/claude/bruta <hoje> <fim> /home/claude/trabalho/novo.txt dados/coleta/vistos.json
@@ -41,6 +41,8 @@ Confira em `/home/claude/bruta/resumo.json` (campo `feito_em`, em UTC) se a rond
 ### 2.2 O que redigir, em ordem de prioridade
 
 **Sem teto (decisão editorial de 22/11/2026):** o Todos os Rios quer ser a referência de tudo o que acontece na cidade, então redija **tudo** o que cabe nos critérios, na ordem de prioridade abaixo. **Entregue em lotes** de até 20 fichas (passos 2.5 a 2.8 a cada lote, com envio ao repositório): se o limite de uso acabar no meio, o que já foi entregue está salvo. Só o que não deu tempo de redigir vai para `dados/coleta/pendentes.json`, que é a primeira coisa a ler no dia seguinte.
+
+**Horizonte de dois meses (decisão de 22/11/2026):** o site não é mais uma edição semanal. Mostra tudo o que está confirmado de hoje até 60 dias à frente, para as pessoas se planejarem com antecedência (shows disputados, estreias, festivais). Redija **todas as sessões** que a fonte informa dentro dessa janela, não só as da semana. Dentro de cada grupo abaixo, comece pelas datas mais próximas.
 
 1. **Pendências de ontem:** `dados/coleta/pendentes.json`.
 2. **PDF da Secretaria Municipal de Cultura** em `entrada/`, se houver um que ainda não aparece no campo `nota` de `dados/entregas.json`. Ele é a fonte principal da rede municipal: arenas, areninhas, lonas, teatros, bibliotecas e museus. Um PDF rende dezenas de fichas: comece pelos eventos mais próximos e redija todos. Cite o nome do arquivo na `nota` da entrega.
@@ -63,6 +65,7 @@ Para completar hora, preço, endereço ou classificação, faça buscas pontuais
 - Sesc RJ (desde 22/11/2026): `FAGENDA_sesc` traz uma linha por sessão nas unidades da cidade, com dia, hora, unidade, bairro, preços e o começo da sinopse oficial. É a fonte oficial: fonte "Sesc RJ (programação oficial)" e link da página do evento. Preço popular pela inteira. Ficam de fora os cursos e oficinas pagos, como em qualquer fonte.
 - Arte que Acontece (desde 22/11/2026): `FAGENDA_arteacontece` traz as exposições em cartaz no Rio, com período, lugar e link. É **radar de fatos**: escreva a ficha (tipo "cartaz") a partir da fonte oficial do museu ou da galeria (procure nas outras linhas da ronda; se precisar, uma busca pontual), sem copiar texto do portal. Se nenhuma fonte oficial der os fatos, use os do portal, com a fonte "Arte que Acontece" e o link dele. Horário de visitação: o da fonte oficial; se não houver, diga na nota e deixe o campo vazio.
 - Fever (desde 22/11/2026): mesma regra da Sympla; a fonte é "Fever (extração do Todos os Rios)" quando só ela tem o evento. Cada linha traz as datas e horas das sessões ("datas:") e o começo do texto da página, de onde sai o trecho exato. O preço "a partir de" da Fever pode ser de um setor especial ou de meia-entrada: confira a inteira no texto antes de marcar preço popular. Vendem pela Fever, entre outros, o Theatro Municipal (balé, Música no Assyrio, Sala Mário Tavares) e a série Candlelight. Vales-presente, passeios turísticos e eventos em "localização secreta" já saem descartados (`fever-descartados.txt`).
+- **Temporada sem os dias** (decisão editorial de 22/11/2026): quando a fonte (em geral a Sympla, linha marcada "TEMPORADA" ou com um período "de ... até ...") dá só o período de uma peça, espetáculo de dança ou circo, sem dizer em que dias há sessão, liste as sessões **de quinta a domingo**, no horário informado, do primeiro dia da temporada (ou de hoje) até o fim dela ou até o fim da janela de 60 dias. Ponha `"aviso": "dias"` na ficha: o site mostra um aviso para conferir os dias no link do evento. Diga na `nota_redacao` que os dias foram presumidos. Se a fonte informar os dias, use os dias da fonte e não ponha aviso.
 - Quando o site dá só "a partir de R$ X", escreva assim no `preco_texto` e ponha X em `preco_min` e `preco_max`. Não invente a inteira.
 - Dia da semana vira data. Confira feriados.
 
@@ -84,7 +87,9 @@ Corrija o que der. O que a fonte não resolve vira um apontamento com `resolucao
 
 ### 2.6 "A boa"
 
-Os destaques seguem as regras públicas da seção 7 do plano diretor. Para cada dia, de amanhã até o fim da edição, que ainda não tem destaque da redação em `dados/destaques.json`, escolha até 6, com um "por que ir" de uma linha. Dia que já tem destaque só muda se um deles foi cancelado ou se chegou algo claramente melhor. Sem a sua escolha, o robô preenche pela regra fixa, e o site nunca fica sem "A boa".
+Os destaques seguem as regras públicas da seção 7 do plano diretor. Para cada dia **dos próximos 7 dias** (de amanhã em diante) que ainda não tem destaque da redação em `dados/destaques.json`, escolha até 6, com um "por que ir" de uma linha. Os dias mais distantes ficam com a regra fixa do robô até entrarem na janela de 7 dias.
+
+**"A boa do mês"** (desde 22/11/2026): uma lista de 6 a 10 escolhas da redação para os próximos 60 dias, o que vale planejar desde já: shows e espetáculos que costumam esgotar, estreias, festivais, grandes exposições que abrem. Mesmas regras públicas de diversidade (regiões, áreas, gratuidade, espaço público), sempre com status "conferido". Entregue na chave `destaques_mes` (a lista inteira, que substitui a anterior), com "por que ir" e as traduções. Revise quando algum item já tiver passado ou chegar algo claramente melhor; sem lista, o botão não aparece no site. Dia que já tem destaque só muda se um deles foi cancelado ou se chegou algo claramente melhor. Sem a sua escolha, o robô preenche pela regra fixa, e o site nunca fica sem "A boa".
 
 ### 2.7 Traduções
 
