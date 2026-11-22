@@ -245,7 +245,7 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 
 - **Base permanente:** as fichas da redação ficam em `dados/fichas.json`, com todas as sessões. A edição de quinta a quarta não é mais escrita à mão: o robô a monta a partir da base, de hoje em diante, e às quintas a edição nova abre sozinha.
 - **Robô (sem IA, gratuito, no GitHub):** depois da ronda das 4h17, monta a edição, refaz o cinema, completa "A boa" pela regra fixa nos dias sem destaque da redação, publica o site e escreve o boletim de saúde (`dados/coleta/saude.md`). Se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, abre um aviso no GitHub, que chega por e-mail.
-- **Claude (tarefa diária curta):** lê só o que é novo, redige até 25 fichas por dia, confere, traduz, escolhe "A boa" e entrega com `ferramentas/entregar.py`, que recusa a ficha com problema grave. O que passar do teto fica em `dados/coleta/pendentes.json`, para o dia seguinte. Quem publica é o robô.
+- **Claude (tarefa diária curta):** lê só o que é novo, redige tudo o que cabe nos critérios, sem teto diário (decisão de 22/11/2026: um teto vai contra a missão de ser a referência da agenda da cidade), entregando em lotes, confere, traduz, escolhe "A boa" e entrega com `ferramentas/entregar.py`, que recusa a ficha com problema grave. O que não der tempo de redigir fica em `dados/coleta/pendentes.json`, para o dia seguinte. Quem publica é o robô.
 - Passo a passo em `documentos/protocolo-de-coleta.md` (versão 3); divisão de tarefas em `documentos/divisao-de-tarefas.md`.
 
 ## 11. Próximos passos
@@ -285,7 +285,7 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 - Repositório renomeado (19/11/2026): `github.com/miguelbconde/todososrios`; endereço provisório do site `miguelbconde.github.io/todososrios`. O todososrios.com.br tem repositório próprio (`miguelbconde/todososrios-com-br`), só com a página que encaminha para o site; enquanto o .rio não sai, encaminha para o endereço provisório.
 
 **Tomadas (21/11/2026):**
-- Atualização diária refeita do zero: robô publica sozinho; o Claude só entrega fichas, com teto diário; alarme por e-mail (seção 10).
+- Atualização diária refeita do zero: robô publica sozinho; o Claude só entrega fichas (o teto diário inicial de 25 caiu em 22/11/2026); alarme por e-mail (seção 10).
 - Fichas automáticas da rede municipal: a Sympla traz, com dia, hora e endereço, boa parte da programação de arenas, areninhas e teatros da Prefeitura (organizador "Município do Rio de Janeiro"). O robô publica sozinho a parte segura (shows, tributos, cineclubes, rodas de conversa, comédia, teatros municipais); dança, circo, oficinas e espetáculos de areninha, quase sempre apresentações de escola, ficam com a redação, que também pode vetar o que o robô publicou. O PDF da Secretaria continua sendo a fonte principal da rede, mas a semana já não fica vazia sem ele.
 
 **Pendente:**

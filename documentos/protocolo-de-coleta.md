@@ -40,7 +40,7 @@ Confira em `/home/claude/bruta/resumo.json` (campo `feito_em`, em UTC) se a rond
 
 ### 2.2 O que redigir, em ordem de prioridade
 
-**Teto: 25 fichas novas por dia**, fora as correções. O que passar do teto vai para `dados/coleta/pendentes.json`, que é a primeira coisa a ler no dia seguinte.
+**Sem teto (decisão editorial de 22/11/2026):** o Todos os Rios quer ser a referência de tudo o que acontece na cidade, então redija **tudo** o que cabe nos critérios, na ordem de prioridade abaixo. **Entregue em lotes** de até 20 fichas (passos 2.5 a 2.8 a cada lote, com envio ao repositório): se o limite de uso acabar no meio, o que já foi entregue está salvo. Só o que não deu tempo de redigir vai para `dados/coleta/pendentes.json`, que é a primeira coisa a ler no dia seguinte.
 
 1. **Pendências de ontem:** `dados/coleta/pendentes.json`.
 2. **PDF da Secretaria Municipal de Cultura** em `entrada/`, se houver um que ainda não aparece no campo `nota` de `dados/entregas.json`. Ele é a fonte principal da rede municipal: arenas, areninhas, lonas, teatros, bibliotecas e museus. Um PDF rende mais que 25 fichas: comece pelos eventos mais próximos e deixe o resto em pendentes. Cite o nome do arquivo na `nota` da entrega.
@@ -94,7 +94,7 @@ Para cada sinopse nova e cada "por que ir" novo, escreva as versões em inglês 
 1. Escreva `/home/claude/trabalho/entrega.json` (formato no começo de `ferramentas/entregar.py`). Para saber o `id` de uma ficha nova (para usar em apontamentos e destaques): `python3 ferramentas/entregar.py id "<título>" "<local>"`.
 2. Rode `python3 ferramentas/entregar.py /home/claude/trabalho/entrega.json`. Ele recusa a ficha com problema grave e diz o motivo: corrija e rode de novo só com ela. No fim, mostra o teste de montagem: "0 alertas de curadoria" é o esperado.
 3. **Num dia sem nada de novo, entregue mesmo assim**, com `{"nota": "nada de novo"}`. É isso que avisa o robô de que a tarefa rodou; sem entrega por 2 dias, dispara o alarme.
-4. Grave em `dados/coleta/pendentes.json` o que ficou para depois, como `{"pendentes": [{"fonte": "F045", "titulo": "...", "data": "AAAA-MM-DD", "motivo": "teto do dia"}]}`, **sem copiar texto da fonte**. Tire de lá o que você redigiu hoje.
+4. Grave em `dados/coleta/pendentes.json` o que ficou para depois, como `{"pendentes": [{"fonte": "F045", "titulo": "...", "data": "AAAA-MM-DD", "motivo": "não deu tempo"}]}`, **sem copiar texto da fonte**. Tire de lá o que você redigiu hoje.
 5. Marque o que foi visto: `cp /home/claude/trabalho/novo.txt.vistos dados/coleta/vistos.json`.
 6. Envie só a base. O site é publicado pelo robô:
    ```

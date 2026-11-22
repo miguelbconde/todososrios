@@ -34,7 +34,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
-- Decide o que entra pelos critérios editoriais, redige até **25 fichas novas por dia**, passa pela dupla checagem e traduz.
+- Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
 - Revê os títulos das fichas automáticas novas: veta o que não cabe e dá sinopse própria às melhores.
 - Escolhe "A boa" dos dias que ainda não têm destaque.
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
@@ -112,4 +112,4 @@ No máximo 10 linhas, em português simples:
 3. **Fontes organizadas:** feito em parte (21/11). O robô já lê sozinho a rede municipal na Sympla. Os dados organizados dos sites ainda são fracos demais para virar ficha sem erro. Próximos candidatos: temporadas da Sympla e sites que montam a agenda depois de abrir (Circo Voador, Blue Note, Caixa Cultural).
 4. ~~Nova tarefa diária enxuta~~ (21/11).
 5. ~~Tarefa antiga apagada~~ (21/11).
-6. **Revisar depois de uma semana** de funcionamento: teto de fichas, horário da tarefa, consumo do plano.
+6. **Revisar depois de uma semana** de funcionamento: horário da tarefa, consumo do plano.
