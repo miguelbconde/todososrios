@@ -28,7 +28,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Publica de novo sempre que o Claude entrega fichas.
 - Escreve o **boletim de saúde** (`dados/coleta/saude.md`).
 - **Alarme:** se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, abre um aviso no GitHub ("Alarme do robô"), que chega por e-mail. O aviso se fecha sozinho quando tudo volta ao normal.
-- Transforma em ficha, sozinho, os eventos da rede municipal que a Sympla publica com dia e hora certos e que ele reconhece com segurança: shows, tributos, cineclubes, rodas de conversa, comédia e teatros municipais. A sinopse é uma linha de fatos; o Claude pode vetar ou trocar por sinopse própria.
+- Transforma em ficha, sozinho, os eventos da rede municipal que a Sympla publica com dia e hora certos e que ele reconhece com segurança: shows, tributos, cineclubes, rodas de conversa, comédia e teatros municipais. Desde 22/11/2026, faz o mesmo com os palcos públicos que vendem pela Fever (Theatro Municipal, Sala Mário Tavares, Sala Cecília Meireles). A sinopse é uma linha de fatos; o Claude pode vetar ou trocar por sinopse própria.
 
 ### 2. Claude, tarefa diária (todo dia de manhã, sem conversa)
 

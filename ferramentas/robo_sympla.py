@@ -13,6 +13,10 @@ local, endereço, dia e hora. O robô transforma em ficha só o que é seguro:
 A ficha traz só fatos. A linha descritiva é montada dos fatos; a redação pode trocá-la por uma
 sinopse própria entregando uma correção com o mesmo código.
 
+Desde 22/11/2026, também da Fever: só os eventos dos palcos públicos que vendem por lá (Theatro Municipal,
+Sala Mário Tavares, Sala Cecília Meireles), com dia e hora tirados dos dados estruturados de cada evento,
+local que o robô reconhece e área clara no título. Visitas guiadas, oficinas e o resto da Fever ficam para a redação.
+
 Grava dados/robo.json, refeito a cada ronda.
 Uso: python3 ferramentas/robo_sympla.py <plataformas.json>
 """
@@ -46,7 +50,7 @@ AREAS = [  # (área, padrão no título, sem acento)
     ("Festas & Feiras", r"\b(baile|festa|feira|charme|bloco|cortejo|arraia)\b"),
     ("Artes Visuais", r"\b(exposicao|mostra de arte|galeria|vernissage|fotografia)\b"),
     ("Música", r"\b(show|samba|choro|pagode|roda|forro|jazz|blues|mpb|rap|funk|rock|concerto|orquestra|tributo|musical|cantor|cantora|banda|sertanej|reggae|homenagem)\b"),
-    ("Teatro", r"\b(teatro|peca|espetaculo|danca|circo|comedia|stand.?up|monologo|performance|humor)\b"),
+    ("Teatro", r"\b(teatro|peca|espetaculo|danca|circo|comedia|stand.?up|monologo|performance|humor|ballet|bale|opera)\b"),
 ]
 
 
@@ -149,6 +153,7 @@ def main(plataformas):
             trecho_fonte=f"Sympla · {e['titulo']} · {d_ini} {h_ini} · {e['local']}, {e['endereco']} · organizador: {e['organizador']}",
             nota_redacao="Ficha automática, montada dos dados da Sympla sem redação de IA. A Sympla não informa o preço nesta listagem.",
             robo=True)
+    n_fever = fever(p, locais, ja, vetos, saida, sem_local)
     for f in saida.values():
         f["sessoes"].sort(key=lambda s: (s["data"], s["hora"]))
     base.gravar(ARQ_ROBO, {"feito_em": p.get("feito_em"), "fichas": sorted(saida.values(), key=lambda f: f["sessoes"][0]["data"]),
@@ -156,7 +161,64 @@ def main(plataformas):
     print(f"Robô da Sympla: {len(saida)} fichas da rede municipal; {repetidos} já estavam na redação; "
           f"{sum(sem_local.values())} em {len(sem_local)} locais que o robô ainda não conhece; {sem_area} sem área clara e "
           f"{escola} com cara de apresentação de escola ou atividade não cultural (ficam para a redação); "
-          f"{vetados} vetados pela redação; {outros} temporadas ou fora dos critérios")
+          f"{vetados} vetados pela redação; {outros} temporadas ou fora dos critérios. Fever (palcos públicos): {n_fever} fichas")
+
+
+PALCO_PUBLICO_FEVER = re.compile(r"theatro municipal|sala mario tavares|sala cecilia meireles")
+FORA_FEVER = re.compile(r"\b(visita|oficina|tour|cartao-presente|workshop|aula)")
+
+
+def fever(p, locais, ja, vetos, saida, sem_local):
+    """Fichas automáticas dos palcos públicos que vendem pela Fever. Devolve quantas fichas fez."""
+    feitos = 0
+    for e in p.get("fever", {}).get("eventos", []):
+        local_n = tri.n(e.get("local", ""))
+        titulo_n = tri.n(e.get("titulo", ""))
+        if not PALCO_PUBLICO_FEVER.search(local_n) or FORA_FEVER.search(titulo_n):
+            continue
+        if any(re.search(r, titulo_n) for _, r in tri.FORA):
+            continue
+        areas = areas_de(e["titulo"])
+        if not areas:
+            continue
+        # sessões: dos dados estruturados de cada evento ("AAAA-MM-DD HH:MM, HH:MM"); sem elas, só evento de um dia
+        sessoes = []
+        for d in e.get("datas", []):
+            m = re.match(r"(\d{4}-\d{2}-\d{2})\s+(.*)", d)
+            if m:
+                sessoes += [{"data": m.group(1), "hora": h.strip()} for h in m.group(2).split(",") if re.fullmatch(r"\d{2}:\d{2}", h.strip())]
+        if not sessoes:
+            d_ini, h_ini = tri.hora_rio(e.get("inicio", ""))
+            d_fim, _ = tri.hora_rio(e.get("fim", ""))
+            if d_ini == d_fim and h_ini:
+                sessoes = [{"data": d_ini, "hora": h_ini}]
+        if not sessoes:
+            continue
+        l = achar_local(e["local"], locais)
+        if not l:
+            sem_local[e["local"]] = sem_local.get(e["local"], 0) + 1; continue
+        sessoes = [s for s in sessoes if not any(f["local"] == l["local"] and (parecido(f["titulo"], e["titulo"])
+                   or s["hora"] in {x["hora"] for x in f["sessoes"] if x["data"] == s["data"]}) for f in ja.get(s["data"], []))]
+        if not sessoes:
+            continue
+        titulo = re.sub(r"\s+", " ", e["titulo"]).strip(" -–")
+        titulo = titulo[:1].upper() + titulo[1:]
+        fid = base.novo_id(titulo, l["local"])
+        if fid in vetos or fid in saida:
+            continue
+        saida[fid] = dict(
+            id=fid, titulo=titulo, areas=areas, tipo="evento", local=l["local"], endereco=l["endereco"],
+            bairro=l["bairro"], regiao=l["regiao"], sessoes=sorted({(s["data"], s["hora"]) for s in sessoes}), cartaz=None,
+            preco_texto="Ingresso pela Fever", preco_min=None, preco_max=None, gratis=False,
+            classificacao="", acessibilidade="", na_rua=False,
+            sinopse=f"Programação de {l['local']}, palco público, em {l['bairro']}.",
+            fonte="Fever (extração do Todos os Rios)", link=e["link"],
+            trecho_fonte=f"Fever · {e['titulo']} · {'; '.join(e.get('datas', [])) or e.get('inicio', '')} · {e['local']}, {e.get('endereco', '')}",
+            nota_redacao="Ficha automática, montada dos dados estruturados da Fever sem redação de IA. O preço da Fever ('a partir de') pode ser de setor especial: não é publicado.",
+            robo=True)
+        saida[fid]["sessoes"] = [{"data": d, "hora": h} for d, h in saida[fid]["sessoes"]]
+        feitos += 1
+    return feitos
 
 
 if __name__ == "__main__":

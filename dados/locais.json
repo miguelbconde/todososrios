@@ -1,1 +1,14 @@
-{"locais": []}
+{
+ "locais": [
+  {
+   "local": "Sala Mário Tavares",
+   "endereco": "Avenida Almirante Barroso, 14 (prédio anexo ao Theatro Municipal)",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "apelidos": [
+    "Sala Mario Tavares"
+   ],
+   "fonte": "Fever, página do evento, 22/11/2026"
+  }
+ ]
+}
