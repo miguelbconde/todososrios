@@ -37,7 +37,11 @@ def main(plat=None):
     p = base.ler(plat, {}) if plat else {}
     n_cine = len(p.get("ingresso", {}).get("sessoes", []))
     n_sym = len(p.get("sympla", {}).get("eventos", []))
-    linhas += [f"- Ingresso.com: {n_cine} sessões de cinema", f"- Sympla: {n_sym} eventos no Rio"]
+    if plat:
+        linhas += [f"- Ingresso.com: {n_cine} sessões de cinema", f"- Sympla: {n_sym} eventos no Rio",
+                   f"- Fever: {len(p.get('fever', {}).get('eventos', []))} eventos no Rio"]
+    else:  # rodada só de publicação (entrega da redação): não há extração nova para contar
+        linhas += ["- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`."]
     if plat and n_cine == 0:
         alarmes.append("a grade de cinema da Ingresso.com veio vazia")
     if plat and n_sym == 0:
