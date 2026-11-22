@@ -1,0 +1,21 @@
+{
+  "name": "Todos os Rios — Agenda cultural do Rio de Janeiro",
+  "short_name": "Todos os Rios",
+  "description": "Agenda cultural do Rio de Janeiro: pública, gratuita e aberta. Música, teatro, artes visuais, cinema, livros, festas e programação infantil em todas as regiões da cidade.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f4ec",
+  "theme_color": "#f8f4ec",
+  "categories": ["entertainment", "lifestyle", "news"],
+  "icons": [
+    {"src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "icones/icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}

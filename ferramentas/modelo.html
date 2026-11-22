@@ -6,6 +6,15 @@
 <!--__CABECA__-->
 <meta name="theme-color" content="#f8f4ec" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#143b70" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="__RAIZ__manifest.webmanifest">
+<link rel="icon" href="__RAIZ__icones/icone.svg" type="image/svg+xml">
+<link rel="icon" href="__RAIZ__icones/icone-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="__RAIZ__icones/icone-180.png">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Todos os Rios">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<script>if('serviceWorker' in navigator){addEventListener('load',function(){navigator.serviceWorker.register('__RAIZ__sw.js',{scope:'__RAIZ__'||'./'}).catch(function(){})})}</script>
 <script>(function(){try{var m=localStorage.getItem('largo:tema');if(m==='claro'||m==='escuro')document.documentElement.dataset.tema=m}catch(e){}})();</script>
 <style>
 /* Gabarito (Naipe Foundry, Rio/Barcelona), licença SIL OFL 1.1 — ver docs/fontes/Gabarito-OFL.txt. Recorte: pesos 500 e 800, letras latinas. */
