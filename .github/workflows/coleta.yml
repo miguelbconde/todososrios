@@ -2,7 +2,7 @@ name: Ronda diária das fontes
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7 5 * * *"   # todo dia, 2h07 no horário de Brasília (o GitHub costuma atrasar até 1h30; assim a ronda termina antes da tarefa do Claude, às 6h47)
+    - cron: "7 5 * * *"   # todo dia, 2h07 no horário de Brasília (o GitHub costuma atrasar até 1h30; assim a ronda termina antes da tarefa do Claude, às 5h43)
   push:
     paths:
       - "ferramentas/coleta/coletar.py"

@@ -27,10 +27,10 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Publica o site, os calendários e os dados abertos.
 - Publica de novo sempre que o Claude entrega fichas.
 - Escreve o **boletim de saúde** (`dados/coleta/saude.md`).
-- **Alarme:** se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, abre um aviso no GitHub ("Alarme do robô"), que chega por e-mail ao endereço cadastrado na conta do GitHub. A tarefa diária do Claude também lê os alarmes do boletim e os repete na notificação do celular. O aviso se fecha sozinho quando tudo volta ao normal.
+- **Alarme:** se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, abre um aviso no GitHub ("Alarme do robô"), que chega por e-mail ao endereço cadastrado na conta do GitHub. O aviso se fecha sozinho quando tudo volta ao normal.
 - **Não redige nem publica fichas de evento sozinho** (decisão de 22/11/2026: a confiabilidade do site vem primeiro). O leitor automático da rede municipal na Sympla e dos palcos públicos na Fever fica desligado e só volta como último recurso, se o limite de uso tornar a redação inviável. A grade de cinema continua automática, porque vem pronta da Ingresso.com.
 
-### 2. Claude, tarefa diária (todo dia às 6h47, sem conversa)
+### 2. Claude, tarefa diária (todo dia às 5h43, sem conversa)
 
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
@@ -71,7 +71,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 | Quando | O quê | Quem |
 |---|---|---|
 | Todo dia, 2h07 (o GitHub costuma atrasar até 1h30) | Coleta, montagem da edição, publicação, boletim, alarme | Robô |
-| Todo dia, 6h47 | Fichas de texto corrido, conferência, "A boa", relatório | Claude (tarefa) |
+| Todo dia, 5h43 | Fichas de texto corrido, conferência, "A boa", relatório | Claude (tarefa) |
 | Logo depois da entrega | Nova publicação, já com as fichas do Claude | Robô |
 | Quarta à noite | PDF da Secretaria em `entrada/` | Coordenação |
 | Quinta | A edição nova abre sozinha; a tarefa do Claude incorpora o PDF | Robô e Claude |
@@ -111,4 +111,4 @@ No máximo 10 linhas, em português simples:
 3. **Fontes organizadas:** feito em parte (21/11). O robô já lê sozinho a rede municipal na Sympla. Os dados organizados dos sites ainda são fracos demais para virar ficha sem erro. Próximos candidatos: temporadas da Sympla e sites que montam a agenda depois de abrir (Circo Voador, Blue Note, Caixa Cultural).
 4. ~~Nova tarefa diária enxuta~~ (21/11).
 5. ~~Tarefa antiga apagada~~ (21/11).
-6. ~~Horário~~ (23/11: ronda às 2h07 e tarefa às 6h47, para a tarefa sempre ler a ronda do dia). **Revisar depois de uma semana** de funcionamento: horário da tarefa, consumo do plano.
+6. ~~Horário~~ (23/11: ronda adiantada para 2h07, para terminar antes da tarefa das 5h43 e a tarefa sempre ler a ronda do dia). **Revisar depois de uma semana** de funcionamento: horário da tarefa, consumo do plano.
