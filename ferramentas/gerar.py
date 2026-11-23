@@ -77,9 +77,27 @@ PUBLICOS = ("municipal", "Municipal", "Arena", "Areninha", "Biblioteca", "Muhcab
             "Teatro de", "Sesc", "CCBB", "Espaço Cultural")
 
 
-REGIOES_BOA = ("Centro", "Zona Sul", "Zona Norte", "Zona Oeste")  # "A boa" (22/11/2026): 4 por dia, uma em cada região
-MAX_BOA = 4
-MES_MIN, MES_MAX = 3, 4  # "A boa do mês" (22/11/2026): 3 ou 4 grandes nomes e eventos de compra antecipada
+# "A boa" (decisão de 23/11/2026): 3 destaques por dia, cada um numa vaga
+#   1. o show do dia: o melhor de Música, pela força da atração, sem amarra de preço ou região;
+#   2. na rua: uma atividade ao ar livre ou em espaço público, de qualquer seção;
+#   3. a seção da vez: roda, dia a dia, entre as outras seções (ordem abaixo); se a seção do dia
+#      não tem opção conferida, passa para a seguinte.
+# Território: pelo menos um dos três fora do eixo Centro–Zona Sul, quando o dia oferece.
+MAX_BOA = 3
+RODIZIO = ("Teatro", "Artes Visuais", "Cinema", "Livros & Debates", "Festas & Feiras", "Infantil")
+EIXO = ("Centro", "Zona Sul")
+MES_MIN, MES_MAX = 3, 4  # "As boas do mês" (22/11/2026): 3 ou 4 grandes nomes e eventos de compra antecipada
+MES_MAX_DATAS = 4  # (23/11/2026) só atrações com poucas apresentações; temporada longa não entra
+
+
+def secao_da_vez(dia, pool):
+    """A seção do rodízio no dia; se ela não tem opção no dia, a seguinte que tiver."""
+    i0 = dt.date.fromisoformat(dia).toordinal() % len(RODIZIO)
+    for k in range(len(RODIZIO)):
+        s = RODIZIO[(i0 + k) % len(RODIZIO)]
+        if any(s in e["areas"] for e in pool):
+            return s
+    return None
 
 
 def validar_destaques(eventos, destaques):
@@ -99,34 +117,29 @@ def validar_destaques(eventos, destaques):
             if not any(x["data"] == dia for x in e["sessoes"]):
                 alertas.append((dia, f"“{e['titulo']}” não tem sessão neste dia"))
             esc.append(e)
-        def possivel(n):  # o dia permite atingir n?
-            return min(n, len(lista))
         if len(lista) > MAX_BOA:
             alertas.append((dia, f"{len(lista)} destaques; o máximo é {MAX_BOA}"))
-        regs = {e["regiao"] for e in esc}; regs_pool = {e["regiao"] for e in pool}
-        faltam = [r for r in REGIOES_BOA if r in regs_pool and r not in regs]  # decisão de 22/11/2026: uma em cada
-        if faltam:
-            alertas.append((dia, f"Falta destaque em: {', '.join(faltam)} (o dia oferecia)"))
-        areas = {a for e in esc for a in e["areas"]}; areas_pool = {a for e in pool for a in e["areas"]}
-        if len(areas) < possivel(min(3, len(areas_pool))):
-            alertas.append((dia, f"Só {len(areas)} área(s); o dia oferecia {len(areas_pool)}"))
-        baratos = sum(e["faixa"] in ("gratis", "popular") for e in esc)
-        locais_baratos = {e["local"] for e in pool if e["faixa"] in ("gratis", "popular")}  # um destaque por espaço
-        if esc and baratos * 2 < len(esc) and len(locais_baratos) >= len(esc) / 2:
-            alertas.append((dia, f"Só {baratos} de {len(esc)} destaques grátis ou a preço popular"))
+        if any("Música" in e["areas"] for e in pool) and not any("Música" in e["areas"] for e in esc):
+            alertas.append((dia, "Falta o show do dia (o dia tinha música)"))
+        if any(e.get("na_rua") for e in pool) and not any(e.get("na_rua") for e in esc):
+            alertas.append((dia, "Falta um destaque na rua (o dia oferecia)"))
+        vez = secao_da_vez(dia, pool)
+        if vez and not any(vez in e["areas"] for e in esc):
+            alertas.append((dia, f"Falta a seção da vez: {vez}"))
+        if any(e["regiao"] not in EIXO for e in pool) and esc and all(e["regiao"] in EIXO for e in esc):
+            alertas.append((dia, "Nenhum destaque fora do eixo Centro–Zona Sul (o dia oferecia)"))
         locais = [e["local"] for e in esc]
         if len(set(locais)) < len(locais):
             alertas.append((dia, "Mais de um destaque no mesmo espaço"))
-        tem_publico = lambda l: any(any(k in e["local"] for k in PUBLICOS) for e in l)
-        if esc and not tem_publico(esc) and tem_publico(pool):  # só cobra se o dia oferece opção
-            alertas.append((dia, "Nenhum espaço público, comunitário ou sem fins lucrativos"))
     mes = destaques.get("mes", [])
     if mes and not MES_MIN <= len(mes) <= MES_MAX:
-        alertas.append(("mês", f"A boa do mês tem {len(mes)} escolhas; o padrão é de {MES_MIN} a {MES_MAX}"))
+        alertas.append(("mês", f"As boas do mês têm {len(mes)} escolhas; o padrão é de {MES_MIN} a {MES_MAX}"))
     for d in mes:
         e = por_id.get(d["id"])
         if e and e["status"] != "conferido":
-            alertas.append(("mês", f"“{e['titulo']}” não está conferido e não pode estar na A boa do mês"))
+            alertas.append(("mês", f"“{e['titulo']}” não está conferido e não pode estar nas boas do mês"))
+        if e and e["tipo"] == "evento" and len({x["data"] for x in e["sessoes"]}) > MES_MAX_DATAS:
+            alertas.append(("mês", f"“{e['titulo']}” tem {len({x['data'] for x in e['sessoes']})} datas: temporada longa não entra nas boas do mês"))
     return alertas
 
 

@@ -23,7 +23,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Extrai a grade da Ingresso.com e os eventos da Sympla e da Fever, já triados por regra, e lê as agendas do Sesc RJ e do Arte que Acontece (desde 22/11/2026, por padrão).
 - Monta a programação a partir da base de fichas, de hoje até dois meses à frente (desde 22/11/2026; antes, edição semanal de quinta a quarta).
 - Refaz a grade de todos os cinemas.
-- Completa "A boa" nos dias que não têm destaque escolhido pela redação, com regra fixa: diversidade de regiões, áreas e espaços, prioridade para o grátis e o barato, para espaços públicos e para fora da Zona Sul.
+- Completa "A boa" nos dias que não têm destaque escolhido pela redação, com regra fixa: o show do dia (preferindo as casas que recebem grandes nomes), um na rua e um da seção da vez, com pelo menos um fora do eixo Centro–Zona Sul quando houver.
 - Publica o site, os calendários e os dados abertos.
 - Publica de novo sempre que o Claude entrega fichas.
 - Escreve o **boletim de saúde** (`dados/coleta/saude.md`).
@@ -35,7 +35,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
 - Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
-- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque (4 por dia, um em cada região: Centro, Zona Sul, Zona Norte, Zona Oeste) e mantém "A boa do mês" (3 ou 4 grandes nomes e eventos disputados nos próximos dois meses).
+- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque (3 por dia: o show do dia, um na rua e um da seção da vez, com pelo menos um fora do eixo Centro–Zona Sul quando houver) e mantém "As boas do mês" (3 ou 4 grandes atrações com poucas apresentações nos próximos dois meses, que pedem compra antecipada).
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
 - Manda à coordenação o relatório de exceções e uma notificação no celular. A primeira linha é "Tudo certo:" ou "ALARME:" (lê os alarmes do boletim e confere se a ronda é do dia). **É o canal de alarme do projeto** (decisão de 23/11/2026).
 - Não mexe no código, no cadastro nem nas tarefas agendadas.

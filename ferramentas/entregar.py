@@ -7,6 +7,9 @@ Cada ficha passa por checagens automáticas. Ficha com problema grave é recusad
 as outras entram. No fim, o programa monta a edição num teste e diz se o site sairia sem erro.
 Quem publica é o robô do GitHub, quando a base chega ao repositório.
 
+Para saber a seção da vez de "A boa" nos próximos 7 dias:
+    python3 ferramentas/entregar.py vez
+
 Para saber o código de uma ficha antes de entregar (útil nos apontamentos e destaques):
     python3 ferramentas/entregar.py id "<título>" "<local>"
 
@@ -18,7 +21,7 @@ Formato da entrega (todas as chaves são opcionais):
   "apontamentos": [ {"id": "...", "titulo": "...", "campo": "...", "veredito": "diverge|nao_encontrado|duvida",
                      "detalhe": "...", "resolucao": "Corrigido: ... | Mantido: ... | (vazio = a confirmar)"} ],
   "destaques": { "AAAA-MM-DD": [ {"id": "...", "porque": "..."} ] },
-  "destaques_mes": [ {"id": "...", "porque": "..."} ],   ("A boa do mês": a lista inteira, que substitui a anterior)
+  "destaques_mes": [ {"id": "...", "porque": "..."} ],   ("As boas do mês": a lista inteira, que substitui a anterior)
   "traducoes": [ {"pt": "...", "en": "...", "es": "..."} ],
   "nota": "resumo de uma linha do que foi feito"
 }
@@ -137,7 +140,7 @@ def main(caminho):
         if k >= dia:
             dest["dias"][k] = [x for x in l if x.get("id") in por_id or x.get("id") in robo_ids]
 
-    if "destaques_mes" in ent:  # "A boa do mês": o que vale planejar com antecedência (lista inteira, substitui a anterior)
+    if "destaques_mes" in ent:  # "As boas do mês": o que vale planejar com antecedência (lista inteira, substitui a anterior)
         dest["mes"] = [x for x in ent["destaques_mes"] if x.get("id") in por_id]
 
     if ent.get("traducoes"):
@@ -175,5 +178,12 @@ def main(caminho):
 if __name__ == "__main__":
     if len(sys.argv) == 4 and sys.argv[1] == "id":
         print(base.novo_id(sys.argv[2], sys.argv[3]))
+    elif len(sys.argv) == 2 and sys.argv[1] == "vez":  # a seção da vez de "A boa" nos próximos 7 dias
+        fichas = base.ler(base.ARQ_FICHAS, {"fichas": []})["fichas"]
+        hoje = dt.date.today()
+        for i in range(1, 8):
+            k = (hoje + dt.timedelta(days=i)).isoformat()
+            pool = [f for f in fichas if f["tipo"] == "evento" and any(s["data"] == k for s in f.get("sessoes", []))]
+            print(k, gerar.secao_da_vez(k, pool) or "(nenhuma seção com evento)")
     else:
         main(sys.argv[1])

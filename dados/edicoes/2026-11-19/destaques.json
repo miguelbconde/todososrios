@@ -17,38 +17,30 @@
   ],
   "2026-11-24": [
    {
-    "id": "2026-11-19-118",
-    "porque": "Um dia de debates sobre educação antirracista no Muhcab, de graça."
-   },
-   {
-    "id": "2026-11-19-003",
-    "porque": "Última semana de um drama com humor ácido, a até R$ 20, no Leblon."
+    "id": "f-8446b1e433",
+    "porque": "Pagode de terça na Praça Tiradentes, do fim da tarde até a madrugada."
    },
    {
     "id": "2026-11-19-051",
     "porque": "Stand-up de Priscilla com 2L na Semana da Comédia do Ziembinski."
    },
    {
-    "id": "2026-11-19-085",
-    "porque": "\"Alice no País das Maravilhas\" no palco público de Pedra de Guaratiba."
+    "id": "2026-11-19-118",
+    "porque": "Um dia de debates sobre educação antirracista no Muhcab, de graça."
    }
   ],
   "2026-11-25": [
    {
-    "id": "2026-11-19-105",
-    "porque": "Concerto gratuito ao meio-dia no CCBB."
+    "id": "f-30ea734113",
+    "porque": "Guinga, Moacyr Luz e Zé Renato cantam Aldir Blanc nos 80 anos do compositor."
    },
    {
-    "id": "2026-11-19-003",
-    "porque": "Última sessão de \"O Último Dia da Minha Vida\", a até R$ 20."
+    "id": "2026-11-19-172",
+    "porque": "Ensaio de rua da Vila Isabel no Boulevard 28 de Setembro, de graça."
    },
    {
-    "id": "2026-11-19-119",
-    "porque": "Aula-baile de forró e gafieira aberta a quem quiser dançar, de graça, na Tijuca."
-   },
-   {
-    "id": "f-e2a918e0a9",
-    "porque": "Pagode do Túnel em edição de samba de axé, em Vila Kennedy."
+    "id": "2026-11-19-111",
+    "porque": "Raphael Montes conversa sobre suspense no CCBB, de graça (ingressos às 9h)."
    }
   ],
   "2026-11-26": [
@@ -57,26 +49,22 @@
     "porque": "O Azymuth revisita \"Águia Não Come Mosca\" no Rival."
    },
    {
-    "id": "f-beb283b529",
-    "porque": "\"Os Saltimbancos\" à tarde, em Ipanema."
+    "id": "f-474fbba1fc",
+    "porque": "Festival Arpoarte nos armazéns do Píer Mauá, até domingo."
    },
    {
     "id": "f-4a9f433f61",
     "porque": "Carimbó de mulheres indígenas do Tapajós, de graça e com Libras, na Tijuca."
-   },
-   {
-    "id": "f-db9886b6e6",
-    "porque": "Yuri Marçal leva \"Macumbeiro\" a uma areninha pública de Bangu."
    }
   ],
   "2026-11-27": [
    {
-    "id": "f-f7e52c2e2c",
-    "porque": "Filme e livro sobre a Noitada de Samba, no Centro."
+    "id": "f-cc466cac8b",
+    "porque": "A Velha Guarda Musical da Mangueira festeja 70 anos em três noites na Cidade Nova."
    },
    {
-    "id": "f-d4254bc016",
-    "porque": "Teatro à tarde no Tablado, no Jardim Botânico."
+    "id": "f-f7e52c2e2c",
+    "porque": "Filme e livro sobre a Noitada de Samba, no Centro."
    },
    {
     "id": "f-2bc42b1a23",
@@ -85,38 +73,30 @@
   ],
   "2026-11-28": [
    {
-    "id": "f-913b8130f3",
-    "porque": "A Armazém Companhia de Teatro leva Machado de Assis à Fundição Progresso."
+    "id": "f-8d7f1ac2c1",
+    "porque": "Os Gilsons no palco público de Madureira."
    },
    {
-    "id": "f-c949923f2e",
-    "porque": "Piano ao vivo com Rogério Koury, na Gávea."
+    "id": "f-aa1e08f5a1",
+    "porque": "Três rodas de samba ao ar livre na Praça Marechal Âncora."
    },
    {
-    "id": "f-f47b3902e1",
-    "porque": "Poesia visual dentro de uma caixa de origami, de graça, em Madureira."
-   },
-   {
-    "id": "f-cb548d2990",
-    "porque": "\"Bem-vindo a Bangu\" na areninha pública do bairro."
+    "id": "f-474fbba1fc",
+    "porque": "Fim de semana do Festival Arpoarte, no Píer Mauá."
    }
   ],
   "2026-11-29": [
    {
-    "id": "f-474fbba1fc",
-    "porque": "Último dia do Festival Arpoarte, no Píer Mauá."
+    "id": "f-37698fe132",
+    "porque": "Os Gilsons numa areninha pública de Bangu."
+   },
+   {
+    "id": "f-f49e042115",
+    "porque": "Rio Blues Festival ao ar livre, no Aterro do Flamengo."
    },
    {
     "id": "f-beb283b529",
     "porque": "Última sessão de \"Os Saltimbancos\", em Ipanema."
-   },
-   {
-    "id": "f-8b6457b70f",
-    "porque": "Samba em homenagem a Cartola, de graça, na Tijuca."
-   },
-   {
-    "id": "f-37698fe132",
-    "porque": "Os Gilsons numa areninha pública de Bangu."
    }
   ],
   "2026-11-30": [
@@ -131,16 +111,6 @@
   ],
   "2026-12-01": [
    {
-    "id": "f-abe3a23c33",
-    "porque": "Em Leblon.",
-    "automatico": true
-   },
-   {
-    "id": "f-5f105e75e1",
-    "porque": "Em Tijuca.",
-    "automatico": true
-   },
-   {
     "id": "f-336a21fcd4",
     "porque": "Em Ipanema.",
     "automatico": true
@@ -149,39 +119,34 @@
     "id": "f-f2b607a1c8",
     "porque": "Em Lagoa.",
     "automatico": true
+   },
+   {
+    "id": "f-5f105e75e1",
+    "porque": "Em Tijuca.",
+    "automatico": true
    }
   ],
   "2026-12-02": [
+   {
+    "id": "f-705dcf0961",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   },
    {
     "id": "f-a2c6e8e1a7",
     "porque": "Em Centro.",
     "automatico": true
    },
    {
-    "id": "f-4e93cdffeb",
-    "porque": "Em Copacabana.",
-    "automatico": true
-   },
-   {
-    "id": "f-5d78dd59cd",
-    "porque": "Em Tijuca.",
-    "automatico": true
-   },
-   {
-    "id": "f-687a147153",
-    "porque": "Em Centro.",
+    "id": "2026-11-19-116",
+    "porque": "De graça, em Tijuca.",
     "automatico": true
    }
   ],
   "2026-12-03": [
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "f-31041482e5",
-    "porque": "Em Humaitá.",
+    "id": "f-70d707fb63",
+    "porque": "Em Leblon.",
     "automatico": true
    },
    {
@@ -190,36 +155,19 @@
     "automatico": true
    },
    {
-    "id": "f-eaa477ab3e",
-    "porque": "Em Praça XI.",
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
   "2026-12-04": [
-   {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "f-c949923f2e",
-    "porque": "Em Gávea.",
-    "automatico": true
-   },
    {
     "id": "f-216d584925",
     "porque": "Em Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-904af954ca",
-    "porque": "Em Campo Grande.",
-    "automatico": true
-   }
-  ],
-  "2026-12-05": [
-   {
-    "id": "f-088e8527d9",
+    "id": "f-176da8f5f3",
     "porque": "Em Centro.",
     "automatico": true
    },
@@ -227,27 +175,29 @@
     "id": "f-2428b38459",
     "porque": "Em Gávea.",
     "automatico": true
+   }
+  ],
+  "2026-12-05": [
+   {
+    "id": "f-2f4279be22",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
    },
    {
     "id": "f-f47b3902e1",
     "porque": "De graça, em Madureira.",
     "automatico": true
-   },
-   {
-    "id": "f-5cd31fccb9",
-    "porque": "Em Pedra de Guaratiba.",
-    "automatico": true
    }
   ],
   "2026-12-06": [
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "f-c949923f2e",
-    "porque": "Em Gávea.",
+    "id": "f-5c8d9ab2fe",
+    "porque": "Em Cinelândia.",
     "automatico": true
    },
    {
@@ -256,20 +206,20 @@
     "automatico": true
    },
    {
-    "id": "f-5822127c1d",
-    "porque": "Em Realengo.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
   "2026-12-08": [
    {
-    "id": "f-97527d1876",
-    "porque": "Em Centro.",
+    "id": "f-8079e7c1fb",
+    "porque": "Em Cinelândia.",
     "automatico": true
    },
    {
-    "id": "f-8079e7c1fb",
-    "porque": "Em Cinelândia.",
+    "id": "f-97527d1876",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -282,18 +232,13 @@
   ],
   "2026-12-10": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-51fccee40a",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
-    "id": "f-aac77f6a65",
-    "porque": "Em Botafogo.",
-    "automatico": true
-   },
-   {
-    "id": "f-c212229e5d",
-    "porque": "Em Madureira.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    },
    {
@@ -304,67 +249,52 @@
   ],
   "2026-12-11": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
-   },
-   {
-    "id": "f-c949923f2e",
-    "porque": "Em Gávea.",
-    "automatico": true
-   },
-   {
     "id": "f-1e4cfb5e99",
     "porque": "Em Tijuca.",
-    "automatico": true
-   },
-   {
-    "id": "f-46ea0de5be",
-    "porque": "Em Realengo.",
-    "automatico": true
-   }
-  ],
-  "2026-12-12": [
-   {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
-   },
-   {
-    "id": "f-c949923f2e",
-    "porque": "Em Gávea.",
-    "automatico": true
-   },
-   {
-    "id": "f-f47b3902e1",
-    "porque": "De graça, em Madureira.",
     "automatico": true
    },
    {
     "id": "f-dcc73bca1e",
     "porque": "Em Santa Teresa.",
     "automatico": true
-   }
-  ],
-  "2026-12-13": [
+   },
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
-   },
+   }
+  ],
+  "2026-12-12": [
    {
     "id": "f-c949923f2e",
     "porque": "Em Gávea.",
     "automatico": true
    },
    {
-    "id": "f-2e833de58e",
-    "porque": "Em Penha Circular.",
+    "id": "f-b945f69659",
+    "porque": "Em Tijuca.",
     "automatico": true
    },
    {
+    "id": "f-f47b3902e1",
+    "porque": "De graça, em Madureira.",
+    "automatico": true
+   }
+  ],
+  "2026-12-13": [
+   {
     "id": "f-ad440effa4",
     "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    }
   ],
@@ -394,57 +324,42 @@
   ],
   "2026-12-17": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-9b0ed0ac57",
+    "porque": "Em Cinelândia.",
     "automatico": true
    },
    {
-    "id": "f-b6ff10b271",
-    "porque": "Em Botafogo.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    },
    {
     "id": "f-a5beeec037",
     "porque": "Em Tijuca.",
     "automatico": true
-   },
-   {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
-    "automatico": true
    }
   ],
   "2026-12-18": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-7d9e2adb78",
+    "porque": "Em Cinelândia.",
     "automatico": true
    },
    {
-    "id": "f-b6ff10b271",
-    "porque": "Em Botafogo.",
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    },
    {
     "id": "f-0202434169",
     "porque": "Em Pechincha.",
     "automatico": true
-   },
-   {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
-    "automatico": true
    }
   ],
   "2026-12-19": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
-   },
-   {
-    "id": "f-b6ff10b271",
-    "porque": "Em Botafogo.",
+    "id": "f-2e459d6746",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
@@ -453,25 +368,20 @@
     "automatico": true
    },
    {
-    "id": "f-2e459d6746",
-    "porque": "Em Centro.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
   "2026-12-20": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
-   },
-   {
-    "id": "f-b6ff10b271",
-    "porque": "Em Botafogo.",
-    "automatico": true
-   },
-   {
     "id": "f-dcc73bca1e",
     "porque": "Em Santa Teresa.",
+    "automatico": true
+   },
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    },
    {
@@ -522,13 +432,13 @@
   ],
   "2027-01-08": [
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-619ec2e94c",
+    "porque": "Em Cinelândia.",
     "automatico": true
    },
    {
-    "id": "f-619ec2e94c",
-    "porque": "Em Cinelândia.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
@@ -553,8 +463,8 @@
   ],
   "2027-01-14": [
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-75cdb431e3",
+    "porque": "Em Cinelândia.",
     "automatico": true
    },
    {
@@ -563,8 +473,8 @@
     "automatico": true
    },
    {
-    "id": "f-75cdb431e3",
-    "porque": "Em Cinelândia.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -582,18 +492,13 @@
   ],
   "2027-01-16": [
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
     "id": "f-a5ca51917a",
     "porque": "Em Glória (Aterro do Flamengo).",
     "automatico": true
    },
    {
-    "id": "f-e00b9fe3ca",
-    "porque": "Em Madureira.",
+    "id": "f-47a736f90a",
+    "porque": "Em Pechincha.",
     "automatico": true
    },
    {
@@ -637,10 +542,6 @@
   {
    "id": "f-2f4279be22",
    "porque": "Ferrugem grava o audiovisual de \"Sentimento\" no Qualistage, em noite única."
-  },
-  {
-   "id": "f-e7300b7d46",
-   "porque": "\"O Quebra-Nozes\" no Theatro Municipal costuma esgotar em dezembro."
   },
   {
    "id": "f-70d707fb63",

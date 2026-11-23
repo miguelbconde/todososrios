@@ -340,53 +340,48 @@
 ## Destaques (A boa)
 
 - **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Ministério do Tempo Livre – um manifesto; Moacyr Luz e Samba do Trabalhador
-- **24/11**: Seminário Estadual: Por uma Educação Antirracista; O Último Dia da Minha Vida; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Alice no País das Maravilhas: O Despertar da União – O Musical
-- **25/11**: Música no Museu; O Último Dia da Minha Vida; Aula-baile de forró e samba de gafieira – Corpos em Diálogo; Pagode do Túnel – Samba de Axé
-- **26/11**: Azymuth: Águia Não Come Mosca e Grandes Clássicos; Os Saltimbancos; Suraras do Tapajós; Yuri Marçal: Macumbeiro
-- **27/11**: Noitada de Samba – Foco de Resistência: filme e relançamento do livro; A Bruxinha que Era Boa; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
-- **28/11**: Brás Cubas (Armazém Companhia de Teatro); Piano em Cena – Rogério Koury; Olhar para Dentro; Bem-vindo a Bangu
-- **29/11**: Festival Arpoarte 2026; Os Saltimbancos; Os Thiagos: Deixe-me Ir; Gilsons
+- **24/11**: Pagode da Garagem; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Seminário Estadual: Por uma Educação Antirracista
+- **25/11**: Aldir Blanc – 80 anos: Guinga, Moacyr Luz e Zé Renato (data extra); Ensaio de rua da Unidos de Vila Isabel; Clube de Leitura CCBB com Raphael Montes
+- **26/11**: Azymuth: Águia Não Come Mosca e Grandes Clássicos; Festival Arpoarte 2026; Suraras do Tapajós
+- **27/11**: Velha Guarda Musical da Mangueira: 70 anos; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
+- **28/11**: Gilsons; Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo; Festival Arpoarte 2026
+- **29/11**: Gilsons; Rio Blues Festival; Os Saltimbancos
 - **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher
-- **01/12**: Primeira Pessoa; Ensaio aberto: X-I-N’TEA; Jazz em Dobro: Beth Carvalho & Maria Bethânia; Um Brasileiro em Israel: lançamento e bate-papo
-- **02/12**: Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco; Tributo a Delcio Carvalho; Tempo Travesso; Mantra Tropical, com Fabrizio Filesi
-- **03/12**: Dia de Jogo; Violões Itinerantes: Do Rio a Exu; Jhordan Matheus: Passando de Fase; O Pulso Ainda Pulsa
-- **04/12**: Dia de Jogo; Piano em Cena – Rogério Koury; 1º Encontro de Violonistas Compositores: Andrea Perrone; Paulinho Gogó: Só e Bem Acompanhado
-- **05/12**: Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical; Procura-se Messias; Olhar para Dentro; Matheus Ceará: Desculpa Eu Ter Vindo
-- **06/12**: Dia de Jogo; Piano em Cena – Rogério Koury; Mulheres ao Vento – A Terra que Piso é Maré; Diogo Defante: especial de fim de ano
-- **08/12**: Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos; Ana Bispo canta Te Amos
+- **01/12**: Jazz em Dobro: Beth Carvalho & Maria Bethânia; Um Brasileiro em Israel: lançamento e bate-papo; Ensaio aberto: X-I-N’TEA
+- **02/12**: Tori: Areia e Voz; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco; Terreiro de Mangueira – Cordel Negro
+- **03/12**: Leo Gandelman: Cosmos; Jhordan Matheus: Passando de Fase; Dia de Jogo
+- **04/12**: 1º Encontro de Violonistas Compositores: Andrea Perrone; Dia de Jogo; Procura-se Messias
+- **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; Olhar para Dentro
+- **06/12**: Matheus Pessanha: Entrelaçando Sambas e Histórias; Mulheres ao Vento – A Terra que Piso é Maré; Festival Contarolando Histórias
+- **08/12**: Ana Bispo canta Te Amos; Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos
 - **09/12**: Dragstar – 14ª temporada: a grande final
-- **10/12**: O Quebra-Nozes; Tiê; Matheus Ceará: Desculpa Eu Ter Vindo; Tem Culpa Eu? – comédia de improviso investigativo
-- **11/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; Jade Vitóriah: A Cor da Minha Voz; Gilsons
-- **12/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; Olhar para Dentro; Festival Contarolando Histórias
-- **13/12**: O Quebra-Nozes; Piano em Cena – Rogério Koury; El Corazón y Otros Frutos Amargos; Adrian Cortês: Moonwalk Fest
+- **10/12**: Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Festival Contarolando Histórias; Tem Culpa Eu? – comédia de improviso investigativo
+- **11/12**: Jade Vitóriah: A Cor da Minha Voz; Festival Contarolando Histórias; O Quebra-Nozes
+- **12/12**: Piano em Cena – Rogério Koury; Cuidado Quando For Falar de Mim; Olhar para Dentro
+- **13/12**: Adrian Cortês: Moonwalk Fest; Festival Contarolando Histórias; O Quebra-Nozes
 - **15/12**: Piano em Cena – Rogério Koury
 - **16/12**: O Quebra-Nozes; Primeira Pessoa; As Coisas que me Tiram o Sono
-- **17/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Os Lobos 60 Anos; Festival Contarolando Histórias
-- **18/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Tributo a Cazuza; Festival Contarolando Histórias
-- **19/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Ranther Melo: Vem Que Tá Maneirinho; Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial
-- **20/12**: O Quebra-Nozes; O que Meu Peito Carrega Sobre Mim; Festival Contarolando Histórias; Dia de Jogo
+- **17/12**: Vidal Assis: Emílio Santiago – 80 anos; Festival Contarolando Histórias; Os Lobos 60 Anos
+- **18/12**: Thalita Pertuzatti em Whitney Forever; O Quebra-Nozes; Tributo a Cazuza
+- **19/12**: Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial; Ranther Melo: Vem Que Tá Maneirinho; Festival Contarolando Histórias
+- **20/12**: Festival Contarolando Histórias; O Quebra-Nozes; Dia de Jogo
 - **21/12**: Samba in Rio – Sons & Vozes das Damas do Samba
 - **22/12**: O Quebra-Nozes
 - **26/12**: Jay Vaquer
 - **28/12**: Yayá do Cavaco: De Raiz em Flor
 - **02/01**: Deixa Clarear, musical sobre Clara Nunes; Leandro Sapucahy: Que Nem Antigamente
-- **08/01**: Eles Não Usam Black Tie; Elymar Santos: Estrela Luminosa; Velha Guarda Musical da Mangueira: 70 anos
+- **08/01**: Elymar Santos: Estrela Luminosa; Eles Não Usam Black Tie; Velha Guarda Musical da Mangueira: 70 anos
 - **09/01**: Eles Não Usam Black Tie
 - **10/01**: Eles Não Usam Black Tie
-- **14/01**: Eles Não Usam Black Tie; Marcelo Duque: Sem Filtro; Tributo a Tim Maia, com André Marçal
+- **14/01**: Tributo a Tim Maia, com André Marçal; Marcelo Duque: Sem Filtro; Eles Não Usam Black Tie
 - **15/01**: Eles Não Usam Black Tie; Marcelo Duque: Sem Filtro
-- **16/01**: Eles Não Usam Black Tie; Paulinho da Viola; Raphael Ghanem em A Carne Só Cai no Prato do Vegano; Kwesny em Manual do Carioca
+- **16/01**: Paulinho da Viola; Marcelo Duque: Sem Filtro; Kwesny em Manual do Carioca
 - **17/01**: Eles Não Usam Black Tie
 - **21/01**: Eles Não Usam Black Tie
 - **22/01**: Eles Não Usam Black Tie; Diego Besou em Upa que Pariu
 
 Regras de curadoria:
-- ⚠️ 24/11 — Só 2 área(s); o dia oferecia 3
-- ⚠️ 28/11 — Só 1 de 4 destaques grátis ou a preço popular
-- ⚠️ 06/12 — Só 2 área(s); o dia oferecia 3
-- ⚠️ 10/12 — Só 2 área(s); o dia oferecia 3
-- ⚠️ 11/12 — Só 2 área(s); o dia oferecia 4
-- ⚠️ 13/12 — Só 2 área(s); o dia oferecia 3
+- ⚠️ 23/11 — Falta a seção da vez: Teatro
 
 ## Traduções
 

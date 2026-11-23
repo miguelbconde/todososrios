@@ -7,7 +7,8 @@ Roda todo dia no GitHub, depois da ronda das fontes, e de novo sempre que chegam
    passaram saem e exposições encerradas somem.
 3. Lê da Sympla os eventos de data única da rede municipal que reconhece com segurança (robo_sympla.py).
 4. Refaz a grade de cinema a partir da extração da Ingresso.com, quando ela vem junto.
-5. Completa "A boa" dos dias sem destaque escolhido pela redação, com uma regra fixa e pública.
+5. Completa "A boa" dos dias sem destaque escolhido pela redação, com uma regra fixa e pública
+   (o show do dia, um na rua e um da seção da vez).
 6. Gera o site, os calendários, os dados abertos e o relatório (ferramentas/gerar.py).
 
 Uso: python3 ferramentas/montar.py [caminho do plataformas.json]
@@ -57,36 +58,42 @@ def porque_automatico(e):
     return (f"Em {onde}.", f"In {onde}.", f"En {onde}.")
 
 
-REGIOES_BOA = ("Centro", "Zona Sul", "Zona Norte", "Zona Oeste")  # decisão de 22/11/2026: 4 por dia, uma em cada
+# Casas que costumam receber os grandes nomes: a regra fixa as usa para achar "o show do dia".
+CASAS_GRANDES = ("Vivo Rio", "Qualistage", "Farmasi Arena", "Fundição Progresso", "Circo Voador", "Theatro Municipal",
+                 "Teatro Casa Grande", "Teatro Rival", "Blue Note", "Cidade das Artes", "Sala Cecília Meireles", "Imperator")
 
 
-def escolher_destaques(eventos, dia, n=4):
-    """Regra fixa para os dias sem destaque da redação (decisão de 22/11/2026): 4 destaques, um no Centro,
-    um na Zona Sul, um na Zona Norte e um na Zona Oeste. Dentro de cada região, prioridade para o grátis e o
-    barato e para os espaços públicos, variando as áreas. Região sem opção é completada por outra (Sudoeste antes)."""
+def escolher_destaques(eventos, dia, n=3):
+    """Regra fixa para os dias sem destaque da redação (decisão de 23/11/2026): o show do dia, um na rua e
+    um da seção da vez (gerar.RODIZIO), com pelo menos um fora do eixo Centro–Zona Sul quando der.
+    O robô não julga relevância artística: para o show, prefere as casas que recebem grandes nomes."""
     pool = [e for e in eventos if e["tipo"] == "evento" and not e.get("automatica") and not e.get("robo") and e["status"] == "conferido"
             and any(s["data"] == dia for s in e["sessoes"])]
 
     def nota(e):
         return (e["faixa"] in ("gratis", "popular")) * 4 + any(k in e["local"] for k in PUBLICOS) * 2
     pool.sort(key=lambda e: (-nota(e), e["id"]))
-    esc, areas, locais = [], set(), set()
+    esc, locais = [], set()
 
-    def pega(cands):
-        for exigir_area_nova in (True, False):
-            for e in cands:
-                if e in esc or e["local"] in locais:
-                    continue
-                if exigir_area_nova and set(e["areas"]) <= areas:
-                    continue
-                esc.append(e); areas.update(e["areas"]); locais.add(e["local"])
-                return True
+    def pega(cands, territorio=True):
+        cands = [e for e in cands if e not in esc and e["local"] not in locais]
+        if territorio and esc and all(x["regiao"] in gerar.EIXO for x in esc):
+            cands.sort(key=lambda e: e["regiao"] in gerar.EIXO)  # estável: fora do eixo primeiro
+        if cands:
+            esc.append(cands[0]); locais.add(cands[0]["local"])
+            return True
         return False
-    for r in REGIOES_BOA:
-        pega([e for e in pool if e["regiao"] == r])
-    for r in ("Zona Sudoeste",) + REGIOES_BOA:  # completa o que faltou
-        while len(esc) < n and pega([e for e in pool if e["regiao"] == r]):
-            pass
+    musica = [e for e in pool if "Música" in e["areas"]]
+    musica.sort(key=lambda e: (not any(k in e["local"] for k in CASAS_GRANDES), e["id"]))
+    pega(musica, territorio=False)
+    pega([e for e in pool if e.get("na_rua")])
+    vez = gerar.secao_da_vez(dia, pool)
+    if vez:
+        pega([e for e in pool if vez in e["areas"]])
+    if len(esc) < n and all(x["regiao"] in gerar.EIXO for x in esc):  # território: um fora do eixo, se houver
+        pega([e for e in pool if e["regiao"] not in gerar.EIXO])
+    while len(esc) < n and pega([e for e in pool if not set(e["areas"]) <= {a for x in esc for a in x["areas"]}] or pool):
+        pass
     return esc[:n]
 
 
@@ -153,7 +160,7 @@ def main(plataformas=None):
         sys.path.insert(0, os.path.join(base.RAIZ, "ferramentas", "redacao"))
         import traduzir
         traduzir.gravar(novas_trad)
-    # "A boa do mês" (desde 22/11/2026): escolha da redação, só com o que ainda está por vir; sem escolha, não aparece
+    # "As boas do mês" (desde 22/11/2026): escolha da redação, só com o que ainda está por vir; sem escolha, não aparece
     mes = [x for x in dest_base.get("mes", []) if x["id"] in por_id]
     base.gravar(os.path.join(pasta, "destaques.json"),
                 {"criterios_versao": dest_base.get("criterios_versao", "2026-11-15"), "dias": dias, "mes": mes, "automaticos": auto})
