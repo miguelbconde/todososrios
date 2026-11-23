@@ -87,7 +87,6 @@ MAX_BOA = 3
 RODIZIO = ("Teatro", "Artes Visuais", "Cinema", "Livros & Debates", "Festas & Feiras", "Infantil")
 EIXO = ("Centro", "Zona Sul")
 MES_MIN, MES_MAX = 3, 4  # "As boas do mês" (22/11/2026): 3 ou 4 grandes nomes e eventos de compra antecipada
-MES_MAX_DATAS = 4  # (23/11/2026) só atrações com poucas apresentações; temporada longa não entra
 
 
 def secao_da_vez(dia, pool):
@@ -138,8 +137,6 @@ def validar_destaques(eventos, destaques):
         e = por_id.get(d["id"])
         if e and e["status"] != "conferido":
             alertas.append(("mês", f"“{e['titulo']}” não está conferido e não pode estar nas boas do mês"))
-        if e and e["tipo"] == "evento" and len({x["data"] for x in e["sessoes"]}) > MES_MAX_DATAS:
-            alertas.append(("mês", f"“{e['titulo']}” tem {len({x['data'] for x in e['sessoes']})} datas: temporada longa não entra nas boas do mês"))
     return alertas
 
 

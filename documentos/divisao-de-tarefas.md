@@ -35,7 +35,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Lê só o que é novo na ronda desde ontem, mais as pendências do dia anterior.
 - Às quintas e sextas, incorpora o PDF da Secretaria, se ele estiver na pasta `entrada/`.
 - Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
-- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque (3 por dia: o show do dia, um na rua e um da seção da vez, com pelo menos um fora do eixo Centro–Zona Sul quando houver) e mantém "As boas do mês" (3 ou 4 grandes atrações com poucas apresentações nos próximos dois meses, que pedem compra antecipada).
+- Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque (3 por dia: o show do dia, um na rua e um da seção da vez, com pelo menos um fora do eixo Centro–Zona Sul quando houver) e mantém "As boas do mês" (3 ou 4 atrações dos próximos dois meses que pedem compra antecipada, pesando atratividade e chance de esgotar).
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
 - Manda à coordenação o relatório de exceções e uma notificação no celular. A primeira linha é "Tudo certo:" ou "ALARME:" (lê os alarmes do boletim e confere se a ronda é do dia). **É o canal de alarme do projeto** (decisão de 23/11/2026).
 - Não mexe no código, no cadastro nem nas tarefas agendadas.
