@@ -27,7 +27,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Publica o site, os calendários e os dados abertos.
 - Publica de novo sempre que o Claude entrega fichas.
 - Escreve o **boletim de saúde** (`dados/coleta/saude.md`).
-- **Alarme:** se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, abre um aviso no GitHub ("Alarme do robô"), que chega por e-mail ao endereço cadastrado na conta do GitHub. O aviso se fecha sozinho quando tudo volta ao normal.
+- **Alarme:** se a ronda falhar, se as plataformas vierem vazias ou se o Claude passar 2 dias sem entregar, registra no boletim e abre um aviso no GitHub ("Alarme do robô"), que se fecha sozinho quando tudo volta ao normal. Esse aviso não chega por e-mail: quem leva o alarme à coordenação é a notificação de celular da tarefa diária do Claude (ver abaixo).
 - **Não redige nem publica fichas de evento sozinho** (decisão de 22/11/2026: a confiabilidade do site vem primeiro). O leitor automático da rede municipal na Sympla e dos palcos públicos na Fever fica desligado e só volta como último recurso, se o limite de uso tornar a redação inviável. A grade de cinema continua automática, porque vem pronta da Ingresso.com.
 
 ### 2. Claude, tarefa diária (todo dia às 5h43, sem conversa)
@@ -37,7 +37,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 - Decide o que entra pelos critérios editoriais, redige **todas as fichas novas que cabem nos critérios, sem teto** (decisão de 22/11/2026), entregando em lotes, passa pela dupla checagem e traduz.
 - Escolhe "A boa" dos próximos 7 dias que ainda não têm destaque (4 por dia, um em cada região: Centro, Zona Sul, Zona Norte, Zona Oeste) e mantém "A boa do mês" (3 ou 4 grandes nomes e eventos disputados nos próximos dois meses).
 - Entrega à base. A entrega recusa sozinha a ficha com problema grave, como data inválida, falta de endereço ou dado pessoal.
-- Manda à coordenação o relatório de exceções.
+- Manda à coordenação o relatório de exceções e uma notificação no celular. A primeira linha é "Tudo certo:" ou "ALARME:" (lê os alarmes do boletim e confere se a ronda é do dia). **É o canal de alarme do projeto** (decisão de 23/11/2026).
 - Não mexe no código, no cadastro nem nas tarefas agendadas.
 
 ### 3. Claude, em conversa (quando a coordenação abrir, idealmente uma vez por semana)
@@ -56,7 +56,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 **Quando acontecer**
 - Repassar, numa conversa, programação recebida diretamente que seja importante e não possa ser coletada no automático.
 - Ler o relatório de exceções e responder só se quiser mudar algo.
-- Se chegar e-mail de "Alarme do robô", abrir uma conversa no Projeto e colar o aviso.
+- Se a notificação da manhã começar com "ALARME:", ou se não chegar notificação nenhuma até umas 8h, abrir uma conversa no Projeto e colar o aviso (ou dizer que não chegou).
 
 **Decisões que só ele toma**
 - Critérios editoriais, posicionamento público e parcerias.
@@ -93,8 +93,8 @@ No máximo 10 linhas, em português simples:
 | Falha | O que acontece | O que a coordenação faz |
 |---|---|---|
 | Uma fonte cai | O site segue com as outras; o boletim registra | Nada |
-| A tarefa do Claude não roda (limite de uso, erro) | O robô segue publicando o que está na base; o alarme dispara depois de 2 dias | Abrir conversa se o alarme chegar |
-| A ronda do robô falha | O site fica como estava; o alarme dispara no mesmo dia | Abrir conversa |
+| A tarefa do Claude não roda (limite de uso, erro) | O robô segue publicando o que está na base; a notificação da manhã não chega | Abrir conversa se não houver notificação até umas 8h |
+| A ronda do robô falha | O site fica como estava; a notificação da manhã começa com "ALARME:" | Abrir conversa |
 | Falta o PDF na quinta | A edição abre sem a parte nova da rede municipal; o relatório avisa | Subir o PDF; ele entra no dia seguinte |
 
 ## Indicadores (no boletim de saúde)
