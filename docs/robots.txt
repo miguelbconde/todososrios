@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://miguelbconde.github.io/todososrios/sitemap.xml
+Sitemap: https://todososrios.com.br/sitemap.xml
