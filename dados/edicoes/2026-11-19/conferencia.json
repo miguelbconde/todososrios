@@ -1,30 +1,6 @@
 {
  "resultado": [
   {
-   "id": "2026-11-19-001",
-   "titulo": "Minha Vó Ri",
-   "campo": "sinopse",
-   "veredito": "duvida",
-   "detalhe": "A ficha fala em \"história do ativismo lésbico no Brasil\"; a fonte semanal diz só \"pesquisa sobre a história do ativismo lésbico\", sem \"no Brasil\" (cita Chantal Akerman, belga, e Rosely Roth). Acréscimo pequeno, não confirmado pela fonte.",
-   "resolucao": "Corrigido: retirado “no Brasil”."
-  },
-  {
-   "id": "2026-11-19-005",
-   "titulo": "A Cura da Terra – Pequenas Revoluções",
-   "campo": "local",
-   "veredito": "nao_encontrado",
-   "detalhe": "A ficha traz \"Teatro Municipal Domingos Oliveira (Planetário)\"; o cabeçalho da fonte semanal é só \"Teatro Municipal Domingos Oliveira / Rua Padre Leonel Franca 240, Gávea\". \"(Planetário)\" não consta em nenhuma das fontes.",
-   "resolucao": "Mantido: “(Planetário)” é o nome do teatro no cadastro do projeto, para ajudar a achar o lugar."
-  },
-  {
-   "id": "2026-11-19-006",
-   "titulo": "Superiores",
-   "campo": "local",
-   "veredito": "nao_encontrado",
-   "detalhe": "A ficha traz \"Teatro Municipal Domingos Oliveira (Planetário)\"; o cabeçalho da fonte semanal é só \"Teatro Municipal Domingos Oliveira / Rua Padre Leonel Franca 240, Gávea\". \"(Planetário)\" não consta em nenhuma das fontes.",
-   "resolucao": "Mantido: “(Planetário)” é o nome do teatro no cadastro do projeto, para ajudar a achar o lugar."
-  },
-  {
    "id": "2026-11-19-008",
    "titulo": "Exposição principal do Museu Histórico da Cidade",
    "campo": "sinopse",
@@ -96,52 +72,12 @@
    "resolucao": "Corrigido: “Arena Cultural Dicró”."
   },
   {
-   "id": "2026-11-19-069",
-   "titulo": "Urban Charme – Mostra de Charme (10 anos)",
-   "campo": "endereco",
-   "veredito": "nao_encontrado",
-   "detalhe": "A ficha acrescenta \"(Parque de Madureira)\" ao endereço. A fonte dá só \"Rua Bernardino de Andrade 200, Madureira\".",
-   "resolucao": "Mantido: “Parque de Madureira” vem do cadastro do projeto e ajuda a achar o lugar."
-  },
-  {
-   "id": "2026-11-19-069",
-   "titulo": "Urban Charme – Mostra de Charme (10 anos)",
-   "campo": "sinopse",
-   "veredito": "nao_encontrado",
-   "detalhe": "A sinopse diz que as duas noites são \"no Parque de Madureira\". Nenhuma das fontes cita o Parque de Madureira; o local é a \"Arena Cultural Fernando Torres\".",
-   "resolucao": "Corrigido: “em Madureira”."
-  },
-  {
    "id": "2026-11-19-082",
    "titulo": "Ônibus Biblioteca – Livros nas Praças",
    "campo": "cartaz",
    "veredito": "duvida",
    "detalhe": "A fonte diz \"Até 27 de novembro, às 11h\", sem dizer em quais dias da semana nem em que praça (\"Livros nas Praças\"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária \"A partir das 11h\" na areninha; a fonte diz \"às 11h\" e não confirma que é todo dia.",
    "resolucao": "Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”."
-  },
-  {
-   "id": "2026-11-19-138",
-   "titulo": "Cartografia de Futuros Imaginários – Casa Aberta",
-   "campo": "sessoes",
-   "veredito": "diverge",
-   "detalhe": "A ficha só tem 21/11 às 16h. F074 lista também \"22 de novembro de 2026 Domingo Horário: 16h00 | Duração: 1h Cartografia de Futuros Imaginários | Atividade Casa Aberta\" e, na página de atividades, \"Sábados e domingos Horário: 16h\". Falta a sessão de domingo, 22/11.",
-   "resolucao": "Corrigido: entra também domingo, 22/11, às 16h."
-  },
-  {
-   "id": "2026-11-19-138",
-   "titulo": "Cartografia de Futuros Imaginários – Casa Aberta",
-   "campo": "gratis",
-   "veredito": "diverge",
-   "detalhe": "A ficha traz preço vazio e gratis=false, e a nota diz que a fonte não informa preço. F074 (página Atividades) diz \"Atividade gratuita, sujeito a lotação\".",
-   "resolucao": "Corrigido: grátis, sujeito a lotação."
-  },
-  {
-   "id": "2026-11-19-138",
-   "titulo": "Cartografia de Futuros Imaginários – Casa Aberta",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio (e está na seção Infantil); a nota diz que a fonte não informa. F074 traz \"Classificação: 12 anos\".",
-   "resolucao": "Corrigido: 12 anos; a ficha saiu da seção Infantil."
   },
   {
    "id": "2026-11-19-139",
@@ -160,22 +96,6 @@
    "resolucao": "Corrigido: acrescentado “grátis às quartas”."
   },
   {
-   "id": "2026-11-19-148",
-   "titulo": "O Mercador de Veneza",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F114 traz \"Classificação etária: 14 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis.\"",
-   "resolucao": "Corrigido: 14 anos."
-  },
-  {
-   "id": "2026-11-19-148",
-   "titulo": "O Mercador de Veneza",
-   "campo": "sinopse",
-   "veredito": "diverge",
-   "detalhe": "A nota diz que a coleta não trouxe a sinopse. F114 traz: \"O Mercador de Veneza, do dramaturgo inglês William Shakespeare [...] A peça tem direção de Daniela Stirbulov e é protagonizada por Dan Stulbach que dá vida ao marcante agiota Shylock\" e \"Duração: 120 minutos\". A nota está errada (o preço, de fato, não aparece).",
-   "resolucao": "Corrigido: sinopse refeita a partir da fonte."
-  },
-  {
    "id": "2026-11-19-149",
    "titulo": "Atom Pink Floyd – Pink Floyd Symphonic",
    "campo": "classificacao",
@@ -192,38 +112,6 @@
    "resolucao": "Corrigido: 10 anos."
   },
   {
-   "id": "2026-11-19-151",
-   "titulo": "Adorável Face de Andronieva Petrosa",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F123 traz \"CLASSIFICAÇÃO: Livre\" (e \"DURAÇÃO: 50 minutos\").",
-   "resolucao": "Corrigido: Livre."
-  },
-  {
-   "id": "2026-11-19-146",
-   "titulo": "Clube Akorin: Musicalizar Brincando",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F084 traz \"22 de novembro | Domingo, às 11h Classificação: Livre\".",
-   "resolucao": "Corrigido: Livre."
-  },
-  {
-   "id": "2026-11-19-140",
-   "titulo": "Oficina Cliques e Movimento",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F075 traz no Serviço \"Entrada gratuita Classificação livre\" (e o texto diz \"voltada para crianças a partir de 3 anos de idade\").",
-   "resolucao": "Corrigido: Livre."
-  },
-  {
-   "id": "2026-11-19-140",
-   "titulo": "Oficina Cliques e Movimento",
-   "campo": "endereco",
-   "veredito": "duvida",
-   "detalhe": "A ficha traz Av. Epitácio Pessoa, 2.480, que aparece no rodapé do site (\"Avenida Epitácio Pessoa, 2480\"). Mas o Serviço da própria oficina, em F075, diz \"Local: Casa Museu Eva Klabin Praça Benedito Cerqueira, 0 | Lagoa – Rio de Janeiro\". A fonte dá dois endereços.",
-   "resolucao": "Mantido: Av. Epitácio Pessoa, 2.480 é o endereço fixo da casa (rodapé do site); a divergência fica anotada na ficha."
-  },
-  {
    "id": "2026-11-19-127",
    "titulo": "Três a Varejo + 1",
    "campo": "sessoes",
@@ -238,22 +126,6 @@
    "veredito": "duvida",
    "detalhe": "A sinopse diz \"19 trabalhos, entre pinturas, esculturas e um vídeo\", como a ArtRio (F066: \"São dezenove obras, entre pinturas, esculturas e um vídeo\"). O site da galeria (F100) diz \"Reunindo vinte trabalhos, entre pinturas, esculturas, serigrafias e vídeos\". A nota declara a divergência de horário, mas não esta; e nela diz que vale o site da galeria.",
    "resolucao": "Corrigido: vale o site da galeria (cerca de vinte trabalhos); a divergência fica anotada."
-  },
-  {
-   "id": "2026-11-19-132",
-   "titulo": "O gesto do poder, o poder do gesto – um recorte da Coleção Instituto PIPA",
-   "campo": "trecho_fonte",
-   "veredito": "duvida",
-   "detalhe": "O campo arquivo_da_fonte aponta F016, que é o site do Carioca da Gema e não tem nada sobre a mostra. O trecho citado existe, mas em F001 (A Gentil Carioca): \"Arjan Martins | O gesto do poder, o poder do gesto : Centro Cultural do Patrimônio Paço Imperial | Rio de Janeiro, Brasil [...] 26 Setembro - 22 Novembro 2026\". Conferido em F001, o conteúdo da ficha bate; só o arquivo indicado está errado.",
-   "resolucao": "Sem mudança: a ficha confere com a fonte certa (site da galeria A Gentil Carioca); o erro era só na indicação do arquivo dada ao conferente."
-  },
-  {
-   "id": "2026-11-19-163",
-   "titulo": "O Grande Encontro – Leci Brandão, Sandro Luiz, Tião Casemiro e Luan Pureza",
-   "campo": "sinopse",
-   "veredito": "duvida",
-   "detalhe": "A sinopse fala em \"três gerações da música de umbanda\". F137 diz \"reunindo diferentes gerações e grandes referências da música ligada à cultura afrobrasileira e à Umbanda\" e \"Completando esse encontro de gerações, Luan Pureza representa a renovação\"; o número três é dedução de quem redigiu, não está na fonte.",
-   "resolucao": "Corrigido: “diferentes gerações”, como na fonte."
   },
   {
    "id": "2026-11-19-133",
@@ -302,14 +174,6 @@
    "veredito": "duvida",
    "detalhe": "Cinelândia não é bairro oficial.",
    "resolucao": "Mantido: a base usa Cinelândia para o Teatro Rival."
-  },
-  {
-   "id": "f-421f7a21f2",
-   "titulo": "Samba dos Fidalgos – 2ª edição",
-   "campo": "bairro",
-   "veredito": "nao_encontrado",
-   "detalhe": "A fonte não diz o bairro; Bangu foi deduzido do endereço.",
-   "resolucao": ""
   },
   {
    "id": "f-c6b14b6989",
@@ -373,6 +237,14 @@
    "campo": "areas",
    "veredito": "duvida",
    "detalhe": "Texto da fonte cortado antes da descrição; Música presumida pelo nome.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-abef674624",
+   "titulo": "Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair",
+   "campo": "natureza",
+   "veredito": "duvida",
+   "detalhe": "A fonte não diz se é apresentação ou prática aberta (aula); se for curso pago, sai.",
    "resolucao": ""
   }
  ]

@@ -1,32 +1,6 @@
 {
  "criterios_versao": "2026-11-15",
  "dias": {
-  "2026-11-22": [
-   {
-    "id": "2026-11-19-090",
-    "porque": "Último dia do festival, com a Bateria da Portela ao meio-dia e roda de samba no encerramento, no Passeio Público."
-   },
-   {
-    "id": "2026-11-19-075",
-    "porque": "Uma banda só de mulheres festeja 50 anos, de graça, em Anchieta."
-   },
-   {
-    "id": "2026-11-19-054",
-    "porque": "Último fim de semana da peça em que crianças do subúrbio defendem o lugar onde brincam."
-   },
-   {
-    "id": "2026-11-19-047",
-    "porque": "Manhã de dança de vários estilos, de graça, na areninha do Pechincha."
-   },
-   {
-    "id": "2026-11-19-002",
-    "porque": "Dança sobre o cuidado entre gente e cavalos, em temporada só até o dia 29."
-   },
-   {
-    "id": "2026-11-19-086",
-    "porque": "Brincadeira de graça para as crianças de Santa Cruz, todo domingo."
-   }
-  ],
   "2026-11-23": [
    {
     "id": "2026-11-19-171",
@@ -147,9 +121,12 @@
   ],
   "2026-11-30": [
    {
+    "id": "f-817525d981",
+    "porque": "Tiago Nacarato apresenta \"Segredo dos Deuses\" no palco do Teatro Rival, na Cinelândia."
+   },
+   {
     "id": "f-cc87a92854",
-    "porque": "A preço popular, em Centro.",
-    "automatico": true
+    "porque": "Filme sobre Mark Fisher, autor de \"Realismo Capitalista\", no anexo do Theatro Municipal."
    }
   ],
   "2026-12-01": [
@@ -162,6 +139,16 @@
     "id": "f-5f105e75e1",
     "porque": "Em Tijuca.",
     "automatico": true
+   },
+   {
+    "id": "f-336a21fcd4",
+    "porque": "Em Ipanema.",
+    "automatico": true
+   },
+   {
+    "id": "f-f2b607a1c8",
+    "porque": "Em Lagoa.",
+    "automatico": true
    }
   ],
   "2026-12-02": [
@@ -171,13 +158,18 @@
     "automatico": true
    },
    {
-    "id": "2026-11-19-116",
-    "porque": "De graça, em Tijuca.",
+    "id": "f-4e93cdffeb",
+    "porque": "Em Copacabana.",
     "automatico": true
    },
    {
     "id": "f-5d78dd59cd",
     "porque": "Em Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-687a147153",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -220,8 +212,8 @@
     "automatico": true
    },
    {
-    "id": "f-90cb83d106",
-    "porque": "Em Pechincha.",
+    "id": "f-904af954ca",
+    "porque": "Em Campo Grande.",
     "automatico": true
    }
   ],
@@ -274,6 +266,18 @@
     "id": "f-97527d1876",
     "porque": "Em Centro.",
     "automatico": true
+   },
+   {
+    "id": "f-8079e7c1fb",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   }
+  ],
+  "2026-12-09": [
+   {
+    "id": "f-f1aadd3e01",
+    "porque": "Em Cinelândia.",
+    "automatico": true
    }
   ],
   "2026-12-10": [
@@ -283,8 +287,8 @@
     "automatico": true
    },
    {
-    "id": "f-c949923f2e",
-    "porque": "Em Gávea.",
+    "id": "f-aac77f6a65",
+    "porque": "Em Botafogo.",
     "automatico": true
    },
    {
@@ -293,8 +297,8 @@
     "automatico": true
    },
    {
-    "id": "f-74400b5b7e",
-    "porque": "Em Pechincha.",
+    "id": "f-6657731272",
+    "porque": "Em Campo Grande.",
     "automatico": true
    }
   ],
@@ -337,8 +341,8 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
@@ -359,8 +363,8 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-ad440effa4",
+    "porque": "Em Pechincha.",
     "automatico": true
    }
   ],
@@ -405,8 +409,8 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
@@ -422,13 +426,13 @@
     "automatico": true
    },
    {
-    "id": "f-c3ec0cdbd0",
-    "porque": "Em Santa Teresa.",
+    "id": "f-0202434169",
+    "porque": "Em Pechincha.",
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
@@ -444,13 +448,13 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-666f8d5c79",
+    "porque": "Em Campo Grande.",
     "automatico": true
    },
    {
-    "id": "f-345c3d2ed6",
-    "porque": "Em Santa Teresa.",
+    "id": "f-2e459d6746",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -466,13 +470,20 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    },
    {
-    "id": "f-345c3d2ed6",
-    "porque": "Em Santa Teresa.",
+    "id": "f-176da8f5f3",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2026-12-21": [
+   {
+    "id": "f-6f0af60fe5",
+    "porque": "Em Cinelândia.",
     "automatico": true
    }
   ],
@@ -483,10 +494,137 @@
     "automatico": true
    }
   ],
+  "2026-12-26": [
+   {
+    "id": "f-2feb9d5fbf",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   }
+  ],
+  "2026-12-28": [
+   {
+    "id": "f-e05e6a72a2",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   }
+  ],
+  "2027-01-02": [
+   {
+    "id": "f-a9adb52cda",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   },
+   {
+    "id": "f-d035932a07",
+    "porque": "Em Olaria.",
+    "automatico": true
+   }
+  ],
+  "2027-01-08": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-619ec2e94c",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   },
+   {
+    "id": "f-cc466cac8b",
+    "porque": "Em Cidade Nova.",
+    "automatico": true
+   }
+  ],
+  "2027-01-09": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-10": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-14": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-ea4cefe17f",
+    "porque": "Em Cocotá (Ilha do Governador).",
+    "automatico": true
+   },
+   {
+    "id": "f-75cdb431e3",
+    "porque": "Em Cinelândia.",
+    "automatico": true
+   }
+  ],
+  "2027-01-15": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-f16a9f483b",
+    "porque": "Em Bangu.",
+    "automatico": true
+   }
+  ],
   "2027-01-16": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
    {
     "id": "f-a5ca51917a",
     "porque": "Em Glória (Aterro do Flamengo).",
+    "automatico": true
+   },
+   {
+    "id": "f-e00b9fe3ca",
+    "porque": "Em Madureira.",
+    "automatico": true
+   },
+   {
+    "id": "f-b32caf22f6",
+    "porque": "Em Realengo.",
+    "automatico": true
+   }
+  ],
+  "2027-01-17": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-21": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-22": [
+   {
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-e76aa0e4f0",
+    "porque": "Em Pechincha.",
     "automatico": true
    }
   ]
@@ -510,7 +648,6 @@
   }
  ],
  "automaticos": [
-  "2026-11-30",
   "2026-12-01",
   "2026-12-02",
   "2026-12-03",
@@ -518,6 +655,7 @@
   "2026-12-05",
   "2026-12-06",
   "2026-12-08",
+  "2026-12-09",
   "2026-12-10",
   "2026-12-11",
   "2026-12-12",
@@ -528,7 +666,19 @@
   "2026-12-18",
   "2026-12-19",
   "2026-12-20",
+  "2026-12-21",
   "2026-12-22",
-  "2027-01-16"
+  "2026-12-26",
+  "2026-12-28",
+  "2027-01-02",
+  "2027-01-08",
+  "2027-01-09",
+  "2027-01-10",
+  "2027-01-14",
+  "2027-01-15",
+  "2027-01-16",
+  "2027-01-17",
+  "2027-01-21",
+  "2027-01-22"
  ]
 }

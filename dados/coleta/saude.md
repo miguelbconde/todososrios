@@ -1,8 +1,8 @@
-# Boletim de saúde — 2026-11-22
+# Boletim de saúde — 2026-11-23
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-22 13:36 UTC
+- Feita em: 2026-11-23 08:50 UTC
 - Lidas com datas: **53** de 89 visitadas
 - não respondeu: 19
 - coletada, mas sem datas à vista: 14
@@ -10,7 +10,9 @@
 
 ## Plataformas de ingresso
 
-- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
+- Ingresso.com: 5679 sessões de cinema
+- Sympla: 1937 eventos no Rio
+- Fever: 61 eventos no Rio
 
 ## Fichas automáticas (sem IA)
 
@@ -19,21 +21,21 @@
 
 ## Redação (tarefa diária do Claude)
 
-- Última entrega: 2026-11-22
-  - 2026-11-22: 0 novas, 0 corrigidas, 0 recusadas — Redação diária de 22/11 (4ª rodada): A boa de 26 a 29/11 e primeira lista de A boa do mês.
-  - 2026-11-22: 20 novas, 0 corrigidas, 0 recusadas — Rodada extra de 22/11 (noite), lote 4: 20 eventos da rede municipal na Sympla (1º a 6/12).
-  - 2026-11-22: 20 novas, 0 corrigidas, 0 recusadas — Rodada extra de 22/11 (noite), lote 5: 20 eventos da rede municipal e de espaços comunitários na Sympla (4 a 18/12).
-  - 2026-11-22: 17 novas, 0 corrigidas, 0 recusadas — Rodada extra de 22/11 (noite), lote 6: 17 fichas de teatros e casas de música (Sympla, grupo cultural).
-  - 2026-11-22: 3 novas, 0 corrigidas, 0 recusadas — 22/11 (noite, em conversa): 3 grandes shows para A boa do mês (Paulinho da Viola, Ferrugem, Leo Gandelman).
+- Última entrega: 2026-11-23
   - 2026-11-22: 0 novas, 0 corrigidas, 0 recusadas — 22/11 (noite, em conversa): novas regras de A boa (4 por dia, uma em cada região) e A boa do mês (3 ou 4 grandes nomes); 3 duplicatas removidas.
   - 2026-11-22: 0 novas, 0 corrigidas, 0 recusadas — 22/11 (noite): teste das regras novas de A boa
+  - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 1: 20 fichas (Sympla, Teatro das Artes) de 26/11 a 8/1; A boa de 30/11.
+  - 2026-11-23: 0 novas, 0 corrigidas, 0 recusadas — 23/11, lote 1 (ajuste): A boa de 30/11 só com eventos (segunda-feira com pouca programação).
+  - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 2: 20 fichas (rede municipal e casas de música na Sympla) de 27/11 a 22/1.
+  - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 3: 20 fichas (rodas de samba, casas de música e teatros na Sympla) de 26/11 a 6/12.
+  - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 4: 20 fichas (Teatro Rival, Lona de Campo Grande, Mangueira, Cacique de Ramos e outros na Sympla) de 4/12 a 14/1.
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-21: **259**
-- Por região: Centro 88, Zona Sul 73, Zona Norte 69, Zona Sudoeste 17, Zona Oeste 12
+- Fichas da redação de hoje até 2027-01-22: **278**
+- Por região: Centro 103, Zona Sul 79, Zona Norte 65, Zona Sudoeste 17, Zona Oeste 14
 - Fora da Zona Sul: 72%
-- Grátis: 54
+- Grátis: 38
 
 ## Alarmes
 
