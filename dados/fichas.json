@@ -6056,6 +6056,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Rosi Alves: tributo a Clara Nunes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Brigitte Blair",
+   "endereco": "Rua Miguel Lemos, 51",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Rosi Alves canta em tributo a Clara Nunes no Teatro Brigitte Blair, em Copacabana.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/118951",
+   "trecho_fonte": "2026-11-29 20:00 até 2026-11-29 20:00 | Rosi Alves Tributo a Clara Nunes | Teatro Brigitte Blair, R. Miguel Lemos, 51 - h  | organizador: FATIMA PEREIRA DIVERSOES / TEATRO BRIGITE BLAIR | https://bileto.sympla.com.br/event/118951",
+   "id": "f-084422ee9e",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-05",
      "hora": "17:00"
     }
@@ -6117,6 +6150,72 @@
    "trecho_fonte": "2026-11-24 18:00 até 2026-11-24 20:00 | Espetáculo Descoberta das Américas e lançamento do livro \"DESCOBRIMENTO\" | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio",
    "id": "f-08c1e2974f",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Teatro (humor) presumido pelo espaço e pelo subtítulo.",
+   "aviso": "",
+   "titulo": "Thiago Chagas em Extraviado 3.0",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Fashion Mall",
+   "endereco": "Estrada da Gávea, 899, loja 213",
+   "bairro": "São Conrado",
+   "regiao": "Zona Sul",
+   "sinopse": "Thiago Chagas apresenta \"Extraviado 3.0 – Rindo sem desligar o cérebro\" no Teatro Fashion Mall.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/125765",
+   "trecho_fonte": "2026-11-27 21:00 até 2026-11-27 21:00 | THIAGO CHAGAS EM EXTRAVIADO 3.0 - RINDO SEM DESLIGAR O CÉREBRO | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/125765",
+   "id": "f-0bfb8b21e5",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Noite de cabaré presumida pelo título; a casa já apresentou outras edições do Cabaret, não é mostra de alunos.",
+   "aviso": "",
+   "titulo": "Cabaret – Absurdos e Variedades",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Circo Crescer e Viver",
+   "endereco": "Rua Carmo Neto, 143",
+   "bairro": "Cidade Nova",
+   "regiao": "Centro",
+   "sinopse": "Noite de cabaré \"Absurdos e Variedades\" no Circo Crescer e Viver, na Cidade Nova.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/121802",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-04 20:00 | CABARET – Absurdos e Variedades 04/12 | CIRCO CRESCER E VIVER, Rua Carmo Neto , 143  | organizador: CIRCO CRESCER E VIVER | https://bileto.sympla.com.br/event/121802",
+   "id": "f-0c1ae21378",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -6247,6 +6346,39 @@
    "trecho_fonte": "AMIGO OCULTO 14 Novembro 2026 - 16 Janeiro 2027 A Gentil Carioca | Rio de Janeiro A Gentil Carioca tem o prazer de apresentar Amigo Oculto , exposição coletiva com curadoria de Victor Gorgulho [...] A exposição nasce de um exercício de reconhecimento entre artistas... || Arte que Acontece: A exposição nasce de um exercício de reconhecimento entre artistas de diferentes gerações || Rua Gonçalves Lédo, 11/17, sobrado Centro | Rio de Janeiro (RJ) [...] De segunda a sexta, das 12h às 18h (sem necessidade de agendamento) Sábado, das 12h às 16h (agendamento prévio com até um dia de antecedência)",
    "id": "f-0e743de4be",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio.",
+   "aviso": "",
+   "titulo": "Forró da Praça",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Largo do Boticário",
+   "endereco": "Beco do Boticário",
+   "bairro": "Cosme Velho",
+   "regiao": "Zona Sul",
+   "sinopse": "Forró da Praça no Largo do Boticário, no Cosme Velho.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/forro-da-praca-no-jo-joe/3656793",
+   "trecho_fonte": "2026-11-29 14:00 até 2026-11-29 20:00 | Forró da Praça no Jo&Joe | Largo do Boticário, Beco do Boticário Cosme Velho | organizador: Jo&Joe RIO | https://www.sympla.com.br/evento/forro-da-praca-no-jo-joe/3656793",
+   "id": "f-10dbb25ae9",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -6527,6 +6659,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. Música presumida pelo título.",
+   "aviso": "",
+   "titulo": "Beatles Fora da Caixa",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Jacarepaguá",
+   "endereco": "Avenida Geremário Dantas, 940",
+   "bairro": "Jacarepaguá",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show \"Beatles Fora da Caixa\" no Teatro Firjan SESI Jacarepaguá.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/122112",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | BEATLES FORA DA CAIXA | Teatro Firjan SESI JACAREPAGUÁ ., Avenida Geremário Dantas, 940  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/122112",
+   "id": "f-1e3cc3099b",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-11",
      "hora": "19:00"
     }
@@ -6588,6 +6753,39 @@
    "trecho_fonte": "2026-12-04 19:00 até 2026-12-04 19:00 | 1º Encontro de Violonistas Compositores - Concerto Andrea Perrone | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/130349",
    "id": "f-216d584925",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "",
+   "titulo": "Tudo Aquilo que Fica",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Fashion Mall",
+   "endereco": "Estrada da Gávea, 899, loja 213",
+   "bairro": "São Conrado",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Tudo Aquilo que Fica\" no Teatro Fashion Mall, em São Conrado.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129335",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | TUDO AQUILO QUE FICA | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/129335",
+   "id": "f-220da6ee35",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -7103,6 +7301,39 @@
    "trecho_fonte": "2026-11-24 20:00 até 2026-11-24 20:00 | SERIAL FUNKERS CLÁSSICOS | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370  | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/128893",
    "id": "f-32dfa61e7e",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Par Teatros. Intérpretes não informados. \"Série\" presumida: o Cândido Mendes teve outra noite Jazz em Dobro em 24/11.",
+   "aviso": "",
+   "titulo": "Jazz em Dobro: Beth Carvalho & Maria Bethânia",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite da série Jazz em Dobro dedicada a Beth Carvalho e Maria Bethânia, no Teatro Cândido Mendes.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127723",
+   "trecho_fonte": "2026-12-01 20:00 até 2026-12-01 20:00 | Jazz em dobro: Beth Carvalho & Maria Bethânia | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/127723",
+   "id": "f-336a21fcd4",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": {
@@ -7707,6 +7938,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Intérpretes não informados. \"Série\" presumida pelo nome \"Audio Rebel Jazz apresenta\".",
+   "aviso": "",
+   "titulo": "Audio Rebel Jazz: João Donato In Jazz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Audio Rebel",
+   "endereco": "Rua Visconde de Silva",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite \"João Donato In Jazz\" na série Audio Rebel Jazz, em Botafogo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/audio-rebel-jazz-apresenta-joao-donato-in-jazz/3661043",
+   "trecho_fonte": "2026-12-03 20:00 até 2026-12-03 23:00 | Audio Rebel Jazz apresenta: João Donato In Jazz | Audio Rebel, Rua Visconde Silva Botafogo | organizador: Audio Rebel | https://www.sympla.com.br/evento/audio-rebel-jazz-apresenta-joao-donato-in-jazz/3661043",
+   "id": "f-4c351d9ab5",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-11",
      "hora": "20:00"
     }
@@ -7792,6 +8056,39 @@
    "trecho_fonte": "2026-12-10 19:00 até 2026-12-19 19:00 | HIENAS: Uma comédia tóxica | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/130046",
    "id": "f-4e91eb3d3d",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Intérpretes não informados.",
+   "aviso": "",
+   "titulo": "Tributo a Delcio Carvalho",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Brigitte Blair",
+   "endereco": "Rua Miguel Lemos, 51",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Show em tributo a Delcio Carvalho no Teatro Brigitte Blair, em Copacabana.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127748",
+   "trecho_fonte": "2026-12-02 20:00 até 2026-12-02 20:00 | Tributo a Delcio Carvalho | Teatro Brigitte Blair, R. Miguel Lemos, 51 - h  | organizador: FATIMA PEREIRA DIVERSOES / TEATRO BRIGITE BLAIR | https://bileto.sympla.com.br/event/127748",
+   "id": "f-4e93cdffeb",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8009,6 +8306,39 @@
    "trecho_fonte": "2026-11-22 14:00 até 2026-11-22 22:00 | FEIJOADA CLEMENTIANA - 65 ANOS DA SÃO CLEMENTE | Quadra da São Clemente, Avenida Presidente Vargas Cidade Nova | organizador: G.R.E.S. São Clemente",
    "id": "f-56e6ced95d",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Cola Comigo que Tu Samba. Formação (grupo) presumida.",
+   "aviso": "",
+   "titulo": "Casuarina",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco do Rato",
+   "endereco": "Rua Joaquim Silva",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Casuarina no Beco do Rato, na Lapa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/casuarina-28-de-novembro-sabado-no-beco-do-rato/3647605",
+   "trecho_fonte": "2026-11-28 18:00 até 2026-11-29 02:00 | Casuarina 28 de novembro, sábado, no Beco do Rato! | Beco do Rato, Rua Joaquim Silva Lapa | organizador: Cola Comigo que Tu Samba | https://www.sympla.com.br/evento/casuarina-28-de-novembro-sabado-no-beco-do-rato/3647605",
+   "id": "f-57466b13d8",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8240,6 +8570,39 @@
    "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | MACUMBEIRO - Yuri Marçal | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127034",
    "id": "f-6576ed5f1c",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Mantra Tropical, com Fabrizio Filesi",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Fabrizio Filesi apresenta \"Mantra Tropical\", uma viagem jazz pelos sete chakras, no Istituto Italiano di Cultura.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/mantra-tropical-uma-viagem-jazz-pelos-sete-chakras-com-fabrizio-filesi/3657214",
+   "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 21:00 | Mantra Tropical. Uma viagem jazz pelos sete chakras, com Fabrizio Filesi | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio | https://www.sympla.com.br/evento/mantra-tropical-uma-viagem-jazz-pelos-sete-chakras-com-fabrizio-filesi/3657214",
+   "id": "f-687a147153",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8634,6 +8997,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio. Feijuca com Samba tratado como série pelo \"apresenta\".",
+   "aviso": "",
+   "titulo": "Feijuca com Samba: Samba do Pedro",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Largo do Boticário",
+   "endereco": "Beco do Boticário",
+   "bairro": "Cosme Velho",
+   "regiao": "Zona Sul",
+   "sinopse": "O Samba do Pedro toca no Largo do Boticário, no Cosme Velho, na série Feijuca com Samba.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-pedro/3630489",
+   "trecho_fonte": "2026-11-28 14:00 até 2026-11-28 21:00 | Feijuca com Samba apresenta: Samba do Pedro | Largo do Boticário, Beco do Boticário Cosme Velho | organizador: Jo&Joe RIO | https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-pedro/3630489",
+   "id": "f-7c728d45f2",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "15:00"
     }
@@ -8903,6 +9299,73 @@
    "trecho_fonte": "2026-11-05 19:00 até 2026-11-26 23:30 | Cordélia Brasil | Teatro Glauce Rocha, Avenida Rio Branco centro | organizador: Persona Produções | https://www.sympla.com.br/evento/cordelia-brasil/3623959",
    "id": "f-897e83ed8a",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Lia Paris canta Edith Piaf",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Brigitte Blair",
+   "endereco": "Rua Miguel Lemos, 51",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Lia Paris interpreta o repertório de Edith Piaf no Teatro Brigitte Blair, em Copacabana.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/122891",
+   "trecho_fonte": "2026-11-28 20:30 até 2026-11-28 20:30 | Lia Paris canta Edith Piaf | Teatro Brigitte Blair, R. Miguel Lemos, 51 - h  | organizador: FATIMA PEREIRA DIVERSOES / TEATRO BRIGITE BLAIR | https://bileto.sympla.com.br/event/122891",
+   "id": "f-8af3bf8b08",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Tripularte. Infantil presumido pelo título.",
+   "aviso": "",
+   "titulo": "Os Três Porquinhos",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Grajaú (Grajaú Tênis Clube)",
+   "endereco": "Avenida Engenheiro Richard",
+   "bairro": "Grajaú",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Os Três Porquinhos\" no Teatro Grajaú, no Grajaú Tênis Clube.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/os-tres-porquinhos/3644195",
+   "trecho_fonte": "2026-11-28 16:30 até 2026-11-28 17:00 | Os Três Porquinhos | Teatro Grajaú, Grajaú Tênis Clube RJ, Avenida Engenheiro Richard Grajaú | organizador: Tripularte | https://www.sympla.com.br/evento/os-tres-porquinhos/3644195",
+   "id": "f-8b4fc827c0",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -9232,6 +9695,39 @@
    "trecho_fonte": "2026-12-11 21:00 até 2026-12-11 21:00 | MATHEUS CEARÁ | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/128444",
    "id": "f-96ac8e8073",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Beco do Rato. \"Roda\" presumida pelo nome e pela casa.",
+   "aviso": "",
+   "titulo": "Samba que Elas Querem",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco do Rato",
+   "endereco": "Rua Joaquim Silva",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Roda \"Samba que Elas Querem\" no Beco do Rato, na Lapa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-que-elas-querem/3645078",
+   "trecho_fonte": "2026-11-27 18:00 até 2026-11-28 02:00 | Samba que Elas Querem | Beco do Rato, Rua Joaquim Silva Centro | organizador: Beco do Rato | https://www.sympla.com.br/evento/samba-que-elas-querem/3645078",
+   "id": "f-96fb924318",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -10016,6 +10512,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": true,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Agência Meu Rio. Na rua presumido pelo local (praça).",
+   "aviso": "",
+   "titulo": "Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Praça Marechal Âncora",
+   "endereco": "Praça Marechal Âncora",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Samba do Alba na Praça Marechal Âncora, com Cozinha Arrumada, LadoB e Casa de Marimbondo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-do-alba-28-11-cozinha-arrumada-ladob-e-casa-de-marimbondo/3657435",
+   "trecho_fonte": "2026-11-28 18:00 até 2026-11-29 03:00 | Samba do Alba - 28/11 - Cozinha Arrumada, LadoB e Casa de Marimbondo | Praça Marechal Âncora, Praça Marechal Âncora Centro | organizador: Agencia Meu Rio | https://www.sympla.com.br/evento/samba-do-alba-28-11-cozinha-arrumada-ladob-e-casa-de-marimbondo/3657435",
+   "id": "f-aa1e08f5a1",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "18:00"
     }
@@ -10044,6 +10573,39 @@
    "trecho_fonte": "2026-11-22 18:00 até 2026-11-22 19:50 | O Neguinho da Beija Flor - Musical | Teatro Dulcina, Rua Alcindo Guanabara Centro - rj | organizador: Lapilar Produções",
    "id": "f-aa4f94a9ca",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Helena Beltrão canta Ella, Elis e Elza",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Vinícius Show Bar",
+   "endereco": "Rua Vinícius de Moraes",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Helena Beltrão canta repertório de Ella, Elis e Elza no Vinícius Show Bar, em Ipanema.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/helena-beltrao-canta-ella-elis-e-elza/3650378",
+   "trecho_fonte": "2026-12-03 20:00 até 2026-12-03 21:15 | Helena Beltrão Canta Ella, Elis e Elza | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar | https://www.sympla.com.br/evento/helena-beltrao-canta-ella-elis-e-elza/3650378",
+   "id": "f-aaceda3923",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -10915,6 +11477,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "MulheRio do Samba",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Glorioso Cultural",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite \"MulheRio do Samba\" no Glorioso Cultural, no Catete.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/mulherio-do-samba/3640787",
+   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 23:30 | MulheRio do Samba | Glorioso Cultural, Rua do Catete Catete | organizador: Paulo Cesar Figueiredo | https://www.sympla.com.br/evento/mulherio-do-samba/3640787",
+   "id": "f-c7ada106b3",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "18:00"
     }
@@ -11703,6 +12298,67 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período; dias presumidos de quinta a domingo. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "Fera",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Fera\" em temporada no Teatro Firjan SESI Centro, de 23 de novembro a 8 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128512",
+   "trecho_fonte": "2026-11-23 19:00 até 2026-12-08 19:00 | FERA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128512",
+   "id": "f-d7cbeae19c",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "18:30"
     }
@@ -12158,6 +12814,39 @@
    "link": "https://www.sympla.com.br/evento/exposicao-ser-imortal-e-deixar-lucidamente-algo-fora-de-sitio/3654692",
    "trecho_fonte": "2026-11-19 16:00 até 2026-11-27 19:00 | Exposição Ser imortal é deixar lucidamente algo fora de sítio | Espaço Cultura na Justiça, Rua Dom Manuel Centro | organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ | https://www.sympla.com.br/evento/exposicao-ser-imortal-e-deixar-lucidamente-algo-fora-de-sitio/3654692 | TEMPORADA em cartaz na semana até 2026-11-25: dias não informados",
    "id": "f-e02b0bbcb4",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Sede de Samba",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco do Rato",
+   "endereco": "Rua Joaquim Silva",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Tarde \"Sede de Samba\" no Beco do Rato, na Lapa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/sede-de-samba/3642472",
+   "trecho_fonte": "2026-11-29 14:00 até 2026-11-29 20:00 | SEDE DE SAMBA | Beco do Rato, Rua Joaquim Silva Centro | organizador: Flavinho May | https://www.sympla.com.br/evento/sede-de-samba/3642472",
+   "id": "f-e1922cbf93",
    "entrou_em": "2026-11-23"
   },
   {
