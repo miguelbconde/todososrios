@@ -2,15 +2,17 @@
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-22 13:36 UTC
-- Lidas com datas: **53** de 89 visitadas
-- não respondeu: 19
+- Feita em: 2026-11-23 18:14 UTC
+- Lidas com datas: **52** de 89 visitadas
+- não respondeu: 20
 - coletada, mas sem datas à vista: 14
 - recusou a visita: 3
 
 ## Plataformas de ingresso
 
-- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
+- Ingresso.com: 5464 sessões de cinema
+- Sympla: 1989 eventos no Rio
+- Fever: 60 eventos no Rio
 
 ## Fichas automáticas (sem IA)
 
@@ -37,4 +39,4 @@
 
 ## Alarmes
 
-- a ronda das fontes não rodou hoje (a última é de 2026-11-22 13:36 UTC)
+- Nenhum.
