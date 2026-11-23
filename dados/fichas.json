@@ -5926,6 +5926,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Intérpretes não informados.",
+   "aviso": "",
+   "titulo": "Tributo a Cazuza",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show em tributo a Cazuza na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130264",
+   "trecho_fonte": "2026-12-18 19:00 até 2026-12-18 19:00 | TRIBUTO A CAZUZA | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/130264",
+   "id": "f-0202434169",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "19:00"
     }
@@ -6878,6 +6911,40 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-19",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial",
+   "areas": [
+    "Livros & Debates",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Municipal de Arte Hélio Oiticica",
+   "endereco": "Rua Luís de Camões, 68",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Roda de conversa sobre os quintais do samba como lugar de resistência étnico-racial na cidade do Rio de Janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/121338",
+   "trecho_fonte": "2026-12-19 14:00 até 2026-12-19 14:00 | Roda de Conversa: Quintais do Samba Como Lugar de Resistência Étnico Racial na Cidade do Rio de Janeiro | Centro Municipal de Arte Hélio Oiticica, Rua Luís de Camões, 68  | organizador: Município de Rio de Janeiro - Centro Municipal de Arte Hélio Oiticica | https://bileto.sympla.com.br/event/121338",
+   "id": "f-2e459d6746",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-13",
      "hora": "11:00"
     }
@@ -7574,6 +7641,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-16",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.",
+   "aviso": "",
+   "titulo": "Marcelo Duque: Sem Filtro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Marcelo Duque apresenta o espetáculo de humor \"Sem Filtro\" numa areninha cultural da prefeitura, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129272",
+   "trecho_fonte": "2027-01-16 20:30 até 2027-01-16 20:30 | SEM FILTRO - MARCELO DUQUE | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/129272",
+   "id": "f-47a736f90a",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-26",
      "hora": "19:00"
     }
@@ -7774,6 +7874,39 @@
    "trecho_fonte": "2026-12-10 17:30 até 2026-12-10 18:30 | Quarteto Jequitibá na Série Vitrine Musical UNIRIO no Saguão do CCJF-RJ | Centro Cultural Justiça Federal, Avenida Rio Branco Centro | organizador: Sérgio Barrenechea | https://www.sympla.com.br/evento/quarteto-jequitiba-na-serie-vitrine-musical-unirio-no-saguao-do-ccjf-rj/3532443",
    "id": "f-51fccee40a",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.",
+   "aviso": "",
+   "titulo": "Saulo Ligo e André Bertini: Abênça",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa do Choro",
+   "endereco": "Rua da Carioca, 38",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Saulo Ligo e André Bertini apresentam \"Abênça\" na Casa do Choro, no Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/saulo-ligo-e-andre-bertini-abenca-casa-do-choro/3633697",
+   "trecho_fonte": "2026-12-03 19:00 até 2026-12-03 20:00 | Saulo Ligo e André Bertini - ABÊNÇA - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/saulo-ligo-e-andre-bertini-abenca-casa-do-choro/3633697",
+   "id": "f-535034cd59",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8209,6 +8342,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-02",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Tori: Areia e Voz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Tori apresenta o show \"Areia e Voz\" no Teatro Rival, na Cinelândia.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127592",
+   "trecho_fonte": "2026-12-02 19:30 até 2026-12-02 19:30 | TORI EM “AREIA E VOZ” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/127592",
+   "id": "f-705dcf0961",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-03",
      "hora": "20:30"
     }
@@ -8430,6 +8596,39 @@
    "trecho_fonte": "2026-11-14 16:00 até 2026-11-29 16:00 | Lia e a Árvore da Montanha | Teatro Gláucio Gill, Praça Cardeal Arcoverde Copacabana | organizador: Sintonia Dominó | https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
    "id": "f-77a74481e4",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá de 27/11, 17h, a 29/11, 18h, sem a programação de cada dia; registrada só a abertura.",
+   "aviso": "",
+   "titulo": "14ª Jornada de Educação e Relações Étnico-Raciais: Territórios de Pertencimento",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Museu de Arte do Rio (MAR)",
+   "endereco": "Praça Mauá, 5",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Jornada da Escola do Olhar no MAR sobre educação e relações étnico-raciais, com o tema \"Territórios de Pertencimento\". Segue até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/14a-jornada-de-educacao-e-relacoes-etnico-raciais-territorios-de-pertencimento/3657265",
+   "trecho_fonte": "2026-11-27 17:00 até 2026-11-29 18:00 | 14ª Jornada de Educação e Relações étnico-raciais: Territórios de Pertencimento | Museu de Arte do Rio, Praça Mauá Centro | organizador: Escola do Olhar | https://www.sympla.com.br/evento/14a-jornada-de-educacao-e-relacoes-etnico-raciais-territorios-de-pertencimento/3657265",
+   "id": "f-7adf1f93f5",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -9919,6 +10118,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-18",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz se é apresentação ou prática aberta (aula).",
+   "aviso": "",
+   "titulo": "Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
+   "endereco": "Rua José Higino, 115",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Práticas de uma dança inclinada a cair\", no Centro Coreográfico da Cidade, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130358",
+   "trecho_fonte": "2026-12-18 18:30 até 2026-12-18 18:30 | Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115  | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130358",
+   "id": "f-abef674624",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-06",
      "hora": "20:00"
     }
@@ -9947,6 +10179,39 @@
    "trecho_fonte": "2026-12-06 20:00 até 2026-12-06 20:00 | Matheus Ceará em: “Desculpa eu ter vindo!” | Arena Carioca Jovelina Pérola Negra, Praça Ênio | organizador: Município de Rio de Janeiro - Arena Cultural Jovelina Pérola Negra | https://bileto.sympla.com.br/event/128275",
    "id": "f-ad2ab9a962",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; área Música presumida.",
+   "aviso": "",
+   "titulo": "Adrian Cortês: Moonwalk Fest",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Adrian Cortês apresenta o \"Moonwalk Fest\" na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127822",
+   "trecho_fonte": "2026-12-13 17:00 até 2026-12-13 17:00 | ADRIAN CORTÊS - MOONWALK FEST | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127822",
+   "id": "f-ad440effa4",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -10017,6 +10282,39 @@
    "trecho_fonte": "2026-11-05 20:00 até 2026-11-26 20:00 | Lisandra na Mesa de Jantar | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/129512",
    "id": "f-b29d9de2c6",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-16",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Kwesny em Manual do Carioca",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Kwesny apresenta \"Manual do Carioca\" na Areninha Cultural Gilberto Gil, em Realengo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130239",
+   "trecho_fonte": "2027-01-16 21:00 até 2027-01-16 21:00 | KWESNY EM: MANUAL DO CARIOCA | Areninha Cultural Gilberto Gil, Av. Marechal Fontenele, 5000  | organizador: Município de Rio de Janeiro - Areninha Cultural Gilberto Gil | https://bileto.sympla.com.br/event/130239",
+   "id": "f-b32caf22f6",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -10916,6 +11214,71 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-08",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Hassis Produções Artísticas. Dias presumidos (quinta a domingo) a partir do período informado; listadas as sessões até o fim da janela de 60 dias.",
+   "aviso": "dias",
+   "titulo": "Eles Não Usam Black Tie",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco, 241",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Montagem de \"Eles Não Usam Black Tie\" em temporada no Centro Cultural da Justiça Federal, de 8 a 31 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/eles-nao-usam-black-tie/3658868",
+   "trecho_fonte": "2027-01-08 19:00 até 2027-01-31 19:00 | Eles Não Usam Black Tie | CCJF - Centro Cultural Justiça Federal, Avenida Rio Branco Cinelândia | organizador: HASSIS PRODUÇÕES ARTÍSTICAS | https://www.sympla.com.br/evento/eles-nao-usam-black-tie/3658868",
+   "id": "f-cbf54625b4",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-12",
      "hora": "14:00"
     }
@@ -11434,6 +11797,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-03",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Luan Pureza celebra Iansã – Santa Bárbara",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Luan Pureza faz show em celebração a Iansã e Santa Bárbara no Teatro Rival, na Cinelândia.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/124933",
+   "trecho_fonte": "2026-12-03 19:30 até 2026-12-03 19:30 | LUAN PUREZA CELEBRA IANSÃ – SANTA BÁRBARA | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/124933",
+   "id": "f-da9a28b5f7",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-27",
      "hora": "19:30"
     },
@@ -11569,6 +11965,75 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-05",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo) a partir do período informado. Contação de histórias presumida pelo nome.",
+   "aviso": "dias",
+   "titulo": "Festival Contarolando Histórias",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ruth de Souza",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sinopse": "Festival de contação de histórias no Teatro Municipal Ruth de Souza, em Santa Teresa, de 5 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128571",
+   "trecho_fonte": "2026-12-05 11:00 até 2026-12-20 11:00 | FESTIVAL CONTAROLANDO HISTÓRIAS | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169  | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128571",
+   "id": "f-dcc73bca1e",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "18:00"
     }
@@ -11596,6 +12061,104 @@
    "trecho_fonte": "2026-11-22 18:00 até 2026-11-23 00:30 | SAMBA PRA RODA NA CAPIBERIBE | CENTRO CULTURAL CAPIBERIBE 27, Rua Capiberibe Santo Cristo | organizador: CENTRO CULTUTAL CAPIBERIBE 27 | https://www.sympla.com.br/evento/samba-pra-roda-na-capiberibe/3655877",
    "id": "f-dd058b1dea",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-16",
+     "hora": "21:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Raphael Ghanem em A Carne Só Cai no Prato do Vegano",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Raphael Ghanem apresenta \"A Carne Só Cai no Prato do Vegano\" na Arena Cultural Fernando Torres, em Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129722",
+   "trecho_fonte": "2027-01-16 21:30 até 2027-01-16 21:30 | A CARNE SÓ CAI NO PRATO DO VEGANO com RAPHAEL GHANEM | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200  | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/129722",
+   "id": "f-e00b9fe3ca",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Tratada como mostra aberta ao público; a fonte não diz se é encerramento de curso.",
+   "aviso": "",
+   "titulo": "Praticar o Encontro: Mostra Cenas Curtas",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
+   "endereco": "Rua José Higino, 115",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Mostra de cenas curtas no Centro Coreográfico da Cidade, na Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130285",
+   "trecho_fonte": "2026-12-10 19:00 até 2026-12-10 19:00 | PRATICAR O ENCONTRO: Mostra Cenas Curtas | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115  | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130285",
+   "id": "f-e01682e00d",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-11-19",
+    "fim": "2026-11-27",
+    "horario": ""
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Centro Cultural do Poder Judiciário). A Sympla dá o período de 19/11, 16h, a 27/11, 19h, sem dias nem horário de visitação.",
+   "aviso": "",
+   "titulo": "Ser imortal é deixar lucidamente algo fora de sítio",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Espaço Cultura na Justiça (CCPJ)",
+   "endereco": "Rua Dom Manuel, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Exposição no Espaço Cultura na Justiça, do Centro Cultural do Poder Judiciário, no Centro, até 27 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/exposicao-ser-imortal-e-deixar-lucidamente-algo-fora-de-sitio/3654692",
+   "trecho_fonte": "2026-11-19 16:00 até 2026-11-27 19:00 | Exposição Ser imortal é deixar lucidamente algo fora de sítio | Espaço Cultura na Justiça, Rua Dom Manuel Centro | organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ | https://www.sympla.com.br/evento/exposicao-ser-imortal-e-deixar-lucidamente-algo-fora-de-sitio/3654692 | TEMPORADA em cartaz na semana até 2026-11-25: dias não informados",
+   "id": "f-e02b0bbcb4",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -11801,6 +12364,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-22",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Diego Besou em Upa que Pariu",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Diego Besou apresenta \"Upa que Pariu\" na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130262",
+   "trecho_fonte": "2027-01-22 20:30 até 2027-01-22 20:30 | DIEGO BESOU EM - UPA QUE PARIU | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/130262",
+   "id": "f-e76aa0e4f0",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-28",
      "hora": "20:00"
     }
@@ -11878,6 +12474,39 @@
    "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258",
    "id": "f-e7b56859d2",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-14",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.",
+   "aviso": "",
+   "titulo": "Marcelo Duque: Sem Filtro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Renato Russo",
+   "endereco": "Parque Poeta Manuel Bandeira, s/nº",
+   "bairro": "Cocotá (Ilha do Governador)",
+   "regiao": "Zona Norte",
+   "sinopse": "Marcelo Duque apresenta o espetáculo de humor \"Sem Filtro\" numa areninha cultural da prefeitura, na Ilha do Governador.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129245",
+   "trecho_fonte": "2027-01-14 20:30 até 2027-01-14 20:30 | Sem Filtro - Marcelo Duque | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0  | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/129245",
+   "id": "f-ea4cefe17f",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -12067,6 +12696,72 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.",
+   "aviso": "",
+   "titulo": "Silvério Pontes e Marcelo Caldi",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa do Choro",
+   "endereco": "Rua da Carioca, 38",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Silvério Pontes e Marcelo Caldi se apresentam na Casa do Choro, no Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/silverio-pontes-e-marcelo-caldi-casa-do-choro/3661312",
+   "trecho_fonte": "2026-12-10 19:00 até 2026-12-10 20:00 | Silvério Pontes e Marcelo Caldi - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/silverio-pontes-e-marcelo-caldi-casa-do-choro/3661312",
+   "id": "f-f104dc9ece",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-15",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.",
+   "aviso": "",
+   "titulo": "Marcelo Duque: Sem Filtro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Marcelo Duque apresenta o espetáculo de humor \"Sem Filtro\" numa areninha cultural da prefeitura, em Bangu.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129080",
+   "trecho_fonte": "2027-01-15 20:30 até 2027-01-15 20:30 | Marcelo Duque - Sem Filtro | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n  | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/129080",
+   "id": "f-f16a9f483b",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "19:30"
     }
@@ -12095,6 +12790,39 @@
    "trecho_fonte": "2026-11-25 19:30 até 2026-11-25 19:30 | CEP 20.000 | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0  | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto",
    "id": "f-f29bb7524a",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o número na Epitácio Pessoa nem o autor.",
+   "aviso": "",
+   "titulo": "Um Brasileiro em Israel: lançamento e bate-papo",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "LDCM",
+   "endereco": "Avenida Epitácio Pessoa",
+   "bairro": "Lagoa",
+   "regiao": "Zona Sul",
+   "sinopse": "Lançamento do livro \"Um Brasileiro em Israel\", com bate-papo, organizado pelo Midrash Centro Cultural.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/um-brasileiro-em-israel-lancamento-de-livro-bate-papo/3661173",
+   "trecho_fonte": "2026-12-01 19:00 até 2026-12-01 20:30 | UM BRASILEIRO EM ISRAEL - Lançamento de Livro + Bate-papo | LDCM, Avenida Epitácio Pessoa Lagoa | organizador: Midrash Centro Cultural | https://www.sympla.com.br/evento/um-brasileiro-em-israel-lancamento-de-livro-bate-papo/3661173",
+   "id": "f-f2b607a1c8",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": {
