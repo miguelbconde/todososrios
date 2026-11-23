@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-23 08:50 UTC",
- "segundos": 172,
+ "feito_em": "2026-11-22 13:36 UTC",
+ "segundos": 176,
  "fontes": [
   {
    "ids": [
@@ -15,7 +15,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 64762,
+   "caracteres": 59262,
    "url_final": "https://www.agentilcarioca.com.br/",
    "paginas": [
     "https://www.agentilcarioca.com.br/",
@@ -28,11 +28,11 @@
     "https://www.agentilcarioca.com.br/exhibitions/location/2/",
     "https://www.agentilcarioca.com.br/exhibitions/150-vivian-caccuri-anatomy-of-presence-schauwerk-sindelfingen-sindelfingen-alemanha/",
     "https://www.agentilcarioca.com.br/exhibitions/138-opavivara-imaginalivre-parque-cultural-casa-do-governador-vila-velha/",
-    "https://www.agentilcarioca.com.br/exhibitions/152-diego-kohli-danca-para-montanhas/",
-    "https://www.agentilcarioca.com.br/exhibitions/153-romain-dumesnil-exorama/",
-    "https://www.agentilcarioca.com.br/exhibitions/154-amigo-oculto/"
+    "https://www.agentilcarioca.com.br/exhibitions/147-vivian-caccuri-selva-eletrica-caixa-cultural-de-brasilia-brasilia-brasil/",
+    "https://www.agentilcarioca.com.br/exhibitions/148-arjan-martins-o-gesto-do-poder-o-centro-cultural-do-patrimonio-paco-imperial-rio/",
+    "https://www.agentilcarioca.com.br/exhibitions/152-diego-kohli-danca-para-montanhas/"
    ],
-   "mencoes_de_data": 89,
+   "mencoes_de_data": 104,
    "situacao": "coletada",
    "arquivo": "F001.txt"
   },
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40885,
+   "caracteres": 40863,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -138,7 +138,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 290,
+   "caracteres": 270,
    "url_final": "https://www.caixacultural.gov.br/Paginas/default.aspx",
    "paginas": [
     "https://www.caixacultural.gov.br/Paginas/default.aspx"
@@ -160,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9609,
+   "caracteres": 9688,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37185,
+   "caracteres": 37828,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 300,
+   "mencoes_de_data": 324,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -437,7 +437,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 26520,
+   "caracteres": 26527,
    "url_final": "https://fundicaoprogresso.com.br",
    "paginas": [
     "https://fundicaoprogresso.com.br",
@@ -672,14 +672,19 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 1 página(s)"
+    "texto de 6 página(s)"
    ],
-   "caracteres": 2227,
+   "caracteres": 8238,
    "url_final": "https://teatrorivalrefit.com.br",
    "paginas": [
-    "https://teatrorivalrefit.com.br"
+    "https://teatrorivalrefit.com.br",
+    "https://teatrorivalrefit.com.br/eventos/",
+    "https://teatrorivalrefit.com.br/",
+    "https://teatrorivalrefit.com.br/page/2/",
+    "https://teatrorivalrefit.com.br/page/3/",
+    "https://teatrorivalrefit.com.br/page/60/"
    ],
-   "mencoes_de_data": 10,
+   "mencoes_de_data": 43,
    "situacao": "coletada",
    "arquivo": "F062.txt"
   },
@@ -799,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6821,
+   "caracteres": 6877,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -962,13 +967,12 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 49667,
+   "caracteres": 49660,
    "url_final": "https://casarobertomarinho.org.br",
    "paginas": [
     "https://casarobertomarinho.org.br",
     "https://casarobertomarinho.org.br/acontece?locale=pt-BR",
     "https://casarobertomarinho.org.br/exposicao/58?locale=pt-BR",
-    "https://casarobertomarinho.org.br/acontece/638?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/637?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/636?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/635?locale=pt-BR",
@@ -976,9 +980,10 @@
     "https://casarobertomarinho.org.br/acontece/633?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/632?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/630?locale=pt-BR",
-    "https://casarobertomarinho.org.br/acontece/631?locale=pt-BR"
+    "https://casarobertomarinho.org.br/acontece/631?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/629?locale=pt-BR"
    ],
-   "mencoes_de_data": 519,
+   "mencoes_de_data": 522,
    "situacao": "coletada",
    "arquivo": "F076.txt"
   },
@@ -1069,14 +1074,14 @@
    "degraus": [
     "texto de 3 página(s)"
    ],
-   "caracteres": 10820,
+   "caracteres": 11511,
    "url_final": "https://ecovillarihappy.com.br",
    "paginas": [
     "https://ecovillarihappy.com.br",
     "https://ecovillarihappy.com.br/programacao/",
     "https://ecovillarihappy.com.br/realize-seu-evento/"
    ],
-   "mencoes_de_data": 47,
+   "mencoes_de_data": 49,
    "situacao": "coletada",
    "arquivo": "F084.txt"
   },
@@ -1174,7 +1179,7 @@
     "feed (7 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 33828,
+   "caracteres": 34264,
    "url_final": "https://grupoestacao.com.br",
    "paginas": [
     "https://grupoestacao.com.br",
@@ -1192,7 +1197,7 @@
     "https://grupoestacao.com.br/filme/fogareu/",
     "https://grupoestacao.com.br/filme/josephine-fragmentos-de-um-crime/"
    ],
-   "mencoes_de_data": 90,
+   "mencoes_de_data": 94,
    "situacao": "coletada",
    "arquivo": "F091.txt"
   },
@@ -1207,10 +1212,10 @@
    ],
    "degraus": [
     "feed (5 itens)",
-    "calendário WordPress (33 eventos)",
+    "calendário WordPress (39 eventos)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 69810,
+   "caracteres": 70632,
    "url_final": "https://ims.com.br",
    "paginas": [
     "https://ims.com.br",
@@ -1270,7 +1275,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 8882,
+   "caracteres": 8894,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1538,7 +1543,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1706,
+   "caracteres": 1729,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1601,10 +1606,10 @@
     "Zona Sul"
    ],
    "degraus": [
-    "dados estruturados (19 eventos)",
-    "texto de 11 página(s)"
+    "dados estruturados (20 eventos)",
+    "texto de 12 página(s)"
    ],
-   "caracteres": 37790,
+   "caracteres": 40549,
    "url_final": "https://teatrodasartes.com.br",
    "paginas": [
     "https://teatrodasartes.com.br",
@@ -1612,6 +1617,7 @@
     "https://teatrodasartes.com.br/programacao/",
     "https://teatrodasartes.com.br/eventos-passados/",
     "https://teatrodasartes.com.br/eventos/universo-infantil/",
+    "https://teatrodasartes.com.br/eventos/os-tres-porquinhos-outubro-2026/",
     "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
     "https://teatrodasartes.com.br/eventos/maldito-coracao-novembro-2026/",
     "https://teatrodasartes.com.br/eventos/chiquititas-novembro-2026/",
@@ -1619,7 +1625,7 @@
     "https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/",
     "https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/"
    ],
-   "mencoes_de_data": 38,
+   "mencoes_de_data": 43,
    "situacao": "coletada",
    "arquivo": "F116.txt"
   },
@@ -1850,11 +1856,12 @@
    "degraus": [
     "texto de 11 página(s)"
    ],
-   "caracteres": 80391,
+   "caracteres": 81249,
    "url_final": "https://qualistage.com.br",
    "paginas": [
     "https://qualistage.com.br",
     "https://qualistage.com.br/eventos",
+    "https://qualistage.com.br/evento/436/sandro-luiz",
     "https://qualistage.com.br/evento/400/seal",
     "https://qualistage.com.br/evento/438/jorge-vercillo",
     "https://qualistage.com.br/evento/431/gipsy-kings-part-sidney-magal",
@@ -1862,10 +1869,9 @@
     "https://qualistage.com.br/evento/441/ferrugem",
     "https://qualistage.com.br/evento/423/mauricio-manieri",
     "https://qualistage.com.br/evento/443/di-ferrero-e-thiago-castanho-e-marcao-britto-charlie-brown-jr",
-    "https://qualistage.com.br/evento/424/rodrigo-teaser-data-extra-2",
-    "https://qualistage.com.br/evento/426/jack-johnson"
+    "https://qualistage.com.br/evento/424/rodrigo-teaser-data-extra-2"
    ],
-   "mencoes_de_data": 25,
+   "mencoes_de_data": 32,
    "situacao": "coletada",
    "arquivo": "F137.txt"
   },
@@ -1881,7 +1887,7 @@
    "degraus": [
     "texto de 10 página(s)"
    ],
-   "caracteres": 14683,
+   "caracteres": 14745,
    "url_final": "https://teatromultiplan.com.br",
    "paginas": [
     "https://teatromultiplan.com.br",
@@ -1895,7 +1901,7 @@
     "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
     "https://teatromultiplan.com.br/eventos/almost-elton-john-2027/"
    ],
-   "mencoes_de_data": 33,
+   "mencoes_de_data": 34,
    "situacao": "coletada",
    "arquivo": "F138.txt"
   },
@@ -2040,7 +2046,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63254,
+   "caracteres": 63325,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2058,7 +2064,7 @@
     "https://www.travessa.com.br/dvds/filmes",
     "https://www.travessa.com.br/dvds/show"
    ],
-   "mencoes_de_data": 61,
+   "mencoes_de_data": 62,
    "situacao": "coletada",
    "arquivo": "F189.txt"
   },
@@ -2094,7 +2100,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
