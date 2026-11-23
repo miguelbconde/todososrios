@@ -2,7 +2,7 @@ name: Ronda diária das fontes
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 7 * * *"   # todo dia, 4h17 no horário de Brasília
+    - cron: "7 5 * * *"   # todo dia, 2h07 no horário de Brasília (o GitHub costuma atrasar até 1h30; assim a ronda termina antes da tarefa do Claude, às 6h47)
   push:
     paths:
       - "ferramentas/coleta/coletar.py"
@@ -40,13 +40,13 @@ jobs:
           cat > LEIA-ME.md <<'FIM'
           # Texto bruto da ronda das fontes (temporário)
 
-          Cópia de trabalho do que o LargoBot leu em sites públicos de espaços culturais do Rio.
-          Serve só para a redação e a conferência das fichas do Largo e é substituída a cada ronda.
+          Cópia de trabalho do que o robô do Todos os Rios (TodosOsRiosBot) leu em sites públicos de espaços culturais do Rio.
+          Serve só para a redação e a conferência das fichas do Todos os Rios e é substituída a cada ronda.
           Os textos pertencem aos respectivos sites e NÃO estão sob as licenças abertas do projeto.
           FIM
           git init -q -b coleta-bruta
-          git config user.name "largo-coleta"
-          git config user.email "largo-coleta@users.noreply.github.com"
+          git config user.name "todososrios-robo"
+          git config user.email "todososrios-robo@users.noreply.github.com"
           git add -A
           git commit -qm "Texto bruto da ronda (temporário; substituído a cada ronda)"
           git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" coleta-bruta

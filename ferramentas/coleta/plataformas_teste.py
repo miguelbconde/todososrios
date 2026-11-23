@@ -11,7 +11,7 @@ sem login, sem romper barreiras técnicas, sem sobrecarga.
 """
 import json, os, re, ssl, time, urllib.request, urllib.error
 
-AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do Rio; +https://github.com/miguelbconde/todososrios)"
+AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.3; agenda cultural aberta do Rio de Janeiro; +https://todososrios.com.br/; abreterio@gmail.com)"
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 

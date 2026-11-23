@@ -17,7 +17,7 @@ Uso: python3 plataformas.py <pasta de saída>
 import datetime as dt, json, os, re, ssl, sys, time, urllib.request, urllib.error
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.1; agenda cultural aberta do Rio; +https://github.com/miguelbconde/todososrios)"
+AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.3; agenda cultural aberta do Rio de Janeiro; +https://todososrios.com.br/; abreterio@gmail.com)"
 PAUSA = 2
 
 # Todos os cinemas da cidade na Ingresso.com entram (decisão editorial de 19/11/2026: cinema de shopping

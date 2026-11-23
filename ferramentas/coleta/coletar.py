@@ -39,8 +39,8 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 from urllib.parse import urljoin, urlparse
 
-AGENTE = "TodosOsRiosBot/0.2 (agenda cultural aberta do Rio de Janeiro; +https://github.com/miguelbconde/todososrios)"
-REPO_BRUTO = "https://raw.githubusercontent.com/miguelbconde/largo/main/"
+AGENTE = "TodosOsRiosBot/0.3 (agenda cultural aberta do Rio de Janeiro; +https://todososrios.com.br/; abreterio@gmail.com)"
+REPO_BRUTO = "https://raw.githubusercontent.com/miguelbconde/todososrios/main/"
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(os.path.dirname(AQUI))
 NO_REPOSITORIO = os.path.exists(os.path.join(RAIZ, "dados", "fontes.csv"))

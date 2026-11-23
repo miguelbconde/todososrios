@@ -5,10 +5,14 @@
 # Uso: bash ferramentas/publicar.sh "<mensagem>" [plataformas.json]
 set -u
 msg="$1"; plat="${2:-}"
-git config user.name "largo-coleta"
-git config user.email "largo-coleta@users.noreply.github.com"
+git config user.name "todososrios-robo"
+git config user.email "todososrios-robo@users.noreply.github.com"
 guarda=$(mktemp -d)
-cp dados/coleta/resumo.json dados/coleta/resumo.md dados/coleta/plataformas.md "$guarda"/ 2>/dev/null || true
+# Só a ronda (que passa o arquivo das plataformas) traz resumo novo para preservar. A publicação de fichas
+# parte de um retrato antigo do repositório e não pode sobrescrever o resumo da ronda que veio depois.
+if [ -n "$plat" ]; then
+  cp dados/coleta/resumo.json dados/coleta/resumo.md dados/coleta/plataformas.md "$guarda"/ 2>/dev/null || true
+fi
 for tentativa in 1 2 3; do
   git fetch -q origin main && git reset -q --hard origin/main
   cp "$guarda"/* dados/coleta/ 2>/dev/null || true
