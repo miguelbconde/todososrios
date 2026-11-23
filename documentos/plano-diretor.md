@@ -300,5 +300,5 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 - **"A boa do mês" com 3 ou 4 escolhas**, privilegiando grandes nomes e eventos disputados, que pedem compra antecipada.
 
 **Pendente:**
-- todososrios.rio: a INWX ainda não concluiu o registro (faltava o CPF, informado em 19/11). Quando sair: cadastrar o DNS na INWX, pôr o arquivo CNAME em `docs/`, trocar a constante `SITE` de `ferramentas/gerar.py` e apontar o encaminhamento do .com.br para o .rio.
+- todososrios.rio: o pedido de 19/11 travou na INWX por falta do CPF no próprio pedido ("BR-CPF"); o pagamento de € 33,60 está reservado e o painel mostra "REG DELAYED", sem pedido pendente para corrigir. Em 23/11/2026 a coordenação editorial escreveu ao suporte da INWX pedindo que incluam o CPF e concluam o registro. Quando sair: cadastrar o DNS na INWX, pôr o arquivo CNAME em `docs/`, trocar a constante `SITE` de `ferramentas/gerar.py` e apontar o encaminhamento do .com.br para o .rio.
 - todososrios.com.br: Pages ligado em 19/11 (repositório `todososrios-com-br`); a zona DNS no Registro.br, que tinha ficado vazia, foi preenchida em 23/11/2026 (modo avançado: quatro entradas A para o GitHub Pages e www apontando para miguelbconde.github.io). Falta marcar "Enforce HTTPS" no repositório `todososrios-com-br` quando ficar disponível.
