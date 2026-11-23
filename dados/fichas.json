@@ -6119,6 +6119,72 @@
    "entrou_em": "2026-11-22"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Dilma Oliveira canta Alcione",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Brigitte Blair",
+   "endereco": "Rua Miguel Lemos, 51",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "A cantora Dilma Oliveira interpreta o repertório de Alcione no Teatro Brigitte Blair, em Copacabana.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126367",
+   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Dilma Oliveira canta Alcione | Teatro Brigitte Blair, R. Miguel Lemos, 51 - h  | organizador: FATIMA PEREIRA DIVERSOES / TEATRO BRIGITE BLAIR | https://bileto.sympla.com.br/event/126367",
+   "id": "f-0cde2fd78b",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.",
+   "aviso": "",
+   "titulo": "Dança à Deriva: Obra Mala (CO), Breve (RJ) e Colombia Profunda (CO)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cacilda Becker",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite da edição carioca do Dança à Deriva no Teatro Cacilda Becker, com Obra Mala e Colombia Profunda, da Colômbia, e Breve, do Rio.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/28-11-obra-mala-co-breve-rj-colombia-profunda-co-danca-a-deriva-edicao-rj/3651194",
+   "trecho_fonte": "2026-11-28 18:00 até 2026-11-28 21:00 | 28/11 | Obra Mala (CO) // Breve (RJ) // Colombia Profunda (CO)| Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS | https://www.sympla.com.br/evento/28-11-obra-mala-co-breve-rj-colombia-profunda-co-danca-a-deriva-edicao-rj/3651194",
+   "id": "f-0d906fc7e8",
+   "entrou_em": "2026-11-23"
+  },
+  {
    "cartaz": {
     "inicio": "2026-11-14",
     "fim": "2027-01-16",
@@ -6494,6 +6560,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o período (18 a 26/11); dias presumidos de quinta a domingo, o que deixa só o último dia. Hora da página do evento (a da listagem vem com fuso errado). Preço e classificação não informados.",
+   "aviso": "dias",
+   "titulo": "Maldito Coração",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Comédia dramática: uma palestrante tem lapsos de memória no meio de uma apresentação sobre o amor e acaba revelando os bastidores de uma paixão. Temporada até 26 de novembro.",
+   "fonte": "Teatro das Artes",
+   "link": "https://teatrodasartes.com.br/eventos/maldito-coracao-novembro-2026/",
+   "trecho_fonte": "- Maldito Coração | início 2026-11-18T17:00:00-03:00 | fim 2026-11-26T17:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/maldito-coracao-novembro-2026/ | ingressos.divertix Sinopse MALDITO CORAÇÃO (me alegra que tu sofras)O que acontece no nosso cérebro quando nos apaixonamos?Até onde a ciência consegue explicar o amor?Nesta comédia dramática, uma palestrante sofre lapsos de memória durante uma apresentação e acaba revelando os bastidores de u || [página do evento] Horário || 20h",
+   "id": "f-2239414732",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-04",
      "hora": "20:00"
     },
@@ -6580,6 +6679,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.",
+   "aviso": "",
+   "titulo": "Dança à Deriva: Translúcidxs (CH) e La Política del Malestar (CH/AR)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cacilda Becker",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite da edição carioca do Dança à Deriva no Teatro Cacilda Becker, com Translúcidxs, da Suíça, e La Política del Malestar, de Suíça e Argentina.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/26-11-translucidxs-ch-la-politica-del-malestar-ch-ar-danca-a-deriva-edicao-rj/3651168",
+   "trecho_fonte": "2026-11-26 18:00 até 2026-11-26 20:00 | 26/11 | Translúcidxs (CH) // La Política del Malestar (CH/AR) | Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS | https://www.sympla.com.br/evento/26-11-translucidxs-ch-la-politica-del-malestar-ch-ar-danca-a-deriva-edicao-rj/3651168",
+   "id": "f-28cdf2b946",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-05",
      "hora": "20:00"
     }
@@ -6642,6 +6774,39 @@
    "id": "f-2985740e6d",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Peças da noite não informadas. Endereço completo presumido (Shopping da Gávea), a fonte dá só a rua.",
+   "aviso": "",
+   "titulo": "Festival Os Monólogos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Estação Claro Gávea",
+   "endereco": "Rua Marquês de São Vicente, 52",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite do Festival Os Monólogos, com espetáculos solo, na Estação Claro Gávea.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/festival-os-monologos/3643309",
+   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 22:30 | Festival Os Monólogos | Estação Claro Gávea, Rua Marquês de São Vicente  | organizador: Festival Os Monólogos | https://www.sympla.com.br/evento/festival-os-monologos/3643309",
+   "id": "f-2b0962bcdd",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8011,6 +8176,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Intérpretes não informados na listagem.",
+   "aviso": "",
+   "titulo": "Pra Gira Girar: celebração a Os Tincoãs",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Manouche",
+   "endereco": "Rua Jardim Botânico, 983",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de lançamento da turnê \"Pra Gira Girar\", em celebração a Os Tincoãs.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128392",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Pra Gira Girar: Uma Celebração a Os Tincoãs  Turnê de Lançamento | Manouche, R. Jardim Botânico,983  | organizador: MIRANDA RESTAURANTE E EVENTOS | https://bileto.sympla.com.br/event/128392",
+   "id": "f-6f1c52fbee",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-03",
      "hora": "20:30"
     }
@@ -8071,6 +8269,51 @@
    "trecho_fonte": "2026-11-22 16:00 até 2026-11-23 02:00 | Roda de Samba do Vinny Santa Fé (22/11) - Essência do Samba | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/roda-de-samba-do-vinny-santa-fe-22-11-essencia-do-samba/3645389",
    "id": "f-71017228ea",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o período (7 a 29/11); dias presumidos de quinta a domingo. A página informa \"21h e 19h\" sem dizer em que dias: usamos 21h (o horário da listagem vem com fuso errado, 3 horas adiantado). Preço e classificação não informados.",
+   "aviso": "dias",
+   "titulo": "Hétero Sigilo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Solo de Bernardo Dugin que mistura humor e confissão para falar dos pactos silenciosos feitos para caber na norma heterossexual. Em temporada até 29 de novembro.",
+   "fonte": "Teatro das Artes",
+   "link": "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
+   "trecho_fonte": "- Hétero Sigilo | início 2026-11-07T18:00:00-03:00 | fim 2026-11-29T18:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/ | ingressos.divertix Sinopse Solo que mistura humor e confissão para expor os pactos silenciosos que fazemos para caber na norma. Entre memórias, afetos e contradições, o espetáculo revela como a heteronormatividade atravessa corpos e subjetividades e convida o público a rir, se reconhecer e questionar o papel que interpreta na própria vida. Ficha Técnica Dramaturgia e Performance: Bernardo DuginDir [… cortado] || [página do evento] Horário || 21h e 19h",
+   "id": "f-740a844e42",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8265,6 +8508,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-30",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Tiago Nacarato: Segredo dos Deuses",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Tiago Nacarato apresenta o show \"Segredo dos Deuses\" no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128464",
+   "trecho_fonte": "2026-11-30 19:30 até 2026-11-30 19:30 | TIAGO NACARATO EM “SEGREDO DOS DEUSES” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128464",
+   "id": "f-817525d981",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-24",
      "hora": "18:30"
     }
@@ -8325,6 +8601,72 @@
    "trecho_fonte": "2026-11-28 22:00 até 2026-11-28 22:00 | Palco Leopoldina apresenta: Antes de Mim - Projeto Na Ponta dos Pés | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/129077",
    "id": "f-87c5ee44d2",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.",
+   "aviso": "",
+   "titulo": "Dança à Deriva: A(s) – isso não é um solo (RJ) e Humana (AR)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cacilda Becker",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite da edição carioca do Dança à Deriva no Teatro Cacilda Becker, com A(s) – isso não é um solo, do Rio, e Humana, da Argentina.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/27-11-a-s-isso-nao-e-um-solo-rj-humana-ar-danca-a-deriva-edicao-rj/3651188",
+   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 21:00 | 27/11 | A(s) - isso não é um solo (RJ) // Humana (AR) | Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS | https://www.sympla.com.br/evento/27-11-a-s-isso-nao-e-um-solo-rj-humana-ar-danca-a-deriva-edicao-rj/3651188",
+   "id": "f-881ae763c1",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Jaloo: Crua (acústico)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Jaloo apresenta \"Crua\", show em formato acústico, no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126404",
+   "trecho_fonte": "2026-11-28 19:30 até 2026-11-28 19:30 | “CRUA: JALOO ACÚSTICA” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126404",
+   "id": "f-8831f8dae4",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8724,6 +9066,39 @@
    "trecho_fonte": "2026-12-08 19:00 até 2026-12-08 19:00 | Orquestra Furiosa Portátil - Homenagem aos 80 anos de Cristóvão Bastos | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/128474",
    "id": "f-97527d1876",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ.",
+   "aviso": "",
+   "titulo": "Marcos Sacramento e Moacyr Luz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Encontro de Marcos Sacramento e Moacyr Luz no palco do Teatro Firjan SESI Centro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129607",
+   "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 19:00 | MARCOS SACRAMENTO E MOACYR LUZ – Teatro Firjan SESI Centro | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/129607",
+   "id": "f-97ac09c02d",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -9196,6 +9571,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (comédia) dado pelo nome da série.",
+   "aviso": "",
+   "titulo": "Viny Arêas em De Risco",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Viny Arêas apresenta \"De Risco\" na Semana da Comédia do Festival Queer Comedy, no Teatro Municipal Ziembinski.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128328",
+   "trecho_fonte": "2026-11-29 19:00 até 2026-11-29 19:00 | Semana da Comédia: Festival Queer Comedy – Viny Arêas de Risco | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128328",
+   "id": "f-a80078b053",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "20:00"
     },
@@ -9272,6 +9680,43 @@
    "trecho_fonte": "2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323",
    "id": "f-a8b365287d",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Instituto Futuros. A fonte dá de 28/11, 19h, a 29/11, 22h; horário do segundo dia presumido igual ao do primeiro. Atrações não informadas.",
+   "aviso": "",
+   "titulo": "Festival Brasilidades & Futuros Música",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Petrobras Futuros – Arte e Tecnologia",
+   "endereco": "Rua Dois de Dezembro, 63",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Festival Brasilidades, de música, em duas noites no Futuros – Arte e Tecnologia, no Flamengo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/festival-brasilidades-futuros-musica/3639013",
+   "trecho_fonte": "2026-11-28 19:00 até 2026-11-29 22:00 | Festival Brasilidades & Futuros Música | Petrobras Futuros - Arte e Tecnologia, Rua Dois de Dezembro Flamengo | organizador: Instituto Futuros | https://www.sympla.com.br/evento/festival-brasilidades-futuros-musica/3639013",
+   "id": "f-a8c723ed4d",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -9714,6 +10159,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Sarau de Danças: Roda de Movimentos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Carlos Zéfiro",
+   "endereco": "Estrada Marechal Alencastro, s/nº",
+   "bairro": "Anchieta",
+   "regiao": "Zona Norte",
+   "sinopse": "Sarau de dança em roda na Areninha Cultural Carlos Zéfiro, em Anchieta.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129016",
+   "trecho_fonte": "2026-11-29 16:00 até 2026-11-29 16:00 | Sarau de Danças: Roda de movimentos | Areninha Cultural Municipal Carlos Zéfiro, Estrada Marechal Alencastro s/nº  | organizador: MUNICIPIO DO RIO DE JANEIRO - Areninha Cultural Carlos Zéfiro | https://bileto.sympla.com.br/event/129016",
+   "id": "f-b927b6de50",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-11",
      "hora": "20:00"
     },
@@ -10038,6 +10516,39 @@
    "id": "f-c41d054710",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; natureza do encontro presumida por ele.",
+   "aviso": "",
+   "titulo": "Ilha do Anime",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Renato Russo",
+   "endereco": "Parque Poeta Manuel Bandeira, s/nº",
+   "bairro": "Cocotá (Ilha do Governador)",
+   "regiao": "Zona Norte",
+   "sinopse": "Encontro dedicado aos animes na Areninha Cultural Renato Russo, na Ilha do Governador.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129219",
+   "trecho_fonte": "2026-11-29 12:00 até 2026-11-29 12:00 | Ilha do Anime | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0  | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/129219",
+   "id": "f-c4d8d90c91",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": {
@@ -10438,6 +10949,47 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-08",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Três datas, cada uma com página própria; link da primeira.",
+   "aviso": "",
+   "titulo": "Velha Guarda Musical da Mangueira: 70 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Circo Crescer e Viver",
+   "endereco": "Rua Carmo Neto, 143",
+   "bairro": "Cidade Nova",
+   "regiao": "Centro",
+   "sinopse": "A Velha Guarda Musical da Mangueira comemora 70 anos em três noites no Circo Crescer e Viver, na Cidade Nova.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643739",
+   "trecho_fonte": "2026-11-27 18:00 até 2026-11-27 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643739 || 2026-12-11 18:00 até 2026-12-11 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643744 || 2027-01-08 18:00 até 2027-01-08 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643748",
+   "id": "f-cc466cac8b",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-30",
      "hora": "19:00"
     }
@@ -10750,6 +11302,39 @@
    "trecho_fonte": "2026-11-25 17:00 | Oficina de Carimbó – Cultura e Ancestralidade Amazônida | Sesc Tijuca (Tijuca, Zona Norte) | grátis | MÚSICA, LIVRE, GRÁTIS || Oficina de Crimbó com as Suraras do Tapajós, primeiro grupo de carimbó formado por mulheres indígenas no Brasil",
    "id": "f-d4e1011868",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.",
+   "aviso": "",
+   "titulo": "Dança à Deriva: ¿Quién habla por los espíritus? (BO/AR) e La Caballota (MX)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cacilda Becker",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite da edição carioca do Dança à Deriva no Teatro Cacilda Becker, com ¿Quién habla por los espíritus?, de Bolívia e Argentina, e La Caballota, do México.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/29-11-quien-habla-por-los-espiritus-bo-ar-la-caballota-mx-danca-a-deriva-edicao-rj/3651229",
+   "trecho_fonte": "2026-11-29 18:00 até 2026-11-29 21:30 | 29/11 | ¿Quién habla por los espíritus? (BO/AR) // La Caballota (MX) | Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS | https://www.sympla.com.br/evento/29-11-quien-habla-por-los-espiritus-bo-ar-la-caballota-mx-danca-a-deriva-edicao-rj/3651229",
+   "id": "f-d78c0013ec",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -11216,6 +11801,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Bonfim Comedy Show",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite de comédia do Bonfim Comedy Show na Semana da Comédia do Festival Queer Comedy, no Teatro Municipal Ziembinski.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128301",
+   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | Semana da Comédia: Festival Queer Comedy – Bonfim Comedy Show | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128301",
+   "id": "f-e76af35dff",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "20:00"
     },
@@ -11555,6 +12173,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "12:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": true,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Corporate Events Brasil. A fonte dá de 28/11, 12h, a 29/11, 22h; início do segundo dia presumido igual ao do primeiro. Atrações e preço não informados.",
+   "aviso": "",
+   "titulo": "Rio Blues Festival",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Aterro do Flamengo (Posto 3)",
+   "endereco": "Praia do Flamengo, altura do Posto 3",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Festival de blues ao ar livre no Aterro do Flamengo, em dois dias.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/rio-blues-festival-aterro-do-flamengo-28-e-29-novembro/3647984",
+   "trecho_fonte": "2026-11-28 12:00 até 2026-11-29 22:00 | RIO BLUES FESTIVAL Aterro do Flamengo - 28 e 29 novembro | Posto 3 - Praia do Flamengo, Praia do Flamengo Flamengo | organizador: Corporate Events Brasil | https://www.sympla.com.br/evento/rio-blues-festival-aterro-do-flamengo-28-e-29-novembro/3647984",
+   "id": "f-f49e042115",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "17:00"
     }
@@ -11755,6 +12410,44 @@
    "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 22:00 | Marcos Ariel Quarteto | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar",
    "id": "f-fb442c15f2",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Período de 28 a 29/11; uma sessão por dia, às 16h, conforme a página do evento (a hora da listagem vem com fuso errado). Preço e classificação não informados.",
+   "aviso": "",
+   "titulo": "Chiquititas",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "No orfanato Raio de Luz, um grupo de meninas descobre que a amizade e a união ajudam a enfrentar os desafios. Espetáculo para crianças.",
+   "fonte": "Teatro das Artes",
+   "link": "https://teatrodasartes.com.br/eventos/chiquititas-novembro-2026/",
+   "trecho_fonte": "- Chiquititas | início 2026-11-28T13:00:00-03:00 | fim 2026-11-29T13:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/chiquititas-novembro-2026/ | ingressos.divertix Sinopse No orfanato Raio de Luz, um grupo de meninas aprende que, mesmo diante das dificuldades, a amizade, a união e o amor podem transformar qualquer realidade. Quando novas crianças chegam ao orfanato, elas descobrem que juntas são capazes de enfrentar desafi || [página do evento] Horário || 16h",
+   "id": "f-fcd6d59230",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
