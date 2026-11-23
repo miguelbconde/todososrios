@@ -1,6 +1,6 @@
 # Relatório da edição — Programação de hoje até 22 de janeiro de 2027
 
-- Eventos e exposições: **698** (656 eventos com 5799 sessões; 42 em cartaz)
+- Eventos e exposições: **698** (656 eventos com 5763 sessões; 42 em cartaz)
 - Grátis: **38** · preço popular (até R$ 40): **116**
 - Conferidos sem ressalva: **689** · a confirmar: **9**
 

@@ -1,12 +1,12 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-23 18:14 UTC, em 288 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-23 18:48 UTC, em 236 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **52**
-- não respondeu: **20**
+- coletada: **50**
+- não respondeu: **22**
 - coletada, mas sem datas à vista: **14**
 - recusou a visita: **3**
 
@@ -14,7 +14,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 
 | Fonte | Situação | O que veio |
 |---|---|---|
-| A Gentil Carioca | coletada | texto de 13 página(s) |
 | Academia Brasileira de Letras (ABL) | coletada | texto de 12 página(s) |
 | Anita Schwartz Galeria de Arte | coletada | feed (1 itens), texto de 12 página(s) |
 | ArtRio | coletada | texto de 12 página(s) |
@@ -37,7 +36,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Fundição Progresso | coletada | texto de 13 página(s) |
 | Futuros – Arte e Tecnologia (Oi Futuro) | coletada | texto de 12 página(s) |
 | Fórum de Ciência e Cultura da UFRJ | coletada | feed (2 itens), texto de 12 página(s) |
-| Galeria Athena | coletada | texto de 3 página(s) |
 | Grupo Estação (Botafogo, Gávea, Rio) | coletada | feed (7 itens), texto de 14 página(s) |
 | IMS Rio (Instituto Moreira Salles) | coletada | feed (5 itens), calendário WordPress (33 eventos), texto de 14 página(s) |
 | LIESA / Rio Carnaval | coletada | feed (20 itens), texto de 2 página(s) |
@@ -50,9 +48,9 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Museu da República (Palácio do Catete) | coletada | feed (2 itens), texto de 9 página(s) |
 | Museu do Pontal | coletada | feed (10 itens), texto de 13 página(s) |
 | Orquestra Sinfônica Brasileira (OSB) | coletada | texto de 8 página(s) |
-| Pinakotheke Cultural | coletada | texto de 14 página(s) |
 | Portas Vilaseca Galeria | coletada | texto de 6 página(s) |
 | Qualistage | coletada | texto de 11 página(s) |
+| Real Gabinete Português de Leitura | coletada | texto de 12 página(s) |
 | Rio Scenarium | coletada | texto de 2 página(s) |
 | Sala Cecília Meireles | coletada | texto de 12 página(s) |
 | Teatro Bangu Shopping | coletada | texto de 13 página(s) |
@@ -60,7 +58,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro Multiplan | coletada | texto de 10 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
-| Teatro Rival Petrobras | coletada | texto de 6 página(s) |
+| Teatro Rival Petrobras | coletada | texto de 2 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
 | Teatro das Artes | coletada | dados estruturados (21 eventos), texto de 13 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
@@ -87,19 +85,21 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro dos Quatro | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Trapiche Gamboa | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Z42 Arte | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
+| Galeria Nara Roesler | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
+| Museus Castro Maya (Chácara do Céu / Açude) | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
 | Arquivo Nacional | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Fundação Casa de Rui Barbosa | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Jardim Botânico do Rio de Janeiro | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Lapa 40 Graus | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lapa40graus. |  |
 | Livraria Argumento | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.livrariaargu |  |
-| Galeria Nara Roesler | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)> |  |
 | Superliga Carnavalesca do Brasil | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)> |  |
 | Casa do Choro | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
-| Museus Castro Maya (Chácara do Céu / Açude) | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | É Tudo Verdade | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
+| A Gentil Carioca | não respondeu: URLError: <urlopen error timed out> |  |
 | Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
-| Real Gabinete Português de Leitura | não respondeu: URLError: <urlopen error timed out> |  |
+| Galeria Athena | não respondeu: URLError: <urlopen error timed out> |  |
+| Pinakotheke Cultural | não respondeu: URLError: <urlopen error timed out> |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
-| Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |
+| Solar de Botafogo | recusou a visita (código 522) |  |

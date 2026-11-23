@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-23 18:14 UTC",
- "segundos": 288,
+ "feito_em": "2026-11-23 18:48 UTC",
+ "segundos": 236,
  "fontes": [
   {
    "ids": [
@@ -12,29 +12,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 13 página(s)"
-   ],
-   "caracteres": 64794,
-   "url_final": "https://www.agentilcarioca.com.br/",
-   "paginas": [
-    "https://www.agentilcarioca.com.br/",
-    "https://www.agentilcarioca.com.br/contact/",
-    "https://www.agentilcarioca.com.br/exhibitions/",
-    "https://www.agentilcarioca.com.br/en/contact/",
-    "https://www.agentilcarioca.com.br/contact/equipe/",
-    "https://www.agentilcarioca.com.br/en/exhibitions/",
-    "https://www.agentilcarioca.com.br/exhibitions/location/1/",
-    "https://www.agentilcarioca.com.br/exhibitions/location/2/",
-    "https://www.agentilcarioca.com.br/exhibitions/150-vivian-caccuri-anatomy-of-presence-schauwerk-sindelfingen-sindelfingen-alemanha/",
-    "https://www.agentilcarioca.com.br/exhibitions/138-opavivara-imaginalivre-parque-cultural-casa-do-governador-vila-velha/",
-    "https://www.agentilcarioca.com.br/exhibitions/152-diego-kohli-danca-para-montanhas/",
-    "https://www.agentilcarioca.com.br/exhibitions/153-romain-dumesnil-exorama/",
-    "https://www.agentilcarioca.com.br/exhibitions/154-amigo-oculto/"
-   ],
-   "mencoes_de_data": 89,
-   "situacao": "coletada",
-   "arquivo": "F001.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -48,7 +28,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34668,
+   "caracteres": 34614,
    "url_final": "https://academia.org.br/eventos",
    "paginas": [
     "https://academia.org.br/eventos",
@@ -111,7 +91,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40941,
+   "caracteres": 40949,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -195,7 +175,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37104,
+   "caracteres": 37068,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +191,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 299,
+   "mencoes_de_data": 302,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -541,9 +521,28 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 31454,
+   "url_final": "https://www.realgabinete.com.br",
+   "paginas": [
+    "https://www.realgabinete.com.br",
+    "https://www.realgabinete.com.br/Agenda",
+    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
+    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
+   ],
+   "mencoes_de_data": 4,
+   "situacao": "coletada",
+   "arquivo": "F049.txt"
   },
   {
    "ids": [
@@ -653,19 +652,15 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 6 página(s)"
+    "texto de 2 página(s)"
    ],
-   "caracteres": 8238,
+   "caracteres": 3143,
    "url_final": "https://teatrorivalrefit.com.br",
    "paginas": [
     "https://teatrorivalrefit.com.br",
-    "https://teatrorivalrefit.com.br/eventos/",
-    "https://teatrorivalrefit.com.br/",
-    "https://teatrorivalrefit.com.br/page/2/",
-    "https://teatrorivalrefit.com.br/page/3/",
-    "https://teatrorivalrefit.com.br/page/60/"
+    "https://teatrorivalrefit.com.br/eventos/"
    ],
-   "mencoes_de_data": 43,
+   "mencoes_de_data": 10,
    "situacao": "coletada",
    "arquivo": "F062.txt"
   },
@@ -785,7 +780,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6819,
+   "caracteres": 6837,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1120,19 +1115,9 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [
-    "texto de 3 página(s)"
-   ],
-   "caracteres": 11974,
-   "url_final": "https://galeriaathena.com",
-   "paginas": [
-    "https://galeriaathena.com",
-    "https://galeriaathena.com/exhibitions/past/2026/",
-    "https://galeriaathena.com/en/exhibitions/past/2026/"
-   ],
-   "mencoes_de_data": 4,
-   "situacao": "coletada",
-   "arquivo": "F089.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -1145,7 +1130,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
@@ -1256,7 +1241,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 8771,
+   "caracteres": 9010,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1461,30 +1446,9 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [
-    "texto de 14 página(s)"
-   ],
-   "caracteres": 43612,
-   "url_final": "https://pinakotheke.com.br",
-   "paginas": [
-    "https://pinakotheke.com.br",
-    "https://pinakotheke.com.br/exhibitions/",
-    "https://pinakotheke.com.br/exhibitions/35/overview/",
-    "https://pinakotheke.com.br/news/25-revolta-em-preto-e-branco-exposicao-e-destaque-no-segundo-caderno-do-o/",
-    "https://pinakotheke.com.br/en/exhibitions/",
-    "https://pinakotheke.com.br/exhibitions/36-revolta-em-preto-e-branco-pinakotheke-rio-de-janeiro/overview/",
-    "https://pinakotheke.com.br/exhibitions/37-xxxv-silviano-santiago-por-helio-oiticica-pinakotheke-rio-de-janeiro/overview/",
-    "https://pinakotheke.com.br/exhibitions/35-entre-espacos-raul-mourao-e-marcius-galan-pinakotheke-fortaleza/overview/",
-    "https://pinakotheke.com.br/exhibitions/34-surrealismos-arte-para-alem-da-razao-pinakotheke-sao-paulo/overview/",
-    "https://pinakotheke.com.br/exhibitions/32-frederico-morais-arte-e-critica-pinakotheke-cultural/overview/",
-    "https://pinakotheke.com.br/exhibitions/33-o-inicio-do-mundo-pinakotheke-cultural/overview/",
-    "https://pinakotheke.com.br/exhibitions/31-anima-christian-cravo-multiarte/overview/",
-    "https://pinakotheke.com.br/exhibitions/23-djanira-110-anos-pinakotheke-cultural/overview/",
-    "https://pinakotheke.com.br/exhibitions/24-luz-de-abril-portugal-1974-alecio-de-pinakotheke-cultural/overview/"
-   ],
-   "mencoes_de_data": 37,
-   "situacao": "coletada",
-   "arquivo": "F105.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -1524,7 +1488,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1675,
+   "caracteres": 1751,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1547,7 +1511,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "recusou a visita (código 403)"
+   "situacao": "recusou a visita (código 522)"
   },
   {
    "ids": [
@@ -1683,7 +1647,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34087,
+   "caracteres": 34081,
    "url_final": "https://vivorio.com.br",
    "paginas": [
     "https://vivorio.com.br",
@@ -1778,7 +1742,7 @@
     "dados estruturados (1 eventos)",
     "texto de 6 página(s)"
    ],
-   "caracteres": 15756,
+   "caracteres": 15457,
    "url_final": "https://museubispodorosario.com",
    "paginas": [
     "https://museubispodorosario.com",
@@ -2028,7 +1992,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63280,
+   "caracteres": 63264,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2082,7 +2046,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
