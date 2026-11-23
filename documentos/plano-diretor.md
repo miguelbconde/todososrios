@@ -301,4 +301,4 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 
 **Pendente:**
 - todososrios.rio: a INWX ainda não concluiu o registro (faltava o CPF, informado em 19/11). Quando sair: cadastrar o DNS na INWX, pôr o arquivo CNAME em `docs/`, trocar a constante `SITE` de `ferramentas/gerar.py` e apontar o encaminhamento do .com.br para o .rio.
-- todososrios.com.br: DNS cadastrado no Registro.br e Pages ligado em 19/11; falta marcar "Enforce HTTPS" quando ficar disponível.
+- todososrios.com.br: Pages ligado em 19/11 (repositório `todososrios-com-br`); a zona DNS no Registro.br, que tinha ficado vazia, foi preenchida em 23/11/2026 (modo avançado: quatro entradas A para o GitHub Pages e www apontando para miguelbconde.github.io). Falta marcar "Enforce HTTPS" no repositório `todososrios-com-br` quando ficar disponível.
