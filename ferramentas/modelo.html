@@ -213,8 +213,9 @@ header.topo{padding-top:24px}
 .nota-boa{margin:0}
 .extra{font-size:13px;color:var(--tinta2);margin:-4px 0 10px}
 /* Sobre (23/11/2026): link discreto no cabeçalho e seção própria ao pé da página */
-.sub a{color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
-.sub a:hover{color:var(--acento)}
+/* 23/11/2026: "Sobre" sai do subtítulo e vai para o canto direito, discreto, sob as línguas */
+.link-sobre{flex-basis:100%;text-align:right;font:400 12px var(--sans);color:var(--tinta2);text-decoration:none;padding:0 7px;margin-top:-8px}
+.link-sobre:hover{color:var(--acento);text-decoration:underline;text-underline-offset:3px}
 #sobre h3{font:600 18px var(--serif);margin:22px 0 6px}
 #sobre .assina{font-size:14px;color:var(--tinta2)}
 </style>
@@ -229,9 +230,10 @@ header.topo{padding-top:24px}
       <div class="idiomas" role="group" aria-label="Idioma / Language">
         <button data-lang="pt" aria-pressed="true">PT</button><button data-lang="en" aria-pressed="false">EN</button><button data-lang="es" aria-pressed="false">ES</button>
       </div>
+      <a href="#sobre" class="link-sobre" data-t="sobreLink">Sobre</a>
     </div>
   </div>
-  <p class="sub"><span data-t="sub">Agenda cultural do Rio de Janeiro</span> · <a href="#sobre" data-t="sobreLink">Sobre</a></p>
+  <p class="sub" data-t="sub">Agenda cultural do Rio de Janeiro</p>
 </header>
 
 <div class="busca">
