@@ -1,76 +1,12 @@
 {
  "pendentes": [
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Balé sem Rótulos (Novembro)",
-   "data": "2026-11-24",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Caminhos de Esperança",
-   "data": "2026-11-25",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "XIII Mostra CPA de Teatro",
-   "data": "2026-11-24",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "FESTIVAL ARPOARTE 2026",
-   "data": "2026-11-25",
-   "motivo": "página do evento bloqueada; faltam sessões, natureza ou preço"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Balé sem Rótulos (Dezembro)",
-   "data": "2026-12-01",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "UM BRASILEIRO EM ISRAEL - Lançamento de Livro + Bate-papo",
-   "data": "2026-12-01",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Quinta Homenagem - Canários",
-   "data": "2026-12-03",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Encantos da Floresta",
-   "data": "2026-12-04",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "Tributo à Legião Urbana e demais eventos da Sympla de dezembro e janeiro",
-   "data": "2026-12-05",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "FPLAT_fever",
-   "titulo": "Candlelight (Museu do Amanhã, Solar de Botafogo, Teatro dos Quatro) e The Jazz Room (Teatro Rival)",
-   "data": "2026-11-26",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "sites dos espaços (F019, F063, F092, F114, F116 e outros)",
-   "titulo": "linhas novas dos sites de teatros, museus e galerias na ronda de 22/11 (cerca de 500)",
-   "data": "2026-11-23",
-   "motivo": "não deu tempo"
-  },
-  {
-   "fonte": "FPLAT_sympla",
-   "titulo": "grupos 'cultural' e 'a verificar' da Sympla (cerca de 1.200 linhas)",
-   "data": "2026-11-23",
-   "motivo": "não deu tempo"
-  }
+  {"fonte": "FPLAT_fever", "titulo": "Candlelight (Museu do Amanhã, Solar de Botafogo, Teatro dos Quatro), The Jazz Room (Teatro Rival) e outras ofertas da Fever", "data": "2026-11-26", "motivo": "não deu tempo"},
+  {"fonte": "FPLAT_sympla", "titulo": "grupo 'cultural' da Sympla: casas de samba, teatros comerciais (Brigitte Blair, Vanucci, Miguel Falabella, Clara Nunes, Fashion Mall, Cândido Mendes), bares de música, de 26/11 a 22/1 (cerca de 200 linhas ainda não redigidas)", "data": "2026-11-26", "motivo": "não deu tempo"},
+  {"fonte": "FPLAT_sympla", "titulo": "rede municipal na Sympla com natureza incerta: Negro é a Raiz da Liberdade, Sankofar Saberes Ancestrais, Cadência (Bruno Maia), Deixa Falar, Pequenos Exploradores, Tentativa 74, Amor em Tom Maior, A Biblioteca dos Sonhos Esquecidos, Bronson Guarilha", "data": "2026-11-28", "motivo": "a fonte só dá o título; conferir se é apresentação aberta ou de escola"},
+  {"fonte": "FPLAT_sympla", "titulo": "Novos ares: Pontal reinventado (Museu do Pontal) e O que resta (Centro Hélio Oiticica)", "data": "2026-11-23", "motivo": "falta confirmar se são exposições e o horário de visitação"},
+  {"fonte": "F063", "titulo": "Rigoletto (Ópera do Meio-Dia), Theatro Municipal, 25 e 26/11", "data": "2026-11-25", "motivo": "a fonte não dá a hora da apresentação"},
+  {"fonte": "F028", "titulo": "Jango, 50 anos depois (ABI), 7/12", "data": "2026-12-07", "motivo": "a fonte não dá a hora"},
+  {"fonte": "F116", "titulo": "Teatro das Artes: Cá entre nós, A Gongada das Mil Xuxas, Uma Vida de Amizade", "data": "2026-12-08", "motivo": "não deu tempo; a hora da listagem vem com fuso errado, conferir na página do evento"},
+  {"fonte": "FPLAT_sympla", "titulo": "grupo 'a verificar' da Sympla (só títulos)", "data": "2026-11-23", "motivo": "não deu tempo"}
  ]
 }
