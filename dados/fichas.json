@@ -7209,6 +7209,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-26",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Jay Vaquer",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Show de Jay Vaquer no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/125961",
+   "trecho_fonte": "2026-12-26 19:30 até 2026-12-26 19:30 | JAY VAQUER | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/125961",
+   "id": "f-2feb9d5fbf",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "19:30"
     }
@@ -8377,6 +8410,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Matheus Pessanha: Entrelaçando Sambas e Histórias",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Matheus Pessanha apresenta \"Entrelaçando Sambas e Histórias\" no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127660",
+   "trecho_fonte": "2026-12-06 19:00 até 2026-12-06 19:00 | MATHEUS PESSANHA NO RIVAL – ENTRELAÇANDO SAMBAS E HISTÓRIAS | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/127660",
+   "id": "f-5c8d9ab2fe",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-05",
      "hora": "21:00"
     }
@@ -8542,6 +8608,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-08",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Elymar Santos: Estrela Luminosa",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Elymar Santos apresenta o show \"Estrela Luminosa\" no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128635",
+   "trecho_fonte": "2027-01-08 19:30 até 2027-01-08 19:30 | ELYMAR SANTOS NO SHOW 'ESTRELA LUMINOSA' | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128635",
+   "id": "f-619ec2e94c",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-28",
      "hora": "20:00"
     }
@@ -8570,6 +8669,72 @@
    "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | MACUMBEIRO - Yuri Marçal | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127034",
    "id": "f-6576ed5f1c",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "20:15"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
+   "aviso": "",
+   "titulo": "Tem Culpa Eu? – comédia de improviso investigativo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Lona Cultural Elza Osborne (Teatro de Arena)",
+   "endereco": "Estrada Rio do A",
+   "bairro": "Campo Grande",
+   "regiao": "Zona Oeste",
+   "sinopse": "Comédia de improviso investigativo na Lona Cultural de Campo Grande.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/tem-culpa-eu-comedia-de-improviso-investigativo/3620580",
+   "trecho_fonte": "2026-12-10 20:15 até 2026-12-10 21:30 | TEM CULPA EU? - comédia de improviso investigativo | Teatro de Arena Elza Osborne, Estrada Rio do A Campo Grande | organizador: Fábio Nunes | https://www.sympla.com.br/evento/tem-culpa-eu-comedia-de-improviso-investigativo/3620580",
+   "id": "f-6657731272",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Arte & Entretenimento. Humor presumido (Teatro).",
+   "aviso": "",
+   "titulo": "Ranther Melo: Vem Que Tá Maneirinho",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Lona Cultural Elza Osborne (Teatro de Arena)",
+   "endereco": "Estrada Rio do A",
+   "bairro": "Campo Grande",
+   "regiao": "Zona Oeste",
+   "sinopse": "Ranther Melo apresenta \"Vem Que Tá Maneirinho\" na Lona Cultural de Campo Grande.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/ranther-melo-vem-que-ta-maneirinho/3617656",
+   "trecho_fonte": "2026-12-19 20:00 até 2026-12-19 20:00 | RANTHER MELO \"Vem Que Tá Maneirinho\" | Teatro de Arena Elza Osborne - Lona Cultural, Estrada Rio do A  | organizador: Arte & Entretenimento | https://www.sympla.com.br/evento/ranther-melo-vem-que-ta-maneirinho/3617656",
+   "id": "f-666f8d5c79",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8667,6 +8832,39 @@
    "trecho_fonte": "2026-11-22 12:00 até 2026-11-22 22:00 | Samba do Passeio - Todo Domingo Tem! | Passeio Público, Rua do Passeio Lapa | organizador: Samba do Passeio",
    "id": "f-6a919fb0d6",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-21",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Samba in Rio – Sons & Vozes das Damas do Samba",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Encontro de dez damas do samba, entre elas Ana Tozatto, Mariza Sorriso, Selma Rios e Neumara Coelho, no show \"Samba in Rio\", no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127892",
+   "trecho_fonte": "2026-12-21 19:30 até 2026-12-21 19:30 | SAMBA IN RIO – Sons & Vozes das Damas do Samba com Ana Tozatto, Gina Teixeira, Izabel Costa, Lu Costa, Lucia Sons, Mara Soto, Mariza Sorriso, Maurah Ramos, Neumara Coelho E Selma Rios | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/127892",
+   "id": "f-6f0af60fe5",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -8914,6 +9112,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-14",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Tributo a Tim Maia, com André Marçal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "André Marçal e banda em tributo a Tim Maia no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128447",
+   "trecho_fonte": "2027-01-14 19:30 até 2027-01-14 19:30 | TRIBUTO A TIM MAIA COM ANDRÉ MARÇAL E BANDA | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128447",
+   "id": "f-75cdb431e3",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "16:00"
     },
@@ -9057,6 +9288,72 @@
    "trecho_fonte": "2026-11-22 15:00 até 2026-11-22 23:00 | SAMBA DO XOXO NO TERRAÇO DA VILA | R. Barão de São Francisco, 236, Rua Barão de São Francisco Vila Isabel | organizador: Terraço da Vila | https://www.sympla.com.br/evento/samba-do-xoxo-no-terraco-da-vila/3652748",
    "id": "f-7d69feeb3e",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Thalita Pertuzatti em Whitney Forever",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Thalita Pertuzatti apresenta \"Whitney Forever\" no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126962",
+   "trecho_fonte": "2026-12-18 19:30 até 2026-12-18 19:30 | THALITA PERTUZATTI EM “WHITNEY FOREVER” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126962",
+   "id": "f-7d9e2adb78",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Ana Bispo canta Te Amos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Ana Bispo canta \"Te Amos\" no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126515",
+   "trecho_fonte": "2026-12-08 19:30 até 2026-12-08 19:30 | ANA BISPO CANTA TE AMOS | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126515",
+   "id": "f-8079e7c1fb",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -9482,6 +9779,39 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: RH Produções. Humor presumido (Teatro).",
+   "aviso": "",
+   "titulo": "Paulinho Gogó: Só e Bem Acompanhado",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Lona Cultural Elza Osborne (Teatro de Arena)",
+   "endereco": "Estrada Rio do A",
+   "bairro": "Campo Grande",
+   "regiao": "Zona Oeste",
+   "sinopse": "Paulinho Gogó apresenta \"Só e Bem Acompanhado\" na Lona Cultural de Campo Grande.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/paulinho-gogo-so-e-bem-acompanhado/3623012",
+   "trecho_fonte": "2026-12-04 20:30 até 2026-12-04 22:00 | Paulinho Gogó - Só e Bem Acompanhado | Teatro de Arena Elza Osborne -Lona Cultural, Estrada Rio do A Campo Grande | organizador: RH Produções | https://www.sympla.com.br/evento/paulinho-gogo-so-e-bem-acompanhado/3623012",
+   "id": "f-904af954ca",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
    "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.",
    "aviso": "",
    "titulo": "Jhordan Matheus: Passando de Fase",
@@ -9662,6 +9992,39 @@
    "trecho_fonte": "2026-11-14 20:00 até 2026-11-29 20:00 | Senhorita Júlia, pássaros em uma mesma gaiola | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126358",
    "id": "f-94d2c5ff86",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Isabella Taviani: Confissões (de Amor)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Isabella Taviani apresenta \"Confissões (de Amor)\" no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/125684",
+   "trecho_fonte": "2026-12-05 19:30 até 2026-12-05 19:30 | ISABELLA TAVIANI EM 'CONFISSÕES (DE AMOR)' | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/125684",
+   "id": "f-95e42ccf46",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -9864,6 +10227,39 @@
    "trecho_fonte": "2026-12-05 19:00 até 2026-12-05 19:00 | SAMBLACK II com PAULA QUINTANILHA | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/127018",
    "id": "f-9963fe047d",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Vidal Assis: Emílio Santiago – 80 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Vidal Assis faz o show \"Emílio Santiago – 80 anos\", com participações de Theo Bial e Antônio Baldini.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129320",
+   "trecho_fonte": "2026-12-17 19:30 até 2026-12-17 19:30 | VIDAL ASSIS NO SHOW “EMÍLIO SANTIAGO – 80 ANOS”  PARTICIPAÇÕES ESPECIAIS DE THEO BIAL E ANTÔNIO BALDINI | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/129320",
+   "id": "f-9b0ed0ac57",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -10466,6 +10862,40 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-02",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Deixa Clarear, musical sobre Clara Nunes",
+   "areas": [
+    "Música",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Musical sobre Clara Nunes com Clara Santhana, no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129468",
+   "trecho_fonte": "2027-01-02 19:30 até 2027-01-02 19:30 | “DEIXA CLAREAR, MUSICAL SOBRE CLARA NUNES” COM CLARA SANTHANA | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/129468",
+   "id": "f-a9adb52cda",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-24",
      "hora": "19:00"
     },
@@ -10573,6 +11003,39 @@
    "trecho_fonte": "2026-11-22 18:00 até 2026-11-22 19:50 | O Neguinho da Beija Flor - Musical | Teatro Dulcina, Rua Alcindo Guanabara Centro - rj | organizador: Lapilar Produções",
    "id": "f-aa4f94a9ca",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Show presumido pelo nome da artista.",
+   "aviso": "",
+   "titulo": "Tiê",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Tiê no Teatro Solar de Botafogo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128548",
+   "trecho_fonte": "2026-12-10 20:00 até 2026-12-10 20:00 | TIÊ | Teatro Solar de Botafogo, Rua General Polidoro , 180  | organizador: Solar de Botafogo | https://bileto.sympla.com.br/event/128548",
+   "id": "f-aac77f6a65",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -10773,6 +11236,72 @@
    "link": "https://bileto.sympla.com.br/event/127822",
    "trecho_fonte": "2026-12-13 17:00 até 2026-12-13 17:00 | ADRIAN CORTÊS - MOONWALK FEST | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127822",
    "id": "f-ad440effa4",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cesgranrio. Música presumida pelo título.",
+   "aviso": "",
+   "titulo": "Marina Aquino: Um Coração que Canta",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cesgranrio",
+   "endereco": "Rua Santa Alexandrina, 1011",
+   "bairro": "Rio Comprido",
+   "regiao": "Centro",
+   "sinopse": "Marina Aquino apresenta \"Um Coração que Canta\" no Teatro Cesgranrio, no Rio Comprido.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127168",
+   "trecho_fonte": "2026-12-04 20:30 até 2026-12-04 20:30 | MARINA AQUINO - UM CORAÇÃO QUE CANTA | Teatro Cesgranrio, Rua Santa Alexandrina, 1011  | organizador: FUNDACAO CESGRANRIO | https://bileto.sympla.com.br/event/127168",
+   "id": "f-af1638ec9a",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte não explica a sigla ACC.",
+   "aviso": "",
+   "titulo": "Concerto ACC 85 anos: Canta Navidad, de Jean Kleeb",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cidade das Artes",
+   "endereco": "Av. das Américas, 5.300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Concerto comemorativo dos 85 anos da ACC com a cantata \"Canta Navidad\", de Jean Kleeb, na Cidade das Artes.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129611",
+   "trecho_fonte": "2026-12-06 17:00 até 2026-12-06 17:00 | CONCERTO COMEMORATIVO ACC 85 ANOS – CANTATA  'CANTA  NAVIDAD' DE JEAN KLEEB | Cidade das Artes, Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro, 5300  | organizador: FUNDAÇÃO CIDADE DAS ARTES | https://bileto.sympla.com.br/event/129611",
+   "id": "f-afcf69a61e",
    "entrou_em": "2026-11-23"
   },
   {
@@ -12015,6 +12544,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-02",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Bairro presumido (a sede do Cacique fica na Rua Uranos, em Olaria).",
+   "aviso": "",
+   "titulo": "Leandro Sapucahy: Que Nem Antigamente",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cacique de Ramos",
+   "endereco": "Rua Uranos",
+   "bairro": "Olaria",
+   "regiao": "Zona Norte",
+   "sinopse": "Leandro Sapucahy apresenta \"Que Nem Antigamente\" no Cacique de Ramos.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/leandro-sapucahy-que-nem-antigamente-no-cacique-de-ramos/3645472",
+   "trecho_fonte": "2027-01-02 15:00 até 2027-01-02 23:00 | LEANDRO SAPUCAHY - QUE NEM ANTIGAMENTE no CACIQUE DE RAMOS | Templo Sagrado do Samba Cacique de Ramos, Rua Uranos  | organizador: Leonardo Frota Sapucahy | https://www.sympla.com.br/evento/leandro-sapucahy-que-nem-antigamente-no-cacique-de-ramos/3645472",
+   "id": "f-d035932a07",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-24",
      "hora": "19:00"
     }
@@ -12820,6 +13382,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-28",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Yayá do Cavaco: De Raiz em Flor",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Yayá do Cavaco apresenta \"De Raiz em Flor\", com participações de Ana Costa, Claudia Macedo e Alice Vasques.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129640",
+   "trecho_fonte": "2026-12-28 19:30 até 2026-12-28 19:30 | YAYÁ DO CAVACO NO SHOW “DE RAIZ EM FLOR”  PARTICIPAÇÕES DE ANA COSTA, CLAUDIA MACEDO E ALICE VASQUES | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/129640",
+   "id": "f-e05e6a72a2",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-29",
      "hora": "14:00"
     }
@@ -12913,6 +13508,39 @@
    "trecho_fonte": "2026-11-29 16:00 até 2026-11-29 16:00 | Domingo das Crianças - O Desdobrar das Histórias apresenta Árvore de Histórias | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129704",
    "id": "f-e2b00c012e",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Batuq Casa de Samba. Atrações não informadas.",
+   "aviso": "",
+   "titulo": "Batuq em Verde e Rosa – 5ª edição",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Quadra da Mangueira (G.R.E.S. Estação Primeira de Mangueira)",
+   "endereco": "Rua Visconde de Niterói",
+   "bairro": "Mangueira",
+   "regiao": "Zona Norte",
+   "sinopse": "Quinta edição do Batuq em Verde e Rosa na quadra da Estação Primeira de Mangueira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/batuq-em-verde-e-rosa-5a-edicao/3649271",
+   "trecho_fonte": "2026-12-06 16:00 até 2026-12-07 01:00 | BATUQ EM VERDE E ROSA - 5ª EDIÇÃO | G.R.E.S. Estação Primeira de Mangueira, Rua Visconde de Niterói  | organizador: Batuq Casa de Samba | https://www.sympla.com.br/evento/batuq-em-verde-e-rosa-5a-edicao/3649271",
+   "id": "f-e300ee9c73",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -13445,6 +14073,39 @@
    "link": "https://bileto.sympla.com.br/event/129080",
    "trecho_fonte": "2027-01-15 20:30 até 2027-01-15 20:30 | Marcelo Duque - Sem Filtro | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n  | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/129080",
    "id": "f-f16a9f483b",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.",
+   "aviso": "",
+   "titulo": "Dragstar – 14ª temporada: a grande final",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Grande final da 14ª temporada do Dragstar no Teatro Rival.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130027",
+   "trecho_fonte": "2026-12-09 20:00 até 2026-12-09 20:00 | DRAGSTAR – 14ª TEMPORADA – A GRANDE FINAL | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/130027",
+   "id": "f-f1aadd3e01",
    "entrou_em": "2026-11-23"
   },
   {
