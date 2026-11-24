@@ -204,17 +204,22 @@
     "automatico": true
    },
    {
-    "id": "f-842d0e6d13",
-    "porque": "Em Ipanema.",
+    "id": "f-10d9df5efd",
+    "porque": "Em Gávea.",
     "automatico": true
    },
    {
-    "id": "f-97527d1876",
-    "porque": "Em Centro.",
+    "id": "f-842d0e6d13",
+    "porque": "Em Ipanema.",
     "automatico": true
    }
   ],
   "2026-12-09": [
+   {
+    "id": "f-10d9df5efd",
+    "porque": "Em Gávea.",
+    "automatico": true
+   },
    {
     "id": "f-f1aadd3e01",
     "porque": "Em Cinelândia.",
@@ -412,10 +417,36 @@
     "automatico": true
    }
   ],
+  "2026-12-24": [
+   {
+    "id": "f-0405b8de0e",
+    "porque": "Em São Conrado.",
+    "automatico": true
+   }
+  ],
+  "2026-12-25": [
+   {
+    "id": "f-0405b8de0e",
+    "porque": "Em São Conrado.",
+    "automatico": true
+   }
+  ],
   "2026-12-26": [
    {
     "id": "f-2feb9d5fbf",
     "porque": "Em Cinelândia.",
+    "automatico": true
+   },
+   {
+    "id": "f-0405b8de0e",
+    "porque": "Em São Conrado.",
+    "automatico": true
+   }
+  ],
+  "2026-12-27": [
+   {
+    "id": "f-0405b8de0e",
+    "porque": "Em São Conrado.",
     "automatico": true
    }
   ],
@@ -433,8 +464,20 @@
     "automatico": true
    },
    {
+    "id": "f-d8051ffef7",
+    "porque": "Em Gávea.",
+    "automatico": true
+   },
+   {
     "id": "f-d035932a07",
     "porque": "Em Olaria.",
+    "automatico": true
+   }
+  ],
+  "2027-01-03": [
+   {
+    "id": "f-d8051ffef7",
+    "porque": "Em Gávea.",
     "automatico": true
    }
   ],
@@ -449,6 +492,11 @@
    {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-d8051ffef7",
+    "porque": "Em Gávea.",
     "automatico": true
    }
   ],
@@ -479,6 +527,11 @@
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
     "automatico": true
+   },
+   {
+    "id": "f-9022a91c92",
+    "porque": "Em Gávea.",
+    "automatico": true
    }
   ],
   "2027-01-10": [
@@ -490,6 +543,11 @@
    {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-9022a91c92",
+    "porque": "Em Gávea.",
     "automatico": true
    }
   ],
@@ -578,6 +636,11 @@
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
     "automatico": true
+   },
+   {
+    "id": "f-50091abddb",
+    "porque": "Em Gávea.",
+    "automatico": true
    }
   ],
   "2027-01-22": [
@@ -606,6 +669,11 @@
    {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-f38b8f0baa",
+    "porque": "Em Bangu.",
     "automatico": true
    }
   ]
@@ -650,9 +718,13 @@
   "2026-12-20",
   "2026-12-21",
   "2026-12-22",
+  "2026-12-24",
+  "2026-12-25",
   "2026-12-26",
+  "2026-12-27",
   "2026-12-28",
   "2027-01-02",
+  "2027-01-03",
   "2027-01-06",
   "2027-01-07",
   "2027-01-08",

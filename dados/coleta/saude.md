@@ -20,19 +20,19 @@
 ## Redação (tarefa diária do Claude)
 
 - Última entrega: 2026-11-24
-  - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 2: 20 fichas (rede municipal e casas de música na Sympla) de 27/11 a 22/1.
   - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 3: 20 fichas (rodas de samba, casas de música e teatros na Sympla) de 26/11 a 6/12.
   - 2026-11-23: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 23/11, lote 4: 20 fichas (Teatro Rival, Lona de Campo Grande, Mangueira, Cacique de Ramos e outros na Sympla) de 4/12 a 14/1.
   - 2026-11-23: 0 novas, 0 corrigidas, 0 recusadas — A boa refeita de 24 a 30/11 no modelo novo (show do dia, na rua, seção da vez); As boas do mês sem O Quebra-Nozes (temporada longa)
   - 2026-11-23: 0 novas, 0 corrigidas, 0 recusadas — As boas do mês: volta O Quebra-Nozes (critério atratividade x chance de esgotar)
   - 2026-11-24: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 1: 20 fichas (Teatro Ipanema, Areninha Hermeto Pascoal, Cidade das Artes, Casa do Choro, CCJF, MAR, Carioca da Gema, Firjan SESI) de 24/11 a 23/1.
   - 2026-11-24: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 2: 20 fichas da Fever (Candlelight no Museu do Amanhã, Solar de Botafogo e Teatro dos Quatro; The Jazz Room no Rival) de 26/11 a 23/1.
+  - 2026-11-24: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 3: 20 fichas (Teatro das Artes, Teatro Bangu Shopping, Fever no Rival e Teatro dos Quatro, rodas e teatros na Sympla) de 25/11 a 23/1.
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-23: **308**
-- Por região: Centro 121, Zona Sul 90, Zona Norte 64, Zona Sudoeste 17, Zona Oeste 16
-- Fora da Zona Sul: 71%
+- Fichas da redação de hoje até 2027-01-23: **328**
+- Por região: Centro 125, Zona Sul 99, Zona Norte 70, Zona Sudoeste 17, Zona Oeste 17
+- Fora da Zona Sul: 70%
 - Grátis: 37
 
 ## Alarmes

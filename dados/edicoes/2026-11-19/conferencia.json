@@ -302,6 +302,62 @@
    "veredito": "duvida",
    "detalhe": "A Fever escreve 'Solar de Botafogo'; Teatro Rival e Teatro dos Quatro sem 'subsolo'/'Shopping da Gávea'.",
    "resolucao": "Mantido: nome e endereço iguais aos das fichas já na base para o mesmo espaço."
+  },
+  {
+   "id": "f-dfa1349655",
+   "titulo": "An Idiot's Guide to Wine: Uma Comédia sobre Vinho",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-f5e92ecd72",
+   "titulo": "Feijoada da Mangueira com Leci Brandão",
+   "campo": "local",
+   "veredito": "duvida",
+   "detalhe": "A Sympla dá só o endereço (R. Visc. de Niterói, 1072) e o organizador 'Mangueira'.",
+   "resolucao": "Mantido: é o endereço da quadra da escola, já usado em outras fichas."
+  },
+  {
+   "id": "f-82d5149dfc",
+   "titulo": "Forró de Pife Descalço",
+   "campo": "endereco",
+   "veredito": "duvida",
+   "detalhe": "O endereço da Sympla é Rua Sá Ferreira, Copacabana, mas as coordenadas apontam para a Zona Oeste.",
+   "resolucao": "Mantido: segui o endereço escrito."
+  },
+  {
+   "id": "f-c8546d5963",
+   "titulo": "Quintal da Magia e Délcio Luiz",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-74efc97d70",
+   "titulo": "Canela de Velho no Quintal de Benfica: homenagem a Oxum",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-02f112b40f",
+   "titulo": "Samba da Constituição canta Djavan",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-02f112b40f",
+   "titulo": "Samba da Constituição canta Djavan",
+   "campo": "bairro",
+   "veredito": "nao_encontrado",
+   "detalhe": "A Sympla não dá o bairro do Mocamba Livre (Rua do Livramento, entre Saúde e Gamboa).",
+   "resolucao": ""
   }
  ]
 }

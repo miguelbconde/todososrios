@@ -2509,6 +2509,39 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente.",
+   "aviso": "",
+   "titulo": "Roda MPB no Glorioso Cultural",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Glorioso Cultural",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Roda de MPB no Glorioso Cultural, no Catete.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/roda-mpb-no-glorioso-cultural/3662724",
+   "trecho_fonte": "2026-11-25 19:00 até 2026-11-26 00:00 | RODA MPB NO GLORIOSO CULTURAL | Glorioso Cultural, Rua do Catete Catete | organizador: Marcelle Motta | https://www.sympla.com.br/evento/roda-mpb-no-glorioso-cultural/3662724",
+   "id": "f-9b1710f182",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
    "nota_redacao": "A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.",
    "titulo": "EurAsia Dance Company: “Om Mani Padme Hum” e “Svarupa & Vyakta”",
    "areas": [
@@ -3265,6 +3298,40 @@
    "trecho_fonte": "2026-11-15 18:00 até 2026-11-29 18:00 | UM HOMEM CÉLEBRE - Baseado em Machado de Assis - Espetáculo teatral | Centro Cultural Justiça Federal, Avenida Rio Branco | organizador: Rafael Apolinário Coutinho | https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
    "id": "f-a9155630c6",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio grupo.",
+   "aviso": "",
+   "titulo": "Baile do Forró de Pife no Glorioso Cultural",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Glorioso Cultural",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Baile de forró com o grupo Forró de Pife no Glorioso Cultural, no Catete.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/baile-do-forro-de-pife-no-glorioso-cultural/3664155",
+   "trecho_fonte": "2026-11-26 18:00 até 2026-11-27 01:00 | Baile do Forró de Pife no Glorioso Cultural | Glorioso Cultural Bar, Rua do Catete Catete | organizador: Forró de Pife | https://www.sympla.com.br/evento/baile-do-forro-de-pife-no-glorioso-cultural/3664155",
+   "id": "f-b5c30d192b",
+   "entrou_em": "2026-11-24"
   },
   {
    "titulo": "La Strada – Os Que Vieram Antes de Nós",
@@ -5500,6 +5567,40 @@
     {
      "data": "2026-11-28",
      "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente.",
+   "aviso": "",
+   "titulo": "Forró na Sala de Reboco convida Rod Bigode",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Quintal de Benfica",
+   "endereco": "Rua Doutor Rodrigues de Santana",
+   "bairro": "Benfica",
+   "regiao": "Zona Norte",
+   "sinopse": "O Forró na Sala de Reboco recebe Rod Bigode no Quintal de Benfica.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/forro-na-sala-de-reboco-convida-rod-bigode-no-quintal-de-benfica/3662863",
+   "trecho_fonte": "2026-11-28 16:00 até 2026-11-28 23:30 | Forró na Sala de Reboco convida  Rod Bigode no Quintal de Benfica | QUINTAL DE BENFICA, Rua Doutor Rodrigues de Santana Benfica | organizador: CM Produções e Eventos | https://www.sympla.com.br/evento/forro-na-sala-de-reboco-convida-rod-bigode-no-quintal-de-benfica/3662863",
+   "id": "f-9a3b6abdab",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
     },
     {
      "data": "2026-11-29",
@@ -5735,6 +5836,39 @@
    "sessoes": [
     {
      "data": "2026-11-28",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa. A fonte não diz quem convida quem; a ordem do título foi mantida.",
+   "aviso": "",
+   "titulo": "Quintal da Magia e Délcio Luiz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Base do Samba",
+   "endereco": "Rua Joaquim Palhares",
+   "bairro": "Praça da Bandeira",
+   "regiao": "Zona Norte",
+   "sinopse": "Quintal da Magia e Délcio Luiz se apresentam na Base do Samba, na Praça da Bandeira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-da-magia-e-delcio-luiz-base-do-samba/3662909",
+   "trecho_fonte": "2026-11-28 17:30 até 2026-11-29 01:30 | QUINTAL DA MAGIA e DÉLCIO LUIZ - BASE DO SAMBA | Base do Samba, Rua Joaquim Palhares Praça da Bandeira | organizador: BASE DO SAMBA | https://www.sympla.com.br/evento/quintal-da-magia-e-delcio-luiz-base-do-samba/3662909",
+   "id": "f-c8546d5963",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
      "hora": "18:00"
     }
    ],
@@ -5795,6 +5929,40 @@
    "trecho_fonte": "2026-11-28 18:00 até 2026-11-29 02:00 | Casuarina 28 de novembro, sábado, no Beco do Rato! | Beco do Rato, Rua Joaquim Silva Lapa | organizador: Cola Comigo que Tu Samba | https://www.sympla.com.br/evento/casuarina-28-de-novembro-sabado-no-beco-do-rato/3647605",
    "id": "f-57466b13d8",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio grupo. A fonte só dá o título; 'descalço' é parte do nome.",
+   "aviso": "",
+   "titulo": "Forró de Pife Descalço",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Rampa, Lugar de Criação",
+   "endereco": "Rua Sá Ferreira",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O Forró de Pife toca na Rampa, Lugar de Criação, em Copacabana.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/forro-de-pife-descalco/3664150",
+   "trecho_fonte": "2026-11-28 18:00 até 2026-11-28 22:00 | Forró de Pife Descalço | Rampa, Lugar de Criação, Rua Sá Ferreira Copacabana | organizador: Forró de Pife | https://www.sympla.com.br/evento/forro-de-pife-descalco/3664150",
+   "id": "f-82d5149dfc",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -7190,6 +7358,39 @@
    "sessoes": [
     {
      "data": "2026-12-02",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa.",
+   "aviso": "",
+   "titulo": "Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite do Dia do Samba na Batuq, na Penha, com Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/dia-do-samba-breno-bene-mauro-diniz-ph-mocidade-leandro-fab-tendinha-da-sorte/3663431",
+   "trecho_fonte": "2026-12-02 17:00 até 2026-12-02 23:59 | DIA DO SAMBA: BRENO BENÉ + MAURO DINIZ + PH MOCIDADE + LEANDRO FAB + TENDINHA DA SORTE! | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba | https://www.sympla.com.br/evento/dia-do-samba-breno-bene-mauro-diniz-ph-mocidade-leandro-fab-tendinha-da-sorte/3663431",
+   "id": "f-fa57985f39",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
      "hora": "18:30"
     }
    ],
@@ -7984,6 +8185,168 @@
    "sessoes": [
     {
      "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 19h, a 20/12); dias presumidos de quinta a domingo, 19h. Gênero não informado; Teatro presumido pelo espaço. Organização independente.",
+   "aviso": "dias",
+   "titulo": "Lisa, Lesa & Louca",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Dulcina",
+   "endereco": "Rua Alcindo Guanabara",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Lisa, Lesa & Louca\" em temporada no Teatro Dulcina, de 4 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/lisa-lesa-louca/3658926",
+   "trecho_fonte": "2026-12-04 19:00 até 2026-12-20 20:15 | LISA, LESA & LOUCA | Teatro Dulcina, Rua Alcindo Guanabara CENTRO | organizador: Crazú | https://www.sympla.com.br/evento/lisa-lesa-louca/3658926",
+   "id": "f-ce2b9d48cf",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-24",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-25",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 20h, a 27/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "A Vida Passou por Aqui",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Fashion Mall",
+   "endereco": "Estrada da Gávea, 899, loja 213",
+   "bairro": "São Conrado",
+   "regiao": "Zona Sul",
+   "sinopse": "\"A Vida Passou por Aqui\" em temporada no Teatro Fashion Mall, de 4 a 27 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/101258",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-27 19:00 | A VIDA PASSOU POR AQUI | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/101258",
+   "id": "f-0405b8de0e",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
      "hora": "20:00"
     }
    ],
@@ -8609,6 +8972,72 @@
    "sessoes": [
     {
      "data": "2026-12-06",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa.",
+   "aviso": "",
+   "titulo": "Samba das Rosalinas na Batuq",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "O Samba das Rosalinas se apresenta na Batuq, casa de samba da Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-das-rosalinas-na-batuq/3654477",
+   "trecho_fonte": "2026-12-06 15:00 até 2026-12-06 23:59 | SAMBA DAS ROSALINAS na BATUQ | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba | https://www.sympla.com.br/evento/samba-das-rosalinas-na-batuq/3654477",
+   "id": "f-6dcd487bb1",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente.",
+   "aviso": "",
+   "titulo": "Casuarina 25 anos, com João Cavalcanti e Moyseis Marques",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Quintal da Clementina",
+   "endereco": "Rua do Senado",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Casuarina comemora 25 anos no Quintal da Clementina, com João Cavalcanti e Moyseis Marques.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/casuarina-25-anos-joao-cavalcanti-e-moyseis-marques-no-quintal-da-clementina-06-12-domingo/3662766",
+   "trecho_fonte": "2026-12-06 16:00 até 2026-12-06 23:59 | Casuarina 25 Anos + João Cavalcanti e Moyseis Marques no Quintal da Clementina -  06/12 domingo! | Quintal da Clementina, Rua do Senado Centro | organizador: Cola Comigo que Tu Samba | https://www.sympla.com.br/evento/casuarina-25-anos-joao-cavalcanti-e-moyseis-marques-no-quintal-da-clementina-06-12-domingo/3662766",
+   "id": "f-864ff362e9",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
      "hora": "16:00"
     }
    ],
@@ -8900,6 +9329,43 @@
    "trecho_fonte": "2026-12-08 19:30 até 2026-12-08 19:30 | ANA BISPO CANTA TE AMOS | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126515",
    "id": "f-8079e7c1fb",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-09",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Preço não informado (a listagem do site dá 'preço 0', que não é gratuidade). Duas datas, cada uma com sua página; usei o link do dia 8.",
+   "aviso": "",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "fonte": "Teatro das Artes",
+   "tipo": "evento",
+   "titulo": "Cá Entre Nós, com Fátima Bernardes e Bia Bonemer",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "link": "https://teatrodasartes.com.br/eventos/ca-entre-nos-dezembro-2026/",
+   "sinopse": "Fátima Bernardes e Bia Bonemer, mãe e filha, levam ao palco o podcast \"Cá Entre Nós\" e recebem convidados para uma conversa sobre bastidores e trajetórias.",
+   "trecho_fonte": "Do YouTube para o palco, o Cá Entre Nós convida o público a acompanhar de perto o papo que Fátima Bernardes e Bia Bonemer comandam juntas. Mãe e filha recebem convidados [...] Gênero: Podcast [...] Data 08 dez 2026 Horário 20h [...] Categoria Livre || Data 09 dez 2026 Horário 20h (página do dia 9)",
+   "id": "f-10d9df5efd",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -9339,6 +9805,39 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente. A fonte não dá o bairro; a Rua do Livramento fica entre Saúde e Gamboa, conferir.",
+   "aviso": "",
+   "titulo": "Samba da Constituição canta Djavan",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Mocamba Livre",
+   "endereco": "Rua do Livramento",
+   "bairro": "Saúde",
+   "regiao": "Centro",
+   "sinopse": "O Samba da Constituição canta Djavan no Mocamba Livre.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-da-constituicao-canta-djavan/3664302",
+   "trecho_fonte": "2026-12-11 18:00 até 2026-12-12 02:00 | SAMBA DA CONSTITUIÇÃO CANTA DJAVAN | Mocamba Livre, Rua do Livramento  | organizador: jonathan machado | https://www.sympla.com.br/evento/samba-da-constituicao-canta-djavan/3664302",
+   "id": "f-02f112b40f",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
    "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN. Organizador: Instituto de Pesquisa e Memória Pretos Novos (sem fins lucrativos). A fonte não dá o número do endereço.",
    "aviso": "",
    "titulo": "16º Sarau Pretos Novos",
@@ -9601,6 +10100,39 @@
    "sessoes": [
     {
      "data": "2026-12-12",
+     "hora": "13:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria escola.",
+   "aviso": "",
+   "titulo": "Feijoada da Mangueira com Leci Brandão",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Quadra da Mangueira (G.R.E.S. Estação Primeira de Mangueira)",
+   "endereco": "Rua Visconde de Niterói, 1072",
+   "bairro": "Mangueira",
+   "regiao": "Zona Norte",
+   "sinopse": "Feijoada na quadra da Mangueira com show completo de Leci Brandão.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/feijoada-da-mangueira-show-completo-leci-brandao/3662366",
+   "trecho_fonte": "2026-12-12 13:00 até 2026-12-12 19:00 | Feijoada da Mangueira Show completo Leci Brandão | R. Visc. de Niterói, 1072, Rua Visconde de Niterói Mangueira | organizador: Mangueira | https://www.sympla.com.br/evento/feijoada-da-mangueira-show-completo-leci-brandao/3662366",
+   "id": "f-f5e92ecd72",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
      "hora": "14:00"
     }
    ],
@@ -9628,6 +10160,39 @@
    "trecho_fonte": "2026-12-12 14:00 até 2026-12-12 14:00 | Cineclube Adélia Sampaio | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130380",
    "id": "f-cc108ee630",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente. A fonte não diz o formato; 'roda' é suposição pelo nome do grupo.",
+   "aviso": "",
+   "titulo": "Canela de Velho no Quintal de Benfica: homenagem a Oxum",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Quintal de Benfica",
+   "endereco": "Rua Doutor Rodrigues de Santana",
+   "bairro": "Benfica",
+   "regiao": "Zona Norte",
+   "sinopse": "O Canela de Velho se apresenta no Quintal de Benfica, em homenagem a Oxum.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/canela-de-velho-no-quintal-de-benfica-homenagem-a-oxum/3654383",
+   "trecho_fonte": "2026-12-12 15:00 até 2026-12-12 23:45 | CANELA DE VELHO NO QUINTAL DE BENFICA  HOMENAGEM À OXUM | QUINTAL DE BENFICA, Rua Doutor Rodrigues de Santana Benfica | organizador: CM Produções e Eventos | https://www.sympla.com.br/evento/canela-de-velho-no-quintal-de-benfica-homenagem-a-oxum/3654383",
+   "id": "f-74efc97d70",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -10383,6 +10948,39 @@
    "preco_min": null,
    "preco_max": null,
    "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Preço não informado. O elenco ainda não foi divulgado.",
+   "aviso": "",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "fonte": "Teatro das Artes",
+   "tipo": "evento",
+   "titulo": "A Gongada das Mil Xuxas",
+   "areas": [
+    "Teatro"
+   ],
+   "link": "https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/",
+   "sinopse": "Edição especial da Gongada Drag, criada e apresentada por Bruno Motta, em homenagem ao universo de Xuxa, com roast, stand-up, improviso e performances drag.",
+   "trecho_fonte": "No dia 19 de dezembro, o Teatro das Artes recebe “A Gongada das Mil Xuxas”, edição especial da Gongada Drag que homenageia o universo de Xuxa com humor, performances drag, improviso e muita nostalgia. Criado e apresentado por Bruno Motta, o espetáculo mistura roast, stand-up comedy e performances [...] Data 19 dez 2026 Horário 20h [...] Categoria 14 anos",
+   "id": "f-0f5a748f7c",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
@@ -10403,6 +11001,51 @@
    "trecho_fonte": "2026-12-19 20:00 até 2026-12-19 20:00 | RANTHER MELO \"Vem Que Tá Maneirinho\" | Teatro de Arena Elza Osborne - Lona Cultural, Estrada Rio do A  | organizador: Arte & Entretenimento | https://www.sympla.com.br/evento/ranther-melo-vem-que-ta-maneirinho/3617656",
    "id": "f-666f8d5c79",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "15:30"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "18:30"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 76",
+   "preco_min": 76.0,
+   "preco_max": 76.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de fevereiro e março fora da janela. Há degustação de vinho: a idade mínima não aparece no trecho coletado.",
+   "aviso": "",
+   "titulo": "An Idiot's Guide to Wine: Uma Comédia sobre Vinho",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Sucesso australiano, o stand-up sobre vinho com roteiro de Merrick Watts tem degustação de cinco rótulos e é apresentado em português por um humorista local.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/664701",
+   "trecho_fonte": "2026-12-20 15:30 até 2027-03-20 21:00 | An Idiot's Guide to Wine: Uma Comédia sobre Vinho | Teatro Rival Petrobras, Rua Álvaro Alvim, 33 - Cinelândia, Rio de Janeiro, 20031-010 | a partir de R$ 76 | datas: 2026-12-20 15:30, 18:30; 2027-01-16 18:00, 21:00; 2027-02-28 15:30, 18:30; 2027-03-20 18:00, 21:00 | https://feverup.com/m/664701 || grande sucesso australiano, para uma noite inesquecível de comédia e degustação de vinhos, apresentada ao vivo por um humorista local em português. O público terá a oportunidade de degustar 5 variedades diferentes [...] Roteiro Merrick Watts, interpretado por um humorista local.",
+   "id": "f-dfa1349655",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -10535,6 +11178,87 @@
    "trecho_fonte": "2027-01-02 15:00 até 2027-01-02 23:00 | LEANDRO SAPUCAHY - QUE NEM ANTIGAMENTE no CACIQUE DE RAMOS | Templo Sagrado do Samba Cacique de Ramos, Rua Uranos  | organizador: Leonardo Frota Sapucahy | https://www.sympla.com.br/evento/leandro-sapucahy-que-nem-antigamente-no-cacique-de-ramos/3645472",
    "id": "f-d035932a07",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-02",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-03",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-07",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-08",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte dá o período (2 a 31/1) e 'Horário 19h e 18h', sem dizer os dias. Dias presumidos de quinta a domingo (mais o primeiro dia), 19h, e 18h aos domingos. Preço não informado.",
+   "aviso": "dias",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "fonte": "Teatro das Artes",
+   "tipo": "evento",
+   "titulo": "Psicóloga Segundo Meu Psiquiatra",
+   "areas": [
+    "Teatro"
+   ],
+   "link": "https://teatrodasartes.com.br/eventos/psicologa-segundo-meu-psiquiatra-janeiro-2027/",
+   "sinopse": "Comédia com Humberto Martins e Aline Müller: um psiquiatra em crise procura uma psicóloga e terapeuta sexual nada convencional, e a sessão vira um encontro improvável.",
+   "trecho_fonte": "Quando um psiquiatra, acostumado a cuidar dos problemas dos outros, entra em crise, acaba procurando ajuda justamente de uma psicóloga e terapeuta sexual nada convencional. [...] Texto: Carlos Simões Direção: Humberto Martins e Carlos Simões Elenco Humberto Martins Aline Müller Gênero: Comédia [...] Data 02 - 31 jan 2027 Horário 19h e 18h [...] Categoria 16 anos",
+   "id": "f-d8051ffef7",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -10744,6 +11468,75 @@
    "trecho_fonte": "2027-01-08 19:30 até 2027-01-08 19:30 | ELYMAR SANTOS NO SHOW 'ESTRELA LUMINOSA' | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128635",
    "id": "f-619ec2e94c",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-08",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "21:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte dá o período (8/1 a 28/2) e 'Horário 21h e 20h', sem dizer os dias. Dias presumidos de quinta a domingo, 21h, e 20h aos domingos, até o fim da janela. Preço não informado.",
+   "aviso": "dias",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "fonte": "Teatro das Artes",
+   "tipo": "evento",
+   "titulo": "Uma Vida de Amizade",
+   "areas": [
+    "Teatro"
+   ],
+   "link": "https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/",
+   "sinopse": "Comédia com Silvia Pfeifer, Adriana Garambone e Helena Fernandes: três amigas que dividiram um apartamento em Paris como modelos nos anos 1990 se reencontram uma vez por ano.",
+   "trecho_fonte": "Três amigas são intimas desde a juventude nos anos 1990, quando dividiam sonhos, dificuldades e um quarto e sala em Paris, trabalhando como modelos. Desde então, elas cumprem o ritual de se encontrar uma vez por ano [...] Gilda (Silvia Pfeifer) [...] Yasmin (Adriana Garambone) [...] Renée (Helena Fernandes) [...] Gênero: Comédia [...] Data 08 jan 2027 - 28 fev 2027 Horário 21h e 20h [...] Categoria 14 anos",
+   "id": "f-9022a91c92",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -11041,6 +11834,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-21",
+     "hora": "18:30"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "a partir de R$ 64",
+   "preco_min": 64.0,
+   "preco_max": 64.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A página não traz texto; sinopse só pelo título.",
+   "aviso": "",
+   "titulo": "Ballet of Lights: A Bela Adormecida",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro dos Quatro",
+   "endereco": "Rua Marquês de São Vicente, 52, 2º piso (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo de balé com \"A Bela Adormecida\", no Teatro dos Quatro, na Gávea.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/688997",
+   "trecho_fonte": "2027-01-21 18:30 até 2027-01-21 20:30 | Ballet of Lights: A Bela Adormecida em um espetáculo cintilante | Teatro dos Quatro, R. Marquês de São Vicente, 52 - 2° piso - Gávea, Rio de Janeiro, 22451-040 | a partir de R$ 64 | datas: 2027-01-21 18:30, 20:30 | https://feverup.com/m/688997",
+   "id": "f-50091abddb",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-22",
      "hora": "17:00"
     },
@@ -11139,6 +11969,39 @@
    "trecho_fonte": "2027-01-22 20:30 até 2027-01-22 20:30 | DIEGO BESOU EM - UPA QUE PARIU | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/130262",
    "id": "f-e76aa0e4f0",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-23",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Preço não informado.",
+   "aviso": "",
+   "titulo": "Trilhas Épicas de Game of Thrones e Senhor dos Anéis",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "fonte": "Site do Teatro Bangu Shopping (ronda de 24/11)",
+   "link": "https://teatrobangushopping.com.br/evento/trilhas-epicas-de-game-of-thrones-e-senhor-dos-aneis",
+   "sinopse": "O Multiply Strings toca temas de \"Game of Thrones\" e \"O Senhor dos Anéis\" em arranjos para quarteto de cordas (dois violinos, viola e violoncelo).",
+   "trecho_fonte": "Trilhas Épicas De Game Of Thrones E Senhor Dos Anéis [...] Classificação Livre Duração 60 minutos [...] sáb, 23 de janeiro de 2027 16h00 O Multiply Strings apresenta um tributo especial às trilhas de Game of Thrones e O Senhor dos Anéis , em versões especialmente arranjadas para quarteto de cordas. Com dois violinos, viola e violoncelo",
+   "id": "f-f38b8f0baa",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
