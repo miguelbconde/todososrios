@@ -1100,6 +1100,38 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-11-03",
+    "fim": "2027-02-28",
+    "horario": ""
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Nenhuma fonte oficial do MAR na ronda; fatos do portal Arte que Acontece. Horário de visitação e preço não informados pela fonte (o MAR costuma abrir de quinta a terça; conferir).",
+   "aviso": "",
+   "titulo": "Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Museu de Arte do Rio (MAR)",
+   "endereco": "Praça Mauá, 5",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O MAR recebe 115 obras de 28 países da coleção de arte latino-americana e caribenha do Grupo BID, originalmente abrigada na sede do grupo em Washington; o Brasil é o primeiro país a recebê-la.",
+   "fonte": "Arte que Acontece",
+   "link": "https://artequeacontece.com.br/evento/pluralidades-insulares-no-museu-de-arte-do-rio/",
+   "trecho_fonte": "em cartaz na edição que termina em 2026-11-25 | aberta de 2026-11-03 até 2027-02-28 | “Pluralidades Insulares” no Museu de Arte do Rio | Museu de Arte do Rio, Praça Mauá, 5 - Centro, Rio de Janeiro | preço não informado | https://artequeacontece.com.br/evento/pluralidades-insulares-no-museu-de-arte-do-rio/ || O Museu de Arte do Rio (MAR) abre o seu espaço para a mostra “Pluralidades Insulares: arte latino-americana e caribenha da Coleção de arte do BID (Grupo Banco Interamericano de Desenvolvimento)” . O Brasil é o primeiro país a receber esta coleção de 115 obras de 28 países, originalmente abrigada na sede do Grupo BID em Washington",
+   "id": "f-870b74aa68",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-10-06",
     "fim": "2027-01-03",
     "horario": ""
@@ -1619,6 +1651,39 @@
    "trecho_fonte": "2026-11-24 19:00 até 2026-11-25 00:00 | Choro Batucada 24/11 | Glorioso Cultural, Rua do Catete Catete | organizador: Choro Batucada",
    "id": "f-d119469024",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-24",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A página dá o nome Branka, mas o texto fala da cantora Vanessa Ebons (Nessa); não sei se são a mesma artista, por isso a sinopse não cita nomes.",
+   "aviso": "",
+   "local": "Carioca da Gema",
+   "endereco": "Av. Mem de Sá, 79",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
+   "link": "https://www.barcariocadagema.com.br/",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "titulo": "Branka",
+   "sinopse": "Show de Branka no Carioca da Gema, na Lapa.",
+   "trecho_fonte": "ter., 24 de nov. Branka / 24 de nov. de 2026, 19:30 Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil A cantora e compositora carioca Vanessa Ebons (também conhecida pelo apelido carinhoso de Nessa) destaca-se na cena contemporânea do samba e da MPB no Rio de Janeiro. Dona de uma presença de palco marcante e de uma voz potente, a artista é reconhecida por misturar influências românticas e acústicas || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
+   "id": "f-5b47b5a89c",
+   "entrou_em": "2026-11-24"
   },
   {
    "titulo": "O Último Dia da Minha Vida",
@@ -2556,6 +2621,39 @@
    "trecho_fonte": "2026-11-25 19:30 até 2026-11-25 19:30 | ALDIR BLANC – 80 ANOS GUINGA, MOACYR LUZ E ZÉ RENATO DATA EXTRA! | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL",
    "id": "f-30ea734113",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta).",
+   "aviso": "",
+   "local": "Carioca da Gema",
+   "endereco": "Av. Mem de Sá, 79",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
+   "link": "https://www.barcariocadagema.com.br/",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "titulo": "Samba d'Jorge, de Jorge Barbosa",
+   "sinopse": "Jorge Barbosa canta Martinho, Zeca, Djavan, Gil e Fundo de Quintal, além de pagode retrô, no Carioca da Gema.",
+   "trecho_fonte": "qua., 25 de nov. Samba d'Jorge de Jorge Barbosa / 25 de nov. de 2026, 19:30 Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil Samba D’Jorge, de Jorge Barbosa, traz samba de verdade, alegria e muito sentimento! No repertório, mestres como Martinho, Zeca, Djavan, Gil e Fundo de Quintal se encontram com o melhor do pagode retrô. Uma noite para cantar e sambar! Garanta seu ingresso! || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
+   "id": "f-ab15d40606",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -3640,6 +3738,39 @@
    "trecho_fonte": "2026-11-23 19:00 até 2026-12-08 19:00 | FERA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128512",
    "id": "f-d7cbeae19c",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A fonte não cita o Cacique de Ramos pelo nome; diz 'a famosa tamarineira'.",
+   "aviso": "",
+   "local": "Carioca da Gema",
+   "endereco": "Av. Mem de Sá, 79",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
+   "link": "https://www.barcariocadagema.com.br/",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "titulo": "Andrezão do Cacique",
+   "sinopse": "Noite de samba em homenagem aos compositores que se reuniam em volta da famosa tamarineira, como Arlindo Cruz, Sombrinha, Jorge Aragão, Zeca Pagodinho, Almir Guineto e Luiz Carlos da Vila, com sucessos do Fundo de Quintal.",
+   "trecho_fonte": "qui., 26 de nov. Andrezão do Cacique / 26 de nov. de 2026, 19:30 Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil Andrezão do Cacique vai se apresentar Mais uma noite no Carioca da Gema , homenageando os poetas que se reuniam em volta da famosa tamarineira: Arlindo Cruz, Sombrinha, Jorge Aragão, Zeca Pagodinho, Almir Guineto e Luiz Carlos da Vila. Também não vão faltar sucessos do grupo Fundo de Quintal. || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
+   "id": "f-25e6d54419",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -4777,6 +4908,39 @@
     {
      "data": "2026-11-27",
      "hora": "19:30"
+    }
+   ],
+   "preco_texto": "R$ 35",
+   "preco_min": 35,
+   "preco_max": 35,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). O texto da página fala em 'quarta-feira', mas a data é sexta, 27/11; segui a data.",
+   "aviso": "",
+   "local": "Carioca da Gema",
+   "endereco": "Av. Mem de Sá, 79",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
+   "link": "https://www.barcariocadagema.com.br/",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "titulo": "Samba Carioca: apresentação do Bloco Carioca 2027",
+   "sinopse": "Apresentação dos blocos com os cantores Júlio Estrela, Bico Doce e JP Silva, numa noite de samba de carnaval no Carioca da Gema.",
+   "trecho_fonte": "sex., 27 de nov. Samba Carioca - Apresentação do Bloco Carioca 2027 / 27 de nov. de 2026, 19:30 BRT Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil A quarta-feira vai ser quente no coração da Lapa! 🔥🎶 O palco do Carioca da Gema recebe uma apresentação dos blocos, com os cantores Júlio Estrela, Bico Doce e JP Silva, para uma noite de muito samba e energia lá em cima! || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
+   "id": "f-7c7e1e4065",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:30"
     },
     {
      "data": "2026-11-28",
@@ -5831,6 +5995,39 @@
    "sessoes": [
     {
      "data": "2026-11-28",
+     "hora": "20:30"
+    }
+   ],
+   "preco_texto": "R$ 35",
+   "preco_min": 35,
+   "preco_max": 35,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta).",
+   "aviso": "",
+   "local": "Carioca da Gema",
+   "endereco": "Av. Mem de Sá, 79",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
+   "link": "https://www.barcariocadagema.com.br/",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "titulo": "J.P. Silva",
+   "sinopse": "JP Silva canta samba de raiz no Carioca da Gema.",
+   "trecho_fonte": "sáb., 28 de nov. J.P. Silva / 28 de nov. de 2026, 20:30 Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil JP Silva leva ao palco um show repleto de samba de raiz, carisma e muito swing carioca. Com interpretações marcantes e um repertório que faz todo mundo cantar e sambar, a noite promete ser inesquecível. Garanta seu ingresso! || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
+   "id": "f-ee10ad9f47",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
      "hora": "21:00"
     }
    ],
@@ -6392,6 +6589,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-30",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A casa não informa o preço de segunda-feira.",
+   "aviso": "",
+   "local": "Carioca da Gema",
+   "endereco": "Av. Mem de Sá, 79",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
+   "link": "https://www.barcariocadagema.com.br/",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "titulo": "Alana Valentte",
+   "sinopse": "Alana Valentte, com mais de 20 anos de samba, passa do samba de raiz ao afrossamba em releituras de clássicos.",
+   "trecho_fonte": "seg., 30 de nov. Alana Valentte / 30 de nov. de 2026, 19:30 Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil Alana Valentte traz ao palco mais de 20 anos de samba em um baile que une tradição e novos caminhos. Do samba de raiz ao afrosamba, clássicos ganham releituras cheias de personalidade. Uma noite para cantar, dançar e celebrar. Garanta seu ingresso!",
+   "id": "f-d2e296c2af",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-01",
      "hora": "19:00"
     }
@@ -6555,6 +6785,72 @@
    "trecho_fonte": "2026-12-01 20:00 até 2026-12-16 20:00 | Primeira Pessoa | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/130051",
    "id": "f-abe3a23c33",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.",
+   "aviso": "",
+   "titulo": "Terças no Ipanema: João Nabuco",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "João Nabuco na série Terças no Ipanema, do Teatro Municipal Ipanema Rubens Corrêa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130585",
+   "trecho_fonte": "2026-12-01 20:00 até 2026-12-01 20:00 | Terças no Ipanema - João Nabuco | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824  | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/130585",
+   "id": "f-dc32fb1c6e",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. O título na Sympla vem cortado. Formato (palestra ou roda) não informado; Livros & Debates presumido pelo tema. Organização independente.",
+   "aviso": "",
+   "titulo": "Entre Direitos e Afetos: relações sem violência",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco, 241",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Encontro sobre relações sem violência, educação dos homens, autonomia feminina e autocuidado, no Centro Cultural da Justiça Federal.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/entre-direitos-e-afetos-relacoes-sem-violencia-educacao-dos-homens-autonomia-feminina-e-autocuida/3610383",
+   "trecho_fonte": "2026-12-02 17:00 até 2026-12-02 19:00 | Entre Direitos e Afetos: relações sem violência. Educação dos homens, autonomia feminina e autocuida | CCJF- Centro Cultural da Justiça Federal, Avenida Rio Branco  | organizador: Joana D'arc Souza | https://www.sympla.com.br/evento/entre-direitos-e-afetos-relacoes-sem-violencia-educacao-dos-homens-autonomia-feminina-e-autocuida/3610383",
+   "id": "f-0879e45644",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -7036,6 +7332,83 @@
     {
      "data": "2026-12-03",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte dá só o período (3/12, 20h, a 20/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "Baby Rei",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Baby Rei\" em temporada no Teatro Municipal Ipanema Rubens Corrêa, de 3 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130588",
+   "trecho_fonte": "2026-12-03 20:00 até 2026-12-20 19:00 | Baby Rei | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824  | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/130588",
+   "id": "f-4282152e9c",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
     }
    ],
    "preco_texto": "",
@@ -7321,6 +7694,47 @@
    "trecho_fonte": "2026-12-04 20:00 até 2026-12-12 20:00 | Procura-se Messias | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129872",
    "id": "f-2428b38459",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte dá só o período (4/12, 20h, a 6/12, 17h); presumi sessões em cada dia, 20h na sexta e no sábado e 17h no domingo.",
+   "aviso": "dias",
+   "titulo": "Música de Cinema – Magia em Concerto",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cidade das Artes",
+   "endereco": "Av. das Américas, 5.300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Concerto com música de cinema na Cidade das Artes, na Barra, de 4 a 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130575",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-06 17:00 | Música de Cinema - Magia em Concerto | Cidade das Artes, Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro, 5300  | organizador: FUNDAÇÃO CIDADE DAS ARTES | https://bileto.sympla.com.br/event/130575",
+   "id": "f-8978d3f62f",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -7792,6 +8206,39 @@
    "sessoes": [
     {
      "data": "2026-12-06",
+     "hora": "14:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.",
+   "aviso": "",
+   "titulo": "Os Piores Pirralhos do Mundo!",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Apresentação de \"Os Piores Pirralhos do Mundo!\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130646",
+   "trecho_fonte": "2026-12-06 14:30 até 2026-12-06 14:30 | OS PIORES PIRRALHOS DO MUNDO! | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n  | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/130646",
+   "id": "f-0d86b3e831",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
      "hora": "16:00"
     }
    ],
@@ -7852,6 +8299,39 @@
    "trecho_fonte": "2026-12-06 17:00 até 2026-12-06 17:00 | CONCERTO COMEMORATIVO ACC 85 ANOS – CANTATA  'CANTA  NAVIDAD' DE JEAN KLEEB | Cidade das Artes, Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro, 5300  | organizador: FUNDAÇÃO CIDADE DAS ARTES | https://bileto.sympla.com.br/event/129611",
    "id": "f-afcf69a61e",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.",
+   "aviso": "",
+   "titulo": "Quem Matou o Leão?",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Apresentação de \"Quem Matou o Leão?\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130643",
+   "trecho_fonte": "2026-12-06 17:30 até 2026-12-06 17:30 | Quem Matou o Leão? | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n  | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/130643",
+   "id": "f-a903a7e2cd",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -8050,6 +8530,39 @@
    "trecho_fonte": "2026-12-08 19:30 até 2026-12-08 19:30 | ANA BISPO CANTA TE AMOS | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126515",
    "id": "f-8079e7c1fb",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.",
+   "aviso": "",
+   "titulo": "Terças no Ipanema: Celso Fonseca",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Celso Fonseca na série Terças no Ipanema, do Teatro Municipal Ipanema Rubens Corrêa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130586",
+   "trecho_fonte": "2026-12-08 20:00 até 2026-12-08 20:00 | Terças no Ipanema - Celso Fonseca | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824  | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/130586",
+   "id": "f-842d0e6d13",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -8512,6 +9025,39 @@
    "sessoes": [
     {
      "data": "2026-12-11",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.",
+   "aviso": "",
+   "titulo": "Quarteto Radamés Gnattali – Festival Radamés Gnattali 120",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa do Choro",
+   "endereco": "Rua da Carioca, 38",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Quarteto Radamés Gnattali toca na Casa do Choro, dentro do Festival Radamés Gnattali 120.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quarteto-radames-gnattali-festival-radames-gnattali-120-casa-do-choro/3664537",
+   "trecho_fonte": "2026-12-11 19:00 até 2026-12-11 20:00 | Quarteto Radamés Gnattali - Festival Radamés Gnattali 120  - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/quarteto-radames-gnattali-festival-radames-gnattali-120-casa-do-choro/3664537",
+   "id": "f-f4a253c2e2",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
      "hora": "20:00"
     }
    ],
@@ -8864,6 +9410,105 @@
    "trecho_fonte": "2026-12-13 17:00 até 2026-12-13 17:00 | ADRIAN CORTÊS - MOONWALK FEST | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127822",
    "id": "f-ad440effa4",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-14",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.",
+   "aviso": "",
+   "titulo": "Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa do Choro",
+   "endereco": "Rua da Carioca, 38",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Quarteto Maogani recebe Daniel Migliavacca na Casa do Choro, dentro do Festival Radamés Gnattali 120.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quarteto-maogani-convida-daniel-migliavacca-festival-radames-gnattali-120-casa-do-choro/3664533",
+   "trecho_fonte": "2026-12-14 19:00 até 2026-12-14 20:00 | Quarteto Maogani convida Daniel Migliavacca - Festival Radamés Gnattali 120  - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/quarteto-maogani-convida-daniel-migliavacca-festival-radames-gnattali-120-casa-do-choro/3664533",
+   "id": "f-aafcf39299",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-15",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.",
+   "aviso": "",
+   "titulo": "Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa do Choro",
+   "endereco": "Rua da Carioca, 38",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Novo Quinteto toca na Casa do Choro, num programa com os nomes de Radamés Gnattali e Oscar Bolão, dentro do Festival Radamés Gnattali 120 anos.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/novo-quinteto-radames-gnattali-e-oscar-bolao-festival-radames-gnattali-120-anos-casa-do-choro/3664544",
+   "trecho_fonte": "2026-12-15 19:00 até 2026-12-15 20:00 | Novo Quinteto - Radamés Gnattali e Oscar Bolão - Festival Radamés Gnattali 120 anos - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/novo-quinteto-radames-gnattali-e-oscar-bolao-festival-radames-gnattali-120-anos-casa-do-choro/3664544",
+   "id": "f-f9d32e3634",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-15",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.",
+   "aviso": "",
+   "titulo": "Terças no Ipanema: Sandra Pêra",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Sandra Pêra na série Terças no Ipanema, do Teatro Municipal Ipanema Rubens Corrêa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130587",
+   "trecho_fonte": "2026-12-15 20:00 até 2026-12-15 20:00 | Terças no Ipanema - Sandra Pêra | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824  | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/130587",
+   "id": "f-2407d306e6",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,
@@ -9300,6 +9945,83 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-07",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-08",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (6/1, 19h, a 31/1, 17h); dias presumidos: o primeiro dia e de quinta a domingo, 19h, e 17h aos domingos. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "Aurora – O Despertar da Mulher Exausta",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Aurora – O Despertar da Mulher Exausta\" em temporada no Teatro Firjan SESI Centro, de 6 a 31 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130603",
+   "trecho_fonte": "2027-01-06 19:00 até 2027-01-31 17:00 | AURORA – O DESPERTAR DA MULHER EXAUSTA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130603",
+   "id": "f-30327b9bf9",
+   "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-08",
      "hora": "19:00"
     },
@@ -9393,6 +10115,67 @@
    "trecho_fonte": "2027-01-08 19:30 até 2027-01-08 19:30 | ELYMAR SANTOS NO SHOW 'ESTRELA LUMINOSA' | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128635",
    "id": "f-619ec2e94c",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (11/1 a 2/2, 19h); o período começa numa segunda e acaba numa terça, então as sessões podem ser no começo da semana. Dias presumidos pela regra da casa (o primeiro dia e de quinta a domingo). Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "O Formigueiro",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"O Formigueiro\" em temporada no Teatro Firjan SESI Centro, de 11 de janeiro a 2 de fevereiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130602",
+   "trecho_fonte": "2027-01-11 19:00 até 2027-02-02 19:00 | O FORMIGUEIRO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130602",
+   "id": "f-d3cd20fe6a",
+   "entrou_em": "2026-11-24"
   },
   {
    "cartaz": null,

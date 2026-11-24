@@ -148,8 +148,8 @@
   ],
   "2026-12-04": [
    {
-    "id": "f-216d584925",
-    "porque": "Em Tijuca.",
+    "id": "f-8978d3f62f",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
@@ -158,8 +158,8 @@
     "automatico": true
    },
    {
-    "id": "f-2428b38459",
-    "porque": "Em Gávea.",
+    "id": "f-216d584925",
+    "porque": "Em Tijuca.",
     "automatico": true
    }
   ],
@@ -187,8 +187,8 @@
     "automatico": true
    },
    {
-    "id": "f-199d2ee2af",
-    "porque": "Em Penha Circular.",
+    "id": "f-0d86b3e831",
+    "porque": "Em Bangu.",
     "automatico": true
    },
    {
@@ -201,6 +201,11 @@
    {
     "id": "f-8079e7c1fb",
     "porque": "Em Cinelândia.",
+    "automatico": true
+   },
+   {
+    "id": "f-842d0e6d13",
+    "porque": "Em Ipanema.",
     "automatico": true
    },
    {
@@ -284,10 +289,27 @@
     "automatico": true
    }
   ],
+  "2026-12-14": [
+   {
+    "id": "f-aafcf39299",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
   "2026-12-15": [
+   {
+    "id": "f-2407d306e6",
+    "porque": "Em Ipanema.",
+    "automatico": true
+   },
    {
     "id": "f-c949923f2e",
     "porque": "Em Gávea.",
+    "automatico": true
+   },
+   {
+    "id": "f-f9d32e3634",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -416,6 +438,20 @@
     "automatico": true
    }
   ],
+  "2027-01-06": [
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-07": [
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
   "2027-01-08": [
    {
     "id": "f-619ec2e94c",
@@ -428,8 +464,8 @@
     "automatico": true
    },
    {
-    "id": "f-cc466cac8b",
-    "porque": "Em Cidade Nova.",
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -438,11 +474,28 @@
     "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2027-01-10": [
    {
     "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-11": [
+   {
+    "id": "f-d3cd20fe6a",
     "porque": "Em Centro.",
     "automatico": true
    }
@@ -474,6 +527,11 @@
     "id": "f-f16a9f483b",
     "porque": "Em Bangu.",
     "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2027-01-16": [
@@ -498,11 +556,21 @@
     "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2027-01-21": [
    {
     "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
     "porque": "Em Centro.",
     "automatico": true
    }
@@ -516,6 +584,18 @@
    {
     "id": "f-e76aa0e4f0",
     "porque": "Em Pechincha.",
+    "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-23": [
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ]
@@ -551,6 +631,7 @@
   "2026-12-11",
   "2026-12-12",
   "2026-12-13",
+  "2026-12-14",
   "2026-12-15",
   "2026-12-16",
   "2026-12-17",
@@ -562,14 +643,18 @@
   "2026-12-26",
   "2026-12-28",
   "2027-01-02",
+  "2027-01-06",
+  "2027-01-07",
   "2027-01-08",
   "2027-01-09",
   "2027-01-10",
+  "2027-01-11",
   "2027-01-14",
   "2027-01-15",
   "2027-01-16",
   "2027-01-17",
   "2027-01-21",
-  "2027-01-22"
+  "2027-01-22",
+  "2027-01-23"
  ]
 }

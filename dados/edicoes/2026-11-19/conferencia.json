@@ -238,6 +238,46 @@
    "veredito": "duvida",
    "detalhe": "A fonte não diz se é apresentação ou prática aberta (aula); se for curso pago, sai.",
    "resolucao": ""
+  },
+  {
+   "titulo": "Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-f9d32e3634"
+  },
+  {
+   "titulo": "Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-870b74aa68"
+  },
+  {
+   "titulo": "Branka",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-5b47b5a89c"
+  },
+  {
+   "titulo": "Samba d'Jorge, de Jorge Barbosa",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-ab15d40606"
+  },
+  {
+   "titulo": "Andrezão do Cacique",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-25e6d54419"
   }
  ]
 }
