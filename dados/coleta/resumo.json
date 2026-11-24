@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-24 09:15 UTC",
- "segundos": 162,
+ "feito_em": "2026-11-24 11:56 UTC",
+ "segundos": 174,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40977,
+   "caracteres": 40949,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 36931,
+   "caracteres": 37534,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 296,
+   "mencoes_de_data": 313,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -541,28 +541,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 12 página(s)"
-   ],
-   "caracteres": 31454,
-   "url_final": "https://www.realgabinete.com.br",
-   "paginas": [
-    "https://www.realgabinete.com.br",
-    "https://www.realgabinete.com.br/Agenda",
-    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
-    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
-   ],
-   "mencoes_de_data": 4,
-   "situacao": "coletada",
-   "arquivo": "F049.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -672,19 +653,15 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 6 página(s)"
+    "texto de 2 página(s)"
    ],
-   "caracteres": 8238,
+   "caracteres": 3143,
    "url_final": "https://teatrorivalrefit.com.br",
    "paginas": [
     "https://teatrorivalrefit.com.br",
-    "https://teatrorivalrefit.com.br/eventos/",
-    "https://teatrorivalrefit.com.br/",
-    "https://teatrorivalrefit.com.br/page/2/",
-    "https://teatrorivalrefit.com.br/page/3/",
-    "https://teatrorivalrefit.com.br/page/60/"
+    "https://teatrorivalrefit.com.br/eventos/"
    ],
-   "mencoes_de_data": 43,
+   "mencoes_de_data": 10,
    "situacao": "coletada",
    "arquivo": "F062.txt"
   },
@@ -736,29 +713,9 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [
-    "feed (1 itens)",
-    "texto de 12 página(s)"
-   ],
-   "caracteres": 88038,
-   "url_final": "https://www.anitaschwartz.com.br/",
-   "paginas": [
-    "https://www.anitaschwartz.com.br/",
-    "https://www.anitaschwartz.com.br/exposicoes/",
-    "https://www.anitaschwartz.com.br/exposicoes/nuas-e-vestidas-de-cristina-salgado/",
-    "https://www.anitaschwartz.com.br/2026/10/save-the-date-quintal-de-rosana-palazyan/",
-    "https://www.anitaschwartz.com.br/2026/08/save-the-date-nuas-e-vestidas-de-cristina-saldago/",
-    "https://www.anitaschwartz.com.br/2026/04/luciano-figueiredo-inaugura-a-individual-por-toda-parte-escreverei-o-teu-nome/",
-    "https://www.anitaschwartz.com.br/2026/04/michelle-rosset-participa-da-exposicao-coletiva-espacotempo/",
-    "https://www.anitaschwartz.com.br/2026/04/veludo-exposicao-coletiva-abre-dia-14-04-2026-com-curadoria-de-ulisses-carrilho/",
-    "https://www.anitaschwartz.com.br/2026/03/cristina-salgado-inaugura-instalacao-no-octogono-da-pinacote-da-sao-paulo/",
-    "https://www.anitaschwartz.com.br/2026/02/marjo-mizumoto-inaugura-aonde-eu-queria-estar/",
-    "https://www.anitaschwartz.com.br/2025/11/apresentando-abertura-da-exposicao-gas-25-26/",
-    "https://www.anitaschwartz.com.br/2025/11/visita-guiada-com-pedro-valera/"
-   ],
-   "mencoes_de_data": 370,
-   "situacao": "coletada",
-   "arquivo": "F065.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 403)"
   },
   {
    "ids": [
@@ -804,7 +761,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6633,
+   "caracteres": 6661,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1543,7 +1500,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1803,
+   "caracteres": 2083,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1551,7 +1508,7 @@
     "https://silviacintra.com.br/en/exhibitions/",
     "https://silviacintra.com.br/exposicoes/o-silencio/"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 1,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F112.txt"
   },
@@ -1824,7 +1781,7 @@
     "feed (10 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 18777,
+   "caracteres": 18719,
    "url_final": "https://museudopontal.org.br",
    "paginas": [
     "https://museudopontal.org.br",
@@ -2046,7 +2003,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63338,
+   "caracteres": 63350,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",

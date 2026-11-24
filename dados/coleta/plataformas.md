@@ -48,7 +48,7 @@ Números da última ronda. Os dados brutos ficam no ramo `coleta-bruta` (`plataf
 - Falhou: Festival do Rio (código 404)
 - Falhou: Instituto Moreira Salles RJ (código 404)
 
-## Sympla: 2016 eventos no Rio (87 páginas lidas)
+## Sympla: 2017 eventos no Rio (88 páginas lidas)
 
 - Sem falhas.
 
