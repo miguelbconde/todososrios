@@ -1,14 +1,14 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-24 11:56 UTC, em 174 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-24 12:55 UTC, em 182 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **51**
-- não respondeu: **20**
+- coletada: **53**
+- não respondeu: **19**
 - coletada, mas sem datas à vista: **14**
-- recusou a visita: **4**
+- recusou a visita: **3**
 
 ## Fonte a fonte
 
@@ -16,6 +16,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 |---|---|---|
 | A Gentil Carioca | coletada | texto de 13 página(s) |
 | Academia Brasileira de Letras (ABL) | coletada | texto de 12 página(s) |
+| Anita Schwartz Galeria de Arte | coletada | feed (1 itens), texto de 12 página(s) |
 | ArtRio | coletada | texto de 12 página(s) |
 | Biblioteca Parque Estadual; Bibliotecas Parque de Manguinhos e Rocinha | coletada | feed (10 itens), texto de 7 página(s) |
 | CCBB Rio | coletada | texto de 12 página(s) |
@@ -52,6 +53,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Pinakotheke Cultural | coletada | texto de 14 página(s) |
 | Portas Vilaseca Galeria | coletada | texto de 6 página(s) |
 | Qualistage | coletada | texto de 11 página(s) |
+| Real Gabinete Português de Leitura | coletada | texto de 12 página(s) |
 | Rio Scenarium | coletada | texto de 2 página(s) |
 | Sala Cecília Meireles | coletada | texto de 12 página(s) |
 | Teatro Bangu Shopping | coletada | texto de 13 página(s) |
@@ -59,7 +61,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro Multiplan | coletada | texto de 9 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
-| Teatro Rival Petrobras | coletada | texto de 2 página(s) |
+| Teatro Rival Petrobras | coletada | texto de 6 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
 | Teatro das Artes | coletada | dados estruturados (21 eventos), texto de 13 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
@@ -98,8 +100,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | É Tudo Verdade | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
 | Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
-| Real Gabinete Português de Leitura | não respondeu: URLError: <urlopen error timed out> |  |
-| Anita Schwartz Galeria de Arte | recusou a visita (código 403) |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
 | Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |

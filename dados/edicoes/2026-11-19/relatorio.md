@@ -1,14 +1,14 @@
 # Relatório da edição — Programação de hoje até 23 de janeiro de 2027
 
-- Eventos e exposições: **746** (703 eventos com 5527 sessões; 43 em cartaz)
+- Eventos e exposições: **747** (704 eventos com 5540 sessões; 43 em cartaz)
 - Grátis: **37** · preço popular (até R$ 40): **118**
-- Conferidos sem ressalva: **738** · a confirmar: **8**
+- Conferidos sem ressalva: **739** · a confirmar: **8**
 
 ## Distribuição por região
 
 - Centro: 138
 - Zona Sul: 219
-- Zona Sudoeste: 153
+- Zona Sudoeste: 154
 - Zona Norte: 177
 - Zona Oeste: 59
 
@@ -933,6 +933,7 @@ Regras de curadoria:
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.

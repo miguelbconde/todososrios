@@ -2,7 +2,7 @@
 
 Números da última ronda. Os dados brutos ficam no ramo `coleta-bruta` (`plataformas.json`).
 
-## Ingresso.com (cinema): 5039 sessões, 61 filmes
+## Ingresso.com (cinema): 5052 sessões, 61 filmes
 
 - Cine Araújo Jardim Guadalupe: 0 sessões
 - Cine Odeon: 24 sessões
@@ -16,7 +16,7 @@ Números da última ronda. Os dados brutos ficam no ramo `coleta-bruta` (`plataf
 - Cinemark Downtown: 448 sessões
 - Cinemark Metropolitano Barra: 259 sessões
 - Cinemark Village Mall: 170 sessões
-- Cinépolis Rio Design Barra: 140 sessões
+- Cinépolis Rio Design Barra: 153 sessões
 - Cinesystem Américas: 181 sessões
 - Cinesystem Bangu - Rio de Janeiro: 141 sessões
 - Cinesystem Belas Artes Botafogo: 85 sessões
@@ -48,7 +48,7 @@ Números da última ronda. Os dados brutos ficam no ramo `coleta-bruta` (`plataf
 - Falhou: Festival do Rio (código 404)
 - Falhou: Instituto Moreira Salles RJ (código 404)
 
-## Sympla: 2017 eventos no Rio (88 páginas lidas)
+## Sympla: 2021 eventos no Rio (88 páginas lidas)
 
 - Sem falhas.
 

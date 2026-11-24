@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-24 11:56 UTC",
- "segundos": 174,
+ "feito_em": "2026-11-24 12:55 UTC",
+ "segundos": 182,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40949,
+   "caracteres": 40970,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -160,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9500,
+   "caracteres": 9914,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37534,
+   "caracteres": 37839,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 313,
+   "mencoes_de_data": 319,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -229,7 +229,7 @@
     "feed (15 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 71568,
+   "caracteres": 71567,
    "url_final": "https://www.correios.com.br/",
    "paginas": [
     "https://www.correios.com.br/",
@@ -321,7 +321,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 36399,
+   "caracteres": 36224,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -403,7 +403,7 @@
     "feed (3 itens)",
     "texto de 1 página(s)"
    ],
-   "caracteres": 1542,
+   "caracteres": 5539,
    "url_final": "https://www.d-edge.com.br/",
    "paginas": [
     "https://www.d-edge.com.br/"
@@ -484,7 +484,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 8467,
+   "caracteres": 8464,
    "url_final": "https://www.riocarnaval.com/",
    "paginas": [
     "https://www.riocarnaval.com/",
@@ -541,9 +541,28 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 31454,
+   "url_final": "https://www.realgabinete.com.br",
+   "paginas": [
+    "https://www.realgabinete.com.br",
+    "https://www.realgabinete.com.br/Agenda",
+    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
+    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
+   ],
+   "mencoes_de_data": 4,
+   "situacao": "coletada",
+   "arquivo": "F049.txt"
   },
   {
    "ids": [
@@ -579,7 +598,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 27546,
+   "caracteres": 27612,
    "url_final": "https://salaceciliameireles.rj.gov.br",
    "paginas": [
     "https://salaceciliameireles.rj.gov.br",
@@ -653,15 +672,19 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 2 página(s)"
+    "texto de 6 página(s)"
    ],
-   "caracteres": 3143,
+   "caracteres": 8238,
    "url_final": "https://teatrorivalrefit.com.br",
    "paginas": [
     "https://teatrorivalrefit.com.br",
-    "https://teatrorivalrefit.com.br/eventos/"
+    "https://teatrorivalrefit.com.br/eventos/",
+    "https://teatrorivalrefit.com.br/",
+    "https://teatrorivalrefit.com.br/page/2/",
+    "https://teatrorivalrefit.com.br/page/3/",
+    "https://teatrorivalrefit.com.br/page/60/"
    ],
-   "mencoes_de_data": 10,
+   "mencoes_de_data": 43,
    "situacao": "coletada",
    "arquivo": "F062.txt"
   },
@@ -713,9 +736,29 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "recusou a visita (código 403)"
+   "degraus": [
+    "feed (1 itens)",
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 88038,
+   "url_final": "https://www.anitaschwartz.com.br/",
+   "paginas": [
+    "https://www.anitaschwartz.com.br/",
+    "https://www.anitaschwartz.com.br/exposicoes/",
+    "https://www.anitaschwartz.com.br/exposicoes/nuas-e-vestidas-de-cristina-salgado/",
+    "https://www.anitaschwartz.com.br/2026/10/save-the-date-quintal-de-rosana-palazyan/",
+    "https://www.anitaschwartz.com.br/2026/08/save-the-date-nuas-e-vestidas-de-cristina-saldago/",
+    "https://www.anitaschwartz.com.br/2026/04/luciano-figueiredo-inaugura-a-individual-por-toda-parte-escreverei-o-teu-nome/",
+    "https://www.anitaschwartz.com.br/2026/04/michelle-rosset-participa-da-exposicao-coletiva-espacotempo/",
+    "https://www.anitaschwartz.com.br/2026/04/veludo-exposicao-coletiva-abre-dia-14-04-2026-com-curadoria-de-ulisses-carrilho/",
+    "https://www.anitaschwartz.com.br/2026/03/cristina-salgado-inaugura-instalacao-no-octogono-da-pinacote-da-sao-paulo/",
+    "https://www.anitaschwartz.com.br/2026/02/marjo-mizumoto-inaugura-aonde-eu-queria-estar/",
+    "https://www.anitaschwartz.com.br/2025/11/apresentando-abertura-da-exposicao-gas-25-26/",
+    "https://www.anitaschwartz.com.br/2025/11/visita-guiada-com-pedro-valera/"
+   ],
+   "mencoes_de_data": 370,
+   "situacao": "coletada",
+   "arquivo": "F065.txt"
   },
   {
    "ids": [
@@ -761,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6661,
+   "caracteres": 6651,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -858,7 +901,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 97899,
+   "caracteres": 97771,
    "url_final": "https://casafirjan.com.br/",
    "paginas": [
     "https://casafirjan.com.br/",
@@ -1232,7 +1275,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 9190,
+   "caracteres": 9250,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1500,7 +1543,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 2083,
+   "caracteres": 1675,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1508,7 +1551,7 @@
     "https://silviacintra.com.br/en/exhibitions/",
     "https://silviacintra.com.br/exposicoes/o-silencio/"
    ],
-   "mencoes_de_data": 1,
+   "mencoes_de_data": 0,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F112.txt"
   },
@@ -2003,7 +2046,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63350,
+   "caracteres": 63318,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",

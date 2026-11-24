@@ -1,5 +1,5 @@
 {
- "feito_em": "2026-11-24T11:56:20Z",
+ "feito_em": "2026-11-24T12:55:16Z",
  "fichas": [
   {
    "titulo": "Camisas Negras",
@@ -18632,6 +18632,102 @@
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1493-31673"
+  },
+  {
+   "titulo": "Enfeitiçadas: Bem-Vindos A Hexe",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinépolis Rio Design Barra",
+   "endereco": "Avenida das Américas 7777",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "13:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753939"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753943"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753724"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "13:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753820"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753144"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "13:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753504"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753910"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "13:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753617"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753817"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "13:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753653"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753863"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "13:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753861"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "16:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87753494"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 77,51 a R$ 100,31 (preço da plataforma)",
+   "preco_min": 77.51,
+   "preco_max": 100.31,
+   "gratis": false,
+   "classificacao": "10 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Título original: Hexed. Direção de Josie Trinidad, Jason Hand, Fawn Veerasunthorn. Estados Unidos, 2026, 103 min.",
+   "sinopse_en": "Original title: Hexed. Directed by Josie Trinidad, Jason Hand, Fawn Veerasunthorn. United States, 2026, 103 min.",
+   "sinopse_es": "Título original: Hexed. Dirección de Josie Trinidad, Jason Hand, Fawn Veerasunthorn. Estados Unidos, 2026, 103 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=rio-de-janeiro",
+   "link_espaco": "",
+   "trecho_fonte": "Ingresso.com · Cinépolis Rio Design Barra · Enfeitiçadas: Bem-Vindos A Hexe · 2026-11-26 13:40 Sala 1 R$ 100,31; 2026-11-26 16:20 Sala 1 R$ 100,31; 2026-11-27 16:20 Sala 1 R$ 100,31; 2026-11-28 13:40 Sala 1 R$ 100,31; 2026-11-28 16:20 Sala 1 R$ 100,31; 2026-11-29 13:40 Sala 1 R$ 100,31; 2026-11-29 16:20 Sala 1 R$ 100,31; 2026-11-30 13:40 Sala 1 R$ 77,51; 2026-11-30 16:20 Sala 1 R$ 77,51; 2026-12-01 13:40 Sala 1 R$ 77,51; 2026-12-01 16:20 Sala 1 R$ 77,51; 2026-12-02 13:40 Sala 1 R$ 77,51; 2026-12-02 16:20 Sala 1 R$ 77,51",
+   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
+   "automatica": true,
+   "id": "2026-11-19-cine-1493-32983"
   },
   {
    "titulo": "Entrando Numa Grande Fria",
