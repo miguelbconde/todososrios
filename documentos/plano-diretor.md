@@ -55,7 +55,7 @@ Também entram exposições em cartaz, rodas de samba e choro, bailes de cultura
 
 ## 5. Fontes: arquitetura em camadas
 
-O mapa completo está em `dados/fontes.csv`. Ele tem 274 entradas, cada uma com área, bairro, região, esfera (pública, comunitária, privada…), método de coleta e situação de verificação.
+O mapa completo está em `dados/fontes.csv`. Ele tem 276 entradas, cada uma com área, bairro, região, esfera (pública, comunitária, privada…), método de coleta e situação de verificação.
 
 | Camada | Papel | Exemplos |
 |---|---|---|
@@ -297,6 +297,7 @@ A tarefa diária de 19/11 parou em 20 e 21/11: o plano de uso acabou antes de el
 - **Temporadas sem os dias:** quando a fonte (em geral a Sympla) dá só o período de uma peça, a ficha lista sessões de quinta a domingo e leva um aviso visível para conferir os dias no link do evento (também nos calendários).
 - Sesc RJ e Arte que Acontece entram por padrão na rotina, não como fonte opcional. Os dois sites permitem a leitura nas regras para robôs. O Arte que Acontece bloqueia pelo nome os robôs de IA e aceita uso como referência: serve de radar de fatos, e a ficha se escreve da fonte oficial do espaço. Leitura dedicada em `ferramentas/coleta/agendas.py`, na ronda diária.
 - Revista CONCERTO (concerto.com.br, liberada na lista de sites em 24/11/2026): o roteiro diário de música clássica entra por padrão, só a parte da cidade do Rio. Serve de radar de fatos, com sinopse própria; a fonte oficial do espaço prevalece quando existe. Leitura no mesmo programa das agendas dedicadas.
+- FGV Arte (arte.fgv.br, Praia de Botafogo, 190; liberada na lista de sites em 24/11/2026): entra no Núcleo como fonte F276, lida todo dia pela coleta automática de sites. Exposições, palestras, debates e atividades educativas. A página inicial traz o que está em cartaz e o que vem aí; a página de agenda mistura itens antigos. Gratuidade a confirmar a cada ficha.
 - Robôs só como último recurso (revisão no mesmo dia): é crucial para a adoção do site que tudo rode bem e seja confiável, e o robô erra mais que a redação. Toda ficha de evento passa a ser redigida e conferida pela redação, inclusive a rede municipal na Sympla e os palcos públicos na Fever; as fichas automáticas ficam desligadas (`FICHAS_DO_ROBO` em `ferramentas/montar.py`). Só voltam se o consumo do plano inviabilizar o uso do Claude em outros projetos. Continuam com o robô as tarefas mecânicas: coleta, grade de cinema (dados prontos da Ingresso.com), montagem, publicação, alarme e "A boa" de reserva, que só aparece se a redação falhar.
 
 - **"A boa" com 4 destaques por dia**, um em cada região (Centro, Zona Sul, Zona Norte, Zona Oeste), sem dizer isso no site; o gerador cobra a regra e a regra fixa do robô segue o mesmo desenho.
