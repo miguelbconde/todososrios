@@ -5970,7 +5970,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente. A fonte não dá o bairro; a Rua do Livramento fica entre Saúde e Gamboa, conferir.",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização independente. Endereço completo e bairro informados pela coordenação editorial em 24/11.",
    "aviso": "",
    "titulo": "Samba da Constituição canta Djavan",
    "areas": [
@@ -5978,15 +5978,16 @@
    ],
    "tipo": "evento",
    "local": "Mocamba Livre",
-   "endereco": "Rua do Livramento",
-   "bairro": "Saúde",
+   "endereco": "Rua do Livramento, 98",
+   "bairro": "Gamboa",
    "regiao": "Centro",
    "sinopse": "O Samba da Constituição canta Djavan no Mocamba Livre.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/samba-da-constituicao-canta-djavan/3664302",
    "trecho_fonte": "2026-12-11 18:00 até 2026-12-12 02:00 | SAMBA DA CONSTITUIÇÃO CANTA DJAVAN | Mocamba Livre, Rua do Livramento  | organizador: jonathan machado | https://www.sympla.com.br/evento/samba-da-constituicao-canta-djavan/3664302",
    "id": "f-02f112b40f",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-24"
   },
   {
    "cartaz": null,
