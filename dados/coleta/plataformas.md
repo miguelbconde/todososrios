@@ -48,10 +48,14 @@ Números da última ronda. Os dados brutos ficam no ramo `coleta-bruta` (`plataf
 - Falhou: Festival do Rio (código 404)
 - Falhou: Instituto Moreira Salles RJ (código 404)
 
-## Sympla: 2020 eventos no Rio (88 páginas lidas)
+## Sympla: 2016 eventos no Rio (87 páginas lidas)
 
 - Sem falhas.
 
 ## Fever: 61 eventos no Rio (30 candidatos para a redação, 31 descartados pela regra)
+
+- Sem falhas.
+
+## Uhuu: 37 eventos no Rio (16 páginas lidas; 25 candidatos para a redação, 0 descartados pela regra)
 
 - Sem falhas.

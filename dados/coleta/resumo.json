@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-24 06:00 UTC",
- "segundos": 181,
+ "feito_em": "2026-11-24 09:15 UTC",
+ "segundos": 162,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 7 página(s)"
    ],
-   "caracteres": 40902,
+   "caracteres": 40977,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -160,7 +160,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9914,
+   "caracteres": 9500,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +195,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37073,
+   "caracteres": 36931,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +211,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 299,
+   "mencoes_de_data": 296,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -403,7 +403,7 @@
     "feed (3 itens)",
     "texto de 1 página(s)"
    ],
-   "caracteres": 5539,
+   "caracteres": 1542,
    "url_final": "https://www.d-edge.com.br/",
    "paginas": [
     "https://www.d-edge.com.br/"
@@ -484,7 +484,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 8464,
+   "caracteres": 8467,
    "url_final": "https://www.riocarnaval.com/",
    "paginas": [
     "https://www.riocarnaval.com/",
@@ -804,7 +804,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6648,
+   "caracteres": 6633,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1275,7 +1275,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 9120,
+   "caracteres": 9190,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1543,7 +1543,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1741,
+   "caracteres": 1803,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1551,7 +1551,7 @@
     "https://silviacintra.com.br/en/exhibitions/",
     "https://silviacintra.com.br/exposicoes/o-silencio/"
    ],
-   "mencoes_de_data": 1,
+   "mencoes_de_data": 0,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F112.txt"
   },
@@ -1702,7 +1702,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34081,
+   "caracteres": 34043,
    "url_final": "https://vivorio.com.br",
    "paginas": [
     "https://vivorio.com.br",
@@ -2046,7 +2046,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63216,
+   "caracteres": 63338,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
