@@ -10,9 +10,7 @@
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 5052 sessões de cinema
-- Sympla: 2021 eventos no Rio
-- Fever: 61 eventos no Rio
+- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
 
 ## Fichas automáticas (sem IA)
 
