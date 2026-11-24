@@ -329,3 +329,21 @@ Ressalva registrada: o que mais diz "Rio" tende a ser a marca, ainda por desenha
 - Sobre o Mar Largo: Observador (02/08/2026); ArchDaily.
 
 Limite deste guia: SDJB, capas da Elenco e símbolo do IV Centenário foram observados diretamente (seções 2.6 a 2.8). As demais referências foram descritas a partir de textos. Imagens enviadas pela coordenação editorial refinam as decisões da seção 4.
+
+## 7. Estudo I: ajustes de uso (24/11/2026, aplicado ao site no mesmo dia)
+
+Avaliação geral da identidade e da experiência de uso, no celular e no computador. Conclusão: a identidade visual fica como está; os ajustes são de uso. Prévia em `docs/estudo-i/`, gerada por `ferramentas/estudo_i.py` (o mesmo programa aplicou as mudanças ao modelo do site, com `--site`).
+
+- **Preço.** Sem etiqueta quando a fonte não informa; a ficha aberta diz "Preço: consulte a fonte oficial".
+- **Sem a etiqueta "a confirmar"** nas fichas: o aviso de temporada sem os dias já cumpre esse papel.
+- **Celular.** Filtros numa faixa só, logo abaixo da busca: Só grátis, Até R$ 40, Na rua, as seções e "Região" (abre a linha das regiões). "As boas do mês", "Em cartaz" e "Escolher data" (abre o calendário do aparelho) ficam numa linha própria; a faixa fica só com os dias.
+- **Computador (a partir de 1080 px).** Duas colunas. Na principal, a busca e a programação. Na lateral, fixa, um painel de navegação: calendário do mês, com ponto de sol nos dias que têm uma das boas do mês; "As boas do mês" e "Em cartaz"; todos os filtros à vista (Preço e lugar, Seções, Região) e "Limpar filtros". Entre 720 e 1080 px, a faixa de dias ganha setas.
+- **"Seções", não "Áreas"**, nos rótulos, para não confundir área com região.
+- **Grade dos cinemas** recolhida numa linha; aberta, mostra os cinemas agrupados por região. Abre sozinha com o filtro Cinema.
+- **Linha de apresentação sob a marca:** "A cidade inteira, de hoje a dois meses à frente. Aberta, gratuita, sem cadastro." (também em inglês e espanhol).
+- **"A cidade inteira"** (gráfico por região) sai da página: anunciada assim, soava como propaganda. A métrica é de uso interno e continua nos relatórios.
+- **"Receba a agenda no celular"** fica no pé da página, antes do "Sobre".
+- **Lista sem fios entre os eventos:** a hora em azul e o título em serifa já separam um do outro. Vale para a lista a regra da seção 2.1 (espaço no lugar de linhas).
+- **Mantidos por decisão da coordenação editorial:** tamanho das etiquetas e dos botões (testados no celular, sem problema); itálico do "por que ir" (frase curta, marca a voz da redação); os cinco botões da ficha aberta (reforçam a cara de compilação, de banco de dados); peso da página (abre rápido; só mexer se ficar lento, e nunca à custa de função ou de escopo).
+
+**Correção (24/11/2026).** A marca em uso no site é a versão empilhada ("TODOS OS" em Gabarito sobre "Rios." em Source Serif 4, com o ponto de sol), e não o E4 ("TODOSOSRIOS" num só fluxo) descrito na seção 4.
