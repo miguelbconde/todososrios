@@ -31,9 +31,9 @@ jobs:
       - name: Extração das plataformas de ingresso (Ingresso.com, Sympla, Fever e Uhuu)
         run: |
           python3 ferramentas/coleta/plataformas.py coleta-bruta && python3 ferramentas/coleta/triagem_sympla.py coleta-bruta || echo "extração das plataformas falhou; a ronda segue"
-      - name: Agendas dedicadas (Sesc RJ e Arte que Acontece)
+      - name: Agendas dedicadas (Sesc RJ, Arte que Acontece e Revista CONCERTO)
         run: |
-          python3 ferramentas/coleta/agendas.py coleta-bruta || echo "ALARME: as agendas dedicadas (Sesc, Arte que Acontece) falharam" >> alarmes.txt
+          python3 ferramentas/coleta/agendas.py coleta-bruta || echo "ALARME: as agendas dedicadas (Sesc, Arte que Acontece, CONCERTO) falharam" >> alarmes.txt
       - name: Guardar o texto bruto num ramo temporário (fora do site e da linha principal; substituído a cada ronda)
         run: |
           cd coleta-bruta

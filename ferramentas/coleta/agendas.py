@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Agendas dedicadas da ronda diária (desde 22/11/2026): Sesc RJ e Arte que Acontece.
+"""Agendas dedicadas da ronda diária (desde 22/11/2026): Sesc RJ, Arte que Acontece e (desde 24/11/2026) Revista CONCERTO.
 
 Por decisão editorial, os eventos dessas duas fontes entram por padrão na rotina da redação.
 Este programa comum (sem IA) lê as agendas e grava, na pasta da ronda, dois arquivos que a
@@ -10,9 +10,12 @@ peneira e a redação leem como qualquer outra fonte:
   FAGENDA_arteacontece.txt  exposições em cartaz no Rio segundo o Arte que Acontece, uma linha por
                             exposição, com período, lugar e link (radar de fatos: a ficha se escreve
                             a partir da fonte oficial do espaço, sem copiar texto do portal)
+  FAGENDA_concerto.txt      concertos, recitais, óperas e balés na cidade do Rio segundo o roteiro diário da
+                            Revista CONCERTO, uma linha por apresentação, com dia, hora, local, endereço, ingressos
+                            e o programa (radar de fatos, como o Arte que Acontece)
 
 Boas maneiras: identifica-se como TodosOsRiosBot, só lê páginas públicas sem login, com pausa entre
-visitas; os dois sites permitem a leitura nas suas regras para robôs. Nunca guarda dado de pessoas.
+visitas; os sites permitem a leitura nas suas regras para robôs. Nunca guarda dado de pessoas.
 Uso: python3 agendas.py <pasta da ronda>
 """
 import datetime as dt
@@ -202,10 +205,65 @@ def arte_que_acontece(pasta):
     return {"exposicoes_no_rio": len(expos), "falhas": falhas}
 
 
+# ------------------------------------------------------------------ Revista CONCERTO
+CONCERTO = "https://www.concerto.com.br/roteiros"
+JANELA_CONCERTO = 62   # a revista publica o roteiro com cerca de um mês de antecedência; lemos dois meses
+
+
+def _campo_concerto(li, classe, rotulo):
+    m = re.search(r'<span class="%s[^"]*">\s*<label>%s:\s*</label>(.*?)</span>' % (classe, rotulo), li, re.S)
+    return limpo(m.group(1)) if m else ""
+
+
+def concerto(pasta):
+    """Roteiro diário da Revista CONCERTO (desde 24/11/2026): uma página por dia, com todas as apresentações
+    de música clássica do país. Ficam só as da cidade do Rio."""
+    linhas, falhas, dias_lidos, dias_com_rio, vistos = [], [], 0, 0, set()
+    for k in range(JANELA_CONCERTO + 1):
+        dia = HOJE + dt.timedelta(days=k)
+        url = f"{CONCERTO}/{dia.isoformat()}"
+        st, txt = baixar(url)
+        time.sleep(PAUSA)
+        if st != 200:
+            falhas.append(f"{dia.isoformat()} (código {st})")
+            if len(falhas) >= 5:
+                break
+            continue
+        dias_lidos += 1
+        achou = False
+        for li in re.findall(r'<li>\s*<span class="title">(.*?)</li>', txt, re.S):
+            cidade = _campo_concerto(li, "premise", "Cidade")
+            if not cidade.lower().startswith("rio de janeiro"):
+                continue
+            m = re.search(r'<label class="date-title">(.*?)</label>(.*?)</span>', li, re.S)
+            hora = limpo(m.group(1)).replace("h", ":") if m else ""
+            titulo = limpo(m.group(2)) if m else ""
+            d = re.search(r'<span class="description">(.*?)</span>', li, re.S)
+            programa = limpo(d.group(1), 900) if d else ""
+            local = _campo_concerto(li, "premise", "Local")
+            endereco = _campo_concerto(li, "address", "Endereço")
+            ingressos = _campo_concerto(li, "ingressos", "Ingressos")
+            chave = (dia, hora, titulo, local)
+            if not titulo or chave in vistos:
+                continue
+            vistos.add(chave); achou = True
+            linhas.append(f"{dia.isoformat()} {hora} | {titulo} | {local}{' — ' + endereco if endereco else ''} | "
+                          f"ingressos: {ingressos or 'não informado'} | {url} | programa segundo a revista: {programa}")
+        dias_com_rio += achou
+    with open(os.path.join(pasta, "FAGENDA_concerto.txt"), "w", encoding="utf-8") as f:
+        f.write("FAGENDA_concerto | Revista CONCERTO — roteiro de música clássica na cidade do Rio (radar de fatos: "
+                "escreva a ficha com texto próprio; se houver fonte oficial do espaço na ronda, ela prevalece) | " + CONCERTO + "\n")
+        f.write("## apresentações, por data\n")
+        f.write("\n".join(linhas) + "\n")
+    if dias_lidos and not linhas:
+        falhas.append("nenhuma apresentação no Rio em dois meses (o formato da página pode ter mudado)")
+    return {"dias_lidos": dias_lidos, "dias_com_rio": dias_com_rio, "apresentacoes_no_rio": len(linhas), "falhas": falhas}
+
+
 def main(pasta):
     os.makedirs(pasta, exist_ok=True)
     resumo = {"feito_em": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-    for nome, func in (("sesc", sesc), ("arte_que_acontece", arte_que_acontece)):
+    for nome, func in (("sesc", sesc), ("arte_que_acontece", arte_que_acontece), ("concerto", concerto)):
         try:
             resumo[nome] = func(pasta)
         except Exception as erro:  # uma agenda nunca derruba a ronda
