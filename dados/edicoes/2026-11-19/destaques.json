@@ -97,19 +97,16 @@
   ],
   "2026-12-01": [
    {
-    "id": "f-336a21fcd4",
-    "porque": "Em Ipanema.",
-    "automatico": true
-   },
-   {
-    "id": "f-f2b607a1c8",
-    "porque": "Em Lagoa.",
-    "automatico": true
+    "id": "f-dc32fb1c6e",
+    "porque": "João Nabuco num palco municipal de Ipanema, na série das terças."
    },
    {
     "id": "f-5f105e75e1",
-    "porque": "Em Tijuca.",
-    "automatico": true
+    "porque": "Chance de ver de perto o processo de uma criação em dança, na Tijuca."
+   },
+   {
+    "id": "f-f2b607a1c8",
+    "porque": "Lançamento com conversa com o autor, numa terça mais calma."
    }
   ],
   "2026-12-02": [
@@ -697,7 +694,6 @@
   }
  ],
  "automaticos": [
-  "2026-12-01",
   "2026-12-02",
   "2026-12-03",
   "2026-12-04",

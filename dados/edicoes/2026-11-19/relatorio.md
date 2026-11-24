@@ -383,7 +383,7 @@
 - **28/11**: Gilsons; Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo; Festival Arpoarte 2026
 - **29/11**: Gilsons; Rio Blues Festival; Os Saltimbancos
 - **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher
-- **01/12**: Jazz em Dobro: Beth Carvalho & Maria Bethânia; Um Brasileiro em Israel: lançamento e bate-papo; Ensaio aberto: X-I-N’TEA
+- **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
 - **02/12**: Tori: Areia e Voz; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco; Terreiro de Mangueira – Cordel Negro
 - **03/12**: Leo Gandelman: Cosmos; Jhordan Matheus: Passando de Fase; Dia de Jogo
 - **04/12**: Música de Cinema – Magia em Concerto; Dia de Jogo; 1º Encontro de Violonistas Compositores: Andrea Perrone
