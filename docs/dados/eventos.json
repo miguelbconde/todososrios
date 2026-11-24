@@ -4066,6 +4066,42 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 57,60",
+   "preco_min": 57.6,
+   "preco_max": 57.6,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo ao Coldplay",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro dos Quatro",
+   "endereco": "Rua Marquês de São Vicente, 52, 2º piso (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca sucessos do Coldplay num espaço iluminado por velas, no Teatro dos Quatro, na Gávea. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/701016",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-11-26 19:00 | Candlelight: Tributo aos Coldplay | Teatro dos Quatro, R. Marquês de São Vicente, 52 - 2° piso - Gávea, Rio de Janeiro, 22451-040 | a partir de R$ 57.6 | datas: 2026-11-26 19:00 | https://feverup.com/m/701016 || No Teatro dos Quatro, na Gávea, um quarteto de cordas revisita os grandes sucessos do Coldplay [...] Este evento é um concerto tributo.",
+   "id": "f-f0e4208997",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Coldplay hits in a candlelit space at Teatro dos Quatro, in Gávea. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Coldplay en un espacio iluminado por velas, en el Teatro dos Quatro, en Gávea. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "19:30"
     }
    ],
@@ -4881,6 +4917,42 @@
    "sinopse_en": "\"Nhá Eva\" runs at Companhia de Teatro Contemporâneo, in Botafogo, until November 29.",
    "sinopse_es": "\"Nhá Eva\" en cartel en la Companhia de Teatro Contemporâneo, en Botafogo, hasta el 29 de noviembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 57,60",
+   "preco_min": 57.6,
+   "preco_max": 57.6,
+   "gratis": false,
+   "classificacao": "8 anos",
+   "acessibilidade": "Local acessível para pessoas com mobilidade reduzida",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo ao Guns N' Roses",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro dos Quatro",
+   "endereco": "Rua Marquês de São Vicente, 52, 2º piso (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Concerto com o repertório do Guns N' Roses num espaço iluminado por velas, no Teatro dos Quatro, na Gávea. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/709319",
+   "trecho_fonte": "2026-11-26 21:00 até 2026-11-26 21:00 | Candlelight: Tributo ao Guns N' Roses | Teatro dos Quatro, R. Marquês de São Vicente, 52 - 2° piso - Gávea, Rio de Janeiro, 22451-040 | a partir de R$ 57.6 | datas: 2026-11-26 21:00 | https://feverup.com/m/709319 || redescobrir o melhor de Guns N' Roses em um local incrível: Teatro dos Quatro! Este evento é um concerto tributo. [...] Duração: 60 minutos || Idade: a partir dos 8 anos. Menores de 16 anos deverão ser acompanhados por um adulto || Acessibilidade: local acessível para pessoas com mobilidade reduzida",
+   "id": "f-6cfa8a334b",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A concert of Guns N' Roses songs in a candlelit space at Teatro dos Quatro, in Gávea. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Concierto con el repertorio de Guns N' Roses en un espacio iluminado por velas, en el Teatro dos Quatro, en Gávea. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -6034,6 +6106,54 @@
      "hora": "17:00"
     },
     {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 48",
+   "preco_min": 48.0,
+   "preco_max": 48.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo a Michael Jackson",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca sucessos de Michael Jackson num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/669348",
+   "trecho_fonte": "2026-11-28 17:00 até 2027-02-26 21:00 | Candlelight: Tributo a Michael Jackson | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 48 | datas: 2026-11-28 17:00, 21:00; 2026-12-11 17:00, 19:00; 2027-01-29 17:00, 19:00; 2027-02-26 19:00, 21:00 | https://feverup.com/m/669348 || No Solar de Botafogo, no Rio de Janeiro, um quarteto de cordas presta homenagem a Michael Jackson e revisita os grandes sucessos do Rei do Pop [...] Este evento é um concerto tributo.",
+   "id": "f-ef4882f406",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Michael Jackson hits in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Michael Jackson en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
      "data": "2026-11-29",
      "hora": "17:00"
     },
@@ -6160,6 +6280,46 @@
     {
      "data": "2026-11-28",
      "hora": "18:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 51,20",
+   "preco_min": 51.2,
+   "preco_max": 51.2,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Coldplay & Imagine Dragons",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Quarteto de cordas toca sucessos do Coldplay e do Imagine Dragons num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/141389",
+   "trecho_fonte": "2026-11-28 18:00 até 2027-02-27 18:00 | Candlelight: Coldplay & Imagine Dragons | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 51.2 | datas: 2026-11-28 18:00; 2026-12-13 18:00; 2027-01-31 15:00; 2027-02-27 16:00, 18:00 | https://feverup.com/m/141389 || Um concerto Candlelight com os grandes sucessos de Coldplay e Imagine Dragons, tocados ao vivo por um quarteto de cordas no Museu do Amanhã [...] Este evento é um concerto tributo.",
+   "id": "f-8a5e96d6bb",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays hits by Coldplay and Imagine Dragons in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Coldplay e Imagine Dragons en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
     }
    ],
    "preco_texto": "",
@@ -6188,6 +6348,42 @@
    "sinopse_en": "Samba do Alba at Praça Marechal Âncora, with Cozinha Arrumada, LadoB and Casa de Marimbondo.",
    "sinopse_es": "Samba do Alba en la Praça Marechal Âncora, con Cozinha Arrumada, LadoB y Casa de Marimbondo.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 48",
+   "preco_min": 48.0,
+   "preco_max": 48.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo a Metallica",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca clássicos do Metallica num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/460503",
+   "trecho_fonte": "2026-11-28 19:00 até 2027-02-26 17:00 | Candlelight: Tributo a Metallica | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 48 | datas: 2026-11-28 19:00; 2027-02-26 17:00 | https://feverup.com/m/460503 || Os grandes clássicos do Metallica ganham uma nova dimensão em um concerto Candlelight no Solar de Botafogo. Um quarteto de cordas interpreta ao vivo os hinos da banda, cercado pelo brilho das velas [...] Este evento é um concerto tributo.",
+   "id": "f-2e41b6977e",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Metallica classics in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca clásicos de Metallica en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -6376,6 +6572,46 @@
    "sinopse_en": "Gilsons in concert at Arena Carioca Fernando Torres, in Madureira.",
    "sinopse_es": "Concierto de Gilsons en la Arena Carioca Fernando Torres, en Madureira.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 51,20",
+   "preco_min": 51.2,
+   "preco_max": 51.2,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Vivaldi, As Quatro Estações",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Concerto com \"As Quatro Estações\", de Vivaldi, num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/111570",
+   "trecho_fonte": "2026-11-28 20:00 até 2027-01-24 16:00 | Candlelight: Vivaldi, As Quatro Estações | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 51.2 | datas: 2026-11-28 20:00; 2026-12-13 16:00; 2027-01-24 16:00 | https://feverup.com/m/111570 || Redescubra As Quatro Estações de Vivaldi em um concerto Candlelight no Museu do Amanhã, no Rio de Janeiro, iluminado por um mar de velas. Este evento é um concerto tributo.",
+   "id": "f-ace70f183f",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A concert of Vivaldi's \"As Quatro Estações\" (The Four Seasons) in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Concierto con \"As Quatro Estações\" (Las cuatro estaciones), de Vivaldi, en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -6816,6 +7052,46 @@
     {
      "data": "2026-11-29",
      "hora": "16:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 51,20",
+   "preco_min": 51.2,
+   "preco_max": 51.2,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: O Melhor de Hans Zimmer",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Concerto com trilhas de cinema de Hans Zimmer num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/141393",
+   "trecho_fonte": "2026-11-29 16:00 até 2027-01-30 20:00 | Candlelight: O Melhor de Hans Zimmer | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 51.2 | datas: 2026-11-29 16:00; 2026-12-19 20:00; 2027-01-30 20:00 | https://feverup.com/m/141393 || Deixe-se levar pelas trilhas sonoras mais marcantes do cinema, assinadas por Hans Zimmer, em uma noite inesquecível no Museu do Amanhã [...] Este evento é um concerto tributo.",
+   "id": "f-6400efaeb4",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A concert of Hans Zimmer film scores in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Concierto con bandas sonoras de cine de Hans Zimmer en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
     }
    ],
    "preco_texto": "",
@@ -6880,6 +7156,90 @@
    "sinopse_en": "O Desdobrar das Histórias presents \"Árvore de Histórias\" in the Domingo das Crianças series at Centro da Música Carioca, in Tijuca.",
    "sinopse_es": "O Desdobrar das Histórias presenta \"Árvore de Histórias\" en la serie Domingo das Crianças del Centro da Música Carioca, en Tijuca.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "a partir de R$ 68,80",
+   "preco_min": 68.8,
+   "preco_max": 68.8,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "The Jazz Room: Marvin Gaye em uma noite de soul",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Noite de soul dedicada a Marvin Gaye, no Teatro Rival, na série The Jazz Room.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/770445",
+   "trecho_fonte": "2027-01-17 17:00 até 2027-01-17 19:30 | The Jazz Room: Marvin Gaye em uma noite de soul | Teatro Rival Petrobras, Rua Álvaro Alvim, 33 - Cinelândia, Rio de Janeiro, 20031-010 | a partir de R$ 68.8 | datas: 2026-11-29 17:00, 19:30; 2027-01-17 17:00, 19:30 | https://feverup.com/m/770445",
+   "id": "f-70e211e793",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A soul night devoted to Marvin Gaye at Teatro Rival, in The Jazz Room series.",
+   "sinopse_es": "Noche de soul dedicada a Marvin Gaye en el Teatro Rival, en la serie The Jazz Room.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 76,05",
+   "preco_min": 76.05,
+   "preco_max": 76.05,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo a Bruno Mars",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Quarteto de cordas toca sucessos de Bruno Mars num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/300190",
+   "trecho_fonte": "2026-11-29 18:00 até 2026-11-29 18:00 | Candlelight: Tributo a Bruno Mars | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 76.05 | datas: 2026-11-29 18:00 | https://feverup.com/m/300190 || um concerto Candlelight em que um quarteto de cordas toca ao vivo as músicas do artista, cercado pelo brilho de centenas de velas, no Museu do Amanhã [...] Este evento é um concerto tributo.",
+   "id": "f-09c63aed68",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Bruno Mars hits in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Bruno Mars en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -8158,6 +8518,46 @@
    "sinopse_en": "Jhordan Matheus performs \"Passando de Fase\" at Areninha Cultural João Bosco, in Vista Alegre.",
    "sinopse_es": "Jhordan Matheus presenta \"Passando de Fase\" en la Areninha Cultural João Bosco, en Vista Alegre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "18:30"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 100",
+   "preco_min": 100.0,
+   "preco_max": 100.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "The Jazz Room: Um Tributo a Frank Sinatra e Louis Armstrong",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Homenagem ao vivo a Frank Sinatra e Louis Armstrong, no Teatro Rival, na série The Jazz Room.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/633333",
+   "trecho_fonte": "2026-12-04 21:00 até 2026-12-04 21:00 | The Jazz Room: Um Tributo a Frank Sinatra e Louis Armstrong | Teatro Rival Petrobras, Rua Álvaro Alvim, 33 - Cinelândia, Rio de Janeiro, 20031-010 | a partir de R$ 100 | datas: 2026-12-04 18:30, 21:00 | https://feverup.com/m/633333 || Embarque em uma jornada musical que vai do balanço inconfundível de Sinatra à voz e ao trompete inesquecíveis de Armstrong. A música deles ganha vida novamente em uma emocionante homenagem ao vivo. Ingresso “Entrada Social” [...] pode ser comprada por qualquer pessoa, sem necessidade de comprovação.",
+   "id": "f-a71897925b",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A live tribute to Frank Sinatra and Louis Armstrong at Teatro Rival, in The Jazz Room series.",
+   "sinopse_es": "Homenaje en vivo a Frank Sinatra y Louis Armstrong en el Teatro Rival, en la serie The Jazz Room.",
+   "faixa": "acima80",
    "status": "conferido"
   },
   {
@@ -9960,6 +10360,42 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-11",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 58",
+   "preco_min": 58.0,
+   "preco_max": 58.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo ao Oasis",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca sucessos do Oasis num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/751928",
+   "trecho_fonte": "2026-12-11 21:00 até 2026-12-11 21:00 | Candlelight: Tributo aos Oasis | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 58 | datas: 2026-12-11 21:00 | https://feverup.com/m/751928 || Um concerto Candlelight em homenagem ao Oasis: os grandes sucessos da banda interpretados ao vivo por um quarteto de cordas no Solar de Botafogo [...] Este evento é um concerto tributo.",
+   "id": "f-b36c446b0c",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Oasis hits in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Oasis en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-12",
      "hora": "14:00"
     }
@@ -10082,6 +10518,194 @@
    "sinopse_en": "\"Mesmo Rio\" runs at Teatro Municipal Ruth de Souza, in Santa Teresa, from December 12 to 20.",
    "sinopse_es": "\"Mesmo Rio\" en cartel en el Teatro Municipal Ruth de Souza, en Santa Teresa, del 12 al 20 de diciembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 48",
+   "preco_min": 48.0,
+   "preco_max": 48.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Coldplay & Ed Sheeran",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Concerto com o melhor do Coldplay e de Ed Sheeran num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/431209",
+   "trecho_fonte": "2026-12-12 17:00 até 2027-02-20 21:00 | Candlelight: Coldplay & Ed Sheeran | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 48 | datas: 2026-12-12 17:00; 2027-01-23 17:00, 21:00; 2027-02-20 17:00, 21:00 | https://feverup.com/m/431209 || Redescubra o melhor de Coldplay e Ed Sheeran em um concerto Candlelight no Solar de Botafogo [...] Este evento é um concerto tributo.",
+   "id": "f-e53f337dfc",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A concert of the best of Coldplay and Ed Sheeran in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Concierto con lo mejor de Coldplay y Ed Sheeran en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 62,50",
+   "preco_min": 62.5,
+   "preco_max": 62.5,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Hinos do rock dos anos 80",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Quarteto de cordas toca hinos do rock dos anos 80 num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/658932",
+   "trecho_fonte": "2026-12-12 18:00 até 2026-12-12 18:00 | Candlelight: Hinos do rock dos anos 80 | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 62.5 | datas: 2026-12-12 18:00 | https://feverup.com/m/658932 || Os grandes hinos do rock dos anos 80 ganham uma nova vida em um concerto Candlelight no Museu do Amanhã [...] tocados ao vivo por um quarteto de cordas em um ambiente iluminado por velas. Este evento é um concerto tributo.",
+   "id": "f-fd3ef46149",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays 1980s rock anthems in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca himnos del rock de los años 80 en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 67",
+   "preco_min": 67.0,
+   "preco_max": 67.0,
+   "gratis": false,
+   "classificacao": "8 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: O Melhor de Outlander",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca as músicas da série \"Outlander\" num espaço iluminado por velas, no Solar de Botafogo. Concerto de 60 minutos.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/590783",
+   "trecho_fonte": "2026-12-12 19:00 até 2026-12-12 19:00 | Candlelight: O Melhor de Outlander | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 67 | datas: 2026-12-12 19:00 | https://feverup.com/m/590783 || Viva Candlelight: O Melhor de Outlander no Rio de Janeiro, um tributo mágico à amada série [...] Cercado pelo brilho quente das velas, um talentoso quarteto de cordas dará vida às melodias [...] Localização: Solar de Botafogo || Idade: a partir dos 8 anos. Menores de 16 anos deverão ser acompanhados por um adu",
+   "id": "f-316f8e3cdb",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays music from the series \"Outlander\" in a candlelit space at Solar de Botafogo. A 60-minute concert.",
+   "sinopse_es": "Un cuarteto de cuerdas toca la música de la serie \"Outlander\" en un espacio iluminado por velas, en el Solar de Botafogo. Concierto de 60 minutos.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 56,40",
+   "preco_min": 56.4,
+   "preco_max": 56.4,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: O Melhor da MPB",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Quarteto de cordas toca clássicos da MPB num espaço iluminado por velas, no Museu do Amanhã. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/651376",
+   "trecho_fonte": "2026-12-12 20:00 até 2027-01-24 18:00 | Candlelight: O Melhor da MPB | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 56.4 | datas: 2026-12-12 20:00; 2027-01-24 18:00 | https://feverup.com/m/651376 || Os clássicos da Música Popular Brasileira ganham nova vida em um concerto Candlelight no Museu do Amanhã [...] Um quarteto de cordas interpreta ao vivo canções que marcaram gerações, em um espaço iluminado por velas. Este evento é um concerto tributo.",
+   "id": "f-ff7d8023dc",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays MPB classics in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca clásicos de la MPB en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 55,20",
+   "preco_min": 55.2,
+   "preco_max": 55.2,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Queen & The Beatles",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca canções do Queen e dos Beatles num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/485632",
+   "trecho_fonte": "2026-12-12 21:00 até 2027-02-20 19:00 | Candlelight: Queen & The Beatles | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 55.2 | datas: 2026-12-12 21:00; 2027-02-20 19:00 | https://feverup.com/m/485632 || No Solar de Botafogo, no Rio de Janeiro, um quarteto de cordas revisita as canções de Queen e The Beatles. Este evento é um concerto tributo.",
+   "id": "f-a8ba42d75b",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays songs by Queen and The Beatles in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca canciones de Queen y The Beatles en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -10370,6 +10994,62 @@
    "sinopse_en": "Vidal Assis performs the show \"Emílio Santiago – 80 anos\", with guests Theo Bial and Antônio Baldini.",
    "sinopse_es": "Vidal Assis presenta el show \"Emílio Santiago – 80 anos\", con participaciones de Theo Bial y Antônio Baldini.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 55",
+   "preco_min": 55.0,
+   "preco_max": 55.0,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Clássicos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca clássicos de Natal, das melodias tradicionais aos sucessos pop, num espaço iluminado por velas, no Solar de Botafogo. Concerto de 60 minutos.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/631040",
+   "trecho_fonte": "2026-12-18 17:00 até 2026-12-19 21:00 | Candlelight: Clássicos de Natal | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 55 | datas: 2026-12-18 17:00, 19:00, 21:00; 2026-12-19 17:00, 19:00, 21:00 | https://feverup.com/m/631040 || Celebre o Natal com um concerto Candlelight no Solar de Botafogo [...] um quarteto de cordas interpreta ao vivo os grandes clássicos de Natal, das melodias tradicionais aos sucessos pop da época, em uma experiência musical de 60 minutos.",
+   "id": "f-4f77c5ba05",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Christmas classics, from traditional carols to pop hits, in a candlelit space at Solar de Botafogo. A 60-minute concert.",
+   "sinopse_es": "Un cuarteto de cuerdas toca clásicos de Navidad, de las melodías tradicionales a los éxitos pop, en un espacio iluminado por velas, en el Solar de Botafogo. Concierto de 60 minutos.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -11275,6 +11955,82 @@
    "sessoes": [
     {
      "data": "2027-01-22",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 47,60",
+   "preco_min": 47.6,
+   "preco_max": 47.6,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Os clássicos do rock",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca clássicos do rock num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/740548",
+   "trecho_fonte": "2027-01-22 17:00 até 2027-01-22 21:00 | Candlelight: Os clássicos do rock | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 47.6 | datas: 2027-01-22 17:00, 21:00 | https://feverup.com/m/740548 || Os maiores clássicos do rock, reinterpretados ao vivo por um quarteto de cordas em um concerto Candlelight no Solar de Botafogo [...] à luz de velas. Este evento é um concerto tributo.",
+   "id": "f-b82a4fd57d",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays rock classics in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca clásicos del rock en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-22",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 53,20",
+   "preco_min": 53.2,
+   "preco_max": 53.2,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Compositores intemporais",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca obras conhecidas da música clássica num espaço iluminado por velas, no Solar de Botafogo.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/739781",
+   "trecho_fonte": "2027-01-22 19:00 até 2027-01-22 19:00 | Candlelight: Compositores intemporais | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 53.2 | datas: 2027-01-22 19:00 | https://feverup.com/m/739781 || um quarteto de cordas interpreta ao vivo algumas das obras mais amadas da música clássica, cercado pelo brilho de centenas de velas no Solar de Botafogo.",
+   "id": "f-aa169014b9",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays well-loved classical works in a candlelit space at Solar de Botafogo.",
+   "sinopse_es": "Un cuarteto de cuerdas toca obras queridas de la música clásica en un espacio iluminado por velas, en el Solar de Botafogo.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-22",
      "hora": "20:30"
     }
    ],
@@ -11304,6 +12060,42 @@
    "sinopse_en": "Diego Besou presents \"Upa que Pariu\" at Areninha Cultural Jacob do Bandolim, in Pechincha.",
    "sinopse_es": "Diego Besou presenta \"Upa que Pariu\" en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-23",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 53,55",
+   "preco_min": 53.55,
+   "preco_max": 53.55,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Candlelight: Tributo a Phil Collins",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Solar de Botafogo",
+   "endereco": "Rua General Polidoro, 180",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Quarteto de cordas toca sucessos de Phil Collins num espaço iluminado por velas, no Solar de Botafogo. É um concerto tributo, sem ligação com os artistas.",
+   "fonte": "Fever (extração do Todos os Rios)",
+   "link": "https://feverup.com/m/740549",
+   "trecho_fonte": "2027-01-23 19:00 até 2027-01-23 19:00 | Candlelight: Tributo a Phil Collins | Solar de Botafogo, Rua General Polidoro, 180 - Botafogo, Rio de Janeiro, 22280-003 | a partir de R$ 53.55 | datas: 2027-01-23 19:00 | https://feverup.com/m/740549 || No Solar de Botafogo, no Rio de Janeiro, um quarteto de cordas interpreta os maiores sucessos de Phil Collins [...] Este evento é um concerto tributo.",
+   "id": "f-ceb495fdde",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A string quartet plays Phil Collins hits in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
+   "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Phil Collins en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {

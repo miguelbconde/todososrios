@@ -1,13 +1,13 @@
 # Relatório da edição — Programação de hoje até 23 de janeiro de 2027
 
-- Eventos e exposições: **702** (659 eventos com 5415 sessões; 43 em cartaz)
+- Eventos e exposições: **722** (679 eventos com 5453 sessões; 43 em cartaz)
 - Grátis: **37** · preço popular (até R$ 40): **118**
-- Conferidos sem ressalva: **694** · a confirmar: **8**
+- Conferidos sem ressalva: **714** · a confirmar: **8**
 
 ## Distribuição por região
 
-- Centro: 122
-- Zona Sul: 198
+- Centro: 130
+- Zona Sul: 210
 - Zona Sudoeste: 153
 - Zona Norte: 171
 - Zona Oeste: 58
@@ -49,6 +49,9 @@
 - **Branka** (f-5b47b5a89c) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse reescrita só com o que a fonte diz.**
 - **Samba d'Jorge, de Jorge Barbosa** (f-ab15d40606) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse reescrita só com o que a fonte diz.**
 - **Andrezão do Cacique** (f-25e6d54419) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse reescrita só com o que a fonte diz.**
+- **Candlelight: Tributo ao Guns N' Roses** (f-6cfa8a334b) · classificacao · *diverge* — A fonte informa idade mínima de 8 anos e acessibilidade. → **Corrigido: classificação e acessibilidade preenchidas.**
+- **Candlelight: O Melhor de Outlander** (f-316f8e3cdb) · sinopse · *diverge* — Dizia ser concerto tributo sem ligação com os artistas; a página não diz isso. Faltava a classificação (a partir de 8 anos). → **Corrigido: sinopse e classificação conforme a fonte.**
+- **Candlelight: Tributo ao Oasis** (f-b36c446b0c) · local · *duvida* — A Fever escreve 'Solar de Botafogo'; Teatro Rival e Teatro dos Quatro sem 'subsolo'/'Shopping da Gávea'. → **Mantido: nome e endereço iguais aos das fichas já na base para o mesmo espaço.**
 
 ## Conferência mecânica (regras)
 
@@ -365,8 +368,8 @@
 - **09/12**: Dragstar – 14ª temporada: a grande final
 - **10/12**: Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Festival Contarolando Histórias; Tem Culpa Eu? – comédia de improviso investigativo
 - **11/12**: Jade Vitóriah: A Cor da Minha Voz; Festival Contarolando Histórias; O Quebra-Nozes
-- **12/12**: Piano em Cena – Rogério Koury; Cuidado Quando For Falar de Mim; Olhar para Dentro
-- **13/12**: Adrian Cortês: Moonwalk Fest; Festival Contarolando Histórias; O Quebra-Nozes
+- **12/12**: Candlelight: O Melhor de Outlander; Cuidado Quando For Falar de Mim; Olhar para Dentro
+- **13/12**: Candlelight: Coldplay & Imagine Dragons; Festival Contarolando Histórias; El Corazón y Otros Frutos Amargos
 - **14/12**: Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120
 - **15/12**: Terças no Ipanema: Sandra Pêra; Piano em Cena – Rogério Koury; Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos
 - **16/12**: O Quebra-Nozes; Primeira Pessoa; As Coisas que me Tiram o Sono
@@ -388,10 +391,10 @@
 - **14/01**: Tributo a Tim Maia, com André Marçal; Marcelo Duque: Sem Filtro; Eles Não Usam Black Tie
 - **15/01**: Eles Não Usam Black Tie; Marcelo Duque: Sem Filtro; Aurora – O Despertar da Mulher Exausta
 - **16/01**: Paulinho da Viola; Marcelo Duque: Sem Filtro; Kwesny em Manual do Carioca
-- **17/01**: Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
+- **17/01**: The Jazz Room: Marvin Gaye em uma noite de soul; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
 - **21/01**: Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
-- **22/01**: Eles Não Usam Black Tie; Diego Besou em Upa que Pariu; Aurora – O Despertar da Mulher Exausta
-- **23/01**: Aurora – O Despertar da Mulher Exausta
+- **22/01**: Candlelight: Compositores intemporais; Diego Besou em Upa que Pariu; Eles Não Usam Black Tie
+- **23/01**: Candlelight: Tributo a Phil Collins; Aurora – O Despertar da Mulher Exausta
 
 Regras de curadoria:
 - Todas as regras cumpridas.
@@ -480,6 +483,7 @@ Regras de curadoria:
 - **Gosto Amargo na Pele** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco.
 - **1ª Mostra de Artes de Terreiro Os Ciclomáticos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação da mostra.
 - **Fera** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período; dias presumidos de quinta a domingo. Gênero não informado; Teatro presumido pelo espaço.
+- **Candlelight: Tributo ao Coldplay** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Andrezão do Cacique** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A fonte não cita o Cacique de Ramos pelo nome; diz 'a famosa tamarineira'.
 - **Azymuth: Águia Não Come Mosca e Grandes Clássicos** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO RIVAL.
 - **Dilma Oliveira canta Alcione** — A listagem da Sympla não informa preço nem classificação.
@@ -496,6 +500,7 @@ Regras de curadoria:
 - **Ariane Mathias: Rindo de Nervoso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.
 - **Nhá Eva** — A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.
+- **Candlelight: Tributo ao Guns N' Roses** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. A fonte não diz a formação dos músicos.
 - **Hétero Sigilo** — O site dá só o período (7 a 29/11); dias presumidos de quinta a domingo. A página informa "21h e 19h" sem dizer em que dias: usamos 21h (o horário da listagem vem com fuso errado, 3 horas adiantado). Preço e classificação não informados.
 - **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** — A listagem da Sympla não informa preço nem classificação. organizador: IICRio. Organizador: Istituto Italiano di Cultura.
 - **14ª Jornada de Educação e Relações Étnico-Raciais: Territórios de Pertencimento** — A listagem da Sympla não informa preço nem classificação. A fonte dá de 27/11, 17h, a 29/11, 18h, sem a programação de cada dia; registrada só a abertura.
@@ -525,15 +530,19 @@ Regras de curadoria:
 - **Os Três Porquinhos** — A listagem da Sympla não informa preço nem classificação. Organizador: Tripularte. Infantil presumido pelo título.
 - **Elaine Machado e Banda Raça Brasileira: História da Diva** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Bem-vindo a Bangu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Candlelight: Tributo a Michael Jackson** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de 2027 fora da janela.
 - **Maria no Fio da Navalha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo palco.
 - **Dança à Deriva: Obra Mala (CO), Breve (RJ) e Colombia Profunda (CO)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
 - **Casuarina** — A listagem da Sympla não informa preço nem classificação. Organizador: Cola Comigo que Tu Samba. Formação (grupo) presumida.
+- **Candlelight: Coldplay & Imagine Dragons** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de 2027 fora da janela de 60 dias.
 - **Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo** — A listagem da Sympla não informa preço nem classificação. Organizador: Agência Meu Rio. Na rua presumido pelo local (praça).
+- **Candlelight: Tributo a Metallica** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 26/2 fora da janela.
 - **Fora de Quadro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; dança presumida pelo espaço (Teatro inclui dança).
 - **Festival Brasilidades & Futuros Música** — A listagem da Sympla não informa preço nem classificação. Organizador: Instituto Futuros. A fonte dá de 28/11, 19h, a 29/11, 22h; horário do segundo dia presumido igual ao do primeiro. Atrações não informadas.
 - **Jaloo: Crua (acústico)** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Candlelight: Vivaldi, As Quatro Estações** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos; 'quarteto de cordas' é o formato da série. Sessão de 24/1 fora da janela.
 - **Bonfim Comedy Show** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Lia Paris canta Edith Piaf** — A listagem da Sympla não informa preço nem classificação.
@@ -545,8 +554,11 @@ Regras de curadoria:
 - **Forró da Praça** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio.
 - **Sede de Samba** — A listagem da Sympla não informa preço nem classificação.
 - **Festival Esperançar** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não detalha a programação.
+- **Candlelight: O Melhor de Hans Zimmer** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos. Sessão de 30/1 fora da janela.
 - **Sarau de Danças: Roda de Movimentos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Domingo das Crianças: Árvore de Histórias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **The Jazz Room: Marvin Gaye em uma noite de soul** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A página não traz texto; sinopse só pelo título.
+- **Candlelight: Tributo a Bruno Mars** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Dança à Deriva: ¿Quién habla por los espíritus? (BO/AR) e La Caballota (MX)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
 - **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Viny Arêas em De Risco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (comédia) dado pelo nome da série.
@@ -579,6 +591,7 @@ Regras de curadoria:
 - **Helena Beltrão canta Ella, Elis e Elza** — A listagem da Sympla não informa preço nem classificação.
 - **Leo Gandelman: Cosmos** — O site não informa o preço na página extraída.
 - **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **The Jazz Room: Um Tributo a Frank Sinatra e Louis Armstrong** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A Fever menciona um ingresso 'Entrada Social', sem dar o valor.
 - **1º Encontro de Violonistas Compositores: Andrea Perrone** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **VibraSons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; dança presumido pelo espaço.
 - **Cabaret – Absurdos e Variedades** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Noite de cabaré presumida pelo título; a casa já apresentou outras edições do Cabaret, não é mostra de alunos.
@@ -625,9 +638,15 @@ Regras de curadoria:
 - **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Cuidado Quando For Falar de Mim** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
 - **Matheus Ceará** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Candlelight: Tributo ao Oasis** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Cineclube Adélia Sampaio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não informa o filme.
 - **Cores Sonoras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
 - **Mesmo Rio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Candlelight: Coldplay & Ed Sheeran** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos. Sessões de fevereiro fora da janela.
+- **Candlelight: Hinos do rock dos anos 80** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Candlelight: O Melhor de Outlander** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Acessibilidade não informada.
+- **Candlelight: O Melhor da MPB** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 24/1 fora da janela.
+- **Candlelight: Queen & The Beatles** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 20/2 fora da janela.
 - **El Corazón y Otros Frutos Amargos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
 - **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
 - **Adrian Cortês: Moonwalk Fest** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; área Música presumida.
@@ -636,6 +655,7 @@ Regras de curadoria:
 - **Terças no Ipanema: Sandra Pêra** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
 - **Os Lobos 60 Anos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Vidal Assis: Emílio Santiago – 80 anos** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Candlelight: Clássicos de Natal** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz se é apresentação ou prática aberta (aula).
 - **Tributo a Cazuza** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Intérpretes não informados.
 - **Cantos de Força – 10 anos de Afrotelúricos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
@@ -658,7 +678,10 @@ Regras de curadoria:
 - **Paulinho da Viola** — Preço: o menor valor informado; pode haver setores mais caros.
 - **Kwesny em Manual do Carioca** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Raphael Ghanem em A Carne Só Cai no Prato do Vegano** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Candlelight: Os clássicos do rock** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Candlelight: Compositores intemporais** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Diego Besou em Upa que Pariu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Candlelight: Tributo a Phil Collins** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
