@@ -240,7 +240,9 @@ header.topo{padding-top:24px}
 .modo.mes::before{content:"";width:.45em;height:.45em;border-radius:50%;background:var(--sol)}
 .modo[aria-pressed=true]{background:var(--sel);border-color:var(--sel);color:var(--sel-texto)}
 .modo[aria-pressed=true].mes::before{background:var(--sel-texto)}
-#qdata{position:absolute;left:0;bottom:0;width:1px;height:1px;opacity:0;pointer-events:none;border:0;padding:0}
+#fSecoes{margin:2px 0 10px}
+#fSecoes[hidden]{display:none}
+.modo.sec[aria-expanded=true]{border-color:var(--tinta)}
 .trilho-caixa{position:sticky;top:0;z-index:5;background:var(--papel);display:flex;align-items:center;gap:4px}
 .trilho-caixa .trilho{position:static;flex:1;min-width:0}
 /* Ajustes do celular (24/11/2026): faixa presa com separação; aviso de filtro; eventos de hoje já começados; topo mais compacto */
@@ -308,7 +310,7 @@ body.sem-linhas .hora{border-bottom:none;padding-bottom:0;margin-top:24px}
   .colunas{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:56px;align-items:start}
   .lado{display:block;position:sticky;top:12px;max-height:calc(100vh - 24px);overflow-y:auto;padding:2px 2px 12px;scrollbar-width:thin}
   /* no computador, a navegação mora na coluna lateral: some da coluna principal */
-  .principal #filtrosTopo,.principal #fRegioes,.principal .modos-caixa,.principal .trilho-caixa{display:none!important}
+  .principal #filtrosTopo,.principal #fRegioes,.principal #fSecoes,.principal .modos-caixa,.principal .trilho-caixa{display:none!important}
   #sobre,footer,#calendario{max-width:760px}
 }
 </style>
@@ -338,13 +340,12 @@ body.sem-linhas .hora{border-bottom:none;padding-bottom:0;margin-top:24px}
 </div>
 <div class="chips secoes faixa-filtros" id="filtrosTopo">
   <div id="fGratis" style="display:contents"></div>
-  <button class="chip reg" id="regBtn" type="button" aria-expanded="false" aria-controls="fRegioes"><span data-t="regiao">Região</span> <span id="nfiltros"></span> ▾</button><span class="sep" aria-hidden="true"></span>
-  <div id="fAreas" style="display:contents"></div>
+  <button class="chip reg" id="regBtn" type="button" aria-expanded="false" aria-controls="fRegioes"><span data-t="regiao">Região</span> <span id="nfiltros"></span> ▾</button>
 </div>
 <div class="chips" id="fRegioes" hidden></div>
 
-<div class="modos-caixa"><div class="modos" id="modos"></div>
-<input type="date" id="qdata" tabindex="-1" aria-hidden="true"></div>
+<div class="modos-caixa"><div class="modos" id="modos"></div></div>
+<div class="chips" id="fSecoes" hidden><div id="fAreas" style="display:contents"></div></div>
 <div class="trilho-caixa">
   <button class="seta" id="setaEsq" type="button" aria-label="Dias anteriores">‹</button>
   <nav class="trilho" id="dias" aria-label="Dias"></nav>
@@ -459,9 +460,9 @@ const T = {
    teste:"Vista previa: aún con pocas fuentes. Descripciones en portugués.",
    dias:["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"],fontes:"Fuentes: ",naoinf:"Precio no informado"}
 };
-Object.assign(T.pt,{filtrando:"Filtrando:",lemaTopo:"A cidade inteira, de hoje a dois meses à frente. Aberta, gratuita, sem cadastro.",escData:"Escolher data",precoFonte:"Preço: consulte a fonte oficial.",navPreco:"Preço e lugar",navSecoes:"Seções",limpa:"Limpar filtros",legBoas:"dias com uma das boas do mês",mesAnt:"Mês anterior",mesProx:"Próximo mês",sem:["D","S","T","Q","Q","S","S"]});
-Object.assign(T.en,{filtrando:"Filtered:",lemaTopo:"The whole city, from today to two months ahead. Open, free, no sign-up.",escData:"Pick a date",precoFonte:"Price: check the official source.",navPreco:"Price & place",navSecoes:"Sections",limpa:"Clear filters",legBoas:"days with a book-ahead pick",mesAnt:"Previous month",mesProx:"Next month",sem:["S","M","T","W","T","F","S"]});
-Object.assign(T.es,{filtrando:"Filtrando:",lemaTopo:"Toda la ciudad, de hoy a dos meses. Abierta, gratuita, sin registro.",escData:"Elegir fecha",precoFonte:"Precio: consulta la fuente oficial.",navPreco:"Precio y lugar",navSecoes:"Secciones",limpa:"Borrar filtros",legBoas:"días con algo de «Lo bueno del mes»",mesAnt:"Mes anterior",mesProx:"Mes siguiente",sem:["D","L","M","X","J","V","S"]});
+Object.assign(T.pt,{secaoBtn:"Seção",filtrando:"Filtrando:",lemaTopo:"A cidade inteira, de hoje a dois meses à frente. Aberta, gratuita, sem cadastro.",escData:"Escolher data",precoFonte:"Preço: consulte a fonte oficial.",navPreco:"Preço e lugar",navSecoes:"Seções",limpa:"Limpar filtros",legBoas:"dias com uma das boas do mês",mesAnt:"Mês anterior",mesProx:"Próximo mês",sem:["D","S","T","Q","Q","S","S"]});
+Object.assign(T.en,{secaoBtn:"Section",filtrando:"Filtered:",lemaTopo:"The whole city, from today to two months ahead. Open, free, no sign-up.",escData:"Pick a date",precoFonte:"Price: check the official source.",navPreco:"Price & place",navSecoes:"Sections",limpa:"Clear filters",legBoas:"days with a book-ahead pick",mesAnt:"Previous month",mesProx:"Next month",sem:["S","M","T","W","T","F","S"]});
+Object.assign(T.es,{secaoBtn:"Sección",filtrando:"Filtrando:",lemaTopo:"Toda la ciudad, de hoy a dos meses. Abierta, gratuita, sin registro.",escData:"Elegir fecha",precoFonte:"Precio: consulta la fuente oficial.",navPreco:"Precio y lugar",navSecoes:"Secciones",limpa:"Borrar filtros",legBoas:"días con algo de «Lo bueno del mes»",mesAnt:"Mes anterior",mesProx:"Mes siguiente",sem:["D","L","M","X","J","V","S"]});
 const AREA_T = {en:{"Música":"Music","Teatro":"Theatre & dance","Artes Visuais":"Visual arts","Cinema":"Film","Livros & Debates":"Books & talks","Festas & Feiras":"Festivals & fairs","Infantil":"Kids"},
                es:{"Música":"Música","Teatro":"Teatro y danza","Artes Visuais":"Artes visuales","Cinema":"Cine","Livros & Debates":"Libros y debates","Festas & Feiras":"Fiestas y ferias","Infantil":"Infantil"}};
 const REG_T = {en:{"Centro":"Downtown","Zona Sul":"South Zone","Zona Sudoeste":"Southwest Zone","Zona Norte":"North Zone","Zona Oeste":"West Zone"}};
@@ -563,7 +564,7 @@ function render(){
     tituloDia(dn));
   // dias
   const mesCurto = d=>dDia(d).toLocaleDateString(S.lang==="pt"?"pt-BR":S.lang,{month:"short",timeZone:"UTC"}).replace(".","");
-  document.querySelector("#modos").innerHTML = ((D.destaques_mes||[]).length?`<button class="modo mes" data-dia="mes" aria-pressed="${S.dia==="mes"}">${t("boaMes")}</button>`:"") + `<button class="modo" data-dia="cartaz" aria-pressed="${S.dia==="cartaz"}">${t("cartaz")}</button>` + `<button class="modo" id="escData" type="button">${t("escData")}</button>`;
+  document.querySelector("#modos").innerHTML = ((D.destaques_mes||[]).length?`<button class="modo mes" data-dia="mes" aria-pressed="${S.dia==="mes"}">${t("boaMes")}</button>`:"") + `<button class="modo" data-dia="cartaz" aria-pressed="${S.dia==="cartaz"}">${t("cartaz")}</button>` + `<button class="modo sec" id="secBtn" type="button" aria-controls="fSecoes" aria-expanded="${!document.querySelector("#fSecoes").hidden}">${t("secaoBtn")}${S.areas.length?` · ${S.areas.length}`:""} ▾</button>`;
   document.querySelector("#dias").innerHTML = DIAS.map(d=>{const x=dDia(d), m1=d.slice(8,10)==="01"&&d!==DIAS[0];
     return `<button class="dia${d<hojeISO?" passado":""}${m1?" m1":""}" data-dia="${d}" aria-pressed="${S.dia===d}"><small>${d===hojeISO?t("hoje"):m1?mesCurto(d):t("dias")[x.getUTCDay()]}</small><b>${d.slice(8,10)}</b></button>`}).join("");
   // ao abrir em "hoje", o trilho fica no começo, com "As boas do mês" e "Em cartaz" à vista
@@ -573,6 +574,7 @@ function render(){
   // filtros
   const nf=S.regioes.length; if(nf) document.querySelector("#fRegioes").hidden=false; document.querySelector("#nfiltros").textContent = nf?`· ${nf}`:"";
   document.querySelector("#fGratis").innerHTML = `<button class="chip g" data-f="gratis" aria-pressed="${S.gratis}">${t("gratis")}</button><button class="chip g" data-f="popular" aria-pressed="${S.popular}">${t("popular")}</button><button class="chip g" data-f="rua" aria-pressed="${S.rua}">${t("rua")}</button>`;
+  if(S.areas.length) document.querySelector("#fSecoes").hidden=false;
   document.querySelector("#fAreas").innerHTML = AREAS.filter(a=>E.some(e=>e.areas.includes(a))).map(a=>`<button class="chip" data-area="${a}" aria-pressed="${S.areas.includes(a)}">${esc(tA(a))}</button>`).join("");
   document.querySelector("#fRegioes").innerHTML = REGIOES.map(r=>`<button class="chip" data-reg="${r}" aria-pressed="${S.regioes.includes(r)}">${esc(tR(r))}</button>`).join("");
   // destaques do dia (respeitam os filtros escolhidos)
@@ -722,7 +724,7 @@ document.addEventListener("click",ev=>{
 document.querySelector("#inicio").addEventListener("click",ev=>{ev.preventDefault();
   Object.assign(S,{q:"",areas:[],regioes:[],gratis:false,popular:false,rua:false,aberto:null,dia:DIAS.includes(hojeISO)?hojeISO:DIAS[0]});
   ["areas","regioes"].forEach(k=>guarda.set(k,[])); ["gratis","popular","rua"].forEach(k=>guarda.set(k,false));
-  document.querySelector("#q").value=""; document.querySelector("#fRegioes").hidden=true; render.rolou=false;
+  document.querySelector("#q").value=""; document.querySelector("#fRegioes").hidden=true; document.querySelector("#fSecoes").hidden=true; render.rolou=false;
   render(); window.scrollTo({top:0,behavior:"smooth"}); history.replaceState(null,"",location.pathname);});
 let tq; document.querySelector("#q").addEventListener("input",ev=>{clearTimeout(tq);tq=setTimeout(()=>{S.q=ev.target.value.trim();render();},120);});
 if(!abreDoLink()) render();
@@ -763,10 +765,8 @@ matchMedia('(prefers-color-scheme: dark)').addEventListener('change',pinta); pin
     else if(ev.target.closest("[data-f],[data-reg],[data-area]")) setTimeout(presa,0); });
   var rb=document.querySelector("#regBtn"), fr=document.querySelector("#fRegioes");
   rb.onclick=function(){fr.hidden=!fr.hidden; rb.setAttribute("aria-expanded",!fr.hidden)};
-  var qd=document.querySelector("#qdata"); qd.min=DIAS[0]; qd.max=DIAS[DIAS.length-1];
-  document.addEventListener("click",function(ev){ if(ev.target.closest("#escData")){ qd.value=(DIAS.includes(S.dia)?S.dia:DIAS[0]);
-    try{qd.showPicker()}catch(e){qd.style.pointerEvents="auto";qd.focus();} }});
-  qd.addEventListener("change",function(){ if(DIAS.includes(qd.value)){S.dia=qd.value;S.aberto=null;render.rolou=false;render();} });
+  var fs=document.querySelector("#fSecoes");
+  document.addEventListener("click",function(ev){ var sb=ev.target.closest("#secBtn"); if(sb){ fs.hidden=!fs.hidden; sb.setAttribute("aria-expanded",!fs.hidden); } });
   document.addEventListener("toggle",function(ev){ if(ev.target.classList&&ev.target.classList.contains("grade-toda")) S.gradeAberta=ev.target.open; },true);
   // painel de navegação do computador: calendário dos dois meses + modos + filtros (reaproveita os mesmos botões do site)
   var MESES=[...new Set(DIAS.map(function(d){return d.slice(0,7)}))], M=0, ultimoDia=null;

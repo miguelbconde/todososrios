@@ -353,5 +353,6 @@ Avaliação geral da identidade e da experiência de uso, no celular e no comput
 - Hoje, um evento passa a contar como "já começou" uma hora depois do horário de início: fica mais apagado na lista e desce para o fim de "A boa de hoje". Exposições e atividades sem horário não mudam.
 - Topo mais compacto só no celular: "Rios." um pouco menor e menos espaço entre a linha sinuosa, a busca e os filtros. "A boa de hoje" sobe cerca de 45 px.
 - Grade dos cinemas: as setinhas de abrir cada cinema voltaram para dentro da margem.
+- Seções no celular (mesmo dia, depois de teste no aparelho da coordenação): as seções saem da faixa de filtros, onde ficavam escondidas depois de "Região". Agora a primeira linha é Só grátis, Até R$ 40, Na rua e Região ▾; a segunda é As boas do mês, Em cartaz e **Seção ▾**, que abre as sete seções de uma vez. "Escolher data" saiu: não funcionava em todos os celulares.
 
 **Correção (24/11/2026).** A marca em uso no site é a versão empilhada ("TODOS OS" em Gabarito sobre "Rios." em Source Serif 4, com o ponto de sol), e não o E4 ("TODOSOSRIOS" num só fluxo) descrito na seção 4.
