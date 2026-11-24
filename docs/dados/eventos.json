@@ -11288,6 +11288,42 @@
      "hora": "21:00"
     }
    ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "18 anos (menores só com pais ou responsável)",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "tipo": "evento",
+   "areas": [
+    "Música"
+   ],
+   "fonte": "Release da Fundição Progresso (página de Imprensa, enviado pela coordenação editorial em 24/11)",
+   "link": "https://fundicaoprogresso.com.br/Imprensa",
+   "titulo": "Carol Biazin: Odeio Muito a Despedida",
+   "sinopse": "Carol Biazin estreia na Fundição com o show \"Odeio Muito a Despedida\", com sucessos de toda a carreira, depois de lançar o EP \"Assumo os Riscos\".",
+   "trecho_fonte": "A Fundição Progresso recebe Carol Biazin pela primeira vez, no dia 12 de dezembro, sábado, com o show “Odeio Muito a Despedida”. [...] Agora, encerra esse capítulo com o EP “Assumo os Riscos” e apresenta, no show, sucessos de toda a sua trajetória. || Data: 12 de dezembro Local: Fundição Progresso — Rua dos Arcos, 24, Lapa [...] Abertura da casa: 21h Classificação etária: 18 anos. Menores de 18 anos somente acompanhados pelos pais ou responsável legal. Ingresso Solidário: meia-entrada mediante doação obrigatória de 1kg de alimento não perecível",
+   "id": "f-21597b84cf",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "Carol Biazin makes her Fundição debut with the show \"Odeio Muito a Despedida\", featuring hits from her whole career, after releasing the EP \"Assumo os Riscos\".",
+   "sinopse_es": "Carol Biazin debuta en la Fundição con el show \"Odeio Muito a Despedida\", con éxitos de toda su carrera, tras lanzar el EP \"Assumo os Riscos\".",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "21:00"
+    }
+   ],
    "preco_texto": "a partir de R$ 55,20",
    "preco_min": 55.2,
    "preco_max": 55.2,
@@ -12698,6 +12734,42 @@
      "hora": "21:00"
     }
    ],
+   "preco_texto": "a partir de R$ 70 (meia-entrada solidária, pista)",
+   "preco_min": 70,
+   "preco_max": 70,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "tipo": "evento",
+   "areas": [
+    "Música"
+   ],
+   "fonte": "Release da Fundição Progresso (página de Imprensa, enviado pela coordenação editorial em 24/11)",
+   "link": "https://fundicaoprogresso.com.br/Imprensa",
+   "titulo": "Péricles",
+   "sinopse": "O \"Rei da Voz\", com mais de 40 anos de carreira no Exaltasamba e solo, volta à Fundição com seus maiores sucessos.",
+   "trecho_fonte": "conhecido como o “Rei da Voz”, Péricles faz show na Fundição Progresso, na Lapa, no sábado, 16 de janeiro. Com mais de 40 anos de carreira [...] Tanto como integrante do Exaltasamba quanto em carreira solo, Péricles fez história na Casa e promete mais uma noite com seus maiores sucessos de todos os tempos. || Data: 16 de janeiro, sábado Horário: 21h Local: Fundição Progresso Endereço: Rua dos Arcos, 24 [...] Ingressos: www.fundicaoprogresso.com.br A partir de R$70 (meia entrada solidária/ pista)",
+   "id": "f-2fe5076eff",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "The \"Rei da Voz\" (King of the Voice), with over 40 years of career with Exaltasamba and solo, returns to Fundição with his greatest hits.",
+   "sinopse_es": "El \"Rei da Voz\" (Rey de la Voz), con más de 40 años de carrera en Exaltasamba y en solitario, vuelve a la Fundição con sus mayores éxitos.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-16",
+     "hora": "21:00"
+    }
+   ],
    "preco_texto": "A partir de R$ 120 (meia R$ 60)",
    "preco_min": 60,
    "preco_max": 120,
@@ -12954,6 +13026,42 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-22",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 110 (meia-entrada solidária, pista)",
+   "preco_min": 110,
+   "preco_max": 110,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "tipo": "evento",
+   "areas": [
+    "Música"
+   ],
+   "fonte": "Release da Fundição Progresso (página de Imprensa, enviado pela coordenação editorial em 24/11)",
+   "link": "https://fundicaoprogresso.com.br/Imprensa",
+   "titulo": "The Wailers e Pato Banton",
+   "sinopse": "A banda fundada por Bob Marley, hoje liderada por Aston Barrett Jr., toca clássicos como \"Positive Vibration\" e \"War\" ao lado do britânico Pato Banton, de \"Baby Come Back\" e \"Bubbling Hot\".",
+   "trecho_fonte": "A banda jamaicana The Wailers, fundada por Bob Marley nos anos 1960 [...] O convidado especial é Pato Banton, artista britânico de Birmingham conhecido por hits como 'Baby Come Back' e 'Bubbling Hot'. [...] The Wailers, liderada por Aston Barrett Jr. [...] clássicos como 'Positive Vibration' e 'War' se encontram com os sucessos de Pato Banton. || Local: Fundição Progresso (Rua dos Arcos, 24, Lapa, Rio de Janeiro). Data: 22 de janeiro de 2027 Abertura da Casa: 21h Ingressos: www.fundicaoprogresso.com.br A partir de R$110 (meia entrada solidária/ pista) Classificação etária: 18 anos",
+   "id": "f-3ba5c300bd",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "The band founded by Bob Marley, now led by Aston Barrett Jr., plays classics such as \"Positive Vibration\" and \"War\" alongside British artist Pato Banton, of \"Baby Come Back\" and \"Bubbling Hot\".",
+   "sinopse_es": "La banda fundada por Bob Marley, hoy liderada por Aston Barrett Jr., toca clásicos como \"Positive Vibration\" y \"War\" junto al británico Pato Banton, de \"Baby Come Back\" y \"Bubbling Hot\".",
+   "faixa": "acima80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-23",
      "hora": "16:00"
     }
@@ -13019,6 +13127,42 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "A string quartet plays Phil Collins hits in a candlelit space at Solar de Botafogo. It is a tribute concert, with no ties to the artists.",
    "sinopse_es": "Un cuarteto de cuerdas toca éxitos de Phil Collins en un espacio iluminado por velas, en el Solar de Botafogo. Es un concierto tributo, sin vínculo con los artistas.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-23",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "a partir de R$ 60 (meia-entrada solidária, pista)",
+   "preco_min": 60,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "tipo": "evento",
+   "areas": [
+    "Música"
+   ],
+   "fonte": "Release da Fundição Progresso (página de Imprensa, enviado pela coordenação editorial em 24/11)",
+   "link": "https://fundicaoprogresso.com.br/Imprensa",
+   "titulo": "Baco Exu do Blues",
+   "sinopse": "Show que atravessa a trajetória do rapper baiano, dos discos \"Esú\" e \"Bluesman\" (\"Te Amo Disgraça\", \"Me Desculpa Jay Z\", \"Flamingos\", \"Girassóis de Van Gogh\") ao álbum mais recente, \"HASOS\", com identidade visual criada para esta apresentação.",
+   "trecho_fonte": "o artista se apresenta no dia 23 de janeiro, na Lapa [...] um roteiro que atravessa toda a sua trajetória: dos hinos de “Esú” e “Bluesman”, como “Te Amo Disgraça”, “Me Desculpa Jay Z”, “Flamingos” e “Girassóis de Van Gogh”, às faixas de “HASOS”, seu álbum mais recente || Data: 23/01/2027 Horário: 21h Local: Fundição Progresso - Rua dos Arcos, 24, Lapa [...] Valores: A partir de R$60 (pista/ meia entrada solidária) [...] Plataforma de vendas: Shotgun Classificação etária: 18 anos",
+   "id": "f-162e3eb0a9",
+   "entrou_em": "2026-11-24",
+   "sinopse_en": "A show spanning the Bahian rapper's career, from the albums \"Esú\" and \"Bluesman\" (\"Te Amo Disgraça\", \"Me Desculpa Jay Z\", \"Flamingos\", \"Girassóis de Van Gogh\") to his latest, \"HASOS\", with visuals created for this performance.",
+   "sinopse_es": "Show que recorre la trayectoria del rapero bahiano, de los discos \"Esú\" y \"Bluesman\" (\"Te Amo Disgraça\", \"Me Desculpa Jay Z\", \"Flamingos\", \"Girassóis de Van Gogh\") al álbum más reciente, \"HASOS\", con una identidad visual creada para esta presentación.",
    "faixa": "ate80",
    "status": "conferido"
   },

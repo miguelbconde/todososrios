@@ -1,12 +1,12 @@
 # Relatório da edição — Programação de hoje até 23 de janeiro de 2027
 
-- Eventos e exposições: **742** (699 eventos com 5523 sessões; 43 em cartaz)
+- Eventos e exposições: **746** (703 eventos com 5527 sessões; 43 em cartaz)
 - Grátis: **37** · preço popular (até R$ 40): **118**
-- Conferidos sem ressalva: **734** · a confirmar: **8**
+- Conferidos sem ressalva: **738** · a confirmar: **8**
 
 ## Distribuição por região
 
-- Centro: 134
+- Centro: 138
 - Zona Sul: 219
 - Zona Sudoeste: 153
 - Zona Norte: 177
@@ -272,6 +272,7 @@
 - [baixa] **Canela de Velho no Quintal de Benfica: homenagem a Oxum** (f-74efc97d70) — Preço não informado na fonte
 - [baixa] **Cores Sonoras** (f-e5752a0029) — Preço não informado na fonte
 - [baixa] **Mesmo Rio** (f-345c3d2ed6) — Preço não informado na fonte
+- [baixa] **Carol Biazin: Odeio Muito a Despedida** (f-21597b84cf) — Preço não informado na fonte
 - [baixa] **El Corazón y Otros Frutos Amargos** (f-2e833de58e) — Preço não informado na fonte
 - [baixa] **Canela de Velho** (f-f78460d8a7) — Preço não informado na fonte
 - [baixa] **Adrian Cortês: Moonwalk Fest** (f-ad440effa4) — Preço não informado na fonte
@@ -393,7 +394,7 @@
 - **09/12**: Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Dragstar – 14ª temporada: a grande final
 - **10/12**: Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Festival Contarolando Histórias; Tem Culpa Eu? – comédia de improviso investigativo
 - **11/12**: Samba da Constituição canta Djavan; Festival Contarolando Histórias; Jade Vitóriah: A Cor da Minha Voz
-- **12/12**: Candlelight: O Melhor de Outlander; Cuidado Quando For Falar de Mim; Olhar para Dentro
+- **12/12**: Carol Biazin: Odeio Muito a Despedida; Cuidado Quando For Falar de Mim; Olhar para Dentro
 - **13/12**: Candlelight: Coldplay & Imagine Dragons; Festival Contarolando Histórias; El Corazón y Otros Frutos Amargos
 - **14/12**: Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120
 - **15/12**: Terças no Ipanema: Sandra Pêra; Piano em Cena – Rogério Koury; Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos
@@ -419,11 +420,11 @@
 - **11/01**: O Formigueiro
 - **14/01**: Tributo a Tim Maia, com André Marçal; Marcelo Duque: Sem Filtro; Eles Não Usam Black Tie
 - **15/01**: Eles Não Usam Black Tie; Marcelo Duque: Sem Filtro; Aurora – O Despertar da Mulher Exausta
-- **16/01**: Paulinho da Viola; Marcelo Duque: Sem Filtro; Kwesny em Manual do Carioca
+- **16/01**: Péricles; Marcelo Duque: Sem Filtro; Kwesny em Manual do Carioca
 - **17/01**: The Jazz Room: Marvin Gaye em uma noite de soul; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
 - **21/01**: Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta; Ballet of Lights: A Bela Adormecida
-- **22/01**: Candlelight: Compositores intemporais; Diego Besou em Upa que Pariu; Eles Não Usam Black Tie
-- **23/01**: Candlelight: Tributo a Phil Collins; Aurora – O Despertar da Mulher Exausta; Trilhas Épicas de Game of Thrones e Senhor dos Anéis
+- **22/01**: The Wailers e Pato Banton; Diego Besou em Upa que Pariu; Eles Não Usam Black Tie
+- **23/01**: Baco Exu do Blues; Aurora – O Despertar da Mulher Exausta; Trilhas Épicas de Game of Thrones e Senhor dos Anéis
 
 Regras de curadoria:
 - Todas as regras cumpridas.
@@ -689,6 +690,7 @@ Regras de curadoria:
 - **Candlelight: Hinos do rock dos anos 80** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Candlelight: O Melhor de Outlander** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Acessibilidade não informada.
 - **Candlelight: O Melhor da MPB** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 24/1 fora da janela.
+- **Carol Biazin: Odeio Muito a Despedida** — O release não dá preço nem a hora do show; 21h é a abertura da casa. Há meia-entrada solidária com doação de 1 kg de alimento.
 - **Candlelight: Queen & The Beatles** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 20/2 fora da janela.
 - **El Corazón y Otros Frutos Amargos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
 - **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
@@ -722,6 +724,7 @@ Regras de curadoria:
 - **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
 - **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
 - **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
+- **Péricles** — O release não dá a classificação etária. Só o menor preço, de meia-entrada solidária.
 - **Paulinho da Viola** — Preço: o menor valor informado; pode haver setores mais caros.
 - **Kwesny em Manual do Carioca** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Raphael Ghanem em A Carne Só Cai no Prato do Vegano** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
@@ -729,8 +732,10 @@ Regras de curadoria:
 - **Candlelight: Os clássicos do rock** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Candlelight: Compositores intemporais** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Diego Besou em Upa que Pariu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **The Wailers e Pato Banton** — O release não dá a hora do show; 21h é a abertura da casa. Só o menor preço, de meia-entrada solidária. O release dá dois nomes para a turnê ('Exódus 2027 World Tour' e '50 Years of Positive Vibrations'); deixei fora do título.
 - **Trilhas Épicas de Game of Thrones e Senhor dos Anéis** — Preço não informado.
 - **Candlelight: Tributo a Phil Collins** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Baco Exu do Blues** — O release só dá o menor preço, que é de meia-entrada solidária; a inteira não é informada. Venda pela Shotgun.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
