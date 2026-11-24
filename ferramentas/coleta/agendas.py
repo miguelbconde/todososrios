@@ -105,6 +105,7 @@ def _detalhe(texto):
 def sesc(pasta):
     base = "https://cultura.sescrio.org.br"
     vistos, candidatos, falhas, pagina, total = set(), [], [], 1, None
+    arquivo = 0  # eventos já encerrados que o site mantém na lista
     limite = HOJE + dt.timedelta(days=JANELA_SESC)
     while True:
         st, txt = baixar(f"{base}/programacao?page={pagina}")
@@ -124,6 +125,12 @@ def sesc(pasta):
             except ValueError:
                 d = None
             if d and d > limite:
+                continue
+            # A lista do site guarda o arquivo do ano inteiro; nela, a data de cada evento é a próxima sessão
+            # (ou a última, se já acabou). Conferido em 24/11/2026: nenhum evento com data passada na lista tinha
+            # sessão futura. Por isso não se abre a página dos antigos (economiza ~15 minutos da ronda).
+            if d and d < HOJE - dt.timedelta(days=1):
+                arquivo += 1
                 continue
             candidatos.append(e)
         if not lista or (total and pagina >= total) or pagina >= 80:
@@ -160,7 +167,8 @@ def sesc(pasta):
         f.write(f"FAGENDA_sesc | Sesc RJ — programação oficial das unidades na cidade do Rio (agenda dedicada do Todos os Rios) | {base}/programacao\n")
         f.write("## sessões, por data\n")
         f.write("\n".join(linhas) + "\n")
-    return {"paginas": pagina, "eventos_no_rio": len(candidatos), "linhas": len(linhas), "fora": motivos, "falhas": falhas}
+    return {"paginas": pagina, "eventos_no_rio_em_cartaz": len(candidatos), "eventos_no_rio_ja_encerrados": arquivo,
+            "linhas": len(linhas), "fora": motivos, "falhas": falhas}
 
 
 # ------------------------------------------------------------------ Arte que Acontece
