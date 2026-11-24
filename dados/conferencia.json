@@ -704,6 +704,30 @@
    "detalhe": "A sinopse afirmava algo que a fonte não diz.",
    "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
    "id": "f-25e6d54419"
+  },
+  {
+   "id": "f-6cfa8a334b",
+   "titulo": "Candlelight: Tributo ao Guns N' Roses",
+   "campo": "classificacao",
+   "veredito": "diverge",
+   "detalhe": "A fonte informa idade mínima de 8 anos e acessibilidade.",
+   "resolucao": "Corrigido: classificação e acessibilidade preenchidas."
+  },
+  {
+   "id": "f-316f8e3cdb",
+   "titulo": "Candlelight: O Melhor de Outlander",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Dizia ser concerto tributo sem ligação com os artistas; a página não diz isso. Faltava a classificação (a partir de 8 anos).",
+   "resolucao": "Corrigido: sinopse e classificação conforme a fonte."
+  },
+  {
+   "id": "f-b36c446b0c",
+   "titulo": "Candlelight: Tributo ao Oasis",
+   "campo": "local",
+   "veredito": "duvida",
+   "detalhe": "A Fever escreve 'Solar de Botafogo'; Teatro Rival e Teatro dos Quatro sem 'subsolo'/'Shopping da Gávea'.",
+   "resolucao": "Mantido: nome e endereço iguais aos das fichas já na base para o mesmo espaço."
   }
  ]
 }
