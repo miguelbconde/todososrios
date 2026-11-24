@@ -427,7 +427,7 @@
 - **23/01**: Baco Exu do Blues; Aurora – O Despertar da Mulher Exausta; Trilhas Épicas de Game of Thrones e Senhor dos Anéis
 
 Regras de curadoria:
-- Todas as regras cumpridas.
+- ⚠️ mês — As boas do mês têm 6 escolhas; o padrão é de 3 a 4
 
 ## Traduções
 
