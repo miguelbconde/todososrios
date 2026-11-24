@@ -1,16 +1,16 @@
-# Relatório da edição — Programação de hoje até 22 de janeiro de 2027
+# Relatório da edição — Programação de hoje até 23 de janeiro de 2027
 
-- Eventos e exposições: **698** (656 eventos com 5763 sessões; 42 em cartaz)
-- Grátis: **38** · preço popular (até R$ 40): **116**
-- Conferidos sem ressalva: **689** · a confirmar: **9**
+- Eventos e exposições: **682** (640 eventos com 5365 sessões; 42 em cartaz)
+- Grátis: **37** · preço popular (até R$ 40): **113**
+- Conferidos sem ressalva: **674** · a confirmar: **8**
 
 ## Distribuição por região
 
-- Centro: 112
-- Zona Sul: 202
-- Zona Sudoeste: 154
-- Zona Norte: 173
-- Zona Oeste: 57
+- Centro: 109
+- Zona Sul: 194
+- Zona Sudoeste: 152
+- Zona Norte: 171
+- Zona Oeste: 56
 
 ## Conferente independente (IA)
 
@@ -28,7 +28,6 @@
 - **Guardar – Coleção Marcia e Luiz Chrysostomo** (2026-11-19-135) · preco_texto · *diverge* — A ficha traz só "R$ 10 (meia R$ 5), só na bilheteria". F066 (ArtRio) acrescenta "Às quartas-feiras, a entrada é franca para todos os públicos." e "Aos domingos, “ingresso família” a R$10 para grupos de quatro pessoas." A quarta gratuita (25/11 cai na edição) não aparece na ficha. → **Corrigido: acrescentado “grátis às quartas”.**
 - **Atom Pink Floyd – Pink Floyd Symphonic** (2026-11-19-149) · classificacao · *diverge* — A ficha deixa vazio. F114 traz "Classificação etária: 16 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis." → **Corrigido: 16 anos.**
 - **Margaridas** (2026-11-19-150) · classificacao · *diverge* — A ficha deixa vazio. F123 traz "CLASSIFICAÇÃO ETÁRIA: 10 anos" (e "DURAÇÃO: 60 minutos"). → **Corrigido: 10 anos.**
-- **Três a Varejo + 1** (2026-11-19-127) · sessoes · *duvida* — A ficha traz segunda, 23/11, 19h30, como na página inicial de F016 ("seg., 23 de nov. Três a Varejo / [...] 23 de nov. de 2026, 19:30"). Mas a listagem SHOWS do mesmo arquivo pula essa data (de "Leonardo Bessa sáb., 21 de nov." vai direto a "Branka ter., 24 de nov."), o botão é "Informações" e não "compre aqui", e o quadro de horários da casa só cita de terça a sábado. Fonte contraditória quanto ao show de segunda. → **pendente (sai como “a confirmar”)**
 - **ECOS – coletiva** (2026-11-19-136) · sinopse · *duvida* — A sinopse diz "19 trabalhos, entre pinturas, esculturas e um vídeo", como a ArtRio (F066: "São dezenove obras, entre pinturas, esculturas e um vídeo"). O site da galeria (F100) diz "Reunindo vinte trabalhos, entre pinturas, esculturas, serigrafias e vídeos". A nota declara a divergência de horário, mas não esta; e nela diz que vale o site da galeria. → **Corrigido: vale o site da galeria (cerca de vinte trabalhos); a divergência fica anotada.**
 - **Casa da Mônica** (2026-11-19-133) · endereco · *duvida* — O endereço da ficha está certo, mas a nota erra ao dizer que ele não está no texto coletado: F013 traz "Biblioteca Parque Estadual Av. Pres. Vargas, 1261 – Centro, Rio de Janeiro – RJ, 20071-004". → **Corrigido: a nota estava errada; o endereço consta na fonte e entrou no trecho.**
 - **CEP 20.000** (f-f29bb7524a) · areas · *duvida* — A listagem da Sympla não diz o que é a programação; áreas escolhidas pelo histórico do evento. → **pendente (sai como “a confirmar”)**
@@ -58,16 +57,6 @@
 - [baixa] **Romain Dumesnil: EXORAMA** (f-dbb5dba5a3) — Preço não informado na fonte
 - [baixa] **Ser imortal é deixar lucidamente algo fora de sítio** (f-e02b0bbcb4) — Preço não informado na fonte
 - [baixa] **Andréa Hygino: Projeto parquinho** (f-f3b05f223f) — Preço não informado na fonte
-- [baixa] **Moacyr Luz e Samba do Trabalhador** (f-9b5a6ff868) — Preço não informado na fonte
-- [baixa] **Lançamento: Migrantes da Descolonização** (2026-11-19-134) — Preço não informado na fonte
-- [baixa] **Lançamento: Ministério do Tempo Livre – um manifesto** (2026-11-19-154) — Preço não informado na fonte
-- [baixa] **Lançamento: Música em Pauta** (2026-11-19-155) — Preço não informado na fonte
-- [media] **Ensaio de rua do Paraíso do Tuiuti** (2026-11-19-171) — Link oficial ausente
-- [baixa] **Três a Varejo + 1** (2026-11-19-127) — Preço não informado na fonte
-- [baixa] **Xodó em Flor** (f-2d78333860) — Preço não informado na fonte
-- [baixa] **Samba, Livre, Leve e Solto, com Paulão 7 Cordas** (f-54fb9840fe) — Preço não informado na fonte
-- [baixa] **Marcos Ariel Quarteto** (f-fb442c15f2) — Preço não informado na fonte
-- [baixa] **Camila Cardoso – Antes e Depois do Plantão** (2026-11-19-165) — Preço não informado na fonte
 - [baixa] **Meninas e Mulheres na Ciência e Tecnologia: redes que abrem caminhos** (2026-11-19-139) — Preço não informado na fonte
 - [baixa] **A poesia brasileira na Coleção Ciranda da Poesia – ciclo de conferências** (2026-11-19-123) — Preço não informado na fonte
 - [baixa] **Espetáculo “Descoberta das Américas” e lançamento do livro “Descobrimento”** (f-08c1e2974f) — Preço não informado na fonte
@@ -339,7 +328,6 @@
 
 ## Destaques (A boa)
 
-- **23/11**: Ensaio de rua do Paraíso do Tuiuti; Lançamento: Ministério do Tempo Livre – um manifesto; Moacyr Luz e Samba do Trabalhador
 - **24/11**: Pagode da Garagem; Priscilla em 2L em A Cara da Mãe e o P@u do Pai; Seminário Estadual: Por uma Educação Antirracista
 - **25/11**: Aldir Blanc – 80 anos: Guinga, Moacyr Luz e Zé Renato (data extra); Ensaio de rua da Unidos de Vila Isabel; Clube de Leitura CCBB com Raphael Montes
 - **26/11**: Azymuth: Águia Não Come Mosca e Grandes Clássicos; Festival Arpoarte 2026; Suraras do Tapajós
@@ -381,7 +369,7 @@
 - **22/01**: Eles Não Usam Black Tie; Diego Besou em Upa que Pariu
 
 Regras de curadoria:
-- ⚠️ 23/11 — Falta a seção da vez: Teatro
+- Todas as regras cumpridas.
 
 ## Traduções
 
@@ -410,16 +398,6 @@ Regras de curadoria:
 - **Romain Dumesnil: EXORAMA** — Preço não informado. Achada pelo radar do Arte que Acontece; fatos do site da galeria.
 - **Ser imortal é deixar lucidamente algo fora de sítio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Centro Cultural do Poder Judiciário). A Sympla dá o período de 19/11, 16h, a 27/11, 19h, sem dias nem horário de visitação.
 - **Andréa Hygino: Projeto parquinho** — Nenhuma fonte oficial do MAM na ronda; fatos do Arte que Acontece. Horário é o geral do museu, dado pela ArtRio. Preço não informado.
-- **Moacyr Luz e Samba do Trabalhador** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
-- **Lançamento: Migrantes da Descolonização** — A fonte não informa preço.
-- **Lançamento: Ministério do Tempo Livre – um manifesto** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
-- **Lançamento: Música em Pauta** — A fonte não informa preço. O endereço não está no texto coletado; é o endereço público do espaço.
-- **Ensaio de rua do Paraíso do Tuiuti** — Fonte: agenda semanal dos ensaios divulgada em post e enviada à coordenação editorial em 19/11, sem data de publicação; o horário é o de início ou de concentração. Sexta, 20/11, é feriado.
-- **Três a Varejo + 1** — A página só dá o preço de terça a sábado; o de segunda-feira não é informado. O horário é o que a página do bar dá para a noite; a mesma página avisa que o show principal pode começar mais tarde.
-- **Xodó em Flor** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). Bairro pelo endereço; a fonte não o diz. A listagem não detalha quem se apresenta.
-- **Samba, Livre, Leve e Solto, com Paulão 7 Cordas** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
-- **Marcos Ariel Quarteto** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço.
-- **Camila Cardoso – Antes e Depois do Plantão** — O site só dá o preço inicial.
 - **Seminário Estadual: Por uma Educação Antirracista** — O PDF do Novembro Negro avisa: “evento sujeito a alterações”. No PDF semanal está na seção de atividades formativas.
 - **Meninas e Mulheres na Ciência e Tecnologia: redes que abrem caminhos** — A fonte não informa preço. A página de atividades da casa tem um botão de inscrição que parece ser deste encontro, mas não repete o título nem a data.
 - **A poesia brasileira na Coleção Ciranda da Poesia – ciclo de conferências** — A fonte não informa preço nem classificação.
@@ -788,7 +766,6 @@ Regras de curadoria:
 - **Jim Queen** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Pré-Estreia Com Debate: Os Irmãos Segreto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Sessão Debate: Fiz Um Foguete Imaginando Que Você Vinha** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -814,7 +791,6 @@ Regras de curadoria:
 - **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Sessão Vitrine: Eu Vou Ter Saudades De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -840,10 +816,10 @@ Regras de curadoria:
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Alucinação** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Apenas Uma Ilusão** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **As Crianças Estão Bem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -870,7 +846,6 @@ Regras de curadoria:
 - **Glen Ou Glenda** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jim Queen** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **O Caso Dos Irmãos Naves** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Razão E Sensibilidade** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -989,7 +964,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verity** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Daniel E A Fornalha Ardente** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1002,7 +976,6 @@ Regras de curadoria:
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Malês (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1048,7 +1021,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
