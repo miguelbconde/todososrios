@@ -86,7 +86,7 @@ PUBLICOS = ("municipal", "Municipal", "Arena", "Areninha", "Biblioteca", "Muhcab
 MAX_BOA = 3
 RODIZIO = ("Teatro", "Artes Visuais", "Cinema", "Livros & Debates", "Festas & Feiras", "Infantil")
 EIXO = ("Centro", "Zona Sul")
-MES_MIN, MES_MAX = 3, 4  # "As boas do mês" (22/11/2026): 3 ou 4 grandes nomes e eventos de compra antecipada
+MES_MIN, MES_MAX = 3, 6  # "As boas do mês": 3 a 6 grandes nomes e eventos de compra antecipada (até 6 desde 24/11/2026)
 
 
 def secao_da_vez(dia, pool):

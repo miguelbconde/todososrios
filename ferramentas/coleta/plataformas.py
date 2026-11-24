@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extração das plataformas de ingresso — Ingresso.com (cinema), Sympla e Fever (eventos).
+"""Extração das plataformas de ingresso — Ingresso.com (cinema), Sympla, Fever e Uhuu (eventos).
 
 Faz parte da ronda diária. Segue o protocolo do Todos os Rios para plataformas (plano diretor, seção 5):
 só fatos sobre eventos (título, datas, horários, local, preço, classificação, link), nunca dados de
@@ -11,6 +11,7 @@ Saídas (na pasta de texto bruto da ronda, fora da linha principal):
   plataformas.json        dados estruturados das duas plataformas
   (a lista da Sympla para a redação é feita depois, por triagem_sympla.py)
   FPLAT_fever.txt         candidatos da Fever, triados pelas mesmas regras, lidos pela peneira e pela redação
+  FPLAT_uhuu.txt          candidatos da Uhuu (desde 24/11/2026), idem
 E na linha principal, só números: dados/coleta/plataformas.md
 Uso: python3 plataformas.py <pasta de saída>
 """
@@ -301,6 +302,87 @@ def triagem_fever(fv, pasta):
     return len(cand), len(fora)
 
 
+UHUU_LISTA = "https://uhuu.com/pertodemim"
+UHUU_PAGINAS = 40  # a listagem nacional tinha 16 páginas de 12 eventos em 24/11/2026
+
+
+def texto_html(h):
+    import html as H
+    t = re.sub(r"<(br|/p|hr|/li)[^>]*>", " ", h or "", flags=re.I)
+    return re.sub(r"\s+", " ", H.unescape(re.sub(r"<[^>]+>", " ", t))).strip()
+
+
+def uhuu():
+    """Uhuu (desde 24/11/2026): a listagem pública traz, embutidos na página, os eventos do país inteiro com
+    primeira e última apresentação, hora, preços, classificação e o texto do evento. Ficam só os do Rio."""
+    eventos, falhas, lidas = [], [], 0
+    for pg in range(1, UHUU_PAGINAS + 1):
+        st, html = baixar(f"{UHUU_LISTA}?page={pg}")
+        time.sleep(PAUSA)
+        if st != 200:
+            falhas.append(f"página {pg} (código {st})"); break
+        i = html.find("const eventosData = ")
+        if i < 0:
+            falhas.append(f"página {pg}: dados não encontrados"); break
+        try:
+            d, _ = json.JSONDecoder().raw_decode(html[i + len("const eventosData = "):])
+        except ValueError:
+            falhas.append(f"página {pg}: dados ilegíveis"); break
+        lidas += 1
+        itens = d.get("data") or {}
+        for e in (itens.values() if isinstance(itens, dict) else itens):
+            if (e.get("local_uf") or "") != "RJ" or (e.get("local_cidade") or "") != "Rio de Janeiro":
+                continue
+            eventos.append({
+                "id": str(e.get("evento_id") or e.get("id")), "titulo": (e.get("evento_nome") or "").strip(),
+                "local": (e.get("local_nome") or "").strip(), "categoria": e.get("categoria_nome") or "",
+                "inicio": (e.get("dt_primeira_apresentacao") or "").replace(" ", "T")[:16],
+                "fim": (e.get("dt_ultima_apresentacao") or "").replace(" ", "T")[:16],
+                "preco_de": e.get("ingresso_inicial") or "", "preco_ate": e.get("maior_valor_ingresso") or "",
+                "gratis": bool(e.get("b_gratuito")), "classificacao": e.get("evento_censura") or "",
+                "cancelado": bool(e.get("b_cancelado")), "adiado": bool(e.get("b_adiado")), "esgotado": bool(e.get("esgotado")),
+                "texto": texto_html(e.get("descricao"))[:1500], "link": e.get("url_landing_page") or ""})
+        if not d.get("next_page_url") or pg >= (d.get("last_page") or pg):
+            break
+    return {"eventos": eventos, "falhas": falhas, "paginas_lidas": lidas}
+
+
+def triagem_uhuu(uh, pasta):
+    """Mesmas regras da triagem da Sympla. Horários da Uhuu já vêm no fuso do Rio."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import triagem_sympla as T
+    hoje = dt.date.today().isoformat(); limite = (dt.date.today() + dt.timedelta(days=62)).isoformat()
+    cand, fora = [], []
+    for e in uh["eventos"]:
+        if e["fim"][:10] < hoje or e["inicio"][:10] > limite:
+            continue
+        alvo = T.n(" ".join([e["titulo"], e["local"]]))
+        motivo = "cancelado" if e["cancelado"] else next((m for m, r in T.FORA if re.search(r, alvo)), None)
+        if motivo:
+            fora.append((motivo, e)); continue
+        prio = 2 if re.search(T.PUBLICO, alvo) or re.search(r"cidade das artes|theatro municipal|sala cecilia", alvo) else 1 if re.search(T.CULTURA, T.n(" ".join([alvo, e["categoria"]]))) else 0
+        cand.append((prio, e))
+    cand.sort(key=lambda x: (-x[0], x[1]["inicio"]))
+    rotulo = {2: "PRIORIDADE: equipamento público ou espaço cultural", 1: "cultural", 0: "verificar"}
+    with open(os.path.join(pasta, "FPLAT_uhuu.txt"), "w", encoding="utf-8") as f:
+        f.write("FPLAT_uhuu | Uhuu (extração e triagem automática do Todos os Rios) | " + UHUU_LISTA + "\n")
+        for nivel in (2, 1, 0):
+            f.write(f"## {rotulo[nivel]}\n")
+            for pr, e in cand:
+                if pr != nivel:
+                    continue
+                di, hi = e["inicio"][:10], e["inicio"][11:16]; df, hf = e["fim"][:10], e["fim"][11:16]
+                temporada = " | TEMPORADA: a listagem só dá a primeira e a última apresentação" if di != df else ""
+                preco = "grátis" if e["gratis"] else f"de {e['preco_de']} a {e['preco_ate']} (o menor pode ser meia)"
+                avisos = "".join(f" | {x.upper()}" for x in ("adiado", "esgotado") if e[x])
+                f.write(f"{di} {hi} até {df} {hf} | {e['titulo']} | {e['local']} | {e['categoria']} | {preco} | "
+                        f"classificação: {e['classificacao']}{temporada}{avisos} | {e['link']} | texto da página: {e['texto']}\n")
+    with open(os.path.join(pasta, "uhuu-descartados.txt"), "w", encoding="utf-8") as f:
+        for m, e in sorted(fora, key=lambda x: x[0]):
+            f.write(f"{m} | {e['inicio'][:10]} | {e['titulo']} | {e['local']}\n")
+    return len(cand), len(fora)
+
+
 def hora_rio(iso):
     """'2026-11-19T22:00:00+00:00' -> ('2026-11-19', '19:00') no horário do Rio (UTC−3)."""
     try:
@@ -319,7 +401,11 @@ def main(saida):
         fv = fever()
     except Exception as e:  # a Fever nunca derruba a ronda
         fv = {"eventos": [], "falhas": [f"erro: {type(e).__name__}"]}
-    json.dump({"feito_em": feito, "ingresso": ing, "sympla": sym, "fever": fv},
+    try:
+        uh = uhuu()
+    except Exception as e:  # a Uhuu nunca derruba a ronda
+        uh = {"eventos": [], "falhas": [f"erro: {type(e).__name__}"], "paginas_lidas": 0}
+    json.dump({"feito_em": feito, "ingresso": ing, "sympla": sym, "fever": fv, "uhuu": uh},
               open(os.path.join(saida, "plataformas.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     por_cinema = {}
     for s in ing["sessoes"]:
@@ -337,9 +423,15 @@ def main(saida):
         nc, nf = 0, 0; fv["falhas"].append(f"triagem: {type(e).__name__}")
     linhas += ["", f"## Fever: {len(fv['eventos'])} eventos no Rio ({nc} candidatos para a redação, {nf} descartados pela regra)", ""]
     linhas += [f"- Falhou: {x}" for x in fv["falhas"]] or ["- Sem falhas."]
+    try:
+        nu, nd = triagem_uhuu(uh, saida)
+    except Exception as e:
+        nu, nd = 0, 0; uh["falhas"].append(f"triagem: {type(e).__name__}")
+    linhas += ["", f"## Uhuu: {len(uh['eventos'])} eventos no Rio ({uh['paginas_lidas']} páginas lidas; {nu} candidatos para a redação, {nd} descartados pela regra)", ""]
+    linhas += [f"- Falhou: {x}" for x in uh["falhas"]] or ["- Sem falhas."]
     os.makedirs(os.path.join(RAIZ, "dados", "coleta"), exist_ok=True)
     open(os.path.join(RAIZ, "dados", "coleta", "plataformas.md"), "w", encoding="utf-8").write("\n".join(linhas) + "\n")
-    print(f"Ingresso.com: {len(ing['sessoes'])} sessões · Sympla: {len(sym['eventos'])} eventos · Fever: {len(fv['eventos'])} eventos")
+    print(f"Ingresso.com: {len(ing['sessoes'])} sessões · Sympla: {len(sym['eventos'])} eventos · Fever: {len(fv['eventos'])} eventos · Uhuu: {len(uh['eventos'])} eventos")
 
 
 if __name__ == "__main__":
