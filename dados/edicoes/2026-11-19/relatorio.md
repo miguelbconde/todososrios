@@ -2,7 +2,7 @@
 
 - Eventos e exposições: **742** (699 eventos com 5523 sessões; 43 em cartaz)
 - Grátis: **37** · preço popular (até R$ 40): **118**
-- Conferidos sem ressalva: **733** · a confirmar: **9**
+- Conferidos sem ressalva: **734** · a confirmar: **8**
 
 ## Distribuição por região
 
@@ -58,7 +58,7 @@
 - **Quintal da Magia e Délcio Luiz** (f-c8546d5963) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
 - **Canela de Velho no Quintal de Benfica: homenagem a Oxum** (f-74efc97d70) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
 - **Samba da Constituição canta Djavan** (f-02f112b40f) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
-- **Samba da Constituição canta Djavan** (f-02f112b40f) · bairro · *nao_encontrado* — A Sympla não dá o bairro do Mocamba Livre (Rua do Livramento, entre Saúde e Gamboa). → **pendente (sai como “a confirmar”)**
+- **Samba da Constituição canta Djavan** (f-02f112b40f) · bairro · *nao_encontrado* — A Sympla não dava o bairro do Mocamba Livre. → **Corrigido: Rua do Livramento, 98, Gamboa (informado pela coordenação editorial).**
 
 ## Conferência mecânica (regras)
 
@@ -392,7 +392,7 @@
 - **08/12**: Ana Bispo canta Te Amos; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Terças no Ipanema: Celso Fonseca
 - **09/12**: Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Dragstar – 14ª temporada: a grande final
 - **10/12**: Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Festival Contarolando Histórias; Tem Culpa Eu? – comédia de improviso investigativo
-- **11/12**: Jade Vitóriah: A Cor da Minha Voz; Festival Contarolando Histórias; O Quebra-Nozes
+- **11/12**: Samba da Constituição canta Djavan; Festival Contarolando Histórias; Jade Vitóriah: A Cor da Minha Voz
 - **12/12**: Candlelight: O Melhor de Outlander; Cuidado Quando For Falar de Mim; Olhar para Dentro
 - **13/12**: Candlelight: Coldplay & Imagine Dragons; Festival Contarolando Histórias; El Corazón y Otros Frutos Amargos
 - **14/12**: Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120
@@ -671,7 +671,7 @@ Regras de curadoria:
 - **Tiê** — A listagem da Sympla não informa preço nem classificação. Show presumido pelo nome da artista.
 - **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
 - **Tem Culpa Eu? – comédia de improviso investigativo** — A listagem da Sympla não informa preço nem classificação.
-- **Samba da Constituição canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organização independente. A fonte não dá o bairro; a Rua do Livramento fica entre Saúde e Gamboa, conferir.
+- **Samba da Constituição canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organização independente. Endereço completo e bairro informados pela coordenação editorial em 24/11.
 - **16º Sarau Pretos Novos** — A listagem da Sympla não informa preço nem classificação. organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN. Organizador: Instituto de Pesquisa e Memória Pretos Novos (sem fins lucrativos). A fonte não dá o número do endereço.
 - **Jade Vitóriah: A Cor da Minha Voz** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
