@@ -1,12 +1,70 @@
 {
  "pendentes": [
-  {"fonte": "FPLAT_fever", "titulo": "Candlelight (Museu do Amanhã, Solar de Botafogo, Teatro dos Quatro), The Jazz Room (Teatro Rival) e outras ofertas da Fever", "data": "2026-11-26", "motivo": "não deu tempo"},
-  {"fonte": "FPLAT_sympla", "titulo": "grupo 'cultural' da Sympla: casas de samba, teatros comerciais (Brigitte Blair, Vanucci, Miguel Falabella, Clara Nunes, Fashion Mall, Cândido Mendes), bares de música, de 26/11 a 22/1 (cerca de 200 linhas ainda não redigidas)", "data": "2026-11-26", "motivo": "não deu tempo"},
-  {"fonte": "FPLAT_sympla", "titulo": "rede municipal na Sympla com natureza incerta: Negro é a Raiz da Liberdade, Sankofar Saberes Ancestrais, Cadência (Bruno Maia), Deixa Falar, Pequenos Exploradores, Tentativa 74, Amor em Tom Maior, A Biblioteca dos Sonhos Esquecidos, Bronson Guarilha", "data": "2026-11-28", "motivo": "a fonte só dá o título; conferir se é apresentação aberta ou de escola"},
-  {"fonte": "FPLAT_sympla", "titulo": "Novos ares: Pontal reinventado (Museu do Pontal) e O que resta (Centro Hélio Oiticica)", "data": "2026-11-23", "motivo": "falta confirmar se são exposições e o horário de visitação"},
-  {"fonte": "F063", "titulo": "Rigoletto (Ópera do Meio-Dia), Theatro Municipal, 25 e 26/11", "data": "2026-11-25", "motivo": "a fonte não dá a hora da apresentação"},
-  {"fonte": "F028", "titulo": "Jango, 50 anos depois (ABI), 7/12", "data": "2026-12-07", "motivo": "a fonte não dá a hora"},
-  {"fonte": "F116", "titulo": "Teatro das Artes: Cá entre nós, A Gongada das Mil Xuxas, Uma Vida de Amizade", "data": "2026-12-08", "motivo": "não deu tempo; a hora da listagem vem com fuso errado, conferir na página do evento"},
-  {"fonte": "FPLAT_sympla", "titulo": "grupo 'a verificar' da Sympla (só títulos)", "data": "2026-11-23", "motivo": "não deu tempo"}
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "grupo 'cultural' da Sympla: casas de samba, rodas e bares de música (Samba do Luna, Samba da Barão, Pasmado, Ferreirinha, Samba DQuintal, Soul do Samba, Colinda, Espetto Valqueire, Pagodente, Samba Prazi, Varanda de Vó, Samba do Pedro Ivo, Bangu Canta Pagode 90, Resenha R.O.S.A., Projero) e teatros comerciais e infantis (Miguel Falabella, Brigitte Blair, Teatros da Barra, Clara Nunes, Vanucci, Cândido Mendes), de 25/11 a 22/1, mais as cerca de 200 linhas que já estavam pendentes",
+   "data": "2026-11-25",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "ATO 021 – 4ª edição (Circo no Ato), Fundição Progresso, 28/11",
+   "data": "2026-11-28",
+   "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_fever",
+   "titulo": "Edgar Allan Poe Speakeasy, Solar de Botafogo, 9 e 16/1",
+   "data": "2027-01-09",
+   "motivo": "a página não traz texto; conferir o formato"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "rede municipal na Sympla com natureza incerta: Negro é a Raiz da Liberdade, Sankofar Saberes Ancestrais, Cadência (Bruno Maia), Deixa Falar, Pequenos Exploradores, Tentativa 74, Amor em Tom Maior, A Biblioteca dos Sonhos Esquecidos, Bronson Guarilha",
+   "data": "2026-11-28",
+   "motivo": "a fonte só dá o título; conferir se é apresentação aberta ou de escola"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Novos ares: Pontal reinventado (Museu do Pontal) e O que resta (Centro Hélio Oiticica)",
+   "data": "2026-11-23",
+   "motivo": "falta confirmar se são exposições e o horário de visitação"
+  },
+  {
+   "fonte": "F063",
+   "titulo": "Rigoletto (Ópera do Meio-Dia), Theatro Municipal, 25 e 26/11",
+   "data": "2026-11-25",
+   "motivo": "a fonte não dá a hora da apresentação"
+  },
+  {
+   "fonte": "F028",
+   "titulo": "Jango, 50 anos depois (ABI), 7/12",
+   "data": "2026-12-07",
+   "motivo": "a fonte não dá a hora"
+  },
+  {
+   "fonte": "F034",
+   "titulo": "Fundição Progresso: Bloco do Silva (9/1) e Baco Exu do Blues (23/1)",
+   "data": "2027-01-09",
+   "motivo": "a fonte não dá a hora"
+  },
+  {
+   "fonte": "F133",
+   "titulo": "Oswaldo Montenegro, A Dança dos Signos, Espaço Hall, 23/1",
+   "data": "2027-01-23",
+   "motivo": "a fonte não dá a hora"
+  },
+  {
+   "fonte": "F002",
+   "titulo": "ABL: Victor Giudice e a ficção, Quinta é Cultura, 10/12 às 17h30",
+   "data": "2026-12-10",
+   "motivo": "não deu tempo; conferir data e título na página"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "grupo 'a verificar' da Sympla (só títulos)",
+   "data": "2026-11-25",
+   "motivo": "não deu tempo"
+  }
  ]
 }
