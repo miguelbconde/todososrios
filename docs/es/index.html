@@ -256,6 +256,25 @@ header.topo{padding-top:24px}
 #qdata{position:absolute;left:0;bottom:0;width:1px;height:1px;opacity:0;pointer-events:none;border:0;padding:0}
 .trilho-caixa{position:sticky;top:0;z-index:5;background:var(--papel);display:flex;align-items:center;gap:4px}
 .trilho-caixa .trilho{position:static;flex:1;min-width:0}
+/* Ajustes do celular (24/11/2026): faixa presa com separação; aviso de filtro; eventos de hoje já começados; topo mais compacto */
+.trilho-caixa{flex-wrap:wrap;transition:box-shadow .15s}
+.trilho-caixa.presa{box-shadow:0 1px 0 var(--linha),0 6px 10px -8px rgba(0,0,0,.35)}
+.filtrando{flex:1 0 100%;margin:0 0 8px;font:500 13px/1.3 var(--sans);color:var(--tinta2);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.filtrando[hidden]{display:none}
+.filtrando b{color:var(--tinta);font-weight:600}
+.filtrando button{border:0;background:transparent;color:var(--acento);font:600 13px var(--sans);text-decoration:underline;text-underline-offset:3px;padding:6px 2px;cursor:pointer}
+.ev.passou{opacity:.5}
+.hora.passou{opacity:.5}
+@media (prefers-reduced-motion: reduce){.trilho-caixa{transition:none}}
+details.grade-toda details>summary{list-style-position:inside}
+@media (max-width:719px){
+  .marca h1{font-size:clamp(48px,13.5vw,58px)}
+  header.topo{padding-top:16px;padding-bottom:20px}
+  .lema-topo{font-size:14px;margin-top:4px}
+  .busca{margin:12px 0 8px}
+  .modos{margin-top:0}
+  .qb{margin-top:10px}
+}
 .seta{display:none;flex:0 0 36px;height:44px;border:1px solid var(--linha);border-radius:12px;background:var(--papel);color:var(--tinta);
   font:600 22px/1 var(--serif);cursor:pointer;align-items:center;justify-content:center}
 .seta:hover{border-color:var(--tinta)}
@@ -331,9 +350,9 @@ body.sem-linhas .hora{border-bottom:none;padding-bottom:0;margin-top:24px}
   <input id="q" type="search" autocomplete="off" data-tp="busca" placeholder="Buscar: artista, lugar, bairro…" aria-label="Buscar">
 </div>
 <div class="chips secoes faixa-filtros" id="filtrosTopo">
-  <div id="fGratis" style="display:contents"></div><span class="sep" aria-hidden="true"></span>
-  <div id="fAreas" style="display:contents"></div><span class="sep" aria-hidden="true"></span>
-  <button class="chip reg" id="regBtn" type="button" aria-expanded="false" aria-controls="fRegioes"><span data-t="regiao">Região</span> <span id="nfiltros"></span> ▾</button>
+  <div id="fGratis" style="display:contents"></div>
+  <button class="chip reg" id="regBtn" type="button" aria-expanded="false" aria-controls="fRegioes"><span data-t="regiao">Região</span> <span id="nfiltros"></span> ▾</button><span class="sep" aria-hidden="true"></span>
+  <div id="fAreas" style="display:contents"></div>
 </div>
 <div class="chips" id="fRegioes" hidden></div>
 
@@ -343,6 +362,7 @@ body.sem-linhas .hora{border-bottom:none;padding-bottom:0;margin-top:24px}
   <button class="seta" id="setaEsq" type="button" aria-label="Dias anteriores">‹</button>
   <nav class="trilho" id="dias" aria-label="Dias"></nav>
   <button class="seta" id="setaDir" type="button" aria-label="Próximos dias">›</button>
+  <p class="filtrando" id="filtrando" hidden></p>
 </div>
 
 <section id="boa">
@@ -452,9 +472,9 @@ const T = {
    teste:"Vista previa: aún con pocas fuentes. Descripciones en portugués.",
    dias:["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"],fontes:"Fuentes: ",naoinf:"Precio no informado"}
 };
-Object.assign(T.pt,{lemaTopo:"A cidade inteira, de hoje a dois meses à frente. Aberta, gratuita, sem cadastro.",escData:"Escolher data",precoFonte:"Preço: consulte a fonte oficial.",navPreco:"Preço e lugar",navSecoes:"Seções",limpa:"Limpar filtros",legBoas:"dias com uma das boas do mês",mesAnt:"Mês anterior",mesProx:"Próximo mês",sem:["D","S","T","Q","Q","S","S"]});
-Object.assign(T.en,{lemaTopo:"The whole city, from today to two months ahead. Open, free, no sign-up.",escData:"Pick a date",precoFonte:"Price: check the official source.",navPreco:"Price & place",navSecoes:"Sections",limpa:"Clear filters",legBoas:"days with a book-ahead pick",mesAnt:"Previous month",mesProx:"Next month",sem:["S","M","T","W","T","F","S"]});
-Object.assign(T.es,{lemaTopo:"Toda la ciudad, de hoy a dos meses. Abierta, gratuita, sin registro.",escData:"Elegir fecha",precoFonte:"Precio: consulta la fuente oficial.",navPreco:"Precio y lugar",navSecoes:"Secciones",limpa:"Borrar filtros",legBoas:"días con algo de «Lo bueno del mes»",mesAnt:"Mes anterior",mesProx:"Mes siguiente",sem:["D","L","M","X","J","V","S"]});
+Object.assign(T.pt,{filtrando:"Filtrando:",lemaTopo:"A cidade inteira, de hoje a dois meses à frente. Aberta, gratuita, sem cadastro.",escData:"Escolher data",precoFonte:"Preço: consulte a fonte oficial.",navPreco:"Preço e lugar",navSecoes:"Seções",limpa:"Limpar filtros",legBoas:"dias com uma das boas do mês",mesAnt:"Mês anterior",mesProx:"Próximo mês",sem:["D","S","T","Q","Q","S","S"]});
+Object.assign(T.en,{filtrando:"Filtered:",lemaTopo:"The whole city, from today to two months ahead. Open, free, no sign-up.",escData:"Pick a date",precoFonte:"Price: check the official source.",navPreco:"Price & place",navSecoes:"Sections",limpa:"Clear filters",legBoas:"days with a book-ahead pick",mesAnt:"Previous month",mesProx:"Next month",sem:["S","M","T","W","T","F","S"]});
+Object.assign(T.es,{filtrando:"Filtrando:",lemaTopo:"Toda la ciudad, de hoy a dos meses. Abierta, gratuita, sin registro.",escData:"Elegir fecha",precoFonte:"Precio: consulta la fuente oficial.",navPreco:"Precio y lugar",navSecoes:"Secciones",limpa:"Borrar filtros",legBoas:"días con algo de «Lo bueno del mes»",mesAnt:"Mes anterior",mesProx:"Mes siguiente",sem:["D","L","M","X","J","V","S"]});
 const AREA_T = {en:{"Música":"Music","Teatro":"Theatre & dance","Artes Visuais":"Visual arts","Cinema":"Film","Livros & Debates":"Books & talks","Festas & Feiras":"Festivals & fairs","Infantil":"Kids"},
                es:{"Música":"Música","Teatro":"Teatro y danza","Artes Visuais":"Artes visuales","Cinema":"Cine","Livros & Debates":"Libros y debates","Festas & Feiras":"Fiestas y ferias","Infantil":"Infantil"}};
 const REG_T = {en:{"Centro":"Downtown","Zona Sul":"South Zone","Zona Sudoeste":"Southwest Zone","Zona Norte":"North Zone","Zona Oeste":"West Zone"}};
@@ -463,6 +483,8 @@ const REG_T = {en:{"Centro":"Downtown","Zona Sul":"South Zone","Zona Sudoeste":"
 const guarda = {get(k,d){try{const v=localStorage.getItem("largo:"+k);return v?JSON.parse(v):d}catch(e){return d}},
                 set(k,v){try{localStorage.setItem("largo:"+k,JSON.stringify(v))}catch(e){}}};
 const hojeISO = (()=>{const n=new Date(Date.now()-3*3600e3);return n.toISOString().slice(0,10)})();
+// hoje, um evento conta como "já começou" uma hora depois do horário de início (fica mais apagado e desce em "A boa")
+const passou = (dia,hora)=>{ if(dia!==hojeISO||!hora) return false; const n=new Date(Date.now()-3*3600e3-3600e3).toISOString().slice(11,16); return hora<n; };
 const E = D.eventos, ED = D.edicao;
 const DIAS = []; for(let d=new Date(ED.inicio+"T12:00:00Z"); d<=new Date(ED.fim+"T12:00:00Z"); d=new Date(d.getTime()+864e5)) DIAS.push(d.toISOString().slice(0,10));
 let S = {lang:"es", dia:null, q:"", areas:guarda.get("areas",[]), regioes:guarda.get("regioes",[]), gratis:guarda.get("gratis",false), popular:guarda.get("popular",false), rua:guarda.get("rua",false), aberto:null};
@@ -516,7 +538,7 @@ function card(it,k,porque,horaVisivel){
   const mapa = "https://www.openstreetmap.org/search?query="+encodeURIComponent(`${e.endereco}, ${e.bairro}, Rio de Janeiro`);
   // "Mais informações": busca na web com o título entre aspas, o lugar e a cidade (só um link; nada do buscador é carregado no site)
   const busca = "https://www.google.com/search?q="+encodeURIComponent(`"${e.titulo}" ${e.local} Rio de Janeiro`);
-  return `<li class="ev${aberto?" aberto":""}" data-id="${id}">
+  return `<li class="ev${aberto?" aberto":""}${passou((it.data&&it.data!=="~")?it.data:S.dia,it.hora)?" passou":""}" data-id="${id}">
    <button class="abre" aria-expanded="${aberto}">${(porque||horaVisivel)&&it.hora?`<div class="quando">${hh(it.hora)}</div>`:""}<h3>${esc(e.titulo)}</h3>${porque?`<p class="porque">${esc(porque)}</p>`:""}
    <div class="onde"><strong>${esc(e.local)}</strong> · ${esc(e.bairro||"—")}${quando?`<br>${quando}`:""}</div>${e.aviso==="dias"?`<div class="avd">${t("avisoDias")}</div>`:""}
    <div class="tags">${precoTag(e)}${e.areas.slice(0,1).map(a=>`<span class="tag">${esc(tA(a))}</span>`).join("")}${e.na_rua?`<span class="tag">${t("ruaTag")}</span>`:""}</div></button>
@@ -574,7 +596,7 @@ function render(){
     const ds=(D.destaques&&D.destaques[S.dia])||[];
     const lst=ds.map(d=>{const e=E.find(x=>x.id===d.id); if(!e||!passaFiltros(e)) return null;
       const s=e.sessoes.find(x=>x.data===S.dia); return s?{it:{e,hora:s.hora},porque:(S.lang!=="pt"&&d["porque_"+S.lang])||d.porque}:null;}).filter(Boolean)
-      .sort((a,b)=>a.it.hora<b.it.hora?-1:1);
+      .sort((a,b)=>(passou(S.dia,a.it.hora)-passou(S.dia,b.it.hora))||(a.it.hora<b.it.hora?-1:1));
     document.querySelector("#destaques").innerHTML = (lst.length? lst.map((x,k)=>card(x.it,k,x.porque)).join("")
       : (ds.length? `<li class="vazio">${t("semDest")}</li>` : ""))
       + ((D.destaques_mes||[]).length? `<li class="vazio"><button class="btn vermes" data-dia="mes">${t("verBoaMes")}</button></li>` : ""); }
@@ -585,7 +607,7 @@ function render(){
   let html="", ultima=null;
   if(S.q||S.dia==="mes"){ let ud=null; its.forEach((it,k)=>{ if(it.data!==ud){ ud=it.data; html+=`<li class="hora">${it.data==="~"?t("cartaz"):(it.data===hojeISO?t("hoje"):tituloDiaCurto(dDia(it.data)))}</li>`; }
       html+=card(it,k,it.porque||null,it.hora); }); }
-  else its.forEach((it,k)=>{ if(it.hora && it.hora!==ultima){ html+=`<li class="hora">${hh(it.hora)}</li>`; ultima=it.hora;} html+=card(it,k); });
+  else its.forEach((it,k)=>{ if(it.hora && it.hora!==ultima){ html+=`<li class="hora${passou(S.dia,it.hora)?" passou":""}">${hh(it.hora)}</li>`; ultima=it.hora;} html+=card(it,k); });
   document.querySelector("#lista").innerHTML = html || `<li class="vazio">${t("vazio")}</li>`;
   // grade dos cinemas: um bloco por cinema, um filme por linha com os horários do dia
   let g="";
@@ -740,6 +762,18 @@ matchMedia('(prefers-color-scheme: dark)').addEventListener('change',pinta); pin
   var tr=document.querySelector("#dias");
   document.querySelector("#setaEsq").onclick=function(){tr.scrollBy({left:-tr.clientWidth*.8,behavior:"smooth"})};
   document.querySelector("#setaDir").onclick=function(){tr.scrollBy({left:tr.clientWidth*.8,behavior:"smooth"})};
+  // faixa de dias presa no topo: linha de separação e lembrete dos filtros ligados
+  var cx=document.querySelector(".trilho-caixa"), ft=document.querySelector("#filtrando");
+  function filtros(){ var l=[]; if(S.gratis) l.push(t("gratis")); if(S.popular) l.push(t("popular")); if(S.rua) l.push(t("rua"));
+    S.regioes.forEach(function(r){l.push(tR(r))}); S.areas.forEach(function(a){l.push(tA(a))}); return l; }
+  function presa(){ var p=cx.getBoundingClientRect().top<=0.5 && window.scrollY>0; cx.classList.toggle("presa",p);
+    var l=filtros(); var mostra=p&&l.length>0;
+    if(mostra){ ft.innerHTML=t("filtrando")+' <b>'+l.map(esc).join(" · ")+'</b><button type="button" id="limpaFaixa">'+t("limpa")+'</button>'; }
+    ft.hidden=!mostra; }
+  addEventListener("scroll",presa,{passive:true});
+  document.addEventListener("click",function(ev){ if(ev.target.closest("#limpaFaixa")){ Object.assign(S,{areas:[],regioes:[],gratis:false,popular:false,rua:false});
+    ["areas","regioes"].forEach(function(k){guarda.set(k,[])}); ["gratis","popular","rua"].forEach(function(k){guarda.set(k,false)}); render(); presa(); }
+    else if(ev.target.closest("[data-f],[data-reg],[data-area]")) setTimeout(presa,0); });
   var rb=document.querySelector("#regBtn"), fr=document.querySelector("#fRegioes");
   rb.onclick=function(){fr.hidden=!fr.hidden; rb.setAttribute("aria-expanded",!fr.hidden)};
   var qd=document.querySelector("#qdata"); qd.min=DIAS[0]; qd.max=DIAS[DIAS.length-1];

@@ -346,4 +346,12 @@ Avaliação geral da identidade e da experiência de uso, no celular e no comput
 - **Lista sem fios entre os eventos:** a hora em azul e o título em serifa já separam um do outro. Vale para a lista a regra da seção 2.1 (espaço no lugar de linhas).
 - **Mantidos por decisão da coordenação editorial:** tamanho das etiquetas e dos botões (testados no celular, sem problema); itálico do "por que ir" (frase curta, marca a voz da redação); os cinco botões da ficha aberta (reforçam a cara de compilação, de banco de dados); peso da página (abre rápido; só mexer se ficar lento, e nunca à custa de função ou de escopo).
 
+**Ajustes do celular (24/11/2026, aplicados no mesmo dia, depois de revisão com bastante atenção em três tamanhos de tela).**
+- "Região" logo depois de "Na rua", no começo da faixa de filtros (antes ficava no fim, escondido).
+- A faixa de dias, quando fica presa no topo ao rolar, ganha uma linha fina e uma sombra leve, para o texto que passa por baixo não parecer cortado.
+- Com algum filtro ligado, a faixa presa mostra "Filtrando: Zona Sul · Música" e o botão "Limpar filtros", para ninguém esquecer que a lista está recortada.
+- Hoje, um evento passa a contar como "já começou" uma hora depois do horário de início: fica mais apagado na lista e desce para o fim de "A boa de hoje". Exposições e atividades sem horário não mudam.
+- Topo mais compacto só no celular: "Rios." um pouco menor e menos espaço entre a linha sinuosa, a busca e os filtros. "A boa de hoje" sobe cerca de 45 px.
+- Grade dos cinemas: as setinhas de abrir cada cinema voltaram para dentro da margem.
+
 **Correção (24/11/2026).** A marca em uso no site é a versão empilhada ("TODOS OS" em Gabarito sobre "Rios." em Source Serif 4, com o ponto de sol), e não o E4 ("TODOSOSRIOS" num só fluxo) descrito na seção 4.
