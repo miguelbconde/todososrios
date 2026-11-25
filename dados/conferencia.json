@@ -928,6 +928,94 @@
    "veredito": "diverge",
    "detalhe": "Rótulo fora da fonte no trecho.",
    "resolucao": "Corrigido: rótulo retirado."
+  },
+  {
+   "id": "f-040ee69754",
+   "titulo": "Tangolomango – cantigas, histórias e brincadeiras",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: frase sobre acessibilidade retirada."
+  },
+  {
+   "id": "f-6a27b066b3",
+   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-543be3e01a",
+   "titulo": "Quintal da VP: roda de samba do Papo de Quintal na rua",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-a239d37d31",
+   "titulo": "ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-3d33915b69",
+   "titulo": "Baile Charme Essência Black",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-59e1d0e722",
+   "titulo": "Já Quero Esse Pagode – FM O Dia no Renascença",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-70e1e81da6",
+   "titulo": "Pagode de Verão: Diggo (Conexão Rio-Salvador)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-9e04c91b88",
+   "titulo": "Baile da Didi no Rio Scenarium",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: nota sem a taxa."
+  },
+  {
+   "id": "f-fdea4298cb",
+   "titulo": "Quintal da Quintão – Revive",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-c8a5c9df7e",
+   "titulo": "Feijoada do Samba de Caboclo – feriado de São Sebastião",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-9356acd839",
+   "titulo": "Lavagem do Rio ao Bonfim",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
   }
  ]
 }
