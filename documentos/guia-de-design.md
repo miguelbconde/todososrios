@@ -371,6 +371,8 @@ Motivo: a coordenação editorial achou o site funcional, mas pouco contemporân
 
 **Conserto da busca (25/11/2026).** No iPhone, a busca parecia não funcionar: a lista se atualizava enquanto se digitava, mas ficava escondida sob o teclado, e o Enter não fazia nada. Agora o Enter aplica a busca, fecha o teclado e leva a tela até "N atividades", logo abaixo da faixa de dias. A tecla do teclado aparece como "Buscar".
 
+**Respiro sob o cabeçalho (25/11/2026).** A linha sinuosa azul estava colada na descrição do site. Ganhou 10 px de distância, no celular e no computador.
+
 **Prévias e programa.** `ferramentas/estudo_j.py` gera `docs/estudo-j1` (Gabarito + Inter), `j2` (Gabarito + Source Sans 3, descartada) e `j3` (a escolhida) a partir do site publicado. Ficam como registro.
 
 **Efeito sobre a seção 5.** Ficam resolvidas "Qual fonte usar" (abertas: Gabarito, Inter e Source Serif 4) e "Serifa ou grotesca nos títulos" (sem serifa).
