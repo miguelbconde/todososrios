@@ -5640,12 +5640,16 @@
     {
      "data": "2026-11-21",
      "hora": "20:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "20:00"
     }
    ],
    "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "de R$ 50 a R$ 100",
+   "preco_min": 50,
+   "preco_max": 100,
    "gratis": false,
    "classificacao": "Livre",
    "acessibilidade": "",
@@ -5653,10 +5657,11 @@
    "sinopse": "Sozinho no palco, com voz, violão de oito cordas, guitarra, pedais de loop e samples, o artista revisita o pagode nascido no subúrbio carioca nos anos 90, entre música, manifesto e poesia.",
    "fonte": "Site do Teatro Bangu Shopping (ronda de 19/11)",
    "link": "https://teatrobangushopping.com.br/evento/muato-concerto-sobre-o-pagode",
-   "trecho_fonte": "Muato - Concerto Sobre o Pagode [...] sáb, 21 de novembro de 2026 20h00 Em “DERÊ - CONCERTO SOBRE O PAGODE”, o premiado artista Muato, apresenta um show que flutua entre a música, o manifesto e a poesia. O artista se expressa através de sua voz, violão de 8 cordas, guitarra, pedais de loop, samples [...] repertório baseado no Pagode, gênero que nasceu no subúrbio carioca nos anos 90. [...] 21/11/2026 Livre || Rua da Fonseca, 240 – Espaço 174 – Bangu – Rio de Janeiro – RJ",
-   "nota_redacao": "A coleta não trouxe o preço.",
+   "trecho_fonte": "Muato - Concerto Sobre o Pagode [...] sáb, 21 de novembro de 2026 20h00 Em “DERÊ - CONCERTO SOBRE O PAGODE”, o premiado artista Muato, apresenta um show que flutua entre a música, o manifesto e a poesia. O artista se expressa através de sua voz, violão de 8 cordas, guitarra, pedais de loop, samples [...] repertório baseado no Pagode, gênero que nasceu no subúrbio carioca nos anos 90. [...] 21/11/2026 Livre || Rua da Fonseca, 240 – Espaço 174 – Bangu – Rio de Janeiro – RJ || 2027-01-15 20:00 até 2027-01-15 20:00 | Muato  - Concerto Sobre o Pagode | Teatro Bangu Shopping | Espetáculo | de R$ 50,00 a R$ 100,00 (o menor pode ser meia) | classificação: Livre",
+   "nota_redacao": "Nova sessão em 15/1/2027 na Uhuu (ronda de 25/11). O menor preço da Uhuu pode ser meia-entrada.",
    "id": "2026-11-19-170",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-25"
   },
   {
    "titulo": "Ensaio de rua do Paraíso do Tuiuti",
@@ -6443,6 +6448,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-03",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "Teresa Cristina recebe a Velha Guarda da Portela no projeto Memórias do Samba, na Arena Dicró, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130694",
+   "trecho_fonte": "2026-12-03 21:00 até 2026-12-03 21:00 | Memórias do Samba:  Teresa Cristina part. Velha Guarda da Portela | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso  | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira",
+   "id": "f-0a59a101f5",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-27",
      "hora": "21:00"
     }
@@ -6803,6 +6841,39 @@
    "trecho_fonte": "2026-11-29 14:00 até 2026-11-29 20:00 | Forró da Praça no Jo&Joe | Largo do Boticário, Beco do Boticário Cosme Velho | organizador: Jo&Joe RIO | https://www.sympla.com.br/evento/forro-da-praca-no-jo-joe/3656793",
    "id": "f-10dbb25ae9",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "Libras",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.",
+   "aviso": "",
+   "titulo": "O Menino e o Vento – Cultura Zona Oeste (Uerj Sem Muros)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Odylo Costa, filho (UERJ)",
+   "endereco": "Rua São Francisco Xavier, 524",
+   "bairro": "Maracanã",
+   "regiao": "Zona Norte",
+   "sinopse": "Espetáculo \"O menino e o vento\", com Libras, no Teatro Odylo Costa, filho, dentro da 34ª Uerj Sem Muros. De graça.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/espetaculo-o-menino-e-o-vento-cultura-zona-oeste-34a-uerj-sem-muros-libras-gratuito/3661457",
+   "trecho_fonte": "2026-12-10 15:00 até 2026-12-10 16:30 | Espetáculo O menino e o Vento| Cultura Zona Oeste| 34ª Uerj Sem Muros | LIBRAS | Gratuito | Teatro Odylo Costa, filho, Rua São Francisco Xavier Maracanã | organizador: DIVISÃO DE TEATRO DA UERJ",
+   "id": "f-10ec79340e",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -7631,6 +7702,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A listagem não diz o nome do show; Tiago Santineli é humorista (classificado em Teatro).",
+   "aviso": "",
+   "titulo": "Tiago Santineli",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Tiago Santineli se apresenta na Areninha Jacob do Bandolim, no Pechincha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130731",
+   "trecho_fonte": "2026-12-20 19:00 até 2026-12-20 19:00 | TIAGO SANTINELI | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim",
+   "id": "f-270310ea16",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-27",
      "hora": "19:00"
     }
@@ -8396,6 +8500,71 @@
    "trecho_fonte": "2026-12-01 20:00 até 2026-12-01 20:00 | Jazz em dobro: Beth Carvalho & Maria Bethânia | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/127723",
    "id": "f-336a21fcd4",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-23",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-23",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-25",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 50 a R$ 360",
+   "preco_min": 50,
+   "preco_max": 360,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Venda pela Sympla (bileto) ou na bilheteria. O roteiro não diz se R$ 50 é meia nem a classificação.",
+   "aviso": "",
+   "titulo": "O Quebra-Nozes – versão de Thiago Soares",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Multiplan",
+   "endereco": "Av. das Américas, 3.900",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Nova versão do balé de Tchaikovsky com direção e coreografia de Thiago Soares, no Teatro Multiplan, na Barra, de 23 a 28 de dezembro.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-23",
+   "trecho_fonte": "2026-12-23 17:00 | Balé O quebra-nozes, de Tchaikovsky | Teatro Multiplan – Village Mall — Av. das Américas, 3.900 – Barra da Tijuca – Tel. (21) 3030-9970 – https://www.shoppingvillagemall.com.br/teatro/ | ingressos: R$ 50 a R$ 360. Vendas: https://bileto.sympla.com.br/event/128228 ou na bilheteria. [...] programa segundo a revista: Versão inédita. Thiago Soares – direção e coreografia. || 2026-12-23 20:00 || 2026-12-25 20:00 || 2026-12-26 16:00 || 2026-12-26 20:00 || 2026-12-27 16:00 || 2026-12-27 19:00 || 2026-12-28 17:00 || 2026-12-28 20:00",
+   "id": "f-33ab9caca1",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": {
@@ -10172,6 +10341,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-19",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "Libras",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.",
+   "aviso": "",
+   "titulo": "Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Odylo Costa, filho (UERJ)",
+   "endereco": "Rua São Francisco Xavier, 524",
+   "bairro": "Maracanã",
+   "regiao": "Zona Norte",
+   "sinopse": "Concerto em tributo ao legado de Solange P. Mendonça, com Libras, no Teatro Odylo Costa, filho, da Uerj. De graça.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/concerto-harmonia-amor-e-voz-tributo-ao-legado-de-solange-p-mendonca-libras-gratuito/3661446",
+   "trecho_fonte": "2026-12-19 17:00 até 2026-12-19 19:00 | Concerto Harmonia, Amor e Voz | Tributo ao legado de Solange P. Mendonça| LIBRAS | Gratuito | Teatro Odylo Costa, filho, Rua São Francisco Xavier Maracanã | organizador: DIVISÃO DE TEATRO DA UERJ",
+   "id": "f-60fc1e13de",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-08",
      "hora": "19:30"
     }
@@ -10570,6 +10772,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-24",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Vila Anime – Edição Verão 2027",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Edição de verão do Vila Anime na Arena Fernando Torres, em Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130189",
+   "trecho_fonte": "2027-01-24 12:00 até 2027-01-24 12:00 | VILA ANIME - EDIÇÃO VERÃO 2027 | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200  | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres",
+   "id": "f-6dad32d7c9",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-06",
      "hora": "15:00"
     }
@@ -10807,6 +11042,39 @@
    "trecho_fonte": "2026-11-22 16:00 até 2026-11-23 02:00 | Roda de Samba do Vinny Santa Fé (22/11) - Essência do Samba | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/roda-de-samba-do-vinny-santa-fe-22-11-essencia-do-samba/3645389",
    "id": "f-71017228ea",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "II Encontro Nerd de Favela",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Herbert Vianna",
+   "endereco": "Rua Evanildo Alves, s/nº",
+   "bairro": "Maré",
+   "regiao": "Zona Norte",
+   "sinopse": "Segunda edição do encontro nerd na Areninha Herbert Vianna, na Maré.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130664",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | II Encontro Nerd de Favela | Areninha Cultural Herbert Vianna - Maré, R. Evanildo Alves, s/nº  | organizador: Município de Rio de Janeiro - Areninha Cultural Herbert Vianna",
+   "id": "f-72ad055ee6",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -11142,6 +11410,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-20",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Que é comédia vem da página da mesma peça na Uhuu.",
+   "aviso": "",
+   "titulo": "Durval e Valcylange – com Cacau Protasio (Vista Alegre)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Cacau Protasio leva a comédia \"Durval e Valcylange\" à Areninha João Bosco, em Vista Alegre.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130698",
+   "trecho_fonte": "2026-12-20 19:30 até 2026-12-20 19:30 | Cacau Protasio em 'DURVAL E VALCYLANGE' | Areninha Cultural João Bosco de Vista Alegre, Av São Felix, 601  | organizador: Município de Rio de Janeiro - Areninha Cultural João Bosco",
+   "id": "f-7937a4860b",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-04",
      "hora": "20:00"
     },
@@ -11173,6 +11474,39 @@
    "link": "https://www.concerto.com.br/roteiros/2026-12-04",
    "trecho_fonte": "2026-12-04 20:00 | Orquestra Sinfônica Brasileira | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 60 a R$ 250. [...] programa segundo a revista: Música de cinema. Especial Harry Potter. Matheus Carneiro – regente. Programa: Paul Dukas – O aprendiz de feiticeiro; John Williams – Harry Potter e a pedra filosofal, Harry Potter e a câmara secreta, Harry Potter e o pris || 2026-12-05 17:00 | Orquestra Sinfônica Brasileira | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 60 a R$ 250.",
    "id": "f-7a0973d18a",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-23",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "de R$ 80 a R$ 400",
+   "preco_min": 80.0,
+   "preco_max": 400.0,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 20h; o show está previsto para 22h. Preço máximo é de camarote.",
+   "aviso": "",
+   "titulo": "Oswaldo Montenegro – A Dança dos Signos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Hall",
+   "endereco": "Av. Ayrton Senna, 5.850",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Oswaldo Montenegro se apresenta pela primeira vez no Espaço Hall, na Barra, com a turnê \"A Dança dos Signos\", em noite única.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/oswaldo-montenegro-17088",
+   "trecho_fonte": "2027-01-23 22:00 até 2027-01-23 22:00 | Oswaldo Montenegro em sua turnê \"A Dança dos Signos'' | Espaço Hall | Show | de R$ 80,00 a R$ 400,00 (o menor pode ser meia) | classificação: 18 Anos || Abertura da casa: 20h00 Show previsto para: 22h00 || Sábado, dia 23 de janeiro, quem se apresenta pela primeira vez no Espaço hall é o cantor Oswaldo Montenegro, com sua turnê “A Dança dos signos”, a partir das 20h, em única apresentação.",
+   "id": "f-7a37651211",
    "entrou_em": "2026-11-25"
   },
   {
@@ -13741,6 +14075,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Fernando Torres",
+   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Teresa Cristina e a Velha Guarda da Portela no projeto Memórias do Samba, na Arena Fernando Torres, no Parque de Madureira.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130674",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-11-26 19:00 | MEMÓRIAS DO SAMBA: TERESA CRISTINA E VELHA GUARDA DA PORTELA | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200  | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres",
+   "id": "f-a8d5f0ea92",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-06",
      "hora": "17:30"
     }
@@ -15522,6 +15889,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.",
+   "aviso": "",
+   "titulo": "Coral Altivoz – Diálogos Transversos (Uerj Sem Muros)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Odylo Costa, filho (UERJ)",
+   "endereco": "Rua São Francisco Xavier, 524",
+   "bairro": "Maracanã",
+   "regiao": "Zona Norte",
+   "sinopse": "O Coral Altivoz se apresenta no Teatro Odylo Costa, filho, na programação gratuita da 34ª Uerj Sem Muros.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/dialogos-transversos-coral-altivoz-34a-uerj-sem-muros-gratuito/3661428",
+   "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 20:30 | Diálogos Transversos| Coral Altivoz | 34ª Uerj Sem Muros | Gratuito | Teatro Odylo Costa, filho, Rua São Francisco Xavier Maracanã | organizador: DIVISÃO DE TEATRO DA UERJ",
+   "id": "f-c994fa901d",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "18:00"
     }
@@ -16082,6 +16482,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Bandas não informadas.",
+   "aviso": "",
+   "titulo": "Festival Favela Rock II",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Herbert Vianna",
+   "endereco": "Rua Evanildo Alves, s/nº",
+   "bairro": "Maré",
+   "regiao": "Zona Norte",
+   "sinopse": "Segunda edição do festival de rock na Areninha Herbert Vianna, na Maré.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130667",
+   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | Festival Favela Rock II | Areninha Cultural Herbert Vianna - Maré, R. Evanildo Alves, s/nº  | organizador: Município de Rio de Janeiro - Areninha Cultural Herbert Vianna",
+   "id": "f-d0415cf8cc",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-26",
      "hora": "20:00"
     }
@@ -16176,6 +16609,47 @@
    "id": "f-d13457973d",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Dias presumidos: a fonte dá só o início (4/12, 20h) e o fim da temporada (6/12, 19h, que pode ser a hora de término); o sábado, às 20h, é presunção. A natureza do espetáculo não é informada.",
+   "aviso": "dias",
+   "titulo": "Arriba",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ziembinski",
+   "endereco": "Rua Heitor Beltrão, s/nº",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Arriba\" ocupa o Teatro Municipal Ziembinski, na Tijuca, de 4 a 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130478",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-06 19:00 | Arriba | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski",
+   "id": "f-d1b5f7b7eb",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -16725,6 +17199,39 @@
    "trecho_fonte": "aberta de 2026-09-15 até 2027-02-28 | “Armadilhas no Paraíso”, de Tainan Cabral no Museu de Arte do Rio (MAR) | Museu de Arte do Rio, 5 Praça Mauá Centro [...] Entre a aridez da vida cotidiana e a potência da celebração popular, a Zona Oeste do Rio de Janeiro é o território a partir do qual Tainan Cabral constrói sua primeira individual institucional, com curadoria de Marcelo Campos, Amanda Bonan, Jean Carlos Azuos, Amanda Rezende e Thayná [Trindade]",
    "id": "f-d85692266b",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Atrações não informadas.",
+   "aviso": "",
+   "titulo": "ZO Livre Festival",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Festival na Areninha Hermeto Pascoal, em Bangu, na Zona Oeste.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130699",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-04 20:00 | ZO LIVRE FESTIVAL | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n  | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal",
+   "id": "f-d930a64f3b",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": {
@@ -17576,6 +18083,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "Libras",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.",
+   "aviso": "",
+   "titulo": "Ah!Banda – Prezadíssimos Ouvintes (Uerj Sem Muros)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Odylo Costa, filho (UERJ)",
+   "endereco": "Rua São Francisco Xavier, 524",
+   "bairro": "Maracanã",
+   "regiao": "Zona Norte",
+   "sinopse": "A Ah!Banda apresenta o show \"Prezadíssimos Ouvintes\", com Libras, na 34ª Uerj Sem Muros. De graça.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/show-prezadissimos-ouvintes-ah-banda-34a-uerj-sem-muros-libras-gratuito/3661451",
+   "trecho_fonte": "2026-12-04 19:00 até 2026-12-04 20:00 | Show Prezadíssimos Ouvintes| Ah!Banda | 34ª Uerj Sem Muros | LIBRAS | Gratuito | Teatro Odylo Costa, filho, Rua São Francisco Xavier Maracanã | organizador: DIVISÃO DE TEATRO DA UERJ",
+   "id": "f-e60a826140",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-10",
      "hora": "19:00"
     },
@@ -17614,6 +18154,18 @@
     {
      "data": "2026-12-22",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-12-23",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "17:00"
     }
    ],
    "preco_texto": "A partir de R$ 10",
@@ -17623,7 +18175,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A Fever informa temporada até 27/12, mas lista sessões só até 22/12; pode haver outras sessões entre 23 e 27/12. Preço 'a partir de' (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.",
+   "nota_redacao": "A Fever lista sessões só até 22/12; as de 23, 26 e 27/12 vêm do roteiro da Revista CONCERTO (ronda de 25/11), que dá ingressos de R$ 20 a R$ 100. Preço 'a partir de' da Fever (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.",
    "aviso": "",
    "tipo": "evento",
    "titulo": "O Quebra-Nozes",
@@ -17637,9 +18189,10 @@
    "sinopse": "Temporada de dezembro do balé \"O Quebra-Nozes\" no Theatro Municipal, com sessões à noite e matinês aos domingos.",
    "fonte": "Fever (extração do Todos os Rios)",
    "link": "https://feverup.com/m/637531",
-   "trecho_fonte": "2026-12-10 19:00 até 2026-12-27 17:00 | Ballet -  “O Quebra Nozes” | Theatro Municipal do Rio de Janeiro, Praça Floriano, S/N - Centro [...] | a partir de R$ 10 | datas: 2026-12-10 19:00; 2026-12-11 19:00; 2026-12-12 19:00; 2026-12-13 17:00; 2026-12-16 19:00; 2026-12-17 19:00; 2026-12-18 19:00; 2026-12-19 19:00; 2026-12-20 17:00; 2026-12-22 19:00 || ATENÇÃO! Não será permitido o acesso de espectadores à Sala de Espetáculos após o início da apresentação",
+   "trecho_fonte": "2026-12-10 19:00 até 2026-12-27 17:00 | Ballet -  “O Quebra Nozes” | Theatro Municipal do Rio de Janeiro, Praça Floriano, S/N - Centro [...] | a partir de R$ 10 | datas: 2026-12-10 19:00; 2026-12-11 19:00; 2026-12-12 19:00; 2026-12-13 17:00; 2026-12-16 19:00; 2026-12-17 19:00; 2026-12-18 19:00; 2026-12-19 19:00; 2026-12-20 17:00; 2026-12-22 19:00 || ATENÇÃO! Não será permitido o acesso de espectadores à Sala de Espetáculos após o início da apresentação || 2026-12-23 19:00 | Balé O quebra-nozes, de Tchaikovsky | Theatro Municipal (2361 lugares) — Praça Marechal Floriano, s/nº - Centro - Tel. (21) 2262-3935 - http://theatromunicipal.rj.gov.br/ - Ingressos: https://feverup.com/pt/rio-de-janeiro/theatro-municipal-do-rio | ingressos: R$ 20 a R$ 100. || 2026-12-26 19:00 | Balé O quebra-nozes, de Tchaikovsky | Theatro Municipal (2361 lugares) — Praça Marechal Floriano, s/nº - Centro - Tel. (21) 2262-3935 - http://theatromunicipal.rj.gov.br/ - Ingressos: https://feverup.com/pt/rio-de-janeiro/theatro-municipal-do-rio | ingressos: R$ 20 a R$ 100. || 2026-12-27 17:00 | Balé O quebra-nozes, de Tchaikovsky | Theatro Municipal (2361 lugares) — Praça Marechal Floriano, s/nº - Centro - Tel. (21) 2262-3935 - http://theatromunicipal.rj.gov.br/ - Ingressos: https://feverup.com/pt/rio-de-janeiro/theatro-municipal-do-rio | ingressos: R$ 20 a R$ 100.",
    "id": "f-e7300b7d46",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -18384,6 +18937,40 @@
    "trecho_fonte": "2026-11-25 19:30 até 2026-11-25 19:30 | CEP 20.000 | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0  | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto",
    "id": "f-f29bb7524a",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Folia de Reis – A Brilhante Estrela de Belém (Domingo das Crianças)",
+   "areas": [
+    "Infantil",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "O Domingo das Crianças do Centro da Música Carioca, na Tijuca, recebe uma Folia de Reis: \"A Brilhante Estrela de Belém\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130747",
+   "trecho_fonte": "2026-12-13 16:00 até 2026-12-13 16:00 | Domingo das Crianças apresenta Folia de Reis - A Brilhante Estrela de Belém | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824  | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola",
+   "id": "f-f2afecea37",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,

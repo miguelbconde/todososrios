@@ -43,12 +43,6 @@
    "motivo": "a fonte não dá a hora; sem release"
   },
   {
-   "fonte": "F133",
-   "titulo": "Oswaldo Montenegro, A Dança dos Signos, Espaço Hall, 23/1",
-   "data": "2027-01-23",
-   "motivo": "a fonte não dá a hora"
-  },
-  {
    "fonte": "F002",
    "titulo": "ABL: Victor Giudice e a ficção, Quinta é Cultura, 10/12 às 17h30",
    "data": "2026-12-10",
@@ -59,6 +53,18 @@
    "titulo": "grupo 'a verificar' da Sympla (só títulos)",
    "data": "2026-11-25",
    "motivo": "não deu tempo"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Areninhas na Sympla sem descrição: Feira de Saberes (Maré, 26/11), Princesas, Deu a Louca nas Histórias e Sonhos de Uma Noite de Verão (Bangu, 6/12); FASA no MAM (28/11, oficinas e reflexões)",
+   "data": "2026-11-26",
+   "motivo": "a fonte só dá o título; conferir se é aberto ao público e não de escola ou oficina"
+  },
+  {
+   "fonte": "FAGENDA_concerto",
+   "titulo": "OSB Especial Harry Potter em 'Teatro Cidade das Artes', Rua Napoleão Conrado, 328 (6/12, 17h); Concerto de Natal Especial no Theatro Municipal (17/12, 12h)",
+   "data": "2026-12-06",
+   "motivo": "endereço estranho no roteiro; a própria revista pede confirmação do evento de 17/12"
   }
  ]
 }
