@@ -65,10 +65,6 @@
    {
     "id": "f-f49e042115",
     "porque": "Rio Blues Festival ao ar livre, no Aterro do Flamengo."
-   },
-   {
-    "id": "f-beb283b529",
-    "porque": "Última sessão de \"Os Saltimbancos\", em Ipanema."
    }
   ],
   "2026-11-30": [
@@ -181,6 +177,13 @@
     "automatico": true
    }
   ],
+  "2026-12-07": [
+   {
+    "id": "f-d7cbeae19c",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
   "2026-12-08": [
    {
     "id": "f-8079e7c1fb",
@@ -193,8 +196,8 @@
     "automatico": true
    },
    {
-    "id": "f-842d0e6d13",
-    "porque": "Em Ipanema.",
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
     "automatico": true
    }
   ],
@@ -210,8 +213,8 @@
     "automatico": true
    },
    {
-    "id": "f-f1aadd3e01",
-    "porque": "Em Cinelândia.",
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
     "automatico": true
    }
   ],
@@ -222,13 +225,13 @@
     "automatico": true
    },
    {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
+    "id": "f-10ec79340e",
+    "porque": "De graça, em Maracanã.",
     "automatico": true
    },
    {
-    "id": "f-10ec79340e",
-    "porque": "De graça, em Maracanã.",
+    "id": "f-c10bff36d2",
+    "porque": "De graça, em Centro.",
     "automatico": true
    }
   ],
@@ -239,13 +242,13 @@
     "automatico": true
    },
    {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
+    "id": "f-4c8ae58ab7",
+    "porque": "Em Guadalupe.",
     "automatico": true
    },
    {
-    "id": "f-1e4cfb5e99",
-    "porque": "Em Tijuca.",
+    "id": "f-0c3c947f28",
+    "porque": "Em Gamboa.",
     "automatico": true
    }
   ],
@@ -297,13 +300,13 @@
     "automatico": true
    },
    {
-    "id": "f-50f15bb931",
-    "porque": "Em Centro.",
+    "id": "f-abe3a23c33",
+    "porque": "Em Leblon.",
     "automatico": true
    },
    {
-    "id": "f-c949923f2e",
-    "porque": "Em Gávea.",
+    "id": "f-50f15bb931",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -331,8 +334,8 @@
     "automatico": true
    },
    {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
+    "id": "f-556068237b",
+    "porque": "Em Jardim Botânico.",
     "automatico": true
    },
    {
@@ -353,8 +356,8 @@
     "automatico": true
    },
    {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
+    "id": "f-556068237b",
+    "porque": "Em Jardim Botânico.",
     "automatico": true
    }
   ],
@@ -415,13 +418,6 @@
    {
     "id": "f-33ab9caca1",
     "porque": "Em Barra da Tijuca.",
-    "automatico": true
-   }
-  ],
-  "2026-12-24": [
-   {
-    "id": "f-0405b8de0e",
-    "porque": "Em São Conrado.",
     "automatico": true
    }
   ],
@@ -594,6 +590,20 @@
     "automatico": true
    }
   ],
+  "2027-01-12": [
+   {
+    "id": "f-d3cd20fe6a",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
+  "2027-01-13": [
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
   "2027-01-14": [
    {
     "id": "f-75cdb431e3",
@@ -606,7 +616,7 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
+    "id": "f-30327b9bf9",
     "porque": "Em Centro.",
     "automatico": true
    }
@@ -662,10 +672,22 @@
     "automatico": true
    }
   ],
+  "2027-01-18": [
+   {
+    "id": "f-d3cd20fe6a",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
+  ],
   "2027-01-19": [
    {
     "id": "f-8f0838eb43",
     "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-d3cd20fe6a",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -674,14 +696,14 @@
     "id": "f-c8a5c9df7e",
     "porque": "Em Anil.",
     "automatico": true
+   },
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
    }
   ],
   "2027-01-21": [
-   {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
    {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
@@ -689,6 +711,11 @@
    },
    {
     "id": "f-50091abddb",
+    "porque": "Em Gávea.",
+    "automatico": true
+   },
+   {
+    "id": "f-9022a91c92",
     "porque": "Em Gávea.",
     "automatico": true
    }
@@ -717,13 +744,13 @@
     "automatico": true
    },
    {
-    "id": "f-1b0f02a353",
-    "porque": "Em Cachambi.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
-    "porque": "Em Centro.",
+    "id": "f-7a37651211",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    }
   ],
@@ -734,13 +761,13 @@
     "automatico": true
    },
    {
-    "id": "f-1b0f02a353",
-    "porque": "Em Cachambi.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
-    "id": "f-9356acd839",
-    "porque": "Em Lapa.",
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ]
@@ -786,6 +813,7 @@
   "2026-12-04",
   "2026-12-05",
   "2026-12-06",
+  "2026-12-07",
   "2026-12-08",
   "2026-12-09",
   "2026-12-10",
@@ -802,7 +830,6 @@
   "2026-12-21",
   "2026-12-22",
   "2026-12-23",
-  "2026-12-24",
   "2026-12-25",
   "2026-12-26",
   "2026-12-27",
@@ -815,10 +842,13 @@
   "2027-01-09",
   "2027-01-10",
   "2027-01-11",
+  "2027-01-12",
+  "2027-01-13",
   "2027-01-14",
   "2027-01-15",
   "2027-01-16",
   "2027-01-17",
+  "2027-01-18",
   "2027-01-19",
   "2027-01-20",
   "2027-01-21",

@@ -6003,15 +6003,11 @@
     },
     {
      "data": "2026-12-05",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-06",
      "hora": "19:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
     },
     {
      "data": "2026-12-11",
@@ -6019,15 +6015,11 @@
     },
     {
      "data": "2026-12-12",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-13",
      "hora": "19:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "20:00"
     },
     {
      "data": "2026-12-18",
@@ -6035,15 +6027,11 @@
     },
     {
      "data": "2026-12-19",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-20",
      "hora": "19:00"
-    },
-    {
-     "data": "2026-12-24",
-     "hora": "20:00"
     },
     {
      "data": "2026-12-25",
@@ -6051,7 +6039,7 @@
     },
     {
      "data": "2026-12-26",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-27",
@@ -6065,8 +6053,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 20h, a 27/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 20h, a 27/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "A Vida Passou por Aqui",
    "areas": [
     "Teatro"
@@ -6079,9 +6067,10 @@
    "sinopse": "\"A Vida Passou por Aqui\" em temporada no Teatro Fashion Mall, de 4 a 27 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/101258",
-   "trecho_fonte": "2026-12-04 20:00 até 2026-12-27 19:00 | A VIDA PASSOU POR AQUI | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/101258",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-27 19:00 | A VIDA PASSOU POR AQUI | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/101258 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 4 a 27 de Dezembro · Sexta às 20h; Sábado e Domingo às 19h.",
    "id": "f-0405b8de0e",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -7232,8 +7221,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Má Companhia De Teatro. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Organizador: Má Companhia de Teatro (não é órgão público).",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Má Companhia De Teatro. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Dia de Jogo",
    "areas": [
     "Teatro"
@@ -7246,9 +7235,10 @@
    "sinopse": "\"Dia de Jogo\", com produção da Má Companhia de Teatro, em cartaz no Centro Cultural da Justiça Federal de 3 a 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/dia-de-jogo/3653851",
-   "trecho_fonte": "2026-12-03 19:00 até 2026-12-20 19:00 | Dia de Jogo | Centro Cultural Justiça Federal - CCJF, Avenida Rio Branco Centro | organizador: Má Companhia De Teatro | https://www.sympla.com.br/evento/dia-de-jogo/3653851",
+   "trecho_fonte": "2026-12-03 19:00 até 2026-12-20 19:00 | Dia de Jogo | Centro Cultural Justiça Federal - CCJF, Avenida Rio Branco Centro | organizador: Má Companhia De Teatro | https://www.sympla.com.br/evento/dia-de-jogo/3653851 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): em cartaz no Centro Cultural Justiça Federal de 03 a 20/12, de quinta a domingo, sempre às 19h.",
    "id": "f-176da8f5f3",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -7357,11 +7347,7 @@
      "hora": "18:30"
     },
     {
-     "data": "2027-01-23",
-     "hora": "18:30"
-    },
-    {
-     "data": "2027-01-24",
+     "data": "2027-01-29",
      "hora": "18:30"
     }
    ],
@@ -7372,8 +7358,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias presumidos (quinta a domingo): a fonte dá só o início (22/1, 18h30) e o fim (29/1, 18h30); listados os dias até o fim da janela de 60 dias (24/1).",
-   "aviso": "dias",
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Paulo e Estêvão",
    "areas": [
     "Teatro"
@@ -7386,9 +7372,10 @@
    "sinopse": "A peça \"Paulo e Estêvão\" entra em cartaz no Teatro Miguel Falabella, no Norte Shopping, em 22 de janeiro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130583",
-   "trecho_fonte": "2027-01-22 18:30 até 2027-01-29 18:30 | Paulo e Estêvão | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella",
+   "trecho_fonte": "2027-01-22 18:30 até 2027-01-29 18:30 | Paulo e Estêvão | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 22 a 29 de Janeiro · Sexta às 18h30",
    "id": "f-1b0f02a353",
-   "entrou_em": "2026-11-25"
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -7766,11 +7753,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-11",
@@ -7788,8 +7771,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Procura-se Messias",
    "areas": [
     "Teatro"
@@ -7802,9 +7785,10 @@
    "sinopse": "\"Procura-se Messias\" em cartaz no Teatro Municipal Domingos Oliveira, na Gávea, de 4 a 12 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129872",
-   "trecho_fonte": "2026-12-04 20:00 até 2026-12-12 20:00 | Procura-se Messias | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129872",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-12 20:00 | Procura-se Messias | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129872 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 4 a 12 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-2428b38459",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -8386,11 +8370,15 @@
     },
     {
      "data": "2027-01-09",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2027-01-10",
      "hora": "17:00"
+    },
+    {
+     "data": "2027-01-13",
+     "hora": "19:00"
     },
     {
      "data": "2027-01-14",
@@ -8402,11 +8390,15 @@
     },
     {
      "data": "2027-01-16",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2027-01-17",
      "hora": "17:00"
+    },
+    {
+     "data": "2027-01-20",
+     "hora": "19:00"
     },
     {
      "data": "2027-01-21",
@@ -8418,7 +8410,31 @@
     },
     {
      "data": "2027-01-23",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-27",
      "hora": "19:00"
+    },
+    {
+     "data": "2027-01-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-30",
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-31",
+     "hora": "17:00"
     }
    ],
    "preco_texto": "",
@@ -8428,8 +8444,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (6/1, 19h, a 31/1, 17h); dias presumidos: o primeiro dia e de quinta a domingo, 19h, e 17h aos domingos. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (6/1, 19h, a 31/1, 17h); dias presumidos: o primeiro dia e de quinta a domingo, 19h, e 17h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Aurora – O Despertar da Mulher Exausta",
    "areas": [
     "Teatro"
@@ -8442,9 +8458,10 @@
    "sinopse": "\"Aurora – O Despertar da Mulher Exausta\" em temporada no Teatro Firjan SESI Centro, de 6 a 31 de janeiro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130603",
-   "trecho_fonte": "2027-01-06 19:00 até 2027-01-31 17:00 | AURORA – O DESPERTAR DA MULHER EXAUSTA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130603",
+   "trecho_fonte": "2027-01-06 19:00 até 2027-01-31 17:00 | AURORA – O DESPERTAR DA MULHER EXAUSTA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130603 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 6 a 31 de Janeiro · Quarta, Quinta e Sexta às 19h00, Sábado e Domingo às 17h00",
    "id": "f-30327b9bf9",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -8785,14 +8802,6 @@
      "hora": "17:00"
     },
     {
-     "data": "2026-12-17",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "17:00"
-    },
-    {
      "data": "2026-12-19",
      "hora": "17:00"
     },
@@ -8808,8 +8817,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Mesmo Rio",
    "areas": [
     "Teatro"
@@ -8822,9 +8831,10 @@
    "sinopse": "\"Mesmo Rio\" em cartaz no Teatro Municipal Ruth de Souza, em Santa Teresa, de 12 a 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130205",
-   "trecho_fonte": "2026-12-12 17:00 até 2026-12-20 17:00 | Mesmo Rio | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/130205",
+   "trecho_fonte": "2026-12-12 17:00 até 2026-12-20 17:00 | Mesmo Rio | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/130205 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 12 a 20 de Dezembro · Sábado e Domingo às 17h00",
    "id": "f-345c3d2ed6",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": {
@@ -8929,24 +8939,16 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "19:00"
     },
     {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-11-28",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-11-29",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-03",
@@ -8958,11 +8960,11 @@
     },
     {
      "data": "2026-12-05",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-10",
@@ -8974,11 +8976,11 @@
     },
     {
      "data": "2026-12-12",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-13",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-17",
@@ -8990,7 +8992,11 @@
     },
     {
      "data": "2026-12-19",
-     "hora": "19:00"
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "17:00"
     },
     {
      "data": "2026-12-20",
@@ -9004,8 +9010,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Organizador: Sesi RJ.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "O Sonho de Ícaro",
    "areas": [
     "Teatro"
@@ -9018,9 +9024,10 @@
    "sinopse": "\"O Sonho de Ícaro\" em cartaz no Teatro Firjan SESI Centro até 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128513",
-   "trecho_fonte": "2026-11-19 19:00 até 2026-12-20 17:00 | O SONHO DE ÍCARO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1 | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128513",
+   "trecho_fonte": "2026-11-19 19:00 até 2026-12-20 17:00 | O SONHO DE ÍCARO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1 | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128513 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026): Riotur: Quinta e sexta, às 19h; sábado e domingo, às 17h (Sessão extra no dia 19 de dezembro, às 15h; não haverá apresentação em 27 de novembro.) · Sympla: 26 de Novembro a 20 de Dezembro",
    "id": "f-38ba6a7f25",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9045,8 +9052,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; dança presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "VibraSons",
    "areas": [
     "Teatro"
@@ -9059,9 +9066,10 @@
    "sinopse": "\"VibraSons\" no Centro Coreográfico da Cidade, na Tijuca, de 4 a 6 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130281",
-   "trecho_fonte": "2026-12-04 19:00 até 2026-12-06 18:00 | VibraSons | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130281",
+   "trecho_fonte": "2026-12-04 19:00 até 2026-12-06 18:00 | VibraSons | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130281 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 4 a 6 de Dezembro · Sexta e Sábado às 19h00, Domingo às 18h00",
    "id": "f-394e86f0c0",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9350,8 +9358,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte dá só o período (3/12, 20h, a 20/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte dá só o período (3/12, 20h, a 20/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Baby Rei",
    "areas": [
     "Teatro"
@@ -9364,9 +9372,10 @@
    "sinopse": "\"Baby Rei\" em temporada no Teatro Municipal Ipanema Rubens Corrêa, de 3 a 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130588",
-   "trecho_fonte": "2026-12-03 20:00 até 2026-12-20 19:00 | Baby Rei | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824  | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/130588",
+   "trecho_fonte": "2026-12-03 20:00 até 2026-12-20 19:00 | Baby Rei | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824  | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/130588 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 3 a 20 de Dezembro · Quinta, Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-4282152e9c",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9512,15 +9521,15 @@
     },
     {
      "data": "2026-11-27",
-     "hora": "14:00"
+     "hora": "11:00"
     },
     {
      "data": "2026-11-28",
-     "hora": "14:00"
+     "hora": "11:00"
     },
     {
      "data": "2026-11-29",
-     "hora": "14:00"
+     "hora": "11:00"
     }
    ],
    "preco_texto": "",
@@ -9530,8 +9539,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação nem o tipo de festival. Horário de abertura (14h) aplicado a todos os dias; 21h parece ser o encerramento.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).",
+   "aviso": "",
    "titulo": "Festival Arpoarte 2026",
    "areas": [
     "Festas & Feiras"
@@ -9544,9 +9553,10 @@
    "sinopse": "Festival Arpoarte nos armazéns 3 e 4 do Píer Mauá, de 25 a 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
-   "trecho_fonte": "2026-11-25 14:00 até 2026-11-29 21:00 | FESTIVAL ARPOARTE 2026 | Armazém 3 e 4  - Pier Mauá, Avenida Rodrigues Alves Praça Mauá | organizador: FESTIVAL ARPOARTE 2026 | https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
+   "trecho_fonte": "2026-11-25 14:00 até 2026-11-29 21:00 | FESTIVAL ARPOARTE 2026 | Armazém 3 e 4  - Pier Mauá, Avenida Rodrigues Alves Praça Mauá | organizador: FESTIVAL ARPOARTE 2026 | https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026)): Horário: 25 e 26/11, das 14h às 21h; 27 a 29/11, das 11h às 21h",
    "id": "f-474fbba1fc",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9696,10 +9706,6 @@
      "hora": "19:00"
     },
     {
-     "data": "2026-12-13",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-12-17",
      "hora": "19:00"
     },
@@ -9719,8 +9725,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Hienas: Uma Comédia Tóxica",
    "areas": [
     "Teatro"
@@ -9733,9 +9739,10 @@
    "sinopse": "\"Hienas: Uma Comédia Tóxica\" em cartaz no Teatro Correios Léa Garcia, no Centro, de 10 a 19 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130046",
-   "trecho_fonte": "2026-12-10 19:00 até 2026-12-19 19:00 | HIENAS: Uma comédia tóxica | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/130046",
+   "trecho_fonte": "2026-12-10 19:00 até 2026-12-19 19:00 | HIENAS: Uma comédia tóxica | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/130046 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 10 a 19 de Dezembro · Quinta, Sexta e Sábado às 19h00",
    "id": "f-4e91eb3d3d",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9865,43 +9872,55 @@
    "sessoes": [
     {
      "data": "2026-12-05",
-     "hora": "21:00"
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-10",
-     "hora": "21:00"
+     "hora": "20:00"
     },
     {
      "data": "2026-12-11",
-     "hora": "21:00"
+     "hora": "20:00"
     },
     {
      "data": "2026-12-12",
-     "hora": "21:00"
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
     },
     {
      "data": "2026-12-13",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-17",
-     "hora": "21:00"
+     "hora": "20:00"
     },
     {
      "data": "2026-12-18",
-     "hora": "21:00"
+     "hora": "20:00"
     },
     {
      "data": "2026-12-19",
-     "hora": "21:00"
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
     },
     {
      "data": "2026-12-20",
-     "hora": "19:00"
+     "hora": "18:00"
     }
    ],
    "preco_texto": "de R$ 25 a R$ 280",
@@ -9911,8 +9930,8 @@
    "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Dias presumidos (quinta a domingo): a fonte só dá a primeira sessão (5/12, 21h) e a última (20/12, 19h); usei 21h de quinta a sábado e 19h aos domingos. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
-   "aviso": "dias",
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).",
+   "aviso": "",
    "titulo": "Djavan – O Musical: Vidas pra contar",
    "areas": [
     "Teatro",
@@ -9926,9 +9945,10 @@
    "sinopse": "Musical sobre a trajetória de Djavan, interpretado por Raphael Elias (que alterna o papel com Eduardo Louzada), que volta ao Rio para sessões em dezembro. O cantor não está no elenco.",
    "fonte": "Uhuu (extração do Todos os Rios)",
    "link": "https://uhuu.com/evento/rj/rio-de-janeiro/djavan-o-musical-vidas-pra-contar-16896",
-   "trecho_fonte": "2026-12-05 21:00 até 2026-12-20 19:00 | Djavan - O Musical: Vidas pra contar | Teatro Claro MAIS RJ | Show | de R$ 25,00 a R$ 280,00 (o menor pode ser meia) | classificação: 12 Anos | TEMPORADA: a listagem só dá a primeira e a última apresentação || TEMPORADA: a listagem só dá a primeira e a última apresentação || O cantor Djavan não integra o elenco deste espetáculo. O personagem é interpretado por Raphael Elias",
+   "trecho_fonte": "2026-12-05 21:00 até 2026-12-20 19:00 | Djavan - O Musical: Vidas pra contar | Teatro Claro MAIS RJ | Show | de R$ 25,00 a R$ 280,00 (o menor pode ser meia) | classificação: 12 Anos | TEMPORADA: a listagem só dá a primeira e a última apresentação || TEMPORADA: a listagem só dá a primeira e a última apresentação || O cantor Djavan não integra o elenco deste espetáculo. O personagem é interpretado por Raphael Elias || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026)): Horários: Quintas e sextas-feiras, às 20h; Sábados, às 16h e 20h; Domingos, às 18h",
    "id": "f-50b9a79c90",
-   "entrou_em": "2026-11-25"
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9967,10 +9987,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "20:00"
     },
@@ -9994,8 +10010,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo palco.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Algoritmo",
    "areas": [
     "Teatro"
@@ -10008,9 +10024,10 @@
    "sinopse": "\"Algoritmo\" em cartaz no Teatro Municipal Ipanema Rubens Corrêa até 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128420",
-   "trecho_fonte": "2026-11-12 20:00 até 2026-11-29 19:00 | Algoritmo | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/128420",
+   "trecho_fonte": "2026-11-12 20:00 até 2026-11-29 19:00 | Algoritmo | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/128420 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 29 de Novembro · Quinta a Sábado às 20h00, Domingo às 19h00",
    "id": "f-5157b0c813",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -11058,16 +11075,12 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-26",
-     "hora": "21:00"
-    },
-    {
      "data": "2026-11-27",
      "hora": "21:00"
     },
     {
      "data": "2026-11-28",
-     "hora": "21:00"
+     "hora": "20:00"
     },
     {
      "data": "2026-11-29",
@@ -11081,8 +11094,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias presumidos (quinta a domingo, de hoje até 29/11): a fonte dá o início da temporada (20/11, 21h) e o fim (29/11, 20h). Que é humor vem da página da mesma peça na Uhuu.",
-   "aviso": "dias",
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
    "areas": [
     "Teatro"
@@ -11095,9 +11108,10 @@
    "sinopse": "Rodrigo Sant'Anna leva o espetáculo \"Mulheres em Turbulência\" ao Teatro Miguel Falabella, no Norte Shopping.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128389",
-   "trecho_fonte": "2026-11-20 21:00 até 2026-11-29 20:00 | Mulheres em Turbulência com RODRIGO SANT'ANNA | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella",
+   "trecho_fonte": "2026-11-20 21:00 até 2026-11-29 20:00 | Mulheres em Turbulência com RODRIGO SANT'ANNA | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta às 21h00, Sábado e Domingo às 20h00",
    "id": "f-6a27b066b3",
-   "entrou_em": "2026-11-25"
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -12705,7 +12719,7 @@
     },
     {
      "data": "2026-12-05",
-     "hora": "20:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-06",
@@ -12719,8 +12733,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte dá só o período (4/12, 20h, a 6/12, 17h); presumi sessões em cada dia, 20h na sexta e no sábado e 17h no domingo.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte dá só o período (4/12, 20h, a 6/12, 17h); presumi sessões em cada dia, 20h na sexta e no sábado e 17h no domingo. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Música de Cinema – Magia em Concerto",
    "areas": [
     "Música"
@@ -12733,17 +12747,14 @@
    "sinopse": "Concerto com música de cinema na Cidade das Artes, na Barra, de 4 a 6 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130575",
-   "trecho_fonte": "2026-12-04 20:00 até 2026-12-06 17:00 | Música de Cinema - Magia em Concerto | Cidade das Artes, Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro, 5300  | organizador: FUNDAÇÃO CIDADE DAS ARTES | https://bileto.sympla.com.br/event/130575",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-06 17:00 | Música de Cinema - Magia em Concerto | Cidade das Artes, Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro, 5300  | organizador: FUNDAÇÃO CIDADE DAS ARTES | https://bileto.sympla.com.br/event/130575 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 4 a 6 de Dezembro · Sexta às 20h00, Sábado e Domingo às 17h00",
    "id": "f-8978d3f62f",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
    "sessoes": [
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    },
     {
      "data": "2026-11-26",
      "hora": "19:00"
@@ -12756,8 +12767,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Persona Produções. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Persona Produções. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Cordélia Brasil",
    "areas": [
     "Teatro"
@@ -12770,9 +12781,10 @@
    "sinopse": "\"Cordélia Brasil\" em cartaz no Teatro Glauce Rocha, no Centro, até 26 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/cordelia-brasil/3623959",
-   "trecho_fonte": "2026-11-05 19:00 até 2026-11-26 23:30 | Cordélia Brasil | Teatro Glauce Rocha, Avenida Rio Branco centro | organizador: Persona Produções | https://www.sympla.com.br/evento/cordelia-brasil/3623959",
+   "trecho_fonte": "2026-11-05 19:00 até 2026-11-26 23:30 | Cordélia Brasil | Teatro Glauce Rocha, Avenida Rio Branco centro | organizador: Persona Produções | https://www.sympla.com.br/evento/cordelia-brasil/3623959 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): Datas e Horários: 5, 12, 19 e 26 de novembro (quintas-feiras), às 19h.",
    "id": "f-897e83ed8a",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -13220,10 +13232,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "19:00"
     },
@@ -13236,15 +13244,7 @@
      "hora": "19:00"
     },
     {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
      "hora": "19:00"
     },
     {
@@ -13253,7 +13253,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-10",
@@ -13275,8 +13275,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Brás Cubas (Armazém Companhia de Teatro)",
    "areas": [
     "Teatro"
@@ -13289,9 +13289,10 @@
    "sinopse": "A Armazém Companhia de Teatro em temporada com \"Brás Cubas\" na Fundição Progresso, na Lapa, até 12 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
-   "trecho_fonte": "2026-11-19 19:00 até 2026-12-12 19:00 | BRÁS CUBAS (Armazém Companhia de Teatro) | Fundição Progresso, Rua dos Arcos Lapa | organizador: Espaço Armazém - Fundição Progresso | https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
+   "trecho_fonte": "2026-11-19 19:00 até 2026-12-12 19:00 | BRÁS CUBAS (Armazém Companhia de Teatro) | Fundição Progresso, Rua dos Arcos Lapa | organizador: Espaço Armazém - Fundição Progresso | https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): 26/11, quinta-feira 19h; 27/11, sexta-feira 19; 28/11, sábado 19h; 03/12, quinta-feira 19h; 05/12, sábado 19h; 06/12, domingo 18h; 10/12, quinta-feira 19h; 11/12, sexta-feira 19h; 12/12, sábado 19h",
    "id": "f-913b8130f3",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -13474,14 +13475,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-27",
      "hora": "20:00"
     },
@@ -13501,8 +13494,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Senhorita Júlia, Pássaros em uma Mesma Gaiola",
    "areas": [
     "Teatro"
@@ -13515,9 +13508,10 @@
    "sinopse": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/126358",
-   "trecho_fonte": "2026-11-14 20:00 até 2026-11-29 20:00 | Senhorita Júlia, pássaros em uma mesma gaiola | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126358",
+   "trecho_fonte": "2026-11-14 20:00 até 2026-11-29 20:00 | Senhorita Júlia, pássaros em uma mesma gaiola | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126358 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta a Domingo às 20h00",
    "id": "f-94d2c5ff86",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -13802,8 +13796,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; dança presumida pelo espaço (Teatro inclui dança).",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Fora de Quadro",
    "areas": [
     "Teatro"
@@ -13816,9 +13810,10 @@
    "sinopse": "\"Fora de Quadro\" no Centro Coreográfico da Cidade, na Tijuca, em 28 e 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128863",
-   "trecho_fonte": "2026-11-28 19:00 até 2026-11-29 18:00 | Fora de Quadro | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/128863",
+   "trecho_fonte": "2026-11-28 19:00 até 2026-11-29 18:00 | Fora de Quadro | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/128863 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 28 a 29 de Novembro · Sábado às 19h00, Domingo às 18h00",
    "id": "f-9944b1aa2c",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -14039,10 +14034,6 @@
      "hora": "19:00"
     },
     {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-12-03",
      "hora": "19:00"
     },
@@ -14062,8 +14053,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Gosto Amargo na Pele",
    "areas": [
     "Teatro"
@@ -14076,10 +14067,10 @@
    "sinopse": "\"Gosto Amargo na Pele\" em cartaz no Teatro Correios Léa Garcia, no Centro, de 26 de novembro a 5 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128463",
-   "trecho_fonte": "2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 5 de Dezembro · Quinta, Sexta e Sábado às 19h00",
    "id": "f-9c2207768d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -14284,16 +14275,16 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "20:00"
     },
     {
      "data": "2026-11-27",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
     },
     {
      "data": "2026-11-28",
@@ -14307,8 +14298,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Descalços no Parque",
    "areas": [
     "Teatro"
@@ -14321,9 +14312,10 @@
    "sinopse": "\"Descalços no Parque\" em cartaz no Teatro Clara Nunes, na Gávea, até 28 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/117119",
-   "trecho_fonte": "2026-11-21 20:00 até 2026-11-28 20:00 | Descalços no Parque | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370 | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/117119",
+   "trecho_fonte": "2026-11-21 20:00 até 2026-11-28 20:00 | Descalços no Parque | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370 | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/117119 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026): Riotur: Quintas e sextas, às 20h; sábados, às 16h e às 20h · Sympla: 26 a 28 de Novembro",
    "id": "f-a3a00c3382",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -14562,14 +14554,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-27",
      "hora": "20:00"
     },
@@ -14579,11 +14563,7 @@
     },
     {
      "data": "2026-11-29",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-04",
@@ -14595,11 +14575,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-11",
@@ -14621,8 +14597,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo palco.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Minha Vó Ri",
    "areas": [
     "Teatro"
@@ -14635,9 +14611,10 @@
    "sinopse": "\"Minha Vó Ri\" em cartaz no Espaço Cultural Municipal Sérgio Porto, no Humaitá, até 13 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128323",
-   "trecho_fonte": "2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323",
+   "trecho_fonte": "2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 de Novembro a 13 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-a8b365287d",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -14813,20 +14790,8 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "18:00"
-    },
-    {
      "data": "2026-11-28",
-     "hora": "18:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-11-29",
@@ -14840,8 +14805,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Rafael Apolinário Coutinho. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Organizador: produtor independente (pessoa física), não órgão público.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Rafael Apolinário Coutinho. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Um Homem Célebre",
    "areas": [
     "Teatro"
@@ -14854,9 +14819,10 @@
    "sinopse": "Espetáculo teatral baseado em Machado de Assis, em cartaz no Centro Cultural da Justiça Federal até 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
-   "trecho_fonte": "2026-11-15 18:00 até 2026-11-29 18:00 | UM HOMEM CÉLEBRE - Baseado em Machado de Assis - Espetáculo teatral | Centro Cultural Justiça Federal, Avenida Rio Branco | organizador: Rafael Apolinário Coutinho | https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
+   "trecho_fonte": "2026-11-15 18:00 até 2026-11-29 18:00 | UM HOMEM CÉLEBRE - Baseado em Machado de Assis - Espetáculo teatral | Centro Cultural Justiça Federal, Avenida Rio Branco | organizador: Rafael Apolinário Coutinho | https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): Dia 28 - Sábado 19h; Dia 29 - Domingo 18h",
    "id": "f-a9155630c6",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -15177,35 +15143,19 @@
      "hora": "20:00"
     },
     {
-     "data": "2026-12-03",
+     "data": "2026-12-02",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-04",
+     "data": "2026-12-08",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-05",
+     "data": "2026-12-09",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
+     "data": "2026-12-15",
      "hora": "20:00"
     },
     {
@@ -15220,8 +15170,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Primeira Pessoa",
    "areas": [
     "Teatro"
@@ -15234,9 +15184,10 @@
    "sinopse": "\"Primeira Pessoa\" em cartaz no Teatro Municipal Café Pequeno, no Leblon, de 1º a 16 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130051",
-   "trecho_fonte": "2026-12-01 20:00 até 2026-12-16 20:00 | Primeira Pessoa | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/130051",
+   "trecho_fonte": "2026-12-01 20:00 até 2026-12-16 20:00 | Primeira Pessoa | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/130051 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 1 a 16 de Dezembro · Terça e Quarta às 20h00",
    "id": "f-abe3a23c33",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -15543,10 +15494,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "20:00"
     }
@@ -15558,8 +15505,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Lisandra na Mesa de Jantar",
    "areas": [
     "Teatro"
@@ -15572,9 +15519,10 @@
    "sinopse": "\"Lisandra na Mesa de Jantar\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 26 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129512",
-   "trecho_fonte": "2026-11-05 20:00 até 2026-11-26 20:00 | Lisandra na Mesa de Jantar | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/129512",
+   "trecho_fonte": "2026-11-05 20:00 até 2026-11-26 20:00 | Lisandra na Mesa de Jantar | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/129512 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro · Quinta às 20h00",
    "id": "f-b29d9de2c6",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -15720,10 +15668,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "20:00"
     },
@@ -15737,7 +15681,7 @@
     },
     {
      "data": "2026-11-29",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-03",
@@ -15753,7 +15697,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-10",
@@ -15769,7 +15713,7 @@
     },
     {
      "data": "2026-12-13",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-17",
@@ -15795,8 +15739,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte avisa que não é permitida a entrada após o início.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "O que Meu Peito Carrega Sobre Mim",
    "areas": [
     "Teatro"
@@ -15809,9 +15753,10 @@
    "sinopse": "\"O que Meu Peito Carrega Sobre Mim\" em cartaz no Teatro Poeira, em Botafogo, até 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129151",
-   "trecho_fonte": "2026-11-14 20:00 até 2026-12-20 19:00 | O que meu peito carrega sobre mim - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/129151",
+   "trecho_fonte": "2026-11-14 20:00 até 2026-12-20 19:00 | O que meu peito carrega sobre mim - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/129151 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 20 de Dezembro · Quinta, Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-b6ff10b271",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -15906,8 +15851,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Cuidado Quando For Falar de Mim",
    "areas": [
     "Teatro"
@@ -15920,9 +15865,10 @@
    "sinopse": "\"Cuidado Quando For Falar de Mim\" no Teatro Municipal Ziembinski, na Tijuca, de 11 a 13 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130480",
-   "trecho_fonte": "2026-12-11 20:00 até 2026-12-13 19:00 | Cuidado quando for falar de mim | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/130480",
+   "trecho_fonte": "2026-12-11 20:00 até 2026-12-13 19:00 | Cuidado quando for falar de mim | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/130480 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 11 a 13 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-b945f69659",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -15988,56 +15934,6 @@
    "trecho_fonte": "2027-01-06 20:00 até 2027-01-06 20:00 | Abba Alive | Teatro Claro MAIS RJ | Show | de R$ 80,00 a R$ 280,00 (o menor pode ser meia) | classificação: Livre || ABBA ALIVE – O Tributo + Próximo do Original está de volta! || O ABBA ALIVE volta com NOVO SHOW",
    "id": "f-ba91d53c2a",
    "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-22",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título (obra conhecida do repertório infantil) e pelo horário.",
-   "aviso": "dias",
-   "titulo": "Os Saltimbancos",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Cândido Mendes",
-   "endereco": "Rua Joana Angélica, 63",
-   "bairro": "Ipanema",
-   "regiao": "Zona Sul",
-   "sinopse": "Montagem de \"Os Saltimbancos\" em cartaz no Teatro Cândido Mendes, em Ipanema, às 17h, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126898",
-   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | OS SALTIMBANCOS | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126898",
-   "id": "f-beb283b529",
-   "entrou_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -16225,8 +16121,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não detalha a programação da mostra.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
    "areas": [
     "Teatro"
@@ -16239,10 +16135,10 @@
    "sinopse": "Primeira edição da Mostra de Artes de Terreiro Os Ciclomáticos, no Teatro Municipal Gonzaguinha, de 26 a 28 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129222",
-   "trecho_fonte": "2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222",
+   "trecho_fonte": "2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 28 de Novembro · Quinta e Sexta às 19h00, Sábado às 18h00",
    "id": "f-c21b141a4f",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -16575,91 +16471,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-15",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Vanucci. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não confirma que Rogério Koury é pianista; inferido pelo título.",
-   "aviso": "dias",
-   "titulo": "Piano em Cena – Rogério Koury",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Vanucci",
-   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371 (Shopping da Gávea)",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Piano em Cena\", com Rogério Koury, em temporada no Teatro Vanucci, na Gávea, até 15 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/122438",
-   "trecho_fonte": "2026-10-28 20:00 até 2026-12-15 20:00 | PIANO EM CENA – ROGÉRIO KOURY | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371 | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/122438",
-   "id": "f-c949923f2e",
-   "entrou_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
      "data": "2026-12-02",
      "hora": "19:00"
     }
@@ -16726,55 +16537,27 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
+     "data": "2026-11-25",
      "hora": "20:00"
     },
     {
-     "data": "2026-11-26",
+     "data": "2026-12-01",
      "hora": "20:00"
     },
     {
-     "data": "2026-11-27",
+     "data": "2026-12-02",
      "hora": "20:00"
     },
     {
-     "data": "2026-11-28",
+     "data": "2026-12-08",
      "hora": "20:00"
     },
     {
-     "data": "2026-11-29",
+     "data": "2026-12-09",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
+     "data": "2026-12-15",
      "hora": "20:00"
     },
     {
@@ -16789,8 +16572,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte avisa que não é permitida a entrada após o início.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "As Coisas que me Tiram o Sono",
    "areas": [
     "Teatro"
@@ -16803,9 +16586,10 @@
    "sinopse": "\"As Coisas que me Tiram o Sono\" em cartaz no Teatro Poeira, em Botafogo, até 16 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128599",
-   "trecho_fonte": "2026-11-03 20:00 até 2026-12-16 20:00 | As coisas que me tiram o sono - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/128599",
+   "trecho_fonte": "2026-11-03 20:00 até 2026-12-16 20:00 | As coisas que me tiram o sono - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/128599 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 25 de Novembro a 16 de Dezembro · Terça e Quarta às 20h00",
    "id": "f-cad0eb95eb",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": {
@@ -16953,10 +16737,6 @@
      "hora": "19:00"
     },
     {
-     "data": "2027-01-14",
-     "hora": "19:00"
-    },
-    {
      "data": "2027-01-15",
      "hora": "19:00"
     },
@@ -16969,11 +16749,27 @@
      "hora": "19:00"
     },
     {
-     "data": "2027-01-21",
+     "data": "2027-01-22",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-22",
+     "data": "2027-01-23",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-30",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-31",
      "hora": "19:00"
     }
    ],
@@ -16984,8 +16780,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Hassis Produções Artísticas. Dias presumidos (quinta a domingo) a partir do período informado; listadas as sessões até o fim da janela de 60 dias.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Hassis Produções Artísticas. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Eles Não Usam Black Tie",
    "areas": [
     "Teatro"
@@ -16998,9 +16794,10 @@
    "sinopse": "Montagem de \"Eles Não Usam Black Tie\" em temporada no Centro Cultural da Justiça Federal, de 8 a 31 de janeiro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/eles-nao-usam-black-tie/3658868",
-   "trecho_fonte": "2027-01-08 19:00 até 2027-01-31 19:00 | Eles Não Usam Black Tie | CCJF - Centro Cultural Justiça Federal, Avenida Rio Branco Cinelândia | organizador: HASSIS PRODUÇÕES ARTÍSTICAS | https://www.sympla.com.br/evento/eles-nao-usam-black-tie/3658868",
+   "trecho_fonte": "2027-01-08 19:00 até 2027-01-31 19:00 | Eles Não Usam Black Tie | CCJF - Centro Cultural Justiça Federal, Avenida Rio Branco Cinelândia | organizador: HASSIS PRODUÇÕES ARTÍSTICAS | https://www.sympla.com.br/evento/eles-nao-usam-black-tie/3658868 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): De 08 de janeiro de 2027, às 19h00; até 31 de janeiro de 2027 · ingressos para 08/01, 09/01, 10/01, 15/01, 16/01, 17/01, 22/01, 23/01, 24/01, 29/01…",
    "id": "f-cbf54625b4",
-   "entrou_em": "2026-11-23"
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -17123,7 +16920,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-10",
@@ -17139,7 +16936,7 @@
     },
     {
      "data": "2026-12-13",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-17",
@@ -17155,7 +16952,7 @@
     },
     {
      "data": "2026-12-20",
-     "hora": "19:00"
+     "hora": "18:00"
     }
    ],
    "preco_texto": "",
@@ -17165,8 +16962,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 19h, a 20/12); dias presumidos de quinta a domingo, 19h. Gênero não informado; Teatro presumido pelo espaço. Organização independente.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 19h, a 20/12); dias presumidos de quinta a domingo, 19h. Gênero não informado; Teatro presumido pelo espaço. Organização independente. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Lisa, Lesa & Louca",
    "areas": [
     "Teatro"
@@ -17179,9 +16976,10 @@
    "sinopse": "\"Lisa, Lesa & Louca\" em temporada no Teatro Dulcina, de 4 a 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/lisa-lesa-louca/3658926",
-   "trecho_fonte": "2026-12-04 19:00 até 2026-12-20 20:15 | LISA, LESA & LOUCA | Teatro Dulcina, Rua Alcindo Guanabara CENTRO | organizador: Crazú | https://www.sympla.com.br/evento/lisa-lesa-louca/3658926",
+   "trecho_fonte": "2026-12-04 19:00 até 2026-12-20 20:15 | LISA, LESA & LOUCA | Teatro Dulcina, Rua Alcindo Guanabara CENTRO | organizador: Crazú | https://www.sympla.com.br/evento/lisa-lesa-louca/3658926 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): de 4 a 20 de dezembro de 2026. As apresentações acontecem às quintas, sextas e aos sábados, às 19h, e aos domingos, às 18h.",
    "id": "f-ce2b9d48cf",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -17437,8 +17235,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Dias presumidos: a fonte dá só o início (4/12, 20h) e o fim da temporada (6/12, 19h, que pode ser a hora de término); o sábado, às 20h, é presunção. A natureza do espetáculo não é informada.",
-   "aviso": "dias",
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Arriba",
    "areas": [
     "Teatro"
@@ -17451,9 +17249,10 @@
    "sinopse": "\"Arriba\" ocupa o Teatro Municipal Ziembinski, na Tijuca, de 4 a 6 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130478",
-   "trecho_fonte": "2026-12-04 20:00 até 2026-12-06 19:00 | Arriba | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-06 19:00 | Arriba | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 4 a 6 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-d1b5f7b7eb",
-   "entrou_em": "2026-11-25"
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -17597,31 +17396,31 @@
      "hora": "19:00"
     },
     {
-     "data": "2027-01-14",
+     "data": "2027-01-12",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-15",
+     "data": "2027-01-18",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-16",
+     "data": "2027-01-19",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-17",
+     "data": "2027-01-25",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-21",
+     "data": "2027-01-26",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-22",
+     "data": "2027-02-01",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-23",
+     "data": "2027-02-02",
      "hora": "19:00"
     }
    ],
@@ -17632,8 +17431,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (11/1 a 2/2, 19h); o período começa numa segunda e acaba numa terça, então as sessões podem ser no começo da semana. Dias presumidos pela regra da casa (o primeiro dia e de quinta a domingo). Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (11/1 a 2/2, 19h); o período começa numa segunda e acaba numa terça, então as sessões podem ser no começo da semana. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "O Formigueiro",
    "areas": [
     "Teatro"
@@ -17646,25 +17445,14 @@
    "sinopse": "\"O Formigueiro\" em temporada no Teatro Firjan SESI Centro, de 11 de janeiro a 2 de fevereiro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/130602",
-   "trecho_fonte": "2027-01-11 19:00 até 2027-02-02 19:00 | O FORMIGUEIRO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130602",
+   "trecho_fonte": "2027-01-11 19:00 até 2027-02-02 19:00 | O FORMIGUEIRO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130602 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 11 de Janeiro a 2 de Fevereiro · Segunda e Terça às 19h00",
    "id": "f-d3cd20fe6a",
-   "entrou_em": "2026-11-24"
+   "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
    "sessoes": [
-    {
-     "data": "2026-11-22",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
     {
      "data": "2026-11-28",
      "hora": "17:00"
@@ -17681,8 +17469,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TABLADO. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TABLADO. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "A Bruxinha que Era Boa",
    "areas": [
     "Teatro",
@@ -17696,9 +17484,10 @@
    "sinopse": "Montagem de \"A Bruxinha que Era Boa\" em cartaz no Tablado, no Jardim Botânico, às 17h, até 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/123789",
-   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | A Bruxinha que era boa | Teatro O Tablado., Avenida Lineu de Paula Machado, 795 | organizador: TABLADO | https://bileto.sympla.com.br/event/123789",
+   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | A Bruxinha que era boa | Teatro O Tablado., Avenida Lineu de Paula Machado, 795 | organizador: TABLADO | https://bileto.sympla.com.br/event/123789 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 28 a 29 de Novembro · Sábado e Domingo às 17h00",
    "id": "f-d4254bc016",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -17803,35 +17592,19 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-26",
+     "data": "2026-11-30",
      "hora": "19:00"
     },
     {
-     "data": "2026-11-27",
+     "data": "2026-12-01",
      "hora": "19:00"
     },
     {
-     "data": "2026-11-28",
+     "data": "2026-12-07",
      "hora": "19:00"
     },
     {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
+     "data": "2026-12-08",
      "hora": "19:00"
     }
    ],
@@ -17842,8 +17615,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período; dias presumidos de quinta a domingo. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período; dias presumidos de quinta a domingo. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Fera",
    "areas": [
     "Teatro"
@@ -17856,9 +17629,10 @@
    "sinopse": "\"Fera\" em temporada no Teatro Firjan SESI Centro, de 23 de novembro a 8 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128512",
-   "trecho_fonte": "2026-11-23 19:00 até 2026-12-08 19:00 | FERA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128512",
+   "trecho_fonte": "2026-11-23 19:00 até 2026-12-08 19:00 | FERA | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/128512 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 30 de Novembro a 8 de Dezembro · Segunda e Terça às 19h00",
    "id": "f-d7cbeae19c",
-   "entrou_em": "2026-11-23"
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -18120,8 +17894,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "A Ópera do Malandro – o musical",
    "areas": [
     "Teatro"
@@ -18134,10 +17908,10 @@
    "sinopse": "Montagem do musical \"A Ópera do Malandro\" na Areninha Cultural Terra, em Guadalupe, em 27 e 28 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129270",
-   "trecho_fonte": "2026-11-27 19:30 até 2026-11-28 19:30 | A Ópera do Malandro - o muscial | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129270",
+   "trecho_fonte": "2026-11-27 19:30 até 2026-11-28 19:30 | A Ópera do Malandro - o muscial | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129270 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 28 de Novembro · Sexta e Sábado às 19h30",
    "id": "f-db4e688785",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -18281,27 +18055,11 @@
      "hora": "11:00"
     },
     {
-     "data": "2026-12-10",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "11:00"
-    },
-    {
      "data": "2026-12-12",
      "hora": "11:00"
     },
     {
      "data": "2026-12-13",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-12-18",
      "hora": "11:00"
     },
     {
@@ -18320,8 +18078,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo) a partir do período informado. Contação de histórias presumida pelo nome.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Festival Contarolando Histórias",
    "areas": [
     "Infantil"
@@ -18334,9 +18092,10 @@
    "sinopse": "Festival de contação de histórias no Teatro Municipal Ruth de Souza, em Santa Teresa, de 5 a 20 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128571",
-   "trecho_fonte": "2026-12-05 11:00 até 2026-12-20 11:00 | FESTIVAL CONTAROLANDO HISTÓRIAS | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169  | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128571",
+   "trecho_fonte": "2026-12-05 11:00 até 2026-12-20 11:00 | FESTIVAL CONTAROLANDO HISTÓRIAS | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169  | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128571 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 5 a 20 de Dezembro · Sábado e Domingo às 11h00",
    "id": "f-dcc73bca1e",
-   "entrou_em": "2026-11-23"
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -19101,10 +18860,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-22",
-     "hora": "20:00"
-    },
-    {
      "data": "2026-11-26",
      "hora": "20:00"
     },
@@ -19128,8 +18883,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, também no último dia (o fim informado parece ser o horário de término). A fonte não dá o número do endereço.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Nhá Eva",
    "areas": [
     "Teatro"
@@ -19142,9 +18897,10 @@
    "sinopse": "\"Nhá Eva\" em cartaz na Companhia de Teatro Contemporâneo, em Botafogo, até 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://www.sympla.com.br/evento/nha-eva/3614258",
-   "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258",
+   "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): De 15 de novembro de 2026, às 20h00 · temporadas: 05/11 a 08/11; 12/11 a 15/11; 26/11 a 29/11",
    "id": "f-e7b56859d2",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -19402,14 +19158,6 @@
      "hora": "17:00"
     },
     {
-     "data": "2026-12-03",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "17:00"
-    },
-    {
      "data": "2026-12-05",
      "hora": "17:00"
     },
@@ -19425,8 +19173,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo palco.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Maria no Fio da Navalha",
    "areas": [
     "Teatro"
@@ -19439,9 +19187,10 @@
    "sinopse": "\"Maria no Fio da Navalha\" em cartaz no Teatro Municipal Ruth de Souza, em Santa Teresa, até 6 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128568",
-   "trecho_fonte": "2026-11-28 17:00 até 2026-12-06 17:00 | Maria no fio da Navalha | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128568",
+   "trecho_fonte": "2026-11-28 17:00 até 2026-12-06 17:00 | Maria no fio da Navalha | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128568 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 28 de Novembro a 6 de Dezembro · Sábado e Domingo às 17h00",
    "id": "f-ef4b37b8ed",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -20309,8 +20058,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Mistério Buffo",
    "areas": [
     "Teatro"
@@ -20323,9 +20072,10 @@
    "sinopse": "\"Mistério Buffo\" no Teatro Municipal Café Pequeno, no Leblon, de 27 a 29 de novembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129347",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-f8ed502f79",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -20574,15 +20324,7 @@
      "hora": "20:00"
     },
     {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
+     "data": "2026-12-02",
      "hora": "20:00"
     },
     {
@@ -20590,15 +20332,7 @@
      "hora": "20:00"
     },
     {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
+     "data": "2026-12-09",
      "hora": "20:00"
     },
     {
@@ -20613,8 +20347,8 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.",
-   "aviso": "dias",
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
    "titulo": "Simplesmente Shakespeare: Romeu e Julieta",
    "areas": [
     "Teatro"
@@ -20627,10 +20361,10 @@
    "sinopse": "Montagem de \"Romeu e Julieta\", de Shakespeare, em temporada no Teatro Municipal Domingos Oliveira, na Gávea, até 10 de dezembro.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129970",
-   "trecho_fonte": "2026-11-25 20:00 até 2026-12-10 20:00 | Simplesmente Shakespeare - Romeu e Julieta | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129970",
+   "trecho_fonte": "2026-11-25 20:00 até 2026-12-10 20:00 | Simplesmente Shakespeare - Romeu e Julieta | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129970 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 25 de Novembro a 10 de Dezembro · Quarta e Quinta às 20h00",
    "id": "f-ff4b3d06a0",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,

@@ -332,6 +332,14 @@
    "recusadas": [],
    "removidas": 0,
    "nota": "As boas do mês: Clássicos do Brasil entra como festival inteiro (4 noites); limite sobe para 7"
+  },
+  {
+   "data": "2026-11-25",
+   "novas": 0,
+   "corrigidas": 41,
+   "recusadas": [],
+   "removidas": 2,
+   "nota": "Dias e horários preenchidos em 41 temporadas que estavam com 'a fonte não informa os dias'; 2 encerradas removidas"
   }
  ]
 }

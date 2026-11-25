@@ -5,7 +5,7 @@
   "fim": "2027-01-24",
   "titulo": "Programação de hoje até 24 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-25T15:00-03:00",
+ "atualizado_em": "2026-11-25T18:18-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -1683,15 +1683,15 @@
     },
     {
      "data": "2026-11-27",
-     "hora": "14:00"
+     "hora": "11:00"
     },
     {
      "data": "2026-11-28",
-     "hora": "14:00"
+     "hora": "11:00"
     },
     {
      "data": "2026-11-29",
-     "hora": "14:00"
+     "hora": "11:00"
     }
    ],
    "preco_texto": "",
@@ -1701,7 +1701,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Festival Arpoarte 2026",
    "areas": [
     "Festas & Feiras"
@@ -1716,6 +1716,7 @@
    "link": "https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
    "id": "f-474fbba1fc",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "Festival Arpoarte at warehouses 3 and 4 of Píer Mauá, from November 25 to 29.",
    "sinopse_es": "Festival Arpoarte en los almacenes 3 y 4 del Píer Mauá, del 25 al 29 de noviembre.",
    "faixa": "nao_informado",
@@ -2804,6 +2805,66 @@
     {
      "data": "2026-11-25",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-09",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-16",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "As Coisas que me Tiram o Sono",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeira",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "\"As Coisas que me Tiram o Sono\" em cartaz no Teatro Poeira, em Botafogo, até 16 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128599",
+   "id": "f-cad0eb95eb",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "\"As Coisas que me Tiram o Sono\" runs at Teatro Poeira, in Botafogo, until December 16.",
+   "sinopse_es": "\"As Coisas que me Tiram o Sono\" en cartel en el Teatro Poeira, en Botafogo, hasta el 16 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
     }
    ],
    "preco_texto": "",
@@ -2878,15 +2939,7 @@
      "hora": "20:00"
     },
     {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
+     "data": "2026-12-02",
      "hora": "20:00"
     },
     {
@@ -2894,15 +2947,7 @@
      "hora": "20:00"
     },
     {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
+     "data": "2026-12-09",
      "hora": "20:00"
     },
     {
@@ -2917,7 +2962,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Simplesmente Shakespeare: Romeu e Julieta",
    "areas": [
     "Teatro"
@@ -2932,7 +2977,7 @@
    "link": "https://bileto.sympla.com.br/event/129970",
    "id": "f-ff4b3d06a0",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "A staging of Shakespeare's \"Romeu e Julieta\", running at Teatro Municipal Domingos Oliveira, in Gávea, until December 10.",
    "sinopse_es": "Montaje de \"Romeu e Julieta\", de Shakespeare, en temporada en el Teatro Municipal Domingos Oliveira, en Gávea, hasta el 10 de diciembre.",
    "faixa": "nao_informado",
@@ -3142,102 +3187,6 @@
    "sessoes": [
     {
      "data": "2026-11-26",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Os Saltimbancos",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Cândido Mendes",
-   "endereco": "Rua Joana Angélica, 63",
-   "bairro": "Ipanema",
-   "regiao": "Zona Sul",
-   "sinopse": "Montagem de \"Os Saltimbancos\" em cartaz no Teatro Cândido Mendes, em Ipanema, às 17h, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126898",
-   "id": "f-beb283b529",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "A staging of \"Os Saltimbancos\" runs at Teatro Cândido Mendes, in Ipanema, at 5 pm, until November 29.",
-   "sinopse_es": "Montaje de \"Os Saltimbancos\" en cartel en el Teatro Cândido Mendes, en Ipanema, a las 17 h, hasta el 29 de noviembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "A Bruxinha que Era Boa",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro O Tablado",
-   "endereco": "Avenida Lineu de Paula Machado, 795",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sinopse": "Montagem de \"A Bruxinha que Era Boa\" em cartaz no Tablado, no Jardim Botânico, às 17h, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/123789",
-   "id": "f-d4254bc016",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "A staging of \"A Bruxinha que Era Boa\" runs at O Tablado, in Jardim Botânico, at 5 pm, until November 29.",
-   "sinopse_es": "Montaje de \"A Bruxinha que Era Boa\" en cartel en O Tablado, en Jardim Botânico, a las 17 h, hasta el 29 de noviembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
      "hora": "18:00"
     }
    ],
@@ -3301,53 +3250,6 @@
    "atualizado_em": "2026-11-22",
    "sinopse_en": "\"Afrojazz\" in the Nota Justa series at the Centro Cultural do Poder Judiciário, downtown, from 6 pm to 7:30 pm.",
    "sinopse_es": "\"Afrojazz\" en la serie Nota Justa, del Centro Cultural do Poder Judiciário, en el Centro, de 18 h a 19:30 h.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Um Homem Célebre",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural da Justiça Federal",
-   "endereco": "Avenida Rio Branco",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Espetáculo teatral baseado em Machado de Assis, em cartaz no Centro Cultural da Justiça Federal até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
-   "id": "f-a9155630c6",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "A play based on Machado de Assis, running at the Centro Cultural da Justiça Federal until November 29.",
-   "sinopse_es": "Obra de teatro basada en Machado de Assis, en cartel en el Centro Cultural da Justiça Federal hasta el 29 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -3443,16 +3345,12 @@
      "hora": "19:00"
     },
     {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-11-28",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-11-29",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-03",
@@ -3464,11 +3362,11 @@
     },
     {
      "data": "2026-12-05",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-10",
@@ -3480,11 +3378,11 @@
     },
     {
      "data": "2026-12-12",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-13",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-17",
@@ -3496,7 +3394,11 @@
     },
     {
      "data": "2026-12-19",
-     "hora": "19:00"
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "17:00"
     },
     {
      "data": "2026-12-20",
@@ -3510,7 +3412,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "O Sonho de Ícaro",
    "areas": [
     "Teatro"
@@ -3525,6 +3427,7 @@
    "link": "https://bileto.sympla.com.br/event/128513",
    "id": "f-38ba6a7f25",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"O Sonho de Ícaro\" runs at Teatro Firjan SESI Centro until December 20.",
    "sinopse_es": "\"O Sonho de Ícaro\" en cartel en el Teatro Firjan SESI Centro hasta el 20 de diciembre.",
    "faixa": "nao_informado",
@@ -3580,7 +3483,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Cordélia Brasil",
    "areas": [
     "Teatro"
@@ -3595,6 +3498,7 @@
    "link": "https://www.sympla.com.br/evento/cordelia-brasil/3623959",
    "id": "f-897e83ed8a",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Cordélia Brasil\" runs at Teatro Glauce Rocha, downtown, until November 26.",
    "sinopse_es": "\"Cordélia Brasil\" en cartel en el Teatro Glauce Rocha, en el Centro, hasta el 26 de noviembre.",
    "faixa": "nao_informado",
@@ -3652,15 +3556,7 @@
      "hora": "19:00"
     },
     {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
      "hora": "19:00"
     },
     {
@@ -3669,7 +3565,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-10",
@@ -3691,7 +3587,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Brás Cubas (Armazém Companhia de Teatro)",
    "areas": [
     "Teatro"
@@ -3706,6 +3602,7 @@
    "link": "https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
    "id": "f-913b8130f3",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "Armazém Companhia de Teatro in a run of \"Brás Cubas\" at Fundição Progresso, in Lapa, until December 12.",
    "sinopse_es": "La Armazém Companhia de Teatro en temporada con \"Brás Cubas\" en la Fundição Progresso, en Lapa, hasta el 12 de diciembre.",
    "faixa": "nao_informado",
@@ -3724,10 +3621,6 @@
     },
     {
      "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
      "hora": "19:00"
     },
     {
@@ -3750,7 +3643,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Gosto Amargo na Pele",
    "areas": [
     "Teatro"
@@ -3765,7 +3658,7 @@
    "link": "https://bileto.sympla.com.br/event/128463",
    "id": "f-9c2207768d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Gosto Amargo na Pele\" runs at Teatro Correios Léa Garcia, downtown, from November 26 to December 5.",
    "sinopse_es": "\"Gosto Amargo na Pele\" en cartel en el Teatro Correios Léa Garcia, en el Centro, del 26 de noviembre al 5 de diciembre.",
    "faixa": "nao_informado",
@@ -3873,7 +3766,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
    "areas": [
     "Teatro"
@@ -3888,74 +3781,11 @@
    "link": "https://bileto.sympla.com.br/event/129222",
    "id": "f-c21b141a4f",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "First edition of the Os Ciclomáticos Terreiro Arts Showcase, at Teatro Municipal Gonzaguinha, from November 26 to 28.",
    "sinopse_es": "Primera edición de la Muestra de Artes de Terreiro Os Ciclomáticos, en el Teatro Municipal Gonzaguinha, del 26 al 28 de noviembre.",
    "faixa": "nao_informado",
    "status": "a_confirmar"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Fera",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Firjan SESI Centro",
-   "endereco": "Avenida Graça Aranha, 1",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "\"Fera\" em temporada no Teatro Firjan SESI Centro, de 23 de novembro a 8 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128512",
-   "id": "f-d7cbeae19c",
-   "entrou_em": "2026-11-23",
-   "sinopse_en": "\"Fera\" running at Teatro Firjan SESI Centro, from November 23 to December 8.",
-   "sinopse_es": "\"Fera\" en temporada en el Teatro Firjan SESI Centro, del 23 de noviembre al 8 de diciembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
   },
   {
    "cartaz": null,
@@ -4194,7 +4024,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Algoritmo",
    "areas": [
     "Teatro"
@@ -4209,6 +4039,7 @@
    "link": "https://bileto.sympla.com.br/event/128420",
    "id": "f-5157b0c813",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Algoritmo\" runs at Teatro Municipal Ipanema Rubens Corrêa until November 29.",
    "sinopse_es": "\"Algoritmo\" en cartel en el Teatro Municipal Ipanema Rubens Corrêa hasta el 29 de noviembre.",
    "faixa": "nao_informado",
@@ -4227,50 +4058,7 @@
     },
     {
      "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Senhorita Júlia, Pássaros em uma Mesma Gaiola",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Cândido Mendes",
-   "endereco": "Rua Joana Angélica, 63",
-   "bairro": "Ipanema",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126358",
-   "id": "f-94d2c5ff86",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" runs at Teatro Cândido Mendes, in Ipanema, until November 29.",
-   "sinopse_es": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" en cartel en el Teatro Cândido Mendes, en Ipanema, hasta el 29 de noviembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
+     "hora": "16:00"
     },
     {
      "data": "2026-11-28",
@@ -4284,7 +4072,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Descalços no Parque",
    "areas": [
     "Teatro"
@@ -4299,6 +4087,7 @@
    "link": "https://bileto.sympla.com.br/event/117119",
    "id": "f-a3a00c3382",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Descalços no Parque\" runs at Teatro Clara Nunes, in Gávea, until November 28.",
    "sinopse_es": "\"Descalços no Parque\" en cartel en el Teatro Clara Nunes, en Gávea, hasta el 28 de noviembre.",
    "faixa": "nao_informado",
@@ -4310,50 +4099,6 @@
     {
      "data": "2026-11-26",
      "hora": "20:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "19:00"
     }
    ],
    "preco_texto": "",
@@ -4363,42 +4108,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Minha Vó Ri",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Espaço Cultural Sérgio Porto",
-   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
-   "bairro": "Humaitá",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Minha Vó Ri\" em cartaz no Espaço Cultural Municipal Sérgio Porto, no Humaitá, até 13 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128323",
-   "id": "f-a8b365287d",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "\"Minha Vó Ri\" runs at Espaço Cultural Municipal Sérgio Porto, in Humaitá, until December 13.",
-   "sinopse_es": "\"Minha Vó Ri\" en cartel en el Espaço Cultural Municipal Sérgio Porto, en Humaitá, hasta el 13 de diciembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Lisandra na Mesa de Jantar",
    "areas": [
     "Teatro"
@@ -4413,6 +4123,7 @@
    "link": "https://bileto.sympla.com.br/event/129512",
    "id": "f-b29d9de2c6",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Lisandra na Mesa de Jantar\" runs at Teatro Cândido Mendes, in Ipanema, until November 26.",
    "sinopse_es": "\"Lisandra na Mesa de Jantar\" en cartel en el Teatro Cândido Mendes, en Ipanema, hasta el 26 de noviembre.",
    "faixa": "nao_informado",
@@ -4435,7 +4146,7 @@
     },
     {
      "data": "2026-11-29",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-03",
@@ -4451,7 +4162,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-10",
@@ -4467,7 +4178,7 @@
     },
     {
      "data": "2026-12-13",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-17",
@@ -4493,7 +4204,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "O que Meu Peito Carrega Sobre Mim",
    "areas": [
     "Teatro"
@@ -4508,174 +4219,9 @@
    "link": "https://bileto.sympla.com.br/event/129151",
    "id": "f-b6ff10b271",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"O que Meu Peito Carrega Sobre Mim\" runs at Teatro Poeira, in Botafogo, until December 20.",
    "sinopse_es": "\"O que Meu Peito Carrega Sobre Mim\" en cartel en el Teatro Poeira, en Botafogo, hasta el 20 de diciembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-15",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Piano em Cena – Rogério Koury",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Vanucci",
-   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371 (Shopping da Gávea)",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Piano em Cena\", com Rogério Koury, em temporada no Teatro Vanucci, na Gávea, até 15 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/122438",
-   "id": "f-c949923f2e",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "\"Piano em Cena\", with Rogério Koury, runs at Teatro Vanucci, in Gávea, until December 15.",
-   "sinopse_es": "\"Piano em Cena\", con Rogério Koury, en temporada en el Teatro Vanucci, en Gávea, hasta el 15 de diciembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-16",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "As Coisas que me Tiram o Sono",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Poeira",
-   "endereco": "Rua São João Batista, 104",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sinopse": "\"As Coisas que me Tiram o Sono\" em cartaz no Teatro Poeira, em Botafogo, até 16 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128599",
-   "id": "f-cad0eb95eb",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "\"As Coisas que me Tiram o Sono\" runs at Teatro Poeira, in Botafogo, until December 16.",
-   "sinopse_es": "\"As Coisas que me Tiram o Sono\" en cartel en el Teatro Poeira, en Botafogo, hasta el 16 de diciembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -4813,7 +4359,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Nhá Eva",
    "areas": [
     "Teatro"
@@ -4828,6 +4374,7 @@
    "link": "https://www.sympla.com.br/evento/nha-eva/3614258",
    "id": "f-e7b56859d2",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Nhá Eva\" runs at Companhia de Teatro Contemporâneo, in Botafogo, until November 29.",
    "sinopse_es": "\"Nhá Eva\" en cartel en la Companhia de Teatro Contemporâneo, en Botafogo, hasta el 29 de noviembre.",
    "faixa": "nao_informado",
@@ -4866,53 +4413,6 @@
    "sinopse_en": "Stand-up show by comedian Serginho Lacerda, known as Bento's Dad, with stories about fatherhood, suitable for all ages.",
    "sinopse_es": "Show de stand-up del comediante Serginho Lacerda, el Papá de Bento, con historias sobre la paternidad, apto para todo público.",
    "faixa": "acima80",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Miguel Falabella (Norte Shopping)",
-   "endereco": "Av. Dom Hélder Câmara, 5.474",
-   "bairro": "Cachambi",
-   "regiao": "Zona Norte",
-   "sinopse": "Rodrigo Sant'Anna leva o espetáculo \"Mulheres em Turbulência\" ao Teatro Miguel Falabella, no Norte Shopping.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128389",
-   "id": "f-6a27b066b3",
-   "entrou_em": "2026-11-25",
-   "sinopse_en": "Rodrigo Sant'Anna brings the show \"Mulheres em Turbulência\" to Teatro Miguel Falabella, at Norte Shopping.",
-   "sinopse_es": "Rodrigo Sant'Anna lleva el espectáculo \"Mulheres em Turbulência\" al Teatro Miguel Falabella, en el Norte Shopping.",
-   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -5485,7 +4985,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "A Ópera do Malandro – o musical",
    "areas": [
     "Teatro"
@@ -5500,7 +5000,7 @@
    "link": "https://bileto.sympla.com.br/event/129270",
    "id": "f-db4e688785",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "A staging of the musical \"A Ópera do Malandro\" at Areninha Cultural Terra, in Guadalupe, on November 27 and 28.",
    "sinopse_es": "Montaje del musical \"A Ópera do Malandro\" en la Areninha Cultural Terra, en Guadalupe, el 27 y 28 de noviembre.",
    "faixa": "nao_informado",
@@ -5687,6 +5187,118 @@
     {
      "data": "2026-11-27",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Senhorita Júlia, Pássaros em uma Mesma Gaiola",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126358",
+   "id": "f-94d2c5ff86",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" runs at Teatro Cândido Mendes, in Ipanema, until November 29.",
+   "sinopse_es": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" en cartel en el Teatro Cândido Mendes, en Ipanema, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Minha Vó Ri",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Minha Vó Ri\" em cartaz no Espaço Cultural Municipal Sérgio Porto, no Humaitá, até 13 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128323",
+   "id": "f-a8b365287d",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "\"Minha Vó Ri\" runs at Espaço Cultural Municipal Sérgio Porto, in Humaitá, until December 13.",
+   "sinopse_es": "\"Minha Vó Ri\" en cartel en el Espaço Cultural Municipal Sérgio Porto, en Humaitá, hasta el 13 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
     }
    ],
    "preco_texto": "",
@@ -5810,7 +5422,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Mistério Buffo",
    "areas": [
     "Teatro"
@@ -5825,6 +5437,7 @@
    "link": "https://bileto.sympla.com.br/event/129347",
    "id": "f-f8ed502f79",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Mistério Buffo\" at Teatro Municipal Café Pequeno, in Leblon, from November 27 to 29.",
    "sinopse_es": "\"Mistério Buffo\" en el Teatro Municipal Café Pequeno, en Leblon, del 27 al 29 de noviembre.",
    "faixa": "nao_informado",
@@ -5862,6 +5475,50 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "Thiago Chagas presents \"Extraviado 3.0 – Rindo sem desligar o cérebro\" at Teatro Fashion Mall.",
    "sinopse_es": "Thiago Chagas presenta \"Extraviado 3.0 – Rindo sem desligar o cérebro\" en el Teatro Fashion Mall.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Rodrigo Sant'Anna leva o espetáculo \"Mulheres em Turbulência\" ao Teatro Miguel Falabella, no Norte Shopping.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128389",
+   "id": "f-6a27b066b3",
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "Rodrigo Sant'Anna brings the show \"Mulheres em Turbulência\" to Teatro Miguel Falabella, at Norte Shopping.",
+   "sinopse_es": "Rodrigo Sant'Anna lleva el espectáculo \"Mulheres em Turbulência\" al Teatro Miguel Falabella, en el Norte Shopping.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -6422,6 +6079,47 @@
      "hora": "17:00"
     },
     {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "A Bruxinha que Era Boa",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro O Tablado",
+   "endereco": "Avenida Lineu de Paula Machado, 795",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Montagem de \"A Bruxinha que Era Boa\" em cartaz no Tablado, no Jardim Botânico, às 17h, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/123789",
+   "id": "f-d4254bc016",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "A staging of \"A Bruxinha que Era Boa\" runs at O Tablado, in Jardim Botânico, at 5 pm, until November 29.",
+   "sinopse_es": "Montaje de \"A Bruxinha que Era Boa\" en cartel en O Tablado, en Jardim Botânico, a las 17 h, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
      "data": "2026-11-28",
      "hora": "21:00"
     },
@@ -6473,14 +6171,6 @@
      "hora": "17:00"
     },
     {
-     "data": "2026-12-03",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "17:00"
-    },
-    {
      "data": "2026-12-05",
      "hora": "17:00"
     },
@@ -6496,7 +6186,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Maria no Fio da Navalha",
    "areas": [
     "Teatro"
@@ -6511,6 +6201,7 @@
    "link": "https://bileto.sympla.com.br/event/128568",
    "id": "f-ef4b37b8ed",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Maria no Fio da Navalha\" runs at Teatro Municipal Ruth de Souza, in Santa Teresa, until December 6.",
    "sinopse_es": "\"Maria no Fio da Navalha\" en cartel en el Teatro Municipal Ruth de Souza, en Santa Teresa, hasta el 6 de diciembre.",
    "faixa": "nao_informado",
@@ -6890,7 +6581,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Fora de Quadro",
    "areas": [
     "Teatro"
@@ -6905,6 +6596,7 @@
    "link": "https://bileto.sympla.com.br/event/128863",
    "id": "f-9944b1aa2c",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Fora de Quadro\" at the Centro Coreográfico da Cidade, in Tijuca, on November 28 and 29.",
    "sinopse_es": "\"Fora de Quadro\" en el Centro Coreográfico da Cidade, en Tijuca, el 28 y 29 de noviembre.",
    "faixa": "nao_informado",
@@ -6981,6 +6673,46 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "The Brasilidades music festival, over two nights at Futuros – Arte e Tecnologia, in Flamengo.",
    "sinopse_es": "Festival Brasilidades, de música, en dos noches en Futuros – Arte e Tecnologia, en Flamengo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Um Homem Célebre",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Espetáculo teatral baseado em Machado de Assis, em cartaz no Centro Cultural da Justiça Federal até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/um-homem-celebre-baseado-em-machado-de-assis-espetaculo-teatral/3605830",
+   "id": "f-a9155630c6",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "A play based on Machado de Assis, running at the Centro Cultural da Justiça Federal until November 29.",
+   "sinopse_es": "Obra de teatro basada en Machado de Assis, en cartel en el Centro Cultural da Justiça Federal hasta el 29 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -8166,6 +7898,54 @@
    "sessoes": [
     {
      "data": "2026-11-30",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-07",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-08",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Fera",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Firjan SESI Centro",
+   "endereco": "Avenida Graça Aranha, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Fera\" em temporada no Teatro Firjan SESI Centro, de 23 de novembro a 8 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128512",
+   "id": "f-d7cbeae19c",
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "\"Fera\" running at Teatro Firjan SESI Centro, from November 23 to December 8.",
+   "sinopse_es": "\"Fera\" en temporada en el Teatro Firjan SESI Centro, del 23 de noviembre al 8 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
      "hora": "19:30"
     }
    ],
@@ -8449,35 +8229,19 @@
      "hora": "20:00"
     },
     {
-     "data": "2026-12-03",
+     "data": "2026-12-02",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-04",
+     "data": "2026-12-08",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-05",
+     "data": "2026-12-09",
      "hora": "20:00"
     },
     {
-     "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
+     "data": "2026-12-15",
      "hora": "20:00"
     },
     {
@@ -8492,7 +8256,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Primeira Pessoa",
    "areas": [
     "Teatro"
@@ -8507,6 +8271,7 @@
    "link": "https://bileto.sympla.com.br/event/130051",
    "id": "f-abe3a23c33",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Primeira Pessoa\" runs at Teatro Municipal Café Pequeno, in Leblon, from December 1 to 16.",
    "sinopse_es": "\"Primeira Pessoa\" en cartel en el Teatro Municipal Café Pequeno, en Leblon, del 1 al 16 de diciembre.",
    "faixa": "nao_informado",
@@ -9097,7 +8862,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Dia de Jogo",
    "areas": [
     "Teatro"
@@ -9112,6 +8877,7 @@
    "link": "https://www.sympla.com.br/evento/dia-de-jogo/3653851",
    "id": "f-176da8f5f3",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Dia de Jogo\", produced by Má Companhia de Teatro, runs at the Centro Cultural da Justiça Federal from December 3 to 20.",
    "sinopse_es": "\"Dia de Jogo\", con producción de la Má Companhia de Teatro, en cartel en el Centro Cultural da Justiça Federal del 3 al 20 de diciembre.",
    "faixa": "nao_informado",
@@ -9351,7 +9117,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Baby Rei",
    "areas": [
     "Teatro"
@@ -9366,6 +9132,7 @@
    "link": "https://bileto.sympla.com.br/event/130588",
    "id": "f-4282152e9c",
    "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Baby Rei\" runs at Teatro Municipal Ipanema Rubens Corrêa from December 3 to 20.",
    "sinopse_es": "\"Baby Rei\" en temporada en el Teatro Municipal Ipanema Rubens Corrêa, del 3 al 20 de diciembre.",
    "faixa": "nao_informado",
@@ -9678,7 +9445,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "VibraSons",
    "areas": [
     "Teatro"
@@ -9693,6 +9460,7 @@
    "link": "https://bileto.sympla.com.br/event/130281",
    "id": "f-394e86f0c0",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"VibraSons\" at the Centro Coreográfico da Cidade, in Tijuca, from December 4 to 6.",
    "sinopse_es": "\"VibraSons\" en el Centro Coreográfico da Cidade, en Tijuca, del 4 al 6 de diciembre.",
    "faixa": "nao_informado",
@@ -9746,7 +9514,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-10",
@@ -9762,7 +9530,7 @@
     },
     {
      "data": "2026-12-13",
-     "hora": "19:00"
+     "hora": "18:00"
     },
     {
      "data": "2026-12-17",
@@ -9778,7 +9546,7 @@
     },
     {
      "data": "2026-12-20",
-     "hora": "19:00"
+     "hora": "18:00"
     }
    ],
    "preco_texto": "",
@@ -9788,7 +9556,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Lisa, Lesa & Louca",
    "areas": [
     "Teatro"
@@ -9803,6 +9571,7 @@
    "link": "https://www.sympla.com.br/evento/lisa-lesa-louca/3658926",
    "id": "f-ce2b9d48cf",
    "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Lisa, Lesa & Louca\" runs at Teatro Dulcina from December 4 to 20.",
    "sinopse_es": "\"Lisa, Lesa & Louca\" en temporada en el Teatro Dulcina, del 4 al 20 de diciembre.",
    "faixa": "nao_informado",
@@ -9852,15 +9621,11 @@
     },
     {
      "data": "2026-12-05",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-06",
      "hora": "19:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
     },
     {
      "data": "2026-12-11",
@@ -9868,15 +9633,11 @@
     },
     {
      "data": "2026-12-12",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-13",
      "hora": "19:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "20:00"
     },
     {
      "data": "2026-12-18",
@@ -9884,15 +9645,11 @@
     },
     {
      "data": "2026-12-19",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-20",
      "hora": "19:00"
-    },
-    {
-     "data": "2026-12-24",
-     "hora": "20:00"
     },
     {
      "data": "2026-12-25",
@@ -9900,7 +9657,7 @@
     },
     {
      "data": "2026-12-26",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-27",
@@ -9914,7 +9671,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "A Vida Passou por Aqui",
    "areas": [
     "Teatro"
@@ -9929,6 +9686,7 @@
    "link": "https://bileto.sympla.com.br/event/101258",
    "id": "f-0405b8de0e",
    "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"A Vida Passou por Aqui\" runs at Teatro Fashion Mall from December 4 to 27.",
    "sinopse_es": "\"A Vida Passou por Aqui\" en temporada en el Teatro Fashion Mall, del 4 al 27 de diciembre.",
    "faixa": "nao_informado",
@@ -9982,11 +9740,7 @@
     },
     {
      "data": "2026-12-06",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
+     "hora": "19:00"
     },
     {
      "data": "2026-12-11",
@@ -10004,7 +9758,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Procura-se Messias",
    "areas": [
     "Teatro"
@@ -10019,6 +9773,7 @@
    "link": "https://bileto.sympla.com.br/event/129872",
    "id": "f-2428b38459",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Procura-se Messias\" runs at Teatro Municipal Domingos Oliveira, in Gávea, from December 4 to 12.",
    "sinopse_es": "\"Procura-se Messias\" en cartel en el Teatro Municipal Domingos Oliveira, en Gávea, del 4 al 12 de diciembre.",
    "faixa": "nao_informado",
@@ -10107,7 +9862,7 @@
     },
     {
      "data": "2026-12-05",
-     "hora": "20:00"
+     "hora": "17:00"
     },
     {
      "data": "2026-12-06",
@@ -10121,7 +9876,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Música de Cinema – Magia em Concerto",
    "areas": [
     "Música"
@@ -10136,6 +9891,7 @@
    "link": "https://bileto.sympla.com.br/event/130575",
    "id": "f-8978d3f62f",
    "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "A concert of film music at Cidade das Artes, in Barra, from December 4 to 6.",
    "sinopse_es": "Concierto de música de cine en la Cidade das Artes, en Barra, del 4 al 6 de diciembre.",
    "faixa": "nao_informado",
@@ -10164,7 +9920,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Arriba",
    "areas": [
     "Teatro"
@@ -10179,6 +9935,7 @@
    "link": "https://bileto.sympla.com.br/event/130478",
    "id": "f-d1b5f7b7eb",
    "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Arriba\" plays at Teatro Municipal Ziembinski, in Tijuca, from 4 to 6 December.",
    "sinopse_es": "\"Arriba\" ocupa el Teatro Municipal Ziembinski, en Tijuca, del 4 al 6 de diciembre.",
    "faixa": "nao_informado",
@@ -10371,27 +10128,11 @@
      "hora": "11:00"
     },
     {
-     "data": "2026-12-10",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "11:00"
-    },
-    {
      "data": "2026-12-12",
      "hora": "11:00"
     },
     {
      "data": "2026-12-13",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-12-18",
      "hora": "11:00"
     },
     {
@@ -10410,7 +10151,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Festival Contarolando Histórias",
    "areas": [
     "Infantil"
@@ -10425,9 +10166,95 @@
    "link": "https://bileto.sympla.com.br/event/128571",
    "id": "f-dcc73bca1e",
    "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "A storytelling festival at Teatro Municipal Ruth de Souza, in Santa Teresa, from December 5 to 20.",
    "sinopse_es": "Festival de cuentacuentos en el Teatro Municipal Ruth de Souza, en Santa Teresa, del 5 al 20 de diciembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "de R$ 25 a R$ 280",
+   "preco_min": 25.0,
+   "preco_max": 280.0,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Djavan – O Musical: Vidas pra contar",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Musical sobre a trajetória de Djavan, interpretado por Raphael Elias (que alterna o papel com Eduardo Louzada), que volta ao Rio para sessões em dezembro. O cantor não está no elenco.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/djavan-o-musical-vidas-pra-contar-16896",
+   "id": "f-50b9a79c90",
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "A musical on Djavan's career, with Raphael Elias in the title role (alternating with Eduardo Louzada), returns to Rio for December performances. The singer is not in the cast.",
+   "sinopse_es": "Musical sobre la trayectoria de Djavan, interpretado por Raphael Elias (que alterna el papel con Eduardo Louzada), que vuelve a Río con funciones en diciembre. El cantante no está en el elenco.",
+   "faixa": "acima80",
    "status": "conferido"
   },
   {
@@ -10673,78 +10500,6 @@
    "sinopse_en": "Wêlson Nunes at Arena Carioca Jovelina Pérola Negra, in Pavuna.",
    "sinopse_es": "Wêlson Nunes en la Arena Carioca Jovelina Pérola Negra, en Pavuna.",
    "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-12-05",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-19",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-20",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "de R$ 25 a R$ 280",
-   "preco_min": 25.0,
-   "preco_max": 280.0,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Djavan – O Musical: Vidas pra contar",
-   "areas": [
-    "Teatro",
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Claro MAIS RJ",
-   "endereco": "Rua Siqueira Campos, 143",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "Musical sobre a trajetória de Djavan, interpretado por Raphael Elias (que alterna o papel com Eduardo Louzada), que volta ao Rio para sessões em dezembro. O cantor não está no elenco.",
-   "fonte": "Uhuu (extração do Todos os Rios)",
-   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/djavan-o-musical-vidas-pra-contar-16896",
-   "id": "f-50b9a79c90",
-   "entrou_em": "2026-11-25",
-   "sinopse_en": "A musical on Djavan's career, with Raphael Elias in the title role (alternating with Eduardo Louzada), returns to Rio for December performances. The singer is not in the cast.",
-   "sinopse_es": "Musical sobre la trayectoria de Djavan, interpretado por Raphael Elias (que alterna el papel con Eduardo Louzada), que vuelve a Río con funciones en diciembre. El cantante no está en el elenco.",
-   "faixa": "acima80",
    "status": "conferido"
   },
   {
@@ -11783,10 +11538,6 @@
      "hora": "19:00"
     },
     {
-     "data": "2026-12-13",
-     "hora": "19:00"
-    },
-    {
      "data": "2026-12-17",
      "hora": "19:00"
     },
@@ -11806,7 +11557,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Hienas: Uma Comédia Tóxica",
    "areas": [
     "Teatro"
@@ -11821,6 +11572,7 @@
    "link": "https://bileto.sympla.com.br/event/130046",
    "id": "f-4e91eb3d3d",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Hienas: Uma Comédia Tóxica\" runs at Teatro Correios Léa Garcia, downtown, from December 10 to 19.",
    "sinopse_es": "\"Hienas: Uma Comédia Tóxica\" en cartel en el Teatro Correios Léa Garcia, en el Centro, del 10 al 19 de diciembre.",
    "faixa": "nao_informado",
@@ -12459,7 +12211,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Cuidado Quando For Falar de Mim",
    "areas": [
     "Teatro"
@@ -12474,6 +12226,7 @@
    "link": "https://bileto.sympla.com.br/event/130480",
    "id": "f-b945f69659",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Cuidado Quando For Falar de Mim\" at Teatro Municipal Ziembinski, in Tijuca, from December 11 to 13.",
    "sinopse_es": "\"Cuidado Quando For Falar de Mim\" en el Teatro Municipal Ziembinski, en Tijuca, del 11 al 13 de diciembre.",
    "faixa": "nao_informado",
@@ -12736,14 +12489,6 @@
      "hora": "17:00"
     },
     {
-     "data": "2026-12-17",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "17:00"
-    },
-    {
      "data": "2026-12-19",
      "hora": "17:00"
     },
@@ -12759,7 +12504,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Mesmo Rio",
    "areas": [
     "Teatro"
@@ -12774,6 +12519,7 @@
    "link": "https://bileto.sympla.com.br/event/130205",
    "id": "f-345c3d2ed6",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Mesmo Rio\" runs at Teatro Municipal Ruth de Souza, in Santa Teresa, from December 12 to 20.",
    "sinopse_es": "\"Mesmo Rio\" en cartel en el Teatro Municipal Ruth de Souza, en Santa Teresa, del 12 al 20 de diciembre.",
    "faixa": "nao_informado",
@@ -14863,11 +14609,15 @@
     },
     {
      "data": "2027-01-09",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2027-01-10",
      "hora": "17:00"
+    },
+    {
+     "data": "2027-01-13",
+     "hora": "19:00"
     },
     {
      "data": "2027-01-14",
@@ -14879,11 +14629,15 @@
     },
     {
      "data": "2027-01-16",
-     "hora": "19:00"
+     "hora": "17:00"
     },
     {
      "data": "2027-01-17",
      "hora": "17:00"
+    },
+    {
+     "data": "2027-01-20",
+     "hora": "19:00"
     },
     {
      "data": "2027-01-21",
@@ -14895,7 +14649,11 @@
     },
     {
      "data": "2027-01-23",
-     "hora": "19:00"
+     "hora": "17:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "17:00"
     }
    ],
    "preco_texto": "",
@@ -14905,7 +14663,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Aurora – O Despertar da Mulher Exausta",
    "areas": [
     "Teatro"
@@ -14920,6 +14678,7 @@
    "link": "https://bileto.sympla.com.br/event/130603",
    "id": "f-30327b9bf9",
    "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Aurora – O Despertar da Mulher Exausta\" runs at Teatro Firjan SESI Centro from January 6 to 31.",
    "sinopse_es": "\"Aurora – O Despertar da Mulher Exausta\" en temporada en el Teatro Firjan SESI Centro, del 6 al 31 de enero.",
    "faixa": "nao_informado",
@@ -14976,10 +14735,6 @@
      "hora": "19:00"
     },
     {
-     "data": "2027-01-14",
-     "hora": "19:00"
-    },
-    {
      "data": "2027-01-15",
      "hora": "19:00"
     },
@@ -14992,11 +14747,15 @@
      "hora": "19:00"
     },
     {
-     "data": "2027-01-21",
+     "data": "2027-01-22",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-22",
+     "data": "2027-01-23",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-24",
      "hora": "19:00"
     }
    ],
@@ -15007,7 +14766,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Eles Não Usam Black Tie",
    "areas": [
     "Teatro"
@@ -15022,6 +14781,7 @@
    "link": "https://www.sympla.com.br/evento/eles-nao-usam-black-tie/3658868",
    "id": "f-cbf54625b4",
    "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "A staging of \"Eles Não Usam Black Tie\" running at Centro Cultural da Justiça Federal, from January 8 to 31.",
    "sinopse_es": "Montaje de \"Eles Não Usam Black Tie\" en temporada en el Centro Cultural da Justiça Federal, del 8 al 31 de enero.",
    "faixa": "nao_informado",
@@ -15215,31 +14975,15 @@
      "hora": "19:00"
     },
     {
-     "data": "2027-01-14",
+     "data": "2027-01-12",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-15",
+     "data": "2027-01-18",
      "hora": "19:00"
     },
     {
-     "data": "2027-01-16",
-     "hora": "19:00"
-    },
-    {
-     "data": "2027-01-17",
-     "hora": "19:00"
-    },
-    {
-     "data": "2027-01-21",
-     "hora": "19:00"
-    },
-    {
-     "data": "2027-01-22",
-     "hora": "19:00"
-    },
-    {
-     "data": "2027-01-23",
+     "data": "2027-01-19",
      "hora": "19:00"
     }
    ],
@@ -15250,7 +14994,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "O Formigueiro",
    "areas": [
     "Teatro"
@@ -15265,6 +15009,7 @@
    "link": "https://bileto.sympla.com.br/event/130602",
    "id": "f-d3cd20fe6a",
    "entrou_em": "2026-11-24",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "\"O Formigueiro\" runs at Teatro Firjan SESI Centro from January 11 to February 2.",
    "sinopse_es": "\"O Formigueiro\" en temporada en el Teatro Firjan SESI Centro, del 11 de enero al 2 de febrero.",
    "faixa": "nao_informado",
@@ -15774,14 +15519,6 @@
     {
      "data": "2027-01-22",
      "hora": "18:30"
-    },
-    {
-     "data": "2027-01-23",
-     "hora": "18:30"
-    },
-    {
-     "data": "2027-01-24",
-     "hora": "18:30"
     }
    ],
    "preco_texto": "",
@@ -15791,7 +15528,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "aviso": "dias",
+   "aviso": "",
    "titulo": "Paulo e Estêvão",
    "areas": [
     "Teatro"
@@ -15806,6 +15543,7 @@
    "link": "https://bileto.sympla.com.br/event/130583",
    "id": "f-1b0f02a353",
    "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25",
    "sinopse_en": "The play \"Paulo e Estêvão\" opens at Teatro Miguel Falabella, at Norte Shopping, on 22 January.",
    "sinopse_es": "La obra \"Paulo e Estêvão\" se estrena en el Teatro Miguel Falabella, en el Norte Shopping, el 22 de enero.",
    "faixa": "nao_informado",
