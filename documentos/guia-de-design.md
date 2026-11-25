@@ -367,7 +367,9 @@ Motivo: a coordenação editorial achou o site funcional, mas pouco contemporân
 - **Source Serif 4** fica só em dois lugares: a marca ("Rios.") e o itálico do "por que ir" e da epígrafe. A serifa passa a ter função própria: marca e voz da redação. O itálico da Inter foi testado (Estudo J1) e soou mecânico.
 - Saíram do site os cortes da Source Serif que deixaram de ser usados (regular e itálico 600).
 
-**Busca com exemplos.** Sob o campo de busca, "Experimente: samba · Madureira · choro" (também em inglês e espanhol), em links que preenchem a busca. Ideia tirada do SMK Open, sem esvaziar a página inicial.
+**Busca com exemplos: retirada no mesmo dia.** Entrou sob a busca a linha "Experimente: samba · Madureira · choro" (ideia do SMK Open). A coordenação editorial achou que poluía a tela, e ela saiu.
+
+**Conserto da busca (25/11/2026).** No iPhone, a busca parecia não funcionar: a lista se atualizava enquanto se digitava, mas ficava escondida sob o teclado, e o Enter não fazia nada. Agora o Enter aplica a busca, fecha o teclado e leva a tela até "N atividades", logo abaixo da faixa de dias. A tecla do teclado aparece como "Buscar".
 
 **Prévias e programa.** `ferramentas/estudo_j.py` gera `docs/estudo-j1` (Gabarito + Inter), `j2` (Gabarito + Source Sans 3, descartada) e `j3` (a escolhida) a partir do site publicado. Ficam como registro.
 
