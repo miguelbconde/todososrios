@@ -161,7 +161,15 @@ def main(plataformas=None):
         import traduzir
         traduzir.gravar(novas_trad)
     # "As boas do mês" (desde 22/11/2026): escolha da redação, só com o que ainda está por vir; sem escolha, não aparece
-    mes = [x for x in dest_base.get("mes", []) if x["id"] in por_id]
+    # um item pode reunir várias fichas ("ids", desde 25/11/2026: um festival com várias noites); fica só o que ainda existe
+    mes = []
+    for x in dest_base.get("mes", []):
+        if x.get("ids"):
+            ids = [i for i in x["ids"] if i in por_id]
+            if ids:
+                mes.append(dict(x, ids=ids))
+        elif x.get("id") in por_id:
+            mes.append(x)
     base.gravar(os.path.join(pasta, "destaques.json"),
                 {"criterios_versao": dest_base.get("criterios_versao", "2026-11-15"), "dias": dias, "mes": mes, "automaticos": auto})
 

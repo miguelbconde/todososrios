@@ -88,7 +88,7 @@ PUBLICOS = ("municipal", "Municipal", "Arena", "Areninha", "Biblioteca", "Muhcab
 MAX_BOA = 3
 RODIZIO = ("Teatro", "Artes Visuais", "Cinema", "Livros & Debates", "Festas & Feiras", "Infantil")
 EIXO = ("Centro", "Zona Sul")
-MES_MIN, MES_MAX = 3, 6  # "As boas do mês": 3 a 6 grandes nomes e eventos de compra antecipada (até 6 desde 24/11/2026)
+MES_MIN, MES_MAX = 3, 7  # "As boas do mês": 3 a 7 grandes nomes e eventos de compra antecipada (até 7 desde 25/11/2026)
 
 
 def secao_da_vez(dia, pool):
@@ -136,9 +136,10 @@ def validar_destaques(eventos, destaques):
     if mes and not MES_MIN <= len(mes) <= MES_MAX:
         alertas.append(("mês", f"As boas do mês têm {len(mes)} escolhas; o padrão é de {MES_MIN} a {MES_MAX}"))
     for d in mes:
-        e = por_id.get(d["id"])
-        if e and e["status"] != "conferido":
-            alertas.append(("mês", f"“{e['titulo']}” não está conferido e não pode estar nas boas do mês"))
+        for i in (d.get("ids") or [d.get("id")]):
+            e = por_id.get(i)
+            if e and e["status"] != "conferido":
+                alertas.append(("mês", f"“{e['titulo']}” não está conferido e não pode estar nas boas do mês"))
     return alertas
 
 

@@ -22,6 +22,7 @@ Formato da entrega (todas as chaves são opcionais):
                      "detalhe": "...", "resolucao": "Corrigido: ... | Mantido: ... | (vazio = a confirmar)"} ],
   "destaques": { "AAAA-MM-DD": [ {"id": "...", "porque": "..."} ] },
   "destaques_mes": [ {"id": "...", "porque": "..."} ],   ("As boas do mês": a lista inteira, que substitui a anterior)
+                    um festival com várias noites entra como UM item: {"titulo": "Nome do festival", "ids": ["...", "..."], "porque": "..."}
   "traducoes": [ {"pt": "...", "en": "...", "es": "..."} ],
   "nota": "resumo de uma linha do que foi feito"
 }
@@ -141,7 +142,8 @@ def main(caminho):
             dest["dias"][k] = [x for x in l if x.get("id") in por_id or x.get("id") in robo_ids]
 
     if "destaques_mes" in ent:  # "As boas do mês": o que vale planejar com antecedência (lista inteira, substitui a anterior)
-        dest["mes"] = [x for x in ent["destaques_mes"] if x.get("id") in por_id]
+        dest["mes"] = [x for x in ent["destaques_mes"]
+                       if x.get("id") in por_id or (x.get("ids") and all(i in por_id for i in x["ids"]))]
 
     if ent.get("traducoes"):
         sys.path.insert(0, os.path.join(base.RAIZ, "ferramentas", "redacao"))
