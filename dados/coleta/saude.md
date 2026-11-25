@@ -10,9 +10,7 @@
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 9000 sessões de cinema
-- Sympla: 2135 eventos no Rio
-- Fever: 60 eventos no Rio
+- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
 
 ## Fichas automáticas (sem IA)
 
