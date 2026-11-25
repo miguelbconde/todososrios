@@ -69,6 +69,39 @@ def cobre_janela(linha, inicio, fim):
             return True   # "até" dentro da janela já é pego pelos padrões dos dias
     return False
 
+_DATA_ANO = re.compile(r"\b(\d{1,2})[/.](\d{1,2})[/.](\d{4}|\d{2})\b|"
+                       r"\b(?:(\d{1,2})º?\s+(?:de\s+)?)?(jan|fev|feb|mar|abr|apr|mai|may|jun|jul|ago|aug|set|sep|out|oct|nov|dez|dec)[a-zç]*\.?"
+                       r"(?:\s+(\d{1,2}))?,?\s+(?:de\s+)?(20\d\d)\b", re.I)
+_MES_EN = {"feb": 2, "apr": 4, "may": 5, "aug": 8, "sep": 9, "oct": 10, "dec": 12}
+
+def ano_de_outra_epoca(linha, inicio, fim):
+    """True se todas as datas com ano da linha estão fora da janela ("02 de Dezembro de 2019", "13.11 - 13.12.2024",
+    "dezembro 13, 2025", "16 de janeiro 2026" visto em novembro de 2026): arquivo de exposições passadas, notícia
+    velha. Sem isso, o dia e o mês batiam e a linha passava. Ano solto no texto ("desde 2010") não conta."""
+    datas, anos = [], set()
+    for m in _DATA_ANO.finditer(linha):
+        try:
+            if m.group(1):
+                a = int(m.group(3)); a = a + 2000 if a < 100 else a
+                datas.append(datetime.date(a, int(m.group(2)), int(m.group(1))))
+            else:
+                a = int(m.group(7)); mes = m.group(5).lower()[:3]
+                mes = _M.get(mes) or _MES_EN.get(mes)
+                dia = m.group(4) or m.group(6)
+                if dia:
+                    datas.append(datetime.date(a, mes, int(dia)))
+                else:
+                    anos.add(a)
+        except (ValueError, TypeError):
+            continue
+    if not datas and not anos:
+        return False
+    if any(inicio <= d <= fim + datetime.timedelta(days=400) for d in datas):
+        return False
+    if any(inicio.year <= a <= fim.year for a in anos):
+        return False
+    return True
+
 def cod(fonte, linha):
     return hashlib.sha1((fonte + "|" + re.sub(r"\s+", " ", linha.strip())).encode("utf-8")).hexdigest()[:12]
 
@@ -86,7 +119,7 @@ def peneirar(pasta, inicio, fim, saida, contexto=4, vistos=None):
             for i, l in enumerate(linhas):
                 if l.startswith("## "): atual = l
                 pagina[i] = atual
-                if pad.search(l) or cobre_janela(l, inicio, fim):
+                if (pad.search(l) or cobre_janela(l, inicio, fim)) and not ano_de_outra_epoca(l, inicio, fim):
                     c = cod(fonte, l); agora.add(c)
                     if vistos and c in antigos: continue
                     novas.add(i)

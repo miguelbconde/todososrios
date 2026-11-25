@@ -145,6 +145,12 @@ def texto_limpo(h, limite=None):
     linhas = [re.sub(r"[ \t\xa0​]+", " ", l).strip() for l in h.split("\n")]
     saida, anterior = [], None
     for l in linhas:
+        # restos de código de imagem que sobram escapados (Silvia Cintra e outros): a abertura da etiqueta, linhas
+        # que são só atributos (src=, srcset=, data-...=) e linhas gigantes sem espaço (imagem embutida em base64)
+        if re.match(r"<(img|source|picture|figure|video|a|div|span)\b", l, re.I) or \
+                re.match(r"(src|srcset|data-[\w-]+|alt|class|sizes|width|height|loading|itemprop|style|decoding)\s*=", l, re.I) or \
+                (len(l) > 400 and " " not in l[:400]):
+            continue
         if l and l != anterior:
             saida.append(l)
         anterior = l
