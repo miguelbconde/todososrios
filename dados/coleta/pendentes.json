@@ -7,12 +7,6 @@
    "motivo": "não deu tempo"
   },
   {
-   "fonte": "FPLAT_sympla",
-   "titulo": "ATO 021 – 4ª edição (Circo no Ato), Fundição Progresso, 28/11",
-   "data": "2026-11-28",
-   "motivo": "não deu tempo"
-  },
-  {
    "fonte": "FPLAT_fever",
    "titulo": "Edgar Allan Poe Speakeasy, Solar de Botafogo, 9 e 16/1",
    "data": "2027-01-09",
@@ -65,6 +59,24 @@
    "titulo": "OSB Especial Harry Potter em 'Teatro Cidade das Artes', Rua Napoleão Conrado, 328 (6/12, 17h); Concerto de Natal Especial no Theatro Municipal (17/12, 12h)",
    "data": "2026-12-06",
    "motivo": "endereço estranho no roteiro; a própria revista pede confirmação do evento de 17/12"
+  },
+  {
+   "fonte": "F138",
+   "titulo": "Percy Jackson – O Ladrão de Raios: O Musical, Teatro Multiplan, estreia 14/1",
+   "data": "2027-01-14",
+   "motivo": "a fonte não dá dias e horas da temporada"
+  },
+  {
+   "fonte": "F082 / F092",
+   "titulo": "Danielian Galeria: exposições 'Rio e também posso chorar' (até 9/1) e 'Bandálidas' (até 12/12); IMS: Senzala Hi-Tech (5/12, 17h)",
+   "data": "2026-12-05",
+   "motivo": "falta endereço e horário de visitação da galeria; no IMS, não está claro a unidade nem se é grátis"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Sympla 'cultural' sem dado suficiente: Histórias que a gente canta – Glee (Tijuca Tênis, 28 e 29/11), Grupo Meu Samba é Assim (Rio Scenarium, 3/12, hora 23h59), Roda do Gab (Av. Dom Hélder Câmara, 7775, 5/12), A Lapa é Aqui (Arena Elza Osborne, 16/12)",
+   "data": "2026-11-28",
+   "motivo": "pode ser apresentação de escola, hora ou bairro incertos"
   }
  ]
 }
