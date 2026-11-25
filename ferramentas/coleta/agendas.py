@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Agendas dedicadas da ronda diária (desde 22/11/2026): Sesc RJ, Arte que Acontece e (desde 24/11/2026) Revista CONCERTO.
+"""Agendas dedicadas da ronda diária (desde 22/11/2026): Sesc RJ, Arte que Acontece, (desde 24/11/2026) Revista CONCERTO
+e (desde 25/11/2026) o calendário oficial da Riotur (FAGENDA_riotur.txt, radar de fatos; cache em riotur-cache.json).
 
 Por decisão editorial, os eventos dessas duas fontes entram por padrão na rotina da redação.
 Este programa comum (sem IA) lê as agendas e grava, na pasta da ronda, dois arquivos que a
@@ -268,10 +269,162 @@ def concerto(pasta):
     return {"dias_lidos": dias_lidos, "dias_com_rio": dias_com_rio, "apresentacoes_no_rio": len(linhas), "falhas": falhas}
 
 
+# ------------------------------------------------------------------ Riotur (Calendário Oficial)
+RIOTUR = "https://riotur.rio"
+RIOTUR_MESES = 13          # páginas mexidas nos últimos 13 meses (o Clássicos do Brasil 2026 foi cadastrado em junho)
+RIOTUR_MAX_BAIXAR = 300    # páginas novas ou alteradas baixadas por ronda; o resto fica para a próxima
+RIOTUR_PAUSA = 1.0
+RIOTUR_CACHE = "riotur-cache.json"
+MESES_PT = {m: i + 1 for i, m in enumerate("janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split())}
+MESES_PT["marco"] = 3
+# Títulos quase sempre fora dos critérios (comércio, esporte, Natal de shopping): vão para um grupo à parte, só de títulos
+RIOTUR_FORA = re.compile(r"shopping|\bmall\b|barrashopping|village ?mall|uptown|corrida|maratona|\bnfl\b|futebol|campeonato|"
+                         r"brasileir[aã]o|libertadores|torneio|regata|\bsurf|v[oô]lei|beach tennis|\bufc\b|gran ?prix|"
+                         r"black friday|outlet|bazar|breakfast|botecar|gastron[oô]mic|restaurante", re.I)
+
+
+def _cache_anterior(pasta):
+    """Lê o cache da ronda anterior (guardado no ramo temporário coleta-bruta, fora da linha principal)."""
+    p = os.path.join(pasta, RIOTUR_CACHE)
+    if os.path.exists(p):
+        return json.load(open(p, encoding="utf-8"))
+    import subprocess
+    for ref in ("origin/coleta-bruta", None):
+        try:
+            if ref is None:
+                subprocess.run(["git", "fetch", "-q", "--depth", "1", "origin", "coleta-bruta"], check=True, timeout=120,
+                               capture_output=True)
+                ref = "FETCH_HEAD"
+            out = subprocess.run(["git", "show", f"{ref}:{RIOTUR_CACHE}"], check=True, capture_output=True, timeout=120).stdout
+            return json.loads(out.decode("utf-8"))
+        except Exception:
+            continue
+    return {}
+
+
+def _texto_riotur(pagina):
+    """Título e texto do evento numa página do calendário da Riotur (o miolo fica entre o botão de compartilhar e o rodapé)."""
+    m = re.search(r'og:title" content="([^"]*)', pagina)
+    titulo = limpo(m.group(1)) if m else ""
+    corpo = re.sub(r"<script.*?</script>|<style.*?</style>", " ", pagina, flags=re.S)
+    corpo = limpo(corpo)
+    a, b = corpo.find("Meu rio -->"), corpo.find("Sobre o Rio O que faz")
+    texto = corpo[a + 11:b].strip() if a >= 0 and b > a else ""
+    return titulo, texto[:4000]
+
+
+def _datas_riotur(texto, referencia):
+    """Datas citadas no texto ("28 e 29 de novembro", "05/12", "de 15/02 a 2/03"). Sem ano, vale o ano que deixa a data
+    mais perto da última atualização da página (no máximo 3 meses antes dela)."""
+    t, achadas = texto.lower(), set()
+    for d, m, a in re.findall(r"\b(\d{1,2})/(\d{1,2})(?:/(\d{2,4}))?\b", t):
+        achadas.add((int(d), int(m), int(a) + (2000 if len(a) == 2 else 0) if a else None))
+    meses = "|".join(MESES_PT)
+    for grupo, mes, ano in re.findall(r"((?:\d{1,2}º?(?:\s*(?:,|e|a|até|-|–)\s*)?)+)\s+de\s+(" + meses + r")(?:\s+de\s+(\d{4}))?", t):
+        for d in re.findall(r"\d{1,2}", grupo):
+            achadas.add((int(d), MESES_PT[mes], int(ano) if ano else None))
+    datas = set()
+    for d, m, a in achadas:
+        if not (1 <= m <= 12 and 1 <= d <= 31):
+            continue
+        anos = [a] if a else [referencia.year, referencia.year + 1]
+        for ano in anos:
+            try:
+                x = dt.date(ano, m, d)
+            except ValueError:
+                continue
+            if a or x >= referencia - dt.timedelta(days=90):
+                datas.add(x)
+                break
+    return sorted(datas)
+
+
+def _servico(texto):
+    i = texto.find("Serviço")
+    return texto[i:i + 700] if i >= 0 else texto[-500:]
+
+
+def riotur(pasta):
+    """Calendário oficial de eventos da Riotur (desde 25/11/2026). Radar de fatos: o calendário só monta a grade
+    no navegador, mas cada evento tem página pública, listada nos mapas do site com a data da última alteração.
+    O robô baixa só as páginas novas ou alteradas desde a ronda anterior (o resto vem do cache), tira as datas do
+    texto e junta numa linha por evento (a Riotur costuma criar uma página por sessão)."""
+    falhas, cache = [], _cache_anterior(pasta)
+    st, indice = baixar(f"{RIOTUR}/sitemap_index.xml")
+    time.sleep(RIOTUR_PAUSA)
+    mapas = re.findall(r"<loc>([^<]*evento_calendario-sitemap\d*\.xml)</loc>", indice or "") if st == 200 else []
+    if not mapas:
+        falhas.append(f"índice do site sem os mapas do calendário (código {st})")
+    paginas = {}
+    for mapa in mapas:
+        st, xml = baixar(mapa)
+        time.sleep(RIOTUR_PAUSA)
+        if st != 200:
+            falhas.append(f"{mapa.rsplit('/', 1)[-1]} (código {st})"); continue
+        for url, lm in re.findall(r"<loc>([^<]+)</loc>\s*<lastmod>([^<]+)</lastmod>", xml):
+            paginas[url] = lm
+    corte = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=31 * RIOTUR_MESES)).isoformat()
+    recentes = {u: lm for u, lm in paginas.items() if lm >= corte}
+    novo_cache, baixadas, adiadas = {}, 0, 0
+    for url, lm in sorted(recentes.items(), key=lambda x: x[1], reverse=True):
+        antigo = cache.get(url)
+        if antigo and antigo.get("lastmod") == lm:
+            novo_cache[url] = antigo; continue
+        if baixadas >= RIOTUR_MAX_BAIXAR:
+            adiadas += 1
+            if antigo:
+                novo_cache[url] = antigo
+            continue
+        st, txt = baixar(url)
+        time.sleep(RIOTUR_PAUSA)
+        baixadas += 1
+        if st != 200:
+            falhas.append(f"{url.rsplit('/', 2)[-2]} (código {st})")
+            if antigo:
+                novo_cache[url] = antigo
+            continue
+        titulo, texto = _texto_riotur(txt)
+        novo_cache[url] = {"lastmod": lm, "titulo": titulo, "texto": texto}
+    json.dump(novo_cache, open(os.path.join(pasta, RIOTUR_CACHE), "w", encoding="utf-8"), ensure_ascii=False)
+
+    limite = HOJE + dt.timedelta(days=62)
+    eventos, sem_data = {}, 0
+    for url, c in novo_cache.items():
+        ref = dt.date.fromisoformat(c["lastmod"][:10])
+        datas = _datas_riotur(c["texto"], ref)
+        if not datas:
+            sem_data += 1; continue
+        if datas[-1] < HOJE or datas[0] > limite:
+            continue
+        chave = re.sub(r"[^a-z0-9]", "", re.sub(r"^(espet[aá]culo|exposi[cç][aã]o)\s*", "", c["titulo"].lower()))[:40] or url
+        ev = eventos.setdefault(chave, {"titulo": c["titulo"], "datas": set(), "paginas": []})
+        ev["datas"].update(datas)
+        ev["paginas"].append((url, c["texto"]))
+    escopo, fora = [], []
+    for ev in eventos.values():
+        datas = sorted(ev["datas"])
+        textos = " || ".join(f"{u} :: {_servico(t)}" for u, t in sorted(ev["paginas"]))
+        linha = (f"datas citadas: {', '.join(d.isoformat() for d in datas)} | {ev['titulo']} | "
+                 f"{len(ev['paginas'])} página(s) | serviço segundo a Riotur: {textos}")
+        (fora if RIOTUR_FORA.search(ev["titulo"]) else escopo).append((datas[0], linha))
+    with open(os.path.join(pasta, "FAGENDA_riotur.txt"), "w", encoding="utf-8") as f:
+        f.write("FAGENDA_riotur | Riotur — calendário oficial de eventos da cidade (radar de fatos: confirme na fonte do espaço "
+                "ou da produção; preço da Riotur só com confirmação; texto próprio) | " + RIOTUR + "/editorial/calendario-eventos/\n")
+        f.write("## eventos, por data (datas tiradas do texto da página; confira)\n")
+        f.write("\n".join(l for _, l in sorted(escopo)) + "\n")
+        f.write("## provavelmente fora dos critérios (comércio, esporte, Natal de shopping): leia só os títulos\n")
+        f.write("\n".join(l for _, l in sorted(fora)) + "\n")
+    if mapas and not novo_cache:
+        falhas.append("nenhuma página de evento lida (o formato do site pode ter mudado)")
+    return {"paginas_no_site": len(paginas), "paginas_do_ultimo_ano": len(recentes), "baixadas_hoje": baixadas,
+            "adiadas_para_a_proxima_ronda": adiadas, "sem_data_no_texto": sem_data, "eventos_na_janela": len(escopo),
+            "provavelmente_fora": len(fora), "falhas": falhas[:20]}
+
+
 def main(pasta):
     os.makedirs(pasta, exist_ok=True)
     resumo = {"feito_em": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-    for nome, func in (("sesc", sesc), ("arte_que_acontece", arte_que_acontece), ("concerto", concerto)):
+    for nome, func in (("sesc", sesc), ("arte_que_acontece", arte_que_acontece), ("concerto", concerto), ("riotur", riotur)):
         try:
             resumo[nome] = func(pasta)
         except Exception as erro:  # uma agenda nunca derruba a ronda

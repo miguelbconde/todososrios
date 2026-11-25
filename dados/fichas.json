@@ -6186,6 +6186,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-29",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "Arena: R$ 320 (inteira) + taxa de R$ 32; Lounge: R$ 580 (inteira) + taxa de R$ 58; meia pela metade (lote 05)",
+   "preco_min": 320,
+   "preco_max": 580,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "Plataforma para pessoas com deficiência perto do palco; tradução em Libras e audiodescrição",
+   "na_rua": false,
+   "nota_redacao": "Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. A página não separa abertura dos portões e início dos shows; endereço igual ao das outras noites. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.",
+   "aviso": "",
+   "titulo": "Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Marina da Glória",
+   "endereco": "Av. Infante Dom Henrique, s/n",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Segundo dia do festival Clássicos do Brasil na Marina da Glória, com shows de Alexandre Pires, Péricles e Ferrugem.",
+   "fonte": "Bilheteria Digital (venda oficial do festival)",
+   "link": "https://www.bilheteriadigital.com/classicos-do-brasil-alexandre-pires-pericles-ferrugem-29-de-novembro",
+   "trecho_fonte": "CLÁSSICOS DO BRASIL / ALEXANDRE PIRES + PÉRICLES + FERRUGEM 29 NOV Rio de Janeiro - RJ Marina da Glória Domingo às 15:00 [...] ARENA LOTE 05 A PARTIR DE R$ 160,00 LOUNGE ICATU SEGUROS LOTE 05 A PARTIR DE R$ 290,00 [...] INGRESSO ARENA - INTEIRA LOTE 05 [...] VALOR R$ 320,00 TAXA R$ 32,00 || INGRESSO LOUNGE ICATU SEGUROS - INTEIRA LOTE 05 [...] VALOR R$ 580,00 TAXA R$ 58,00 [...] Todos os shows contam com tradução em Libras, além de recursos de audiodescrição. || Classificação: 18 anos",
+   "id": "f-049eaa80c8",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "15:00"
     }
@@ -7421,6 +7454,39 @@
    "link": "https://www.concerto.com.br/roteiros/2026-11-25",
    "trecho_fonte": "2026-11-25 19:00 | EurAsia Dance Company | Instituto Italiano de Cultura — Av Pres Antônio Carlos, 40 - Centro - Tel. (21) 2220-8500 - https://iicrio.esteri.it/br/ | ingressos: Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/eurasia-dance-company-apresenta-om-mani-padme-hum-e-svarupa-vyakta/3608726?referrer=www.eurasiadanceproject.com&referrer=www.eurasiadanceproject.com&referrer=tinyurl.com&referrer=tinyurl.com. [...] programa segundo a revista: De 18 a 30 de novembro, em Belém, São Paulo e Rio de Janeiro. Divulgação dos vencedores da audição. Espetáculos Maya, Ommanipadmehu,, Svarupa e Vyakta.",
    "id": "f-1d38c97599",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "Arena: R$ 340 (inteira) + taxa de R$ 34; Lounge: R$ 620 (inteira) + taxa de R$ 62; meia pela metade (lote 06)",
+   "preco_min": 340,
+   "preco_max": 620,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "Plataforma para pessoas com deficiência perto do palco; tradução em Libras e audiodescrição",
+   "na_rua": false,
+   "nota_redacao": "Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. A página não separa abertura dos portões e início dos shows; endereço igual ao das outras noites. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.",
+   "aviso": "",
+   "titulo": "Clássicos do Brasil: Fábio Jr., Roupa Nova e Paulo Ricardo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Marina da Glória",
+   "endereco": "Av. Infante Dom Henrique, s/n",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Terceiro dia do festival Clássicos do Brasil na Marina da Glória, com shows de Fábio Jr., Roupa Nova e Paulo Ricardo.",
+   "fonte": "Bilheteria Digital (venda oficial do festival)",
+   "link": "https://www.bilheteriadigital.com/classicos-do-brasil-fabio-jr-roupa-nova-paulo-ricardo-05-de-dezembro",
+   "trecho_fonte": "CLÁSSICOS DO BRASIL / FÁBIO JR + ROUPA NOVA + PAULO RICARDO 05 DEZ Rio de Janeiro - RJ Marina da Glória Sábado às 17:00 [...] ARENA LOTE 06 A PARTIR DE R$ 170,00 LOUNGE ICATU SEGUROS LOTE 06 A PARTIR DE R$ 310,00 [...] INGRESSO ARENA - INTEIRA LOTE 06 [...] VALOR R$ 340,00 TAXA R$ 34,00 || INGRESSO LOUNGE ICATU SEGUROS - INTEIRA LOTE 06 [...] VALOR R$ 620,00 TAXA R$ 62,00 [...] Todos os shows contam com tradução em Libras, além de recursos de audiodescrição. || Classificação: 18 anos",
+   "id": "f-1d861140a7",
    "entrou_em": "2026-11-25"
   },
   {
@@ -16842,6 +16908,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "Arena: R$ 340 (inteira) + taxa de R$ 34; Lounge: R$ 620 (inteira) + taxa de R$ 62; meia pela metade (lote 06)",
+   "preco_min": 340,
+   "preco_max": 620,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "Plataforma para pessoas com deficiência perto do palco; tradução em Libras e audiodescrição",
+   "na_rua": false,
+   "nota_redacao": "Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. 'Os Paralamas do Sucesso' é o nome completo usado no site do festival; a bilheteria escreve 'Paralamas'. A página não separa abertura dos portões e início dos shows. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.",
+   "aviso": "",
+   "titulo": "Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Marina da Glória",
+   "endereco": "Av. Infante Dom Henrique, s/n",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Dia de encerramento do festival Clássicos do Brasil na Marina da Glória, com shows de Pepeu Gomes, Os Paralamas do Sucesso e Caetano Veloso.",
+   "fonte": "Bilheteria Digital (venda oficial do festival)",
+   "link": "https://www.bilheteriadigital.com/classicos-do-brasil-pepeu-gomes-paralamas-caetano-veloso-06-de-dezembro",
+   "trecho_fonte": "CLÁSSICOS DO BRASIL / PEPEU GOMES + PARALAMAS + CAETANO VELOSO 06 DEZ Rio de Janeiro - RJ Marina da Glória Domingo às 15:00 [...] ARENA LOTE 06 A PARTIR DE R$ 170,00 LOUNGE ICATU SEGUROS LOTE 06 A PARTIR DE R$ 310,00 [...] INGRESSO ARENA - INTEIRA LOTE 06 [...] VALOR R$ 340,00 TAXA R$ 34,00 || INGRESSO LOUNGE ICATU SEGUROS - INTEIRA LOTE 06 [...] VALOR R$ 620,00 TAXA R$ 62,00 [...] Todos os shows contam com tradução em Libras, além de recursos de audiodescrição. || Av. Infante Dom Henrique, S/N - Glória, Rio de Janeiro - RJ [...] Classificação: 18 anos",
+   "id": "f-cb7d616a7a",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-08",
      "hora": "19:00"
     },
@@ -20325,6 +20424,39 @@
    "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 22:00 | Marcos Ariel Quarteto | Vinícius Show Bar, Rua Vinícius de Moraes Ipanema | organizador: Vinicius Show Bar",
    "id": "f-fb442c15f2",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "Arena: R$ 420 (inteira) + taxa de R$ 42; meia R$ 210 (lote 06)",
+   "preco_min": 420,
+   "preco_max": 420,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "Plataforma para pessoas com deficiência perto do palco",
+   "na_rua": false,
+   "nota_redacao": "Fora das fontes do Núcleo (vende pela Bilheteria Digital); achado pela coordenação editorial e confirmado no calendário da Riotur em 25/11. Nesta noite a página de venda só lista o setor Arena (o Lounge não aparece, provavelmente esgotado). A página não separa abertura dos portões e início dos shows. A Riotur informa 'a partir de R$ 120', valor que não confere com a venda oficial: vale o da bilheteria. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.",
+   "aviso": "",
+   "titulo": "Clássicos do Brasil: Alceu Valença, Maria Bethânia e Vanessa da Mata",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Marina da Glória",
+   "endereco": "Av. Infante Dom Henrique, s/n",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Primeiro dia do festival Clássicos do Brasil na Marina da Glória, com shows de Alceu Valença, Maria Bethânia e Vanessa da Mata. O festival segue em 29/11 e em 5 e 6/12, com outras atrações.",
+   "fonte": "Bilheteria Digital (venda oficial do festival)",
+   "link": "https://www.bilheteriadigital.com/classicos-do-brasil-alceu-valenca-maria-bethania-vanessa-da-mata-28-de-novembro",
+   "trecho_fonte": "CLÁSSICOS DO BRASIL / ALCEU VALENÇA + MARIA BETHANIA + VANESSA DA MATA 28 NOV Rio de Janeiro - RJ Marina da Glória Sábado às 17:00 [...] ARENA LOTE 06 A PARTIR DE R$ 210,00 [...] INGRESSO ARENA - INTEIRA LOTE 06 [...] VALOR R$ 420,00 TAXA R$ 42,00 [...] O Clássicos do Brasil conta com uma plataforma exclusiva para pessoas com deficiência (PCD), com acesso livre para todos os tipos de ingresso, localizada próxima ao palco || Av. Infante Dom Henrique, S/N - Glória, Rio de Janeiro - RJ [...] Classificação: 18 anos",
+   "id": "f-fc28817220",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,

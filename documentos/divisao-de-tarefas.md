@@ -20,7 +20,7 @@ Meta de longo prazo: cada fonte que o robô aprende a ler sozinho sai da fila do
 ### 1. Robô (GitHub, todo dia às 2h07, sem IA)
 
 - Visita as fontes do cadastro e guarda o texto fora do site.
-- Extrai a grade da Ingresso.com e os eventos da Sympla, da Fever e da Uhuu (desde 24/11/2026), já triados por regra, e lê as agendas do Sesc RJ e do Arte que Acontece (desde 22/11/2026, por padrão) e o roteiro de música clássica da Revista CONCERTO (desde 24/11/2026, por padrão).
+- Extrai a grade da Ingresso.com e os eventos da Sympla, da Fever e da Uhuu (desde 24/11/2026), já triados por regra, e lê as agendas do Sesc RJ e do Arte que Acontece (desde 22/11/2026, por padrão) o roteiro de música clássica da Revista CONCERTO (desde 24/11/2026, por padrão) e o calendário oficial da Riotur (desde 25/11/2026, como radar de fatos).
 - Monta a programação a partir da base de fichas, de hoje até dois meses à frente (desde 22/11/2026; antes, edição semanal de quinta a quarta).
 - Refaz a grade de todos os cinemas.
 - Completa "A boa" nos dias que não têm destaque escolhido pela redação, com regra fixa: o show do dia (preferindo as casas que recebem grandes nomes), um na rua e um da seção da vez, com pelo menos um fora do eixo Centro–Zona Sul quando houver.
