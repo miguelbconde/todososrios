@@ -15,11 +15,13 @@ AGENTE = "Mozilla/5.0 (compatible; TodosOsRiosBot/0.3; agenda cultural aberta do
 SAIDA = os.environ.get("SAIDA", "saida-plataformas")
 PAUSA = 3
 
-ALVOS = {  # nona rodada (22/11/2026): Sesc RJ, página 2 da programação e página de um evento
-    "sesc": [
-        "https://cultura.sescrio.org.br/programacao?page=2",
-        "https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-antes-de-nos",
-        "https://cultura.sescrio.org.br/programacao/historias-brincantes-com-cia-trilhos",
+ALVOS = {  # décima rodada (25/11/2026): dias das sessões nas páginas de evento da Sympla e do Bileto
+    "sympla-evento": [
+        "https://www.sympla.com.br/evento/nha-eva/3614258",
+        "https://www.sympla.com.br/evento/dia-de-jogo/3653851",
+    ],
+    "bileto": [
+        "https://bileto.sympla.com.br/event/128323",
     ],
 }
 
@@ -69,6 +71,23 @@ def main():
             resumo.append(item)
             print(plataforma, st, len(corpo), url, flush=True)
             time.sleep(PAUSA)
+    # Bileto é página montada por script: lê os scripts do próprio site para achar o endereço de onde ela puxa as sessões
+    st, final, tipo, corpo = baixar("https://bileto.sympla.com.br/event/128323")
+    achados = []
+    for src in re.findall(r'<script[^>]+src="([^"]+)"', corpo)[:12]:
+        url = src if src.startswith("http") else "https://bileto.sympla.com.br" + ("" if src.startswith("/") else "/") + src
+        s2, _, _, js = baixar(url, 8_000_000)
+        time.sleep(1)
+        trechos = set()
+        for m in re.finditer(r'(api|session|sess|apresenta|/v[0-9]/)', js):
+            trechos.add(js[max(0, m.start() - 120): m.end() + 160])
+            if len(trechos) > 400:
+                break
+        achados.append({"script": url, "status": s2, "tamanho": len(js),
+                        "urls": sorted(set(re.findall(r'https?://[a-zA-Z0-9.-]+(?:/[a-zA-Z0-9_./{}:-]*)?', js)))[:200],
+                        "trechos": sorted(trechos)[:400]})
+    with open(os.path.join(SAIDA, "bileto-scripts.json"), "w", encoding="utf-8") as f:
+        json.dump(achados, f, ensure_ascii=False, indent=1)
     with open(os.path.join(SAIDA, "resumo.json"), "w", encoding="utf-8") as f:
         json.dump(resumo, f, ensure_ascii=False, indent=1)
 
