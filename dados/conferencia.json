@@ -816,6 +816,46 @@
    "veredito": "diverge",
    "detalhe": "'Big band' não está na fonte.",
    "resolucao": "Corrigido: tirado 'big band'."
+  },
+  {
+   "id": "f-181efa9e0b",
+   "titulo": "Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-7732c10a1e",
+   "titulo": "Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-07e33c6932",
+   "titulo": "Canta Navidad – Coro Intercantus e convidados (Tijuca)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-3172bb4187",
+   "titulo": "Corais do Novo Leblon e Olé Ola – Concertos de Natal",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-8193aa7749",
+   "titulo": "Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
   }
  ]
 }
