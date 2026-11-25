@@ -10,9 +10,7 @@
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 8520 sessões de cinema
-- Sympla: 2102 eventos no Rio
-- Fever: 60 eventos no Rio
+- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
 
 ## Fichas automáticas (sem IA)
 
@@ -21,21 +19,21 @@
 
 ## Redação (tarefa diária do Claude)
 
-- Última entrega: 2026-11-24
-  - 2026-11-24: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 1: 20 fichas (Teatro Ipanema, Areninha Hermeto Pascoal, Cidade das Artes, Casa do Choro, CCJF, MAR, Carioca da Gema, Firjan SESI) de 24/11 a 23/1.
+- Última entrega: 2026-11-25
   - 2026-11-24: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 2: 20 fichas da Fever (Candlelight no Museu do Amanhã, Solar de Botafogo e Teatro dos Quatro; The Jazz Room no Rival) de 26/11 a 23/1.
   - 2026-11-24: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 3: 20 fichas (Teatro das Artes, Teatro Bangu Shopping, Fever no Rival e Teatro dos Quatro, rodas e teatros na Sympla) de 25/11 a 23/1.
   - 2026-11-24: 0 novas, 0 corrigidas, 0 recusadas — Redação diária de 24/11, lote 4: A boa de 1/12 (show do dia, ensaio aberto na Tijuca, lançamento); 30/11 mantida.
   - 2026-11-24: 0 novas, 1 corrigidas, 0 recusadas — Correção de 24/11: endereço e bairro do Mocamba Livre.
   - 2026-11-24: 4 novas, 0 corrigidas, 0 recusadas — Correção de 24/11: 4 shows da Fundição Progresso a partir dos releases enviados pela coordenação editorial (12/12 a 23/1).
   - 2026-11-24: 0 novas, 0 corrigidas, 0 recusadas — As boas do mês: entram Baco Exu do Blues e Péricles na Fundição (decisão da coordenação editorial em 24/11).
+  - 2026-11-25: 20 novas, 0 corrigidas, 0 recusadas — Redação diária de 25/11, lote 1: 20 fichas de concertos (Revista CONCERTO e Theatro Municipal) de 25/11 a 4/12.
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-24: **318**
-- Por região: Centro 123, Zona Sul 93, Zona Norte 69, Zona Sudoeste 17, Zona Oeste 16
+- Fichas da redação de hoje até 2027-01-24: **338**
+- Por região: Centro 137, Zona Sul 98, Zona Norte 70, Zona Sudoeste 17, Zona Oeste 16
 - Fora da Zona Sul: 71%
-- Grátis: 36
+- Grátis: 48
 
 ## Alarmes
 

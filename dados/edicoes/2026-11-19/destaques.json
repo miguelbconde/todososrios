@@ -114,8 +114,8 @@
   ],
   "2026-12-03": [
    {
-    "id": "f-70d707fb63",
-    "porque": "Em Leblon.",
+    "id": "f-09e4c56fa2",
+    "porque": "A preço popular, em Lapa.",
     "automatico": true
    },
    {
@@ -131,18 +131,18 @@
   ],
   "2026-12-04": [
    {
-    "id": "f-8978d3f62f",
-    "porque": "Em Barra da Tijuca.",
+    "id": "f-7bfa1cf4f1",
+    "porque": "A preço popular, em Lapa.",
+    "automatico": true
+   },
+   {
+    "id": "f-394e86f0c0",
+    "porque": "Em Tijuca.",
     "automatico": true
    },
    {
     "id": "f-176da8f5f3",
     "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "f-216d584925",
-    "porque": "Em Tijuca.",
     "automatico": true
    }
   ],

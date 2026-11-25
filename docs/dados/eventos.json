@@ -1515,6 +1515,102 @@
    "status": "conferido"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-25",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "14:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "II Encontro Internacional de Piano Colaborativo – recitais na Sala Mário Tavares",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Mário Tavares (anexo do Theatro Municipal)",
+   "endereco": "Av. Almirante Barroso, 14",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Recitais do encontro da Associação Brasileira de Piano Colaborativo, com pianistas do Brasil e do exterior ao lado de cantores e instrumentistas; na quarta à noite, um trio de piano jazz.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-25",
+   "trecho_fonte": "2026-11-25 11:00 | Mariana Salles – violino, Hugo Pilger – violoncelo, Sérgio Barrenechea – flauta e Lúcia Barrenechea – piano | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital de abertura. Continuidade até dia 27. In || 2026-11-25 18:00 | Ben Markley – piano, Jefferson Lescowich – contrabaixo e Xande Figueiredo – bateria | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital Piano Jazz || 2026-11-27 11:00 | Recital Sons da Primavera | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Ass || 2026-11-27 14:00 | João Paulo Casarotti e Regiane Yamaguchi – pianos, Megan Barrera – soprano e Anderson César Alves – clarinete | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital música das || 2026-11-27 16:00 | Recital Interpretações | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Ass || 2026-11-27 18:00 | Gabriela Moncayo – soprano e Luis Vallés – piano e Homero Velho – barítono e Elvia Puccinelli – piano | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital de encerra",
+   "id": "f-7dde1675cf",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Recitals from the meeting of the Brazilian Association of Collaborative Piano, with pianists from Brazil and abroad alongside singers and instrumentalists; on Wednesday evening, a piano jazz trio.",
+   "sinopse_es": "Recitales del encuentro de la Asociación Brasileña de Piano Colaborativo, con pianistas de Brasil y del exterior junto a cantantes e instrumentistas; el miércoles por la noche, un trío de piano jazz.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "12:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Rigoletto – Ópera do Meio-Dia",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Theatro Municipal do Rio de Janeiro",
+   "endereco": "Praça Floriano, s/nº",
+   "bairro": "Centro (Cinelândia)",
+   "regiao": "Centro",
+   "sinopse": "Versão compacta da ópera de Verdi na hora do almoço, na escadaria interna do Theatro Municipal, com solistas da casa e piano. De graça.",
+   "fonte": "Site do Theatro Municipal",
+   "link": "https://theatromunicipal.rj.gov.br/uma-pausa-para-verdi-rigoletto-ocupa-a-hora-do-almoco-no-tmrj-9-10-25-e-26-11/",
+   "trecho_fonte": "Uma pausa para Verdi: Rigoletto ocupa a hora do almoço no TMRJ – 9, 10, 25 e 26/11 | [...] o projeto Ópera do Meio-Dia apresenta gratuitamente uma versão pocket de Rigoletto , de Giuseppe Verdi. [...] As apresentações acontecem nos dias 9, 10, 25 e 26 || 2026-11-25 12:00 | Ópera Rigoletto, de Verdi | Theatro Municipal (2361 lugares) — Praça Marechal Floriano, s/nº - Centro - Tel. (21) 2262-3935 - http://theatromunicipal.rj.gov.br/ - Ingressos: https://feverup.com/pt/rio-de-janeiro/theatro-municipal-do-rio | ingressos: não informado [...] programa segundo a revista: Ópera do meio-dia. Solistas da Orquestra Sinfônica do Theatro Muncipal. Cyrano Sales – direç",
+   "id": "f-7844e7b011",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "A compact version of Verdi's opera at lunchtime, on the inner staircase of the Theatro Municipal, with the house's soloists and piano. Free.",
+   "sinopse_es": "Versión compacta de la ópera de Verdi a la hora del almuerzo, en la escalera interna del Theatro Municipal, con solistas de la casa y piano. Gratis.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
    "titulo": "Música no Museu",
    "areas": [
     "Música"
@@ -1677,6 +1773,42 @@
     {
      "data": "2026-11-25",
      "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Noiserv – 2ª Mostra Portugal Contemporâneo no Brasil",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Theatro Municipal do Rio de Janeiro – Salão Assyrio",
+   "endereco": "Praça Floriano, s/nº",
+   "bairro": "Centro (Cinelândia)",
+   "regiao": "Centro",
+   "sinopse": "Noiserv se apresenta no Salão Assyrio do Theatro Municipal, dentro da 2ª Mostra Portugal Contemporâneo no Brasil, do Arte Institute.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-25",
+   "trecho_fonte": "2026-11-25 17:00 | Noiserv | Theatro Municipal (2361 lugares) — Praça Marechal Floriano, s/nº - Centro - Tel. (21) 2262-3935 - http://theatromunicipal.rj.gov.br/ - Ingressos: https://feverup.com/pt/rio-de-janeiro/theatro-municipal-do-rio | ingressos: não informado [...] programa segundo a revista: 2ª Mostra Portugal Contemporâneo no Brasil. Arte Institute. Ana Ventura Miranda - idealização e direção. Salão Assyrio. Continuidade até 1º de dezembro. Informações: https:",
+   "id": "f-60f2928cdb",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Noiserv performs in the Salão Assyrio of the Theatro Municipal, as part of the 2nd Portugal Contemporâneo no Brasil showcase, by Arte Institute.",
+   "sinopse_es": "Noiserv se presenta en el Salón Assyrio del Theatro Municipal, dentro de la 2ª Muestra Portugal Contemporâneo no Brasil, del Arte Institute.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "17:00"
     },
     {
      "data": "2026-11-25",
@@ -1818,6 +1950,42 @@
    "sinopse_en": "Dança à Deriva – Rio edition, with CorpoCabeça (RJ) and Grandiosa (CH/MX), at Teatro Cacilda Becker, in Catete.",
    "sinopse_es": "Dança à Deriva – edición Río, con CorpoCabeça (RJ) y Grandiosa (CH/MX), en el Teatro Cacilda Becker, en Catete.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra da Unirio – Projeto Candelária",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Igreja da Candelária",
+   "endereco": "Praça Pio X, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A orquestra da Unirio, regida por Guilherme Bernstein, toca na Igreja da Candelária no fim da tarde. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-25",
+   "trecho_fonte": "2026-11-25 18:00 | Orquestra da Unirio | Igreja da Candelária — Praça Pio X, s/nº - Centro - Tel. (21) 2233-2324 - https://www.candelariario.org.br/ | ingressos: Entrada franca. [...] programa segundo a revista: Projeto Candelária. Guilherme Bernstein – regente.",
+   "id": "f-c9ad8c2488",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Unirio orchestra, conducted by Guilherme Bernstein, plays at the Candelária Church in the late afternoon. Free admission.",
+   "sinopse_es": "La orquesta de la Unirio, dirigida por Guilherme Bernstein, toca en la Iglesia de la Candelária al final de la tarde. Entrada libre.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -2063,6 +2231,42 @@
    "sinopse_en": "Guitar meeting with Marco Lima and Almir Côrtes at Espaço Abu, in Copacabana.",
    "sinopse_es": "Encuentro de guitarras con Marco Lima y Almir Côrtes en el Espaço Abu, en Copacabana.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "EurAsia Dance Company",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos, 40",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A companhia EurAsia Dance apresenta seus espetáculos no Instituto Italiano de Cultura, numa turnê que passa por Belém, São Paulo e Rio. Entrada franca com retirada de ingresso.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-25",
+   "trecho_fonte": "2026-11-25 19:00 | EurAsia Dance Company | Instituto Italiano de Cultura — Av Pres Antônio Carlos, 40 - Centro - Tel. (21) 2220-8500 - https://iicrio.esteri.it/br/ | ingressos: Entrada franca, retirada de ingressos: https://www.sympla.com.br/evento/eurasia-dance-company-apresenta-om-mani-padme-hum-e-svarupa-vyakta/3608726?referrer=www.eurasiadanceproject.com&referrer=www.eurasiadanceproject.com&referrer=tinyurl.com&referrer=tinyurl.com. [...] programa segundo a revista: De 18 a 30 de novembro, em Belém, São Paulo e Rio de Janeiro. Divulgação dos vencedores da audição. Espetáculos Maya, Ommanipadmehu,, Svarupa e Vyakta.",
+   "id": "f-1d38c97599",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "EurAsia Dance Company presents its pieces at the Italian Cultural Institute, on a tour through Belém, São Paulo and Rio. Free admission with ticket pick-up.",
+   "sinopse_es": "La compañía EurAsia Dance presenta sus espectáculos en el Instituto Italiano de Cultura, en una gira por Belém, São Paulo y Río. Entrada libre con retiro de entradas.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -2776,6 +2980,90 @@
    "sinopse_en": "Anna Ratto in concert at Manouche, in Jardim Botânico.",
    "sinopse_es": "Concierto de Anna Ratto en Manouche, en Jardim Botânico.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "14:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "II Encontro Internacional de Piano Colaborativo – recitais na ABL",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Três recitais do encontro de piano colaborativo na Academia Brasileira de Letras: canto, clarinete e piano de manhã, sopros e piano à tarde e canção de câmara brasileira no fim do dia.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-26",
+   "trecho_fonte": "2026-11-26 11:00 | Carla Cottini – soprano, Bruno Ghirardi – clarinete e Ricardo Ballestero – piano | Academia Brasileira de Letras (85 lugares) — Av. Presidente Wilson, 203 – Tel. (21) 3974-2500 – www.academia.org.br/ | ingressos: Entrada franca. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital Cantos do  || 2026-11-26 14:00 | Rafaela Duria – canto, Ângelo Fernandes – piano, Eric Ohlsson – oboé, Sue Barber – fagote e Deloise Lima – piano | Academia Brasileira de Letras (85 lugares) — Av. Presidente Wilson, 203 – Tel. (21) 3974-2500 – www.academia.org.br/ | ingressos: Entrada franca. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital didático c || 2026-11-26 17:30 | Lenine Santos – canto e Maria Teresa Madeira – piano | Academia Brasileira de Letras - Teatro R. Magalhães Jr. — Av Pres Wilson 203 - Castelo - Tel. (21) 3974-2500 | ingressos: Entrada franca. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital A canção de câmara brasileira.",
+   "id": "f-91efc4a95a",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Three recitals from the collaborative piano meeting at the Academia Brasileira de Letras: voice, clarinet and piano in the morning, winds and piano in the afternoon, and Brazilian art song at the end of the day.",
+   "sinopse_es": "Tres recitales del encuentro de piano colaborativo en la Academia Brasileña de Letras: canto, clarinete y piano por la mañana, vientos y piano por la tarde y canción de cámara brasileña al final del día.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Symbiophilia – Panthalassa Ensemble",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "MAM Rio",
+   "endereco": "Avenida Infante Dom Henrique, 85 (Parque do Flamengo)",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Panthalassa Ensemble, grupo internacional de sopros, eletrônica, guitarra, piano e percussão, estreia às 15h, nos pilotis do MAM, uma obra de Bryan Holmes feita para o museu; às 18h30, estreia obra de Pasquale Calò e reapresenta uma de Camila Nebbia.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-26",
+   "trecho_fonte": "2026-11-26 15:00 | Symbiophilia | Museu de Arte Moderna do Rio de Janeiro - MAM (186 lugares) — Av. Infante Dom Henrique, 85 - Parque do Flamengo - Tel. (21) 3883-5600 - https://mam.rio/ | ingressos: Entrada franca, retirada de ingressos: https://mamrio.byinti.com/#/ticket/. [...] programa segundo a revista: Projeto internacional de criação artística. Panthalassa Ensemble: Camila Nebbia - sax tenor, Susana Santos Silva - trompete, Bryan Holmes - eletrônica, Pasquale Calò - saxofone, Lorenzo Colocci - flauta transversa, Samuel Gapp - piano, Rodrigo Girafa - guitarra elétrica, Lee Hodel - contrabaixo acústico e Francesca Remigi - bateria e percussão. Programa: estreia da obra site-specific de Bryan Holmes, concebida especialmente para o espaço do museu. Pilotis. Continuidade às 18h30.",
+   "id": "f-8aac37b494",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Panthalassa Ensemble, an international group of winds, electronics, guitar, piano and percussion, premieres at 3 pm, at MAM's pilotis, a work by Bryan Holmes made for the museum; at 6:30 pm, it premieres a work by Pasquale Calò and performs again one by Camila Nebbia.",
+   "sinopse_es": "El Panthalassa Ensemble, grupo internacional de vientos, electrónica, guitarra, piano y percusión, estrena a las 15 h, en los pilotis del MAM, una obra de Bryan Holmes creada para el museo; a las 18.30, estrena una obra de Pasquale Calò y vuelve a presentar una de Camila Nebbia.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -4814,6 +5102,42 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Cristiano Vogas – Série Piano na Sala",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Recital do pianista Cristiano Vogas na série Piano na Sala, da Sala Cecília Meireles.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-27",
+   "trecho_fonte": "2026-11-27 19:00 | Cristiano Vogas - piano | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Série Piano ",
+   "id": "f-2750eaac64",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Recital by pianist Cristiano Vogas in the Piano na Sala series at Sala Cecília Meireles.",
+   "sinopse_es": "Recital del pianista Cristiano Vogas en la serie Piano na Sala, de la Sala Cecília Meireles.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África",
    "areas": [
     "Música"
@@ -4833,6 +5157,42 @@
    "sinopse_en": "Launch of the album \"Mãe África\" by Wesley Nóog and Banda Roda Jardim Suspenso, in the Sextas Lançamentos series at Centro da Música Carioca.",
    "sinopse_es": "Lanzamiento del álbum \"Mãe África\", de Wesley Nóog y la Banda Roda Jardim Suspenso, en la serie Sextas Lançamentos del Centro da Música Carioca.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Hercules Gomes: Radamés Gnattali 120 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural BNDES",
+   "endereco": "Av. República do Chile, 100",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O pianista Hercules Gomes dedica um recital às obras de Radamés Gnattali, nos 120 anos do compositor. Entrada franca, com reserva antecipada no site do BNDES.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-27",
+   "trecho_fonte": "2026-11-27 19:00 | Hercules Gomes – piano | Espaço Cultural BNDES (300 lugares) — Av. República do Chile 100 – Centro – Tel. 0800 702 6337 – https://www.bndes.gov.br/. | ingressos: Entrada franca, com reserva antecipada de ingressos a partir do dia 23 às 12h em: www.bndes.gov.br/espacoculturalbndes. [...] programa segundo a revista: Recital dedicado a Radamés Gnattali, em celebração aos 120 anos de seu nascimento. Programa: obras de Gnattali.",
+   "id": "f-4074abe96b",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Pianist Hercules Gomes devotes a recital to the works of Radamés Gnattali, on the composer's 120th anniversary. Free admission, with advance booking on the BNDES website.",
+   "sinopse_es": "El pianista Hercules Gomes dedica un recital a las obras de Radamés Gnattali, en los 120 años del compositor. Entrada libre, con reserva anticipada en el sitio del BNDES.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -5646,6 +6006,42 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Mario da Silva e Rocio Infante Cia de Dança – Sala em Movimento",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "O violonista Mario da Silva divide o palco com a Rocio Infante Cia de Dança na série Sala em Movimento, da Sala Cecília Meireles.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-28",
+   "trecho_fonte": "2026-11-28 17:00 | Mario da Silva - violão e Rocio Infante Cia de Dança | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Série Sala em Movimento. Coleçõe",
+   "id": "f-5726cfe428",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Guitarist Mario da Silva shares the stage with Rocio Infante Cia de Dança in the Sala em Movimento series at Sala Cecília Meireles.",
+   "sinopse_es": "El guitarrista Mario da Silva comparte el escenario con la Rocio Infante Cia de Dança en la serie Sala em Movimento, de la Sala Cecília Meireles.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Elaine Machado e Banda Raça Brasileira: História da Diva",
    "areas": [
     "Música"
@@ -5886,6 +6282,42 @@
      "hora": "18:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Colin Foster e Alexandre Cardoni – RioWindsFestival",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Palácio São Clemente (Consulado de Portugal)",
+   "endereco": "Rua São Clemente, 424",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Flauta e piano no Palácio São Clemente, com Mozart, Rachmaninov, Chopin, Bizet, Tom Jobim e Pixinguinha, dentro do 16º RioWindsFestival. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-28",
+   "trecho_fonte": "2026-11-28 18:00 | Colin Foster – flauta e Alexandre Cardoni Gonçalves – piano | Palácio São Clemente - Consulado de Portugal (200 lugares) — Rua São Clemente, 424 – Botafogo – Tel. (21) 3861-6450 – https://riodejaneiro.consuladoportugal.mne.gov.pt/pt/ | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. 16º RioWindsFestival. Programa: obras de Mozart, Rachmaninov, Chopin, Bizet, Tom Jobim e Pixinguinha.",
+   "id": "f-11791e7810",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Flute and piano at Palácio São Clemente, with Mozart, Rachmaninov, Chopin, Bizet, Tom Jobim and Pixinguinha, as part of the 16th RioWindsFestival. Free admission.",
+   "sinopse_es": "Flauta y piano en el Palacio São Clemente, con Mozart, Rachmaninov, Chopin, Bizet, Tom Jobim y Pixinguinha, dentro del 16º RioWindsFestival. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -6025,6 +6457,42 @@
    "sinopse_en": "Samba do Alba at Praça Marechal Âncora, with Cozinha Arrumada, LadoB and Casa de Marimbondo.",
    "sinopse_es": "Samba do Alba en la Praça Marechal Âncora, con Cozinha Arrumada, LadoB y Casa de Marimbondo.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Forte de Copacabana",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Forte de Copacabana",
+   "endereco": "Praça Coronel Eugênio Franco, 1 (Posto 6)",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "A orquestra do Forte de Copacabana, regida por Luiz Potter, toca swing, mambo, choro e bossa nova, de \"In the Mood\" a \"Chega de Saudade\". Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-28",
+   "trecho_fonte": "2026-11-28 18:00 | Orquestra Forte de Copacabana | Forte de Copacabana — Praça Cel. Eugênio Franco, 1 - Posto 6 - Copacabana - Tel. (21) 2521-1032 (99 lugares) | ingressos: Entrada franca. [...] programa segundo a revista: Luiz Potter - regente. Programa: Programa: Joe Garland – In the Mood; Redd Evans / David Mann – No Moon at All; Pablo Beltrán Ruiz / Luis Demetrio, letra em inglês de Norman Gimbel – Sway (¿Quién será?); Jacob do Bandolim – Santa Morena; Moacir Santos / Nei Lopes – Oduduá; Dámaso Pérez Prado – Mambo nº 5; Tom Jobim / Vinícius de Moraes – Chega de Saudade (cantado); João Donato / Gilberto Gil – Bananeira; Lupicínio Rodrigues e Felisberto Martins – Se Acaso Você Chegass",
+   "id": "f-af2f73c61f",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Forte de Copacabana orchestra, conducted by Luiz Potter, plays swing, mambo, choro and bossa nova, from \"In the Mood\" to \"Chega de Saudade\". Free admission.",
+   "sinopse_es": "La orquesta del Forte de Copacabana, dirigida por Luiz Potter, toca swing, mambo, choro y bossa nova, de \"In the Mood\" a \"Chega de Saudade\". Entrada libre.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -7107,6 +7575,42 @@
      "hora": "19:00"
     }
    ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Sinfônica do Conservatório de Música de Sydney",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A orquestra do conservatório australiano, regida por Roger Benedict e com o pianista Daniel Rojas, se apresenta na série Sala Orquestras.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-11-30",
+   "trecho_fonte": "2026-11-30 19:00 | Orquestra Sinfônica do Conservatório de Música de Sidney | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Série Sala Orquestras. Roger Benedict - regente. Daniel Rojas - piano.",
+   "id": "f-960787124a",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Australian conservatory's orchestra, conducted by Roger Benedict and with pianist Daniel Rojas, performs in the Sala Orquestras series.",
+   "sinopse_es": "La orquesta del conservatorio australiano, dirigida por Roger Benedict y con el pianista Daniel Rojas, se presenta en la serie Sala Orquestras.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
+     "hora": "19:00"
+    }
+   ],
    "preco_texto": "A partir de R$ 25",
    "preco_min": 25,
    "preco_max": 25,
@@ -7205,6 +7709,78 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "Alana Valentte, with over 20 years in samba, moves from samba de raiz to afro-samba in new takes on classics.",
    "sinopse_es": "Alana Valentte, con más de 20 años de samba, va del samba de raíz al afrosamba en relecturas de clásicos.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Oficina de Cantoria +60 e Vocal Molho Inglês – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Arte Sesc",
+   "endereco": "Rua Marquês de Abrantes, 99",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Dois grupos vocais cantam clássicos brasileiros no Arte Sesc, no Flamengo, na série de concertos de Natal do Música no Museu. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-01",
+   "trecho_fonte": "2026-12-01 18:00 | Oficina de Cantoria +60 e Vocal Molho Inglês | Espaço Cultural Arte Sesc — Rua Marquês de Abrantes, 99 – Flamengo – Tel. (21) 4020-2101 – https://www.sescrio.org.br/unidades/arte-sesc/ | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Crismarie Hackenberg – direção. Programa: clássicos brasileiros.",
+   "id": "f-9a6230a7a6",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Two vocal groups sing Brazilian classics at Arte Sesc, in Flamengo, in the Música no Museu Christmas concert series. Free admission.",
+   "sinopse_es": "Dos grupos vocales cantan clásicos brasileños en el Arte Sesc, en Flamengo, en la serie de conciertos de Navidad de Música no Museu. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Recante – 2ª Mostra Portugal Contemporâneo no Brasil",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Palácio São Clemente (Consulado de Portugal)",
+   "endereco": "Rua São Clemente, 424",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Recante se apresenta no Palácio São Clemente, sede do Consulado de Portugal, dentro da mostra de arte portuguesa contemporânea do Arte Institute.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-01",
+   "trecho_fonte": "2026-12-01 18:00 | Recante | Palácio São Clemente - Consulado de Portugal (200 lugares) — Rua São Clemente, 424 – Botafogo – Tel. (21) 3861-6450 – https://riodejaneiro.consuladoportugal.mne.gov.pt/pt/ | ingressos: não informado [...] programa segundo a revista: 2ª Mostra Portugal Contemporâneo no Brasil. Arte Institute. Ana Ventura Miranda - idealização e direção. Informações: http",
+   "id": "f-e5641ae06c",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Recante performs at Palácio São Clemente, home of the Consulate of Portugal, as part of Arte Institute's contemporary Portuguese art showcase.",
+   "sinopse_es": "Recante se presenta en el Palacio São Clemente, sede del Consulado de Portugal, dentro de la muestra de arte portugués contemporáneo del Arte Institute.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -7429,6 +8005,78 @@
    "sessoes": [
     {
      "data": "2026-12-02",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Duo Entre Papéis",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu da República",
+   "endereco": "Rua do Catete, 153",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "A soprano Beatriz Satie e o pianista Bernardo Calvão cantam Chausson, Reynaldo Hahn e canções japonesas no Museu da República, na hora do almoço.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-02",
+   "trecho_fonte": "2026-12-02 12:00 | Duo Entre Papéis | Museu da República (74 lugares) — Rua do Catete, 153 – Catete – Tel. (21) 3470-7692 – https:// museudarepublica.museus.gov.br/ | ingressos: não informado [...] programa segundo a revista: Beatriz Satie - soprano e Bernardo Calvão - piano. Programa: Ernest Chausson – Sèrenade Italienne; Reynaldo Hahn – Fêtes Galantes e L’Heure Exquise; Rentarō Taki – Kōjō no Tsuki (A Lua sobre o Castelo em Ruínas); Haseo Sugiyama – Defune (Partida de um barco); Tomezō Narit",
+   "id": "f-950b841600",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Soprano Beatriz Satie and pianist Bernardo Calvão perform Chausson, Reynaldo Hahn and Japanese songs at the Museu da República, at lunchtime.",
+   "sinopse_es": "La soprano Beatriz Satie y el pianista Bernardo Calvão interpretan a Chausson, Reynaldo Hahn y canciones japonesas en el Museo de la República, a la hora del almuerzo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "12:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Flautas, teclados e coral do Centro de Artes Calouste Gulbenkian – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Grupo de flautas doces e teclados e coral do Centro de Artes Calouste Gulbenkian apresentam o programa \"Sons que brilham no Natal\" no CCBB. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-02",
+   "trecho_fonte": "2026-12-02 12:30 | Grupo de Flautas Doces e Teclados e Coral do Centro de Artes Calouste Gulbenkian | Centro Cultural Banco do Brasil (155 lugares) — Rua Primeiro de Março, 66 – Centro – Tel. (21) 3808-2020 - – https://ccbb.com.br/rio-de-janeiro/ | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Nelma Pataro – direção. Programa: Sons que brilham no Natal.",
+   "id": "f-e955cc1022",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The recorder and keyboard group and choir of the Centro de Artes Calouste Gulbenkian present the programme \"Sons que brilham no Natal\" at CCBB. Free admission.",
+   "sinopse_es": "El grupo de flautas dulces y teclados y el coro del Centro de Artes Calouste Gulbenkian presentan el programa \"Sons que brilham no Natal\" en el CCBB. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
      "hora": "17:00"
     }
    ],
@@ -7613,6 +8261,42 @@
      "hora": "19:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Grupo Choro Novo: 25 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro da Música Carioca Artur da Távola",
+   "endereco": "Rua Conde de Bonfim, 824",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "O Grupo Choro Novo comemora 25 anos na série Diálogos Sonoros, com participação de Mestre Siqueira no cavaquinho, no Centro da Música Carioca, na Tijuca. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-02",
+   "trecho_fonte": "2026-12-02 19:00 | Grupo Choro Novo | Centro Municipal de Referência da Música Carioca Artur da Távola (156 lugares) — Rua Conde de Bonfim, 824 - Tijuca - Tel. (21) 3238-3831 - http://centrodamusicacarioca.blogspot.com | ingressos: Entrada franca. [...] programa segundo a revista: Série Diálogos Sonoros – Brasil Instrumental. 25 anos do grupo. Participação: Mestre Siqueira - cavaquinho.",
+   "id": "f-69fd3c3cbd",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Grupo Choro Novo celebrates 25 years in the Diálogos Sonoros series, with Mestre Siqueira on cavaquinho, at the Centro da Música Carioca in Tijuca. Free admission.",
+   "sinopse_es": "El Grupo Choro Novo celebra 25 años en la serie Diálogos Sonoros, con Mestre Siqueira en el cavaquinho, en el Centro da Música Carioca, en Tijuca. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -7747,6 +8431,42 @@
    "sinopse_en": "A tribute show to Delcio Carvalho at Teatro Brigitte Blair, in Copacabana.",
    "sinopse_es": "Show en homenaje a Delcio Carvalho en el Teatro Brigitte Blair, en Copacabana.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Laura Valle canta Cole Porter – Sala Jazz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A cantora peruana Laura Valle interpreta canções de Cole Porter na série Sala Jazz, da Sala Cecília Meireles.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-03",
+   "trecho_fonte": "2026-12-03 19:00 | Laura Valle (Peru) – cantora | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: R$ 40. [...] programa segundo a revista: Série Petrobras Sala Jazz. Programa: canções de Cole Porter.",
+   "id": "f-09e4c56fa2",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Peruvian singer Laura Valle performs Cole Porter songs in the Sala Jazz series at Sala Cecília Meireles.",
+   "sinopse_es": "La cantante peruana Laura Valle interpreta canciones de Cole Porter en la serie Sala Jazz, de la Sala Cecília Meireles.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -8351,6 +9071,42 @@
    "sinopse_en": "\"VibraSons\" at the Centro Coreográfico da Cidade, in Tijuca, from December 4 to 6.",
    "sinopse_es": "\"VibraSons\" en el Centro Coreográfico da Cidade, en Tijuca, del 4 al 6 de diciembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Duo Gazzana – Série Piano na Sala",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "O duo italiano de Natascia e Raffaella Gazzana, violino e piano, toca Schnittke, a Sonata Primavera de Beethoven, Villa-Lobos e Paganini.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-04",
+   "trecho_fonte": "2026-12-04 19:00 | Duo Gazzana (Itália) – violino e piano | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: R$ 40. [...] programa segundo a revista: Série Piano na Sala. Natascia Gazzana – violino e Raffaella Gazzana – piano. Programa: Alfred Schnittke – Gratulationsrondo; Beethoven – Sonata nº 5, Primavera; Villa-Lobos – Improviso nº 7 W096; Paganini – Sonata em lá maior; e Grieg – Sonata nº 3.",
+   "id": "f-7bfa1cf4f1",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Italian duo Natascia and Raffaella Gazzana, violin and piano, play Schnittke, Beethoven's Spring Sonata, Villa-Lobos and Paganini.",
+   "sinopse_es": "El dúo italiano de Natascia y Raffaella Gazzana, violín y piano, toca Schnittke, la Sonata Primavera de Beethoven, Villa-Lobos y Paganini.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
