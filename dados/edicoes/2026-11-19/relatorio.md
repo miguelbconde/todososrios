@@ -1,15 +1,15 @@
 # Relatório da edição — Programação de hoje até 24 de janeiro de 2027
 
-- Eventos e exposições: **898** (854 eventos com 9122 sessões; 44 em cartaz)
+- Eventos e exposições: **902** (858 eventos com 9128 sessões; 44 em cartaz)
 - Grátis: **66** · preço popular (até R$ 40): **90**
-- Conferidos sem ressalva: **889** · a confirmar: **9**
+- Conferidos sem ressalva: **893** · a confirmar: **9**
 
 ## Distribuição por região
 
-- Centro: 165
+- Centro: 167
 - Zona Sul: 244
 - Zona Sudoeste: 196
-- Zona Norte: 207
+- Zona Norte: 209
 - Zona Oeste: 86
 
 ## Conferente independente (IA)
@@ -216,9 +216,11 @@
 - [baixa] **Viny Arêas em De Risco** (f-a80078b053) — Preço não informado na fonte
 - [baixa] **Yuri Marçal: Macumbeiro** (f-1db2b26c64) — Preço não informado na fonte
 - [baixa] **Rosi Alves: tributo a Clara Nunes** (f-084422ee9e) — Preço não informado na fonte
+- [baixa] **Moacyr Luz e Samba do Trabalhador** (f-9b5a6ff868) — Preço não informado na fonte
 - [baixa] **Orquestra Sinfônica do Conservatório de Música de Sydney** (f-960787124a) — Preço não informado na fonte
 - [baixa] **Tiago Nacarato: Segredo dos Deuses** (f-817525d981) — Preço não informado na fonte
 - [baixa] **Alana Valentte** (f-d2e296c2af) — Preço não informado na fonte
+- [baixa] **Pagode da Garagem** (f-8446b1e433) — Preço não informado na fonte
 - [baixa] **Recante – 2ª Mostra Portugal Contemporâneo no Brasil** (f-e5641ae06c) — Preço não informado na fonte
 - [baixa] **Ensaio aberto: X-I-N’TEA** (f-5f105e75e1) — Preço não informado na fonte
 - [baixa] **Um Brasileiro em Israel: lançamento e bate-papo** (f-f2b607a1c8) — Preço não informado na fonte
@@ -352,11 +354,13 @@
 - [baixa] **Kwesny em Manual do Carioca** (f-b32caf22f6) — Preço não informado na fonte
 - [baixa] **Raphael Ghanem em A Carne Só Cai no Prato do Vegano** (f-e00b9fe3ca) — Preço não informado na fonte
 - [baixa] **Feijoada do Samba de Caboclo – feriado de São Sebastião** (f-c8a5c9df7e) — Preço não informado na fonte
+- [baixa] **Paulo e Estêvão** (f-1b0f02a353) — Preço não informado na fonte
 - [baixa] **Alegria – Tribute to Sade** (f-b0fb3a7157) — Preço não informado na fonte
 - [baixa] **Diego Besou em Upa que Pariu** (f-e76aa0e4f0) — Preço não informado na fonte
 - [baixa] **Trilhas Épicas de Game of Thrones e Senhor dos Anéis** (f-f38b8f0baa) — Preço não informado na fonte
 - [baixa] **Vila Anime – Edição Verão 2027** (f-6dad32d7c9) — Preço não informado na fonte
 - [baixa] **Lavagem do Rio ao Bonfim** (f-9356acd839) — Preço não informado na fonte
+- [baixa] **10 anos do Projeto Teatro Nômade** (f-a213bf0a58) — Preço não informado na fonte
 - [media] **Vingadores: Doutor Destino** (2026-11-19-cine-1664-25347) — Horário incomum: 00:01
 - [media] **Vingadores: Doutor Destino** (2026-11-19-cine-1681-25347) — Horário incomum: 00:01
 - [media] **Vingadores: Doutor Destino** (2026-11-19-cine-4-25347) — Horário incomum: 00:01
@@ -432,9 +436,9 @@
 - **27/11**: Velha Guarda Musical da Mangueira: 70 anos; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
 - **28/11**: Gilsons; Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo; Festival Arpoarte 2026
 - **29/11**: Gilsons; Rio Blues Festival; Os Saltimbancos
-- **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher
+- **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher; Moacyr Luz e Samba do Trabalhador
 - **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
-- **02/12**: Tori: Areia e Voz; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco; Terreiro de Mangueira – Cordel Negro
+- **02/12**: Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte; Entre Direitos e Afetos: relações sem violência; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
 - **03/12**: Laura Valle canta Cole Porter – Sala Jazz; Jhordan Matheus: Passando de Fase; Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha)
 - **04/12**: OSB: Especial Harry Potter; Dia de Jogo; Abertura da exposição "Você já escutou a terra?"
 - **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; Olhar para Dentro
@@ -476,8 +480,8 @@
 - **20/01**: Feijoada do Samba de Caboclo – feriado de São Sebastião
 - **21/01**: Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta; Ballet of Lights: A Bela Adormecida
 - **22/01**: The Wailers e Pato Banton; Diego Besou em Upa que Pariu; Eles Não Usam Black Tie
-- **23/01**: Baco Exu do Blues; Aurora – O Despertar da Mulher Exausta; Oswaldo Montenegro – A Dança dos Signos
-- **24/01**: Vila Anime – Edição Verão 2027; Lavagem do Rio ao Bonfim
+- **23/01**: Baco Exu do Blues; Paulo e Estêvão; Aurora – O Despertar da Mulher Exausta
+- **24/01**: Vila Anime – Edição Verão 2027; Paulo e Estêvão; Lavagem do Rio ao Bonfim
 
 Regras de curadoria:
 - Todas as regras cumpridas.
@@ -669,10 +673,12 @@ Regras de curadoria:
 - **Viny Arêas em De Risco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (comédia) dado pelo nome da série.
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Rosi Alves: tributo a Clara Nunes** — A listagem da Sympla não informa preço nem classificação.
+- **Moacyr Luz e Samba do Trabalhador** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço. Nova data (30/11) com página própria: https://www.sympla.com.br/evento/moacyr-luz-e-samba-do-trabalhador/3665798
 - **Orquestra Sinfônica do Conservatório de Música de Sydney** — Programa não informado. O roteiro não informa preço, classificação etária nem acessibilidade.
 - **We Are Making a Film About Mark Fisher** — A Fever dá só o preço 'a partir de' (pode ser meia-entrada); não informa a inteira. O texto da página foi cortado na extração; não há mais detalhes do programa.
 - **Tiago Nacarato: Segredo dos Deuses** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Alana Valentte** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A casa não informa o preço de segunda-feira.
+- **Pagode da Garagem** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem toca. Nova data (1/12) com página própria: https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3665752
 - **Oficina de Cantoria +60 e Vocal Molho Inglês – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
 - **Recante – 2ª Mostra Portugal Contemporâneo no Brasil** — O roteiro não informa preço, classificação etária nem acessibilidade.
 - **Ensaio aberto: X-I-N’TEA** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
@@ -864,6 +870,7 @@ Regras de curadoria:
 - **Feijoada do Samba de Caboclo – feriado de São Sebastião** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
 - **Ballet of Lights: A Bela Adormecida** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A página não traz texto; sinopse só pelo título.
 - **Candlelight: Os clássicos do rock** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Paulo e Estêvão** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias presumidos (quinta a domingo): a fonte dá só o início (22/1, 18h30) e o fim (29/1, 18h30); listados os dias até o fim da janela de 60 dias (24/1).
 - **Candlelight: Compositores intemporais** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Alegria – Tribute to Sade** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Teatro Rival. É tributo, sem ligação com a artista.
 - **Diego Besou em Upa que Pariu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
@@ -874,6 +881,7 @@ Regras de curadoria:
 - **Oswaldo Montenegro – A Dança dos Signos** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 20h; o show está previsto para 22h. Preço máximo é de camarote.
 - **Vila Anime – Edição Verão 2027** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
 - **Lavagem do Rio ao Bonfim** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **10 anos do Projeto Teatro Nômade** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Programação da comemoração não informada; número da rua não informado.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.

@@ -79,6 +79,10 @@
    {
     "id": "f-cc87a92854",
     "porque": "Filme sobre Mark Fisher, autor de \"Realismo Capitalista\", no anexo do Theatro Municipal."
+   },
+   {
+    "id": "f-9b5a6ff868",
+    "porque": "A roda de segunda de Moacyr Luz e do Samba do Trabalhador, no Renascença, no Andaraí."
    }
   ],
   "2026-12-01": [
@@ -97,19 +101,16 @@
   ],
   "2026-12-02": [
    {
-    "id": "f-705dcf0961",
-    "porque": "Em Cinelândia.",
-    "automatico": true
+    "id": "f-fa57985f39",
+    "porque": "No Dia do Samba, Mauro Diniz, Breno Bené e convidados fazem a noite na Penha."
+   },
+   {
+    "id": "f-0879e45644",
+    "porque": "Conversa sobre relações sem violência e educação dos homens, no Centro Cultural da Justiça Federal."
    },
    {
     "id": "f-a2c6e8e1a7",
-    "porque": "Em Centro.",
-    "automatico": true
-   },
-   {
-    "id": "2026-11-19-116",
-    "porque": "De graça, em Tijuca.",
-    "automatico": true
+    "porque": "Sessão dupla de cineclube no Teatro Carlos Gomes, na Praça Tiradentes: \"Macumbaria\" e \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\"."
    }
   ],
   "2026-12-03": [
@@ -716,13 +717,13 @@
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
-    "porque": "Em Centro.",
+    "id": "f-1b0f02a353",
+    "porque": "Em Cachambi.",
     "automatico": true
    },
    {
-    "id": "f-7a37651211",
-    "porque": "Em Barra da Tijuca.",
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -730,6 +731,11 @@
    {
     "id": "f-6dad32d7c9",
     "porque": "Em Madureira.",
+    "automatico": true
+   },
+   {
+    "id": "f-1b0f02a353",
+    "porque": "Em Cachambi.",
     "automatico": true
    },
    {
@@ -766,7 +772,6 @@
   }
  ],
  "automaticos": [
-  "2026-12-02",
   "2026-12-03",
   "2026-12-04",
   "2026-12-05",

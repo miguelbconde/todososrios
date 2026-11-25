@@ -8197,6 +8197,42 @@
    "sessoes": [
     {
      "data": "2026-11-30",
+     "hora": "16:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "titulo": "Moacyr Luz e Samba do Trabalhador",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Renascença Clube",
+   "endereco": "Rua Barão de São Francisco",
+   "bairro": "Andaraí",
+   "regiao": "Zona Norte",
+   "sinopse": "Roda de samba de segunda-feira com Moacyr Luz e o Samba do Trabalhador no Renascença Clube, no Andaraí, das 16h30 às 21h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/moacyr-luz-e-samba-do-trabalhador-23-de-novembro/3657804",
+   "trecho_fonte": "2026-11-23 16:30 até 2026-11-23 21:30 | Moacyr Luz e Samba do Trabalhador - 23 de Novembro | Renascença Clube, Rua Barão de São Francisco Andaraí | organizador: Moacyr Luz e Samba do Trabalhador || 2026-11-30 16:30 até 2026-11-30 21:30 | Moacyr Luz e Samba do Trabalhador | Renascença Clube, Rua Barão de São Francisco Andaraí | organizador: Moacyr Luz e Samba do Trabalhador",
+   "id": "f-9b5a6ff868",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "Monday samba circle with Moacyr Luz and Samba do Trabalhador at Renascença Clube, in Andaraí, from 4:30 pm to 9:30 pm.",
+   "sinopse_es": "Rueda de samba de los lunes con Moacyr Luz y el Samba do Trabalhador en el Renascença Clube, en Andaraí, de 16:30 a 21:30.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
      "hora": "19:00"
     }
    ],
@@ -8334,6 +8370,42 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "Alana Valentte, with over 20 years in samba, moves from samba de raiz to afro-samba in new takes on classics.",
    "sinopse_es": "Alana Valentte, con más de 20 años de samba, va del samba de raíz al afrosamba en relecturas de clásicos.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "titulo": "Pagode da Garagem",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Pagode da Garagem",
+   "endereco": "Praça Tiradentes",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Pagode de terça-feira na Praça Tiradentes, no Centro, a partir das 18h30 e até a madrugada.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3658843",
+   "trecho_fonte": "2026-11-24 18:30 até 2026-11-25 03:30 | Pagode da Garagem Toda Terça Não Se Esqueça | Pagode da Garagem, Praça Tiradentes Centro | organizador: Alison Martins | https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3658843 || 2026-12-01 18:00 até 2026-12-02 03:00 | Pagode da Garagem Toda Terça Não Se Esqueça | Pagode da Garagem, Praça Tiradentes Centro | organizador: Alison Martins",
+   "id": "f-8446b1e433",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25",
+   "sinopse_en": "Tuesday pagode at Praça Tiradentes, downtown, from 6:30 pm into the early hours.",
+   "sinopse_es": "Pagode de los martes en la Praça Tiradentes, en el Centro, desde las 18:30 hasta la madrugada.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -15965,6 +16037,50 @@
    "sessoes": [
     {
      "data": "2027-01-22",
+     "hora": "18:30"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "18:30"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Paulo e Estêvão",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "A peça \"Paulo e Estêvão\" entra em cartaz no Teatro Miguel Falabella, no Norte Shopping, em 22 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130583",
+   "trecho_fonte": "2027-01-22 18:30 até 2027-01-29 18:30 | Paulo e Estêvão | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella",
+   "id": "f-1b0f02a353",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The play \"Paulo e Estêvão\" opens at Teatro Miguel Falabella, at Norte Shopping, on 22 January.",
+   "sinopse_es": "La obra \"Paulo e Estêvão\" se estrena en el Teatro Miguel Falabella, en el Norte Shopping, el 22 de enero.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-22",
      "hora": "19:00"
     }
    ],
@@ -16317,6 +16433,42 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "\"Do Rio ao Bonfim\" lavagem celebration at Sarau da Lapa, from noon to 11 pm.",
    "sinopse_es": "Lavagem \"do Rio ao Bonfim\" en el Sarau da Lapa, de las 12 h a las 23 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-24",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "10 anos do Projeto Teatro Nômade",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Regi Sabor Cozinha",
+   "endereco": "Rua Benedito Hipólito",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Projeto Teatro Nômade comemora dez anos no Regi Sabor Cozinha, no Centro, das 14h às 20h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/10-anos-de-projeto-teatro-nomade/3648580",
+   "trecho_fonte": "2027-01-24 14:00 até 2027-01-24 20:00 | 10 ANOS DE PROJETO TEATRO NÔMADE | Regi Sabor Cozinha, Rua Benedito Hipólito Centro | organizador: Projeto Teatro Nômade",
+   "id": "f-a213bf0a58",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Projeto Teatro Nômade celebrates ten years at Regi Sabor Cozinha, downtown, from 2 pm to 8 pm.",
+   "sinopse_es": "El Projeto Teatro Nômade celebra diez años en el Regi Sabor Cozinha, en el Centro, de las 14 h a las 20 h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
