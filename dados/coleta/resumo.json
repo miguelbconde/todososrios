@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-25 17:12 UTC",
- "segundos": 206,
+ "feito_em": "2026-11-25 17:41 UTC",
+ "segundos": 205,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 5 página(s)"
    ],
-   "caracteres": 31091,
+   "caracteres": 31101,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -193,7 +193,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 41656,
+   "caracteres": 42003,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -209,7 +209,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/cinemateca-do-mam-no-ccbb/"
    ],
-   "mencoes_de_data": 336,
+   "mencoes_de_data": 341,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -258,13 +258,14 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 12 página(s)"
+    "texto de 13 página(s)"
    ],
-   "caracteres": 25314,
+   "caracteres": 30138,
    "url_final": "https://ccjf.trf2.jus.br",
    "paginas": [
     "https://ccjf.trf2.jus.br",
     "https://ccjf.trf2.jus.br/programacao",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/noticias/em-cerimonia-especial-na-sala-de-sessoes-centro-cultural-justica-federal",
     "https://ccjf.trf2.jus.br/visitas/biblioteca-do-ccjf",
     "https://ccjf.trf2.jus.br/visitas/educativo",
     "https://ccjf.trf2.jus.br/visitas/cafeteria",
@@ -276,7 +277,7 @@
     "https://ccjf.trf2.jus.br/sobre-o-ccjf/noticias",
     "https://ccjf.trf2.jus.br/sobre-o-ccjf/informacoes-tecnicas"
    ],
-   "mencoes_de_data": 51,
+   "mencoes_de_data": 55,
    "situacao": "coletada",
    "arquivo": "F021.txt"
   },
@@ -539,28 +540,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 12 página(s)"
-   ],
-   "caracteres": 31454,
-   "url_final": "https://www.realgabinete.com.br",
-   "paginas": [
-    "https://www.realgabinete.com.br",
-    "https://www.realgabinete.com.br/Agenda",
-    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
-    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
-    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
-    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
-   ],
-   "mencoes_de_data": 4,
-   "situacao": "coletada",
-   "arquivo": "F049.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -802,7 +784,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6429,
+   "caracteres": 6440,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -1162,7 +1144,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1011)>"
   },
   {
    "ids": [
@@ -1270,17 +1252,9 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [
-    "texto de 1 página(s)"
-   ],
-   "caracteres": 9598,
-   "url_final": "https://blooks.com.br",
-   "paginas": [
-    "https://blooks.com.br"
-   ],
-   "mencoes_de_data": 0,
-   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
-   "arquivo": "F095.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 403)"
   },
   {
    "ids": [
@@ -1541,7 +1515,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1742,
+   "caracteres": 1797,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -2044,7 +2018,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63391,
+   "caracteres": 63429,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",

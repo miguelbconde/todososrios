@@ -1,14 +1,14 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-25 17:12 UTC, em 206 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-25 17:41 UTC, em 205 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **55**
-- não respondeu: **19**
-- coletada, mas sem datas à vista: **13**
-- recusou a visita: **3**
+- coletada: **54**
+- não respondeu: **20**
+- coletada, mas sem datas à vista: **12**
+- recusou a visita: **4**
 
 ## Fonte a fonte
 
@@ -27,7 +27,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Casa Roberto Marinho | coletada | texto de 12 página(s) |
 | Casa da Ciência da UFRJ | coletada | texto de 3 página(s) |
 | Centro Cultural Correios RJ | coletada | feed (15 itens), feed (15 itens), texto de 13 página(s) |
-| Centro Cultural Justiça Federal (CCJF) | coletada | texto de 12 página(s) |
+| Centro Cultural Justiça Federal (CCJF) | coletada | texto de 13 página(s) |
 | Cineclube Macunaíma (ABI) | coletada | feed (10 itens), texto de 12 página(s) |
 | D-Edge Rio | coletada | feed (3 itens), texto de 1 página(s) |
 | Danielian Galeria | coletada | texto de 2 página(s) |
@@ -55,7 +55,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Pinakotheke Cultural | coletada | texto de 14 página(s) |
 | Portas Vilaseca Galeria | coletada | texto de 6 página(s) |
 | Qualistage | coletada | texto de 11 página(s) |
-| Real Gabinete Português de Leitura | coletada | texto de 12 página(s) |
 | Rio Scenarium | coletada | texto de 2 página(s) |
 | Sala Cecília Meireles | coletada | texto de 12 página(s) |
 | Teatro Bangu Shopping | coletada | texto de 13 página(s) |
@@ -77,7 +76,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Circo Voador | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Festival do Rio | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Galpão Bela Maré / Observatório de Favelas | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 4 página(s) |
-| Livraria Blooks | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Marina da Glória | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Museu Villa-Lobos | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 4 página(s) |
 | Museu da Imagem e do Som (MIS RJ) | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
@@ -89,7 +87,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro dos Quatro | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Trapiche Gamboa | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Z42 Arte | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
-| Galeria Nara Roesler | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
 | Arquivo Nacional | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Fundação Casa de Rui Barbosa | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Jardim Botânico do Rio de Janeiro | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
@@ -99,8 +96,11 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Casa do Choro | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Museus Castro Maya (Chácara do Céu / Açude) | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | É Tudo Verdade | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
+| Galeria Nara Roesler | não respondeu: URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1011)> |  |
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
 | Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
+| Real Gabinete Português de Leitura | não respondeu: URLError: <urlopen error timed out> |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
+| Livraria Blooks | recusou a visita (código 403) |  |
 | Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |

@@ -1,5 +1,5 @@
 {
- "feito_em": "2026-11-25T17:12:11Z",
+ "feito_em": "2026-11-25T17:41:02Z",
  "fichas": [
   {
    "titulo": "Camisas Negras",
@@ -2848,11 +2848,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87740066"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87739995"
     },
@@ -2951,7 +2946,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cineflix Center Shopping Rio de Janeiro (RIO) · Os Farofeiros 3 · 2026-11-25 14:20 Sala 3 R$ 45,60; 2026-11-25 16:40 Sala 3 R$ 45,60; 2026-11-25 19:00 Sala 3 R$ 45,60; 2026-11-25 21:20 Sala 3 R$ 45,60; 2026-11-26 14:15 Sala 3 R$ 45,60; 2026-11-26 19:10 Sala 3 R$ 45,60; 2026-11-27 14:15 Sala 3 R$ 45,60; 2026-11-27 19:10 Sala 3 R$ 45,60; 2026-11-28 14:15 Sala 3 R$ 50,16; 2026-11-28 19:10 Sala 3 R$ 50,16; 2026-11-29 14:15 Sala 3 R$ 50,16; 2026-11-29 19:10 Sala 3 R$ 50,16; 2026-11-30 14:15 Sala 3 R$ 45,60; 2026-11-30 19:10 Sala 3 R$ 45,60; 2026-12-01 14:15 Sala 3 R$ 45,60; 2026-12-0",
+   "trecho_fonte": "Ingresso.com · Cineflix Center Shopping Rio de Janeiro (RIO) · Os Farofeiros 3 · 2026-11-25 16:40 Sala 3 R$ 45,60; 2026-11-25 19:00 Sala 3 R$ 45,60; 2026-11-25 21:20 Sala 3 R$ 45,60; 2026-11-26 14:15 Sala 3 R$ 45,60; 2026-11-26 19:10 Sala 3 R$ 45,60; 2026-11-27 14:15 Sala 3 R$ 45,60; 2026-11-27 19:10 Sala 3 R$ 45,60; 2026-11-28 14:15 Sala 3 R$ 50,16; 2026-11-28 19:10 Sala 3 R$ 50,16; 2026-11-29 14:15 Sala 3 R$ 50,16; 2026-11-29 19:10 Sala 3 R$ 50,16; 2026-11-30 14:15 Sala 3 R$ 45,60; 2026-11-30 19:10 Sala 3 R$ 45,60; 2026-12-01 14:15 Sala 3 R$ 45,60; 2026-12-01 19:10 Sala 3 R$ 45,60; 2026-12-0",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1664-30202"
@@ -3812,11 +3807,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87738376"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87738395"
     },
@@ -3995,7 +3985,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cineflix Taquara Plaza (TAQ) · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 SALA 02 R$ 41,04; 2026-11-25 14:50 SALA 05 R$ 50,16; 2026-11-25 17:20 SALA 02 R$ 41,04; 2026-11-25 18:00 SALA 05 R$ 50,16; 2026-11-25 20:30 SALA 02 R$ 41,04; 2026-11-25 21:10 SALA 05 R$ 50,16; 2026-11-26 14:10 SALA 02 R$ 41,04; 2026-11-26 17:20 SALA 02 R$ 41,04; 2026-11-26 20:30 SALA 02 R$ 41,04; 2026-11-26 21:30 SALA 05 R$ 50,16; 2026-11-27 14:10 SALA 02 R$ 41,04; 2026-11-27 17:20 SALA 02 R$ 41,04; 2026-11-27 20:30 SALA 02 R$ 41,04; 2026-11-27 21:30 SALA 05 R$ 50,16; 2026-11-28 14:10 SALA 02 ",
+   "trecho_fonte": "Ingresso.com · Cineflix Taquara Plaza (TAQ) · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:50 SALA 05 R$ 50,16; 2026-11-25 17:20 SALA 02 R$ 41,04; 2026-11-25 18:00 SALA 05 R$ 50,16; 2026-11-25 20:30 SALA 02 R$ 41,04; 2026-11-25 21:10 SALA 05 R$ 50,16; 2026-11-26 14:10 SALA 02 R$ 41,04; 2026-11-26 17:20 SALA 02 R$ 41,04; 2026-11-26 20:30 SALA 02 R$ 41,04; 2026-11-26 21:30 SALA 05 R$ 50,16; 2026-11-27 14:10 SALA 02 R$ 41,04; 2026-11-27 17:20 SALA 02 R$ 41,04; 2026-11-27 20:30 SALA 02 R$ 41,04; 2026-11-27 21:30 SALA 05 R$ 50,16; 2026-11-28 14:10 SALA 02 R$ 41,04; 2026-11-28 17:20 SALA 02 ",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1681-29919"
@@ -4011,11 +4001,6 @@
    "bairro": "Taquara",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87738432"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:40",
@@ -4151,7 +4136,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cineflix Taquara Plaza (TAQ) · Os Farofeiros 3 · 2026-11-25 14:20 SALA 03 R$ 41,04; 2026-11-25 16:40 SALA 03 R$ 41,04; 2026-11-25 19:00 SALA 03 R$ 41,04; 2026-11-25 21:20 SALA 03 R$ 41,04; 2026-11-26 14:50 SALA 03 R$ 41,04; 2026-11-26 19:30 SALA 03 R$ 41,04; 2026-11-26 21:45 SALA 03 R$ 41,04; 2026-11-27 14:50 SALA 03 R$ 41,04; 2026-11-27 19:30 SALA 03 R$ 41,04; 2026-11-27 21:45 SALA 03 R$ 41,04; 2026-11-28 14:50 SALA 03 R$ 41,04; 2026-11-28 19:30 SALA 03 R$ 41,04; 2026-11-28 21:45 SALA 03 R$ 41,04; 2026-11-29 14:50 SALA 03 R$ 41,04; 2026-11-29 19:30 SALA 03 R$ 41,04; 2026-11-29 ",
+   "trecho_fonte": "Ingresso.com · Cineflix Taquara Plaza (TAQ) · Os Farofeiros 3 · 2026-11-25 16:40 SALA 03 R$ 41,04; 2026-11-25 19:00 SALA 03 R$ 41,04; 2026-11-25 21:20 SALA 03 R$ 41,04; 2026-11-26 14:50 SALA 03 R$ 41,04; 2026-11-26 19:30 SALA 03 R$ 41,04; 2026-11-26 21:45 SALA 03 R$ 41,04; 2026-11-27 14:50 SALA 03 R$ 41,04; 2026-11-27 19:30 SALA 03 R$ 41,04; 2026-11-27 21:45 SALA 03 R$ 41,04; 2026-11-28 14:50 SALA 03 R$ 41,04; 2026-11-28 19:30 SALA 03 R$ 41,04; 2026-11-28 21:45 SALA 03 R$ 41,04; 2026-11-29 14:50 SALA 03 R$ 41,04; 2026-11-29 19:30 SALA 03 R$ 41,04; 2026-11-29 21:45 SALA 03 R$ 41,04; 2026-11-30 ",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1681-30202"
@@ -5359,11 +5344,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732619"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87732573"
     },
@@ -5667,7 +5647,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinemark Botafogo · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 1 R$ 38,76; 2026-11-25 14:50 Sala 4 R$ 38,76; 2026-11-25 15:20 Sala 5 R$ 58,13; 2026-11-25 17:00 Sala 6 R$ 58,13; 2026-11-25 17:40 Sala 1 R$ 38,76; 2026-11-25 18:45 Sala 5 R$ 58,13; 2026-11-25 20:30 Sala 6 R$ 58,13; 2026-11-25 21:10 Sala 1 R$ 38,76; 2026-11-25 21:30 Sala 4 R$ 38,76; 2026-11-25 21:50 Sala 2 R$ 38,76; 2026-11-25 22:05 Sala 5 R$ 58,13; 2026-11-26 14:30 Sala 6 R$ 75,23; 2026-11-26 17:00 Sala 1 R$ 50,16; 2026-11-26 18:00 Sala 6 R$ 75,23; 2026-11-26 20:30 Sala 1 R$ 50,16; 2026-11-26 21:30",
+   "trecho_fonte": "Ingresso.com · Cinemark Botafogo · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:50 Sala 4 R$ 38,76; 2026-11-25 15:20 Sala 5 R$ 58,13; 2026-11-25 17:00 Sala 6 R$ 58,13; 2026-11-25 17:40 Sala 1 R$ 38,76; 2026-11-25 18:45 Sala 5 R$ 58,13; 2026-11-25 20:30 Sala 6 R$ 58,13; 2026-11-25 21:10 Sala 1 R$ 38,76; 2026-11-25 21:30 Sala 4 R$ 38,76; 2026-11-25 21:50 Sala 2 R$ 38,76; 2026-11-25 22:05 Sala 5 R$ 58,13; 2026-11-26 14:30 Sala 6 R$ 75,23; 2026-11-26 17:00 Sala 1 R$ 50,16; 2026-11-26 18:00 Sala 6 R$ 75,23; 2026-11-26 20:30 Sala 1 R$ 50,16; 2026-11-26 21:30 Sala 6 R$ 75,23; 2026-11-26 22:00",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-4-29919"
@@ -7703,11 +7683,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87721757"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87721802"
     },
@@ -8071,7 +8046,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinemark Carioca Shopping · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 4 R$ 37,62; 2026-11-25 14:50 Sala 2 R$ 37,62; 2026-11-25 15:20 Sala 3 R$ 37,62; 2026-11-25 17:00 Sala 1 R$ 34,20; 2026-11-25 17:40 Sala 4 R$ 37,62; 2026-11-25 18:45 Sala 3 R$ 37,62; 2026-11-25 20:30 Sala 1 R$ 34,20; 2026-11-25 21:10 Sala 4 R$ 37,62; 2026-11-25 21:30 Sala 2 R$ 37,62; 2026-11-25 21:45 Sala 5 R$ 37,62; 2026-11-25 22:05 Sala 3 R$ 37,62; 2026-11-26 14:00 Sala 3 R$ 45,60; 2026-11-26 14:50 Sala 1 R$ 45,60; 2026-11-26 16:50 Sala 5 R$ 45,60; 2026-11-26 18:30 Sala 1 R$ 45,60; 2026-11-",
+   "trecho_fonte": "Ingresso.com · Cinemark Carioca Shopping · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:50 Sala 2 R$ 37,62; 2026-11-25 15:20 Sala 3 R$ 37,62; 2026-11-25 17:00 Sala 1 R$ 34,20; 2026-11-25 17:40 Sala 4 R$ 37,62; 2026-11-25 18:45 Sala 3 R$ 37,62; 2026-11-25 20:30 Sala 1 R$ 34,20; 2026-11-25 21:10 Sala 4 R$ 37,62; 2026-11-25 21:30 Sala 2 R$ 37,62; 2026-11-25 21:45 Sala 5 R$ 37,62; 2026-11-25 22:05 Sala 3 R$ 37,62; 2026-11-26 14:00 Sala 3 R$ 45,60; 2026-11-26 14:50 Sala 1 R$ 45,60; 2026-11-26 16:50 Sala 5 R$ 45,60; 2026-11-26 18:30 Sala 1 R$ 45,60; 2026-11-26 20:00 Sala 3 R$ 45,60; 2026-11-",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-354-29919"
@@ -10807,11 +10782,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728388"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:35",
      "compra": "https://checkout.ingresso.com/?sessionId=87727977"
     },
@@ -11175,7 +11145,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinemark Downtown · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:15 Sala 9 R$ 34,20; 2026-11-25 14:35 Sala 3 R$ 34,20; 2026-11-25 14:50 Sala 10 R$ 34,20; 2026-11-25 15:05 Sala 4 R$ 51,30; 2026-11-25 15:40 Sala 5 R$ 34,20; 2026-11-25 16:00 Sala 11 R$ 34,20; 2026-11-25 16:40 Sala 6 R$ 34,20; 2026-11-25 17:00 Sala 8 R$ 61,55; 2026-11-25 17:20 Sala 7 R$ 34,20; 2026-11-25 17:40 Sala 9 R$ 34,20; 2026-11-25 18:15 Sala 3 R$ 34,20; 2026-11-25 18:40 Sala 4 R$ 51,30; 2026-11-25 19:10 Sala 5 R$ 34,20; 2026-11-25 20:10 Sala 6 R$ 34,20; 2026-11-25 20:30 Sala 8 R$ 61,55; 2026-11-25 20:",
+   "trecho_fonte": "Ingresso.com · Cinemark Downtown · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:35 Sala 3 R$ 34,20; 2026-11-25 14:50 Sala 10 R$ 34,20; 2026-11-25 15:05 Sala 4 R$ 51,30; 2026-11-25 15:40 Sala 5 R$ 34,20; 2026-11-25 16:00 Sala 11 R$ 34,20; 2026-11-25 16:40 Sala 6 R$ 34,20; 2026-11-25 17:00 Sala 8 R$ 61,55; 2026-11-25 17:20 Sala 7 R$ 34,20; 2026-11-25 17:40 Sala 9 R$ 34,20; 2026-11-25 18:15 Sala 3 R$ 34,20; 2026-11-25 18:40 Sala 4 R$ 51,30; 2026-11-25 19:10 Sala 5 R$ 34,20; 2026-11-25 20:10 Sala 6 R$ 34,20; 2026-11-25 20:30 Sala 8 R$ 61,55; 2026-11-25 20:50 Sala 7 R$ 34,20; 2026-11-25 21:",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-3-29919"
@@ -13579,6 +13549,62 @@
    "id": "2026-11-19-cine-3-25347"
   },
   {
+   "titulo": "100 Dias",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798342"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798313"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798328"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798298"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798335"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Direção de Carlos Saldanha. Brasil, 2026, 116 min.",
+   "sinopse_en": "Directed by Carlos Saldanha. Brazil, 2026, 116 min.",
+   "sinopse_es": "Dirección de Carlos Saldanha. Brasil, 2026, 116 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/100-dias?city=rio-de-janeiro",
+   "link_espaco": "",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · 100 Dias · 2026-11-26 12:30 Sala 6 R$ 41,04; 2026-11-27 12:30 Sala 6 R$ 45,60; 2026-11-30 12:30 Sala 6 R$ 34,20; 2026-12-01 12:30 Sala 6 R$ 36,48; 2026-12-02 12:30 Sala 6 R$ 36,48",
+   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30636"
+  },
+  {
    "titulo": "BTS World Tour 'Arirang' In Jakarta: Live Viewing",
    "areas": [
     "Cinema"
@@ -13802,6 +13828,263 @@
    "id": "2026-11-19-cine-1210-31537"
   },
   {
+   "titulo": "Enfeitiçadas: Bem-Vindos A Hexe",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798312"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "14:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798348"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798352"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798340"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798350"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798286"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798373"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798370"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798309"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798295"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798362"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798366"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798291"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798364"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 54,72 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 54.72,
+   "gratis": false,
+   "classificacao": "10 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Título original: Hexed. Direção de Josie Trinidad, Jason Hand, Fawn Veerasunthorn. Estados Unidos, 2026, 103 min.",
+   "sinopse_en": "Original title: Hexed. Directed by Josie Trinidad, Jason Hand, Fawn Veerasunthorn. United States, 2026, 103 min.",
+   "sinopse_es": "Título original: Hexed. Dirección de Josie Trinidad, Jason Hand, Fawn Veerasunthorn. Estados Unidos, 2026, 103 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=rio-de-janeiro",
+   "link_espaco": "",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Enfeitiçadas: Bem-Vindos A Hexe · 2026-11-26 14:30 Sala 5 R$ 41,04; 2026-11-26 14:50 Sala 2 R$ 50,16; 2026-11-26 18:20 Sala 4 R$ 50,16; 2026-11-27 14:30 Sala 5 R$ 45,60; 2026-11-27 18:20 Sala 4 R$ 54,72; 2026-11-28 18:20 Sala 4 R$ 54,72; 2026-11-29 18:20 Sala 4 R$ 54,72; 2026-11-29 20:00 Sala 2 R$ 45,60; 2026-11-30 14:30 Sala 5 R$ 34,20; 2026-11-30 18:20 Sala 4 R$ 42,18; 2026-12-01 14:30 Sala 5 R$ 36,48; 2026-12-01 18:20 Sala 4 R$ 44,46; 2026-12-02 14:30 Sala 5 R$ 36,48; 2026-12-02 18:20 Sala 4 R$ 44,46",
+   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-32983"
+  },
+  {
+   "titulo": "Entrando Numa Grande Fria",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798314"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798285"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798308"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798369"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798315"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798356"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798323"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "13:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798357"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798288"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798382"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798292"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798383"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "13:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798377"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798296"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798371"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798358"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798354"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798351"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798365"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798337"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798300"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798332"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798345"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798341"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798381"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Título original: Focker In-Law. Direção de John Hamburg. Estados Unidos, 2026, 105 min.",
+   "sinopse_en": "Original title: Focker In-Law. Directed by John Hamburg. United States, 2026, 105 min.",
+   "sinopse_es": "Título original: Focker In-Law. Dirección de John Hamburg. Estados Unidos, 2026, 105 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/entrando-numa-grande-fria?city=rio-de-janeiro",
+   "link_espaco": "",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Entrando Numa Grande Fria · 2026-11-26 16:00 Sala 6 R$ 41,04; 2026-11-26 18:40 Sala 6 R$ 41,04; 2026-11-26 21:15 Sala 6 R$ 41,04; 2026-11-27 16:00 Sala 6 R$ 45,60; 2026-11-27 18:40 Sala 6 R$ 45,60; 2026-11-27 21:15 Sala 6 R$ 45,60; 2026-11-28 12:30 Sala 4 R$ 45,60; 2026-11-28 13:20 Sala 6 R$ 45,60; 2026-11-28 16:00 Sala 6 R$ 45,60; 2026-11-28 18:40 Sala 6 R$ 45,60; 2026-11-28 21:15 Sala 6 R$ 45,60; 2026-11-29 12:30 Sala 4 R$ 45,60; 2026-11-29 13:20 Sala 6 R$ 45,60; 2026-11-29 16:00 Sala 6 R$ 45,60; 2026-11-29 18:40 Sala 6 R$ 45,60; 2026-11-29 21:15",
+   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30651"
+  },
+  {
    "titulo": "Eu Sou O Rocky",
    "areas": [
     "Cinema"
@@ -13826,12 +14109,82 @@
      "data": "2026-11-25",
      "hora": "21:00",
      "compra": "https://checkout.ingresso.com/?sessionId=87744619"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798301"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798329"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798281"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798338"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798284"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798330"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798289"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798363"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798324"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798331"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798316"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798334"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798317"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798346"
     }
    ],
    "cartaz": null,
-   "preco_texto": "R$ 34,20 (preço da plataforma)",
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
    "preco_min": 34.2,
-   "preco_max": 34.2,
+   "preco_max": 45.6,
    "gratis": false,
    "classificacao": "12 anos",
    "acessibilidade": "",
@@ -13842,7 +14195,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Eu Sou O Rocky · 2026-11-25 15:10 Sala 5 R$ 34,20; 2026-11-25 18:00 Sala 5 R$ 34,20; 2026-11-25 21:00 Sala 5 R$ 34,20",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Eu Sou O Rocky · 2026-11-25 15:10 Sala 5 R$ 34,20; 2026-11-25 18:00 Sala 5 R$ 34,20; 2026-11-25 21:00 Sala 5 R$ 34,20; 2026-11-26 15:20 Sala 4 R$ 41,04; 2026-11-26 20:50 Sala 4 R$ 41,04; 2026-11-27 15:20 Sala 4 R$ 45,60; 2026-11-27 20:50 Sala 4 R$ 45,60; 2026-11-28 15:20 Sala 4 R$ 45,60; 2026-11-28 20:50 Sala 4 R$ 45,60; 2026-11-29 15:20 Sala 4 R$ 45,60; 2026-11-29 20:50 Sala 4 R$ 45,60; 2026-11-30 15:20 Sala 4 R$ 34,20; 2026-11-30 20:50 Sala 4 R$ 34,20; 2026-12-01 15:20 Sala 4 R$ 36,48; 2026-12-01 20:50 Sala 4 R$ 36,48; 2026-12-02 15:20 Sala 4 R$ ",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1210-32254"
@@ -13882,12 +14235,197 @@
      "data": "2026-11-25",
      "hora": "21:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87733139"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798321"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798307"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798353"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798325"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798372"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798282"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798319"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798349"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798336"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798376"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "13:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798320"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798287"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798290"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798302"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798293"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798361"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "13:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798297"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798374"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798343"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798299"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798379"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798283"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798318"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798347"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798326"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798344"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798384"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798385"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798303"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798322"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798339"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798333"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798327"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798306"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798380"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798311"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798368"
     }
    ],
    "cartaz": null,
-   "preco_texto": "R$ 34,20 (preço da plataforma)",
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
    "preco_min": 34.2,
-   "preco_max": 34.2,
+   "preco_max": 45.6,
    "gratis": false,
    "classificacao": "16 anos",
    "acessibilidade": "",
@@ -13898,7 +14436,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:40 Sala 6 R$ 34,20; 2026-11-25 15:30 Sala 4 R$ 34,20; 2026-11-25 18:10 Sala 6 R$ 34,20; 2026-11-25 19:00 Sala 4 R$ 34,20; 2026-11-25 21:30 Sala 6 R$ 34,20",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:40 Sala 6 R$ 34,20; 2026-11-25 15:30 Sala 4 R$ 34,20; 2026-11-25 18:10 Sala 6 R$ 34,20; 2026-11-25 19:00 Sala 4 R$ 34,20; 2026-11-25 21:30 Sala 6 R$ 34,20; 2026-11-26 14:30 Sala 3 R$ 41,04; 2026-11-26 17:00 Sala 5 R$ 41,04; 2026-11-26 18:00 Sala 3 R$ 41,04; 2026-11-26 20:30 Sala 5 R$ 41,04; 2026-11-26 21:30 Sala 3 R$ 41,04; 2026-11-27 14:30 Sala 3 R$ 45,60; 2026-11-27 17:00 Sala 5 R$ 45,60; 2026-11-27 18:00 Sala 3 R$ 45,60; 2026-11-27 20:30 Sala 5 R$ 45,60; 2026-11-27 21:30 Sala 3 R$ 45,60; 2026-",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1210-29919"
@@ -13968,6 +14506,118 @@
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1210-31958"
+  },
+  {
+   "titulo": "Os Farofeiros 3",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798294"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798375"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798304"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798378"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798359"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Direção de Roberto Santucci. Brasil, 2026, 102 min.",
+   "sinopse_en": "Directed by Roberto Santucci. Brazil, 2026, 102 min.",
+   "sinopse_es": "Dirección de Roberto Santucci. Brasil, 2026, 102 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
+   "link_espaco": "",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Os Farofeiros 3 · 2026-11-26 12:30 Sala 4 R$ 41,04; 2026-11-27 12:30 Sala 4 R$ 45,60; 2026-11-30 12:30 Sala 4 R$ 34,20; 2026-12-01 12:30 Sala 4 R$ 36,48; 2026-12-02 12:30 Sala 4 R$ 36,48",
+   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30202"
+  },
+  {
+   "titulo": "Se Eu Fosse Você 3",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798305"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798280"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798360"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798367"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798355"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "10 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Direção de Anita Barbosa. Brasil, 2026, 92 min.",
+   "sinopse_en": "Directed by Anita Barbosa. Brazil, 2026, 92 min.",
+   "sinopse_es": "Dirección de Anita Barbosa. Brasil, 2026, 92 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/se-eu-fosse-voce-3?city=rio-de-janeiro",
+   "link_espaco": "",
+   "trecho_fonte": "Ingresso.com · Cinemark Metropolitano Barra · Se Eu Fosse Você 3 · 2026-11-26 12:30 Sala 3 R$ 41,04; 2026-11-27 12:30 Sala 3 R$ 45,60; 2026-11-30 12:30 Sala 3 R$ 34,20; 2026-12-01 12:30 Sala 3 R$ 36,48; 2026-12-02 12:30 Sala 3 R$ 36,48",
+   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30640"
   },
   {
    "titulo": "Vingadores: Doutor Destino",
@@ -15856,42 +16506,6 @@
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1055-29919"
-  },
-  {
-   "titulo": "O Gatola Da Cartola",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Cinemark Village Mall",
-   "endereco": "Av. das Américas 3900",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728888"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 84,35 (preço da plataforma)",
-   "preco_min": 84.35,
-   "preco_max": 84.35,
-   "gratis": false,
-   "classificacao": "6 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: The Cat In The Hat. Direção de Alessandro Carloni, Erica Rivinoja. Estados Unidos, 2026, 91 min.",
-   "sinopse_en": "Original title: The Cat In The Hat. Directed by Alessandro Carloni, Erica Rivinoja. United States, 2026, 91 min.",
-   "sinopse_es": "Título original: The Cat In The Hat. Dirección de Alessandro Carloni, Erica Rivinoja. Estados Unidos, 2026, 91 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/o-gatola-da-cartola?city=rio-de-janeiro",
-   "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinemark Village Mall · O Gatola Da Cartola · 2026-11-25 14:20 Prime 1 R$ 84,35",
-   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
-   "automatica": true,
-   "id": "2026-11-19-cine-1055-30406"
   },
   {
    "titulo": "Os Farofeiros 3",
@@ -22944,11 +23558,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87708209"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87708160"
     },
@@ -23037,7 +23646,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinesystem Ilha do Governador · Os Farofeiros 3 · 2026-11-25 14:15 Sala 2 R$ 34,20; 2026-11-25 21:15 Sala 2 R$ 34,20; 2026-11-26 13:15 Sala 2 R$ 54,72; 2026-11-26 18:00 Sala 2 R$ 54,72; 2026-11-27 13:15 Sala 2 R$ 54,72; 2026-11-27 18:00 Sala 2 R$ 54,72; 2026-11-28 13:15 Sala 2 R$ 54,72; 2026-11-28 18:00 Sala 2 R$ 54,72; 2026-11-29 13:15 Sala 2 R$ 54,72; 2026-11-29 18:00 Sala 2 R$ 54,72; 2026-11-30 13:15 Sala 2 R$ 34,20; 2026-11-30 18:00 Sala 2 R$ 34,20; 2026-12-01 13:15 Sala 2 R$ 41,04; 2026-12-01 18:00 Sala 2 R$ 41,04; 2026-12-02 13:15 Sala 2 R$ 34,20; 2026-12-02 18:00 Sala 2 R",
+   "trecho_fonte": "Ingresso.com · Cinesystem Ilha do Governador · Os Farofeiros 3 · 2026-11-25 21:15 Sala 2 R$ 34,20; 2026-11-26 13:15 Sala 2 R$ 54,72; 2026-11-26 18:00 Sala 2 R$ 54,72; 2026-11-27 13:15 Sala 2 R$ 54,72; 2026-11-27 18:00 Sala 2 R$ 54,72; 2026-11-28 13:15 Sala 2 R$ 54,72; 2026-11-28 18:00 Sala 2 R$ 54,72; 2026-11-29 13:15 Sala 2 R$ 54,72; 2026-11-29 18:00 Sala 2 R$ 54,72; 2026-11-30 13:15 Sala 2 R$ 34,20; 2026-11-30 18:00 Sala 2 R$ 34,20; 2026-12-01 13:15 Sala 2 R$ 41,04; 2026-12-01 18:00 Sala 2 R$ 41,04; 2026-12-02 13:15 Sala 2 R$ 34,20; 2026-12-02 18:00 Sala 2 R$ 34,20",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-830-30202"
@@ -24745,11 +25354,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87711037"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "15:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87711026"
     },
@@ -24888,7 +25492,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Cinesystem Parque Shopping Sulacap · Os Farofeiros 3 · 2026-11-25 14:15 Sala 6 R$ 41,04; 2026-11-25 15:15 Sala 4 R$ 41,04; 2026-11-25 17:30 Sala 4 R$ 41,04; 2026-11-25 19:45 Sala 4 R$ 41,04; 2026-11-25 21:30 Sala 6 R$ 41,04; 2026-11-26 14:45 Sala 5 R$ 47,88; 2026-11-26 19:30 Sala 5 R$ 47,88; 2026-11-26 21:30 Sala 3 R$ 47,88; 2026-11-27 14:45 Sala 5 R$ 47,88; 2026-11-27 19:30 Sala 5 R$ 47,88; 2026-11-27 21:30 Sala 3 R$ 47,88; 2026-11-28 14:45 Sala 5 R$ 47,88; 2026-11-28 19:30 Sala 5 R$ 47,88; 2026-11-28 21:30 Sala 3 R$ 47,88; 2026-11-29 14:45 Sala 5 R$ 47,88; 2026-11-29 19:30 Sal",
+   "trecho_fonte": "Ingresso.com · Cinesystem Parque Shopping Sulacap · Os Farofeiros 3 · 2026-11-25 15:15 Sala 4 R$ 41,04; 2026-11-25 17:30 Sala 4 R$ 41,04; 2026-11-25 19:45 Sala 4 R$ 41,04; 2026-11-25 21:30 Sala 6 R$ 41,04; 2026-11-26 14:45 Sala 5 R$ 47,88; 2026-11-26 19:30 Sala 5 R$ 47,88; 2026-11-26 21:30 Sala 3 R$ 47,88; 2026-11-27 14:45 Sala 5 R$ 47,88; 2026-11-27 19:30 Sala 5 R$ 47,88; 2026-11-27 21:30 Sala 3 R$ 47,88; 2026-11-28 14:45 Sala 5 R$ 47,88; 2026-11-28 19:30 Sala 5 R$ 47,88; 2026-11-28 21:30 Sala 3 R$ 47,88; 2026-11-29 14:45 Sala 5 R$ 47,88; 2026-11-29 19:30 Sala 5 R$ 47,88; 2026-11-29 21:30 Sal",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1281-30202"
@@ -33817,11 +34421,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87724646"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "17:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87724702"
     },
@@ -33915,7 +34514,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Leblon (rua) · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:20 Sala 1 R$ 93,47; 2026-11-25 17:10 Sala 3 - Projeção Laser R$ 93,47; 2026-11-25 20:30 Sala 3 - Projeção Laser R$ 93,47; 2026-11-26 14:30 Sala 2 R$ 111,71; 2026-11-26 20:20 Sala 2 R$ 111,71; 2026-11-27 14:30 Sala 2 R$ 111,71; 2026-11-27 20:20 Sala 2 R$ 111,71; 2026-11-28 14:30 Sala 2 R$ 111,71; 2026-11-28 20:20 Sala 2 R$ 111,71; 2026-11-29 14:30 Sala 2 R$ 111,71; 2026-11-29 20:20 Sala 2 R$ 111,71; 2026-11-30 14:40 Sala 2 R$ 93,47; 2026-11-30 20:30 Sala 2 R$ 93,47; 2026-12-01 14:40 Sala 2 R$ 93,47; 2026",
+   "trecho_fonte": "Ingresso.com · Kinoplex Leblon (rua) · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 17:10 Sala 3 - Projeção Laser R$ 93,47; 2026-11-25 20:30 Sala 3 - Projeção Laser R$ 93,47; 2026-11-26 14:30 Sala 2 R$ 111,71; 2026-11-26 20:20 Sala 2 R$ 111,71; 2026-11-27 14:30 Sala 2 R$ 111,71; 2026-11-27 20:20 Sala 2 R$ 111,71; 2026-11-28 14:30 Sala 2 R$ 111,71; 2026-11-28 20:20 Sala 2 R$ 111,71; 2026-11-29 14:30 Sala 2 R$ 111,71; 2026-11-29 20:20 Sala 2 R$ 111,71; 2026-11-30 14:40 Sala 2 R$ 93,47; 2026-11-30 20:30 Sala 2 R$ 93,47; 2026-12-01 14:40 Sala 2 R$ 93,47; 2026-12-01 20:30 Sala 2 R$ 93,47; 2026",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1575-29919"
@@ -34805,11 +35404,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87403531"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "15:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87729091"
     },
@@ -34953,7 +35547,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Madureira · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 2 R$ 47,88; 2026-11-25 15:50 Sala 3 R$ 45,60; 2026-11-25 16:30 Sala 1 R$ 45,60; 2026-11-25 17:20 Sala 2 R$ 47,88; 2026-11-25 19:40 Sala 1 R$ 45,60; 2026-11-25 20:30 Sala 2 R$ 47,88; 2026-11-26 14:10 Sala 5 R$ 45,60; 2026-11-26 17:20 Sala 5 R$ 45,60; 2026-11-26 20:30 Sala 5 R$ 45,60; 2026-11-27 14:10 Sala 5 R$ 45,60; 2026-11-27 17:20 Sala 5 R$ 45,60; 2026-11-27 20:30 Sala 5 R$ 45,60; 2026-11-28 14:10 Sala 5 R$ 43,32; 2026-11-28 17:20 Sala 5 R$ 43,32; 2026-11-28 20:30 Sala 5 R$ 45,60; 2026-11-29 14:1",
+   "trecho_fonte": "Ingresso.com · Kinoplex Madureira · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 15:50 Sala 3 R$ 45,60; 2026-11-25 16:30 Sala 1 R$ 45,60; 2026-11-25 17:20 Sala 2 R$ 47,88; 2026-11-25 19:40 Sala 1 R$ 45,60; 2026-11-25 20:30 Sala 2 R$ 47,88; 2026-11-26 14:10 Sala 5 R$ 45,60; 2026-11-26 17:20 Sala 5 R$ 45,60; 2026-11-26 20:30 Sala 5 R$ 45,60; 2026-11-27 14:10 Sala 5 R$ 45,60; 2026-11-27 17:20 Sala 5 R$ 45,60; 2026-11-27 20:30 Sala 5 R$ 45,60; 2026-11-28 14:10 Sala 5 R$ 43,32; 2026-11-28 17:20 Sala 5 R$ 43,32; 2026-11-28 20:30 Sala 5 R$ 45,60; 2026-11-29 14:10 Sala 5 R$ 43,32; 2026-11-29 17:2",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1100-29919"
@@ -36459,11 +37053,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87405440"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87729370"
     },
@@ -36752,7 +37341,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Nova América · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 6 R$ 59,27; 2026-11-25 14:40 Sala 5 R$ 59,27; 2026-11-25 16:50 Sala 1 R$ 59,27; 2026-11-25 17:20 Sala 6 R$ 59,27; 2026-11-25 17:50 Sala 5 R$ 59,27; 2026-11-25 20:00 Sala 1 R$ 59,27; 2026-11-25 20:30 Sala 6 R$ 59,27; 2026-11-25 20:50 Sala 3 R$ 59,27; 2026-11-25 21:00 Sala 5 R$ 59,27; 2026-11-26 13:40 Sala 6 R$ 59,27; 2026-11-26 14:30 Sala 7 R$ 59,27; 2026-11-26 15:40 Sala 2 R$ 59,27; 2026-11-26 16:50 Sala 6 R$ 59,27; 2026-11-26 17:40 Sala 7 R$ 59,27; 2026-11-26 20:00 Sala 6 R$ 59,27; 2026-11-26 2",
+   "trecho_fonte": "Ingresso.com · Kinoplex Nova América · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:40 Sala 5 R$ 59,27; 2026-11-25 16:50 Sala 1 R$ 59,27; 2026-11-25 17:20 Sala 6 R$ 59,27; 2026-11-25 17:50 Sala 5 R$ 59,27; 2026-11-25 20:00 Sala 1 R$ 59,27; 2026-11-25 20:30 Sala 6 R$ 59,27; 2026-11-25 20:50 Sala 3 R$ 59,27; 2026-11-25 21:00 Sala 5 R$ 59,27; 2026-11-26 13:40 Sala 6 R$ 59,27; 2026-11-26 14:30 Sala 7 R$ 59,27; 2026-11-26 15:40 Sala 2 R$ 59,27; 2026-11-26 16:50 Sala 6 R$ 59,27; 2026-11-26 17:40 Sala 7 R$ 59,27; 2026-11-26 20:00 Sala 6 R$ 59,27; 2026-11-26 20:50 Sala 7 R$ 59,27; 2026-11-27 1",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-14-29919"
@@ -38281,11 +38870,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87729973"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:20",
      "compra": "https://checkout.ingresso.com/?sessionId=87729961"
     },
@@ -38504,7 +39088,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex RioSul · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:20 Sala 2 R$ 72,95; 2026-11-25 16:20 Sala 6 R$ 88,91; 2026-11-25 17:00 Sala 3 R$ 88,91; 2026-11-25 17:30 Sala 2 R$ 72,95; 2026-11-25 19:40 Sala 6 R$ 88,91; 2026-11-25 20:00 Sala 5 R$ 88,91; 2026-11-25 20:20 Sala 3 R$ 88,91; 2026-11-25 20:40 Sala 2 R$ 72,95; 2026-11-26 13:40 Sala 3 R$ 98,03; 2026-11-26 16:50 Sala 3 R$ 98,03; 2026-11-26 17:50 Sala 6 R$ 98,03; 2026-11-26 20:30 Sala 2 R$ 72,95; 2026-11-27 13:50 Sala 3 R$ 98,03; 2026-11-27 17:10 Sala 3 R$ 98,03; 2026-11-27 17:50 Sala 6 R$ 98,03; 2026-11-27 20:00 S",
+   "trecho_fonte": "Ingresso.com · Kinoplex RioSul · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 16:20 Sala 6 R$ 88,91; 2026-11-25 17:00 Sala 3 R$ 88,91; 2026-11-25 17:30 Sala 2 R$ 72,95; 2026-11-25 19:40 Sala 6 R$ 88,91; 2026-11-25 20:00 Sala 5 R$ 88,91; 2026-11-25 20:20 Sala 3 R$ 88,91; 2026-11-25 20:40 Sala 2 R$ 72,95; 2026-11-26 13:40 Sala 3 R$ 98,03; 2026-11-26 16:50 Sala 3 R$ 98,03; 2026-11-26 17:50 Sala 6 R$ 98,03; 2026-11-26 20:30 Sala 2 R$ 72,95; 2026-11-27 13:50 Sala 3 R$ 98,03; 2026-11-27 17:10 Sala 3 R$ 98,03; 2026-11-27 17:50 Sala 6 R$ 98,03; 2026-11-27 20:00 Sala 2 R$ 54,72; 2026-11-27 20:30 S",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-2-29919"
@@ -41467,11 +42051,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732531"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:20",
      "compra": "https://checkout.ingresso.com/?sessionId=87771866"
     },
@@ -41525,7 +42104,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/camisas-negras?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Shopping Leblon · Camisas Negras · 2026-11-25 14:20 Sala 4 R$ 109,43; 2026-11-25 21:20 Sala 1 R$ 109,43; 2026-11-26 14:40 Sala 4 R$ 109,43; 2026-11-27 14:40 Sala 4 R$ 95,75; 2026-11-28 14:40 Sala 4 R$ 95,75; 2026-11-29 14:40 Sala 4 R$ 95,75; 2026-11-30 14:40 Sala 4 R$ 109,43; 2026-12-01 14:40 Sala 4 R$ 109,43; 2026-12-02 14:40 Sala 4 R$ 109,43",
+   "trecho_fonte": "Ingresso.com · Kinoplex Shopping Leblon · Camisas Negras · 2026-11-25 21:20 Sala 1 R$ 109,43; 2026-11-26 14:40 Sala 4 R$ 109,43; 2026-11-27 14:40 Sala 4 R$ 95,75; 2026-11-28 14:40 Sala 4 R$ 95,75; 2026-11-29 14:40 Sala 4 R$ 95,75; 2026-11-30 14:40 Sala 4 R$ 109,43; 2026-12-01 14:40 Sala 4 R$ 109,43; 2026-12-02 14:40 Sala 4 R$ 109,43",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-423-34268"
@@ -42073,11 +42652,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732592"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87732448"
     },
@@ -42221,7 +42795,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Shopping Leblon · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 3 R$ 109,43; 2026-11-25 16:30 Sala 4 R$ 109,43; 2026-11-25 17:20 Sala 3 R$ 109,43; 2026-11-25 17:50 Sala 2 R$ 93,47; 2026-11-25 19:40 Sala 4 R$ 109,43; 2026-11-25 20:30 Sala 3 R$ 109,43; 2026-11-26 14:10 Sala 3 R$ 109,43; 2026-11-26 17:20 Sala 3 R$ 109,43; 2026-11-26 20:30 Sala 3 R$ 109,43; 2026-11-27 14:10 Sala 3 R$ 95,75; 2026-11-27 17:20 Sala 3 R$ 95,75; 2026-11-27 20:30 Sala 3 R$ 95,75; 2026-11-28 14:10 Sala 3 R$ 95,75; 2026-11-28 17:20 Sala 3 R$ 95,75; 2026-11-28 20:30 Sala 3 R$ 95,75; 2",
+   "trecho_fonte": "Ingresso.com · Kinoplex Shopping Leblon · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 16:30 Sala 4 R$ 109,43; 2026-11-25 17:20 Sala 3 R$ 109,43; 2026-11-25 17:50 Sala 2 R$ 93,47; 2026-11-25 19:40 Sala 4 R$ 109,43; 2026-11-25 20:30 Sala 3 R$ 109,43; 2026-11-26 14:10 Sala 3 R$ 109,43; 2026-11-26 17:20 Sala 3 R$ 109,43; 2026-11-26 20:30 Sala 3 R$ 109,43; 2026-11-27 14:10 Sala 3 R$ 95,75; 2026-11-27 17:20 Sala 3 R$ 95,75; 2026-11-27 20:30 Sala 3 R$ 95,75; 2026-11-28 14:10 Sala 3 R$ 95,75; 2026-11-28 17:20 Sala 3 R$ 95,75; 2026-11-28 20:30 Sala 3 R$ 95,75; 2026-11-29 14:10 Sala 3 R$ 95,75; 20",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-423-29919"
@@ -42975,21 +43549,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "15:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728616"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728568"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "21:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728655"
-    },
-    {
      "data": "2026-11-26",
      "hora": "13:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87794899"
@@ -43074,7 +43633,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex São Luiz · Eu Sou O Rocky · 2026-11-25 15:40 Sala 4 R$ 63,83; 2026-11-25 18:20 Sala 4 R$ 63,83; 2026-11-25 21:00 Sala 4 R$ 63,83; 2026-11-26 13:50 Sala 1 R$ 63,83; 2026-11-26 20:50 Sala 4 R$ 63,83; 2026-11-27 13:50 Sala 1 R$ 50,16; 2026-11-27 20:50 Sala 4 R$ 50,16; 2026-11-28 13:50 Sala 1 R$ 50,16; 2026-11-28 20:50 Sala 4 R$ 50,16; 2026-11-29 13:50 Sala 1 R$ 50,16; 2026-11-29 20:50 Sala 4 R$ 50,16; 2026-11-30 13:50 Sala 1 R$ 63,83; 2026-11-30 20:50 Sala 4 R$ 63,83; 2026-12-01 13:50 Sala 1 R$ 63,83; 2026-12-01 20:50 Sala 4 R$ 63,83; 2026-12-02 13:50 Sala 1 R$ 63,83; 2026",
+   "trecho_fonte": "Ingresso.com · Kinoplex São Luiz · Eu Sou O Rocky · 2026-11-26 13:50 Sala 1 R$ 63,83; 2026-11-26 20:50 Sala 4 R$ 63,83; 2026-11-27 13:50 Sala 1 R$ 50,16; 2026-11-27 20:50 Sala 4 R$ 50,16; 2026-11-28 13:50 Sala 1 R$ 50,16; 2026-11-28 20:50 Sala 4 R$ 50,16; 2026-11-29 13:50 Sala 1 R$ 50,16; 2026-11-29 20:50 Sala 4 R$ 50,16; 2026-11-30 13:50 Sala 1 R$ 63,83; 2026-11-30 20:50 Sala 4 R$ 63,83; 2026-12-01 13:50 Sala 1 R$ 63,83; 2026-12-01 20:50 Sala 4 R$ 63,83; 2026-12-02 13:50 Sala 1 R$ 63,83; 2026-12-02 20:50 Sala 4 R$ 63,83",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-18-32254"
@@ -43161,11 +43720,6 @@
    "bairro": "Catete",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87402806"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:50",
@@ -43306,7 +43860,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex São Luiz · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 2 R$ 63,83; 2026-11-25 16:50 Sala 3 R$ 63,83; 2026-11-25 17:20 Sala 2 R$ 63,83; 2026-11-25 20:00 Sala 3 R$ 63,83; 2026-11-25 20:30 Sala 2 R$ 63,83; 2026-11-26 14:10 Sala 2 R$ 63,83; 2026-11-26 17:20 Sala 2 R$ 63,83; 2026-11-26 20:30 Sala 2 R$ 63,83; 2026-11-27 14:10 Sala 2 R$ 50,16; 2026-11-27 17:20 Sala 2 R$ 50,16; 2026-11-27 20:30 Sala 2 R$ 50,16; 2026-11-28 14:10 Sala 2 R$ 50,16; 2026-11-28 17:20 Sala 2 R$ 50,16; 2026-11-28 20:30 Sala 2 R$ 50,16; 2026-11-29 14:10 Sala 2 R$ 50,16; 2026-11-29 17:20",
+   "trecho_fonte": "Ingresso.com · Kinoplex São Luiz · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 16:50 Sala 3 R$ 63,83; 2026-11-25 17:20 Sala 2 R$ 63,83; 2026-11-25 20:00 Sala 3 R$ 63,83; 2026-11-25 20:30 Sala 2 R$ 63,83; 2026-11-26 14:10 Sala 2 R$ 63,83; 2026-11-26 17:20 Sala 2 R$ 63,83; 2026-11-26 20:30 Sala 2 R$ 63,83; 2026-11-27 14:10 Sala 2 R$ 50,16; 2026-11-27 17:20 Sala 2 R$ 50,16; 2026-11-27 20:30 Sala 2 R$ 50,16; 2026-11-28 14:10 Sala 2 R$ 50,16; 2026-11-28 17:20 Sala 2 R$ 50,16; 2026-11-28 20:30 Sala 2 R$ 50,16; 2026-11-29 14:10 Sala 2 R$ 50,16; 2026-11-29 17:20 Sala 2 R$ 50,16; 2026-11-29 20:30",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-18-29919"
@@ -44505,11 +45059,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87403271"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87725338"
     },
@@ -44798,7 +45347,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Tijuca · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:20 Sala 06 R$ 63,83; 2026-11-25 16:40 Sala 02 R$ 63,83; 2026-11-25 17:00 Sala 01 R$ 63,83; 2026-11-25 17:30 Sala 06 R$ 63,83; 2026-11-25 19:50 Sala 02 R$ 63,83; 2026-11-25 20:10 Sala 01 R$ 63,83; 2026-11-25 20:40 Sala 06 R$ 63,83; 2026-11-26 13:05 Sala 05 R$ 63,83; 2026-11-26 13:40 Sala 02 R$ 63,83; 2026-11-26 14:20 Sala 06 R$ 63,83; 2026-11-26 16:50 Sala 02 R$ 63,83; 2026-11-26 17:30 Sala 06 R$ 63,83; 2026-11-26 20:00 Sala 02 R$ 63,83; 2026-11-26 20:40 Sala 06 R$ 63,83; 2026-11-27 13:05 Sala 05 R$ 59,27; 202",
+   "trecho_fonte": "Ingresso.com · Kinoplex Tijuca · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 16:40 Sala 02 R$ 63,83; 2026-11-25 17:00 Sala 01 R$ 63,83; 2026-11-25 17:30 Sala 06 R$ 63,83; 2026-11-25 19:50 Sala 02 R$ 63,83; 2026-11-25 20:10 Sala 01 R$ 63,83; 2026-11-25 20:40 Sala 06 R$ 63,83; 2026-11-26 13:05 Sala 05 R$ 63,83; 2026-11-26 13:40 Sala 02 R$ 63,83; 2026-11-26 14:20 Sala 06 R$ 63,83; 2026-11-26 16:50 Sala 02 R$ 63,83; 2026-11-26 17:30 Sala 06 R$ 63,83; 2026-11-26 20:00 Sala 02 R$ 63,83; 2026-11-26 20:40 Sala 06 R$ 63,83; 2026-11-27 13:05 Sala 05 R$ 59,27; 2026-11-27 13:40 Sala 02 R$ 59,27; 202",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-512-29919"
@@ -44850,11 +45399,6 @@
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87725124"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:25",
@@ -44955,7 +45499,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Tijuca · Os Farofeiros 3 · 2026-11-25 14:10 Sala 03 R$ 63,83; 2026-11-25 16:25 Sala 03 R$ 63,83; 2026-11-25 18:45 Sala 03 R$ 63,83; 2026-11-25 21:05 Sala 03 R$ 63,83; 2026-11-26 14:55 Sala 03 R$ 63,83; 2026-11-26 21:20 Sala 05 R$ 63,83; 2026-11-27 14:55 Sala 03 R$ 59,27; 2026-11-27 21:20 Sala 05 R$ 59,27; 2026-11-28 14:55 Sala 03 R$ 59,27; 2026-11-28 21:20 Sala 05 R$ 59,27; 2026-11-29 14:55 Sala 03 R$ 59,27; 2026-11-29 21:20 Sala 05 R$ 59,27; 2026-11-30 14:55 Sala 03 R$ 63,83; 2026-11-30 21:20 Sala 05 R$ 63,83; 2026-12-01 14:55 Sala 03 R$ 63,83; 2026-12-01 21:20 Sala 05",
+   "trecho_fonte": "Ingresso.com · Kinoplex Tijuca · Os Farofeiros 3 · 2026-11-25 16:25 Sala 03 R$ 63,83; 2026-11-25 18:45 Sala 03 R$ 63,83; 2026-11-25 21:05 Sala 03 R$ 63,83; 2026-11-26 14:55 Sala 03 R$ 63,83; 2026-11-26 21:20 Sala 05 R$ 63,83; 2026-11-27 14:55 Sala 03 R$ 59,27; 2026-11-27 21:20 Sala 05 R$ 59,27; 2026-11-28 14:55 Sala 03 R$ 59,27; 2026-11-28 21:20 Sala 05 R$ 59,27; 2026-11-29 14:55 Sala 03 R$ 59,27; 2026-11-29 21:20 Sala 05 R$ 59,27; 2026-11-30 14:55 Sala 03 R$ 63,83; 2026-11-30 21:20 Sala 05 R$ 63,83; 2026-12-01 14:55 Sala 03 R$ 63,83; 2026-12-01 21:20 Sala 05 R$ 63,83; 2026-12-02 14:55 Sala 03",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-512-30202"
@@ -46393,11 +46937,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728828"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87745618"
     }
@@ -46416,7 +46955,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/feito-pipa?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Via Parque · Feito Pipa · 2026-11-25 14:20 Sala 2 R$ 52,44; 2026-11-25 16:50 Sala 3 R$ 52,44",
+   "trecho_fonte": "Ingresso.com · Kinoplex Via Parque · Feito Pipa · 2026-11-25 16:50 Sala 3 R$ 52,44",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1273-32251"
@@ -46919,42 +47458,6 @@
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1273-34336"
-  },
-  {
-   "titulo": "Verity",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Kinoplex Via Parque",
-   "endereco": "Avenida Ayrton Senna 3000",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87745620"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 52,44 (preço da plataforma)",
-   "preco_min": 52.44,
-   "preco_max": 52.44,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Direção de Michael Showalter. Estados Unidos, 2026, 118 min.",
-   "sinopse_en": "Directed by Michael Showalter. United States, 2026, 118 min.",
-   "sinopse_es": "Dirección de Michael Showalter. Estados Unidos, 2026, 118 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/verity?city=rio-de-janeiro",
-   "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex Via Parque · Verity · 2026-11-25 14:20 Sala 3 R$ 52,44",
-   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
-   "automatica": true,
-   "id": "2026-11-19-cine-1273-32603"
   },
   {
    "titulo": "Verão Da Lata",
@@ -47552,42 +48055,6 @@
    "id": "2026-11-19-cine-855-31537"
   },
   {
-   "titulo": "Ebenezer E Os Fantasmas Do Natal",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Kinoplex West Shopping",
-   "endereco": "Estrada do Mendanha 550",
-   "bairro": "Campo Grande",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87725154"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 50,16 (preço da plataforma)",
-   "preco_min": 50.16,
-   "preco_max": 50.16,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: Ebenezer: A Christmas Carol. Direção de Ti West. Estados Unidos, 2026, 117 min.",
-   "sinopse_en": "Original title: Ebenezer: A Christmas Carol. Directed by Ti West. United States, 2026, 117 min.",
-   "sinopse_es": "Título original: Ebenezer: A Christmas Carol. Dirección de Ti West. Estados Unidos, 2026, 117 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=rio-de-janeiro",
-   "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex West Shopping · Ebenezer E Os Fantasmas Do Natal · 2026-11-25 14:20 Sala 1 R$ 50,16",
-   "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
-   "automatica": true,
-   "id": "2026-11-19-cine-855-31673"
-  },
-  {
    "titulo": "Enfeitiçadas: Bem-Vindos A Hexe",
    "areas": [
     "Cinema"
@@ -47968,11 +48435,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87403359"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87725383"
     },
@@ -48211,7 +48673,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · Kinoplex West Shopping · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:10 Sala 5 R$ 50,16; 2026-11-25 16:50 Sala 1 R$ 50,16; 2026-11-25 17:20 Sala 5 R$ 50,16; 2026-11-25 17:50 Sala 3 R$ 50,16; 2026-11-25 20:30 Sala 5 R$ 50,16; 2026-11-25 21:00 Sala 3 R$ 50,16; 2026-11-26 13:40 Sala 5 R$ 50,16; 2026-11-26 14:50 Sala 1 R$ 50,16; 2026-11-26 16:50 Sala 5 R$ 50,16; 2026-11-26 18:00 Sala 1 R$ 50,16; 2026-11-26 20:00 Sala 5 R$ 50,16; 2026-11-26 20:50 Sala 4 R$ 50,16; 2026-11-27 13:40 Sala 5 R$ 43,32; 2026-11-27 14:50 Sala 1 R$ 43,32; 2026-11-27 16:50 Sala 5 R$ 43,32; 2026-11-27 ",
+   "trecho_fonte": "Ingresso.com · Kinoplex West Shopping · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 16:50 Sala 1 R$ 50,16; 2026-11-25 17:20 Sala 5 R$ 50,16; 2026-11-25 17:50 Sala 3 R$ 50,16; 2026-11-25 20:30 Sala 5 R$ 50,16; 2026-11-25 21:00 Sala 3 R$ 50,16; 2026-11-26 13:40 Sala 5 R$ 50,16; 2026-11-26 14:50 Sala 1 R$ 50,16; 2026-11-26 16:50 Sala 5 R$ 50,16; 2026-11-26 18:00 Sala 1 R$ 50,16; 2026-11-26 20:00 Sala 5 R$ 50,16; 2026-11-26 20:50 Sala 4 R$ 50,16; 2026-11-27 13:40 Sala 5 R$ 43,32; 2026-11-27 14:50 Sala 1 R$ 43,32; 2026-11-27 16:50 Sala 5 R$ 43,32; 2026-11-27 18:00 Sala 1 R$ 43,32; 2026-11-27 ",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-855-29919"
@@ -49667,11 +50129,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87701259"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87701328"
     },
@@ -49865,7 +50322,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/eu-sou-o-rocky?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI Kinoplex Norte Shopping · Eu Sou O Rocky · 2026-11-25 14:15 Sala 10 R$ 38,76; 2026-11-25 16:10 Sala 8 R$ 38,76; 2026-11-25 16:25 Sala 3 R$ 38,76; 2026-11-25 16:50 Sala 10 R$ 38,76; 2026-11-25 19:00 Sala 3 R$ 38,76; 2026-11-25 19:25 Sala 10 R$ 38,76; 2026-11-25 21:25 Sala 8 R$ 38,76; 2026-11-25 21:40 Sala 3 R$ 38,76; 2026-11-25 22:00 Sala 10 R$ 38,76; 2026-11-26 14:10 Sala 10 R$ 47,88; 2026-11-26 16:50 Sala 10 R$ 47,88; 2026-11-26 19:25 Sala 10 R$ 47,88; 2026-11-26 22:05 Sala 10 R$ 47,88; 2026-11-27 14:10 Sala 10 R$ 47,88; 2026-11-27 16:50 Sala 10 R$ 47,88; 2026-11-27 19:25 S",
+   "trecho_fonte": "Ingresso.com · UCI Kinoplex Norte Shopping · Eu Sou O Rocky · 2026-11-25 16:10 Sala 8 R$ 38,76; 2026-11-25 16:25 Sala 3 R$ 38,76; 2026-11-25 16:50 Sala 10 R$ 38,76; 2026-11-25 19:00 Sala 3 R$ 38,76; 2026-11-25 19:25 Sala 10 R$ 38,76; 2026-11-25 21:25 Sala 8 R$ 38,76; 2026-11-25 21:40 Sala 3 R$ 38,76; 2026-11-25 22:00 Sala 10 R$ 38,76; 2026-11-26 14:10 Sala 10 R$ 47,88; 2026-11-26 16:50 Sala 10 R$ 47,88; 2026-11-26 19:25 Sala 10 R$ 47,88; 2026-11-26 22:05 Sala 10 R$ 47,88; 2026-11-27 14:10 Sala 10 R$ 47,88; 2026-11-27 16:50 Sala 10 R$ 47,88; 2026-11-27 19:25 Sala 10 R$ 47,88; 2026-11-27 22:05 S",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-433-32254"
@@ -50394,11 +50851,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87701177"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:45",
      "compra": "https://checkout.ingresso.com/?sessionId=87701137"
     },
@@ -50652,7 +51104,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI Kinoplex Norte Shopping · Os Farofeiros 3 · 2026-11-25 14:20 Sala 6 R$ 26,22; 2026-11-25 14:45 Sala 4 R$ 26,22; 2026-11-25 16:40 Sala 6 R$ 26,22; 2026-11-25 17:00 Sala 4 R$ 26,22; 2026-11-25 19:10 Sala 6 R$ 26,22; 2026-11-25 21:30 Sala 6 R$ 26,22; 2026-11-26 14:20 Sala 6 R$ 47,88; 2026-11-26 16:30 Sala 6 R$ 47,88; 2026-11-26 17:00 Sala 4 R$ 47,88; 2026-11-26 19:00 Sala 6 R$ 47,88; 2026-11-26 21:30 Sala 6 R$ 47,88; 2026-11-26 21:45 Sala 4 R$ 47,88; 2026-11-26 21:45 Sala 9 R$ 47,88; 2026-11-27 14:20 Sala 6 R$ 47,88; 2026-11-27 16:30 Sala 6 R$ 47,88; 2026-11-27 17:00 Sala 4 R$ ",
+   "trecho_fonte": "Ingresso.com · UCI Kinoplex Norte Shopping · Os Farofeiros 3 · 2026-11-25 14:45 Sala 4 R$ 26,22; 2026-11-25 16:40 Sala 6 R$ 26,22; 2026-11-25 17:00 Sala 4 R$ 26,22; 2026-11-25 19:10 Sala 6 R$ 26,22; 2026-11-25 21:30 Sala 6 R$ 26,22; 2026-11-26 14:20 Sala 6 R$ 47,88; 2026-11-26 16:30 Sala 6 R$ 47,88; 2026-11-26 17:00 Sala 4 R$ 47,88; 2026-11-26 19:00 Sala 6 R$ 47,88; 2026-11-26 21:30 Sala 6 R$ 47,88; 2026-11-26 21:45 Sala 4 R$ 47,88; 2026-11-26 21:45 Sala 9 R$ 47,88; 2026-11-27 14:20 Sala 6 R$ 47,88; 2026-11-27 16:30 Sala 6 R$ 47,88; 2026-11-27 17:00 Sala 4 R$ 47,88; 2026-11-27 19:00 Sala 6 R$ ",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-433-30202"
@@ -54229,11 +54681,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698590"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87698321"
     },
@@ -54407,7 +54854,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI New York City Center · Os Farofeiros 3 · 2026-11-25 14:15 Sala 14 R$ 30,78; 2026-11-25 14:30 Sala 2 R$ 30,78; 2026-11-25 19:00 Sala 2 R$ 30,78; 2026-11-25 19:40 Sala 14 R$ 30,78; 2026-11-25 21:00 Sala 15 R$ 30,78; 2026-11-26 14:45 Sala 10 R$ 57; 2026-11-26 17:00 Sala 10 R$ 57; 2026-11-26 19:15 Sala 10 R$ 57; 2026-11-26 21:30 Sala 10 R$ 57; 2026-11-26 21:30 Sala 18 R$ 57; 2026-11-27 14:45 Sala 10 R$ 57; 2026-11-27 17:00 Sala 10 R$ 57; 2026-11-27 19:15 Sala 10 R$ 57; 2026-11-27 21:30 Sala 10 R$ 57; 2026-11-28 14:45 Sala 10 R$ 57; 2026-11-28 17:00 Sala 10 R$ 57; 2026-11-28 19:1",
+   "trecho_fonte": "Ingresso.com · UCI New York City Center · Os Farofeiros 3 · 2026-11-25 14:30 Sala 2 R$ 30,78; 2026-11-25 19:00 Sala 2 R$ 30,78; 2026-11-25 19:40 Sala 14 R$ 30,78; 2026-11-25 21:00 Sala 15 R$ 30,78; 2026-11-26 14:45 Sala 10 R$ 57; 2026-11-26 17:00 Sala 10 R$ 57; 2026-11-26 19:15 Sala 10 R$ 57; 2026-11-26 21:30 Sala 10 R$ 57; 2026-11-26 21:30 Sala 18 R$ 57; 2026-11-27 14:45 Sala 10 R$ 57; 2026-11-27 17:00 Sala 10 R$ 57; 2026-11-27 19:15 Sala 10 R$ 57; 2026-11-27 21:30 Sala 10 R$ 57; 2026-11-28 14:45 Sala 10 R$ 57; 2026-11-28 17:00 Sala 10 R$ 57; 2026-11-28 19:15 Sala 10 R$ 57; 2026-11-28 21:30 S",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-25-30202"
@@ -54775,11 +55222,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698588"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:45",
      "compra": "https://checkout.ingresso.com/?sessionId=87741869"
     },
@@ -54808,7 +55250,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/um-tio-quase-perfeito-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI New York City Center · Um Tio Quase Perfeito 3 · 2026-11-25 14:10 Sala 15 R$ 43,32; 2026-11-25 16:45 Sala 2 R$ 43,32; 2026-11-28 13:00 Sala 5 R$ 57; 2026-11-29 13:30 Sala 3 R$ 57",
+   "trecho_fonte": "Ingresso.com · UCI New York City Center · Um Tio Quase Perfeito 3 · 2026-11-25 16:45 Sala 2 R$ 43,32; 2026-11-28 13:00 Sala 5 R$ 57; 2026-11-29 13:30 Sala 3 R$ 57",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-25-32104"
@@ -55924,11 +56366,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698935"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "18:45",
      "compra": "https://checkout.ingresso.com/?sessionId=87698828"
     },
@@ -55952,7 +56389,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/a-virada-ignicao-da-alma?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI Park Campo Grande · A Virada - Ignição Da Alma · 2026-11-25 14:20 Sala 3 R$ 34,20; 2026-11-25 18:45 Sala 3 R$ 34,20; 2026-11-25 21:15 Sala 3 R$ 34,20",
+   "trecho_fonte": "Ingresso.com · UCI Park Campo Grande · A Virada - Ignição Da Alma · 2026-11-25 18:45 Sala 3 R$ 34,20; 2026-11-25 21:15 Sala 3 R$ 34,20",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1062-32656"
@@ -56712,11 +57149,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:05",
-     "compra": "https://checkout.ingresso.com/?sessionId=87699465"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87410427"
     },
@@ -56915,7 +57347,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI Park Campo Grande · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:05 Sala 5 R$ 34,20; 2026-11-25 14:30 Sala 1 R$ 29,64; 2026-11-25 15:00 Sala 4 R$ 34,20; 2026-11-25 17:10 Sala 5 R$ 34,20; 2026-11-25 17:40 Sala 1 R$ 29,64; 2026-11-25 18:05 Sala 4 R$ 34,20; 2026-11-25 20:15 Sala 5 R$ 34,20; 2026-11-25 20:50 Sala 1 R$ 29,64; 2026-11-25 21:20 Sala 4 R$ 34,20; 2026-11-26 14:30 Sala 1 R$ 47,88; 2026-11-26 17:45 Sala 1 R$ 47,88; 2026-11-26 18:10 Sala 5 R$ 45,60; 2026-11-26 21:00 Sala 1 R$ 47,88; 2026-11-27 14:30 Sala 1 R$ 47,88; 2026-11-27 17:45 Sala 1 R$ 47,88; 2026-11-27 1",
+   "trecho_fonte": "Ingresso.com · UCI Park Campo Grande · Jogos Vorazes: Amanhecer Na Colheita · 2026-11-25 14:30 Sala 1 R$ 29,64; 2026-11-25 15:00 Sala 4 R$ 34,20; 2026-11-25 17:10 Sala 5 R$ 34,20; 2026-11-25 17:40 Sala 1 R$ 29,64; 2026-11-25 18:05 Sala 4 R$ 34,20; 2026-11-25 20:15 Sala 5 R$ 34,20; 2026-11-25 20:50 Sala 1 R$ 29,64; 2026-11-25 21:20 Sala 4 R$ 34,20; 2026-11-26 14:30 Sala 1 R$ 47,88; 2026-11-26 17:45 Sala 1 R$ 47,88; 2026-11-26 18:10 Sala 5 R$ 45,60; 2026-11-26 21:00 Sala 1 R$ 47,88; 2026-11-27 14:30 Sala 1 R$ 47,88; 2026-11-27 17:45 Sala 1 R$ 47,88; 2026-11-27 18:10 Sala 5 R$ 45,60; 2026-11-27 2",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1062-29919"
@@ -57003,11 +57435,6 @@
    "bairro": "Campo Grande",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698299"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:30",
@@ -57163,7 +57590,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI Park Campo Grande · Os Farofeiros 3 · 2026-11-25 14:20 Sala 2 R$ 26,22; 2026-11-25 16:30 Sala 2 R$ 26,22; 2026-11-25 18:45 Sala 2 R$ 26,22; 2026-11-25 21:00 Sala 2 R$ 26,22; 2026-11-26 14:00 Sala 2 R$ 45,60; 2026-11-26 16:10 Sala 2 R$ 45,60; 2026-11-26 18:20 Sala 2 R$ 45,60; 2026-11-26 20:30 Sala 2 R$ 45,60; 2026-11-27 14:00 Sala 2 R$ 45,60; 2026-11-27 16:10 Sala 2 R$ 45,60; 2026-11-27 18:20 Sala 2 R$ 45,60; 2026-11-27 20:30 Sala 2 R$ 45,60; 2026-11-28 13:20 Sala 2 R$ 45,60; 2026-11-28 15:30 Sala 2 R$ 45,60; 2026-11-28 17:40 Sala 2 R$ 45,60; 2026-11-28 19:50 Sala 2 R$ 45,60;",
+   "trecho_fonte": "Ingresso.com · UCI Park Campo Grande · Os Farofeiros 3 · 2026-11-25 16:30 Sala 2 R$ 26,22; 2026-11-25 18:45 Sala 2 R$ 26,22; 2026-11-25 21:00 Sala 2 R$ 26,22; 2026-11-26 14:00 Sala 2 R$ 45,60; 2026-11-26 16:10 Sala 2 R$ 45,60; 2026-11-26 18:20 Sala 2 R$ 45,60; 2026-11-26 20:30 Sala 2 R$ 45,60; 2026-11-27 14:00 Sala 2 R$ 45,60; 2026-11-27 16:10 Sala 2 R$ 45,60; 2026-11-27 18:20 Sala 2 R$ 45,60; 2026-11-27 20:30 Sala 2 R$ 45,60; 2026-11-28 13:20 Sala 2 R$ 45,60; 2026-11-28 15:30 Sala 2 R$ 45,60; 2026-11-28 17:40 Sala 2 R$ 45,60; 2026-11-28 19:50 Sala 2 R$ 45,60; 2026-11-29 13:20 Sala 2 R$ 45,60;",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1062-30202"
@@ -58941,11 +59368,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87697427"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87697414"
     },
@@ -59054,7 +59476,7 @@
    "fonte": "Ingresso.com (extração do Todos os Rios)",
    "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
    "link_espaco": "",
-   "trecho_fonte": "Ingresso.com · UCI Park Jacarepagua · Os Farofeiros 3 · 2026-11-25 14:20 Sala 2 R$ 51,30; 2026-11-25 16:30 Sala 2 R$ 51,30; 2026-11-25 19:00 Sala 2 R$ 51,30; 2026-11-26 14:20 Sala 2 R$ 63,83; 2026-11-26 19:15 Sala 2 R$ 63,83; 2026-11-26 21:45 Sala 4 R$ 63,83; 2026-11-27 14:20 Sala 2 R$ 63,83; 2026-11-27 19:15 Sala 2 R$ 63,83; 2026-11-27 21:45 Sala 4 R$ 63,83; 2026-11-28 14:20 Sala 2 R$ 63,83; 2026-11-28 19:15 Sala 2 R$ 63,83; 2026-11-29 14:20 Sala 2 R$ 63,83; 2026-11-29 19:15 Sala 2 R$ 63,83; 2026-11-30 14:20 Sala 2 R$ 45,60; 2026-12-01 14:20 Sala 2 R$ 52,44; 2026-12-01 19:15 Sala 2 R$ 52,44; ",
+   "trecho_fonte": "Ingresso.com · UCI Park Jacarepagua · Os Farofeiros 3 · 2026-11-25 16:30 Sala 2 R$ 51,30; 2026-11-25 19:00 Sala 2 R$ 51,30; 2026-11-26 14:20 Sala 2 R$ 63,83; 2026-11-26 19:15 Sala 2 R$ 63,83; 2026-11-26 21:45 Sala 4 R$ 63,83; 2026-11-27 14:20 Sala 2 R$ 63,83; 2026-11-27 19:15 Sala 2 R$ 63,83; 2026-11-27 21:45 Sala 4 R$ 63,83; 2026-11-28 14:20 Sala 2 R$ 63,83; 2026-11-28 19:15 Sala 2 R$ 63,83; 2026-11-29 14:20 Sala 2 R$ 63,83; 2026-11-29 19:15 Sala 2 R$ 63,83; 2026-11-30 14:20 Sala 2 R$ 45,60; 2026-12-01 14:20 Sala 2 R$ 52,44; 2026-12-01 19:15 Sala 2 R$ 52,44; 2026-12-01 21:45 Sala 4 R$ 52,44; ",
    "nota_redacao": "Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.",
    "automatica": true,
    "id": "2026-11-19-cine-1563-30202"

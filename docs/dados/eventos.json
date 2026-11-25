@@ -5,7 +5,7 @@
   "fim": "2027-01-24",
   "titulo": "Programação de hoje até 24 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-25T14:40-03:00",
+ "atualizado_em": "2026-11-25T15:00-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -19043,11 +19043,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87740066"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87739995"
     },
@@ -20007,11 +20002,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87738376"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87738395"
     },
@@ -20206,11 +20196,6 @@
    "bairro": "Taquara",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87738432"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:40",
@@ -21552,11 +21537,6 @@
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732619"
-    },
     {
      "data": "2026-11-25",
      "hora": "14:50",
@@ -23896,11 +23876,6 @@
    "bairro": "Vila Kosmos",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87721757"
-    },
     {
      "data": "2026-11-25",
      "hora": "14:50",
@@ -27002,11 +26977,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728388"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:35",
      "compra": "https://checkout.ingresso.com/?sessionId=87727977"
     },
@@ -29774,6 +29744,62 @@
    "status": "conferido"
   },
   {
+   "titulo": "100 Dias",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798342"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798313"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798328"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798298"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798335"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Direção de Carlos Saldanha. Brasil, 2026, 116 min.",
+   "sinopse_en": "Directed by Carlos Saldanha. Brazil, 2026, 116 min.",
+   "sinopse_es": "Dirección de Carlos Saldanha. Brasil, 2026, 116 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/100-dias?city=rio-de-janeiro",
+   "link_espaco": "",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30636",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
    "titulo": "BTS World Tour 'Arirang' In Jakarta: Live Viewing",
    "areas": [
     "Cinema"
@@ -29997,6 +30023,263 @@
    "status": "conferido"
   },
   {
+   "titulo": "Enfeitiçadas: Bem-Vindos A Hexe",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798312"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "14:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798348"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798352"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798340"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798350"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798286"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798373"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798370"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798309"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798295"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798362"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798366"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798291"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "18:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798364"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 54,72 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 54.72,
+   "gratis": false,
+   "classificacao": "10 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Título original: Hexed. Direção de Josie Trinidad, Jason Hand, Fawn Veerasunthorn. Estados Unidos, 2026, 103 min.",
+   "sinopse_en": "Original title: Hexed. Directed by Josie Trinidad, Jason Hand, Fawn Veerasunthorn. United States, 2026, 103 min.",
+   "sinopse_es": "Título original: Hexed. Dirección de Josie Trinidad, Jason Hand, Fawn Veerasunthorn. Estados Unidos, 2026, 103 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/enfeiticadas-bem-vindos-a-hexe?city=rio-de-janeiro",
+   "link_espaco": "",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-32983",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Entrando Numa Grande Fria",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798314"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798285"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798308"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798369"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798315"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798356"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798323"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "13:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798357"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798288"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798382"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798292"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798383"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "13:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798377"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798296"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798371"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798358"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798354"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798351"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798365"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798337"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798300"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798332"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "16:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798345"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "18:40",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798341"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "21:15",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798381"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Título original: Focker In-Law. Direção de John Hamburg. Estados Unidos, 2026, 105 min.",
+   "sinopse_en": "Original title: Focker In-Law. Directed by John Hamburg. United States, 2026, 105 min.",
+   "sinopse_es": "Título original: Focker In-Law. Dirección de John Hamburg. Estados Unidos, 2026, 105 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/entrando-numa-grande-fria?city=rio-de-janeiro",
+   "link_espaco": "",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30651",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
    "titulo": "Eu Sou O Rocky",
    "areas": [
     "Cinema"
@@ -30021,12 +30304,82 @@
      "data": "2026-11-25",
      "hora": "21:00",
      "compra": "https://checkout.ingresso.com/?sessionId=87744619"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798301"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798329"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798281"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798338"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798284"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798330"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798289"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798363"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798324"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798331"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798316"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798334"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "15:20",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798317"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "20:50",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798346"
     }
    ],
    "cartaz": null,
-   "preco_texto": "R$ 34,20 (preço da plataforma)",
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
    "preco_min": 34.2,
-   "preco_max": 34.2,
+   "preco_max": 45.6,
    "gratis": false,
    "classificacao": "12 anos",
    "acessibilidade": "",
@@ -30039,7 +30392,7 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1210-32254",
-   "faixa": "popular",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -30077,12 +30430,197 @@
      "data": "2026-11-25",
      "hora": "21:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87733139"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798321"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798307"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798353"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798325"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798372"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798282"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798319"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798349"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798336"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798376"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "13:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798320"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798287"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798290"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798302"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798293"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798361"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "13:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798297"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798374"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798343"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798299"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798379"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798283"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798318"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798347"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798326"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798344"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798384"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798385"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798303"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798322"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798339"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798333"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "14:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798327"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "17:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798306"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "18:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798380"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "20:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798311"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "21:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798368"
     }
    ],
    "cartaz": null,
-   "preco_texto": "R$ 34,20 (preço da plataforma)",
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
    "preco_min": 34.2,
-   "preco_max": 34.2,
+   "preco_max": 45.6,
    "gratis": false,
    "classificacao": "16 anos",
    "acessibilidade": "",
@@ -30095,7 +30633,7 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1210-29919",
-   "faixa": "popular",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -30161,6 +30699,118 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1210-31958",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Os Farofeiros 3",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798294"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798375"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798304"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798378"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798359"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Direção de Roberto Santucci. Brasil, 2026, 102 min.",
+   "sinopse_en": "Directed by Roberto Santucci. Brazil, 2026, 102 min.",
+   "sinopse_es": "Dirección de Roberto Santucci. Brasil, 2026, 102 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/os-farofeiros-3?city=rio-de-janeiro",
+   "link_espaco": "",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30202",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Se Eu Fosse Você 3",
+   "areas": [
+    "Cinema"
+   ],
+   "tipo": "evento",
+   "local": "Cinemark Metropolitano Barra",
+   "endereco": "Av. Abelardo Bueno 1300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798305"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798280"
+    },
+    {
+     "data": "2026-11-30",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798360"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798367"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "12:30",
+     "compra": "https://checkout.ingresso.com/?sessionId=87798355"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 34,20 a R$ 45,60 (preço da plataforma)",
+   "preco_min": 34.2,
+   "preco_max": 45.6,
+   "gratis": false,
+   "classificacao": "10 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Direção de Anita Barbosa. Brasil, 2026, 92 min.",
+   "sinopse_en": "Directed by Anita Barbosa. Brazil, 2026, 92 min.",
+   "sinopse_es": "Dirección de Anita Barbosa. Brasil, 2026, 92 min.",
+   "fonte": "Ingresso.com (extração do Todos os Rios)",
+   "link": "https://www.ingresso.com/filme/se-eu-fosse-voce-3?city=rio-de-janeiro",
+   "link_espaco": "",
+   "automatica": true,
+   "id": "2026-11-19-cine-1210-30640",
    "faixa": "ate80",
    "status": "conferido"
   },
@@ -32049,42 +32699,6 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1055-29919",
-   "faixa": "acima80",
-   "status": "conferido"
-  },
-  {
-   "titulo": "O Gatola Da Cartola",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Cinemark Village Mall",
-   "endereco": "Av. das Américas 3900",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728888"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 84,35 (preço da plataforma)",
-   "preco_min": 84.35,
-   "preco_max": 84.35,
-   "gratis": false,
-   "classificacao": "6 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: The Cat In The Hat. Direção de Alessandro Carloni, Erica Rivinoja. Estados Unidos, 2026, 91 min.",
-   "sinopse_en": "Original title: The Cat In The Hat. Directed by Alessandro Carloni, Erica Rivinoja. United States, 2026, 91 min.",
-   "sinopse_es": "Título original: The Cat In The Hat. Dirección de Alessandro Carloni, Erica Rivinoja. Estados Unidos, 2026, 91 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/o-gatola-da-cartola?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1055-30406",
    "faixa": "acima80",
    "status": "conferido"
   },
@@ -39139,11 +39753,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87708209"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87708160"
     },
@@ -40938,11 +41547,6 @@
    "bairro": "Campo Dos Afonsos",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87711037"
-    },
     {
      "data": "2026-11-25",
      "hora": "15:15",
@@ -50012,11 +50616,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87724646"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "17:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87724702"
     },
@@ -50998,11 +51597,6 @@
    "bairro": "Madureira",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87403531"
-    },
     {
      "data": "2026-11-25",
      "hora": "15:50",
@@ -52652,11 +53246,6 @@
    "bairro": "Del Castilho",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87405440"
-    },
     {
      "data": "2026-11-25",
      "hora": "14:40",
@@ -54474,11 +55063,6 @@
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87729973"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:20",
@@ -57662,11 +58246,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732531"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:20",
      "compra": "https://checkout.ingresso.com/?sessionId=87771866"
     },
@@ -58266,11 +58845,6 @@
    "bairro": "Leblon",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732592"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:30",
@@ -59170,21 +59744,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "15:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728616"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728568"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "21:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728655"
-    },
-    {
      "data": "2026-11-26",
      "hora": "13:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87794899"
@@ -59356,11 +59915,6 @@
    "bairro": "Catete",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87402806"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:50",
@@ -60700,11 +61254,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87403271"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87725338"
     },
@@ -61045,11 +61594,6 @@
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87725124"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:25",
@@ -62588,11 +63132,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728828"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87745618"
     }
@@ -63112,42 +63651,6 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1273-34336",
-   "faixa": "ate80",
-   "status": "conferido"
-  },
-  {
-   "titulo": "Verity",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Kinoplex Via Parque",
-   "endereco": "Avenida Ayrton Senna 3000",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87745620"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 52,44 (preço da plataforma)",
-   "preco_min": 52.44,
-   "preco_max": 52.44,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Direção de Michael Showalter. Estados Unidos, 2026, 118 min.",
-   "sinopse_en": "Directed by Michael Showalter. United States, 2026, 118 min.",
-   "sinopse_es": "Dirección de Michael Showalter. Estados Unidos, 2026, 118 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/verity?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1273-32603",
    "faixa": "ate80",
    "status": "conferido"
   },
@@ -63747,42 +64250,6 @@
    "status": "conferido"
   },
   {
-   "titulo": "Ebenezer E Os Fantasmas Do Natal",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Kinoplex West Shopping",
-   "endereco": "Estrada do Mendanha 550",
-   "bairro": "Campo Grande",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87725154"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 50,16 (preço da plataforma)",
-   "preco_min": 50.16,
-   "preco_max": 50.16,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: Ebenezer: A Christmas Carol. Direção de Ti West. Estados Unidos, 2026, 117 min.",
-   "sinopse_en": "Original title: Ebenezer: A Christmas Carol. Directed by Ti West. United States, 2026, 117 min.",
-   "sinopse_es": "Título original: Ebenezer: A Christmas Carol. Dirección de Ti West. Estados Unidos, 2026, 117 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-855-31673",
-   "faixa": "ate80",
-   "status": "conferido"
-  },
-  {
    "titulo": "Enfeitiçadas: Bem-Vindos A Hexe",
    "areas": [
     "Cinema"
@@ -64161,11 +64628,6 @@
    "bairro": "Campo Grande",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87403359"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:50",
@@ -65862,11 +66324,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87701259"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "16:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87701328"
     },
@@ -66587,11 +67044,6 @@
    "bairro": "Cachambi",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87701177"
-    },
     {
      "data": "2026-11-25",
      "hora": "14:45",
@@ -70424,11 +70876,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:15",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698590"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87698321"
     },
@@ -70968,11 +71415,6 @@
    "bairro": "Barra da Tijuca",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:10",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698588"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:45",
@@ -72119,11 +72561,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698935"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "18:45",
      "compra": "https://checkout.ingresso.com/?sessionId=87698828"
     },
@@ -72907,11 +73344,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "14:05",
-     "compra": "https://checkout.ingresso.com/?sessionId=87699465"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87410427"
     },
@@ -73198,11 +73630,6 @@
    "bairro": "Campo Grande",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698299"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:30",
@@ -75134,11 +75561,6 @@
    "bairro": "Jacarepaguá",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "14:20",
-     "compra": "https://checkout.ingresso.com/?sessionId=87697427"
-    },
     {
      "data": "2026-11-25",
      "hora": "16:30",
