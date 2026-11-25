@@ -1,0 +1,50 @@
+[
+ {
+  "plataforma": "sympla-evento",
+  "url": "https://www.sympla.com.br/evento/nha-eva/3614258",
+  "status": 200,
+  "tipo": "text/html; charset=utf-8",
+  "tamanho": 200507,
+  "arquivo": "sympla-evento-00.txt",
+  "jsonld_blocos": 0,
+  "jsonld_eventos": 0,
+  "next_data": true,
+  "nuxt": false,
+  "apis_citadas": [
+   "https://fonts.googleapis.com"
+  ],
+  "parece_bloqueio": false
+ },
+ {
+  "plataforma": "sympla-evento",
+  "url": "https://www.sympla.com.br/evento/dia-de-jogo/3653851",
+  "status": 200,
+  "tipo": "text/html; charset=utf-8",
+  "tamanho": 294903,
+  "arquivo": "sympla-evento-01.txt",
+  "jsonld_blocos": 0,
+  "jsonld_eventos": 0,
+  "next_data": true,
+  "nuxt": false,
+  "apis_citadas": [
+   "https://fonts.googleapis.com"
+  ],
+  "parece_bloqueio": false
+ },
+ {
+  "plataforma": "bileto",
+  "url": "https://bileto.sympla.com.br/event/128323",
+  "status": 200,
+  "tipo": "text/html",
+  "tamanho": 8471,
+  "arquivo": "bileto-00.txt",
+  "jsonld_blocos": 0,
+  "jsonld_eventos": 0,
+  "next_data": false,
+  "nuxt": false,
+  "apis_citadas": [
+   "https://fonts.googleapis.com"
+  ],
+  "parece_bloqueio": false
+ }
+]
