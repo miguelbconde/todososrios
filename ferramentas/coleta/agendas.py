@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Agendas dedicadas da ronda diária (desde 22/11/2026): Sesc RJ, Arte que Acontece, (desde 24/11/2026) Revista CONCERTO
-e (desde 25/11/2026) o calendário oficial da Riotur (FAGENDA_riotur.txt, radar de fatos; cache em riotur-cache.json).
+e (desde 25/11/2026) o calendário oficial da Riotur (FAGENDA_riotur.txt, radar de fatos; cache em riotur-cache.json),
+a Bilheteria Digital (FPLAT_bilheteriadigital.txt), o AllEvents (FAGENDA_allevents.txt, radar) e o feed do Visit Rio
+(FAGENDA_visitrio.txt, radar).
 
 Por decisão editorial, os eventos dessas duas fontes entram por padrão na rotina da redação.
 Este programa comum (sem IA) lê as agendas e grava, na pasta da ronda, dois arquivos que a
@@ -421,10 +423,175 @@ def riotur(pasta):
             "provavelmente_fora": len(fora), "falhas": falhas[:20]}
 
 
+# ------------------------------------------------------------------ Bilheteria Digital (desde 25/11/2026)
+BD = "https://www.bilheteriadigital.com"
+
+
+def _bd_texto(pagina):
+    c = re.sub(r"<script.*?</script>|<style.*?</style>|<svg.*?</svg>", " ", pagina, flags=re.S)
+    return html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ¦ ", c)))
+
+
+def bilheteria_digital(pasta):
+    """Ticketeira que vende grandes shows e festas do Rio (Clássicos do Brasil, Marina da Glória, quadras de samba).
+    A lista do estado traz título, dia, cidade e lugar; a página de cada evento traz o texto de apresentação, com
+    local, endereço, período e horário, e a tabela de preços. Plataforma: lida como as outras ticketeiras."""
+    falhas = []
+    st, lista = baixar(f"{BD}/RJ")
+    time.sleep(PAUSA)
+    if st != 200:
+        return {"falhas": [f"lista do RJ (código {st})"]}
+    itens = []
+    for li in re.findall(r'<li class="box-li-evento.*?</li>', lista, re.S):
+        campos = [x.strip() for x in html.unescape(re.sub(r"<[^>]+>", "|", li)).split("|") if x.strip()]
+        link = re.search(r'href="(/[^"]+)"', li)
+        if len(campos) >= 4 and link and campos[2].startswith("Rio de Janeiro"):
+            itens.append({"titulo": campos[0], "dia": campos[1], "lugar": campos[3], "url": BD + link.group(1)})
+    linhas = []
+    for it in itens:
+        st, pag = baixar(it["url"])
+        time.sleep(PAUSA)
+        if st != 200:
+            falhas.append(f"{it['url'].rsplit('/', 1)[-1]} (código {st})"); continue
+        t = _bd_texto(pag)
+        a, b = t.find("¦ Informações ¦"), t.find("¦ Ver mais ¦")
+        info = re.sub(r"(\s*¦\s*)+", " · ", t[a + 15:b] if a >= 0 and b > a else "").strip(" ·")
+        precos = re.findall(r"¦ ([^¦]{2,60}?) ¦ (?:¦ )*LOTE[^¦]*¦ .*?VALOR ¦ (?:¦ )*R\$ ¦ ([\d.,]+)", t)
+        tabela = "; ".join(f"{n.strip()}: R$ {v}" for n, v in precos[:8]) or "sem tabela de preços na página"
+        linhas.append(f"{it['dia']} | {it['titulo']} | {it['lugar']} | {it['url']} | preços: {tabela} | {info[:1500]}")
+    with open(os.path.join(pasta, "FPLAT_bilheteriadigital.txt"), "w", encoding="utf-8") as f:
+        f.write("FPLAT_bilheteriadigital | Bilheteria Digital — eventos na cidade do Rio (venda oficial; texto de apresentação "
+                "da produção: sinopse sempre própria) | " + BD + "/RJ\n")
+        f.write("\n".join(linhas) + "\n")
+    if not itens:
+        falhas.append("nenhum evento na cidade do Rio na lista (o formato do site pode ter mudado)")
+    return {"eventos_no_rj": len(re.findall(r'class="box-li-evento', lista)), "na_cidade_do_rio": len(itens),
+            "lidos": len(linhas), "falhas": falhas[:20]}
+
+
+# ------------------------------------------------------------------ AllEvents (desde 25/11/2026)
+AE = "https://allevents.in/rio-de-janeiro"
+AE_PAGINAS = 6
+AE_CATEGORIAS = ("live-music", "theatre", "exhibitions", "art", "performances", "festivals", "dance", "parties",
+                 "comedy", "kids", "workshops")
+# Fever (Candlelight, Ballet of Lights, Jazz Room) já é lida direto; congressos, negócios e esporte não entram
+AE_JA_LIDO = re.compile(r"candlelight|ballet of lights|jazz room|\bfever\b", re.I)
+AE_FORA = re.compile(r"conference|confer[eê]ncia|congresso|summit|f[oó]rum|semin[aá]rio|webinar|networking|happy hour|"
+                     r"recruitment|feira de (?:neg|emprego)|expo\b|investid|startup|empreendedor|\bia para|marketing|"
+                     r"run ?club|running|corrida|maratona|trail|trein[aã]o|retreat|bazar|outlet|curso\b|mentoria|imers[aã]o|\[oficina\]|"
+                     r"meetup|hackathon|builders|yoga|coffe+ office|sem filas|excurs[aã]o|confraterniza|grand opening|sales\b|"
+                     r"palpiteiros|gest[aã]o|consult[oó]rio|pacientes", re.I)
+
+
+def _ae_eventos(pagina):
+    achados = []
+    for bloco in re.findall(r'<script type="application/ld\+json">(.*?)</script>', pagina, re.S):
+        try:
+            d = json.loads(bloco)
+        except ValueError:
+            continue
+        for it in (d if isinstance(d, list) else [d]):
+            lista = [x.get("item", {}) for x in it.get("itemListElement", [])] if it.get("@type") == "ItemList" else [it]
+            achados += [e for e in lista if isinstance(e, dict) and e.get("@type") == "Event"]
+    return achados
+
+
+def allevents(pasta):
+    """Agregador internacional de eventos (radar de fatos). As páginas da cidade trazem os eventos em dados
+    estruturados (nome, datas, lugar, link, começo da descrição), sem horário. Muito comércio e muita coisa
+    corporativa: o robô separa o que a Fever já cobre e o que parece congresso ou negócio."""
+    falhas, eventos = [], {}
+    enderecos = [f"{AE}/all?page={n}" for n in range(1, AE_PAGINAS + 1)] + [f"{AE}/{c}" for c in AE_CATEGORIAS]
+    for url in enderecos:
+        st, pag = baixar(url)
+        time.sleep(PAUSA)
+        if st != 200:
+            falhas.append(f"{url.rsplit('/', 1)[-1]} (código {st})"); continue
+        for e in _ae_eventos(pag):
+            eventos.setdefault(e.get("url") or e.get("name"), e)
+    limite = HOJE + dt.timedelta(days=62)
+    escopo, fora, ja_lido, fora_da_cidade = [], [], 0, 0
+    for e in eventos.values():
+        ini, fim = (e.get("startDate") or "")[:10], (e.get("endDate") or e.get("startDate") or "")[:10]
+        try:
+            d0, d1 = dt.date.fromisoformat(ini), dt.date.fromisoformat(fim)
+        except ValueError:
+            continue
+        if d1 < HOJE or d0 > limite:
+            continue
+        lugar = e.get("location") if isinstance(e.get("location"), dict) else {}
+        end = lugar.get("address") if isinstance(lugar.get("address"), dict) else {}
+        local_txt = " ".join(str(end.get(k, "")) for k in ("streetAddress", "addressLocality"))
+        if FORA_DO_RIO.search(local_txt) or re.search(r"s[aã]o jo[aã]o de meriti|duque de caxias|nova igua[cç]u|"
+                                                        r"s[aã]o gon[cç]alo|maric[aá]|cabo frio", local_txt, re.I):
+            fora_da_cidade += 1; continue
+        nome = limpo(e.get("name"))
+        if AE_JA_LIDO.search(nome):
+            ja_lido += 1; continue
+        linha = (f"{ini}{' a ' + fim if fim != ini else ''} | {nome} | {limpo(lugar.get('name'))} — "
+                 f"{limpo(end.get('streetAddress'))} | {e.get('url', '')} | {limpo(e.get('description'), 400)}")
+        (fora if AE_FORA.search(nome) else escopo).append((ini, linha))
+    with open(os.path.join(pasta, "FAGENDA_allevents.txt"), "w", encoding="utf-8") as f:
+        f.write("FAGENDA_allevents | AllEvents — agregador de eventos no Rio (radar de fatos: sem horário; confirme tudo na "
+                "fonte do espaço, da produção ou da venda oficial; texto próprio) | " + AE + "\n")
+        f.write("## eventos, por data\n" + "\n".join(l for _, l in sorted(escopo)) + "\n")
+        f.write("## provavelmente fora dos critérios (congresso, negócios, esporte, cursos): leia só os títulos\n")
+        f.write("\n".join(l for _, l in sorted(fora)) + "\n")
+    if not eventos:
+        falhas.append("nenhum evento lido (o formato do site pode ter mudado)")
+    return {"eventos_lidos": len(eventos), "na_janela": len(escopo), "provavelmente_fora": len(fora),
+            "ja_lidos_pela_fever": ja_lido, "fora_da_cidade": fora_da_cidade, "falhas": falhas[:20]}
+
+
+# ------------------------------------------------------------------ Visit Rio (desde 25/11/2026)
+VISITRIO = "https://visitrio.com.br"
+VISITRIO_PAGINAS = 4       # 10 matérias por página do feed: cobre mais ou menos o último mês e meio
+VISITRIO_FORA = re.compile(r"padaria|restaurante|bares?\b|gastron|hot[eé]is|hotel|breakfast|takeaway|janelinhas|"
+                           r"botecar|praias?\b|trilha|passeio de barco|shopping|uphill|corrida|maratona|onde (?:ficar|comer)", re.I)
+
+
+def visitrio(pasta):
+    """Portal de turismo do Rio (radar de fatos). As páginas do site barram robôs, mas o feed de notícias é aberto e
+    traz o texto inteiro de cada matéria (Réveillon, Árvore da Lagoa, turnês que passam pela cidade)."""
+    falhas, itens = [], {}
+    for n in range(1, VISITRIO_PAGINAS + 1):
+        st, xml = baixar(f"{VISITRIO}/feed/" + (f"?paged={n}" if n > 1 else ""))
+        time.sleep(PAUSA)
+        if st != 200:
+            if n == 1:
+                falhas.append(f"feed (código {st})")
+            break
+        for it in re.findall(r"<item>(.*?)</item>", xml, re.S):
+            link = re.search(r"<link>([^<]+)</link>", it)
+            titulo = re.search(r"<title>(.*?)</title>", it, re.S)
+            data = re.search(r"<pubDate>([^<]+)</pubDate>", it)
+            corpo = re.search(r"<content:encoded><!\[CDATA\[(.*?)\]\]>", it, re.S)
+            if link and titulo:
+                itens[link.group(1)] = (limpo(titulo.group(1)), data.group(1)[5:16] if data else "",
+                                         limpo(corpo.group(1) if corpo else "", 2500))
+    escopo, fora = [], []
+    for url, (titulo, data, texto) in itens.items():
+        datas = _datas_riotur(texto, HOJE - dt.timedelta(days=60))
+        futuras = [d for d in datas if HOJE <= d <= HOJE + dt.timedelta(days=62)]
+        linha = (f"publicada em {data} | {titulo} | {url} | datas citadas: "
+                 f"{', '.join(d.isoformat() for d in futuras) or 'nenhuma à frente'} | {texto}")
+        (escopo if futuras and not VISITRIO_FORA.search(titulo) else fora).append(linha)
+    with open(os.path.join(pasta, "FAGENDA_visitrio.txt"), "w", encoding="utf-8") as f:
+        f.write("FAGENDA_visitrio | Visit Rio — matérias do portal de turismo (radar de fatos: confirme na fonte oficial; "
+                "texto próprio) | " + VISITRIO + "\n")
+        f.write("## matérias com datas nos próximos dois meses\n" + "\n".join(escopo) + "\n")
+        f.write("## guias de turismo, gastronomia e matérias sem data à frente: leia só os títulos\n")
+        f.write("\n".join(l.split(" | datas citadas")[0] for l in fora) + "\n")
+    if not itens and not falhas:
+        falhas.append("feed sem matérias (o formato do site pode ter mudado)")
+    return {"materias_lidas": len(itens), "com_datas_a_frente": len(escopo), "falhas": falhas[:20]}
+
+
 def main(pasta):
     os.makedirs(pasta, exist_ok=True)
     resumo = {"feito_em": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")}
-    for nome, func in (("sesc", sesc), ("arte_que_acontece", arte_que_acontece), ("concerto", concerto), ("riotur", riotur)):
+    for nome, func in (("sesc", sesc), ("arte_que_acontece", arte_que_acontece), ("concerto", concerto), ("riotur", riotur),
+                       ("bilheteria_digital", bilheteria_digital), ("allevents", allevents), ("visitrio", visitrio)):
         try:
             resumo[nome] = func(pasta)
         except Exception as erro:  # uma agenda nunca derruba a ronda
