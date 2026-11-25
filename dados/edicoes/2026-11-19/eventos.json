@@ -2541,6 +2541,39 @@
      "hora": "20:00"
     }
    ],
+   "preco_texto": "de R$ 60 a R$ 260",
+   "preco_min": 60.0,
+   "preco_max": 260.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Tributo ao Rei da Jovem Guarda",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo musical que recria a Jovem Guarda dos anos 60 e o Teatro Record, com cenário, luz e até uma réplica da guitarra verde usada pelo Rei.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/rei-da-jovem-guarda-16778",
+   "trecho_fonte": "2026-11-25 20:00 até 2026-11-25 20:00 | Rei da Jovem Guarda | Teatro Claro MAIS RJ | Show | de R$ 60,00 a R$ 260,00 (o menor pode ser meia) | classificação: Livre || O espetáculo musical TRIBUTO AO REI DA JOVEM GUARDA, produzido por Cesar Kiles e Thiago Gentil, leva o público a uma viagem emocionante no tempo, para reviver a magia da década de 60! || Faz parte do show a emblemática guitarra verde PHELPA APACHE, exatamente igual a que o Rei usava nos anos 60.",
+   "id": "f-32b1e8a75b",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "20:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -2731,6 +2764,39 @@
    "trecho_fonte": "2026-11-25 20:30 até 2026-11-25 20:30 | Anna Ratto | Manouche, R. Jardim Botânico,983  | organizador: MIRANDA RESTAURANTE E EVENTOS",
    "id": "f-16fc963054",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-25",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "de R$ 60 a R$ 180",
+   "preco_min": 60.0,
+   "preco_max": 180.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.",
+   "aviso": "",
+   "titulo": "Starlight Concert – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Um quarteto formado por músicos de orquestras paulistas apresenta concertos de Natal num espetáculo de luzes e sons, no Teatro Bangu Shopping.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/starlight-concerto-de-natal-16750",
+   "trecho_fonte": "2026-11-25 21:00 até 2026-11-25 21:00 | Starlight Concert - Concertos de Natal | Teatro Bangu Shopping | Espetáculo | de R$ 60,00 a R$ 180,00 (o menor pode ser meia) | classificação: Livre || STARLIGHT CONCERT - CONCERTOS DE NATAL || Com um quarteto de altíssima qualidade, formado por músicos das mais renomadas orquestras do estado de São Paulo",
+   "id": "f-29952d850d",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -4311,6 +4377,39 @@
      "hora": "20:00"
     }
    ],
+   "preco_texto": "de R$ 90 a R$ 280",
+   "preco_min": 90.0,
+   "preco_max": 280.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com a banda. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Queen Legend",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Tributo ao Queen em que Elvis Balbo interpreta Freddie Mercury e os sucessos da banda.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/queen-legend-16933",
+   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Queen Legend | Teatro Claro MAIS RJ | Show | de R$ 90,00 a R$ 280,00 (o menor pode ser meia) | classificação: Livre || QUEEN LEGEND — O LEGADO DE FREDDIE MERCURY || À frente da Queen Legend , Elvis Balbo é o grande destaque do espetáculo",
+   "id": "f-d07da5e4e1",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -4415,6 +4514,39 @@
    "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258",
    "id": "f-e7b56859d2",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "de R$ 70 a R$ 220",
+   "preco_min": 70.0,
+   "preco_max": 220.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem chama o show de 'Qual o seu Talento?', mas o texto da página fala de 'Vida de Pai'; usei o nome do texto.",
+   "aviso": "",
+   "titulo": "Serginho Lacerda – Vida de Pai",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Show de stand-up do comediante Serginho Lacerda, o Pai do Bento, com histórias sobre paternidade e classificação livre.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/serginho-lacerda-vida-de-pai-16275",
+   "trecho_fonte": "2026-11-26 21:00 até 2026-11-26 21:00 | Serginho Lacerda - Qual o seu Talento? | Teatro Bangu Shopping | Comédia | de R$ 70,00 a R$ 220,00 (o menor pode ser meia) | classificação: Livre || Serginho Lacerda, mais conhecido como o Pai do Bento, é comediante desde 2010 e viaja por todo o país com seu show solo de comédia \"Vida de Pai\" || primeiro show de stand-up comedy com classificação livre do Brasil",
+   "id": "f-0c552ea652",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -5147,6 +5279,72 @@
     {
      "data": "2026-11-27",
      "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 45 a R$ 100",
+   "preco_min": 45.0,
+   "preco_max": 100.0,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.",
+   "aviso": "",
+   "titulo": "Daniel Lopes e Kwesny – KD o Show?!",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Os comediantes cariocas Daniel Lopes e Kwesny, que representam o subúrbio do Rio e a Baixada Fluminense, contam no stand-up as histórias de quem vive de comédia desde 2012.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/daniel-e-kwesny-kd-o-show-16740",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Daniel Lopes e Kwesny - KD o Show ?! | Teatro Bangu Shopping | Comédia | de R$ 45,00 a R$ 100,00 (o menor pode ser meia) | classificação: 18 Anos || Kwesny e Daniel Lopes - São artistas/comediantes cariocas. Representando o subúrbio do Rio de Janeiro e a Baixada Fluminense. Fazem comédia desde 2012",
+   "id": "f-df1cb21491",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 25 a R$ 140",
+   "preco_min": 25.0,
+   "preco_max": 140.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Milton Canta Lulu",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Milton Guedes volta ao Rio com o show em homenagem a Lulu Santos, que estreou de casa cheia no mesmo teatro.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/milton-canta-lulu-16959",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Milton Canta Lulu | Teatro Claro MAIS RJ | Espetáculo | de R$ 25,00 a R$ 140,00 (o menor pode ser meia) | classificação: Livre || Milton Guedes traz de volta ao Rio o espetáculo “Milton Canta Lulu” no dia 27 de novembro Após estreia com ingressos esgotados, show em homenagem a Lulu Santos volta ao Teatro Claro MAIS RJ",
+   "id": "f-f0a80e8eb5",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
     },
     {
      "data": "2026-11-28",
@@ -5326,6 +5524,39 @@
    "trecho_fonte": "2026-11-28 14:00 até 2026-11-28 21:00 | Feijuca com Samba apresenta: Samba do Pedro | Largo do Boticário, Beco do Boticário Cosme Velho | organizador: Jo&Joe RIO | https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-pedro/3630489",
    "id": "f-7c728d45f2",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "de R$ 50 a R$ 100",
+   "preco_min": 50.0,
+   "preco_max": 100.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.",
+   "aviso": "",
+   "titulo": "Brincando com Bento e Totó",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Os personagens do YouTube Bento e Totó levam ao palco um show com música, mistério e interação com a plateia, com sucessos como \"Funk do Patinho\".",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/bento-e-toto-16786",
+   "trecho_fonte": "2026-11-28 15:00 até 2026-11-28 15:00 | Brincando com Bento e Totó | Teatro Bangu Shopping | Família / Infantil | de R$ 50,00 a R$ 100,00 (o menor pode ser meia) | classificação: Livre || Bento, Totó e sua turma, se apresentam no teatro com o espetáculo “Brincando com o Bento” || Sucessos como Funk do Patinho e Patinho Colorido, são garantidos!",
+   "id": "f-37598ce821",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -6207,6 +6438,39 @@
    "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | GILSONS | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/127258",
    "id": "f-8d7f1ac2c1",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 85 a R$ 270",
+   "preco_min": 85.0,
+   "preco_max": 270.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com a banda. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Echoes: O Melhor do Pink Floyd",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "A banda Echoes Pink Floyd São Paulo comemora 20 anos de tributo ao Pink Floyd com um show dos clássicos do grupo.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/echoes-o-melhor-do-pink-floyd-16960",
+   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | Echoes: O Melhor Do Pink Floyd | Teatro Claro MAIS RJ | Show | de R$ 85,00 a R$ 270,00 (o menor pode ser meia) | classificação: Livre || ECHOES: O MELHOR DO PINK FLOYD || Ao longo de duas décadas, a Echoes Pink Floyd São Paulo construiu uma trajetória",
+   "id": "f-91aa1fe30f",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -8666,6 +8930,39 @@
     {
      "data": "2026-12-04",
      "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 50 a R$ 120",
+   "preco_min": 50.0,
+   "preco_max": 120.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.",
+   "aviso": "",
+   "titulo": "Melodrama da Meia-noite com Rita Von Hunty",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "A Cia. Melodramática improvisa tramas inéditas inspiradas no melodrama francês do século XIX, com vilões e mocinhos, na última apresentação do ano.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/melodrama-17128",
+   "trecho_fonte": "2026-12-04 20:00 até 2026-12-04 20:00 | Melodrama da Meia-noite com Rita Von Hunty | Teatro Bangu Shopping | Espetáculo | de R$ 50,00 a R$ 120,00 (o menor pode ser meia) | classificação: Livre || Última apresentação de 2026 da Cia. Melodramática com “Melodrama da meia-noite” no Teatro Bangu Shopping dia 4 de Dezembro. Um espetáculo de improvisação inspirado no melodrama francês do século XIX.",
+   "id": "f-65bc528ded",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
     },
     {
      "data": "2026-12-05",
@@ -8836,6 +9133,39 @@
    "trecho_fonte": "2026-12-04 20:30 até 2026-12-04 20:30 | MARINA AQUINO - UM CORAÇÃO QUE CANTA | Teatro Cesgranrio, Rua Santa Alexandrina, 1011  | organizador: FUNDACAO CESGRANRIO | https://bileto.sympla.com.br/event/127168",
    "id": "f-af1638ec9a",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "de R$ 90 a R$ 8.000",
+   "preco_min": 90.0,
+   "preco_max": 8000.0,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 22h; o primeiro show está previsto para meia-noite. Preço máximo é de camarote.",
+   "aviso": "",
+   "titulo": "Matuê e Brandão",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Hall",
+   "endereco": "Av. Ayrton Senna, 5.850",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Os rappers Matuê e Brandão se apresentam no Espaço Hall, na Barra, numa noite dedicada ao hip-hop.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/matue-e-brandao-16799",
+   "trecho_fonte": "2026-12-04 22:00 até 2026-12-04 22:00 | Matuê e Brandão | Espaço Hall | Show | de R$ 90,00 a R$ 8.000,00 (o menor pode ser meia) | classificação: 18 Anos || Abertura da casa: 22h00 Primeiro show previsto: 00h00 || Quem também sobe ao palco é o rapper Brandão, a partir das 22h.",
+   "id": "f-748f99664b",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -9110,6 +9440,76 @@
     {
      "data": "2026-12-05",
      "hora": "21:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "de R$ 25 a R$ 280",
+   "preco_min": 25.0,
+   "preco_max": 280.0,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Dias presumidos (quinta a domingo): a fonte só dá a primeira sessão (5/12, 21h) e a última (20/12, 19h); usei 21h de quinta a sábado e 19h aos domingos. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "dias",
+   "titulo": "Djavan – O Musical: Vidas pra contar",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Musical sobre a trajetória de Djavan, interpretado por Raphael Elias (que alterna o papel com Eduardo Louzada), que volta ao Rio para sessões em dezembro. O cantor não está no elenco.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/djavan-o-musical-vidas-pra-contar-16896",
+   "trecho_fonte": "2026-12-05 21:00 até 2026-12-20 19:00 | Djavan - O Musical: Vidas pra contar | Teatro Claro MAIS RJ | Show | de R$ 25,00 a R$ 280,00 (o menor pode ser meia) | classificação: 12 Anos | TEMPORADA: a listagem só dá a primeira e a última apresentação || TEMPORADA: a listagem só dá a primeira e a última apresentação || O cantor Djavan não integra o elenco deste espetáculo. O personagem é interpretado por Raphael Elias",
+   "id": "f-50b9a79c90",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
     }
    ],
    "preco_texto": "",
@@ -9136,6 +9536,39 @@
    "trecho_fonte": "2026-12-05 21:00 até 2026-12-05 21:00 | Matheus Ceará: Desculpa Eu ter  Vindo | Arena Carioca Abelardo Barbosa, R. Sd. Elizeu Hipólito, s/n | organizador: Município de Rio de Janeiro - Arena Cultural Abelardo Barbosa | https://bileto.sympla.com.br/event/128194",
    "id": "f-5cd31fccb9",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "de R$ 60 a R$ 7.000",
+   "preco_min": 60.0,
+   "preco_max": 7000.0,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 21h; o show está previsto para 0h30. Preço máximo é de camarote.",
+   "aviso": "",
+   "titulo": "Thiaguinho – turnê Bem Black",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Hall",
+   "endereco": "Av. Ayrton Senna, 5.850",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Thiaguinho volta ao Espaço Hall com a turnê \"Bem Black\", do novo álbum autoral, em apresentação única.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/thiaguinho-16803",
+   "trecho_fonte": "2026-12-05 21:00 até 2026-12-05 21:00 | Thiaguinho | Espaço Hall | Show | de R$ 60,00 a R$ 7.000,00 (o menor pode ser meia) | classificação: 18 Anos || Abertura da casa: 21h00 Show previsto: 00:30h || Sábado, dia 05 de dezembro, quem retorna ao Espaço Hall é o cantor Thiaguinho, com sua nova turnê “Bem Black”, a partir das 21h, em única apresentação.",
+   "id": "f-ee955a85cd",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -10995,6 +11428,39 @@
      "hora": "20:00"
     }
    ],
+   "preco_texto": "de R$ 50 a R$ 120",
+   "preco_min": 50.0,
+   "preco_max": 120.0,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.",
+   "aviso": "",
+   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Rodrigo Sant'Anna reúne personagens conhecidas, como Graça e Carol Paixão, e criações novas num espetáculo de humor.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/rodrigo-santana-mulheres-em-turbulencia-16902",
+   "trecho_fonte": "2026-12-12 20:00 até 2026-12-12 20:00 | Rodrigo Sant'Anna - Mulheres em Turbulência | Teatro Bangu Shopping | Comédia | de R$ 50,00 a R$ 120,00 (o menor pode ser meia) | classificação: 12 Anos || Em \" Mulheres em Turbulência \", Rodrigo Sant'Anna reúne algumas de suas personagens mais amadas pelo público, como Graça e Carol Paixão, ao lado de novas criações inéditas",
+   "id": "f-f451076255",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
    "preco_texto": "a partir de R$ 56,40",
    "preco_min": 56.4,
    "preco_max": 56.4,
@@ -11118,6 +11584,40 @@
    "trecho_fonte": "2026-12-13 11:00 até 2026-12-13 11:00 | El Corazón y otros frutos amargos | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130374",
    "id": "f-2e833de58e",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "de R$ 45 a R$ 100",
+   "preco_min": 45.0,
+   "preco_max": 100.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.",
+   "aviso": "",
+   "titulo": "Bita em Festa dos Bichos",
+   "areas": [
+    "Infantil",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "O Mundo Bita apresenta um show novo dedicado aos animais, com canções como \"Fazendinha\", \"Fundo do Mar\" e \"Viajar pelo Safári\".",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/bita-em-festa-dos-bichos-16991",
+   "trecho_fonte": "2026-12-13 11:00 até 2026-12-13 11:00 | Bita em Festa dos Bichos | Teatro Bangu Shopping | Espetáculo | de R$ 45,00 a R$ 100,00 (o menor pode ser meia) | classificação: Livre || MUNDO BITA APRESENTA NOVO SHOW COM FOCO NOS ANIMAIS O que as músicas “Fazendinha”, “Fundo do Mar” e “Viajar pelo Safári” têm em comum?",
+   "id": "f-8181911451",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -11414,6 +11914,39 @@
    "link": "https://www.concerto.com.br/roteiros/2026-12-16",
    "trecho_fonte": "2026-12-16 19:30 | Música Antiga da UFF | Paróquia Santíssima Trindade — Rua Senador Vergueiro, 141 - Flamengo - Tel. (21) 2553-3114 - https://www.sstrindade.com/ | ingressos: Entrada franca.",
    "id": "f-0a3f44e9ee",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-16",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 10 a R$ 50",
+   "preco_min": 10.0,
+   "preco_max": 50.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Realização de igreja; duração de cerca de 90 minutos. Classificação livre, mas não é anunciada como infantil. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Ele Se Fez Boneco",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Montagem da Primeira Igreja Batista de Copacabana: numa oficina, um artesão e seu filho criam bonecos de madeira, até que uma boneca rebelde convence os outros a abafar a voz do mestre.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/ele-se-fez-boneco-17144",
+   "trecho_fonte": "2026-12-16 20:00 até 2026-12-16 20:00 | Ele Se Fez Boneco | Teatro Claro MAIS RJ | Espetáculo | de R$ 10,00 a R$ 50,00 (o menor pode ser meia) | classificação: Livre || Numa oficina cheia de vida, um Artesão e o seu Filho criam bonecos de madeira perfeitos para a Sua alegria. Mas o que acontece quando a Boneca Rebelde convence todo mundo a usar fones de ouvido e acessórios que abafam o som do Mestre? || Realização: Primeira Igreja Batista de Copacabana || Duração aproximada: 90 min",
+   "id": "f-8e32e2382f",
    "entrou_em": "2026-11-25"
   },
   {
@@ -11769,6 +12302,39 @@
    "trecho_fonte": "2026-12-18 19:30 até 2026-12-18 19:30 | THALITA PERTUZATTI EM “WHITNEY FOREVER” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126962",
    "id": "f-7d9e2adb78",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 45 a R$ 100",
+   "preco_min": 45.0,
+   "preco_max": 100.0,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.",
+   "aviso": "",
+   "titulo": "Murilo Couto – Novo Show",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Murilo Couto testa textos inéditos de stand-up, sobre atualidades e histórias pessoais, para o seu próximo especial.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/murilo-couto-novo-show-16648",
+   "trecho_fonte": "2026-12-18 20:00 até 2026-12-18 20:00 | Murilo Couto - Novo Show | Teatro Bangu Shopping | Comédia | de R$ 45,00 a R$ 100,00 (o menor pode ser meia) | classificação: 14 Anos || Nesse show, Murilo Couto traz novos textos sobre atualidades, observações do cotidiano e histórias pessoais, usando o estilo já consagrado do Stand-Up Comedy. O espetáculo também funciona como laboratório para um novo especial",
+   "id": "f-6d88fb718b",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -12310,6 +12876,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-06",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 80 a R$ 280",
+   "preco_min": 80.0,
+   "preco_max": 280.0,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com o grupo. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Abba Alive",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de tributo ao ABBA, renovado, com os sucessos pop dos anos 70 e 80.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/abba-alive-17127",
+   "trecho_fonte": "2027-01-06 20:00 até 2027-01-06 20:00 | Abba Alive | Teatro Claro MAIS RJ | Show | de R$ 80,00 a R$ 280,00 (o menor pode ser meia) | classificação: Livre || ABBA ALIVE – O Tributo + Próximo do Original está de volta! || O ABBA ALIVE volta com NOVO SHOW",
+   "id": "f-ba91d53c2a",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-08",
      "hora": "19:00"
     },
@@ -12477,6 +13076,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-09",
+     "hora": "19:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "de R$ 45 a R$ 90",
+   "preco_min": 45.0,
+   "preco_max": 90.0,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem dá só a primeira (9/1) e a última (10/1) sessão, ambas às 19h; como são dias seguidos, não há outros dias a presumir.",
+   "aviso": "",
+   "titulo": "Durval e Valcylange – com Cacau Protasio e Rômulo Bellotti",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Bangu Shopping",
+   "endereco": "Rua da Fonseca, 240",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Comédia sobre o dia a dia de um casal do subúrbio, entre amor, frustração e desejo, com Cacau Protasio e Rômulo Bellotti.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/cacau-protasio-e-romulo-bellotti-em-durval-e-valcylange-17107",
+   "trecho_fonte": "2027-01-09 19:00 até 2027-01-10 19:00 | Cacau Protasio e Rômulo Bellotti em Durval e Valcylange | Teatro Bangu Shopping | Comédia | de R$ 45,00 a R$ 90,00 (o menor pode ser meia) | classificação: 14 Anos | TEMPORADA: a listagem só dá a primeira e a última apresentação || “Durval e Valcylange” é uma comédia rasgada, ácida e, ao mesmo tempo, sensível, que retrata o dia a dia trágico e cômico de um casal do subúrbio, onde amor, frustração e desejo caminham lado a l",
+   "id": "f-f31424ba66",
+   "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-11",
      "hora": "19:00"
     },
@@ -12533,6 +13169,39 @@
    "trecho_fonte": "2027-01-11 19:00 até 2027-02-02 19:00 | O FORMIGUEIRO | Teatro Firjan SESI CENTRO ., Avenida Graça Aranha,, 1  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/130602",
    "id": "f-d3cd20fe6a",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-11",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "de R$ 25 a R$ 140",
+   "preco_min": 25.0,
+   "preco_max": 140.0,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A página fala em apresentações mensais; a fonte dá 11/1 e 15/2 (esta fora da janela de 60 dias). Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
+   "aviso": "",
+   "titulo": "Nany (En)canta",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Claro MAIS RJ",
+   "endereco": "Rua Siqueira Campos, 143",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Nany People canta a música brasileira e as formas do amor, recebendo artistas convidados a cada edição.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/nany-encanta-17108",
+   "trecho_fonte": "2027-01-11 20:00 até 2027-02-15 20:00 | Nany (En)canta | Teatro Claro MAIS RJ | Espetáculo | de R$ 25,00 a R$ 140,00 (o menor pode ser meia) | classificação: 14 Anos | TEMPORADA: a listagem só dá a primeira e a última apresentação || TEMPORADA: a listagem só dá a primeira e a última apresentação || NANY (EN)CANTA é um projeto musical protagonizado por Nany People || A cada edição, Nany recebe artistas convidados || o projeto terá apresentações mensais",
+   "id": "f-5fdc8179d2",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -12797,6 +13466,39 @@
    "trecho_fonte": "2027-01-16 21:30 até 2027-01-16 21:30 | A CARNE SÓ CAI NO PRATO DO VEGANO com RAPHAEL GHANEM | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200  | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/129722",
    "id": "f-e00b9fe3ca",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-19",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "de R$ 60 a R$ 6.000",
+   "preco_min": 60.0,
+   "preco_max": 6000.0,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 22h; o show está previsto para 1h. Preço máximo é de camarote.",
+   "aviso": "",
+   "titulo": "Pablo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Hall",
+   "endereco": "Av. Ayrton Senna, 5.850",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "O cantor Pablo, criador do arrocha, faz apresentação única no Espaço Hall na véspera do feriado.",
+   "fonte": "Uhuu (extração do Todos os Rios)",
+   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/pablo-17118",
+   "trecho_fonte": "2027-01-19 22:00 até 2027-01-19 22:00 | Pablo | Espaço Hall | Show | de R$ 60,00 a R$ 6.000,00 (o menor pode ser meia) | classificação: 18 Anos || Abertura da casa: 22h00 Show previsto para: 01h00 || Terça, dia 19 de janeiro, véspera de feriado, quem retorna ao Espaço Hall é o cantor Pablo, a partir das 22h, em única apresentação. || Ele é o criador do “Arrocha”.",
+   "id": "f-8f0838eb43",
+   "entrou_em": "2026-11-25"
   },
   {
    "cartaz": null,
