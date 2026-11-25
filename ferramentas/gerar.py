@@ -6,11 +6,13 @@ do conferente (conferencia.json). Aplica as conferências mecânicas e gera:
   docs/index.html            site (um único arquivo, sem rastreadores)
   docs/calendarios/*.ics     calendários assináveis (geral, por área, por região, grátis)
   docs/dados/eventos.json    dados abertos (ODbL)
-  docs/dados/eventos.csv
+  docs/dados/eventos.csv, sessoes.csv, datapackage.json, index.html (página de dados abertos)
   dados/edicoes/<id>/relatorio.md  relatório de exceções da edição
 Uso: python3 ferramentas/gerar.py 2026-11-15
 """
 import hashlib, csv, json, os, re, sys, unicodedata, datetime as dt
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import dados_abertos
 from collections import Counter
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -268,6 +270,7 @@ def escrever_mapa_do_site(out):
     hoje = dt.date.today().isoformat()
     alts = "".join(f'<xhtml:link rel="alternate" hreflang="{hl}" href="{URL_LANG[l]}"/>' for l, hl in (("pt", "pt-BR"), ("en", "en"), ("es", "es")))
     urls = "".join(f"<url><loc>{URL_LANG[l]}</loc><lastmod>{hoje}</lastmod><changefreq>daily</changefreq>{alts}</url>" for l in ("pt", "en", "es"))
+    urls += f"<url><loc>{SITE}dados/</loc><lastmod>{hoje}</lastmod><changefreq>daily</changefreq></url>"
     open(os.path.join(out, "sitemap.xml"), "w", encoding="utf-8").write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
         'xmlns:xhtml="http://www.w3.org/1999/xhtml">' + urls + "</urlset>\n")
@@ -335,20 +338,9 @@ def main(edicao_id):
         ics("Todos os Rios · A boa (destaques)", eventos, carimbo, so_sessoes=sess_dest))
     feeds = {"todososrios-destaques.ics": ("Todos os Rios · A boa (destaques)", []), "todososrios-geral.ics": ("Todos os Rios · Todos os eventos", agenda)}
 
-    # dados abertos
+    # dados abertos (página, CSV, JSON e descrição padrão: ferramentas/dados_abertos.py, decisão de 25/11/2026)
+    dados_abertos.escrever(out, ed, eventos, preco_legivel)
     publicos = [{k: v for k, v in e.items() if k != "nota_redacao"} for e in eventos]
-    json.dump({"edicao": ed, "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)", "eventos": publicos},
-              open(os.path.join(out, "dados", "eventos.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    with open(os.path.join(out, "dados", "eventos.csv"), "w", encoding="utf-8-sig", newline="") as f:
-        w = csv.writer(f, delimiter=";")
-        w.writerow(["id", "titulo", "areas", "tipo", "datas_horarios", "local", "endereco", "bairro", "regiao",
-                    "preco", "faixa", "classificacao", "acessibilidade", "na_rua", "sinopse", "link", "fonte", "status"])
-        for e in eventos:
-            dh = " | ".join(f"{s['data']} {s['hora']}" for s in e["sessoes"]) if e["tipo"] == "evento" else \
-                f"em cartaz até {e['cartaz']['fim'] or '—'} · {e['cartaz']['horario']}"
-            w.writerow([e["id"], e["titulo"], " / ".join(e["areas"]), e["tipo"], dh, e["local"], e["endereco"],
-                        e["bairro"], e["regiao"], preco_legivel(e), e["faixa"], e["classificacao"],
-                        e["acessibilidade"], "sim" if e.get("na_rua") else "", e["sinopse"], e["link"], e["fonte"], e["status"]])
 
     # site
     modelo = open(os.path.join(RAIZ, "ferramentas", "modelo.html"), encoding="utf-8").read()

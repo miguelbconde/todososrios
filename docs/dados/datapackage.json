@@ -1,0 +1,249 @@
+{
+ "name": "todos-os-rios-agenda-cultural-rio",
+ "title": "Todos os Rios · Agenda cultural do Rio de Janeiro",
+ "description": "Programação cultural do município do Rio de Janeiro, de hoje até dois meses à frente, atualizada todos os dias. Música, teatro, artes visuais, cinema, livros e debates, festas e feiras, programação infantil, em todas as regiões da cidade.",
+ "homepage": "https://todososrios.com.br/",
+ "version": "2026-11-25",
+ "created": "2026-11-25T14:09-03:00",
+ "keywords": [
+  "agenda cultural",
+  "Rio de Janeiro",
+  "eventos",
+  "cultura",
+  "dados abertos"
+ ],
+ "licenses": [
+  {
+   "name": "ODbL-1.0",
+   "path": "https://opendatacommons.org/licenses/odbl/1-0/",
+   "title": "Dados"
+  },
+  {
+   "name": "CC-BY-SA-4.0",
+   "path": "https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br",
+   "title": "Textos"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "Todos os Rios · Palavra Comunicação",
+   "email": "abreterio@gmail.com",
+   "role": "publisher"
+  }
+ ],
+ "resources": [
+  {
+   "name": "sessoes",
+   "path": "https://todososrios.com.br/dados/sessoes.csv",
+   "title": "Uma linha por dia e hora de cada evento",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "dialect": {
+    "delimiter": ";"
+   },
+   "schema": {
+    "fields": [
+     {
+      "name": "id",
+      "type": "string",
+      "description": "Identificador da ficha (o mesmo de eventos.csv e eventos.json)"
+     },
+     {
+      "name": "data",
+      "type": "date",
+      "description": "Dia (AAAA-MM-DD)"
+     },
+     {
+      "name": "hora",
+      "type": "string",
+      "description": "Hora de início (HH:MM, horário de Brasília)"
+     },
+     {
+      "name": "titulo",
+      "type": "string",
+      "description": "Título da atividade"
+     },
+     {
+      "name": "areas",
+      "type": "string",
+      "description": "Seções, separadas por \" / \""
+     },
+     {
+      "name": "local",
+      "type": "string",
+      "description": "Nome do lugar"
+     },
+     {
+      "name": "endereco",
+      "type": "string",
+      "description": "Endereço"
+     },
+     {
+      "name": "bairro",
+      "type": "string",
+      "description": "Bairro"
+     },
+     {
+      "name": "regiao",
+      "type": "string",
+      "description": "Região da cidade"
+     },
+     {
+      "name": "preco",
+      "type": "string",
+      "description": "Preço por extenso"
+     },
+     {
+      "name": "gratis",
+      "type": "string",
+      "description": "\"sim\" quando a entrada é gratuita"
+     },
+     {
+      "name": "faixa",
+      "type": "string",
+      "description": "gratis, popular, ate80, acima80 ou nao_informado"
+     },
+     {
+      "name": "classificacao",
+      "type": "string",
+      "description": "Classificação indicativa"
+     },
+     {
+      "name": "na_rua",
+      "type": "string",
+      "description": "\"sim\" quando acontece ao ar livre, em espaço público"
+     },
+     {
+      "name": "link",
+      "type": "string",
+      "description": "Link oficial"
+     },
+     {
+      "name": "ingresso",
+      "type": "string",
+      "description": "Link de compra daquela sessão, quando houver"
+     },
+     {
+      "name": "status",
+      "type": "string",
+      "description": "conferido ou a_confirmar"
+     }
+    ]
+   }
+  },
+  {
+   "name": "eventos",
+   "path": "https://todososrios.com.br/dados/eventos.csv",
+   "title": "Uma linha por atividade",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8",
+   "dialect": {
+    "delimiter": ";"
+   },
+   "schema": {
+    "fields": [
+     {
+      "name": "id",
+      "type": "string",
+      "description": "Identificador estável da ficha"
+     },
+     {
+      "name": "titulo",
+      "type": "string",
+      "description": "Título da atividade"
+     },
+     {
+      "name": "areas",
+      "type": "string",
+      "description": "Seções, separadas por \" / \": Música, Teatro, Artes Visuais, Cinema, Livros & Debates, Festas & Feiras, Infantil"
+     },
+     {
+      "name": "tipo",
+      "type": "string",
+      "description": "\"evento\" (tem dias e horários) ou \"cartaz\" (exposição ou mostra em cartaz)"
+     },
+     {
+      "name": "datas_horarios",
+      "type": "string",
+      "description": "Dias e horários (AAAA-MM-DD HH:MM, separados por \" | \") ou período em cartaz"
+     },
+     {
+      "name": "local",
+      "type": "string",
+      "description": "Nome do lugar"
+     },
+     {
+      "name": "endereco",
+      "type": "string",
+      "description": "Endereço"
+     },
+     {
+      "name": "bairro",
+      "type": "string",
+      "description": "Bairro"
+     },
+     {
+      "name": "regiao",
+      "type": "string",
+      "description": "Centro, Zona Sul, Zona Sudoeste, Zona Norte ou Zona Oeste"
+     },
+     {
+      "name": "preco",
+      "type": "string",
+      "description": "Preço por extenso"
+     },
+     {
+      "name": "faixa",
+      "type": "string",
+      "description": "gratis, popular (inteira até R$ 40), ate80, acima80 ou nao_informado"
+     },
+     {
+      "name": "classificacao",
+      "type": "string",
+      "description": "Classificação indicativa"
+     },
+     {
+      "name": "acessibilidade",
+      "type": "string",
+      "description": "Recursos de acessibilidade informados pela fonte"
+     },
+     {
+      "name": "na_rua",
+      "type": "string",
+      "description": "\"sim\" quando acontece ao ar livre, em espaço público"
+     },
+     {
+      "name": "sinopse",
+      "type": "string",
+      "description": "Sinopse escrita pela redação (CC BY-SA 4.0)"
+     },
+     {
+      "name": "link",
+      "type": "string",
+      "description": "Link oficial da atividade ou da fonte"
+     },
+     {
+      "name": "fonte",
+      "type": "string",
+      "description": "De onde veio a informação"
+     },
+     {
+      "name": "status",
+      "type": "string",
+      "description": "conferido ou a_confirmar"
+     }
+    ]
+   }
+  },
+  {
+   "name": "eventos-json",
+   "path": "https://todososrios.com.br/dados/eventos.json",
+   "title": "Base completa, uma ficha por atividade",
+   "format": "json",
+   "mediatype": "application/json",
+   "encoding": "utf-8"
+  }
+ ]
+}

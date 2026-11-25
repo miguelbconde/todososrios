@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dados abertos · Todos os Rios</title>
+<meta name="description" content="Toda a programação cultural do Rio de Janeiro do Todos os Rios em dados abertos: CSV, JSON e calendários, atualizados todos os dias, sem cadastro.">
+<link rel="icon" href="../icones/icone.svg" type="image/svg+xml">
+<link rel="alternate" type="text/csv" href="https://todososrios.com.br/dados/sessoes.csv" title="Sessões (CSV)">
+<link rel="alternate" type="application/json" href="https://todososrios.com.br/dados/eventos.json" title="Eventos (JSON)">
+<link rel="describedby" type="application/json" href="https://todososrios.com.br/dados/datapackage.json">
+<style>
+:root{--papel:#f8f4ec;--papel2:#eee7d9;--tinta:#2a2623;--tinta2:#5f574e;--linha:#dbd2c1;--acento:#1b4e8f}
+@media (prefers-color-scheme:dark){:root{--papel:#143b70;--papel2:#0f2e59;--tinta:#fbf7ee;--tinta2:#c9d6ea;--linha:#3a629e;--acento:#ffb469}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--papel);color:var(--tinta);font:17px/1.55 "Source Serif 4",Georgia,serif}
+main{max-width:760px;margin:0 auto;padding:28px 18px 60px}
+h1,h2,h3,th,.marca,nav,.botao,table{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
+.marca{font-weight:800;color:var(--tinta);text-decoration:none;font-size:15px;letter-spacing:.04em}
+h1{font-size:30px;line-height:1.15;margin:18px 0 8px}
+h2{font-size:20px;margin:36px 0 10px;padding-top:14px;border-top:1px solid var(--linha)}
+a{color:var(--acento)}
+.sub{color:var(--tinta2);margin:0 0 20px}
+.arquivos{display:grid;gap:12px;margin:18px 0}
+.arq{background:var(--papel2);border:1px solid var(--linha);border-radius:10px;padding:14px 16px}
+.arq h3{margin:0 0 4px;font-size:17px}
+.arq p{margin:4px 0}
+.url{font:14px/1.4 ui-monospace,Menlo,Consolas,monospace;word-break:break-all;background:var(--papel);border:1px solid var(--linha);border-radius:6px;padding:6px 8px;display:block;margin:8px 0}
+.botao{display:inline-block;font-size:14px;font-weight:600;padding:6px 12px;border-radius:999px;border:1px solid var(--acento);text-decoration:none;margin:4px 6px 0 0}
+code{font:14px ui-monospace,Menlo,Consolas,monospace}
+pre{background:var(--papel2);border:1px solid var(--linha);border-radius:8px;padding:10px 12px;overflow-x:auto;font-size:14px;white-space:pre-wrap;word-break:break-all}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:6px 8px;border-bottom:1px solid var(--linha)}
+th{white-space:nowrap;font-weight:600}
+details{margin:10px 0}
+summary{cursor:pointer;font-family:system-ui,sans-serif;font-weight:600}
+footer{margin-top:40px;font-size:14px;color:var(--tinta2)}
+</style>
+</head>
+<body>
+<main>
+<a class="marca" href="../">TODOS OS RIOS</a>
+<h1>Dados abertos</h1>
+<p class="sub">A programação cultural do Rio é um bem comum. Tudo o que está no site está aqui, em arquivos que qualquer pessoa pode baixar, ler num programa ou ligar direto numa planilha, sem cadastro, sem chave e sem pedir licença.</p>
+<p>Agora: <strong>902 atividades</strong> e <strong>9128 sessões</strong>, de hoje até 24 de janeiro de 2027. Atualizado em 25 de novembro de 2026, às 14:09. Os arquivos mudam todos os dias, sempre no mesmo endereço.</p>
+
+<div class="arquivos">
+ <div class="arq">
+  <h3>Sessões · CSV</h3>
+  <p>Uma linha por dia e hora de cada evento. O formato mais simples para planilhas, mapas e programas.</p>
+  <code class="url">https://todososrios.com.br/dados/sessoes.csv</code>
+  <a class="botao" href="sessoes.csv" download>Baixar (3,1 MB)</a>
+ </div>
+ <div class="arq">
+  <h3>Atividades · CSV</h3>
+  <p>Uma linha por atividade, com todos os horários juntos numa coluna. Inclui as exposições em cartaz.</p>
+  <code class="url">https://todososrios.com.br/dados/eventos.csv</code>
+  <a class="botao" href="eventos.csv" download>Baixar</a>
+ </div>
+ <div class="arq">
+  <h3>Base completa · JSON</h3>
+  <p>Uma ficha por atividade, com sessões, preços em número, links de ingresso e sinopses em português, inglês e espanhol.</p>
+  <code class="url">https://todososrios.com.br/dados/eventos.json</code>
+  <a class="botao" href="eventos.json" download>Baixar</a>
+ </div>
+ <div class="arq">
+  <h3>Calendários · iCalendar (.ics)</h3>
+  <p>Para assinar no celular ou ler em qualquer programa de agenda.</p>
+  <code class="url">https://todososrios.com.br/calendarios/todososrios-geral.ics</code>
+  <code class="url">https://todososrios.com.br/calendarios/todososrios-destaques.ics</code>
+ </div>
+</div>
+
+<h2>Como usar</h2>
+<details open><summary>No Google Planilhas (atualiza sozinho)</summary>
+<p>Cole numa célula vazia. A planilha busca a versão do dia sempre que é aberta:</p>
+<pre>=IMPORTDATA("https://todososrios.com.br/dados/sessoes.csv"; ";")</pre>
+</details>
+<details><summary>No Excel</summary>
+<p>Baixe o arquivo e abra com dois cliques: as colunas já vêm separadas. Para manter ligado ao site, use <em>Dados › Obter dados › Da Web</em> e cole o endereço do arquivo.</p>
+</details>
+<details><summary>Em programas e sites</summary>
+<p>Os arquivos são estáticos, em UTF-8, e podem ser lidos de qualquer página ou programa, inclusive direto do navegador. Não há limite de acesso. Por exemplo, em Python:</p>
+<pre>import pandas as pd
+sessoes = pd.read_csv("https://todososrios.com.br/dados/sessoes.csv", sep=";", encoding="utf-8-sig")</pre>
+<p>A descrição técnica de cada arquivo, no padrão Frictionless Data, está em <a href="datapackage.json">datapackage.json</a>.</p>
+</details>
+
+<h2>Licença e crédito</h2>
+<p>Os dados estão sob a licença <a href="https://opendatacommons.org/licenses/odbl/1-0/">ODbL 1.0</a> e os textos (sinopses) sob <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br">CC BY-SA 4.0</a>. Você pode copiar, adaptar e republicar, inclusive com fins comerciais, desde que:</p>
+<ul>
+<li>dê o crédito: <em>“Fonte: Todos os Rios (todososrios.com.br)”</em>, com link;</li>
+<li>mantenha aberto, sob a mesma licença, o que fizer a partir destes dados.</li>
+</ul>
+<p>Cada atividade traz o link da fonte original. Preços e horários podem mudar: confira no link antes de sair de casa.</p>
+
+<h2>Campos</h2>
+<details><summary>sessoes.csv</summary><table><tr><th scope=row><code>id</code></th><td>Identificador da ficha (o mesmo de eventos.csv e eventos.json)</td></tr><tr><th scope=row><code>data</code></th><td>Dia (AAAA-MM-DD)</td></tr><tr><th scope=row><code>hora</code></th><td>Hora de início (HH:MM, horário de Brasília)</td></tr><tr><th scope=row><code>titulo</code></th><td>Título da atividade</td></tr><tr><th scope=row><code>areas</code></th><td>Seções, separadas por &quot; / &quot;</td></tr><tr><th scope=row><code>local</code></th><td>Nome do lugar</td></tr><tr><th scope=row><code>endereco</code></th><td>Endereço</td></tr><tr><th scope=row><code>bairro</code></th><td>Bairro</td></tr><tr><th scope=row><code>regiao</code></th><td>Região da cidade</td></tr><tr><th scope=row><code>preco</code></th><td>Preço por extenso</td></tr><tr><th scope=row><code>gratis</code></th><td>&quot;sim&quot; quando a entrada é gratuita</td></tr><tr><th scope=row><code>faixa</code></th><td>gratis, popular, ate80, acima80 ou nao_informado</td></tr><tr><th scope=row><code>classificacao</code></th><td>Classificação indicativa</td></tr><tr><th scope=row><code>na_rua</code></th><td>&quot;sim&quot; quando acontece ao ar livre, em espaço público</td></tr><tr><th scope=row><code>link</code></th><td>Link oficial</td></tr><tr><th scope=row><code>ingresso</code></th><td>Link de compra daquela sessão, quando houver</td></tr><tr><th scope=row><code>status</code></th><td>conferido ou a_confirmar</td></tr></table></details>
+<details><summary>eventos.csv</summary><table><tr><th scope=row><code>id</code></th><td>Identificador estável da ficha</td></tr><tr><th scope=row><code>titulo</code></th><td>Título da atividade</td></tr><tr><th scope=row><code>areas</code></th><td>Seções, separadas por &quot; / &quot;: Música, Teatro, Artes Visuais, Cinema, Livros &amp; Debates, Festas &amp; Feiras, Infantil</td></tr><tr><th scope=row><code>tipo</code></th><td>&quot;evento&quot; (tem dias e horários) ou &quot;cartaz&quot; (exposição ou mostra em cartaz)</td></tr><tr><th scope=row><code>datas_horarios</code></th><td>Dias e horários (AAAA-MM-DD HH:MM, separados por &quot; | &quot;) ou período em cartaz</td></tr><tr><th scope=row><code>local</code></th><td>Nome do lugar</td></tr><tr><th scope=row><code>endereco</code></th><td>Endereço</td></tr><tr><th scope=row><code>bairro</code></th><td>Bairro</td></tr><tr><th scope=row><code>regiao</code></th><td>Centro, Zona Sul, Zona Sudoeste, Zona Norte ou Zona Oeste</td></tr><tr><th scope=row><code>preco</code></th><td>Preço por extenso</td></tr><tr><th scope=row><code>faixa</code></th><td>gratis, popular (inteira até R$ 40), ate80, acima80 ou nao_informado</td></tr><tr><th scope=row><code>classificacao</code></th><td>Classificação indicativa</td></tr><tr><th scope=row><code>acessibilidade</code></th><td>Recursos de acessibilidade informados pela fonte</td></tr><tr><th scope=row><code>na_rua</code></th><td>&quot;sim&quot; quando acontece ao ar livre, em espaço público</td></tr><tr><th scope=row><code>sinopse</code></th><td>Sinopse escrita pela redação (CC BY-SA 4.0)</td></tr><tr><th scope=row><code>link</code></th><td>Link oficial da atividade ou da fonte</td></tr><tr><th scope=row><code>fonte</code></th><td>De onde veio a informação</td></tr><tr><th scope=row><code>status</code></th><td>conferido ou a_confirmar</td></tr></table></details>
+<details><summary>eventos.json</summary>
+<p>Os mesmos campos de <code>eventos.csv</code>, mais: <code>sessoes</code> (lista com <code>data</code>, <code>hora</code> e, quando há, <code>compra</code>), <code>cartaz</code> (período e horário das exposições), <code>preco_min</code> e <code>preco_max</code> (em reais), <code>gratis</code> e <code>na_rua</code> (verdadeiro ou falso), <code>preco_texto</code>, <code>sinopse_en</code>, <code>sinopse_es</code> e <code>entrou_em</code> (dia em que a ficha entrou na agenda).</p>
+</details>
+
+<footer>
+<p>Usou estes dados num projeto? Achou um erro? Conte para a gente: <a href="mailto:abreterio@gmail.com">abreterio@gmail.com</a>.</p>
+<p><a href="../">Voltar à agenda</a> · Todos os Rios · Palavra Comunicação</p>
+</footer>
+</main>
+</body>
+</html>
