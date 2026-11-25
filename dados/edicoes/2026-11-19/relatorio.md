@@ -1,16 +1,16 @@
 # Relatório da edição — Programação de hoje até 24 de janeiro de 2027
 
-- Eventos e exposições: **913** (869 eventos com 9625 sessões; 44 em cartaz)
-- Grátis: **66** · preço popular (até R$ 40): **87**
-- Conferidos sem ressalva: **904** · a confirmar: **9**
+- Eventos e exposições: **883** (839 eventos com 9366 sessões; 44 em cartaz)
+- Grátis: **66** · preço popular (até R$ 40): **76**
+- Conferidos sem ressalva: **874** · a confirmar: **9**
 
 ## Distribuição por região
 
-- Centro: 167
-- Zona Sul: 254
-- Zona Sudoeste: 198
-- Zona Norte: 208
-- Zona Oeste: 86
+- Centro: 166
+- Zona Sul: 247
+- Zona Sudoeste: 184
+- Zona Norte: 205
+- Zona Oeste: 81
 
 ## Conferente independente (IA)
 
@@ -895,7 +895,6 @@ Regras de curadoria:
 - **10 anos do Projeto Teatro Nômade** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Programação da comemoração não informada; número da rua não informado.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -903,8 +902,6 @@ Regras de curadoria:
 - **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Apenas Uma Ilusão** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -922,7 +919,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -930,9 +926,7 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -949,7 +943,6 @@ Regras de curadoria:
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Galinha Pintadinha - O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -963,7 +956,6 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Galinha Pintadinha - O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -977,6 +969,7 @@ Regras de curadoria:
 - **Duna (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 2 (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -984,12 +977,10 @@ Regras de curadoria:
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Minha Melhor Amiga** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Intruso** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ramayana: O Nascimento De Uma Lenda** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1014,7 +1005,6 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Galinha Pintadinha - O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1023,7 +1013,6 @@ Regras de curadoria:
 - **Duna (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 2 (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Escola da Magia - Escape Route** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1032,7 +1021,6 @@ Regras de curadoria:
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Loucos Amores Líquidos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Os Emergentes** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Irmãos Segreto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1070,7 +1058,6 @@ Regras de curadoria:
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1079,7 +1066,6 @@ Regras de curadoria:
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1090,7 +1076,6 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Loucos Amores Líquidos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1098,13 +1083,11 @@ Regras de curadoria:
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1124,13 +1107,11 @@ Regras de curadoria:
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1147,6 +1128,7 @@ Regras de curadoria:
 - **Fogaréu** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minotauro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Ser Querido** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tempo De Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1157,6 +1139,7 @@ Regras de curadoria:
 - **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cine Bacante - Sócrates** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Cinema De Pijama Para Sempre!** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Clássicos Brasileiros Restaurados** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1166,6 +1149,7 @@ Regras de curadoria:
 - **Jim Queen** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Leviticus: Ritual De Sangue** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minotauro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Caso Dos Irmãos Naves** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Ser Querido** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1176,7 +1160,6 @@ Regras de curadoria:
 - **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1184,7 +1167,6 @@ Regras de curadoria:
 - **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 2 (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1205,7 +1187,6 @@ Regras de curadoria:
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1220,7 +1201,6 @@ Regras de curadoria:
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1230,7 +1210,6 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Verity** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1251,7 +1230,6 @@ Regras de curadoria:
 - **Yellow Cake** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1267,9 +1245,7 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **O Intruso** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1279,7 +1255,6 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1291,7 +1266,6 @@ Regras de curadoria:
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1299,7 +1273,6 @@ Regras de curadoria:
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Daniel E A Fornalha Ardente** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1308,9 +1281,10 @@ Regras de curadoria:
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Alucinação** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Eu Vou Ter Saudades De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Malês (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Escolha Perfeita 2** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1327,9 +1301,7 @@ Regras de curadoria:
 - **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **A Escolha Perfeita 2** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
@@ -1364,8 +1336,6 @@ Regras de curadoria:
 - **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes - Em chamas (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **Nação Ubuntu - A Voz Dos Silenciados** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
-- **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
 - **Spartacus** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.

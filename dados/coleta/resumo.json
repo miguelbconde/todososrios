@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-25 17:41 UTC",
- "segundos": 205,
+ "feito_em": "2026-11-25 21:31 UTC",
+ "segundos": 216,
  "fontes": [
   {
    "ids": [
@@ -32,7 +32,7 @@
     "https://www.agentilcarioca.com.br/exhibitions/153-romain-dumesnil-exorama/",
     "https://www.agentilcarioca.com.br/exhibitions/154-amigo-oculto/"
    ],
-   "mencoes_de_data": 89,
+   "mencoes_de_data": 266,
    "situacao": "coletada",
    "arquivo": "F001.txt"
   },
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 5 página(s)"
    ],
-   "caracteres": 31101,
+   "caracteres": 31138,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -158,13 +158,13 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9302,
+   "caracteres": 11527,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
     "https://www.barcariocadagema.com.br/shows"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 33,
    "situacao": "coletada",
    "arquivo": "F016.txt"
   },
@@ -190,28 +190,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 12 página(s)"
-   ],
-   "caracteres": 42003,
-   "url_final": "https://ccbb.com.br/rio-de-janeiro/",
-   "paginas": [
-    "https://ccbb.com.br/rio-de-janeiro/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=hoje",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=semana",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=mes",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/meme-no-brsil-da-memeficacao/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/palavras-em-cena-o-cinema-que-veio-dos-livros/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/um-atlas-de-lembrancas/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/cinemateca-do-mam-no-ccbb/"
-   ],
-   "mencoes_de_data": 341,
-   "situacao": "coletada",
-   "arquivo": "F019.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: TimeoutError: The read operation timed out"
   },
   {
    "ids": [
@@ -227,7 +208,7 @@
     "feed (15 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 71568,
+   "caracteres": 71420,
    "url_final": "https://www.correios.com.br/",
    "paginas": [
     "https://www.correios.com.br/",
@@ -244,7 +225,7 @@
     "https://www.correios.com.br/enviar/precisa-de-ajuda/guia-de-enderecamento/guia-de-enderecamento",
     "https://www.correios.com.br/enviar/precisa-de-ajuda/correios-de-a-a-z"
    ],
-   "mencoes_de_data": 36,
+   "mencoes_de_data": 54,
    "situacao": "coletada",
    "arquivo": "F020.txt"
   },
@@ -277,7 +258,7 @@
     "https://ccjf.trf2.jus.br/sobre-o-ccjf/noticias",
     "https://ccjf.trf2.jus.br/sobre-o-ccjf/informacoes-tecnicas"
    ],
-   "mencoes_de_data": 55,
+   "mencoes_de_data": 56,
    "situacao": "coletada",
    "arquivo": "F021.txt"
   },
@@ -320,7 +301,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 36835,
+   "caracteres": 36978,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -364,8 +345,8 @@
     "https://circocrescereviver.org.br/apoie-o-circo/doacoes/",
     "https://circocrescereviver.org.br/apoie-o-circo/patrocinios/"
    ],
-   "mencoes_de_data": 0,
-   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "mencoes_de_data": 18,
+   "situacao": "coletada",
    "arquivo": "F029.txt"
   },
   {
@@ -407,7 +388,7 @@
    "paginas": [
     "https://www.d-edge.com.br/"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 2,
    "situacao": "coletada",
    "arquivo": "F031.txt"
   },
@@ -434,13 +415,14 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 13 página(s)"
+    "texto de 14 página(s)"
    ],
-   "caracteres": 26519,
+   "caracteres": 28318,
    "url_final": "https://fundicaoprogresso.com.br",
    "paginas": [
     "https://fundicaoprogresso.com.br",
     "https://fundicaoprogresso.com.br/Ingressos",
+    "https://www.fundicaoprogresso.com.br/Ingressos",
     "https://fundicaoprogresso.com.br/Programacao",
     "https://fundicaoprogresso.com.br/AFundicao/Historia",
     "https://fundicaoprogresso.com.br/AFundicao/AcervoDigital",
@@ -453,7 +435,7 @@
     "https://fundicaoprogresso.com.br/Informacoes/Parceiros",
     "https://fundicaoprogresso.com.br/"
    ],
-   "mencoes_de_data": 83,
+   "mencoes_de_data": 235,
    "situacao": "coletada",
    "arquivo": "F034.txt"
   },
@@ -475,21 +457,31 @@
     "F037"
    ],
    "nome": "LIESA / Rio Carnaval",
-   "url": "https://riocarnaval.com",
+   "url": "https://liesa.com.br/noticias",
    "regioes": [
     "Centro"
    ],
    "degraus": [
-    "feed (20 itens)",
-    "texto de 2 página(s)"
+    "texto de 13 página(s)"
    ],
-   "caracteres": 8464,
-   "url_final": "https://www.riocarnaval.com/",
+   "caracteres": 28061,
+   "url_final": "https://liesa.com.br/noticias/",
    "paginas": [
+    "https://liesa.com.br/noticias/",
     "https://www.riocarnaval.com/",
-    "https://www.riocarnaval.com/ingressos"
+    "https://liesa.com.br/ingressos/",
+    "https://liesa.com.br/sustentabilidade/faq.html",
+    "https://liesa.com.br/carnaval/mapa-do-sambodromo.html",
+    "https://liesa.com.br/carnaval/escolas.html",
+    "https://liesa.com.br/ingressos/camarotes.html",
+    "https://liesa.com.br/ingressos/frisas.html",
+    "https://liesa.com.br/carnaval/horario-dos-desfiles.html",
+    "https://liesa.com.br/memoria/outros-carnavais/",
+    "https://liesa.com.br/carnaval/ranking.html",
+    "https://liesa.com.br/memoria/colocacoes.html",
+    "https://liesa.com.br/carnaval/justificativa-dos-jurados.html"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 144,
    "situacao": "coletada",
    "arquivo": "F037.txt"
   },
@@ -514,7 +506,7 @@
     "https://mhn.museus.gov.br/exposicoes-2/",
     "https://mhn.museus.gov.br/faca-seu-evento-aqui/"
    ],
-   "mencoes_de_data": 13,
+   "mencoes_de_data": 17,
    "situacao": "coletada",
    "arquivo": "F044.txt"
   },
@@ -523,13 +515,26 @@
     "F045"
    ],
    "nome": "Museu Nacional de Belas Artes (MNBA)",
-   "url": "https://mnba.museus.gov.br",
+   "url": "https://gov.br/museus/pt-br/museus-ibram/mnba",
    "regioes": [
     "Centro"
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "ids": [
+    "F046"
+   ],
+   "nome": "Paço Imperial",
+   "url": "https://gov.br/iphan/pt-br/unidades-especiais/centro-cultural-paco-imperial/programa-de-exposicoes",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
   },
   {
    "ids": [
@@ -540,9 +545,28 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 31454,
+   "url_final": "https://www.realgabinete.com.br",
+   "paginas": [
+    "https://www.realgabinete.com.br",
+    "https://www.realgabinete.com.br/Agenda",
+    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
+    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
+   ],
+   "mencoes_de_data": 8,
+   "situacao": "coletada",
+   "arquivo": "F049.txt"
   },
   {
    "ids": [
@@ -594,7 +618,7 @@
     "https://salaceciliameireles.rj.gov.br/programacao/cristiano-vogas/",
     "https://salaceciliameireles.rj.gov.br/programacao/orquestra-sinfonica-do-conservatorio-de-musica-de-sydney/"
    ],
-   "mencoes_de_data": 118,
+   "mencoes_de_data": 288,
    "situacao": "coletada",
    "arquivo": "F051.txt"
   },
@@ -690,7 +714,7 @@
     "https://theatromunicipal.rj.gov.br/exposicao-ritmo-revista-interdisciplinar-do-theatro-municipal-do-rio-de-janeiro/",
     "https://theatromunicipal.rj.gov.br/novo-calendario-da-chamada-publica-de-ocupacao-da-sala-mario-tavares/"
    ],
-   "mencoes_de_data": 36,
+   "mencoes_de_data": 60,
    "situacao": "coletada",
    "arquivo": "F063.txt"
   },
@@ -736,7 +760,7 @@
     "https://www.anitaschwartz.com.br/2025/11/apresentando-abertura-da-exposicao-gas-25-26/",
     "https://www.anitaschwartz.com.br/2025/11/visita-guiada-com-pedro-valera/"
    ],
-   "mencoes_de_data": 370,
+   "mencoes_de_data": 384,
    "situacao": "coletada",
    "arquivo": "F065.txt"
   },
@@ -752,7 +776,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 62615,
+   "caracteres": 62509,
    "url_final": "https://artrio.com",
    "paginas": [
     "https://artrio.com",
@@ -768,7 +792,7 @@
     "https://artrio.com/agenda-cultural/claraboia-e-portas-vilaseca-meia-luz-de-emilia-estrada",
     "https://artrio.com/agenda-cultural/cassia-bomeny-galeria-adrianna-eu"
    ],
-   "mencoes_de_data": 795,
+   "mencoes_de_data": 813,
    "situacao": "coletada",
    "arquivo": "F066.txt"
   },
@@ -777,21 +801,20 @@
     "F068"
    ],
    "nome": "Beco das Garrafas",
-   "url": "https://becodasgarrafas.com.br",
+   "url": "https://becodasgarrafas.com.br/principal/events/",
    "regioes": [
     "Zona Sul"
    ],
    "degraus": [
-    "texto de 2 página(s)"
+    "texto de 1 página(s)"
    ],
-   "caracteres": 6440,
-   "url_final": "https://becodasgarrafas.com.br",
+   "caracteres": 4365,
+   "url_final": "https://becodasgarrafas.com.br/principal/events/",
    "paginas": [
-    "https://becodasgarrafas.com.br",
     "https://becodasgarrafas.com.br/principal/events/"
    ],
-   "mencoes_de_data": 0,
-   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "mencoes_de_data": 101,
+   "situacao": "coletada",
    "arquivo": "F068.txt"
   },
   {
@@ -799,21 +822,20 @@
     "F070"
    ],
    "nome": "Blue Note Rio",
-   "url": "https://bluenoterio.com.br",
+   "url": "https://bluenoterio.com.br/shows/",
    "regioes": [
     "Zona Sul"
    ],
    "degraus": [
-    "texto de 3 página(s)"
+    "texto de 2 página(s)"
    ],
-   "caracteres": 4225,
-   "url_final": "https://bluenoterio.com.br",
+   "caracteres": 4754,
+   "url_final": "https://bluenoterio.com.br/shows/",
    "paginas": [
-    "https://bluenoterio.com.br",
     "https://bluenoterio.com.br/shows/",
     "https://bluenoterio.com.br/eventos/"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 2,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F070.txt"
   },
@@ -842,7 +864,7 @@
     "https://fdag.com.br/exposicoes/lady-snowblood/",
     "https://fdag.com.br/exposicoes/mare-baixa/"
    ],
-   "mencoes_de_data": 58,
+   "mencoes_de_data": 103,
    "situacao": "coletada",
    "arquivo": "F071.txt"
   },
@@ -855,19 +877,9 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [
-    "texto de 3 página(s)"
-   ],
-   "caracteres": 14080,
-   "url_final": "https://casadaciencia.ufrj.br",
-   "paginas": [
-    "https://casadaciencia.ufrj.br",
-    "https://casadaciencia.ufrj.br/?page_id=518",
-    "https://casadaciencia.ufrj.br/?programacao=floresta-em-jogo"
-   ],
-   "mencoes_de_data": 24,
-   "situacao": "coletada",
-   "arquivo": "F072.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
@@ -879,9 +891,9 @@
     "Zona Sul"
    ],
    "degraus": [
-    "texto de 13 página(s)"
+    "texto de 12 página(s)"
    ],
-   "caracteres": 98129,
+   "caracteres": 92207,
    "url_final": "https://casafirjan.com.br/",
    "paginas": [
     "https://casafirjan.com.br/",
@@ -894,11 +906,10 @@
     "https://casafirjan.com.br/fab-lab/o-que-e-fab-lab",
     "https://casafirjan.com.br/noticias/inscreva-se-no-fab-lab-open-day-e-vivencie-cultura-maker-na-casa-firjan",
     "https://casafirjan.com.br/fab-lab/fab-lab-para-empresas",
-    "https://casafirjan.com.br/palestras-debates-e-entrevistas/aquario-casa-firjan",
     "https://casafirjan.com.br/palestras-debates-entrevistas/podcasts",
     "https://casafirjan.com.br/palestras-debates-e-entrevistas/podcast/lab-de-tendencias"
    ],
-   "mencoes_de_data": 80,
+   "mencoes_de_data": 115,
    "situacao": "coletada",
    "arquivo": "F074.txt"
   },
@@ -963,7 +974,7 @@
     "https://casarobertomarinho.org.br/acontece/630?locale=pt-BR",
     "https://casarobertomarinho.org.br/acontece/631?locale=pt-BR"
    ],
-   "mencoes_de_data": 519,
+   "mencoes_de_data": 627,
    "situacao": "coletada",
    "arquivo": "F076.txt"
   },
@@ -1006,7 +1017,7 @@
     "https://danielian.com.br",
     "https://danielian.com.br/menu-expo"
    ],
-   "mencoes_de_data": 40,
+   "mencoes_de_data": 42,
    "situacao": "coletada",
    "arquivo": "F082.txt"
   },
@@ -1038,7 +1049,7 @@
     "https://eavparquelage.rj.gov.br/apoie/programa-amigo-eav",
     "https://eavparquelage.rj.gov.br/apoie/doe-seu-ir"
    ],
-   "mencoes_de_data": 31,
+   "mencoes_de_data": 60,
    "situacao": "coletada",
    "arquivo": "F083.txt"
   },
@@ -1061,7 +1072,7 @@
     "https://ecovillarihappy.com.br/programacao/",
     "https://ecovillarihappy.com.br/realize-seu-evento/"
    ],
-   "mencoes_de_data": 53,
+   "mencoes_de_data": 59,
    "situacao": "coletada",
    "arquivo": "F084.txt"
   },
@@ -1106,7 +1117,7 @@
     "https://petrobrasfuturos.com.br/programacao/imunidade-instalacao-multimidia/",
     "https://petrobrasfuturos.com.br/programacao/nhee-se-desejo-de-fala-exposicao-arte-indigena-contemporanea/"
    ],
-   "mencoes_de_data": 238,
+   "mencoes_de_data": 240,
    "situacao": "coletada",
    "arquivo": "F088.txt"
   },
@@ -1129,7 +1140,7 @@
     "https://galeriaathena.com/exhibitions/past/2026/",
     "https://galeriaathena.com/en/exhibitions/past/2026/"
    ],
-   "mencoes_de_data": 4,
+   "mencoes_de_data": 35,
    "situacao": "coletada",
    "arquivo": "F089.txt"
   },
@@ -1159,7 +1170,7 @@
     "feed (7 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 32506,
+   "caracteres": 34649,
    "url_final": "https://grupoestacao.com.br",
    "paginas": [
     "https://grupoestacao.com.br",
@@ -1172,12 +1183,12 @@
     "https://grupoestacao.com.br/cinemas/estacao-claro-botafogo/",
     "https://grupoestacao.com.br/cinemas/estacao-claro-gavea/",
     "https://grupoestacao.com.br/cinemas/estacao-claro-rio/",
-    "https://grupoestacao.com.br/filme/jogos-vorazes-amanhecer-na-colheita/",
-    "https://grupoestacao.com.br/filme/eu-sou-o-rocky-2/",
-    "https://grupoestacao.com.br/filme/fogareu/",
-    "https://grupoestacao.com.br/filme/josephine-fragmentos-de-um-crime/"
+    "https://grupoestacao.com.br/filme/tudo-pode-ser-visto/",
+    "https://grupoestacao.com.br/filme/enfeiticadas-bem-vindos-a-hexe/",
+    "https://grupoestacao.com.br/filme/yellow-cake/",
+    "https://grupoestacao.com.br/filme/o-ser-querido/"
    ],
-   "mencoes_de_data": 107,
+   "mencoes_de_data": 204,
    "situacao": "coletada",
    "arquivo": "F091.txt"
   },
@@ -1192,10 +1203,10 @@
    ],
    "degraus": [
     "feed (5 itens)",
-    "calendário WordPress (30 eventos)",
+    "calendário WordPress (40 eventos)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 69375,
+   "caracteres": 70760,
    "url_final": "https://ims.com.br",
    "paginas": [
     "https://ims.com.br",
@@ -1213,7 +1224,7 @@
     "https://ims.com.br/programacao/cinema-2/",
     "https://ims.com.br/blog-do-cinema/"
    ],
-   "mencoes_de_data": 118,
+   "mencoes_de_data": 148,
    "situacao": "coletada",
    "arquivo": "F092.txt"
   },
@@ -1252,9 +1263,17 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "recusou a visita (código 403)"
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 9662,
+   "url_final": "https://blooks.com.br",
+   "paginas": [
+    "https://blooks.com.br"
+   ],
+   "mencoes_de_data": 8,
+   "situacao": "coletada",
+   "arquivo": "F095.txt"
   },
   {
    "ids": [
@@ -1282,7 +1301,7 @@
     "feed (5 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 60168,
+   "caracteres": 59789,
    "url_final": "https://mam.rio",
    "paginas": [
     "https://mam.rio",
@@ -1300,7 +1319,7 @@
     "https://mam.rio/cinemateca/mais-cinemateca/",
     "https://mam.rio/cinemateca/4-mostra-petrobras-de-cinema-brasileiro-materias-da-memoria/"
    ],
-   "mencoes_de_data": 31,
+   "mencoes_de_data": 47,
    "situacao": "coletada",
    "arquivo": "F097.txt"
   },
@@ -1353,7 +1372,7 @@
     "https://www.mercedesviegas.com.br/exposicoes/criaturas-everardo-miranda",
     "https://www.mercedesviegas.com.br/exposicoes/hipermar-kemper"
    ],
-   "mencoes_de_data": 166,
+   "mencoes_de_data": 295,
    "situacao": "coletada",
    "arquivo": "F100.txt"
   },
@@ -1385,7 +1404,7 @@
     "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=68d558e8144bec4c590484af",
     "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=693c28356b381f6c363397a1"
    ],
-   "mencoes_de_data": 30,
+   "mencoes_de_data": 320,
    "situacao": "coletada",
    "arquivo": "F101.txt"
   },
@@ -1473,7 +1492,7 @@
     "https://pinakotheke.com.br/exhibitions/31-anima-christian-cravo-multiarte/overview/",
     "https://pinakotheke.com.br/exhibitions/23-djanira-110-anos-pinakotheke-cultural/overview/"
    ],
-   "mencoes_de_data": 40,
+   "mencoes_de_data": 160,
    "situacao": "coletada",
    "arquivo": "F105.txt"
   },
@@ -1499,7 +1518,7 @@
     "https://portasvilaseca.com.br/pt/exposicao/o-tempo-da-cor-kika-carvalho",
     "https://portasvilaseca.com.br/pt/exposicao/das-promessas-que-a-gente-fez-kika-carvalho"
    ],
-   "mencoes_de_data": 9,
+   "mencoes_de_data": 32,
    "situacao": "coletada",
    "arquivo": "F107.txt"
   },
@@ -1508,22 +1527,20 @@
     "F112"
    ],
    "nome": "Silvia Cintra + Box 4",
-   "url": "https://silviacintra.com.br",
+   "url": "https://silviacintra.com.br/exposicoes/",
    "regioes": [
     "Zona Sul"
    ],
    "degraus": [
-    "texto de 4 página(s)"
+    "texto de 2 página(s)"
    ],
-   "caracteres": 1797,
-   "url_final": "https://silviacintra.com.br",
+   "caracteres": 978,
+   "url_final": "https://silviacintra.com.br/exposicoes/",
    "paginas": [
-    "https://silviacintra.com.br",
     "https://silviacintra.com.br/exposicoes/",
-    "https://silviacintra.com.br/en/exhibitions/",
     "https://silviacintra.com.br/exposicoes/o-silencio/"
    ],
-   "mencoes_de_data": 0,
+   "mencoes_de_data": 2,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F112.txt"
   },
@@ -1581,7 +1598,7 @@
     "dados estruturados (21 eventos)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 42811,
+   "caracteres": 42722,
    "url_final": "https://teatrodasartes.com.br",
    "paginas": [
     "https://teatrodasartes.com.br",
@@ -1598,7 +1615,7 @@
     "https://teatrodasartes.com.br/eventos/psicologa-segundo-meu-psiquiatra-janeiro-2027/",
     "https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/"
    ],
-   "mencoes_de_data": 49,
+   "mencoes_de_data": 121,
    "situacao": "coletada",
    "arquivo": "F116.txt"
   },
@@ -1635,7 +1652,7 @@
     "https://www.teatropoeira.com.br/antesdepois",
     "https://www.teatropoeira.com.br/adoravel-face"
    ],
-   "mencoes_de_data": 36,
+   "mencoes_de_data": 50,
    "situacao": "coletada",
    "arquivo": "F123.txt"
   },
@@ -1690,7 +1707,7 @@
     "https://vivorio.com.br/eventos/natal-do-bita-com-orquestra-petrobras-sinfonica/",
     "https://vivorio.com.br/eventos/kysha-e-mine/"
    ],
-   "mencoes_de_data": 76,
+   "mencoes_de_data": 89,
    "situacao": "coletada",
    "arquivo": "F126.txt"
   },
@@ -1751,7 +1768,7 @@
     "https://farmasiarena.com.br/eventos-esportivos/",
     "https://farmasiarena.com.br/proximos-eventos/"
    ],
-   "mencoes_de_data": 12,
+   "mencoes_de_data": 13,
    "situacao": "coletada",
    "arquivo": "F134.txt"
   },
@@ -1779,7 +1796,7 @@
     "https://museubispodorosario.com/programa-de-geracao-de-trabalho-e-renda/",
     "https://museubispodorosario.com/eventos/stella-do-patrocinio/"
    ],
-   "mencoes_de_data": 14,
+   "mencoes_de_data": 17,
    "situacao": "coletada",
    "arquivo": "F135.txt"
   },
@@ -1873,7 +1890,7 @@
     "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
     "https://teatromultiplan.com.br/eventos/almost-elton-john-2027/"
    ],
-   "mencoes_de_data": 25,
+   "mencoes_de_data": 27,
    "situacao": "coletada",
    "arquivo": "F138.txt"
   },
@@ -1888,7 +1905,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
@@ -1969,7 +1986,7 @@
     "https://teatrobangushopping.com.br/evento/cacau-protasio-e-romulo-bellotti-em-durval-e-valcylange",
     "https://teatrobangushopping.com.br/evento/trilhas-epicas-de-game-of-thrones-e-senhor-dos-aneis"
    ],
-   "mencoes_de_data": 141,
+   "mencoes_de_data": 143,
    "situacao": "coletada",
    "arquivo": "F181.txt"
   },
@@ -1982,29 +1999,9 @@
    "regioes": [
     "Várias"
    ],
-   "degraus": [
-    "feed (3 itens)",
-    "texto de 12 página(s)"
-   ],
-   "caracteres": 36453,
-   "url_final": "https://forum.ufrj.br",
-   "paginas": [
-    "https://forum.ufrj.br",
-    "https://forum.ufrj.br/eventos/",
-    "https://forum.ufrj.br/o-forum/historia/",
-    "https://forum.ufrj.br/o-forum/equipe/",
-    "https://forum.ufrj.br/o-forum/organograma/",
-    "https://forum.ufrj.br/o-forum/regimento/",
-    "https://forum.ufrj.br/o-forum/conselho-diretor/",
-    "https://forum.ufrj.br/patrimonio-cultural/patrimonio-tombado/",
-    "https://forum.ufrj.br/patrimonio-cultural/acervos/",
-    "https://forum.ufrj.br/o-forum/sistema-eletronico-de-informacoes/",
-    "https://forum.ufrj.br/o-forum/identidade-visual/",
-    "https://forum.ufrj.br/comunicacao/radio-ufrj/"
-   ],
-   "mencoes_de_data": 35,
-   "situacao": "coletada",
-   "arquivo": "F186.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
@@ -2018,7 +2015,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63429,
+   "caracteres": 63356,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2036,7 +2033,7 @@
     "https://www.travessa.com.br/dvds/filmes",
     "https://www.travessa.com.br/dvds/show"
    ],
-   "mencoes_de_data": 60,
+   "mencoes_de_data": 164,
    "situacao": "coletada",
    "arquivo": "F189.txt"
   },
@@ -2098,7 +2095,7 @@
     "https://www.osb.com.br/orquestra-sinfonica-brasileira-anuncia-temporada-2026-com-programas-inspirados-na-literatura-e-nas-artes-visuais/",
     "https://www.osb.com.br/programacao/musica-de-cinema-especial-harry-potter/"
    ],
-   "mencoes_de_data": 93,
+   "mencoes_de_data": 106,
    "situacao": "coletada",
    "arquivo": "F192.txt"
   },
@@ -2114,7 +2111,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 68843,
+   "caracteres": 68850,
    "url_final": "https://firjan.com.br/atracoes/",
    "paginas": [
     "https://firjan.com.br/atracoes/",
@@ -2130,7 +2127,7 @@
     "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/foruns-empresariais/default.htm",
     "https://www.firjan.com.br/o-sistema-firjan/sindicatos/default.htm"
    ],
-   "mencoes_de_data": 15,
+   "mencoes_de_data": 46,
    "situacao": "coletada",
    "arquivo": "F194.txt"
   },
@@ -2184,9 +2181,166 @@
     "https://arte.fgv.br/evento/festival-infantil-criar-mundos-1a-edicao",
     "https://arte.fgv.br/evento/visita-guiada-e-dialogo-com-thiago-martins-de-mello"
    ],
-   "mencoes_de_data": 161,
+   "mencoes_de_data": 219,
    "situacao": "coletada",
    "arquivo": "F276.txt"
+  },
+  {
+   "ids": [
+    "F277"
+   ],
+   "nome": "Museu da Vida (Fiocruz)",
+   "url": "https://museudavida.fiocruz.br",
+   "regioes": [
+    "Zona Norte"
+   ],
+   "degraus": [
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 78164,
+   "url_final": "https://www.museudavida.fiocruz.br/index.php/pt-br/",
+   "paginas": [
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias-menu",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/agende",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/agende",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2778-evento-fiocruz-criacao-jogos",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2776-evento-parceria-mvf-total-energies",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2773-funcionamento-especial-sabados",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2772-festival-perifer-ia-pro-cultural",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2765-programacao-novembro-2026",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2764-snct-2026-30-10",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2763-snct-2026-29-10",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2762-snct-2026-28-10",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2754-snct-2026-programacao",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2759-snct-2026-programacao-regionais"
+   ],
+   "mencoes_de_data": 190,
+   "situacao": "coletada",
+   "arquivo": "F277.txt"
+  },
+  {
+   "ids": [
+    "F279"
+   ],
+   "nome": "Galeria da Gávea",
+   "url": "https://galeriadagavea.com.br/exposicoes",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 7 página(s)"
+   ],
+   "caracteres": 5737,
+   "url_final": "https://galeriadagavea.com.br/exposicoes",
+   "paginas": [
+    "https://galeriadagavea.com.br/exposicoes",
+    "https://galeriadagavea.com.br/exposicao/1",
+    "https://galeriadagavea.com.br/exposicao/9",
+    "https://galeriadagavea.com.br/exposicao/10",
+    "https://galeriadagavea.com.br/en/exhibition/1",
+    "https://galeriadagavea.com.br/en/exhibition/9",
+    "https://galeriadagavea.com.br/en/exhibition/10"
+   ],
+   "mencoes_de_data": 24,
+   "situacao": "coletada",
+   "arquivo": "F279.txt"
+  },
+  {
+   "ids": [
+    "F280"
+   ],
+   "nome": "Galeria Movimento",
+   "url": "https://galeriamovimento.com.br/exposicoes",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 4079,
+   "url_final": "https://www.galeriamovimento.com.br/exposicoes",
+   "paginas": [
+    "https://www.galeriamovimento.com.br/exposicoes"
+   ],
+   "mencoes_de_data": 4,
+   "situacao": "coletada",
+   "arquivo": "F280.txt"
+  },
+  {
+   "ids": [
+    "F281"
+   ],
+   "nome": "Galeria Cavalo",
+   "url": "https://galeriacavalo.com/exposicoes/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 7 página(s)"
+   ],
+   "caracteres": 33127,
+   "url_final": "https://galeriacavalo.com/exposicoes/",
+   "paginas": [
+    "https://galeriacavalo.com/exposicoes/",
+    "https://galeriacavalo.com/exposicao/3165/",
+    "https://galeriacavalo.com/exposicao/7024/",
+    "https://galeriacavalo.com/exposicao/7852/",
+    "https://galeriacavalo.com/en/exposicao/3165/",
+    "https://galeriacavalo.com/en/exposicao/ana-clara-tito/",
+    "https://galeriacavalo.com/en/exposicao/i-am-not-the-man-you-think-i-am/"
+   ],
+   "mencoes_de_data": 140,
+   "situacao": "coletada",
+   "arquivo": "F281.txt"
+  },
+  {
+   "ids": [
+    "F284"
+   ],
+   "nome": "Galeria Patricia Costa",
+   "url": "https://galeriapatriciacosta.com.br/exposicoes/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 5298,
+   "url_final": "https://galeriapatriciacosta.com.br/exposicoes/",
+   "paginas": [
+    "https://galeriapatriciacosta.com.br/exposicoes/",
+    "https://galeriapatriciacosta.com.br/galvao-exposicao/"
+   ],
+   "mencoes_de_data": 29,
+   "situacao": "coletada",
+   "arquivo": "F284.txt"
+  },
+  {
+   "ids": [
+    "F286"
+   ],
+   "nome": "Artur Fidalgo Galeria",
+   "url": "https://arturfidalgo.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (20 itens)",
+    "texto de 5 página(s)"
+   ],
+   "caracteres": 18265,
+   "url_final": "https://www.arturfidalgo.com.br/",
+   "paginas": [
+    "https://www.arturfidalgo.com.br/",
+    "https://www.arturfidalgo.com.br/blog",
+    "https://www.arturfidalgo.com.br/blog",
+    "https://www.arturfidalgo.com.br/blog/categories/feiras",
+    "https://www.arturfidalgo.com.br/post/o-engano-do-olhar"
+   ],
+   "mencoes_de_data": 42,
+   "situacao": "coletada",
+   "arquivo": "F286.txt"
   }
  ]
 }
