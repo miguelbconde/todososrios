@@ -1206,6 +1206,42 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-12-09",
+    "fim": "2026-12-27",
+    "horario": ""
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": true,
+   "aviso": "",
+   "titulo": "Projeção mapeada de O Quebra-Nozes na fachada do Theatro Municipal",
+   "areas": [
+    "Artes Visuais",
+    "Festas & Feiras"
+   ],
+   "tipo": "cartaz",
+   "local": "Theatro Municipal do Rio de Janeiro – fachada",
+   "endereco": "Praça Floriano, s/nº",
+   "bairro": "Centro (Cinelândia)",
+   "regiao": "Centro",
+   "sinopse": "A projeção mapeada de \"O Quebra-Nozes\" volta a iluminar a fachada do Theatro Municipal, ao ar livre e de graça. Na abertura, em 9 de dezembro, canta o coral infantil Notas e Vozes.",
+   "fonte": "Secretaria de Estado de Cultura (SECEC-RJ)",
+   "link": "http://cultura.rj.gov.br/projecao-de-o-quebra-nozes-volta-a-iluminar-a-fachada-do-theatro-municipal-do-rio-neste-natal/",
+   "trecho_fonte": "Projeção de O Quebra-Nozes volta a iluminar a fachada do Theatro Municipal do Rio neste Natal || a experiência visual a céu aberto será realizada gratuitamente entre os dias 9 e 27 de dezembro, transformando a arquitetura centenária do Theatro em uma grande tela iluminada. Na noite de abertura, em 9 de dezembro, a programação contará ainda com uma apresentação especial do coral infantil Notas e Vozes.",
+   "id": "f-36e714650d",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The projection mapping of \"The Nutcracker\" lights up the façade of the Theatro Municipal again, outdoors and free. On opening night, 9 December, the children's choir Notas e Vozes sings.",
+   "sinopse_es": "La proyección mapeada de \"El Cascanueces\" vuelve a iluminar la fachada del Theatro Municipal, al aire libre y gratis. En la apertura, el 9 de diciembre, canta el coro infantil Notas e Vozes.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-11-03",
     "fim": "2027-02-28",
     "horario": ""
@@ -4960,6 +4996,54 @@
     {
      "data": "2026-11-26",
      "hora": "21:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Rodrigo Sant'Anna leva o espetáculo \"Mulheres em Turbulência\" ao Teatro Miguel Falabella, no Norte Shopping.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128389",
+   "trecho_fonte": "2026-11-20 21:00 até 2026-11-29 20:00 | Mulheres em Turbulência com RODRIGO SANT'ANNA | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella",
+   "id": "f-6a27b066b3",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Rodrigo Sant'Anna brings the show \"Mulheres em Turbulência\" to Teatro Miguel Falabella, at Norte Shopping.",
+   "sinopse_es": "Rodrigo Sant'Anna lleva el espectáculo \"Mulheres em Turbulência\" al Teatro Miguel Falabella, en el Norte Shopping.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "21:00"
     }
    ],
    "preco_texto": "a partir de R$ 57,60",
@@ -6207,6 +6291,42 @@
      "hora": "16:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Raízes que pulsaM – vivência musical",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Pontal",
+   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "A musicista e educadora Renata Sousa Santos conduz uma vivência com sonoridades e saberes musicais de matrizes africanas e afro-brasileiras. Entrada gratuita.",
+   "fonte": "Site do Museu do Pontal",
+   "link": "https://museudopontal.org.br/programacao/raizes-que-pulsam-28-novembro-16h/",
+   "trecho_fonte": "- 2026-11-24 | Vivência musical: Raízes que pulsaM – 28 de novembro, 16h || Raízes que PulsaM é uma proposta da musicista e educadora Renata Sousa Santos que articula educação musical, pesquisa cultural e experiência artística a partir das sonoridades, dos saberes e das expressões musicais de matrizes africanas e afro-brasileiras. || A entrada no Museu do Pontal é gratuita para todos .",
+   "id": "f-925dd66711",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Musician and educator Renata Sousa Santos leads a hands-on session with sounds and musical knowledge of African and Afro-Brazilian roots. Free admission.",
+   "sinopse_es": "La música y educadora Renata Sousa Santos conduce una vivencia con sonoridades y saberes musicales de matrices africanas y afrobrasileñas. Entrada gratuita.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -6311,6 +6431,42 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "\"Os Três Porquinhos\" at Teatro Grajaú, at Grajaú Tênis Clube.",
    "sinopse_es": "\"Os Três Porquinhos\" en el Teatro Grajaú, en el Grajaú Tênis Clube.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": true,
+   "aviso": "",
+   "titulo": "Quintal da VP: roda de samba do Papo de Quintal na rua",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Rua Tessália (Quintal da VP)",
+   "endereco": "Rua Tessália",
+   "bairro": "Vila da Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Roda de samba do Papo de Quintal na Rua Tessália, na Vila da Penha, das 17h à 1h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-da-vp-roda-de-samba-do-papo-de-quintal-na-rua/3665085",
+   "trecho_fonte": "2026-11-28 17:00 até 2026-11-29 01:00 | Quintal da VP: roda de samba do Papo de Quintal NA RUA | Rua Tessália, Rua Tessália Vila da Penha | organizador: Bigode Buço | Casa de Samba e Cultura",
+   "id": "f-543be3e01a",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Papo de Quintal's samba circle on Rua Tessália, in Vila da Penha, from 5 pm to 1 am.",
+   "sinopse_es": "Rueda de samba del Papo de Quintal en la Calle Tessália, en Vila da Penha, de las 17 h a la 1 h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -6892,6 +7048,42 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "\"Fora de Quadro\" at the Centro Coreográfico da Cidade, in Tijuca, on November 28 and 29.",
    "sinopse_es": "\"Fora de Quadro\" en el Centro Coreográfico da Cidade, en Tijuca, el 28 y 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Quarta edição do ATO 021, do Circo no Ato, na Fundição Progresso, na Lapa.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/ato-021-4a-edicao-atos-da-noite-28-11-2026-sabado/3633678",
+   "trecho_fonte": "2026-11-28 19:00 até 2026-11-28 20:30 | ATO 021 - 4ª EDIÇÃO - ATOS DA NOITE  - 28/11/2026 (sábado) | Fundição Progresso, Rua dos Arcos Lapa | organizador: Circo no Ato",
+   "id": "f-a239d37d31",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Fourth edition of ATO 021, by Circo no Ato, at Fundição Progresso, in Lapa.",
+   "sinopse_es": "Cuarta edición del ATO 021, del Circo no Ato, en la Fundição Progresso, en Lapa.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -7625,6 +7817,43 @@
    "sinopse_en": "A concert of Hans Zimmer film scores in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
    "sinopse_es": "Concierto con bandas sonoras de cine de Hans Zimmer en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Contos de Príncipe",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Pontal",
+   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "O ator e escritor Junior Dantas, da Companhia de Teatro Omondé, conta histórias africanas da tradição oral no Museu do Pontal. Entrada gratuita.",
+   "fonte": "Site do Museu do Pontal",
+   "link": "https://museudopontal.org.br/programacao/contos-de-principe-29-nov/",
+   "trecho_fonte": "- 2026-11-24 | Espetáculo ‘Contos de Príncipe’ – 29 de novembro, 16h || Neste domingo, 29 de novembro, o ator, escritor e jornalista Junior Dantas apresenta o espetáculo Contos de Príncipe , às 16h. Idealizada, escrita e interpretada pelo artista, a performance conta histórias africanas e resgata a riqueza e a tradição oral africana. || A entrada no Museu do Pontal é gratuita para todos .",
+   "id": "f-a8c19bcebf",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Actor and writer Junior Dantas, of Companhia de Teatro Omondé, tells African stories from the oral tradition at the Museu do Pontal. Free admission.",
+   "sinopse_es": "El actor y escritor Junior Dantas, de la Companhia de Teatro Omondé, cuenta historias africanas de la tradición oral en el Museo do Pontal. Entrada gratuita.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -9426,6 +9655,42 @@
    "sessoes": [
     {
      "data": "2026-12-04",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Abertura da exposição \"Você já escutou a terra?\"",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "evento",
+   "local": "Casa Brasil",
+   "endereco": "Rua Visconde de Itaboraí",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Abertura da exposição \"Você já escutou a terra?\", com curadoria de Ailton Krenak e Karen Worcman, na Casa Brasil.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/abertura-da-exposicao-voce-ja-escutou-a-terra-com-curadoria-de-ailton-krenak-e-karen-worcman/3665478",
+   "trecho_fonte": "2026-12-04 17:00 até 2026-12-04 21:00 | Abertura da exposição Você já escutou a terra?, com curadoria de Ailton Krenak e Karen Worcman | Casa Brasil, Rua Visconde de Itaboraí  | organizador: Domi Valansi",
+   "id": "f-df79058627",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Opening of the exhibition \"Você já escutou a terra?\", curated by Ailton Krenak and Karen Worcman, at Casa Brasil.",
+   "sinopse_es": "Apertura de la exposición \"Você já escutou a terra?\", con curaduría de Ailton Krenak y Karen Worcman, en la Casa Brasil.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
      "hora": "18:30"
     },
     {
@@ -10684,6 +10949,43 @@
    "sinopse_en": "Ferrugem records at Qualistage the live video of his album \"Sentimento\", released in January, with career hits and new songs.",
    "sinopse_es": "Ferrugem graba en el Qualistage el audiovisual del álbum \"Sentimento\", lanzado en enero, con éxitos de su carrera y temas inéditos.",
    "faixa": "acima80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "09:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Tangolomango – cantigas, histórias e brincadeiras",
+   "areas": [
+    "Infantil",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Anna Bello e Tássio Ramos conduzem um espetáculo musical para a família com cantigas, histórias, adivinhas e trava-línguas da cultura popular, com música ao vivo e participação do público.",
+   "fonte": "Site da EcoVilla Ri Happy",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "trecho_fonte": "Tangolomango – cantigas, histórias e brincadeiras || 06 de dezembro | Domingo, das 9h30 às 10h30 || Tangolomango é um espetáculo musical para toda a família, conduzido por Anna Bello e Tássio Ramos, que dividem o palco em uma viagem por cantigas, histórias, brincadeiras, adivinhas, trava-línguas e muita par",
+   "id": "f-040ee69754",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Anna Bello and Tássio Ramos lead a family music show with folk songs, stories, riddles and tongue twisters, with live music and audience participation.",
+   "sinopse_es": "Anna Bello y Tássio Ramos conducen un espectáculo musical para la familia con canciones, historias, adivinanzas y trabalenguas de la cultura popular, con música en vivo y participación del público.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -11956,6 +12258,42 @@
    "sessoes": [
     {
      "data": "2026-12-11",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Baile Charme Essência Black",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Casa Carnaval",
+   "endereco": "Rua do Mercado",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Baile charme Essência Black na Casa Carnaval, no Centro, das 17h às 23h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/baile-charme-essencia-black-11-12/3665258",
+   "trecho_fonte": "2026-12-11 17:00 até 2026-12-11 23:00 | Baile Charme Essência Black 11/12 | Casa Carnaval, Rua do Mercado Centro | organizador: Casa Carnaval",
+   "id": "f-3d33915b69",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Essência Black charme dance party at Casa Carnaval, downtown, from 5 pm to 11 pm.",
+   "sinopse_es": "Baile charme Essência Black en la Casa Carnaval, en el Centro, de las 17 h a las 23 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
      "hora": "18:00"
     }
    ],
@@ -12389,6 +12727,42 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "Cineclube Adélia Sampaio screening at Arena Cultural Dicró, in Penha.",
    "sinopse_es": "Sesión del Cineclube Adélia Sampaio en la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Já Quero Esse Pagode – FM O Dia no Renascença",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Renascença Clube",
+   "endereco": "Rua Barão de São Francisco",
+   "bairro": "Andaraí",
+   "regiao": "Zona Norte",
+   "sinopse": "Tarde de pagode FM O Dia no Renascença Clube, no Andaraí.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/ja-quero-esse-pagode-fm-o-dia-no-renascenca-clube/3658560",
+   "trecho_fonte": "2026-12-12 15:00 até 2026-12-12 22:00 | JÁ QUERO ESSE PAGODE | FM O DIA NO RENASCENÇA CLUBE | Renascença Clube, Rua Barão de São Francisco Andaraí | organizador: Renascença Clube",
+   "id": "f-59e1d0e722",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "FM O Dia pagode afternoon at Renascença Clube, in Andaraí.",
+   "sinopse_es": "Tarde de pagode FM O Dia en el Renascença Clube, en Andaraí.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -13013,6 +13387,42 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Sandra de Sá e Jet Samba Black na Batuq",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Sandra de Sá divide a tarde com o Jet Samba Black na Batuq Casa de Samba, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/sandra-de-sa-jet-samba-black-na-batuq/3665508",
+   "trecho_fonte": "2026-12-13 16:00 até 2026-12-13 23:59 | SANDRA DE SÁ + JET SAMBA BLACK na BATUQ!!! | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba",
+   "id": "f-c0b45d18fe",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Sandra de Sá shares the afternoon with Jet Samba Black at Batuq Casa de Samba, in Penha.",
+   "sinopse_es": "Sandra de Sá comparte la tarde con Jet Samba Black en Batuq Casa de Samba, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Folia de Reis – A Brilhante Estrela de Belém (Domingo das Crianças)",
    "areas": [
     "Infantil",
@@ -13110,6 +13520,42 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-13",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Pagode de Verão: Diggo (Conexão Rio-Salvador)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Bar do Belo",
+   "endereco": "Avenida das Américas",
+   "bairro": "Recreio dos Bandeirantes",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Diggo comanda o pagode de verão no Bar do Belo, no Recreio, numa conexão Rio-Salvador.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/vamos-de-pagode-de-verao-diggo-conexao-rio-salvador/3665115",
+   "trecho_fonte": "2026-12-13 18:00 até 2026-12-14 02:00 | VAMOS DE PAGODE DE VERÃO: DIGGO (CONEXÃO RIO-SALVADOR) | Bar do Belo, Avenida das Américas Recreio dos Bandeirantes | organizador: Bar do Belo.",
+   "id": "f-70e1e81da6",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Diggo leads the summer pagode at Bar do Belo, in Recreio, in a Rio-Salvador connection.",
+   "sinopse_es": "Diggo conduce el pagode de verano en el Bar do Belo, en Recreio, en una conexión Río-Salvador.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-14",
      "hora": "19:00"
     }
@@ -13139,6 +13585,42 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "Quarteto Maogani welcomes Daniel Migliavacca at Casa do Choro, as part of the Festival Radamés Gnattali 120.",
    "sinopse_es": "El Quarteto Maogani recibe a Daniel Migliavacca en la Casa do Choro, dentro del Festival Radamés Gnattali 120.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-15",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Mafalda Minnozzi – Voci di Donne",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos, 40",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Mafalda Minnozzi homenageia grandes divas da música no show \"Voci di Donne\", no Instituto Italiano de Cultura.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/mafalda-minnozzi-voci-di-donne-uma-homenagem-as-grandes-divas-da-musica/3664963",
+   "trecho_fonte": "2026-12-15 19:00 até 2026-12-15 21:00 | Mafalda Minnozzi. Voci di Donne, uma homenagem às grandes divas da música | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio",
+   "id": "f-50f15bb931",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Mafalda Minnozzi pays tribute to great divas of music in the show \"Voci di Donne\", at the Italian Cultural Institute.",
+   "sinopse_es": "Mafalda Minnozzi homenajea a grandes divas de la música en el show \"Voci di Donne\", en el Instituto Italiano de Cultura.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -13320,6 +13802,54 @@
    "sinopse_en": "A production by the Primeira Igreja Batista de Copacabana: in a workshop, a craftsman and his son make wooden puppets, until a rebel doll convinces the others to drown out the master's voice.",
    "sinopse_es": "Montaje de la Primera Iglesia Bautista de Copacabana: en un taller, un artesano y su hijo crean muñecos de madera, hasta que una muñeca rebelde convence a los demás de acallar la voz del maestro.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Fábrica Mágica de Natal",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "O teatro da EcoVilla vira uma fábrica de Natal com ambientes temáticos, enfeites para fazer, cartinhas ao Papai Noel, área para bebês e apresentação do Ballet Dalal Achcar.",
+   "fonte": "Site da EcoVilla Ri Happy",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "trecho_fonte": "Fábrica Mágica de Natal || 17, 18, 19 e 20 de dezembro, às 15h || De 17 a 20 de dezembro, o Teatro EcoVilla Ri Happy convida crianças e adultos para viver uma experiência natalina replet [...] A programação também contará com uma apresentação especial do Ballet Dalal Achcar",
+   "id": "f-556068237b",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The EcoVilla theatre becomes a Christmas factory with themed spaces, ornaments to make, letters to Santa, a baby area and a performance by Ballet Dalal Achcar.",
+   "sinopse_es": "El teatro de la EcoVilla se convierte en una fábrica de Navidad con ambientes temáticos, adornos para hacer, cartas a Papá Noel, área para bebés y presentación del Ballet Dalal Achcar.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -13631,6 +14161,43 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "A tribute show to Cazuza at Areninha Cultural Jacob do Bandolim, in Pechincha.",
    "sinopse_es": "Show en homenaje a Cazuza en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Baile da Didi no Rio Scenarium",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Rio Scenarium",
+   "endereco": "Rua do Lavradio, 20",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Baile da Didi no Rio Scenarium, na Rua do Lavradio.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130723",
+   "trecho_fonte": "2026-12-18 19:00 até 2026-12-18 19:00 | BAILE DA DIDI NO RIO SCENARIUM  18.12 | Rio Scenarium, Rua do Lavradio, 20  | organizador: Rio Scenarium (taxa)",
+   "id": "f-9e04c91b88",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Baile da Didi at Rio Scenarium, on Rua do Lavradio.",
+   "sinopse_es": "Baile da Didi en el Rio Scenarium, en la Calle do Lavradio.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -14006,6 +14573,42 @@
    "sinopse_en": "An Australian hit, this stand-up show about wine, scripted by Merrick Watts, includes a tasting of five wines and is performed in Portuguese by a local comedian.",
    "sinopse_es": "Éxito australiano, el stand-up sobre vino con guion de Merrick Watts incluye degustación de cinco variedades y lo presenta en portugués un humorista local.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Fabinho e Santo de Casa na Batuq",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Fabinho e Santo de Casa fazem a tarde de samba na Batuq Casa de Samba, na Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/fabinho-santo-de-casa-na-batuq/3665531",
+   "trecho_fonte": "2026-12-20 16:00 até 2026-12-20 23:59 | FABINHO + SANTO DE CASA na BATUQ!!! | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba",
+   "id": "f-09c39fc3aa",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Fabinho and Santo de Casa lead an afternoon of samba at Batuq Casa de Samba, in Penha.",
+   "sinopse_es": "Fabinho y Santo de Casa hacen la tarde de samba en Batuq Casa de Samba, en Penha.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -14749,6 +15352,42 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-09",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Quintal da Quintão – Revive",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Tia Doca",
+   "endereco": "Rua João Vicente",
+   "bairro": "Madureira",
+   "regiao": "Zona Norte",
+   "sinopse": "Quintal da Quintão – Revive no Pagode da Tia Doca, em Madureira, a partir das 19h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-da-quintao-revive/3664677",
+   "trecho_fonte": "2027-01-09 19:00 até 2027-01-10 02:30 | Quintal da Quintão - Revive | Pagode da Tia Doca, Rua João Vicente  | organizador: Renata Quintão",
+   "id": "f-fdea4298cb",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Quintal da Quintão – Revive at Pagode da Tia Doca, in Madureira, from 7 pm.",
+   "sinopse_es": "Quintal da Quintão – Revive en el Pagode da Tia Doca, en Madureira, desde las 19 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-11",
      "hora": "19:00"
     },
@@ -15209,6 +15848,42 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-20",
+     "hora": "13:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Feijoada do Samba de Caboclo – feriado de São Sebastião",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Soulbrado",
+   "endereco": "Estrada de Jacarepaguá",
+   "bairro": "Anil",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Feijoada do Samba de Caboclo no Soulbrado, no Anil, no feriado de São Sebastião.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/feijoada-do-samba-de-caboclo-feriado-de-sao-sebastiao/3663776",
+   "trecho_fonte": "2027-01-20 13:00 até 2027-01-20 22:00 | Feijoada do Samba de Caboclo - Feriado de São Sebastião | Soulbrado, Estrada de Jacarepaguá Anil | organizador: Paulo Cesar",
+   "id": "f-c8a5c9df7e",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Feijoada do Samba de Caboclo at Soulbrado, in Anil, on the São Sebastião holiday.",
+   "sinopse_es": "Feijoada do Samba de Caboclo en el Soulbrado, en Anil, en el feriado de San Sebastián.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-21",
      "hora": "18:30"
     },
@@ -15319,6 +15994,42 @@
    "sinopse_en": "A string quartet plays well-loved classical works in a candlelit space at Solar de Botafogo.",
    "sinopse_es": "Un cuarteto de cuerdas toca obras queridas de la música clásica en un espacio iluminado por velas, en el Solar de Botafogo.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-22",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Alegria – Tribute to Sade",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Rival Petrobras",
+   "endereco": "Rua Álvaro Alvim, 33, subsolo",
+   "bairro": "Cinelândia",
+   "regiao": "Centro",
+   "sinopse": "Show de tributo a Sade no Teatro Rival Petrobras, na Cinelândia.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130735",
+   "trecho_fonte": "2027-01-22 19:30 até 2027-01-22 19:30 | ALEGRIA NO SHOW “TRIBUTE TO SADE” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL",
+   "id": "f-b0fb3a7157",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "A tribute show to Sade at Teatro Rival Petrobras, in Cinelândia.",
+   "sinopse_es": "Show de tributo a Sade en el Teatro Rival Petrobras, en Cinelândia.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -15570,6 +16281,42 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "Summer edition of Vila Anime at Arena Fernando Torres, in Madureira.",
    "sinopse_es": "Edición de verano de Vila Anime en la Arena Fernando Torres, en Madureira.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-24",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Lavagem do Rio ao Bonfim",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Sarau da Lapa",
+   "endereco": "Avenida Mem de Sá",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Lavagem \"do Rio ao Bonfim\" no Sarau da Lapa, das 12h às 23h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/lavagem-do-rio-ao-bonfim/3647394",
+   "trecho_fonte": "2027-01-24 12:00 até 2027-01-24 23:00 | Lavagem Do Rio ao Bonfim | Sarau da Lapa, Avenida Mem de Sá Lapa | organizador: Vitor Ferreira de Jesus",
+   "id": "f-9356acd839",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "\"Do Rio ao Bonfim\" lavagem celebration at Sarau da Lapa, from noon to 11 pm.",
+   "sinopse_es": "Lavagem \"do Rio ao Bonfim\" en el Sarau da Lapa, de las 12 h a las 23 h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
