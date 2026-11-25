@@ -422,6 +422,54 @@
    "veredito": "diverge",
    "detalhe": "As apresentações são mensais; 18/1 não existe.",
    "resolucao": "Corrigido: só 11/1 na janela, sem aviso."
+  },
+  {
+   "id": "f-d1b5f7b7eb",
+   "titulo": "Arriba",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "19h de 6/12 pode ser hora de fim, não de sessão.",
+   "resolucao": "Corrigido: nota explica; aviso de dias mantido."
+  },
+  {
+   "id": "f-60fc1e13de",
+   "titulo": "Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça",
+   "campo": "titulo",
+   "veredito": "diverge",
+   "detalhe": "A fonte não liga este concerto à Uerj Sem Muros.",
+   "resolucao": "Corrigido: retirado do título."
+  },
+  {
+   "id": "f-270310ea16",
+   "titulo": "Tiago Santineli",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte só dá o nome; humor e área Teatro são julgamento da redação.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-6dad32d7c9",
+   "titulo": "Vila Anime – Edição Verão 2027",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Leitura do título além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o título."
+  },
+  {
+   "id": "f-33ab9caca1",
+   "titulo": "O Quebra-Nozes – versão de Thiago Soares",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Há sessões antes do Natal.",
+   "resolucao": "Corrigido: período de 23 a 28/12."
+  },
+  {
+   "id": "f-e7300b7d46",
+   "titulo": "O Quebra-Nozes",
+   "campo": "trecho_fonte",
+   "veredito": "diverge",
+   "detalhe": "Rótulo fora da fonte no trecho.",
+   "resolucao": "Corrigido: rótulo retirado."
   }
  ]
 }

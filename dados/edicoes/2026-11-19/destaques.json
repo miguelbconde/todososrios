@@ -124,8 +124,8 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "f-0a59a101f5",
+    "porque": "Em Penha Circular.",
     "automatico": true
    }
   ],
@@ -226,8 +226,8 @@
     "automatico": true
    },
    {
-    "id": "f-6657731272",
-    "porque": "Em Campo Grande.",
+    "id": "f-10ec79340e",
+    "porque": "De graça, em Maracanã.",
     "automatico": true
    }
   ],
@@ -364,13 +364,13 @@
     "automatico": true
    },
    {
-    "id": "f-666f8d5c79",
-    "porque": "Em Campo Grande.",
+    "id": "f-60fc1e13de",
+    "porque": "De graça, em Maracanã.",
     "automatico": true
    },
    {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    }
   ],
@@ -386,8 +386,8 @@
     "automatico": true
    },
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-7937a4860b",
+    "porque": "Em Vista Alegre.",
     "automatico": true
    }
   ],
@@ -405,6 +405,18 @@
     "automatico": true
    }
   ],
+  "2026-12-23": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-33ab9caca1",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   }
+  ],
   "2026-12-24": [
    {
     "id": "f-0405b8de0e",
@@ -417,6 +429,11 @@
     "id": "f-0405b8de0e",
     "porque": "Em São Conrado.",
     "automatico": true
+   },
+   {
+    "id": "f-33ab9caca1",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
    }
   ],
   "2026-12-26": [
@@ -426,12 +443,27 @@
     "automatico": true
    },
    {
-    "id": "f-0405b8de0e",
-    "porque": "Em São Conrado.",
+    "id": "f-33ab9caca1",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    }
   ],
   "2026-12-27": [
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-33ab9caca1",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
    {
     "id": "f-0405b8de0e",
     "porque": "Em São Conrado.",
@@ -442,6 +474,11 @@
    {
     "id": "f-e05e6a72a2",
     "porque": "Em Cinelândia.",
+    "automatico": true
+   },
+   {
+    "id": "f-33ab9caca1",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    }
   ],
@@ -575,6 +612,11 @@
   ],
   "2027-01-15": [
    {
+    "id": "2026-11-19-170",
+    "porque": "Em Bangu.",
+    "automatico": true
+   },
+   {
     "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
@@ -582,11 +624,6 @@
    {
     "id": "f-f16a9f483b",
     "porque": "Em Bangu.",
-    "automatico": true
-   },
-   {
-    "id": "f-30327b9bf9",
-    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -677,8 +714,15 @@
     "automatico": true
    },
    {
-    "id": "f-f38b8f0baa",
-    "porque": "Em Bangu.",
+    "id": "f-7a37651211",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   }
+  ],
+  "2027-01-24": [
+   {
+    "id": "f-6dad32d7c9",
+    "porque": "Em Madureira.",
     "automatico": true
    }
   ]
@@ -730,6 +774,7 @@
   "2026-12-20",
   "2026-12-21",
   "2026-12-22",
+  "2026-12-23",
   "2026-12-24",
   "2026-12-25",
   "2026-12-26",
@@ -750,6 +795,7 @@
   "2027-01-19",
   "2027-01-21",
   "2027-01-22",
-  "2027-01-23"
+  "2027-01-23",
+  "2027-01-24"
  ]
 }
