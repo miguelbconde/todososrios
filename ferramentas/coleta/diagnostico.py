@@ -31,7 +31,7 @@ def baixar(url, limite=LIMITE, espera=20):
 
 
 def examinar(fonte):
-    url = fonte["url"].strip()
+    url = fonte["url"].split("|")[0].strip()   # o cadastro pode trazer várias páginas de entrada; a primeira é a principal
     if not url.startswith("http"):
         url = "https://" + url
     r = {"id": fonte["id"], "nome": fonte["nome"], "regiao": fonte["regiao"], "url": url}

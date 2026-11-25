@@ -65,6 +65,10 @@ EM_ESPERA = {
     "www.sescrio.org.br": "lido pela agenda dedicada (agendas.py), desde 22/11/2026",
     "riotur.rio": "lido pela agenda dedicada (agendas.py), desde 25/11/2026",
 }
+# o que conta como "data à vista" no texto de uma página (25/11, 25.11.2026, 25 / nov, 25 de novembro, nov 25, 21h, 21:00, 2026-11-25)
+DATA_OU_HORA = re.compile(
+    r"\b\d{1,2}\s*[/.]\s*\d{1,2}(?:[/.]\d{2,4})?\b|\b\d{1,2}\s*(?:/|de)?\s*(?:jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)[a-zç]*\b|"
+    r"\b(?:jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)[a-zç]*\.?\s+\d{1,2}\b|\b\d{1,2}h(?:\d{2})?\b|\b\d{1,2}:\d{2}\b|\b20\d\d-\d\d-\d\d\b", re.I)
 PROG = re.compile(r"program|agenda|evento|espet[aá]culo|em[-_ ]?cartaz|exposi[cç]|shows?\b|calend[aá]rio|temporada|"
                   r"concerto|cinema|sess[oõ]es|o[-_ ]que[-_ ]fazer|acontece|atra[cç][oõ]es|ingressos|pe[cç]as|mostras?", re.I)
 NAO_PROG = re.compile(r"\.(pdf|jpe?g|png|gif|zip|docx?|mp[34])($|\?)|/(tag|categoria|category|author|autor)/|wp-login|"
@@ -136,6 +140,8 @@ def texto_limpo(h, limite=None):
     h = re.sub(r"<(br|/p|/div|/li|/h[1-6]|/tr|/section|/article|/header|/footer)\b[^>]*>", "\n", h, flags=re.I)
     h = re.sub(r"<[^>]+>", " ", h)
     h = html.unescape(h)
+    # etiquetas que vinham escapadas (ex.: <img> dentro de <noscript>) reaparecem depois de desescapar: tirar de novo
+    h = re.sub(r"<(img|a|div|span|source|picture|figure|p|iframe|video)\b[^>]*>|</(a|div|span|picture|figure|p)>", " ", h, flags=re.I)
     linhas = [re.sub(r"[ \t\xa0​]+", " ", l).strip() for l in h.split("\n")]
     saida, anterior = [], None
     for l in linhas:
@@ -292,9 +298,11 @@ def calendario_wordpress(base):
 def coletar(grupo):
     """grupo = fontes do cadastro que dividem o mesmo endereço (ex.: unidades de uma rede)."""
     f = grupo[0]
-    url = CORRECOES.get(f["id"], f["url"].strip())
-    if not url.startswith("http"):
-        url = "https://" + url
+    # o cadastro pode trazer mais de uma página de entrada, separadas por " | ": a primeira é a principal e as
+    # outras (programação, exposições em cartaz...) são lidas como listagens, com as páginas de evento ligadas a elas
+    enderecos = [u.strip() for u in CORRECOES.get(f["id"], f["url"]).split("|") if u.strip()]
+    enderecos = [u if u.startswith("http") else "https://" + u for u in enderecos]
+    url, extras = enderecos[0], enderecos[1:]
     ids = ", ".join(x["id"] for x in grupo)
     nomes = "; ".join(x["nome"] for x in grupo)
     r = {"ids": [x["id"] for x in grupo], "nome": nomes, "url": url, "regioes": sorted({x["regiao"] for x in grupo}),
@@ -344,7 +352,7 @@ def coletar(grupo):
     paginas = [(final, "página inicial", h, MAX_PAGINA)]
     vistos = {final.rstrip("/")}
     detalhes = []
-    for link, rotulo in links_de_programacao(h, final):
+    for link, rotulo in [(e, "indicada no cadastro") for e in extras] + links_de_programacao(h, final):
         time.sleep(PAUSA)
         if link.rstrip("/") in vistos or not permitido(link):
             continue
@@ -385,7 +393,7 @@ def coletar(grupo):
         t = "\n".join(novas)
         if len(t) > teto:
             t = t[:teto].rsplit("\n", 1)[0] + "\n[… cortado]"
-        com_datas += len(re.findall(r"\b\d{1,2}/\d{1,2}(?:/\d{2,4})?\b|\b\d{1,2} de (?:janeiro|fevereiro|março|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro)\b|\b\d{1,2}h(?:\d{2})?\b", t, re.I))
+        com_datas += len(DATA_OU_HORA.findall(t))
         partes += [f"## PÁGINA ({rotulo}) — {endereco}", t, ""]
     r["degraus"].append(f"texto de {len(paginas)} página(s)")
     r["paginas"] = [p[0] for p in paginas]

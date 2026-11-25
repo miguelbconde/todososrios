@@ -41,6 +41,7 @@ SITES = {"34": "https://www.grupoestacao.com.br/", "506": "https://www.grupoesta
          "33": "https://www.grupoestacao.com.br/", "1463": "https://www.cinesantateresa.com.br/"}
 CIDADE_INGRESSO = "2"  # Rio de Janeiro
 SYMPLA_PAGINAS = 100
+SYMPLA_PAGINAS_INFANTIL = 15
 
 
 def baixar(url, limite=5_000_000):
@@ -148,13 +149,25 @@ def eventos_sympla(texto):
 
 
 def sympla():
-    eventos, falhas, sem_novos = {}, [], 0
-    for pagina in range(1, SYMPLA_PAGINAS + 1):
-        url = "https://www.sympla.com.br/eventos/rio-de-janeiro-rj" + (f"?page={pagina}" if pagina > 1 else "")
+    eventos, falhas = {}, []
+    pagina = _sympla_lista("https://www.sympla.com.br/eventos/rio-de-janeiro-rj", SYMPLA_PAGINAS, eventos, falhas)
+    # categoria infantil (desde 25/11/2026, pedido do MigShow): a lista geral para antes de chegar a todos os eventos,
+    # e a categoria marca o que é para criança, que a triagem passa a mostrar com etiqueta própria
+    infantis = {}
+    _sympla_lista("https://www.sympla.com.br/eventos/rio-de-janeiro-rj/infantil", SYMPLA_PAGINAS_INFANTIL, infantis, falhas)
+    for i, e in infantis.items():
+        eventos.setdefault(i, e)["infantil"] = True
+    return {"eventos": list(eventos.values()), "paginas_lidas": pagina, "infantis": len(infantis), "falhas": falhas}
+
+
+def _sympla_lista(base, maximo, eventos, falhas):
+    sem_novos, pagina = 0, 0
+    for pagina in range(1, maximo + 1):
+        url = base + (f"?page={pagina}" if pagina > 1 else "")
         st, html = baixar(url)
         time.sleep(PAUSA)
         if st != 200:
-            falhas.append(f"página {pagina} (código {st})"); break
+            falhas.append(f"{base.rsplit('/', 1)[-1]}: página {pagina} (código {st})"); break
         antes = len(eventos)
         for o in eventos_sympla(decodificar_next(html)):
             loc = o.get("location") or {}
@@ -173,7 +186,7 @@ def sympla():
         sem_novos = sem_novos + 1 if len(eventos) == antes else 0
         if sem_novos >= 3:
             break
-    return {"eventos": list(eventos.values()), "paginas_lidas": pagina, "falhas": falhas}
+    return pagina
 
 
 # ------------------------------------------------------------------ Fever (desde 22/11/2026)
@@ -415,7 +428,7 @@ def main(saida):
               f"## Ingresso.com (cinema): {len(ing['sessoes'])} sessões, {len(ing['filmes'])} filmes", ""]
     linhas += [f"- {v['nome']}: {por_cinema.get(c, 0)} sessões" for c, v in ing["cinemas"].items()]
     linhas += [f"- Falhou: {x}" for x in ing["falhas"]]
-    linhas += ["", f"## Sympla: {len(sym['eventos'])} eventos no Rio ({sym['paginas_lidas']} páginas lidas)", ""]
+    linhas += ["", f"## Sympla: {len(sym['eventos'])} eventos no Rio ({sym['paginas_lidas']} páginas lidas; {sym.get('infantis', 0)} na categoria infantil)", ""]
     linhas += [f"- Falhou: {x}" for x in sym["falhas"]] or ["- Sem falhas."]
     try:
         nc, nf = triagem_fever(fv, saida)

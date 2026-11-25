@@ -33,7 +33,7 @@ FORA = [  # (motivo, padrão aplicado a título + local + organizador, sem acent
     ("apresentação interna de escola", r"\b(encerramento \d{4}|turmas de|formatura|recital de alunos|mostra de alunos)\b"),
 ]
 PUBLICO = r"\b(municipio|prefeitura|secretaria|governo do estado|funarj|ufrj|uerj|unirio|fiocruz|biblioteca|arena cultural|areninha|centro cultural|museu|memorial)\b"
-CULTURA = r"\b(show|jazz das|samba|choro|pagode|roda|forro|jazz|blues|mpb|sarau|poesia|slam|teatro|peca|espetaculo|musical|danca|circo|exposicao|mostra|festival|lancamento|livro|contacao|cinema|cineclube|concerto|orquestra|tributo|homenagem|batalha|baile|jongo|maracatu|bloco)\b"
+CULTURA = r"\b(show|jazz das|samba|choro|pagode|roda|forro|jazz|blues|mpb|sarau|poesia|slam|teatro|peca|espetaculo|musical|danca|circo|exposicao|mostra|festival|lancamento|livro|contacao|cinema|cineclube|concerto|orquestra|tributo|homenagem|batalha|baile|jongo|maracatu|bloco|infantil|criancas?|familia|kids|bebes?)\b"
 
 
 def hora_rio(iso):
@@ -68,7 +68,7 @@ def main(pasta):
                 motivo = "período longo, sem data precisa"
         if motivo:
             fora.append((motivo, e)); continue
-        prio = 2 if re.search(PUBLICO, alvo) else 1 if re.search(CULTURA, alvo) or re.search(r"\bteatro\b", alvo) else 0
+        prio = 2 if re.search(PUBLICO, alvo) else 1 if re.search(CULTURA, alvo) or re.search(r"\bteatro\b", alvo) or e.get("infantil") else 0
         cand.append((prio, e))
     cand.sort(key=lambda x: (-x[0], x[1]["inicio"]))
     rotulo = {2: "PRIORIDADE: equipamento público ou espaço cultural", 1: "cultural", 0: "verificar"}
@@ -85,7 +85,8 @@ def main(pasta):
                 # temporada em andamento: a data da quarta faz a peneira enxergá-la toda semana enquanto durar
                 temporada = f" | TEMPORADA em cartaz na semana até {quarta.isoformat()}: dias não informados" if di < hoje.isoformat() and df > di else ""
                 f.write(f"{di} {hi} até {df} {hf} | {e['titulo']} | {e['local']}, {e['endereco']} {e['bairro']} | "
-                        f"organizador: {e['organizador']} | {e['link']}{temporada}\n")
+                        f"organizador: {e['organizador']} | {e['link']}{temporada}"
+                        f"{' | INFANTIL (categoria infantil da Sympla)' if e.get('infantil') else ''}\n")
     with open(os.path.join(pasta, "sympla-descartados.txt"), "w", encoding="utf-8") as f:
         for m, e in sorted(fora, key=lambda x: x[0]):
             f.write(f"{m} | {e['inicio'][:10]} | {e['titulo']} | {e['local']} | {e['organizador']}\n")
