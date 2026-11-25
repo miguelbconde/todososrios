@@ -5,7 +5,7 @@
   "fim": "2027-01-24",
   "titulo": "Programação de hoje até 24 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-25T18:54-03:00",
+ "atualizado_em": "2026-11-25T19:27-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -16083,42 +16083,6 @@
    "status": "conferido"
   },
   {
-   "titulo": "Jogos Vorazes: Amanhecer Na Colheita",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Cine Odeon",
-   "endereco": "Praça Floriano 7",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87737769"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 34,20 (preço da plataforma)",
-   "preco_min": 34.2,
-   "preco_max": 34.2,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: The Hunger Games - Sunrise On The Reaping. Direção de Francis Lawrence. Estados Unidos, 2026, 159 min.",
-   "sinopse_en": "Original title: The Hunger Games - Sunrise On The Reaping. Directed by Francis Lawrence. United States, 2026, 159 min.",
-   "sinopse_es": "Título original: The Hunger Games - Sunrise On The Reaping. Dirección de Francis Lawrence. Estados Unidos, 2026, 159 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/jogos-vorazes-amanhecer-na-colheita?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1304-29919",
-   "faixa": "popular",
-   "status": "conferido"
-  },
-  {
    "titulo": "Tudo Pode Ser Visto",
    "areas": [
     "Cinema"
@@ -16830,11 +16794,6 @@
    "bairro": "Laranjeiras",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87715549"
-    },
     {
      "data": "2026-11-26",
      "hora": "17:50",
@@ -18351,11 +18310,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87740069"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87740094"
     },
@@ -18571,11 +18525,6 @@
    "bairro": "Tanque",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87740000"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:20",
@@ -19369,11 +19318,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87738434"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87738425"
     },
@@ -19629,11 +19573,6 @@
    "bairro": "Taquara",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87738476"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:20",
@@ -20562,11 +20501,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732540"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87781892"
@@ -20957,11 +20891,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732559"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87403937"
     },
@@ -21322,11 +21251,6 @@
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732488"
-    },
     {
      "data": "2026-11-26",
      "hora": "22:30",
@@ -23230,11 +23154,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87721776"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87404164"
     },
@@ -23655,11 +23574,6 @@
    "bairro": "Vila Kosmos",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87721752"
-    },
     {
      "data": "2026-11-26",
      "hora": "12:20",
@@ -26102,11 +26016,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87727961"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:00",
      "compra": "https://checkout.ingresso.com/?sessionId=87621333"
     },
@@ -26297,11 +26206,6 @@
    "bairro": "Barra da Tijuca",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87727918"
-    },
     {
      "data": "2026-11-25",
      "hora": "19:10",
@@ -29581,11 +29485,6 @@
    "bairro": "Barra da Tijuca",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87733114"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:30",
@@ -33058,11 +32957,6 @@
    "regiao": "Zona Sudoeste",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87710129"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87757451"
@@ -33299,11 +33193,6 @@
    "bairro": "Recreio",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87622285"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:45",
@@ -33686,42 +33575,6 @@
    "status": "conferido"
   },
   {
-   "titulo": "Josephine - Fragmentos De Um Crime",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Cinesystem Américas",
-   "endereco": "Av. das Américas 15500",
-   "bairro": "Recreio",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87710288"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 36,48 (preço da plataforma)",
-   "preco_min": 36.48,
-   "preco_max": 36.48,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: Josephine. Direção de Beth de Araújo. Estados Unidos, 2026, 119 min.",
-   "sinopse_en": "Original title: Josephine. Directed by Beth de Araújo. United States, 2026, 119 min.",
-   "sinopse_es": "Título original: Josephine. Dirección de Beth de Araújo. Estados Unidos, 2026, 119 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/josephine-fragmentos-de-um-crime?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1280-34108",
-   "faixa": "popular",
-   "status": "conferido"
-  },
-  {
    "titulo": "Loucos Amores Líquidos",
    "areas": [
     "Cinema"
@@ -34089,11 +33942,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87742244"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "19:20",
      "compra": "https://checkout.ingresso.com/?sessionId=87742294"
     }
@@ -34114,42 +33962,6 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1280-22788",
-   "faixa": "popular",
-   "status": "conferido"
-  },
-  {
-   "titulo": "Quarto 66 E Os Segredos Templários - Escape Route",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Cinesystem Américas",
-   "endereco": "Av. das Américas 15500",
-   "bairro": "Recreio",
-   "regiao": "Zona Sudoeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87742325"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 37,45 (preço da plataforma)",
-   "preco_min": 37.45,
-   "preco_max": 37.45,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "0 min.",
-   "sinopse_en": "0 min.",
-   "sinopse_es": "0 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/quarto-66-e-os-segredos-templarios-escape-route?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1280-22791",
    "faixa": "popular",
    "status": "conferido"
   },
@@ -35041,11 +34853,6 @@
    "regiao": "Zona Oeste",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87710343"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87757265"
@@ -35670,11 +35477,6 @@
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87709019"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:45",
@@ -37029,11 +36831,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87712700"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:00",
      "compra": "https://checkout.ingresso.com/?sessionId=87712868"
     },
@@ -37104,11 +36901,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87712662"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:45",
      "compra": "https://checkout.ingresso.com/?sessionId=87757990"
@@ -37174,11 +36966,6 @@
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87734397"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:30",
@@ -37508,42 +37295,6 @@
    "link_espaco": "",
    "automatica": true,
    "id": "2026-11-19-cine-1606-34108",
-   "faixa": "ate80",
-   "status": "conferido"
-  },
-  {
-   "titulo": "Sessão Debate: Fiz Um Foguete Imaginando Que Você Vinha",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Cinesystem Belas Artes Botafogo",
-   "endereco": "Praia de Botafogo 316",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87626185"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 41,04 (preço da plataforma)",
-   "preco_min": 41.04,
-   "preco_max": 41.04,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Direção de Janaína Marques. Brasil, 2026, 92 min.",
-   "sinopse_en": "Directed by Janaína Marques. Brazil, 2026, 92 min.",
-   "sinopse_es": "Dirección de Janaína Marques. Brasil, 2026, 92 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/sessao-debate-fiz-um-foguete-imaginando-que-voce-vinha?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1606-34419",
    "faixa": "ate80",
    "status": "conferido"
   },
@@ -38145,11 +37896,6 @@
    "regiao": "Zona Norte",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87710232"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:30",
      "compra": "https://checkout.ingresso.com/?sessionId=87759813"
@@ -38320,11 +38066,6 @@
    "bairro": "Ilha do Governador",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87622109"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:45",
@@ -39731,11 +39472,6 @@
    "bairro": "Campo Dos Afonsos",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87622373"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:45",
@@ -41163,11 +40899,6 @@
      "compra": "https://checkout.ingresso.com/?sessionId=87759732"
     },
     {
-     "data": "2026-12-01",
-     "hora": "20:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87759638"
-    },
-    {
      "data": "2026-12-02",
      "hora": "15:00",
      "compra": "https://checkout.ingresso.com/?sessionId=87759781"
@@ -41247,6 +40978,11 @@
      "data": "2026-12-01",
      "hora": "17:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87759987"
+    },
+    {
+     "data": "2026-12-01",
+     "hora": "20:00",
+     "compra": "https://checkout.ingresso.com/?sessionId=87802958"
     },
     {
      "data": "2026-12-02",
@@ -42440,11 +42176,6 @@
    "bairro": "Irajá",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87626492"
-    },
     {
      "data": "2026-11-26",
      "hora": "22:00",
@@ -44583,11 +44314,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:25",
-     "compra": "https://checkout.ingresso.com/?sessionId=87715983"
-    },
-    {
      "data": "2026-11-26",
      "hora": "18:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87792868"
@@ -45024,11 +44750,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:25",
-     "compra": "https://checkout.ingresso.com/?sessionId=87717879"
-    },
-    {
      "data": "2026-11-26",
      "hora": "15:35",
      "compra": "https://checkout.ingresso.com/?sessionId=87792822"
@@ -45449,42 +45170,6 @@
    "link_espaco": "https://www.grupoestacao.com.br/",
    "automatica": true,
    "id": "2026-11-19-cine-506-32251",
-   "faixa": "ate80",
-   "status": "conferido"
-  },
-  {
-   "titulo": "Fogaréu",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Estação Claro Gávea",
-   "endereco": "R. Marquês de São Vicente 52",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87717887"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 60,41 (preço da plataforma)",
-   "preco_min": 60.41,
-   "preco_max": 60.41,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Direção de Flávia Neves. Brasil, França, 2023, 100 min.",
-   "sinopse_en": "Directed by Flávia Neves. Brazil, France, 2023, 100 min.",
-   "sinopse_es": "Dirección de Flávia Neves. Brasil, Francia, 2023, 100 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/fogareu?city=rio-de-janeiro",
-   "link_espaco": "https://www.grupoestacao.com.br/",
-   "automatica": true,
-   "id": "2026-11-19-cine-506-25476",
    "faixa": "ate80",
    "status": "conferido"
   },
@@ -46431,11 +46116,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:35",
-     "compra": "https://checkout.ingresso.com/?sessionId=87686301"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:05",
      "compra": "https://checkout.ingresso.com/?sessionId=87686278"
     },
@@ -46637,11 +46317,6 @@
    "regiao": "Zona Sul",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:55",
-     "compra": "https://checkout.ingresso.com/?sessionId=87716928"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87792695"
@@ -46840,11 +46515,6 @@
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:35",
-     "compra": "https://checkout.ingresso.com/?sessionId=87713408"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:55",
@@ -50106,11 +49776,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87728867"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:40",
      "compra": "https://checkout.ingresso.com/?sessionId=87728869"
     },
@@ -51296,11 +50961,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87729276"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87729249"
     },
@@ -51793,11 +51453,6 @@
    "bairro": "Del Castilho",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87729268"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:20",
@@ -52852,11 +52507,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87734276"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87734246"
     },
@@ -53031,11 +52681,6 @@
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87729841"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:15",
@@ -54356,11 +54001,6 @@
    "regiao": "Zona Norte",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87745675"
-    },
-    {
      "data": "2026-11-26",
      "hora": "14:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87785874"
@@ -55535,11 +55175,6 @@
    "bairro": "Vila Isabel",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87727566"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:45",
@@ -56746,11 +56381,6 @@
    "bairro": "Leblon",
    "regiao": "Zona Sul",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87732456"
-    },
     {
      "data": "2026-11-26",
      "hora": "15:35",
@@ -58977,11 +58607,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87621053"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:20",
      "compra": "https://checkout.ingresso.com/?sessionId=87620866"
     },
@@ -59438,11 +59063,6 @@
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87725318"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:05",
@@ -60689,11 +60309,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87734197"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87734199"
     },
@@ -60868,11 +60483,6 @@
    "bairro": "Barra da Tijuca",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87620841"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:40",
@@ -62336,11 +61946,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:30",
-     "compra": "https://checkout.ingresso.com/?sessionId=87727382"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:10",
      "compra": "https://checkout.ingresso.com/?sessionId=87726393"
     },
@@ -62626,11 +62231,6 @@
    "bairro": "Campo Grande",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87725398"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:20",
@@ -64020,11 +63620,6 @@
    "regiao": "Zona Norte",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87706210"
-    },
-    {
      "data": "2026-11-26",
      "hora": "15:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87782516"
@@ -64195,11 +63790,6 @@
    "bairro": "Cachambi",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87701428"
-    },
     {
      "data": "2026-11-25",
      "hora": "19:25",
@@ -64391,16 +63981,6 @@
    "bairro": "Cachambi",
    "regiao": "Zona Norte",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87408309"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:55",
-     "compra": "https://checkout.ingresso.com/?sessionId=87701150"
-    },
     {
      "data": "2026-11-25",
      "hora": "20:20",
@@ -67570,16 +67150,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:25",
-     "compra": "https://checkout.ingresso.com/?sessionId=87706104"
-    },
-    {
-     "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87408018"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:20",
      "compra": "https://checkout.ingresso.com/?sessionId=87698195"
     },
@@ -68105,11 +67675,6 @@
    "regiao": "Zona Sudoeste",
    "sessoes": [
     {
-     "data": "2026-11-25",
-     "hora": "18:55",
-     "compra": "https://checkout.ingresso.com/?sessionId=87706096"
-    },
-    {
      "data": "2026-11-26",
      "hora": "20:45",
      "compra": "https://checkout.ingresso.com/?sessionId=87782470"
@@ -68146,9 +67711,9 @@
     }
    ],
    "cartaz": null,
-   "preco_texto": "R$ 31,92 a R$ 75,23 (preço da plataforma)",
+   "preco_texto": "R$ 31,92 a R$ 57 (preço da plataforma)",
    "preco_min": 31.92,
-   "preco_max": 75.23,
+   "preco_max": 57.0,
    "gratis": false,
    "classificacao": "16 anos",
    "acessibilidade": "",
@@ -68175,11 +67740,6 @@
    "bairro": "Barra da Tijuca",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87706147"
-    },
     {
      "data": "2026-11-27",
      "hora": "14:45",
@@ -68540,11 +68100,6 @@
    "bairro": "Barra da Tijuca",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698269"
-    },
     {
      "data": "2026-11-25",
      "hora": "19:40",
@@ -70217,11 +69772,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698828"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "21:15",
      "compra": "https://checkout.ingresso.com/?sessionId=87698956"
     }
@@ -70340,42 +69890,6 @@
    "automatica": true,
    "id": "2026-11-19-cine-1062-31537",
    "faixa": "ate80",
-   "status": "conferido"
-  },
-  {
-   "titulo": "Ebenezer E Os Fantasmas Do Natal",
-   "areas": [
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "UCI Park Campo Grande",
-   "endereco": "Estrada do Monteiro 1200",
-   "bairro": "Campo Grande",
-   "regiao": "Zona Oeste",
-   "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:50",
-     "compra": "https://checkout.ingresso.com/?sessionId=87699365"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 34,20 (preço da plataforma)",
-   "preco_min": 34.2,
-   "preco_max": 34.2,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Título original: Ebenezer: A Christmas Carol. Direção de Ti West. Estados Unidos, 2026, 117 min.",
-   "sinopse_en": "Original title: Ebenezer: A Christmas Carol. Directed by Ti West. United States, 2026, 117 min.",
-   "sinopse_es": "Título original: Ebenezer: A Christmas Carol. Dirección de Ti West. Estados Unidos, 2026, 117 min.",
-   "fonte": "Ingresso.com (extração do Todos os Rios)",
-   "link": "https://www.ingresso.com/filme/ebenezer-e-os-fantasmas-do-natal?city=rio-de-janeiro",
-   "link_espaco": "",
-   "automatica": true,
-   "id": "2026-11-19-cine-1062-31673",
-   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -71184,11 +70698,6 @@
    "bairro": "Campo Grande",
    "regiao": "Zona Oeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "18:45",
-     "compra": "https://checkout.ingresso.com/?sessionId=87698254"
-    },
     {
      "data": "2026-11-25",
      "hora": "21:00",
@@ -72846,11 +72355,6 @@
    "sessoes": [
     {
      "data": "2026-11-25",
-     "hora": "18:40",
-     "compra": "https://checkout.ingresso.com/?sessionId=87409395"
-    },
-    {
-     "data": "2026-11-25",
      "hora": "20:50",
      "compra": "https://checkout.ingresso.com/?sessionId=87628253"
     },
@@ -73080,11 +72584,6 @@
    "bairro": "Jacarepaguá",
    "regiao": "Zona Sudoeste",
    "sessoes": [
-    {
-     "data": "2026-11-25",
-     "hora": "19:00",
-     "compra": "https://checkout.ingresso.com/?sessionId=87697425"
-    },
     {
      "data": "2026-11-26",
      "hora": "14:20",

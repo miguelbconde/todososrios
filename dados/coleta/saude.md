@@ -2,16 +2,16 @@
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-25 21:31 UTC
-- Lidas com datas: **61** de 97 visitadas
-- não respondeu: 23
+- Feita em: 2026-11-25 22:02 UTC
+- Lidas com datas: **62** de 97 visitadas
+- não respondeu: 22
 - coletada, mas sem datas à vista: 10
 - recusou a visita: 3
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 8812 sessões de cinema
-- Sympla: 2165 eventos no Rio
+- Ingresso.com: 8749 sessões de cinema
+- Sympla: 2160 eventos no Rio
 - Fever: 58 eventos no Rio
 
 ## Fichas automáticas (sem IA)

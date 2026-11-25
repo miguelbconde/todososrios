@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-25 21:31 UTC",
- "segundos": 216,
+ "feito_em": "2026-11-25 22:02 UTC",
+ "segundos": 236,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 5 página(s)"
    ],
-   "caracteres": 31138,
+   "caracteres": 31132,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -158,13 +158,13 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 11527,
+   "caracteres": 9302,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
     "https://www.barcariocadagema.com.br/shows"
    ],
-   "mencoes_de_data": 33,
+   "mencoes_de_data": 8,
    "situacao": "coletada",
    "arquivo": "F016.txt"
   },
@@ -190,9 +190,23 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: TimeoutError: The read operation timed out"
+   "degraus": [
+    "texto de 7 página(s)"
+   ],
+   "caracteres": 25345,
+   "url_final": "https://ccbb.com.br/rio-de-janeiro/",
+   "paginas": [
+    "https://ccbb.com.br/rio-de-janeiro/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/feira-das-yabas/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/musica-no-museu-2/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/do-sal-ao-digital-o-dinheiro-na-colecao-banco-do-brasil/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/dia-do-cinema-polones/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/6a-mostra-de-cinema-arabe-feminino/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/palavras-em-cena-o-cinema-que-veio-dos-livros/"
+   ],
+   "mencoes_de_data": 102,
+   "situacao": "coletada",
+   "arquivo": "F019.txt"
   },
   {
    "ids": [
@@ -383,7 +397,7 @@
     "feed (3 itens)",
     "texto de 1 página(s)"
    ],
-   "caracteres": 2039,
+   "caracteres": 2027,
    "url_final": "https://www.d-edge.com.br/",
    "paginas": [
     "https://www.d-edge.com.br/"
@@ -676,19 +690,15 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 6 página(s)"
+    "texto de 2 página(s)"
    ],
-   "caracteres": 8238,
+   "caracteres": 3143,
    "url_final": "https://teatrorivalrefit.com.br",
    "paginas": [
     "https://teatrorivalrefit.com.br",
-    "https://teatrorivalrefit.com.br/eventos/",
-    "https://teatrorivalrefit.com.br/",
-    "https://teatrorivalrefit.com.br/page/2/",
-    "https://teatrorivalrefit.com.br/page/3/",
-    "https://teatrorivalrefit.com.br/page/60/"
+    "https://teatrorivalrefit.com.br/eventos/"
    ],
-   "mencoes_de_data": 43,
+   "mencoes_de_data": 10,
    "situacao": "coletada",
    "arquivo": "F062.txt"
   },
@@ -891,9 +901,9 @@
     "Zona Sul"
    ],
    "degraus": [
-    "texto de 12 página(s)"
+    "texto de 13 página(s)"
    ],
-   "caracteres": 92207,
+   "caracteres": 98172,
    "url_final": "https://casafirjan.com.br/",
    "paginas": [
     "https://casafirjan.com.br/",
@@ -906,10 +916,11 @@
     "https://casafirjan.com.br/fab-lab/o-que-e-fab-lab",
     "https://casafirjan.com.br/noticias/inscreva-se-no-fab-lab-open-day-e-vivencie-cultura-maker-na-casa-firjan",
     "https://casafirjan.com.br/fab-lab/fab-lab-para-empresas",
+    "https://casafirjan.com.br/palestras-debates-e-entrevistas/aquario-casa-firjan",
     "https://casafirjan.com.br/palestras-debates-entrevistas/podcasts",
     "https://casafirjan.com.br/palestras-debates-e-entrevistas/podcast/lab-de-tendencias"
    ],
-   "mencoes_de_data": 115,
+   "mencoes_de_data": 133,
    "situacao": "coletada",
    "arquivo": "F074.txt"
   },
@@ -1266,7 +1277,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 9662,
+   "caracteres": 9642,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1474,7 +1485,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 41490,
+   "caracteres": 41363,
    "url_final": "https://pinakotheke.com.br",
    "paginas": [
     "https://pinakotheke.com.br",
@@ -1534,7 +1545,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 978,
+   "caracteres": 666,
    "url_final": "https://silviacintra.com.br/exposicoes/",
    "paginas": [
     "https://silviacintra.com.br/exposicoes/",
@@ -1691,7 +1702,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34081,
+   "caracteres": 33958,
    "url_final": "https://vivorio.com.br",
    "paginas": [
     "https://vivorio.com.br",
@@ -2015,7 +2026,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63356,
+   "caracteres": 63303,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2033,7 +2044,7 @@
     "https://www.travessa.com.br/dvds/filmes",
     "https://www.travessa.com.br/dvds/show"
    ],
-   "mencoes_de_data": 164,
+   "mencoes_de_data": 165,
    "situacao": "coletada",
    "arquivo": "F189.txt"
   },
@@ -2258,7 +2269,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 4079,
+   "caracteres": 4075,
    "url_final": "https://www.galeriamovimento.com.br/exposicoes",
    "paginas": [
     "https://www.galeriamovimento.com.br/exposicoes"
@@ -2306,7 +2317,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 5298,
+   "caracteres": 5293,
    "url_final": "https://galeriapatriciacosta.com.br/exposicoes/",
    "paginas": [
     "https://galeriapatriciacosta.com.br/exposicoes/",
@@ -2329,7 +2340,7 @@
     "feed (20 itens)",
     "texto de 5 página(s)"
    ],
-   "caracteres": 18265,
+   "caracteres": 18253,
    "url_final": "https://www.arturfidalgo.com.br/",
    "paginas": [
     "https://www.arturfidalgo.com.br/",

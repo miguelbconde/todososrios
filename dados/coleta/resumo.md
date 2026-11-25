@@ -1,12 +1,12 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-25 21:31 UTC, em 216 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-25 22:02 UTC, em 236 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **61**
-- não respondeu: **23**
+- coletada: **62**
+- não respondeu: **22**
 - coletada, mas sem datas à vista: **10**
 - recusou a visita: **3**
 
@@ -21,9 +21,10 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Artur Fidalgo Galeria | coletada | feed (20 itens), texto de 5 página(s) |
 | Beco das Garrafas | coletada | texto de 1 página(s) |
 | Biblioteca Parque Estadual; Bibliotecas Parque de Manguinhos e Rocinha | coletada | feed (10 itens), texto de 5 página(s) |
+| CCBB Rio | coletada | texto de 7 página(s) |
 | Carioca da Gema | coletada | feed (20 itens), texto de 2 página(s) |
 | Carpintaria (Fortes D'Aloia & Gabriel) | coletada | texto de 9 página(s) |
-| Casa Firjan | coletada | texto de 12 página(s) |
+| Casa Firjan | coletada | texto de 13 página(s) |
 | Casa Museu Eva Klabin | coletada | texto de 13 página(s) |
 | Casa Roberto Marinho | coletada | texto de 12 página(s) |
 | Centro Cultural Correios RJ | coletada | feed (15 itens), feed (15 itens), texto de 13 página(s) |
@@ -69,7 +70,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro Multiplan | coletada | texto de 9 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
-| Teatro Rival Petrobras | coletada | texto de 6 página(s) |
+| Teatro Rival Petrobras | coletada | texto de 2 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
 | Teatro das Artes | coletada | dados estruturados (21 eventos), texto de 13 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
@@ -85,7 +86,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Museu Villa-Lobos | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 4 página(s) |
 | Museu da Imagem e do Som (MIS RJ) | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Silvia Cintra + Box 4 | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 2 página(s) |
-| CCBB Rio | não respondeu: TimeoutError: The read operation timed out |  |
 | Centro Cultural Light | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Cine Santa Teresa | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Livraria Martins Fontes / Prefácio | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
