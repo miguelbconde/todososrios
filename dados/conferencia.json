@@ -856,6 +856,30 @@
    "veredito": "diverge",
    "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
    "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-df1cb21491",
+   "titulo": "Daniel Lopes e Kwesny – KD o Show?!",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte diz que representam, não que são de lá.",
+   "resolucao": "Corrigido."
+  },
+  {
+   "id": "f-8e32e2382f",
+   "titulo": "Ele Se Fez Boneco",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "A página informa a realização e a duração.",
+   "resolucao": "Corrigido: realização na sinopse e duração na nota; área só Teatro."
+  },
+  {
+   "id": "f-5fdc8179d2",
+   "titulo": "Nany (En)canta",
+   "campo": "sessoes",
+   "veredito": "diverge",
+   "detalhe": "As apresentações são mensais; 18/1 não existe.",
+   "resolucao": "Corrigido: só 11/1 na janela, sem aviso."
   }
  ]
 }
