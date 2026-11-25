@@ -143,7 +143,7 @@ details.filtros>summary::-webkit-details-marker{display:none}
 .qb{margin:18px 0 2px}
 .nota-boa{font-size:13px;color:var(--tinta2);margin:0 0 4px}
 .nota-boa a{color:var(--acento)}
-#destaques .ev{border-left:3px solid var(--acento);padding-left:14px;border-bottom:none;margin:12px 0;background:var(--papel2);border-radius:0 var(--raio) var(--raio) 0;padding-right:12px}
+#destaques .ev,#lista.mes .ev{border-left:3px solid var(--acento);padding-left:14px;border-bottom:none;margin:12px 0;background:var(--papel2);border-radius:0 var(--raio) var(--raio) 0;padding-right:12px}
 .porque{font:italic 16px/1.4 var(--serif);margin:6px 0 2px;color:var(--tinta)}
 .quando{font:600 12px var(--sans);letter-spacing:.08em;color:var(--acento);text-transform:uppercase}
 h2.secao{font:600 22px/1.2 var(--serif);margin:34px 0 10px;padding-top:16px;border-top:3px double var(--linha)}
@@ -196,7 +196,7 @@ footer p{margin:6px 0}
 .tag.popular{border:1px solid var(--pop-borda)}
 .aviso{border:1px solid var(--pop-borda)}
 /* o sol marca só "A boa" */
-#destaques .ev{border-left:4px solid var(--sol)}
+#destaques .ev,#lista.mes .ev{border-left:4px solid var(--sol)}
 .qb::before{content:"";display:inline-block;width:.42em;height:.42em;border-radius:50%;background:var(--sol);margin-right:.32em;vertical-align:.12em}
 .controles{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:flex-end}
 #tema{font:600 12px var(--sans);border:1px solid var(--tinta2);background:transparent;color:var(--tinta);padding:4px 10px;border-radius:999px;cursor:pointer;min-height:26px}
@@ -650,6 +650,7 @@ function render(){
       html+=card(it,k,it.porque||null,it.hora); }); }
   else its.forEach((it,k)=>{ if(it.hora && it.hora!==ultima){ html+=`<li class="hora${passou(S.dia,it.hora)?" passou":""}">${hh(it.hora)}</li>`; ultima=it.hora;} html+=card(it,k); });
   document.querySelector("#lista").innerHTML = html || `<li class="vazio">${t("vazio")}</li>`;
+  document.querySelector("#lista").classList.toggle("mes", S.dia==="mes"&&!S.q);  // as boas do mês no mesmo box de "A boa"
   // grade dos cinemas: um bloco por cinema, um filme por linha com os horários do dia
   let g="";
   if(S.q){  // busca: filmes em cartaz no circuito, só pelo título, em todos os dias de hoje em diante
