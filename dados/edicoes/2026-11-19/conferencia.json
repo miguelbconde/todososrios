@@ -558,6 +558,54 @@
    "veredito": "diverge",
    "detalhe": "Afirmação além da fonte.",
    "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-fc28817220",
+   "titulo": "Clássicos do Brasil: Alceu Valença, Maria Bethânia e Vanessa da Mata",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-049eaa80c8",
+   "titulo": "Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-1d861140a7",
+   "titulo": "Clássicos do Brasil: Fábio Jr., Roupa Nova e Paulo Ricardo",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-cb7d616a7a",
+   "titulo": "Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-049eaa80c8",
+   "titulo": "Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Show às 15h chamado de 'noite'.",
+   "resolucao": "Corrigido: 'dia' no lugar de 'noite'."
+  },
+  {
+   "id": "f-cb7d616a7a",
+   "titulo": "Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Show às 15h chamado de 'noite'.",
+   "resolucao": "Corrigido: 'dia' no lugar de 'noite'."
   }
  ]
 }

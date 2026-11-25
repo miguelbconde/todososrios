@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-25 06:01 UTC",
- "segundos": 196,
+ "feito_em": "2026-11-25 17:12 UTC",
+ "segundos": 206,
  "fontes": [
   {
    "ids": [
@@ -48,7 +48,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34602,
+   "caracteres": 34546,
    "url_final": "https://academia.org.br/eventos",
    "paginas": [
     "https://academia.org.br/eventos",
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 5 página(s)"
    ],
-   "caracteres": 31069,
+   "caracteres": 31091,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -193,7 +193,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37714,
+   "caracteres": 41656,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -205,11 +205,11 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/palavras-em-cena-o-cinema-que-veio-dos-livros/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/um-atlas-de-lembrancas/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/musica-no-museu-2/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
+    "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/cinemateca-do-mam-no-ccbb/"
    ],
-   "mencoes_de_data": 322,
+   "mencoes_de_data": 336,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -227,7 +227,7 @@
     "feed (15 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 71553,
+   "caracteres": 71568,
    "url_final": "https://www.correios.com.br/",
    "paginas": [
     "https://www.correios.com.br/",
@@ -319,7 +319,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 35995,
+   "caracteres": 36835,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -335,7 +335,7 @@
     "http://www.abi.org.br/institucional/direcao/conselho-fiscal/",
     "http://www.abi.org.br/institucional/direcao/comissoes/"
    ],
-   "mencoes_de_data": 10,
+   "mencoes_de_data": 12,
    "situacao": "coletada",
    "arquivo": "F028.txt"
   },
@@ -669,9 +669,22 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "recusou a visita (código 522)"
+   "degraus": [
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 8238,
+   "url_final": "https://teatrorivalrefit.com.br",
+   "paginas": [
+    "https://teatrorivalrefit.com.br",
+    "https://teatrorivalrefit.com.br/eventos/",
+    "https://teatrorivalrefit.com.br/",
+    "https://teatrorivalrefit.com.br/page/2/",
+    "https://teatrorivalrefit.com.br/page/3/",
+    "https://teatrorivalrefit.com.br/page/60/"
+   ],
+   "mencoes_de_data": 43,
+   "situacao": "coletada",
+   "arquivo": "F062.txt"
   },
   {
    "ids": [
@@ -757,7 +770,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 62497,
+   "caracteres": 62615,
    "url_final": "https://artrio.com",
    "paginas": [
     "https://artrio.com",
@@ -789,7 +802,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6420,
+   "caracteres": 6429,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -886,7 +899,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 98108,
+   "caracteres": 98129,
    "url_final": "https://casafirjan.com.br/",
    "paginas": [
     "https://casafirjan.com.br/",
@@ -1149,7 +1162,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
   },
   {
    "ids": [
@@ -1164,7 +1177,7 @@
     "feed (7 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 33936,
+   "caracteres": 32506,
    "url_final": "https://grupoestacao.com.br",
    "paginas": [
     "https://grupoestacao.com.br",
@@ -1260,7 +1273,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 9760,
+   "caracteres": 9598,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1292,10 +1305,10 @@
     "Zona Sul"
    ],
    "degraus": [
-    "feed (2 itens)",
+    "feed (5 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 58810,
+   "caracteres": 60168,
    "url_final": "https://mam.rio",
    "paginas": [
     "https://mam.rio",
@@ -1528,7 +1541,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1780,
+   "caracteres": 1742,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1687,7 +1700,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34043,
+   "caracteres": 34081,
    "url_final": "https://vivorio.com.br",
    "paginas": [
     "https://vivorio.com.br",
@@ -1778,11 +1791,11 @@
     "Zona Sudoeste"
    ],
    "degraus": [
-    "feed (1 itens)",
+    "feed (2 itens)",
     "dados estruturados (1 eventos)",
     "texto de 6 página(s)"
    ],
-   "caracteres": 15457,
+   "caracteres": 16172,
    "url_final": "https://museubispodorosario.com",
    "paginas": [
     "https://museubispodorosario.com",
@@ -2031,7 +2044,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63434,
+   "caracteres": 63391,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2127,7 +2140,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 68828,
+   "caracteres": 68843,
    "url_final": "https://firjan.com.br/atracoes/",
    "paginas": [
     "https://firjan.com.br/atracoes/",
@@ -2143,7 +2156,7 @@
     "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/foruns-empresariais/default.htm",
     "https://www.firjan.com.br/o-sistema-firjan/sindicatos/default.htm"
    ],
-   "mencoes_de_data": 14,
+   "mencoes_de_data": 15,
    "situacao": "coletada",
    "arquivo": "F194.txt"
   },

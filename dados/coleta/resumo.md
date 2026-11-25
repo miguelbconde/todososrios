@@ -1,14 +1,14 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-25 06:01 UTC, em 196 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-25 17:12 UTC, em 206 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **54**
+- coletada: **55**
 - não respondeu: **19**
 - coletada, mas sem datas à vista: **13**
-- recusou a visita: **4**
+- recusou a visita: **3**
 
 ## Fonte a fonte
 
@@ -44,10 +44,10 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | IMS Rio (Instituto Moreira Salles) | coletada | feed (5 itens), calendário WordPress (30 eventos), texto de 14 página(s) |
 | LIESA / Rio Carnaval | coletada | feed (20 itens), texto de 2 página(s) |
 | Livraria da Travessa | coletada | texto de 14 página(s) |
-| MAM Rio (Museu de Arte Moderna) | coletada | feed (2 itens), texto de 14 página(s) |
+| MAM Rio (Museu de Arte Moderna) | coletada | feed (5 itens), texto de 14 página(s) |
 | Mercedes Viegas Arte Contemporânea | coletada | texto de 12 página(s) |
 | Mul.ti.plo Espaço Arte | coletada | texto de 12 página(s) |
-| Museu Bispo do Rosário Arte Contemporânea | coletada | feed (1 itens), dados estruturados (1 eventos), texto de 6 página(s) |
+| Museu Bispo do Rosário Arte Contemporânea | coletada | feed (2 itens), dados estruturados (1 eventos), texto de 6 página(s) |
 | Museu Histórico Nacional (MHN) | coletada | feed (10 itens), texto de 4 página(s) |
 | Museu da República (Palácio do Catete) | coletada | feed (2 itens), texto de 9 página(s) |
 | Museu do Pontal | coletada | feed (10 itens), texto de 13 página(s) |
@@ -63,6 +63,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro Multiplan | coletada | texto de 9 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
+| Teatro Rival Petrobras | coletada | texto de 6 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
 | Teatro das Artes | coletada | dados estruturados (21 eventos), texto de 13 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
@@ -88,12 +89,12 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro dos Quatro | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Trapiche Gamboa | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Z42 Arte | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
+| Galeria Nara Roesler | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
 | Arquivo Nacional | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Fundação Casa de Rui Barbosa | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Jardim Botânico do Rio de Janeiro | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Lapa 40 Graus | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lapa40graus. |  |
 | Livraria Argumento | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.livrariaargu |  |
-| Galeria Nara Roesler | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)> |  |
 | Superliga Carnavalesca do Brasil | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)> |  |
 | Casa do Choro | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Museus Castro Maya (Chácara do Céu / Açude) | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
@@ -103,4 +104,3 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Biblioteca Nacional | recusou a visita (código 403) |  |
 | Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |
-| Teatro Rival Petrobras | recusou a visita (código 522) |  |
