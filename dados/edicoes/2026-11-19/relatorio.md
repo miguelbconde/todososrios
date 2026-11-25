@@ -1,15 +1,15 @@
 # Relatório da edição — Programação de hoje até 24 de janeiro de 2027
 
-- Eventos e exposições: **821** (778 eventos com 9015 sessões; 43 em cartaz)
-- Grátis: **48** · preço popular (até R$ 40): **86**
-- Conferidos sem ressalva: **813** · a confirmar: **8**
+- Eventos e exposições: **841** (798 eventos com 9037 sessões; 43 em cartaz)
+- Grátis: **59** · preço popular (até R$ 40): **90**
+- Conferidos sem ressalva: **833** · a confirmar: **8**
 
 ## Distribuição por região
 
-- Centro: 147
-- Zona Sul: 230
-- Zona Sudoeste: 182
-- Zona Norte: 187
+- Centro: 157
+- Zona Sul: 234
+- Zona Sudoeste: 186
+- Zona Norte: 189
 - Zona Oeste: 75
 
 ## Conferente independente (IA)
@@ -59,6 +59,11 @@
 - **Noiserv – 2ª Mostra Portugal Contemporâneo no Brasil** (f-60f2928cdb) · sinopse · *diverge* — A fonte não diz que Noiserv é músico português. → **Corrigido: sinopse só com o que a fonte diz.**
 - **Symbiophilia – Panthalassa Ensemble** (f-8aac37b494) · sinopse · *diverge* — O programa das 18h30 é outro. → **Corrigido: sinopse distingue as duas sessões.**
 - **Orquestra Forte de Copacabana** (f-af2f73c61f) · sinopse · *diverge* — 'Big band' não está na fonte. → **Corrigido: tirado 'big band'.**
+- **Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)** (f-181efa9e0b) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** (f-7732c10a1e) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Canta Navidad – Coro Intercantus e convidados (Tijuca)** (f-07e33c6932) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Corais do Novo Leblon e Olé Ola – Concertos de Natal** (f-3172bb4187) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)** (f-8193aa7749) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
 
 ## Conferência mecânica (regras)
 
@@ -258,6 +263,7 @@
 - [baixa] **Samba da Constituição canta Djavan** (f-02f112b40f) — Preço não informado na fonte
 - [baixa] **16º Sarau Pretos Novos** (f-0c3c947f28) — Preço não informado na fonte
 - [baixa] **Jade Vitóriah: A Cor da Minha Voz** (f-1e4cfb5e99) — Preço não informado na fonte
+- [baixa] **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** (f-7732c10a1e) — Preço não informado na fonte
 - [baixa] **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** (f-f4a253c2e2) — Preço não informado na fonte
 - [baixa] **Gilsons** (f-46ea0de5be) — Preço não informado na fonte
 - [baixa] **Stand-up: Wêlson Nunes** (f-4c8ae58ab7) — Preço não informado na fonte
@@ -270,6 +276,7 @@
 - [baixa] **Mesmo Rio** (f-345c3d2ed6) — Preço não informado na fonte
 - [baixa] **Carol Biazin: Odeio Muito a Despedida** (f-21597b84cf) — Preço não informado na fonte
 - [baixa] **El Corazón y Otros Frutos Amargos** (f-2e833de58e) — Preço não informado na fonte
+- [baixa] **Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos** (f-f7f4acada2) — Preço não informado na fonte
 - [baixa] **Canela de Velho** (f-f78460d8a7) — Preço não informado na fonte
 - [baixa] **Adrian Cortês: Moonwalk Fest** (f-ad440effa4) — Preço não informado na fonte
 - [baixa] **Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120** (f-aafcf39299) — Preço não informado na fonte
@@ -382,22 +389,22 @@
 - **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
 - **02/12**: Tori: Areia e Voz; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco; Terreiro de Mangueira – Cordel Negro
 - **03/12**: Laura Valle canta Cole Porter – Sala Jazz; Jhordan Matheus: Passando de Fase; Dia de Jogo
-- **04/12**: Duo Gazzana – Série Piano na Sala; VibraSons; Dia de Jogo
+- **04/12**: OSB: Especial Harry Potter; Dia de Jogo; Duo Gazzana – Série Piano na Sala
 - **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; Olhar para Dentro
-- **06/12**: Matheus Pessanha: Entrelaçando Sambas e Histórias; Os Piores Pirralhos do Mundo!; Festival Contarolando Histórias
+- **06/12**: Canta Navidad – Coro Intercantus e convidados (Cidade das Artes); Os Piores Pirralhos do Mundo!; Festival Contarolando Histórias
 - **08/12**: Ana Bispo canta Te Amos; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Terças no Ipanema: Celso Fonseca
-- **09/12**: Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Dragstar – 14ª temporada: a grande final
+- **09/12**: Luiz Bomfim e Regina Lacerda – Concertos de Natal; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Dragstar – 14ª temporada: a grande final
 - **10/12**: Quarteto Jequitibá – Série Vitrine Musical UNIRIO; Festival Contarolando Histórias; Tem Culpa Eu? – comédia de improviso investigativo
-- **11/12**: Samba da Constituição canta Djavan; Festival Contarolando Histórias; Jade Vitóriah: A Cor da Minha Voz
+- **11/12**: Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília); Festival Contarolando Histórias; Jade Vitóriah: A Cor da Minha Voz
 - **12/12**: Carol Biazin: Odeio Muito a Despedida; Cuidado Quando For Falar de Mim; Olhar para Dentro
-- **13/12**: Candlelight: Coldplay & Imagine Dragons; Festival Contarolando Histórias; El Corazón y Otros Frutos Amargos
+- **13/12**: Oratório de Natal – Associação de Canto Coral (Cidade das Artes); Festival Contarolando Histórias; O Quebra-Nozes
 - **14/12**: Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120
 - **15/12**: Terças no Ipanema: Sandra Pêra; Piano em Cena – Rogério Koury; Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos
-- **16/12**: O Quebra-Nozes; Primeira Pessoa; As Coisas que me Tiram o Sono
+- **16/12**: Música Antiga da UFF; O Quebra-Nozes; Corais do Novo Leblon e Olé Ola – Concertos de Natal
 - **17/12**: Vidal Assis: Emílio Santiago – 80 anos; Festival Contarolando Histórias; Os Lobos 60 Anos
 - **18/12**: Thalita Pertuzatti em Whitney Forever; O Quebra-Nozes; Tributo a Cazuza
 - **19/12**: Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial; Ranther Melo: Vem Que Tá Maneirinho; Festival Contarolando Histórias
-- **20/12**: Festival Contarolando Histórias; O Quebra-Nozes; Dia de Jogo
+- **20/12**: Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita; Festival Contarolando Histórias; O Quebra-Nozes
 - **21/12**: Samba in Rio – Sons & Vozes das Damas do Samba
 - **22/12**: O Quebra-Nozes
 - **24/12**: A Vida Passou por Aqui
@@ -637,6 +644,7 @@ Regras de curadoria:
 - **A Vida Passou por Aqui** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 20h, a 27/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço.
 - **Cabaret – Absurdos e Variedades** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Noite de cabaré presumida pelo título; a casa já apresentou outras edições do Cabaret, não é mostra de alunos.
 - **Procura-se Messias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **OSB: Especial Harry Potter** — O roteiro não diz em qual sala da Cidade das Artes (Grande Sala ou Teatro de Câmara). O roteiro não informa classificação etária nem acessibilidade.
 - **Música de Cinema – Magia em Concerto** — A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte dá só o período (4/12, 20h, a 6/12, 17h); presumi sessões em cada dia, 20h na sexta e no sábado e 17h no domingo.
 - **Paulinho Gogó: Só e Bem Acompanhado** — A listagem da Sympla não informa preço nem classificação. Organizador: RH Produções. Humor presumido (Teatro).
 - **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
@@ -644,6 +652,7 @@ Regras de curadoria:
 - **Festival Contarolando Histórias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo) a partir do período informado. Contação de histórias presumida pelo nome.
 - **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
 - **Burning Love Band: An Elvis Tribute** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Oratório de Natal – Associação de Canto Coral (Tijuca)** — Mesmo programa repete em 13/12 na Cidade das Artes (ficha própria). O roteiro não informa classificação etária nem acessibilidade.
 - **Samblack II com Paula Quintanilha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Isabella Taviani: Confissões (de Amor)** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; em outra data o mesmo artista aparece como stand-up.
@@ -655,6 +664,7 @@ Regras de curadoria:
 - **Samba das Rosalinas na Batuq** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa.
 - **Casuarina 25 anos, com João Cavalcanti e Moyseis Marques** — A listagem da Sympla não informa preço nem classificação. Organização independente.
 - **Batuq em Verde e Rosa – 5ª edição** — A listagem da Sympla não informa preço nem classificação. Organizador: Batuq Casa de Samba. Atrações não informadas.
+- **Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)** — O roteiro não diz se R$ 40 é a inteira. Repete em 12/12, de graça, na Tijuca (ficha própria). O roteiro não informa classificação etária nem acessibilidade.
 - **Concerto ACC 85 anos: Canta Navidad, de Jean Kleeb** — A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte não explica a sigla ACC.
 - **Quem Matou o Leão?** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.
 - **Mulheres ao Vento – A Terra que Piso é Maré** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
@@ -665,10 +675,15 @@ Regras de curadoria:
 - **Ana Bispo canta Te Amos** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Cá Entre Nós, com Fátima Bernardes e Bia Bonemer** — Preço não informado (a listagem do site dá 'preço 0', que não é gratuidade). Duas datas, cada uma com sua página; usei o link do dia 8.
 - **Terças no Ipanema: Celso Fonseca** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
+- **Luiz Bomfim e Regina Lacerda – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
+- **Corais infantis da UFRJ – Concerto de Natal na Candelária** — O roteiro não informa classificação etária nem acessibilidade.
+- **Quarteto de Cordas da UFF** — O roteiro não diz se R$ 30 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
 - **Dragstar – 14ª temporada: a grande final** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Cláudio Vettori e convidados – Concertos de Natal** — Programa não informado. O roteiro não informa classificação etária nem acessibilidade.
 - **Quarteto Jequitibá – Série Vitrine Musical UNIRIO** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
 - **Hienas: Uma Comédia Tóxica** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado.
 - **Praticar o Encontro: Mostra Cenas Curtas** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Tratada como mostra aberta ao público; a fonte não diz se é encerramento de curso.
+- **Andrea Saffirio – piano** — O roteiro não informa classificação etária nem acessibilidade.
 - **O Quebra-Nozes** — A Fever informa temporada até 27/12, mas lista sessões só até 22/12; pode haver outras sessões entre 23 e 27/12. Preço 'a partir de' (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.
 - **Silvério Pontes e Marcelo Caldi** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
 - **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
@@ -678,6 +693,7 @@ Regras de curadoria:
 - **Samba da Constituição canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organização independente. Endereço completo e bairro informados pela coordenação editorial em 24/11.
 - **16º Sarau Pretos Novos** — A listagem da Sympla não informa preço nem classificação. organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN. Organizador: Instituto de Pesquisa e Memória Pretos Novos (sem fins lucrativos). A fonte não dá o número do endereço.
 - **Jade Vitóriah: A Cor da Minha Voz** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** — Repete em 17/12, de graça, na Igreja de São Francisco de Paula (ficha própria). O roteiro não informa preço, classificação etária nem acessibilidade.
 - **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
 - **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
@@ -689,20 +705,29 @@ Regras de curadoria:
 - **Canela de Velho no Quintal de Benfica: homenagem a Oxum** — A listagem da Sympla não informa preço nem classificação. Organização independente. A fonte não diz o formato; 'roda' é suposição pelo nome do grupo.
 - **Cores Sonoras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
 - **Mesmo Rio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Orquestra Furiosa Portátil – Festival Radamés Gnattali 120 anos** — O roteiro não diz se R$ 10 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
 - **Candlelight: Coldplay & Ed Sheeran** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos. Sessões de fevereiro fora da janela.
 - **Candlelight: Hinos do rock dos anos 80** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Canta Navidad – Coro Intercantus e convidados (Tijuca)** — O roteiro não informa classificação etária nem acessibilidade.
 - **Candlelight: O Melhor de Outlander** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Acessibilidade não informada.
 - **Candlelight: O Melhor da MPB** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 24/1 fora da janela.
 - **Carol Biazin: Odeio Muito a Despedida** — O release não dá preço nem a hora do show; 21h é a abertura da casa. Há meia-entrada solidária com doação de 1 kg de alimento.
 - **Candlelight: Queen & The Beatles** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 20/2 fora da janela.
 - **El Corazón y Otros Frutos Amargos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos** — O roteiro não informa preço, classificação etária nem acessibilidade.
 - **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
+- **Oratório de Natal – Associação de Canto Coral (Cidade das Artes)** — O roteiro repete esta apresentação em duas linhas iguais. Não diz se R$ 40 é a inteira nem a sala. O roteiro não informa classificação etária nem acessibilidade.
 - **Adrian Cortês: Moonwalk Fest** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; área Música presumida.
 - **Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
 - **Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
 - **Terças no Ipanema: Sandra Pêra** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
+- **Corais do Novo Leblon e Olé Ola – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
+- **Música Antiga da UFF** — Programa a definir, segundo o roteiro. O roteiro não informa classificação etária nem acessibilidade.
+- **Coral Abstrassom – Concertos de Natal** — Programa não informado. O roteiro não informa classificação etária nem acessibilidade.
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)** — O roteiro não informa classificação etária nem acessibilidade.
 - **Os Lobos 60 Anos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Vidal Assis: Emílio Santiago – 80 anos** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **OSB e OSB Jovem: encerramento da temporada** — O roteiro não diz a sala. O roteiro não informa classificação etária nem acessibilidade.
 - **Candlelight: Clássicos de Natal** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz se é apresentação ou prática aberta (aula).
 - **Tributo a Cazuza** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Intérpretes não informados.
@@ -711,6 +736,8 @@ Regras de curadoria:
 - **Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **A Gongada das Mil Xuxas** — Preço não informado. O elenco ainda não foi divulgado.
 - **Ranther Melo: Vem Que Tá Maneirinho** — A listagem da Sympla não informa preço nem classificação. Organizador: Arte & Entretenimento. Humor presumido (Teatro).
+- **Trio Laetare – Concertos de Natal** — O roteiro indica 120 lugares. O roteiro não informa classificação etária nem acessibilidade.
+- **Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita** — Venda pelo site da orquestra e pela Ticket360. O roteiro não informa classificação etária nem acessibilidade.
 - **An Idiot's Guide to Wine: Uma Comédia sobre Vinho** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de fevereiro e março fora da janela. Há degustação de vinho: a idade mínima não aparece no trecho coletado.
 - **Samba in Rio – Sons & Vozes das Damas do Samba** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Jay Vaquer** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.

@@ -131,18 +131,18 @@
   ],
   "2026-12-04": [
    {
-    "id": "f-7bfa1cf4f1",
-    "porque": "A preço popular, em Lapa.",
-    "automatico": true
-   },
-   {
-    "id": "f-394e86f0c0",
-    "porque": "Em Tijuca.",
+    "id": "f-7a0973d18a",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
     "id": "f-176da8f5f3",
     "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-7bfa1cf4f1",
+    "porque": "A preço popular, em Lapa.",
     "automatico": true
    }
   ],
@@ -165,8 +165,8 @@
   ],
   "2026-12-06": [
    {
-    "id": "f-5c8d9ab2fe",
-    "porque": "Em Cinelândia.",
+    "id": "f-181efa9e0b",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
@@ -199,6 +199,11 @@
   ],
   "2026-12-09": [
    {
+    "id": "f-171c810416",
+    "porque": "De graça, em Centro.",
+    "automatico": true
+   },
+   {
     "id": "f-10d9df5efd",
     "porque": "Em Gávea.",
     "automatico": true
@@ -228,8 +233,8 @@
   ],
   "2026-12-11": [
    {
-    "id": "f-02f112b40f",
-    "porque": "Em Gamboa.",
+    "id": "f-7732c10a1e",
+    "porque": "Em Lapa.",
     "automatico": true
    },
    {
@@ -262,8 +267,8 @@
   ],
   "2026-12-13": [
    {
-    "id": "f-8a5e96d6bb",
-    "porque": "Em Centro.",
+    "id": "f-4234c10ed3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
@@ -272,8 +277,8 @@
     "automatico": true
    },
    {
-    "id": "f-2e833de58e",
-    "porque": "Em Penha Circular.",
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    }
   ],
@@ -303,18 +308,18 @@
   ],
   "2026-12-16": [
    {
+    "id": "f-0a3f44e9ee",
+    "porque": "De graça, em Flamengo.",
+    "automatico": true
+   },
+   {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    },
    {
-    "id": "f-abe3a23c33",
-    "porque": "Em Leblon.",
-    "automatico": true
-   },
-   {
-    "id": "f-cad0eb95eb",
-    "porque": "Em Botafogo.",
+    "id": "f-3172bb4187",
+    "porque": "De graça, em Centro.",
     "automatico": true
    }
   ],
@@ -371,6 +376,11 @@
   ],
   "2026-12-20": [
    {
+    "id": "f-5aa91aa5df",
+    "porque": "Em Glória (Aterro do Flamengo).",
+    "automatico": true
+   },
+   {
     "id": "f-dcc73bca1e",
     "porque": "Em Santa Teresa.",
     "automatico": true
@@ -378,11 +388,6 @@
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
-   },
-   {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
     "automatico": true
    }
   ],

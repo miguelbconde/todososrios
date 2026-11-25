@@ -9378,6 +9378,46 @@
     },
     {
      "data": "2026-12-05",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "R$ 60 a R$ 250",
+   "preco_min": 60,
+   "preco_max": 250,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "OSB: Especial Harry Potter",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cidade das Artes",
+   "endereco": "Av. das Américas, 5.300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "A Orquestra Sinfônica Brasileira, regida por Matheus Carneiro, toca trilhas de John Williams e Nicholas Hooper para os filmes de Harry Potter e \"O aprendiz de feiticeiro\", de Dukas.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-04",
+   "trecho_fonte": "2026-12-04 20:00 | Orquestra Sinfônica Brasileira | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 60 a R$ 250. [...] programa segundo a revista: Música de cinema. Especial Harry Potter. Matheus Carneiro – regente. Programa: Paul Dukas – O aprendiz de feiticeiro; John Williams – Harry Potter e a pedra filosofal, Harry Potter e a câmara secreta, Harry Potter e o pris || 2026-12-05 17:00 | Orquestra Sinfônica Brasileira | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 60 a R$ 250.",
+   "id": "f-7a0973d18a",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Brazilian Symphony Orchestra, conducted by Matheus Carneiro, plays John Williams' and Nicholas Hooper's scores for the Harry Potter films and Dukas' \"The Sorcerer's Apprentice\".",
+   "sinopse_es": "La Orquesta Sinfónica Brasileña, dirigida por Matheus Carneiro, toca las bandas sonoras de John Williams y Nicholas Hooper para las películas de Harry Potter y \"El aprendiz de brujo\", de Dukas.",
+   "faixa": "acima80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
      "hora": "20:00"
     },
     {
@@ -9663,6 +9703,42 @@
    "sinopse_en": "Elvis Presley tribute by the Burning Love Band in the Sábado Especial series at Centro da Música Carioca, in Tijuca.",
    "sinopse_es": "Tributo a Elvis Presley con la Burning Love Band en la serie Sábado Especial del Centro da Música Carioca, en Tijuca.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Oratório de Natal – Associação de Canto Coral (Tijuca)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Igreja Batista Itacuruçá",
+   "endereco": "Praça Barão de Corumbá, 49",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Coro e orquestra da Associação de Canto Coral cantam as três primeiras cantatas do Oratório de Natal de Bach, nos 85 anos do grupo, regidos por Jésus Figueiredo. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-05",
+   "trecho_fonte": "2026-12-05 18:00 | Coro e Orquestra Sinfônica da Associação Canto Coral | Igreja Batista Itacuruçá — Praça Barão de Corumbá, 49 - Tijuca - Tel. (21) 3344-9700. | ingressos: Entrada franca. [...] programa segundo a revista: Oratório de Natal. Comemoração dos 85 anos da Associação de Canto Coral e dos 60 anos da primeira audição da obra apresentada pela ACC. Jésus Figueiredo – regente. Luiza Lima – soprano, Helena Lopes – mezzo soprano, Marcus Gerhard – tenor, Cícero Pires – baixo e Estevão Santos – órgão. Programa: Bach – Cantatas nº 1, nº 2 e nº 3.",
+   "id": "f-f0430fb0f8",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Associação de Canto Coral choir and orchestra sing the first three cantatas of Bach's Christmas Oratorio, marking the group's 85 years, conducted by Jésus Figueiredo. Free admission.",
+   "sinopse_es": "El coro y la orquesta de la Associação de Canto Coral cantan las tres primeras cantatas del Oratorio de Navidad de Bach, en los 85 años del grupo, dirigidos por Jésus Figueiredo. Entrada libre.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -10069,6 +10145,42 @@
      "hora": "17:00"
     }
    ],
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cidade das Artes",
+   "endereco": "Av. das Américas, 5.300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Os coros Intercantus, Tu Voz, Mi Voz, Prelúdio e Península cantam \"Canta Navidad\", de Jean Kleeb, com regência de Miguel Torres e piano de María Gabriela Chacón, no Teatro de Câmara da Cidade das Artes.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-06",
+   "trecho_fonte": "2026-12-06 17:00 | Coro Intercantus, Coro Tu Voz, Mi Voz, Prelúdio e Coro Península | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 40. [...] programa segundo a revista: Canta Navidad. Comemoração dos 85 anos da Associação de Canto Coral. Miguel Torres – regente. María Gabriela Chacón – piano. Programa: Jean Kleeb – Canta Navidad. Teatro de Câmara.",
+   "id": "f-181efa9e0b",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Intercantus, Tu Voz, Mi Voz, Prelúdio and Península choirs sing Jean Kleeb's \"Canta Navidad\", conducted by Miguel Torres with María Gabriela Chacón on piano, at the Teatro de Câmara of Cidade das Artes.",
+   "sinopse_es": "Los coros Intercantus, Tu Voz, Mi Voz, Prelúdio y Península cantan \"Canta Navidad\", de Jean Kleeb, con dirección de Miguel Torres y piano de María Gabriela Chacón, en el Teatro de Câmara de la Cidade das Artes.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -10430,6 +10542,114 @@
    "sessoes": [
     {
      "data": "2026-12-09",
+     "hora": "12:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Luiz Bomfim e Regina Lacerda – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O barítono Luiz Bomfim e a pianista Regina Lacerda apresentam \"É tempo de Natal\" no CCBB, na hora do almoço. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-09",
+   "trecho_fonte": "2026-12-09 12:30 | Luiz Bomfim – barítono e Regina Lacerda – piano | Centro Cultural Banco do Brasil (155 lugares) — Rua Primeiro de Março, 66 – Centro – Tel. (21) 3808-2020 - – https://ccbb.com.br/rio-de-janeiro/ | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Programa: É tempo de Natal.",
+   "id": "f-171c810416",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Baritone Luiz Bomfim and pianist Regina Lacerda present \"É tempo de Natal\" at CCBB, at lunchtime. Free admission.",
+   "sinopse_es": "El barítono Luiz Bomfim y la pianista Regina Lacerda presentan \"É tempo de Natal\" en el CCBB, a la hora del almuerzo. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Corais infantis da UFRJ – Concerto de Natal na Candelária",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Igreja da Candelária",
+   "endereco": "Praça Pio X, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Pré-Coral, o Coral Infantil e o Coral Infantojuvenil da UFRJ fazem um concerto de Natal na Igreja da Candelária. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-09",
+   "trecho_fonte": "2026-12-09 18:00 | Pré-Coral UFRJ, Coral Infantil da UFRJ e Coral Infantojuvenil da UFRJ | Igreja da Candelária — Praça Pio X, s/nº - Centro - Tel. (21) 2233-2324 - https://www.candelariario.org.br/ | ingressos: Entrada franca. [...] programa segundo a revista: Projeto Candelária. Concerto de Natal. Cristiane Costa, Rafaela Theodoro, Juliana Malleiro e Maria José Chevitarese – regentes.",
+   "id": "f-977ba8100d",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "UFRJ's Pre-Choir, Children's Choir and Youth Choir give a Christmas concert at the Candelária Church. Free admission.",
+   "sinopse_es": "El Pre-Coro, el Coro Infantil y el Coro Infantojuvenil de la UFRJ ofrecen un concierto de Navidad en la Iglesia de la Candelária. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Quarteto de Cordas da UFF",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Abu",
+   "endereco": "Avenida Nossa Senhora de Copacabana, 249, loja E",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O Quarteto de Cordas da UFF toca Mendelssohn, Villa-Lobos e Dvorák no Espaço Abu, em Copacabana.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-09",
+   "trecho_fonte": "2026-12-09 19:00 | Quarteto de Cordas da UFF | Espaço Abu — Av. Nossa Senhora de Copacabana, 249 – Tel. (21) 2137-4182 https://www.espacoabu.com/ | ingressos: R$ 30.",
+   "id": "f-c53c5e7cdf",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The UFF String Quartet plays Mendelssohn, Villa-Lobos and Dvorák at Espaço Abu, in Copacabana.",
+   "sinopse_es": "El Cuarteto de Cuerdas de la UFF toca Mendelssohn, Villa-Lobos y Dvorák en el Espacio Abu, en Copacabana.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
      "hora": "20:00"
     }
    ],
@@ -10459,6 +10679,42 @@
    "sinopse_en": "The grand final of Dragstar's 14th season at Teatro Rival.",
    "sinopse_es": "Gran final de la 14ª temporada de Dragstar en el Teatro Rival.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "12:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cláudio Vettori e convidados – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu da Justiça – Centro Cultural do Poder Judiciário",
+   "endereco": "Rua Dom Manuel, 29",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O pianista Cláudio Vettori recebe convidados no Museu da Justiça, no Centro, na série de concertos de Natal do Música no Museu. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-10",
+   "trecho_fonte": "2026-12-10 12:30 | Cláudio Vettori - piano e convidados | Museu da Justiça – Centro Cultural do Poder Judiciário (100 lugares) — Rua Dom Manuel, 29 - Centro - Tel. (21) 3133-3368 - http://ccmj.tjrj.jus.br/. | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Else Vergara - produção.",
+   "id": "f-c10bff36d2",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Pianist Cláudio Vettori welcomes guests at the Museu da Justiça, downtown, in the Música no Museu Christmas concert series. Free admission.",
+   "sinopse_es": "El pianista Cláudio Vettori recibe invitados en el Museo de la Justicia, en el Centro, en la serie de conciertos de Navidad de Música no Museu. Entrada libre.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -10591,6 +10847,42 @@
    "sinopse_en": "A showcase of short scenes at the city's Centro Coreográfico, in Tijuca.",
    "sinopse_es": "Muestra de escenas cortas en el Centro Coreográfico de la ciudad, en Tijuca.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Andrea Saffirio – piano",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
+   "endereco": "Avenida Presidente Antônio Carlos, 40",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O pianista Andrea Saffirio vai do jazz à música contemporânea num recital no Instituto Italiano de Cultura. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-10",
+   "trecho_fonte": "2026-12-10 19:00 | Andrea Saffirio - piano | Instituto Italiano de Cultura — Av Pres Antônio Carlos, 40 - Centro - Tel. (21) 2220-8500 - https://iicrio.esteri.it/br/ | ingressos: Entrada franca.",
+   "id": "f-e4eea0a5c5",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Pianist Andrea Saffirio ranges from jazz to contemporary music in a recital at the Italian Cultural Institute. Free admission.",
+   "sinopse_es": "El pianista Andrea Saffirio va del jazz a la música contemporánea en un recital en el Instituto Italiano de Cultura. Entrada libre.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -10951,6 +11243,42 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "Jade Vitóriah presents \"A Cor da Minha Voz\" in the Sexta Plural series at Centro da Música Carioca, in Tijuca.",
    "sinopse_es": "Jade Vitóriah presenta \"A Cor da Minha Voz\" en la serie Sexta Plural del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Orquestra Sinfônica da UFRJ, Coral Brasil Ensemble e coro da Escola de Música da UFRJ, regidos por André Cardoso, tocam pastorais de Natal de Heinichen e Schiassi e as Vésperas Solenes de Mozart, com quatro solistas.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-11",
+   "trecho_fonte": "2026-12-11 19:00 | Orquestra Sinfônica da UFRJ, Coral Brasil Ensemble e Classe de Canto Coral da Escola de Música da UFRJ | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Série Orquestras. André Cardoso – regente. Maria José Chevitarese e Juliana Melleiro Rheinboldt – regentes dos coros. Lígia Ishitani – soprano, Esther Santiago – mezzo soprano, Guilherme Moreira – tenor e Inácio de Nonno – barítono. Programa: Heinichen – Pastorale per la notte di natale; Gaetano Maria Schiassi – Sinfonia Pastorale per il santissimo natale nº 12 op. 1; Mozart – Vesperae Solemnes de Confessore K 339; e E",
+   "id": "f-7732c10a1e",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "UFRJ's Symphony Orchestra, Coral Brasil Ensemble and the UFRJ School of Music choir, conducted by André Cardoso, play Christmas pastorals by Heinichen and Schiassi and Mozart's Vesperae Solemnes, with four soloists.",
+   "sinopse_es": "La Orquesta Sinfónica de la UFRJ, el Coral Brasil Ensemble y el coro de la Escuela de Música de la UFRJ, dirigidos por André Cardoso, tocan pastorales navideñas de Heinichen y Schiassi y las Vísperas Solemnes de Mozart, con cuatro solistas.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -11384,6 +11712,42 @@
     {
      "data": "2026-12-12",
      "hora": "17:00"
+    }
+   ],
+   "preco_texto": "R$ 10",
+   "preco_min": 10,
+   "preco_max": 10,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Furiosa Portátil – Festival Radamés Gnattali 120 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A Orquestra Furiosa Portátil, regida por Pedro Aragão, toca peças de Radamés Gnattali, como \"Papo de anjo\" e \"Remexendo\", no festival dos 120 anos do compositor.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-12",
+   "trecho_fonte": "2026-12-12 17:00 | Orquestra Furiosa Portátil | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: R$ 10. [...] programa segundo a revista: Festival Radamés Gnattali – 120 anos. Pedro Aragão – regente. Programa: Radamés Gnattali – Papo de anjo, Sempre a sonhar, Alma brasileira, Tristonho, Caçador de borboletas, Choro sofisticado, Bate papo, Caminho da saudade,",
+   "id": "f-d5ae982323",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Orquestra Furiosa Portátil, conducted by Pedro Aragão, plays pieces by Radamés Gnattali, such as \"Papo de anjo\" and \"Remexendo\", at the festival for the composer's 120th anniversary.",
+   "sinopse_es": "La Orquestra Furiosa Portátil, dirigida por Pedro Aragão, toca piezas de Radamés Gnattali, como \"Papo de anjo\" y \"Remexendo\", en el festival de los 120 años del compositor.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "17:00"
     },
     {
      "data": "2027-01-23",
@@ -11456,6 +11820,42 @@
    "sinopse_en": "A string quartet plays 1980s rock anthems in a candlelit space at Museu do Amanhã. It is a tribute concert, with no ties to the artists.",
    "sinopse_es": "Un cuarteto de cuerdas toca himnos del rock de los años 80 en un espacio iluminado por velas, en el Museu do Amanhã. Es un concierto tributo, sin vínculo con los artistas.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Canta Navidad – Coro Intercantus e convidados (Tijuca)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Paróquia dos Sagrados Corações",
+   "endereco": "Rua Conde de Bonfim, 474",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Os coros Intercantus, Tu Voz, Mi Voz, Prelúdio e Península cantam \"Canta Navidad\", de Jean Kleeb, na Paróquia dos Sagrados Corações, na Tijuca, nos 85 anos da Associação de Canto Coral. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-12",
+   "trecho_fonte": "2026-12-12 19:00 | Coro Intercantus, Coro Tu Voz, Mi Voz, Prelúdio e Coro Península | Paróquia dos Sagrados Corações — Rua Conde de Bonfim, 474 – Tijuca – Tel. (21) 3439-2394 – https://www.patrimoniohistoricoarqrio.org/product-page/igreja-sagrados-corações | ingressos: Entrada franca. [...] programa segundo a revista: Canta Navidad. Comemoração dos 85 anos da Associação de Canto Coral. Miguel Torres – regente. María Gabriela Chacón – piano. Programa: Jean Kleeb – Canta Navidad.",
+   "id": "f-07e33c6932",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Intercantus, Tu Voz, Mi Voz, Prelúdio and Península choirs sing Jean Kleeb's \"Canta Navidad\" at the Sagrados Corações parish in Tijuca, marking the Associação de Canto Coral's 85 years. Free admission.",
+   "sinopse_es": "Los coros Intercantus, Tu Voz, Mi Voz, Prelúdio y Península cantan \"Canta Navidad\", de Jean Kleeb, en la Parroquia de los Sagrados Corazones, en Tijuca, en los 85 años de la Associação de Canto Coral. Entrada libre.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -11643,6 +12043,42 @@
    "sessoes": [
     {
      "data": "2026-12-13",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sala Cecília Meireles",
+   "endereco": "Largo da Lapa, 47",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Regida por Felipe Prazeres, a orquestra toca dois concertos de Radamés Gnattali, para violino e para piano, com Fábio Peixoto e Luís Rabello, e a Sinfonia nº 40 de Mozart.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-13",
+   "trecho_fonte": "2026-12-13 11:00 | Orquestra Petrobras Sinfônica | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Festival Radamés Gnattali – 120 anos. Felipe Prazeres – regente. Fábio Peixoto – violino e Luís Rabello – piano. Programa: Radamés Gnattali – Concerto para violino e orquestra de cordas e Concerto para piano e orquestra nº 2; e Mozart – Sinfonia nº 40.",
+   "id": "f-f7f4acada2",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Conducted by Felipe Prazeres, the orchestra plays two concertos by Radamés Gnattali, for violin and for piano, with Fábio Peixoto and Luís Rabello, and Mozart's Symphony No. 40.",
+   "sinopse_es": "Dirigida por Felipe Prazeres, la orquesta toca dos conciertos de Radamés Gnattali, para violín y para piano, con Fábio Peixoto y Luís Rabello, y la Sinfonía n.º 40 de Mozart.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
      "hora": "15:00"
     }
    ],
@@ -11672,6 +12108,42 @@
    "sinopse_en": "Canela de Velho performs at Espaço Cultural Tia Doca, in Madureira, from 3 to 11 pm.",
    "sinopse_es": "Canela de Velho se presenta en el Espaço Cultural Tia Doca, en Madureira, de 15 a 23 h.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Oratório de Natal – Associação de Canto Coral (Cidade das Artes)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cidade das Artes",
+   "endereco": "Av. das Américas, 5.300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Coro e orquestra da Associação de Canto Coral cantam o Oratório de Natal de Bach na Cidade das Artes, nos 85 anos do grupo e 60 anos da primeira vez que o apresentaram.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-13",
+   "trecho_fonte": "2026-12-13 17:00 | Coro e Orquestra Sinfônica da Associação de Canto Coral | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 40. [...] programa segundo a revista: Oratório de Natal. Comemoração dos 85 anos da Associação de Canto Coral e dos 60 anos da primeira audição da obra apresentada pela ACC. Jésus Figueiredo – regente. Luiza Lima – soprano, Helena Lopes – mezzo soprano, Marcus",
+   "id": "f-4234c10ed3",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Associação de Canto Coral choir and orchestra sing Bach's Christmas Oratorio at Cidade das Artes, marking the group's 85 years and 60 years since they first performed it.",
+   "sinopse_es": "El coro y la orquesta de la Associação de Canto Coral cantan el Oratorio de Navidad de Bach en la Cidade das Artes, en los 85 años del grupo y 60 años desde que lo presentaron por primera vez.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -11822,6 +12294,150 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-16",
+     "hora": "12:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Corais do Novo Leblon e Olé Ola – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Os Corais do Novo Leblon e Olé Ola, regidos por Edu Feijó, cantam música brasileira e clássicos de Natal no CCBB, na hora do almoço. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-16",
+   "trecho_fonte": "2026-12-16 12:30 | Corais do Novo Leblon e Olé Ola | Centro Cultural Banco do Brasil (155 lugares) — Rua Primeiro de Março, 66 – Centro – Tel. (21) 3808-2020 - – https://ccbb.com.br/rio-de-janeiro/ | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Edu Feijó – regente. Programa: músicas brasileiras e clássicos do Natal.",
+   "id": "f-3172bb4187",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Novo Leblon and Olé Ola choirs, conducted by Edu Feijó, sing Brazilian music and Christmas classics at CCBB, at lunchtime. Free admission.",
+   "sinopse_es": "Los coros del Novo Leblon y Olé Ola, dirigidos por Edu Feijó, cantan música brasileña y clásicos navideños en el CCBB, a la hora del almuerzo. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-16",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Música Antiga da UFF",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Paróquia Santíssima Trindade",
+   "endereco": "Rua Senador Vergueiro, 141",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "O grupo de Música Antiga da UFF se apresenta na Paróquia Santíssima Trindade, no Flamengo. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-16",
+   "trecho_fonte": "2026-12-16 19:30 | Música Antiga da UFF | Paróquia Santíssima Trindade — Rua Senador Vergueiro, 141 - Flamengo - Tel. (21) 2553-3114 - https://www.sstrindade.com/ | ingressos: Entrada franca.",
+   "id": "f-0a3f44e9ee",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "UFF's early music group performs at the Santíssima Trindade parish in Flamengo. Free admission.",
+   "sinopse_es": "El grupo de Música Antigua de la UFF se presenta en la Parroquia Santísima Trinidad, en Flamengo. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Coral Abstrassom – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco, 241",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Coral Abstrassom, regido por Lucas Lindemayer Fernandes, canta no Centro Cultural da Justiça Federal, na série de Natal do Música no Museu. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-17",
+   "trecho_fonte": "2026-12-17 18:00 | Coral Abstrassom | Centro Cultural Justiça Federal (142 lugares) — Av. Rio Branco, 241 - Centro - Tel. (21) 3212-2550 - https://www10.trf2.jus.br. | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Lucas Lindemayer Fernandes – regente.",
+   "id": "f-195941797c",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Coral Abstrassom, conducted by Lucas Lindemayer Fernandes, sings at the Centro Cultural da Justiça Federal, in the Música no Museu Christmas series. Free admission.",
+   "sinopse_es": "El Coral Abstrassom, dirigido por Lucas Lindemayer Fernandes, canta en el Centro Cultural de la Justicia Federal, en la serie navideña de Música no Museu. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Igreja de São Francisco de Paula",
+   "endereco": "Largo de São Francisco de Paula, s/nº",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Orquestra Sinfônica da UFRJ, Coral Brasil Ensemble e coro da Escola de Música da UFRJ tocam pastorais de Natal de Heinichen e Schiassi e as Vésperas Solenes de Mozart na Igreja de São Francisco de Paula. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-17",
+   "trecho_fonte": "2026-12-17 18:00 | Orquestra Sinfônica da UFRJ, Coral Brasil Ensemble e Classe de Canto Coral da Escola de Música da UFRJ | Igreja de São Francisco de Paula — Largo de São Francisco de Paula, s/nº - Centro - Tel. (21) 2493-8973 | ingressos: Entrada franca. [...] programa segundo a revista: Série Orquestras. André Cardoso – regente. Maria José Chevitarese e Juliana Melleiro Rheinboldt – regentes dos coros. Lígia Ishitani – soprano, Esther Santiago – mezzo soprano, Guilherme Moreira – tenor e Inácio de Nonno – barítono. Programa: Heinichen – Pastorale per la notte di natale; Gaetano Maria Schiassi – Sinfonia Pastorale per il santissimo natale nº 12 op. 1; Mozart – Vesperae Solemnes de Confessore K 339; e E",
+   "id": "f-8193aa7749",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "UFRJ's Symphony Orchestra, Coral Brasil Ensemble and the UFRJ School of Music choir play Christmas pastorals by Heinichen and Schiassi and Mozart's Vesperae Solemnes at the São Francisco de Paula Church. Free admission.",
+   "sinopse_es": "La Orquesta Sinfónica de la UFRJ, el Coral Brasil Ensemble y el coro de la Escuela de Música de la UFRJ tocan pastorales navideñas de Heinichen y Schiassi y las Vísperas Solemnes de Mozart en la Iglesia de São Francisco de Paula. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-17",
      "hora": "19:00"
     }
@@ -11888,6 +12504,46 @@
    "sinopse_en": "Vidal Assis performs the show \"Emílio Santiago – 80 anos\", with guests Theo Bial and Antônio Baldini.",
    "sinopse_es": "Vidal Assis presenta el show \"Emílio Santiago – 80 anos\", con participaciones de Theo Bial y Antônio Baldini.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "OSB e OSB Jovem: encerramento da temporada",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Cidade das Artes",
+   "endereco": "Av. das Américas, 5.300",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "A Sinfônica Brasileira e a OSB Jovem, regidas por Marcelo Lehninger, fecham a temporada com Brahms, a \"Brasiliana nº 3\" de Radamés Gnattali e a suíte de \"O cavaleiro da rosa\", de Strauss.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-17",
+   "trecho_fonte": "2026-12-17 20:00 | Orquestra Sinfônica Brasileira | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 30 a R$ 60. [...] programa segundo a revista: Série Mundo – Alemanha. Integração OSB e OSB Jovem. Encerramento da temporada. Marcelo Lehninger – regente. Programa: Brahms – Abertura Festival Acadêmico op. 80; Radamés Gnattali – Brasiliana nº 3; e R. Strauss – O cavaleiro da rosa: Suíte. || 2026-12-18 20:00 | Orquestra Sinfônica Brasileira | Cidade das Artes Grande Sala (1238 lugares) e Teatro de Câmara (439 lugares) — Av. das Américas, 5300 – Barra da Tijuca – Tel. (21) 3325-0102. Ingressos: Tel. (21) 4003-2051 – https://www.sympla.com.br/ - http://cidadedasartes.rio.rj.gov.br/. | ingressos: R$ 30 a R$ 60.",
+   "id": "f-f043ec01d6",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "The Brazilian Symphony and OSB Jovem, conducted by Marcelo Lehninger, close the season with Brahms, Radamés Gnattali's \"Brasiliana No. 3\" and the suite from Strauss' \"Der Rosenkavalier\".",
+   "sinopse_es": "La Sinfónica Brasileña y la OSB Jovem, dirigidas por Marcelo Lehninger, cierran la temporada con Brahms, la \"Brasiliana n.º 3\" de Radamés Gnattali y la suite de \"El caballero de la rosa\", de Strauss.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -12197,6 +12853,79 @@
    "sinopse_en": "Ranther Melo presents \"Vem Que Tá Maneirinho\" at the Lona Cultural in Campo Grande.",
    "sinopse_es": "Ranther Melo presenta \"Vem Que Tá Maneirinho\" en la Lona Cultural de Campo Grande.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "12:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Trio Laetare – Concertos de Natal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Igreja de Nossa Senhora da Glória do Outeiro",
+   "endereco": "Praça Nossa Senhora da Glória, 135",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Oboé, violino e violão tocam músicas natalinas na Igreja da Glória do Outeiro, no encerramento da temporada do Música no Museu. Entrada franca.",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-20",
+   "trecho_fonte": "2026-12-20 12:30 | Trio Laetare | Igreja Nossa Senhora da Glória do Outeiro — Praça Nossa Senhora da Glória, 135/204 - Glória - Tel. (21) 2557-4600 (120 lugares) | ingressos: Entrada franca. [...] programa segundo a revista: Música no Museu. Grandes concertos de Natal. Encerramento da temporada. Pierre Jatobá – oboé, corne inglês e flautas, Rafael Araújo – violino e Gabriel Lucena – violão. Programa: músicas natalinas.",
+   "id": "f-7e2637ca79",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "Oboe, violin and guitar play Christmas music at the Glória do Outeiro Church, closing the Música no Museu season. Free admission.",
+   "sinopse_es": "Oboe, violín y guitarra tocan música navideña en la Iglesia de la Glória do Outeiro, en el cierre de la temporada de Música no Museu. Entrada libre.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "R$ 99 a R$ 330",
+   "preco_min": 99,
+   "preco_max": 330,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita",
+   "areas": [
+    "Música",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Vivo Rio",
+   "endereco": "Av. Infante Dom Henrique, 85",
+   "bairro": "Glória (Aterro do Flamengo)",
+   "regiao": "Zona Sul",
+   "sinopse": "Concerto para crianças em que a Petrobras Sinfônica toca clássicos de Natal e sucessos do Mundo Bita, com o lançamento do álbum \"Natal do Bita\".",
+   "fonte": "Revista CONCERTO (roteiro)",
+   "link": "https://www.concerto.com.br/roteiros/2026-12-20",
+   "trecho_fonte": "2026-12-20 15:00 | Orquestra Petrobras Sinfônica e Mundo Bita | Vivo Rio (2000 lugares) — Av. Infante Dom Henrique, 85 – Parque do Flamengo – Tel. (21) 2272-2901 – https://vivorio.com.br/ | ingressos: R$ 99 a R$ 330. Vendas: https://petrobrasinfonica.com.br/ e https://www.ticket360.com.br/. [...] programa segundo a revista: Série de Concertos infantis. Natal do Bita. Felipe Prazeres – regente. Participação: Chaps. Programa: clássicos natalinos e sucessos do Mundo Bita. Lançamento do álbum “Natal do Bita”.",
+   "id": "f-5aa91aa5df",
+   "entrou_em": "2026-11-25",
+   "sinopse_en": "A children's concert in which the Petrobras Symphony plays Christmas classics and Mundo Bita hits, launching the album \"Natal do Bita\".",
+   "sinopse_es": "Concierto para niños en el que la Petrobras Sinfónica toca clásicos navideños y éxitos de Mundo Bita, con el lanzamiento del álbum \"Natal do Bita\".",
+   "faixa": "acima80",
    "status": "conferido"
   },
   {
