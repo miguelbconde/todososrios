@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-24 12:55 UTC",
- "segundos": 182,
+ "feito_em": "2026-11-25 06:01 UTC",
+ "segundos": 196,
  "fontes": [
   {
    "ids": [
@@ -48,7 +48,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 34643,
+   "caracteres": 34602,
    "url_final": "https://academia.org.br/eventos",
    "paginas": [
     "https://academia.org.br/eventos",
@@ -109,20 +109,18 @@
    ],
    "degraus": [
     "feed (10 itens)",
-    "texto de 7 página(s)"
+    "texto de 5 página(s)"
    ],
-   "caracteres": 40970,
+   "caracteres": 31069,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
-    "https://cultura.rj.gov.br/biblioteca-parque-estadual-inaugura-exposicao-inspirada-no-universo-da-turma-da-monica/",
     "https://cultura.rj.gov.br/da-producao-de-espetaculos-a-comunicacao-conheca-profissoes-que-movimentam-a-economia-criativa/",
     "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
-    "https://cultura.rj.gov.br/biblioteca-parque-estadual-inaugura-exposicao-inspirada-no-universo-da-turma-da-monica/",
     "https://cultura.rj.gov.br/da-producao-de-espetaculos-a-comunicacao-conheca-profissoes-que-movimentam-a-economia-criativa/",
     "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/"
    ],
-   "mencoes_de_data": 31,
+   "mencoes_de_data": 17,
    "situacao": "coletada",
    "arquivo": "F013.txt"
   },
@@ -160,7 +158,7 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9914,
+   "caracteres": 9302,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
@@ -195,7 +193,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 37839,
+   "caracteres": 37714,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
@@ -211,7 +209,7 @@
     "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
     "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/"
    ],
-   "mencoes_de_data": 319,
+   "mencoes_de_data": 322,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -229,7 +227,7 @@
     "feed (15 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 71567,
+   "caracteres": 71553,
    "url_final": "https://www.correios.com.br/",
    "paginas": [
     "https://www.correios.com.br/",
@@ -246,7 +244,7 @@
     "https://www.correios.com.br/enviar/precisa-de-ajuda/guia-de-enderecamento/guia-de-enderecamento",
     "https://www.correios.com.br/enviar/precisa-de-ajuda/correios-de-a-a-z"
    ],
-   "mencoes_de_data": 37,
+   "mencoes_de_data": 36,
    "situacao": "coletada",
    "arquivo": "F020.txt"
   },
@@ -321,7 +319,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 36224,
+   "caracteres": 35995,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -403,7 +401,7 @@
     "feed (3 itens)",
     "texto de 1 página(s)"
    ],
-   "caracteres": 5539,
+   "caracteres": 2039,
    "url_final": "https://www.d-edge.com.br/",
    "paginas": [
     "https://www.d-edge.com.br/"
@@ -437,7 +435,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 26492,
+   "caracteres": 26519,
    "url_final": "https://fundicaoprogresso.com.br",
    "paginas": [
     "https://fundicaoprogresso.com.br",
@@ -507,7 +505,7 @@
     "feed (10 itens)",
     "texto de 4 página(s)"
    ],
-   "caracteres": 11775,
+   "caracteres": 11850,
    "url_final": "https://mhn.museus.gov.br",
    "paginas": [
     "https://mhn.museus.gov.br",
@@ -598,7 +596,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 27612,
+   "caracteres": 27538,
    "url_final": "https://salaceciliameireles.rj.gov.br",
    "paginas": [
     "https://salaceciliameireles.rj.gov.br",
@@ -671,22 +669,9 @@
    "regioes": [
     "Centro"
    ],
-   "degraus": [
-    "texto de 6 página(s)"
-   ],
-   "caracteres": 8238,
-   "url_final": "https://teatrorivalrefit.com.br",
-   "paginas": [
-    "https://teatrorivalrefit.com.br",
-    "https://teatrorivalrefit.com.br/eventos/",
-    "https://teatrorivalrefit.com.br/",
-    "https://teatrorivalrefit.com.br/page/2/",
-    "https://teatrorivalrefit.com.br/page/3/",
-    "https://teatrorivalrefit.com.br/page/60/"
-   ],
-   "mencoes_de_data": 43,
-   "situacao": "coletada",
-   "arquivo": "F062.txt"
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 522)"
   },
   {
    "ids": [
@@ -804,7 +789,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 6651,
+   "caracteres": 6420,
    "url_final": "https://becodasgarrafas.com.br",
    "paginas": [
     "https://becodasgarrafas.com.br",
@@ -849,7 +834,7 @@
    "degraus": [
     "texto de 9 página(s)"
    ],
-   "caracteres": 35731,
+   "caracteres": 35754,
    "url_final": "https://fdag.com.br",
    "paginas": [
     "https://fdag.com.br",
@@ -901,7 +886,7 @@
    "degraus": [
     "texto de 13 página(s)"
    ],
-   "caracteres": 97771,
+   "caracteres": 98108,
    "url_final": "https://casafirjan.com.br/",
    "paginas": [
     "https://casafirjan.com.br/",
@@ -918,7 +903,7 @@
     "https://casafirjan.com.br/palestras-debates-entrevistas/podcasts",
     "https://casafirjan.com.br/palestras-debates-e-entrevistas/podcast/lab-de-tendencias"
    ],
-   "mencoes_de_data": 81,
+   "mencoes_de_data": 80,
    "situacao": "coletada",
    "arquivo": "F074.txt"
   },
@@ -1020,14 +1005,14 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 28085,
+   "caracteres": 27737,
    "url_final": "https://danielian.com.br",
    "paginas": [
     "https://danielian.com.br",
     "https://danielian.com.br/menu-expo"
    ],
-   "mencoes_de_data": 0,
-   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "mencoes_de_data": 40,
+   "situacao": "coletada",
    "arquivo": "F082.txt"
   },
   {
@@ -1074,14 +1059,14 @@
    "degraus": [
     "texto de 3 página(s)"
    ],
-   "caracteres": 10820,
+   "caracteres": 13675,
    "url_final": "https://ecovillarihappy.com.br",
    "paginas": [
     "https://ecovillarihappy.com.br",
     "https://ecovillarihappy.com.br/programacao/",
     "https://ecovillarihappy.com.br/realize-seu-evento/"
    ],
-   "mencoes_de_data": 47,
+   "mencoes_de_data": 53,
    "situacao": "coletada",
    "arquivo": "F084.txt"
   },
@@ -1179,7 +1164,7 @@
     "feed (7 itens)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 32084,
+   "caracteres": 33936,
    "url_final": "https://grupoestacao.com.br",
    "paginas": [
     "https://grupoestacao.com.br",
@@ -1197,7 +1182,7 @@
     "https://grupoestacao.com.br/filme/fogareu/",
     "https://grupoestacao.com.br/filme/josephine-fragmentos-de-um-crime/"
    ],
-   "mencoes_de_data": 86,
+   "mencoes_de_data": 107,
    "situacao": "coletada",
    "arquivo": "F091.txt"
   },
@@ -1212,10 +1197,10 @@
    ],
    "degraus": [
     "feed (5 itens)",
-    "calendário WordPress (33 eventos)",
+    "calendário WordPress (30 eventos)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 69825,
+   "caracteres": 69375,
    "url_final": "https://ims.com.br",
    "paginas": [
     "https://ims.com.br",
@@ -1275,7 +1260,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 9250,
+   "caracteres": 9760,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1543,7 +1528,7 @@
    "degraus": [
     "texto de 4 página(s)"
    ],
-   "caracteres": 1675,
+   "caracteres": 1780,
    "url_final": "https://silviacintra.com.br",
    "paginas": [
     "https://silviacintra.com.br",
@@ -1580,7 +1565,7 @@
    "degraus": [
     "texto de 8 página(s)"
    ],
-   "caracteres": 34510,
+   "caracteres": 34499,
    "url_final": "https://www.teatroaxiacasagrande.com.br/",
    "paginas": [
     "https://www.teatroaxiacasagrande.com.br/",
@@ -1609,7 +1594,7 @@
     "dados estruturados (21 eventos)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 42805,
+   "caracteres": 42811,
    "url_final": "https://teatrodasartes.com.br",
    "paginas": [
     "https://teatrodasartes.com.br",
@@ -1770,7 +1755,7 @@
    "degraus": [
     "texto de 5 página(s)"
    ],
-   "caracteres": 25857,
+   "caracteres": 25988,
    "url_final": "https://farmasiarena.com.br",
    "paginas": [
     "https://farmasiarena.com.br",
@@ -1779,7 +1764,7 @@
     "https://farmasiarena.com.br/eventos-esportivos/",
     "https://farmasiarena.com.br/proximos-eventos/"
    ],
-   "mencoes_de_data": 9,
+   "mencoes_de_data": 12,
    "situacao": "coletada",
    "arquivo": "F134.txt"
   },
@@ -1824,7 +1809,7 @@
     "feed (10 itens)",
     "texto de 13 página(s)"
    ],
-   "caracteres": 18719,
+   "caracteres": 18787,
    "url_final": "https://museudopontal.org.br",
    "paginas": [
     "https://museudopontal.org.br",
@@ -1837,8 +1822,8 @@
     "https://museudopontal.org.br/exposicao/jose-bezerra-e-artistas-do-vale-do-catimbau-1/",
     "https://museudopontal.org.br/exposicao/jacques-100-anos/",
     "https://museudopontal.org.br/exposicao/novos-ares-pontal-reinventado/",
-    "https://museudopontal.org.br/programacao/oficina-batik-experimental-22-nov/",
-    "https://museudopontal.org.br/programacao/dancas-populares-mocambique-21nov/",
+    "https://museudopontal.org.br/programacao/contos-de-principe-29-nov/",
+    "https://museudopontal.org.br/programacao/raizes-que-pulsam-28-novembro-16h/",
     "https://museudopontal.org.br/eventos/novasexposicoes/"
    ],
    "mencoes_de_data": 26,
@@ -1888,20 +1873,20 @@
    "degraus": [
     "texto de 9 página(s)"
    ],
-   "caracteres": 13477,
+   "caracteres": 13092,
    "url_final": "https://teatromultiplan.com.br",
    "paginas": [
     "https://teatromultiplan.com.br",
     "https://teatromultiplan.com.br/eventos/",
     "https://teatromultiplan.com.br/programacao/",
-    "https://teatromultiplan.com.br/eventos/bluey-2026/",
     "https://teatromultiplan.com.br/eventos/mauricio-meirelles-2026/",
     "https://teatromultiplan.com.br/eventos/terapia-2026/",
     "https://teatromultiplan.com.br/eventos/o-quebra-nozes-2026/",
+    "https://teatromultiplan.com.br/eventos/percy-jackson-musical-2026/",
     "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
     "https://teatromultiplan.com.br/eventos/almost-elton-john-2027/"
    ],
-   "mencoes_de_data": 31,
+   "mencoes_de_data": 25,
    "situacao": "coletada",
    "arquivo": "F138.txt"
   },
@@ -2011,10 +1996,10 @@
     "Várias"
    ],
    "degraus": [
-    "feed (2 itens)",
+    "feed (3 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 35638,
+   "caracteres": 36453,
    "url_final": "https://forum.ufrj.br",
    "paginas": [
     "https://forum.ufrj.br",
@@ -2046,7 +2031,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63318,
+   "caracteres": 63434,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2064,7 +2049,7 @@
     "https://www.travessa.com.br/dvds/filmes",
     "https://www.travessa.com.br/dvds/show"
    ],
-   "mencoes_de_data": 59,
+   "mencoes_de_data": 60,
    "situacao": "coletada",
    "arquivo": "F189.txt"
   },
@@ -2114,7 +2099,7 @@
    "degraus": [
     "texto de 8 página(s)"
    ],
-   "caracteres": 36152,
+   "caracteres": 36242,
    "url_final": "https://www.osb.com.br/",
    "paginas": [
     "https://www.osb.com.br/",
@@ -2142,7 +2127,7 @@
    "degraus": [
     "texto de 12 página(s)"
    ],
-   "caracteres": 68855,
+   "caracteres": 68828,
    "url_final": "https://firjan.com.br/atracoes/",
    "paginas": [
     "https://firjan.com.br/atracoes/",
@@ -2182,6 +2167,39 @@
    "mencoes_de_data": 0,
    "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
    "arquivo": "F196.txt"
+  },
+  {
+   "ids": [
+    "F276"
+   ],
+   "nome": "FGV Arte",
+   "url": "https://arte.fgv.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 16909,
+   "url_final": "https://arte.fgv.br",
+   "paginas": [
+    "https://arte.fgv.br",
+    "https://arte.fgv.br/agenda",
+    "https://arte.fgv.br/visitas-mediadas",
+    "https://arte.fgv.br/agenda/exposicoes",
+    "https://arte.fgv.br/exposicoes-passadas",
+    "https://arte.fgv.br/agenda/eventos",
+    "https://arte.fgv.br/agenda/academico",
+    "https://arte.fgv.br/agenda/educativo",
+    "https://arte.fgv.br/sobre-nos/equipe",
+    "https://arte.fgv.br/exposicao/hugo-franca-max-lamb",
+    "https://arte.fgv.br/evento/afrofabulacoes-programacao-de-encerramento-de-afro-brasilidade",
+    "https://arte.fgv.br/evento/festival-infantil-criar-mundos-1a-edicao",
+    "https://arte.fgv.br/evento/visita-guiada-e-dialogo-com-thiago-martins-de-mello"
+   ],
+   "mencoes_de_data": 161,
+   "situacao": "coletada",
+   "arquivo": "F276.txt"
   }
  ]
 }

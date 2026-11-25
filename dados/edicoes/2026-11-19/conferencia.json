@@ -80,14 +80,6 @@
    "resolucao": "Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”."
   },
   {
-   "id": "2026-11-19-139",
-   "titulo": "Meninas e Mulheres na Ciência e Tecnologia: redes que abrem caminhos",
-   "campo": "sinopse",
-   "veredito": "duvida",
-   "detalhe": "A nota diz que a fonte não informa se é preciso se inscrever. Em F074 (página Atividades) há um destaque \"Ciência e Tecnologia – Conheça iniciativas que ampliam a participação feminina na ciência e na tecnologia em um encontro [...]\" seguido de \"INSCREVA-SE\"; parece ser o mesmo encontro, mas o destaque não repete o título nem a data.",
-   "resolucao": "Mantido: a fonte não liga o botão de inscrição a este encontro com clareza; a dúvida fica anotada na ficha."
-  },
-  {
    "id": "2026-11-19-135",
    "titulo": "Guardar – Coleção Marcia e Luiz Chrysostomo",
    "campo": "preco_texto",
@@ -150,22 +142,6 @@
    "veredito": "diverge",
    "detalhe": "Nome do local deduzido; a fonte dá só 'QUADRA'.",
    "resolucao": "Corrigido: local passa a 'Quadra (Avenida Brasil)'."
-  },
-  {
-   "id": "f-3c83d02223",
-   "titulo": "Jazz em dobro: Michael Jackson & Stevie Wonder",
-   "campo": "sinopse",
-   "veredito": "duvida",
-   "detalhe": "'Repertório' deduzido do título.",
-   "resolucao": "Corrigido: sinopse reescrita mais perto do título."
-  },
-  {
-   "id": "f-a4b33a2570",
-   "titulo": "Game Drag Show com Samara Rios",
-   "campo": "bairro",
-   "veredito": "duvida",
-   "detalhe": "Cinelândia não é bairro oficial.",
-   "resolucao": "Mantido: a base usa Cinelândia para o Teatro Rival."
   },
   {
    "id": "f-c6b14b6989",
@@ -254,14 +230,6 @@
    "detalhe": "A sinopse afirmava algo que a fonte não diz.",
    "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
    "id": "f-870b74aa68"
-  },
-  {
-   "titulo": "Branka",
-   "campo": "sinopse",
-   "veredito": "diverge",
-   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
-   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
-   "id": "f-5b47b5a89c"
   },
   {
    "titulo": "Samba d'Jorge, de Jorge Barbosa",

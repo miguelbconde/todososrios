@@ -1,14 +1,14 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-24 12:55 UTC, em 182 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-25 06:01 UTC, em 196 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **53**
+- coletada: **54**
 - não respondeu: **19**
-- coletada, mas sem datas à vista: **14**
-- recusou a visita: **3**
+- coletada, mas sem datas à vista: **13**
+- recusou a visita: **4**
 
 ## Fonte a fonte
 
@@ -18,7 +18,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Academia Brasileira de Letras (ABL) | coletada | texto de 12 página(s) |
 | Anita Schwartz Galeria de Arte | coletada | feed (1 itens), texto de 12 página(s) |
 | ArtRio | coletada | texto de 12 página(s) |
-| Biblioteca Parque Estadual; Bibliotecas Parque de Manguinhos e Rocinha | coletada | feed (10 itens), texto de 7 página(s) |
+| Biblioteca Parque Estadual; Bibliotecas Parque de Manguinhos e Rocinha | coletada | feed (10 itens), texto de 5 página(s) |
 | CCBB Rio | coletada | texto de 12 página(s) |
 | Carioca da Gema | coletada | feed (20 itens), texto de 2 página(s) |
 | Carpintaria (Fortes D'Aloia & Gabriel) | coletada | texto de 9 página(s) |
@@ -30,16 +30,18 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Centro Cultural Justiça Federal (CCJF) | coletada | texto de 12 página(s) |
 | Cineclube Macunaíma (ABI) | coletada | feed (10 itens), texto de 12 página(s) |
 | D-Edge Rio | coletada | feed (3 itens), texto de 1 página(s) |
+| Danielian Galeria | coletada | texto de 2 página(s) |
 | EAV Parque Lage | coletada | texto de 12 página(s) |
 | EcoVilla Ri Happy | coletada | texto de 3 página(s) |
 | Espaço Hall | coletada | feed (1 itens), texto de 2 página(s) |
+| FGV Arte | coletada | texto de 13 página(s) |
 | Farmasi Arena | coletada | texto de 5 página(s) |
 | Fundição Progresso | coletada | texto de 13 página(s) |
 | Futuros – Arte e Tecnologia (Oi Futuro) | coletada | texto de 12 página(s) |
-| Fórum de Ciência e Cultura da UFRJ | coletada | feed (2 itens), texto de 12 página(s) |
+| Fórum de Ciência e Cultura da UFRJ | coletada | feed (3 itens), texto de 12 página(s) |
 | Galeria Athena | coletada | texto de 3 página(s) |
 | Grupo Estação (Botafogo, Gávea, Rio) | coletada | feed (7 itens), texto de 14 página(s) |
-| IMS Rio (Instituto Moreira Salles) | coletada | feed (5 itens), calendário WordPress (33 eventos), texto de 14 página(s) |
+| IMS Rio (Instituto Moreira Salles) | coletada | feed (5 itens), calendário WordPress (30 eventos), texto de 14 página(s) |
 | LIESA / Rio Carnaval | coletada | feed (20 itens), texto de 2 página(s) |
 | Livraria da Travessa | coletada | texto de 14 página(s) |
 | MAM Rio (Museu de Arte Moderna) | coletada | feed (2 itens), texto de 14 página(s) |
@@ -61,7 +63,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro Multiplan | coletada | texto de 9 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
-| Teatro Rival Petrobras | coletada | texto de 6 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
 | Teatro das Artes | coletada | dados estruturados (21 eventos), texto de 13 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
@@ -73,7 +74,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Cinesystem Belas Artes Botafogo | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Circo Crescer e Viver | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 8 página(s) |
 | Circo Voador | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
-| Danielian Galeria | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 2 página(s) |
 | Festival do Rio | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
 | Galpão Bela Maré / Observatório de Favelas | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 4 página(s) |
 | Livraria Blooks | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |
@@ -103,3 +103,4 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Biblioteca Nacional | recusou a visita (código 403) |  |
 | Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |
+| Teatro Rival Petrobras | recusou a visita (código 522) |  |
