@@ -356,3 +356,19 @@ Avaliação geral da identidade e da experiência de uso, no celular e no comput
 - Seções no celular (mesmo dia, depois de teste no aparelho da coordenação): as seções saem da faixa de filtros, onde ficavam escondidas depois de "Região". Agora a primeira linha é Só grátis, Até R$ 40, Na rua e Região ▾; a segunda é As boas do mês, Em cartaz e **Seção ▾**, que abre as sete seções de uma vez. "Escolher data" saiu: não funcionava em todos os celulares.
 
 **Correção (24/11/2026).** A marca em uso no site é a versão empilhada ("TODOS OS" em Gabarito sobre "Rios." em Source Serif 4, com o ponto de sol), e não o E4 ("TODOSOSRIOS" num só fluxo) descrito na seção 4.
+
+## 8. Estudo J3: tipografia sem serifa (25/11/2026)
+
+Motivo: a coordenação editorial achou o site funcional, mas pouco contemporâneo, com ar antiquado vindo da serifa nos títulos. Referências levantadas e discutidas em `referencias-reformulacao.md` (documento do Projeto): Barbican (temperatura tipográfica), GOV.UK (estrutura e clareza), SMK Open (busca como porta de entrada). Paleta e layout não mudam.
+
+**Fontes (todas abertas, SIL OFL, embutidas no site, recorte latino do Fontsource):**
+- **Gabarito** (Naipe Foundry, origem carioca), variável, para mostrar: títulos dos eventos e das seções, "A boa de hoje", horas, dias, etiquetas, botões e rótulos. Títulos em peso 700; "A boa de hoje" em 800.
+- **Inter**, variável, para ler: lugar, sinopse e texto corrido. Escolhida em comparação com Atkinson Hyperlegible Next, Source Sans 3, Instrument Sans, Public Sans e a própria Gabarito: tem as minúsculas mais altas do grupo e lê melhor em corpo pequeno. A Gabarito é a mais bonita, mas, por ser geométrica, distingue menos as letras miúdas.
+- **Source Serif 4** fica só em dois lugares: a marca ("Rios.") e o itálico do "por que ir" e da epígrafe. A serifa passa a ter função própria: marca e voz da redação. O itálico da Inter foi testado (Estudo J1) e soou mecânico.
+- Saíram do site os cortes da Source Serif que deixaram de ser usados (regular e itálico 600).
+
+**Busca com exemplos.** Sob o campo de busca, "Experimente: samba · Madureira · choro" (também em inglês e espanhol), em links que preenchem a busca. Ideia tirada do SMK Open, sem esvaziar a página inicial.
+
+**Prévias e programa.** `ferramentas/estudo_j.py` gera `docs/estudo-j1` (Gabarito + Inter), `j2` (Gabarito + Source Sans 3, descartada) e `j3` (a escolhida) a partir do site publicado. Ficam como registro.
+
+**Efeito sobre a seção 5.** Ficam resolvidas "Qual fonte usar" (abertas: Gabarito, Inter e Source Serif 4) e "Serifa ou grotesca nos títulos" (sem serifa).
