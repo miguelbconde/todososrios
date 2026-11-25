@@ -500,6 +500,7 @@ Regras de curadoria:
 
 ## Notas de redação
 
+- **Do Cosmos a Nós** — Link trocado em 25/11/2026 da agenda geral da Prefeitura pela página da exposição no site do museu (endereço conferido pelo MigShow em 25/11; o site do museu barra leitores automáticos).
 - **Ponto de Leitura: Brasilidades que vêm de Áfricas** — Preço diverge entre as fontes: o PDF semanal dá R$ 10 a R$ 20 (grátis às terças); o do Novembro Negro diz “Valor: Gratuita”.
 - **Exposição Literária – Mês da Consciência Negra** — Preço não informado na fonte.
 - **País Brasa, Planeta Fogo** — Consta no PDF semanal anterior, com data de encerramento em 2027; o PDF desta semana não repete a exposição.
