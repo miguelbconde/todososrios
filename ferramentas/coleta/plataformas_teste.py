@@ -33,6 +33,9 @@ def baixar(url, limite=3_000_000):
     try:
         with urllib.request.urlopen(req, timeout=60, context=ssl.create_default_context()) as r:
             corpo = r.read(limite)
+            if corpo[:2] == b"\x1f\x8b":  # página enviada compactada
+                import gzip
+                corpo = gzip.decompress(corpo)
             return r.status, r.geturl(), r.headers.get("Content-Type", ""), corpo.decode(r.headers.get_content_charset() or "utf-8", "replace")
     except urllib.error.HTTPError as e:
         try:
