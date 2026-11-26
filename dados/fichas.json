@@ -7077,6 +7077,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço.",
+   "aviso": "",
+   "titulo": "Pé do Meu Samba, a Roda – 3ª edição",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa Baixo Gávea",
+   "endereco": "Praça Santos Dumont",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Terceira edição da roda Pé do Meu Samba, na Casa Baixo Gávea, das 17h às 23h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pe-do-meu-samba-a-roda-3a-edicao/3667060",
+   "trecho_fonte": "2026-12-13 17:00 até 2026-12-13 23:00 | PÉ DO MEU SAMBA, A RODA (3a edição) | Casa Baixo Gávea, Praça Santos Dumont Gávea | organizador: Ialode Produções Artística | https://www.sympla.com.br/evento/pe-do-meu-samba-a-roda-3a-edicao/3667060",
+   "id": "f-0ed3bd071c",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-19",
      "hora": "20:00"
     }
@@ -7213,6 +7246,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-13",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço (só \"Rua Bernardo\") nem quem toca. Vai até as 22h.",
+   "aviso": "",
+   "titulo": "Quintal da Piedade – 5ª edição: A Paz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Galpão do Samba",
+   "endereco": "Rua Bernardo",
+   "bairro": "Engenho de Dentro",
+   "regiao": "Zona Norte",
+   "sinopse": "Quinta edição do Quintal da Piedade, com o tema \"A Paz\", no Galpão do Samba, no Engenho de Dentro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-da-piedade-5a-edicao-a-paz/3666100",
+   "trecho_fonte": "2026-12-13 15:00 até 2026-12-13 22:00 | Quintal da piedade - 5ª EDIÇÃO  A PAZ | Galpão do samba, Rua Bernardo Engenho de Dentro | organizador: Aline Bonifácio | https://www.sympla.com.br/evento/quintal-da-piedade-5a-edicao-a-paz/3666100",
+   "id": "f-111b66f8b9",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-28",
      "hora": "18:00"
     }
@@ -7280,6 +7346,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-16",
+     "hora": "15:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A Sympla dá de 16/1, 15h, a 17/1, 15h: presumida uma sessão por dia, às 15h. Infantil pela personagem do título.",
+   "aviso": "dias",
+   "titulo": "Top 10 da Galinha Pintadinha",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Espetáculo \"Top 10 da Galinha Pintadinha\" no Teatro Miguel Falabella, no Norte Shopping, em 16 e 17 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130342",
+   "trecho_fonte": "2027-01-16 15:00 até 2027-01-17 15:00 | TOP 10 DA GALINHA PINTADINHA em janeiro | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella | https://bileto.sympla.com.br/event/130342",
+   "id": "f-12ac528534",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-27",
      "hora": "20:00"
     }
@@ -7340,6 +7443,43 @@
    "link": "https://cultura.sescrio.org.br/programacao/nama-pariret-mawaca-em-cena",
    "trecho_fonte": "2026-12-08 19:00 | Nama Pariret – Mawaca em Cena | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | MÚSICA, LIVRE | [...] apresenta o show do seu oitavo álbum “Nama Pariret” - uma viagem aos cantos femininos de várias partes do mundo, com as seis cantoras do grupo assumindo a percussão",
    "id": "f-138ca17969",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A Sympla dá de 26/12, 17h, a 27/12, 17h: presumida uma sessão por dia, às 17h. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "O Grinch – Uma História de Natal",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"O Grinch – Uma História de Natal\" no Teatro Vanucci, no Shopping da Gávea, em 26 e 27 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/113784",
+   "trecho_fonte": "2026-12-26 17:00 até 2026-12-27 17:00 | O Grinch - Uma História de Natal | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/113784",
+   "id": "f-13a08de757",
    "entrou_em": "2026-11-26"
   },
   {
@@ -8248,6 +8388,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-20",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Comédia, pelo título; Teatro. A Sympla tem outra página do mesmo espetáculo (Natal Comedy 2026, Triumphant Produções): https://www.sympla.com.br/evento/natal-comedy-2026/3655981.",
+   "aviso": "",
+   "titulo": "Natal Comedy",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Cine Teatro (Teatros da Barra)",
+   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Natal Comedy no Cine Teatro dos Teatros da Barra, na Barra da Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130767",
+   "trecho_fonte": "2026-12-20 17:00 até 2026-12-20 17:00 | NATAL COMEDY | Cine Teatro - Teatros da Barra, Av. Armando Lombardi, 350 - 3º Piso  | organizador: ESPACO PROVOCACOES | https://bileto.sympla.com.br/event/130767",
+   "id": "f-24a7e13605",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-03",
      "hora": "19:00"
     }
@@ -8309,6 +8482,51 @@
    "trecho_fonte": "qui., 26 de nov. Andrezão do Cacique / 26 de nov. de 2026, 19:30 Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil Andrezão do Cacique vai se apresentar Mais uma noite no Carioca da Gema , homenageando os poetas que se reuniam em volta da famosa tamarineira: Arlindo Cruz, Sombrinha, Jorge Aragão, Zeca Pagodinho, Almir Guineto e Luiz Carlos da Vila. Também não vão faltar sucessos do grupo Fundo de Quintal. || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
    "id": "f-25e6d54419",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Badalado Gigóia. Uma página da Sympla por data; link da primeira. Vai até as 23h. A fonte não diz quem toca. Não confundir com a festa \"Puro Suco – Brasil em Estado de Festa\", na Praça XV.",
+   "aviso": "",
+   "titulo": "Puro Suco do Samba",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Badalado Isla Club",
+   "endereco": "Ilha do Ipê, 52, loja 04",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Puro Suco do Samba no Badalado Isla Club, na Ilha do Ipê, na Barra da Tijuca, aos domingos de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/puro-suco-do-samba-06-12/3666590",
+   "trecho_fonte": "2026-12-06 15:00 até 2026-12-06 23:00 | PURO SUCO DO SAMBA | 06.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/puro-suco-do-samba-06-12/3666590 || 2026-12-13 15:00 até 2026-12-13 23:00 | PURO SUCO DO SAMBA | 13.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/puro-suco-do-samba-13-12/3666616 || 2026-12-20 15:00 até 2026-12-20 23:00 | PURO SUCO DO SAMBA | 20.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/puro-suco-do-samba-20-12/3666758 || 2026-12-27 15:00 até 2026-12-27 23:00 | PURO SUCO DO SAMBA | 27.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/puro-suco-do-samba-27-12/3666794",
+   "id": "f-2642cfefce",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -9671,6 +9889,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A Sympla dá de 11/12, 19h, a 12/12, 19h: presumida uma sessão por dia, às 19h. Organizador: Fundação Cesgranrio. Cabaré, pelo título; Teatro.",
+   "aviso": "dias",
+   "titulo": "Noite da Floresta – Cabaré ao Som de Ney",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cesgranrio",
+   "endereco": "Rua Santa Alexandrina, 1011",
+   "bairro": "Rio Comprido",
+   "regiao": "Centro",
+   "sinopse": "Cabaré ao som de Ney no Teatro Cesgranrio, no Rio Comprido, em 11 e 12 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130807",
+   "trecho_fonte": "2026-12-11 19:00 até 2026-12-12 19:00 | NOITE DA FLORESTA - CABARÉ AO SOM DE NEY | Teatro Cesgranrio, Rua Santa Alexandrina, 1011  | organizador: FUNDACAO CESGRANRIO | https://bileto.sympla.com.br/event/130807",
+   "id": "f-3a127a821b",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "18:00"
     }
@@ -9796,6 +10051,39 @@
    "trecho_fonte": "2026-12-11 17:00 até 2026-12-11 23:00 | Baile Charme Essência Black 11/12 | Casa Carnaval, Rua do Mercado Centro | organizador: Casa Carnaval",
    "id": "f-3d33915b69",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-27",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 22h.",
+   "aviso": "",
+   "titulo": "Molengotengo Samba Clube",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Terraço Sambola Hall",
+   "endereco": "Avenida Dom Hélder Câmara",
+   "bairro": "Piedade",
+   "regiao": "Zona Norte",
+   "sinopse": "Molengotengo Samba Clube no Terraço Sambola Hall, em Piedade.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/molengotengo-samba-clube/3667259",
+   "trecho_fonte": "2026-12-27 14:00 até 2026-12-27 22:00 | Molengotengo Samba Clube | Terraço Sambola Hall, Avenida Dom Hélder Câmara Piedade | organizador: ConnectaZX | https://www.sympla.com.br/evento/molengotengo-samba-clube/3667259",
+   "id": "f-3e37d78e6b",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -10132,6 +10420,112 @@
    "trecho_fonte": "2026-11-28 15:00 | Vida desencaixada | Sesc Tijuca (Tijuca, Zona Norte) | grátis | LITERATURA, LIVRE, GRÁTIS || seleção de crônicas do poeta, jornalista e documentarista acreano Cesar Garcia Lima [...] Além do lançamento, com leitura de alguns textos do livro, o autor apresentará uma aula magna sobre a crônica",
    "id": "f-44d0294595",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-02",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-03",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-07",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-08",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Organizador: Igor Farias atividades circenses. Circo (Teatro); Infantil presumido pelo nome Patati Patatá no título, sem classificação na fonte. Tiradas as datas presumidas de 24, 25 e 31/12 e 1/1 (feriados e vésperas).",
+   "aviso": "dias",
+   "titulo": "Patati Patatá Circo Show",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Estacionamento do Carrefour Barra",
+   "endereco": "Avenida das Américas, 5150",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Patati Patatá Circo Show no estacionamento do Carrefour Barra, na Avenida das Américas, na Barra da Tijuca, de 4 de dezembro a 10 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129506",
+   "trecho_fonte": "2026-12-04 19:30 até 2027-01-10 19:30 | Patati Patatá Circo Show - Barra da Tijuca | Estacionamento do Carrefour Barra, Av. das Américas, 5150  | organizador: Igor Farias atividades circenses | https://bileto.sympla.com.br/event/129506",
+   "id": "f-44d3abbad6",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -11238,6 +11632,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o nome do lugar nem quem toca; \"Nectar Som\" aparece no título e pode ser o nome da banda ou da casa. Vai até as 2h.",
+   "aviso": "",
+   "titulo": "Tributo a Raul Seixas e Renato Russo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Estrada dos Bandeirantes, 22774",
+   "endereco": "Estrada dos Bandeirantes, 22774",
+   "bairro": "Vargem Grande",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Tributo a Raul Seixas e Renato Russo na Estrada dos Bandeirantes, em Vargem Grande.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/tributo-raul-seixas-renato-russo-nectar-som/3666273",
+   "trecho_fonte": "2026-12-05 21:00 até 2026-12-06 02:00 | TRIBUTO RAUL SEIXAS & RENATO RUSSO - NECTAR SOM | Estr. dos Bandeirantes, 22774, Estrada dos Bandeirantes Vargem Grande | organizador: Taina Rodrigues | https://www.sympla.com.br/evento/tributo-raul-seixas-renato-russo-nectar-som/3666273",
+   "id": "f-58e65118d2",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-27",
      "hora": "21:00"
     },
@@ -11502,6 +11929,39 @@
    "trecho_fonte": "2026-12-05 21:00 até 2026-12-05 21:00 | Matheus Ceará: Desculpa Eu ter  Vindo | Arena Carioca Abelardo Barbosa, R. Sd. Elizeu Hipólito, s/n | organizador: Município de Rio de Janeiro - Arena Cultural Abelardo Barbosa | https://bileto.sympla.com.br/event/128194",
    "id": "f-5cd31fccb9",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Achado pelo AllEvents; fatos confirmados na Sympla (venda oficial, organizador: a própria banda Azul Limão). A listagem da Sympla não informa preço nem classificação. Endereço igual ao da outra ficha do Audio Rebel na base. A fonte não diz o que são \"Vingança\" e \"Signo de Taurus\"; ficaram entre aspas, como no título.",
+   "aviso": "",
+   "titulo": "Azul Limão e Taurus: 40 anos de \"Vingança\" e \"Signo de Taurus\"",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Audio Rebel",
+   "endereco": "Rua Visconde de Silva",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "As bandas Azul Limão e Taurus dividem a noite no Audio Rebel, em Botafogo, num show anunciado como celebração dos 40 anos de \"Vingança\" e \"Signo de Taurus\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/azul-limao-e-taurus-40-anos-de-vinganca-e-signo-de-taurus-no-audio-rebel/3601313",
+   "trecho_fonte": "2026-12-18 20:00 até 2026-12-18 22:30 | Azul Limão e Taurus - 40 anos de Vingança e Signo de Taurus no Audio Rebel | Audio Rebel, Rua Visconde de Silva Botafogo | organizador: Azul Limão",
+   "id": "f-5cf3c97343",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -11799,6 +12259,39 @@
    "trecho_fonte": "2027-01-08 19:30 até 2027-01-08 19:30 | ELYMAR SANTOS NO SHOW 'ESTRELA LUMINOSA' | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128635",
    "id": "f-619ec2e94c",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-01",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa. Fim às 23h59, que parece horário padrão da Sympla.",
+   "aviso": "",
+   "titulo": "Fruta do Pé pra Oxalá na Batuq",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Fruta do Pé pra Oxalá na Batuq, casa de samba da Penha, no dia 1º de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/fruta-do-pe-pra-oxala-na-batuq/3665614",
+   "trecho_fonte": "2027-01-01 17:00 até 2027-01-01 23:59 | FRUTA DO PÉ pra OXALÁ na BATUQ!!! | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba | https://www.sympla.com.br/evento/fruta-do-pe-pra-oxala-na-batuq/3665614",
+   "id": "f-6233780e60",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -14606,6 +15099,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 3h.",
+   "aviso": "",
+   "titulo": "Pagodinho com Guga Nandes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Essência do Samba",
+   "endereco": "Rua Honório",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Guga Nandes no Essência do Samba, no Cachambi.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagodinho-com-guga-nandes-essencia-do-samba/3667032",
+   "trecho_fonte": "2026-12-02 19:00 até 2026-12-03 03:00 | Pagodinho com Guga Nandes - Essência do Samba | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/pagodinho-com-guga-nandes-essencia-do-samba/3667032",
+   "id": "f-9037f6a4a1",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-04",
      "hora": "20:30"
     }
@@ -14766,6 +15292,39 @@
    "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | Echoes: O Melhor Do Pink Floyd | Teatro Claro MAIS RJ | Show | de R$ 85,00 a R$ 270,00 (o menor pode ser meia) | classificação: Livre || ECHOES: O MELHOR DO PINK FLOYD || Ao longo de duas décadas, a Echoes Pink Floyd São Paulo construiu uma trajetória",
    "id": "f-91aa1fe30f",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-10-29",
+    "fim": "2027-01-26",
+    "horario": "Terça a quinta e domingo, 10h–18h; sexta e sábado, 10h–20h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Achado pelo AllEvents (que dava fim em 25/12); período, horário e endereço da Riotur, confirmados em parte pela LIESA (F037, só a manchete da estreia). Riotur dá ingressos de R$ 25 (terça a sexta) a R$ 40 (sábado e domingo), meia para carioca; pela regra, preço da Riotur só com confirmação, então ficou sem preço. Não achei na ronda a página própria da exposição (site oficial citado: riocarnavalexpo.com); link é o da Riotur. Fim do ano: a Riotur não diz se abre em 24, 25 e 31/12 e 1º/1. Ano do fim (2027) presumido pela janela. Nenhuma outra ficha da Cidade do Samba na base para copiar o endereço.",
+   "aviso": "",
+   "titulo": "Rio Carnaval Expo",
+   "areas": [
+    "Artes Visuais",
+    "Festas & Feiras"
+   ],
+   "tipo": "cartaz",
+   "local": "Cidade do Samba",
+   "endereco": "R. Rivadávia Corrêa, 60",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Rio Carnaval Expo, na Cidade do Samba, na Gamboa, em cartaz até 26 de janeiro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/rio-carnaval-expo-cidade-do-samba-10/",
+   "trecho_fonte": "Temporada: 29 de outubro a 26 de janeiro Local: Cidade do Samba Endereço: R. Rivadávia Corrêa, 60 – Gamboa Horário: terça a quinta e dom, das 10h às 18h. Sexta e sábado, das 10h às 20h [...] Grátis na última terça de cada mês. || Rio Carnaval Expo estreia com festa na Cidade do Samba, ao som do álbum oficial de 2027",
+   "id": "f-91e8f08be9",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -14982,6 +15541,39 @@
    "link": "https://bileto.sympla.com.br/event/128119",
    "trecho_fonte": "2026-11-21 20:00 até 2026-11-29 19:30 | NOITE DO MELODRAMA | Cine Teatro - Teatros da Barra, Av. Armando Lombardi, 350 - 3º Piso  | organizador: ESPACO PROVOCACOES | https://bileto.sympla.com.br/event/128119",
    "id": "f-92e994a1ae",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 2h.",
+   "aviso": "",
+   "titulo": "Quintal do Batuqg",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Essência do Samba",
+   "endereco": "Rua Honório",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Quintal do Batuqg no Essência do Samba, no Cachambi.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-do-batuqg-essencia-do-samba/3667293",
+   "trecho_fonte": "2026-12-06 17:00 até 2026-12-07 02:00 | QUINTAL DO BATUQG - ESSÊNCIA DO SAMBA | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/quintal-do-batuqg-essencia-do-samba/3667293",
+   "id": "f-93557939f7",
    "entrou_em": "2026-11-26"
   },
   {
@@ -15993,6 +16585,51 @@
    "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 19:00 | CINECLUBE CARLOS GOMES # 6 :  Macumbaria +  Arruma um Pessoal pra Gente Botar uma Macumba num Disco | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130520",
    "id": "f-a2c6e8e1a7",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Badalado Gigóia. Uma página da Sympla por data; link da primeira. Vai até as 23h. A fonte não diz quem toca.",
+   "aviso": "",
+   "titulo": "Pagode com Molho",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Badalado Isla Club",
+   "endereco": "Ilha do Ipê, 52, loja 04",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Pagode com Molho no Badalado Isla Club, na Ilha do Ipê, na Barra da Tijuca, aos sábados de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagode-com-molho-05-12/3666487",
+   "trecho_fonte": "2026-12-05 15:00 até 2026-12-05 23:00 | PAGODE COM MOLHO | 05.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/pagode-com-molho-05-12/3666487 || 2026-12-12 15:00 até 2026-12-12 23:00 | PAGODE COM MOLHO | 12.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/pagode-com-molho-12-12/3666599 || 2026-12-19 15:00 até 2026-12-19 23:00 | PAGODE COM MOLHO | 19.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/pagode-com-molho-19-12/3666626 || 2026-12-26 15:00 até 2026-12-26 23:00 | PAGODE COM MOLHO | 26.12 | Badalado isla Club, Ilha do IPE 52 LOJA 04 BARRA DA TIJUCA ILHA DO IPE Barra da Tijuca | organizador: BADALADO GIGÓIA | https://www.sympla.com.br/evento/pagode-com-molho-26-12/3666781",
+   "id": "f-a30fd6d928",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -19609,6 +20246,39 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio. Vai até as 21h.",
+   "aviso": "",
+   "titulo": "Feijuca com Samba: Samba do Xoxó",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Largo do Boticário",
+   "endereco": "Beco do Boticário",
+   "bairro": "Cosme Velho",
+   "regiao": "Zona Sul",
+   "sinopse": "O Samba do Xoxó toca no Largo do Boticário, no Cosme Velho, na série Feijuca com Samba.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-xoxo/3662872",
+   "trecho_fonte": "2026-12-06 14:00 até 2026-12-06 21:00 | Feijuca com Samba apresenta: Samba do Xoxó | Largo do Boticário, Beco do Boticário Cosme Velho | organizador: Jo&Joe RIO | https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-xoxo/3662872",
+   "id": "f-d22d4a7643",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
    "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Bruno Bellandi e Banda: Feijão Retrô",
@@ -22930,6 +23600,67 @@
    "trecho_fonte": "- Chiquititas | início 2026-11-28T13:00:00-03:00 | fim 2026-11-29T13:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/chiquititas-novembro-2026/ | ingressos.divertix Sinopse No orfanato Raio de Luz, um grupo de meninas aprende que, mesmo diante das dificuldades, a amizade, a união e o amor podem transformar qualquer realidade. Quando novas crianças chegam ao orfanato, elas descobrem que juntas são capazes de enfrentar desafi || [página do evento] Horário || 16h",
    "id": "f-fcd6d59230",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 18h como fim no dia 20 (talvez o horário de domingo). Organizador: Tamires Nascimento Produções. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "O Nariz",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"O Nariz\" no Teatro Glauce Rocha, da Funarte, no Centro, de 10 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/o-nariz/3666916",
+   "trecho_fonte": "2026-12-10 19:00 até 2026-12-20 18:00 | O NARIZ | Teatro Glauce Rocha - Funarte, Avenida Rio Branco  | organizador: Tamires Nascimento Produções LTDA | https://www.sympla.com.br/evento/o-nariz/3666916",
+   "id": "f-fd2a4cbafe",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,

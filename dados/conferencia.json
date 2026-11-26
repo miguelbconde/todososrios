@@ -1264,6 +1264,22 @@
    "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
    "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
    "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patati Patatá Circo Show",
+   "campo": "sessoes",
+   "veredito": "duvida",
+   "detalhe": "dias presumidos caíam em feriados",
+   "resolucao": "Corrigido: tirados 24, 25 e 31/12 e 1/1",
+   "id": "f-44d3abbad6"
+  },
+  {
+   "titulo": "Rio Carnaval Expo",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "tema deduzido e gratuidade só da Riotur",
+   "resolucao": "Corrigido: sinopse só com os fatos",
+   "id": "f-91e8f08be9"
   }
  ]
 }
