@@ -541,7 +541,7 @@
 - **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher; Moacyr Luz e Samba do Trabalhador
 - **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
 - **02/12**: Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte; Entre Direitos e Afetos: relações sem violência; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
-- **03/12**: Laura Valle canta Cole Porter – Sala Jazz; O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura; La Strada – Os Que Vieram Antes de Nós
+- **03/12**: Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha); Luan Pureza celebra Iansã – Santa Bárbara; O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura
 - **04/12**: OSB: Especial Harry Potter; Patati Patatá Circo Show; Abertura da exposição "Você já escutou a terra?"
 - **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; La Strada – Os Que Vieram Antes de Nós
 - **06/12**: Canta Navidad – Coro Intercantus e convidados (Cidade das Artes); La Strada – Os Que Vieram Antes de Nós; Festival Contarolando Histórias

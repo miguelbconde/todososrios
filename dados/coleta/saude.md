@@ -20,13 +20,13 @@
 ## Redação (tarefa diária do Claude)
 
 - Última entrega: 2026-11-26
-  - 2026-11-26: 17 novas, 2 corrigidas, 0 recusadas — Lote 1 de 26/11: Sesc, Fiocruz, ABL, Travessa e Teatro Multiplan
   - 2026-11-26: 14 novas, 5 corrigidas, 0 recusadas — Lote 2 de 26/11: exposições e Sympla (equipamentos públicos)
   - 2026-11-26: 19 novas, 0 corrigidas, 1 recusadas — Lote 3 de 26/11: Beco das Garrafas e Bilheteria Digital
   - 2026-11-26: 15 novas, 4 corrigidas, 0 recusadas — Lote 4 de 26/11: Sympla, grupo cultural (1)
   - 2026-11-26: 18 novas, 0 corrigidas, 0 recusadas — Lote 5 de 26/11: Sympla, grupo cultural (2) e AllEvents
   - 2026-11-26: 20 novas, 0 corrigidas, 0 recusadas — Lote 6 de 26/11: radar da Riotur (1)
   - 2026-11-26: 14 novas, 4 corrigidas, 0 recusadas — Lote 7 de 26/11: radar da Riotur (2) e galerias
+  - 2026-11-26: 0 novas, 0 corrigidas, 0 recusadas — Lote 8 de 26/11: A boa de 3/12; pendentes atualizados; vistos marcados
 
 ## Edição no ar
 

@@ -101,19 +101,16 @@
   ],
   "2026-12-03": [
    {
-    "id": "f-09e4c56fa2",
-    "porque": "A preço popular, em Lapa.",
-    "automatico": true
+    "id": "f-0a59a101f5",
+    "porque": "Teresa Cristina e a Velha Guarda da Portela no palco público da Penha."
+   },
+   {
+    "id": "f-da9a28b5f7",
+    "porque": "Luan Pureza canta para Iansã e Santa Bárbara, na véspera do dia da santa."
    },
    {
     "id": "f-5ac17a363c",
-    "porque": "Em Centro (Castelo).",
-    "automatico": true
-   },
-   {
-    "id": "2026-11-19-115",
-    "porque": "A preço popular, em Tijuca.",
-    "automatico": true
+    "porque": "Ficção lida em voz alta na Academia Brasileira de Letras, com inscrição pelo site."
    }
   ],
   "2026-12-04": [
@@ -929,7 +926,6 @@
   }
  ],
  "automaticos": [
-  "2026-12-03",
   "2026-12-04",
   "2026-12-05",
   "2026-12-06",
