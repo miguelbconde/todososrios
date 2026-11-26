@@ -1104,6 +1104,54 @@
    "detalhe": "\"em cena\" não está na fonte",
    "resolucao": "Corrigido: tirado \"em cena\"",
    "id": "f-0d057df3e2"
+  },
+  {
+   "titulo": "Gordon Parks: A América Sou Eu",
+   "campo": "cartaz.horario",
+   "veredito": "nao_encontrado",
+   "detalhe": "horário vinha de outra exposição do CCBB",
+   "resolucao": "Corrigido: horário deixado vazio",
+   "id": "f-364a443249"
+  },
+  {
+   "titulo": "Fernanda Gomes",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "frase sobre a galeria não ter divulgado o título não é da fonte",
+   "resolucao": "Corrigido: passou para a nota",
+   "id": "f-f54e6935b5"
+  },
+  {
+   "id": "f-33ccd17d21",
+   "titulo": "Infâncias",
+   "campo": "areas",
+   "veredito": "diverge",
+   "detalhe": "Infantil marcado só pelo tema",
+   "resolucao": "Corrigido: só Artes Visuais"
+  },
+  {
+   "titulo": "Quando Dança o Baobá",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "22h pode ser hora padrão da listagem da Sympla",
+   "resolucao": "",
+   "id": "f-472932ae90"
+  },
+  {
+   "titulo": "Lançamento de \"Plástico\", de Juan Pinheiro",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "22h pode ser hora padrão da listagem da Sympla",
+   "resolucao": "",
+   "id": "f-5457418c91"
+  },
+  {
+   "titulo": "Novos ares: Pontal reinventado",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"retoma a forma\" ia além da fonte",
+   "resolucao": "Corrigido: \"uma homenagem à proposta original\"",
+   "id": "f-b4f6e88fed"
   }
  ]
 }

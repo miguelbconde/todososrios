@@ -2,46 +2,6 @@
  "nota": "Base permanente das fichas da redação. Não edite à mão: use ferramentas/entregar.py.",
  "fichas": [
   {
-   "titulo": "Minha Vó Ri",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Espaço Cultural Sérgio Porto",
-   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
-   "bairro": "Humaitá",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-20",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-21",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-22",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "14 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Primeiro solo de Júlia Bernat, dirigido por Débora Lamm. Mistura autoficção e pesquisa sobre a história do ativismo lésbico, com trilha de Ângela Ro Ro e Cássia Eller.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Minha Vó Ri” Sextas e Sábados às 20h, Domingos às 19h. Classificação 14 anos R$ 30 a R$ 60.",
-   "nota_redacao": "",
-   "id": "2026-11-19-001",
-   "entrou_em": "2026-11-19"
-  },
-  {
    "titulo": "Equina",
    "areas": [
     "Teatro"
@@ -59,6 +19,14 @@
     {
      "data": "2026-11-22",
      "hora": "18:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
     }
    ],
    "cartaz": null,
@@ -72,10 +40,12 @@
    "sinopse": "Espetáculo de dança de Aline Bernardi e Dani Lima sobre os laços de cuidado entre humanos e cavalos, a partir da pesquisa de doutorado de Aline.",
    "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
    "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Equina” sábados 19h e domingos 18h. Até 29/11. R$ 30 a R$ 60. 18 anos.",
-   "nota_redacao": "",
+   "trecho_fonte": "Espetáculo “Equina” sábados 19h e domingos 18h. Até 29/11. R$ 30 a R$ 60. 18 anos. || 2026-11-21 19:00 até 2026-11-29 18:00 | Equina | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0  | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128177",
+   "nota_redacao": "Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.",
    "id": "2026-11-19-002",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "O Último Dia da Minha Vida",
@@ -212,6 +182,18 @@
     {
      "data": "2026-11-22",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
     }
    ],
    "cartaz": null,
@@ -225,10 +207,12 @@
    "sinopse": "Nove atores criam com o corpo e a voz todos os sons e ambientes de uma fábula sobre poder, falada numa língua inventada que o público entende pelo som.",
    "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
    "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Superiores” Sextas e sábados, 20h, domingos, 19h. Até 29/11. R$ 30 a R$ 60. Livre.",
-   "nota_redacao": "",
+   "trecho_fonte": "Espetáculo “Superiores” Sextas e sábados, 20h, domingos, 19h. Até 29/11. R$ 30 a R$ 60. Livre. || 2026-11-06 20:00 até 2026-11-29 19:00 | Superiores | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129281",
+   "nota_redacao": "Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.",
    "id": "2026-11-19-006",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "A Menina Dança",
@@ -646,6 +630,14 @@
     {
      "data": "2026-11-22",
      "hora": "11:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "11:00"
     }
    ],
    "cartaz": null,
@@ -659,10 +651,12 @@
    "sinopse": "Paulinha Cavalcanti, Anderson Barreto e Árvore Vicente narram histórias afro-diaspóricas, com Libras integrada à cena. Cerca de 50 minutos.",
    "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
    "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Zuzuê Contos Africanos” Sábado e domingo, às 11h. Até 29/11. R$ 20 a R$ 40. Livre. [...] com libras como parte integrante da cena",
-   "nota_redacao": "",
+   "trecho_fonte": "Espetáculo “Zuzuê Contos Africanos” Sábado e domingo, às 11h. Até 29/11. R$ 20 a R$ 40. Livre. [...] com libras como parte integrante da cena || 2026-11-14 11:00 até 2026-11-29 11:00 | Zuzuê Contos Africanos | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169  | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128264",
+   "nota_redacao": "Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.",
    "id": "2026-11-19-019",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "Providência 130: Histórias que Fazem Território",
@@ -6576,6 +6570,38 @@
    "entrou_em": "2026-11-25"
   },
   {
+   "cartaz": {
+    "inicio": "2026-11-16",
+    "fim": "2027-02-21",
+    "horario": "Terça a sexta, 10h–20h; sábado, domingo e feriados, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Classificação não informada. Endereço do site da FGV Arte (nº 190); a ficha \"Infâncias\" na base tinha nº 186 (do Arte que Acontece) e vai corrigida neste lote.",
+   "aviso": "",
+   "titulo": "Hugo França & Max Lamb",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "FGV Arte (Centro Cultural FGV)",
+   "endereco": "Praia de Botafogo, 190",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Móveis e esculturas feitos em Trancoso, na Bahia, na colaboração entre o escultor brasileiro Hugo França e o designer britânico Max Lamb, a partir de troncos caídos de pequi-vinagreiro e de antigas canoas indígenas sem uso. Curadoria da FGV Arte.",
+   "fonte": "FGV Arte (site oficial)",
+   "link": "https://arte.fgv.br/exposicao/hugo-franca-max-lamb",
+   "trecho_fonte": "Hugo França & Max Lamb Curadoria: FGV Arte 16 Novembro 2026 - 21 Fevereiro 2027 [...] Entrada Livre - sem agendamento Praia de Botafogo, 190 - Botafogo - RJ [...] Terça a sexta-feira: 10h - 20h Sábado e domingo: 10h - 18h Feriados: 10h - 18h",
+   "id": "f-0bac03fcd1",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -7682,6 +7708,39 @@
    "trecho_fonte": "2026-12-11 19:00 até 2026-12-11 19:00 | Sexta Plural - A COR DA MINHA VOZ - Jade Vitóriah — Música, Memória e Emoção | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128905",
    "id": "f-1e4cfb5e99",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-28",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço nem classificação. Organizador: produtora particular. Show com horário de festa (22h às 4h): mantive por ser apresentação de artista, não festa de boate; confirmar.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Matuê + LeaLL: Pré-Réveillon no MAM",
+   "areas": [
+    "Música"
+   ],
+   "local": "MAM Rio",
+   "endereco": "Avenida Infante Dom Henrique, 85 (Parque do Flamengo)",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Matuê e LeaLL se apresentam no MAM Rio numa noite de pré-réveillon, das 22h às 4h.",
+   "link": "https://www.sympla.com.br/evento/matue-leall-rio-de-janeiro-mam-prereveillon/3663684",
+   "trecho_fonte": "2026-12-28 22:00 até 2026-12-29 04:00 | MATUÊ + LeaLL @ RIO DE JANEIRO (MAM) #PreReveillon | Museu de Arte Moderna do Rio de Janeiro, Avenida Infante Dom Henrique  | organizador: 4 FLY | https://www.sympla.com.br/evento/matue-leall-rio-de-janeiro-mam-prereveillon/3663684",
+   "id": "f-206cca97d1",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8869,7 +8928,7 @@
    "cartaz": {
     "inicio": "2026-11-26",
     "fim": "2027-05-02",
-    "horario": ""
+    "horario": "Terça a sexta, 10h–20h; sábado, domingo e feriados, 10h–18h"
    },
    "sessoes": [],
    "preco_texto": "",
@@ -8879,24 +8938,24 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Fonte oficial da FGV Arte não está na ronda; fatos do Arte que Acontece. Sem horário de visitação e sem preço na fonte. Marquei Infantil pelo tema; a fonte não diz se é voltada a crianças.",
+   "nota_redacao": "Correção de 26/11: horário de visitação e endereço (nº 190) tirados do site da FGV Arte, que anuncia a inauguração em 26 e 28/11; o site ainda não tem página própria da mostra, então o link continua o do Arte que Acontece. Fim (02/05/2027) e preço só no Arte que Acontece / não informados. Marquei Infantil pelo tema; a fonte não diz se é voltada a crianças.",
    "aviso": "",
    "tipo": "cartaz",
    "titulo": "Infâncias",
    "areas": [
-    "Artes Visuais",
-    "Infantil"
+    "Artes Visuais"
    ],
    "local": "FGV Arte (Centro Cultural FGV)",
-   "endereco": "Praia de Botafogo, 186",
+   "endereco": "Praia de Botafogo, 190",
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sinopse": "Coletiva com artistas modernos e contemporâneos de várias gerações e países sobre brincadeiras, imaginação, relações familiares e educação. Curadoria de Andréa Hygino e Paulo Herkenhoff.",
    "fonte": "Arte que Acontece",
    "link": "https://artequeacontece.com.br/evento/infancias-na-fgv-arte/",
-   "trecho_fonte": "aberta de 2026-11-26 até 2027-05-02 | “Infâncias” na FGV Arte | FGV Arte | Esplanada da Fundação Getulio Vargas, Praia de Botafogo, nº 186, Botafogo || com curadoria de Andréa Hygino e Paulo Herkenhoff. Reunindo artistas modernos e contemporâneos de diferentes gerações e países, a mostra aborda o universo das brincadeiras, da imaginação e das relações familiares, além de questões como educ",
+   "trecho_fonte": "aberta de 2026-11-26 até 2027-05-02 | “Infâncias” na FGV Arte | FGV Arte | Esplanada da Fundação Getulio Vargas, Praia de Botafogo, nº 186, Botafogo || com curadoria de Andréa Hygino e Paulo Herkenhoff. Reunindo artistas modernos e contemporâneos de diferentes gerações e países, a mostra aborda o universo das brincadeiras, da imaginação e das relações familiares, além de questões como educ || FGV Arte (site oficial): Vem aí a nova exposição Infâncias , com curadoria de Andréa Hygino e Paulo Herkenhoff. A inauguração será nos dias 26 e 28 de novembro de 2026 , na FGV Arte Rio. [...] Horários de funcionamento Terça a sexta-feira: 10h - 20h Sábado e domingo: 10h - 18h Feriados: 10h - 18h Segunda-feira: Fechado Endereço Praia de Botafogo, 190",
    "id": "f-33ccd17d21",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8943,6 +9002,38 @@
    "id": "f-345c3d2ed6",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-12-09",
+    "fim": "2027-03-08",
+    "horario": ""
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A ronda só trouxe a listagem do CCBB Rio, sem a página própria da exposição: link para a página de programação. Sem texto de apresentação: sinopse mínima, só com título, artista e datas. Horário de visitação tirado das outras exposições do CCBB Rio no mesmo arquivo (o mesmo das fichas do CCBB na base); a fonte não dá o horário desta. Preço e classificação não informados (a listagem só diz \"ingressos\"). Horário de visitação desta mostra não informado na fonte; campo vazio.",
+   "aviso": "",
+   "titulo": "Gordon Parks: A América Sou Eu",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Exposição dedicada a Gordon Parks, em cartaz no CCBB Rio de 9 de dezembro a 8 de março.",
+   "fonte": "CCBB Rio (programação oficial)",
+   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+   "trecho_fonte": "Rio de Janeiro Exposição Gordon Parks: A América Sou Eu 09/12/26 a 08/03/27 ingressos",
+   "id": "f-364a443249",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": {
@@ -9653,6 +9744,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Teatro (dança) pelo título. Hora como na listagem. A hora (22h) é a da Sympla, que parece usar 22h como padrão nas linhas da Arena Dicró.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Quando Dança o Baobá",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "Apresentação de \"Quando Dança o Baobá\" na Arena Cultural Dicró, na Penha.",
+   "link": "https://bileto.sympla.com.br/event/130792",
+   "trecho_fonte": "2026-11-27 22:00 até 2026-11-27 22:00 | Quando dança o Baobá | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso  | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130792",
+   "id": "f-472932ae90",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "14:00"
     },
@@ -10301,6 +10425,39 @@
    "trecho_fonte": "2026-11-28 17:00 até 2026-11-29 01:00 | Quintal da VP: roda de samba do Papo de Quintal NA RUA | Rua Tessália, Rua Tessália Vila da Penha | organizador: Bigode Buço | Casa de Samba e Cultura",
    "id": "f-543be3e01a",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Hora como na listagem (22h). A hora (22h) é a da Sympla, que parece usar 22h como padrão nas linhas da Arena Dicró.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Lançamento de \"Plástico\", de Juan Pinheiro",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "Juan Pinheiro lança o livro \"Plástico\" na Arena Cultural Dicró, na Penha.",
+   "link": "https://bileto.sympla.com.br/event/130796",
+   "trecho_fonte": "2026-12-03 22:00 até 2026-12-03 22:00 | Lançamento do livro 'Plástico', de Juan Pinheiro | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso  | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130796",
+   "id": "f-5457418c91",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -12512,6 +12669,72 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Stand-up pelas outras datas do mesmo humorista na rede municipal (Carlos Zéfiro, Terra, Jovelina).",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Stand-up: Wêlson Nunes",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Stand-up de Wêlson Nunes na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "link": "https://bileto.sympla.com.br/event/125819",
+   "trecho_fonte": "2026-12-17 20:00 até 2026-12-17 20:00 | WÊLSON NUNES | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho  | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/125819",
+   "id": "f-7ee593a290",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Mesmo projeto das fichas de Madureira (26/11) e da Penha (3/12); esta é a apresentação de Realengo.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Realengo)",
+   "areas": [
+    "Música"
+   ],
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Teresa Cristina e a Velha Guarda da Portela no projeto Memórias do Samba, na Areninha Cultural Gilberto Gil, em Realengo.",
+   "link": "https://bileto.sympla.com.br/event/130668",
+   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | TERESA CRISTINA E VELHA GUARDA DA PORTELA - SHOW MEMORIAS DO SAMBA | Areninha Cultural Gilberto Gil, Av. Marechal Fontenele, 5000  | organizador: Município de Rio de Janeiro - Areninha Cultural Gilberto Gil | https://bileto.sympla.com.br/event/130668",
+   "id": "f-80323410c1",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-08",
      "hora": "19:30"
     }
@@ -14462,6 +14685,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-13",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem atrações. Organizador: produtora particular (não é o museu). Horário de 12h às 22h pela listagem.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Um Ano de Pagode da Gigi",
+   "areas": [
+    "Música"
+   ],
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "O Pagode da Gigi comemora um ano com uma tarde e noite de pagode no Muhcab, na Gamboa, das 12h às 22h.",
+   "link": "https://www.sympla.com.br/evento/um-ano-de-pagode-da-gigi-no-muhcab/3666865",
+   "trecho_fonte": "2026-12-13 12:00 até 2026-12-13 22:00 | UM ANO DE PAGODE DA GIGI - NO MUHCAB | MUHCAB - Museu da História e da Cultura Afro-Brasileira, Rua Pedro Ernesto  | organizador: CMC EVENTOS | https://www.sympla.com.br/evento/um-ano-de-pagode-da-gigi-no-muhcab/3666865",
+   "id": "f-a0c35676c9",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-05",
      "hora": "14:00"
     }
@@ -15949,6 +16205,38 @@
    "entrou_em": "2026-11-22"
   },
   {
+   "cartaz": {
+    "inicio": "2026-11-26",
+    "fim": "2027-01-21",
+    "horario": "Segunda a sexta, 10h–19h; sábado, 11h–14h"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site da própria galeria não está na ronda: fonte é a agenda da ArtRio. Horário de sábado diverge na ArtRio: a página da exposição diz 11h–14h, a listagem diz 11h–15h; ficou o da página. Fim (21.JAN) sem ano na fonte: 2027. Classificação não informada. Primeira ficha da galeria na base.",
+   "aviso": "",
+   "titulo": "Adrianna Eu: Trago um mar de incertezas",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Cassia Bomeny Galeria",
+   "endereco": "Rua Garcia d'Ávila, 196",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Individual de Adrianna Eu, com curadoria de Marcus Lontra, que marca o início da representação da artista pela galeria. São cerca de 20 trabalhos, dois terços inéditos, entre objetos, instalações, fotografias, telas cobertas por linhas e bordados; abertura no dia 26, das 18h às 21h.",
+   "fonte": "ArtRio (agenda cultural)",
+   "link": "https://artrio.com/agenda-cultural/cassia-bomeny-galeria-adrianna-eu",
+   "trecho_fonte": "26.NOV - 21.JAN Cassia Bomeny Galeria | Trago um mar de incertezas, de Adrianna Eu || Trago um mar de incertezas, de Adrianna Eu Cassia Bomeny Galeria | Rua Garcia d’Avila, 196 – Ipanema Abertura: quinta, 26 de novembro de 2026, das 18h às 21h, De segunda a sexta, das 10h às 19h, e sábados, das 11h às 14h Entrada gratuita",
+   "id": "f-b275bf0da1",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -16085,6 +16373,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-12",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem programa. Organizador particular (não é órgão público). Duração pela listagem: 17h às 18h30.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Grupo Vocal TRIAR: Cores do Brasil",
+   "areas": [
+    "Música"
+   ],
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco, 241",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Grupo Vocal TRIAR apresenta o show \"Cores do Brasil\" na Sala de Sessões do Centro Cultural da Justiça Federal, na Cinelândia.",
+   "link": "https://www.sympla.com.br/evento/grupo-vocal-triar-em-cores-do-brasil/3666774",
+   "trecho_fonte": "2026-12-12 17:00 até 2026-12-12 18:30 | Grupo Vocal TRIAR em CORES DO BRASIL | Sala de Sessões do Centro Cultural Justiça Federal, Avenida Rio Branco Centro - Cinelândia | organizador: Zeca Rodrigues | https://www.sympla.com.br/evento/grupo-vocal-triar-em-cores-do-brasil/3666774",
+   "id": "f-b3fb9d4cd7",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-25",
      "hora": "17:00"
     },
@@ -16120,6 +16441,38 @@
    "trecho_fonte": "2026-11-25 17:00 até 2026-11-25 21:00 | PEÇA PARA OS HOMENS RIO DE JANEIRO DIA ÚNICO: 25 DE NOVEMBRO, COM 3 SESSÕES: 17h, 19h e 21h | Axia Marina da Glória, Avenida Infante Dom Henrique  | organizador: Natasha Corbelino | https://www.sympla.com.br/evento/peca-para-os-homens-rio-de-janeiro-dia-unico-25-de-novembro-com-3-sessoes-17h-19h-e-21h/3654723",
    "id": "f-b49a9fecf5",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": {
+    "inicio": null,
+    "fim": null,
+    "horario": "Quinta a domingo, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Exposição de longa duração, sem data de início ou fim na fonte (a Sympla só abre reservas por períodos). Entrada gratuita com retirada antecipada pela Sympla ou na bilheteria. Classificação não informada.",
+   "aviso": "",
+   "tipo": "cartaz",
+   "fonte": "Site do Museu do Pontal",
+   "titulo": "Novos ares: Pontal reinventado",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "local": "Museu do Pontal",
+   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "link": "https://museudopontal.org.br/exposicao/novos-ares-pontal-reinventado/",
+   "sinopse": "Exposição central e de longa duração do Museu do Pontal, uma homenagem à proposta original de apresentação do acervo de arte popular brasileira criada pelo fundador, Jacques Van de Beuque. Entrada gratuita.",
+   "trecho_fonte": "“Novos ares: Pontal reinventado” é a exposição central, de longa duração, uma homenagem à proposta original de apresentação das obras do Museu do Pontal criada por seu idealizador e fundador, Jacques Van de Beuque (1922-2000) [...] || O Museu do Pontal funciona de quinta-feira a domingo, das 10h às 18h. || A entrada no Museu do Pontal é gratuita para todos . || 2026-11-20 18:00 até 2026-12-03 18:00 | Exposição Novos ares: Pontal reinventado | Museu do Pontal, Avenida Celia Ribeiro da Silva Mendes, 3300  | organizador: Museu do Pontal | https://bileto.sympla.com.br/event/96510",
+   "id": "f-b4f6e88fed",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -16524,6 +16877,38 @@
    "entrou_em": "2026-11-25"
   },
   {
+   "cartaz": {
+    "inicio": "2026-10-29",
+    "fim": "2026-12-13",
+    "horario": "Quarta a domingo, 11h–20h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "Audiodescrição de obras, legendas na videoarte e Libras nas atividades públicas",
+   "na_rua": false,
+   "nota_redacao": "Fora da lista de candidatas, mas está na mesma fonte (F088), em cartaz e ausente da base. Datas da listagem de exposições do site; horário do rodapé do site. Preço e classificação não informados (a outra exposição do espaço na base está como grátis, mas esta página não diz). A programação do dia 5/12 (oficina, mesa, DJ) não virou ficha própria.",
+   "aviso": "",
+   "titulo": "Priscila Rooxo: De onde venho",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Petrobras Futuros – Arte e Tecnologia",
+   "endereco": "Rua Dois de Dezembro, 63",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Primeira individual no Rio de Priscila Rooxo, artista de Mesquita, na Baixada Fluminense. Em três núcleos de pintura, vídeo e instalação, parte da família e do território, e fecha com obras sobre as enchentes de 2026 na Baixada. Programação gratuita com a artista no dia 5 de dezembro.",
+   "fonte": "Petrobras Futuros – Arte e Tecnologia (site oficial)",
+   "link": "https://petrobrasfuturos.com.br/programacao/exposicao-de-onde-venho-priscila-rooxo/",
+   "trecho_fonte": "“De onde venho”: Priscila Rooxo transforma memórias da Baixada Fluminense em arte 29 de outubro 13 de dezembro || Nascida e criada em Mesquita, na Baixada Fluminense, Priscila apresenta sua primeira exposição individual no Rio de Janeiro. Reunindo pintura, vídeo e instalação [...] A exposição conta com recursos de acessibilidade, incluindo audiodescrição de obras, legendas na videoarte e interpretação em Libras nas atividades públicas. [...] No dia 5 de dezembro, “De onde venho” ganha uma programação complementar gratuita || Rua Dois de Dezembro, 63 Flamengo, Rio de Janeiro, RJ Petrobras Futuros: De quarta a domingo das 11h às 20h",
+   "id": "f-c101572372",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -16834,7 +17219,7 @@
    "cartaz": {
     "inicio": "2026-10-28",
     "fim": "2026-11-28",
-    "horario": ""
+    "horario": "Segunda a sexta, 10h–19h; sábado, 12h–18h"
    },
    "sessoes": [],
    "preco_texto": "",
@@ -16844,7 +17229,7 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Fim: a galeria diz 28/11; o Arte que Acontece diz 26/11. Ficou a data da galeria. Horário e preço não informados.",
+   "nota_redacao": "Fim: a galeria diz 28/11; o Arte que Acontece e a ArtRio dizem 26/11. Ficou a data da galeria. Correção de 26/11: horário de visitação da agenda da ArtRio (o site da galeria não informa). Preço não informado.",
    "titulo": "Rosana Palazyan: Quintal",
    "areas": [
     "Artes Visuais"
@@ -16857,9 +17242,10 @@
    "sinopse": "Em mostra com curadoria de Ulisses Carrilho, Rosana Palazyan recria em instalação a mangueira que considera sua confidente de infância, incorporando sonhos e ensinamentos de pessoas com quem conversou durante a preparação da mostra.",
    "fonte": "Site da Anita Schwartz Galeria de Arte; Arte que Acontece (radar)",
    "link": "https://www.anitaschwartz.com.br/2026/10/save-the-date-quintal-de-rosana-palazyan/",
-   "trecho_fonte": "28.Out.2026 - 28.Nov.2026 SAVE THE DATE: QUINTAL, DE ROSANA PALAZYAN A artista Rosana Palazyan apresenta a mostra “Quintal”, com curadoria de Ulisses Carrilho, na Anita Schwartz Galeria de Arte || Arte que Acontece: Anita Schwartz Galeria de Arte, R. José Roberto Macedo Soares, 30, Gávea [...] Em “Quintal” , Rosana Palazyan compartilha simbolicamente a mangueira que considera sua confidente de infância, recriando-a em uma instalação que incorpora sonhos e ensinamentos de pessoas com quem co[nversou durante a preparação da mostra]",
+   "trecho_fonte": "28.Out.2026 - 28.Nov.2026 SAVE THE DATE: QUINTAL, DE ROSANA PALAZYAN A artista Rosana Palazyan apresenta a mostra “Quintal”, com curadoria de Ulisses Carrilho, na Anita Schwartz Galeria de Arte || Arte que Acontece: Anita Schwartz Galeria de Arte, R. José Roberto Macedo Soares, 30, Gávea [...] Em “Quintal” , Rosana Palazyan compartilha simbolicamente a mangueira que considera sua confidente de infância, recriando-a em uma instalação que incorpora sonhos e ensinamentos de pessoas com quem co[nversou durante a preparação da mostra] || ArtRio (agenda cultural): Anita Schwartz Galeria de Arte | Rua José Roberto Macedo Soares, 30, Gávea Abertura: 28 de outubro de 2026, às 19h - Segunda a sexta, das 10h às 19h, e aos sábados das 12h às 18h",
    "id": "f-c6b14b6989",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -17944,6 +18330,39 @@
    "id": "f-d2eac34399",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A fonte não explica a sigla VVM nem o que é lançado.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "VVM: Fidelisx & Evy – show de lançamento",
+   "areas": [
+    "Música"
+   ],
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Fidelisx e Evy fazem o show de lançamento \"VVM\" na Areninha Cultural João Bosco, em Vista Alegre.",
+   "link": "https://bileto.sympla.com.br/event/130797",
+   "trecho_fonte": "2026-12-19 18:00 até 2026-12-19 18:00 | VVM: Fidelisx & Evy - O show de Lançamento | Areninha Cultural João Bosco de Vista Alegre, Av São Felix, 601  | organizador: Município de Rio de Janeiro - Areninha Cultural João Bosco | https://bileto.sympla.com.br/event/130797",
+   "id": "f-d399d5a429",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -20460,6 +20879,38 @@
    "trecho_fonte": "2026-12-11 19:00 até 2026-12-11 20:00 | Quarteto Radamés Gnattali - Festival Radamés Gnattali 120  - Casa do Choro | Rua da Carioca, 38, Rua da Carioca Centro | organizador: Casa do Choro | https://www.sympla.com.br/evento/quarteto-radames-gnattali-festival-radames-gnattali-120-casa-do-choro/3664537",
    "id": "f-f4a253c2e2",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-12-05",
+    "fim": "2027-02-13",
+    "horario": "Terça a sexta, 10h–19h; sábado, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Candidata indicada (12 Nov–30 Jan) era de duas mostras na FDAG Barra Funda, em São Paulo (Sarah Morris e João Maria Gusmão): ficaram de fora. A única mostra listada na Carpintaria é esta, em \"Próximas\", sem título nem página própria: link para a página de próximas exposições; título = nome da artista. Primeira ficha da Carpintaria na base: endereço e bairro do site da galeria. Preço e classificação não informados. A fonte não traz título nem texto da mostra.",
+   "aviso": "",
+   "titulo": "Fernanda Gomes",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Carpintaria (Fortes D'Aloia & Gabriel)",
+   "endereco": "Rua Jardim Botânico, 971",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Exposição de Fernanda Gomes na Carpintaria, o espaço da galeria Fortes D'Aloia & Gabriel no Rio, no Jardim Botânico.",
+   "fonte": "Fortes D'Aloia & Gabriel (site oficial)",
+   "link": "https://fdag.com.br/exposicoes/proximas/",
+   "trecho_fonte": "Próximas [...] Fernanda Gomes 5 Dec 2026 – 13 Feb 2027 Carpintaria || Rio de Janeiro Carpintaria Rua Jardim Botânico 971 22470-051 Rio de Janeiro, Brasil [...] Horário de visitação Ter – Sex : 10h às 19h Sáb: 10h às 18h",
+   "id": "f-f54e6935b5",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
