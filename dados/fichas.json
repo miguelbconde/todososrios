@@ -1215,37 +1215,6 @@
    "entrou_em": "2026-11-19"
   },
   {
-   "titulo": "MULTIARTE 2026",
-   "areas": [
-    "Artes Visuais"
-   ],
-   "tipo": "cartaz",
-   "local": "Centro Municipal de Artes Calouste Gulbenkian",
-   "endereco": "Rua Benedito Hipólito, 125",
-   "bairro": "Praça XI",
-   "regiao": "Centro",
-   "sessoes": [],
-   "cartaz": {
-    "inicio": null,
-    "fim": "2026-12-19",
-    "horario": "Segunda a sábado, 9h–20h45"
-   },
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Exposição anual das oficinas do Calouste: pintura, gravura, cerâmica, mosaico, estamparia e outras técnicas.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "MULTIARTE 2026 – Exposição Anual das Oficinas do Coletivo Calouste Segunda à sábado, das 09h às 20h45. Até 19/12. Grátis. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-037",
-   "entrou_em": "2026-11-19"
-  },
-  {
    "titulo": "Encontro com Vanessa Gomes, autora de “Fora do Lugar”",
    "areas": [
     "Livros & Debates"
@@ -13041,39 +13010,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-12-02",
-     "hora": "18:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.",
-   "aviso": "",
-   "titulo": "Tempo Travesso",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
-   "endereco": "Rua José Higino, 115",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "\"Tempo Travesso\" no Centro Coreográfico da Cidade, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129992",
-   "trecho_fonte": "2026-12-02 18:30 até 2026-12-02 18:30 | Tempo Travesso | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/129992",
-   "id": "f-5d78dd59cd",
-   "entrou_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
      "data": "2026-11-26",
      "hora": "18:00"
     }
@@ -15821,39 +15757,6 @@
    "trecho_fonte": "em cartaz na edição que termina em 2026-11-25 | aberta de 2026-11-03 até 2027-02-28 | “Pluralidades Insulares” no Museu de Arte do Rio | Museu de Arte do Rio, Praça Mauá, 5 - Centro, Rio de Janeiro | preço não informado | https://artequeacontece.com.br/evento/pluralidades-insulares-no-museu-de-arte-do-rio/ || O Museu de Arte do Rio (MAR) abre o seu espaço para a mostra “Pluralidades Insulares: arte latino-americana e caribenha da Coleção de arte do BID (Grupo Banco Interamericano de Desenvolvimento)” . O Brasil é o primeiro país a receber esta coleção de 115 obras de 28 países, originalmente abrigada na sede do Grupo BID em Washington",
    "id": "f-870b74aa68",
    "entrou_em": "2026-11-24"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-28",
-     "hora": "22:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; o nome do projeto sugere dança.",
-   "aviso": "",
-   "titulo": "Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Dicró",
-   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
-   "bairro": "Penha Circular",
-   "regiao": "Zona Norte",
-   "sinopse": "\"Antes de Mim\", do Projeto Na Ponta dos Pés, na série Palco Leopoldina da Arena Cultural Dicró, na Penha.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129077",
-   "trecho_fonte": "2026-11-28 22:00 até 2026-11-28 22:00 | Palco Leopoldina apresenta: Antes de Mim - Projeto Na Ponta dos Pés | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/129077",
-   "id": "f-87c5ee44d2",
-   "entrou_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -18825,52 +18728,6 @@
    "trecho_fonte": "2027-01-02 19:30 até 2027-01-02 19:30 | “DEIXA CLAREAR, MUSICAL SOBRE CLARA NUNES” COM CLARA SANTHANA | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/129468",
    "id": "f-a9adb52cda",
    "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-24",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-26",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco. A página do evento não pôde ser lida.",
-   "aviso": "dias",
-   "titulo": "Ruído Bruto",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Carlos Gomes",
-   "endereco": "Praça Tiradentes, s/nº",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "\"Ruído Bruto\" em cartaz no Teatro Municipal Carlos Gomes, na Praça Tiradentes, de 24 a 28 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/130260",
-   "trecho_fonte": "2026-11-24 19:00 até 2026-11-28 17:00 | Ruído Bruto | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130260",
-   "id": "f-a9d2e23843",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
   },
   {
    "cartaz": null,
@@ -22748,44 +22605,6 @@
    "trecho_fonte": "2026-12-03 19:30 até 2026-12-03 19:30 | LUAN PUREZA CELEBRA IANSÃ – SANTA BÁRBARA | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/124933",
    "id": "f-da9a28b5f7",
    "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:30"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "A Ópera do Malandro – o musical",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Terra",
-   "endereco": "Rua Marcos de Macedo, s/nº",
-   "bairro": "Guadalupe",
-   "regiao": "Zona Norte",
-   "sinopse": "Montagem do musical \"A Ópera do Malandro\" na Areninha Cultural Terra, em Guadalupe, em 27 e 28 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129270",
-   "trecho_fonte": "2026-11-27 19:30 até 2026-11-28 19:30 | A Ópera do Malandro - o muscial | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129270 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 28 de Novembro · Sexta e Sábado às 19h30",
-   "id": "f-db4e688785",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
