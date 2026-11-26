@@ -96,6 +96,38 @@
    "resolucao": "Corrigido: acrescentado “grátis às quartas”."
   },
   {
+   "id": "2026-11-19-147",
+   "titulo": "O Nome do Bebê",
+   "campo": "classificacao",
+   "veredito": "diverge",
+   "detalhe": "A ficha deixa vazio. F114 traz \"Classificação etária: 12 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis.\"",
+   "resolucao": "Corrigido: 12 anos."
+  },
+  {
+   "id": "2026-11-19-147",
+   "titulo": "O Nome do Bebê",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A nota diz que a coleta não trouxe a sinopse, e a ficha só fala da temporada. F114 traz a sinopse completa: \"a comédia O Nome do Bebê, com Bianca Bin e grande elenco\", \"da dupla francesa Matthieu Delaporte e Alexandre de la Patellière\", \"A direção é de Elias Andreato\". A nota está errada (o preço, de fato, não aparece).",
+   "resolucao": "Corrigido: sinopse refeita a partir da fonte."
+  },
+  {
+   "id": "2026-11-19-148",
+   "titulo": "O Mercador de Veneza",
+   "campo": "classificacao",
+   "veredito": "diverge",
+   "detalhe": "A ficha deixa vazio. F114 traz \"Classificação etária: 14 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis.\"",
+   "resolucao": "Corrigido: 14 anos."
+  },
+  {
+   "id": "2026-11-19-148",
+   "titulo": "O Mercador de Veneza",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A nota diz que a coleta não trouxe a sinopse. F114 traz: \"O Mercador de Veneza, do dramaturgo inglês William Shakespeare [...] A peça tem direção de Daniela Stirbulov e é protagonizada por Dan Stulbach que dá vida ao marcante agiota Shylock\" e \"Duração: 120 minutos\". A nota está errada (o preço, de fato, não aparece).",
+   "resolucao": "Corrigido: sinopse refeita a partir da fonte."
+  },
+  {
    "id": "2026-11-19-150",
    "titulo": "Margaridas",
    "campo": "classificacao",
@@ -774,6 +806,46 @@
    "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
    "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
    "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patati Patatá Circo Show",
+   "campo": "sessoes",
+   "veredito": "duvida",
+   "detalhe": "dias presumidos caíam em feriados",
+   "resolucao": "Corrigido: tirados 24, 25 e 31/12 e 1/1",
+   "id": "f-44d3abbad6"
+  },
+  {
+   "titulo": "Rio Carnaval Expo",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "tema deduzido e gratuidade só da Riotur",
+   "resolucao": "Corrigido: sinopse só com os fatos",
+   "id": "f-91e8f08be9"
+  },
+  {
+   "titulo": "Hipertelia – Marés de Mudanças",
+   "campo": "preco",
+   "veredito": "duvida",
+   "detalhe": "gratuidade só pela Riotur",
+   "resolucao": "Corrigido: preço vazio, na nota",
+   "id": "f-8fafc9a14f"
+  },
+  {
+   "titulo": "Cidade Batucada",
+   "campo": "preco",
+   "veredito": "diverge",
+   "detalhe": "gratuidade só pela Riotur",
+   "resolucao": "Corrigido: preço vazio, na nota",
+   "id": "f-bcc6780966"
+  },
+  {
+   "titulo": "Escola do Rock",
+   "campo": "criterios",
+   "veredito": "duvida",
+   "detalhe": "o site chama \"Escola do Rock - CEFTEM\"; pode ser montagem de escola de formação",
+   "resolucao": "",
+   "id": "2026-11-19-143"
   }
  ]
 }

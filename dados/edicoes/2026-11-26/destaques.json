@@ -123,8 +123,8 @@
     "automatico": true
    },
    {
-    "id": "2026-11-19-115",
-    "porque": "A preço popular, em Tijuca.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
@@ -225,13 +225,13 @@
     "automatico": true
    },
    {
-    "id": "f-10ec79340e",
-    "porque": "De graça, em Maracanã.",
+    "id": "f-09fb8bccf4",
+    "porque": "Em Gamboa.",
     "automatico": true
    },
    {
-    "id": "f-c263ccf73d",
-    "porque": "Em Centro (Castelo).",
+    "id": "f-10ec79340e",
+    "porque": "De graça, em Maracanã.",
     "automatico": true
    }
   ],
@@ -242,8 +242,8 @@
     "automatico": true
    },
    {
-    "id": "f-4c8ae58ab7",
-    "porque": "Em Guadalupe.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
@@ -344,13 +344,13 @@
     "automatico": true
    },
    {
-    "id": "f-556068237b",
-    "porque": "Em Jardim Botânico.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-7ee593a290",
-    "porque": "Em Pechincha.",
+    "id": "f-8843942562",
+    "porque": "Em Gamboa.",
     "automatico": true
    }
   ],
@@ -361,17 +361,22 @@
     "automatico": true
    },
    {
-    "id": "f-6d88fb718b",
-    "porque": "Em Bangu.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-556068237b",
-    "porque": "Em Jardim Botânico.",
+    "id": "f-8843942562",
+    "porque": "Em Gamboa.",
     "automatico": true
    }
   ],
   "2026-12-19": [
+   {
+    "id": "f-0d6da3e8f2",
+    "porque": "Em Lapa.",
+    "automatico": true
+   },
    {
     "id": "f-2e459d6746",
     "porque": "Em Centro.",
@@ -381,27 +386,22 @@
     "id": "f-60fc1e13de",
     "porque": "De graça, em Maracanã.",
     "automatico": true
-   },
-   {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
    }
   ],
   "2026-12-20": [
    {
-    "id": "f-5aa91aa5df",
-    "porque": "Em Glória (Aterro do Flamengo).",
-    "automatico": true
-   },
-   {
-    "id": "f-dcc73bca1e",
-    "porque": "Em Santa Teresa.",
+    "id": "f-30448cd19b",
+    "porque": "Em Lapa.",
     "automatico": true
    },
    {
     "id": "f-7937a4860b",
     "porque": "Em Vista Alegre.",
+    "automatico": true
+   },
+   {
+    "id": "f-dcc73bca1e",
+    "porque": "Em Santa Teresa.",
     "automatico": true
    }
   ],
@@ -480,7 +480,7 @@
     "automatico": true
    },
    {
-    "id": "f-33ab9caca1",
+    "id": "f-44d3abbad6",
     "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
@@ -492,18 +492,18 @@
   ],
   "2026-12-27": [
    {
-    "id": "f-644214f001",
-    "porque": "Em Penha.",
+    "id": "f-2642cfefce",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
-    "automatico": true
-   },
-   {
-    "id": "f-0405b8de0e",
-    "porque": "Em São Conrado.",
     "automatico": true
    }
   ],
@@ -538,8 +538,37 @@
   ],
   "2026-12-30": [
    {
+    "id": "f-f0e8bb5026",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
     "id": "f-f816fad6ae",
     "porque": "Em Copacabana.",
+    "automatico": true
+   }
+  ],
+  "2026-12-31": [
+   {
+    "id": "f-2e3d620019",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-7d1099f28a",
+    "porque": "Em Gávea.",
+    "automatico": true
+   }
+  ],
+  "2027-01-01": [
+   {
+    "id": "f-6233780e60",
+    "porque": "Em Penha.",
+    "automatico": true
+   },
+   {
+    "id": "f-b72825cc62",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -550,17 +579,27 @@
     "automatico": true
    },
    {
-    "id": "f-d8051ffef7",
-    "porque": "Em Gávea.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-d035932a07",
-    "porque": "Em Olaria.",
+    "id": "f-ee9fdd6c71",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
   "2027-01-03": [
+   {
+    "id": "f-ff2363c326",
+    "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
    {
     "id": "f-d8051ffef7",
     "porque": "Em Gávea.",
@@ -581,6 +620,11 @@
   ],
   "2027-01-07": [
    {
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
     "automatico": true
@@ -598,12 +642,12 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
+    "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
    }
@@ -615,25 +659,25 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
+    "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
    }
   ],
   "2027-01-10": [
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-44d3abbad6",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-f31424ba66",
-    "porque": "Em Bangu.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    },
    {
@@ -709,13 +753,13 @@
     "automatico": true
    },
    {
-    "id": "f-abce1b60e3",
-    "porque": "A preço popular, em Barra da Tijuca.",
+    "id": "f-12ac528534",
+    "porque": "Em Cachambi.",
     "automatico": true
    },
    {
-    "id": "f-47a736f90a",
-    "porque": "Em Pechincha.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    }
   ],
@@ -731,8 +775,8 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-12ac528534",
+    "porque": "Em Cachambi.",
     "automatico": true
    }
   ],
@@ -784,8 +828,8 @@
     "automatico": true
    },
    {
-    "id": "f-50091abddb",
-    "porque": "Em Gávea.",
+    "id": "f-3e2475e823",
+    "porque": "Em Glória.",
     "automatico": true
    }
   ],
@@ -912,6 +956,8 @@
   "2026-12-28",
   "2026-12-29",
   "2026-12-30",
+  "2026-12-31",
+  "2027-01-01",
   "2027-01-02",
   "2027-01-03",
   "2027-01-06",

@@ -1174,6 +1174,74 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-09-17",
+    "fim": "2026-12-19",
+    "horario": "Segunda a sexta, 10h–19h; sábado, 13h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Novos barrocos – coletiva",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Flexa",
+   "endereco": "Rua Dias Ferreira, 214",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "Coletiva com curadoria de Lilia Schwarcz que parte do barroco brasileiro, pensado como linguagem de fé e de poder.",
+   "fonte": "Agenda da ArtRio",
+   "link": "https://artrio.com/agenda-cultural",
+   "id": "f-19b460ef0d",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Group show curated by Lilia Schwarcz that starts from the Brazilian Baroque, seen as a language of faith and power.",
+   "sinopse_es": "Muestra colectiva con curaduría de Lilia Schwarcz que parte del barroco brasileño, pensado como lenguaje de fe y de poder.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-11-07",
+    "fim": "2026-12-17",
+    "horario": "Segunda a sexta, com agendamento prévio"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Modos de (co)existir, de Mariana Fogaça",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Gaby Indio Arte Contemporânea",
+   "endereco": "Estrada da Gávea, 712, térreo",
+   "bairro": "São Conrado",
+   "regiao": "Zona Sul",
+   "sinopse": "Exposição de Mariana Fogaça a partir de sucessivas incursões da artista pela Mata Atlântica, com texto de Ana Carolina Ralston.",
+   "fonte": "Agenda da ArtRio",
+   "link": "https://artrio.com/agenda-cultural",
+   "id": "f-25ed1f51d8",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Exhibition by Mariana Fogaça based on the artist's successive forays into the Atlantic Forest, with a text by Ana Carolina Ralston.",
+   "sinopse_es": "Exposición de Mariana Fogaça a partir de sucesivas incursiones de la artista por la Mata Atlántica, con texto de Ana Carolina Ralston.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-11-26",
     "fim": "2027-05-02",
     "horario": "Terça a sexta, 10h–20h; sábado, domingo e feriados, 10h–18h"
@@ -1278,6 +1346,74 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-11-07",
+    "fim": "2027-01-09",
+    "horario": "Terça a sexta, 11h–19h; sábado, 13h–17h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Borda, de Mateu Velasco",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Galeria Movimento",
+   "endereco": "Rua dos Oitis, 15",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Individual de Mateu Velasco com pinturas inéditas, acompanhada de texto de Beatriz Coslovsky.",
+   "fonte": "Site da Galeria Movimento; agenda da ArtRio (período)",
+   "link": "https://www.galeriamovimento.com.br/exposicoes",
+   "id": "f-514938dd7f",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Solo show by Mateu Velasco with previously unseen paintings, accompanied by a text by Beatriz Coslovsky.",
+   "sinopse_es": "Muestra individual de Mateu Velasco con pinturas inéditas, acompañada de un texto de Beatriz Coslovsky.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-11-08",
+    "fim": null,
+    "horario": "Quinta a domingo, 10h–18h (acesso às exposições até 17h30)"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis (contribuição sugerida de R$ 20)",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festas, Sambas e Outros Carnavais",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Museu do Pontal",
+   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Coletiva de longa duração que ocupa cerca de 70% das galerias do museu, com maracatus, folias, reisados, jongos, bois-bumbá, carimbós, sambas e carnavais. Curadoria de Angela Mascelani e Lucas Van de Beuque.",
+   "fonte": "Site do Museu do Pontal",
+   "link": "https://museudopontal.org.br/exposicao/festas-sambas-e-outros-carnavais/",
+   "id": "f-7f54b7b0b2",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Long-term group exhibition occupying about 70% of the museum's galleries, with maracatus, folias, reisados, jongos, bois-bumbá, carimbós, sambas and carnivals. Curated by Angela Mascelani and Lucas Van de Beuque.",
+   "sinopse_es": "Muestra colectiva de larga duración que ocupa cerca del 70% de las salas del museo, con maracatus, folias, reisados, jongos, bois-bumbá, carimbós, sambas y carnavales. Curaduría de Angela Mascelani y Lucas Van de Beuque.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-11-03",
     "fim": "2027-02-28",
     "horario": ""
@@ -1307,6 +1443,75 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "MAR hosts 115 works from 28 countries from the IDB Group's Latin American and Caribbean art collection, originally housed at the group's headquarters in Washington; Brazil is the first country to receive it.",
    "sinopse_es": "El MAR recibe 115 obras de 28 países de la colección de arte latinoamericano y caribeño del Grupo BID, originalmente albergada en la sede del grupo en Washington; Brasil es el primer país en recibirla.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-09-12",
+    "fim": "2026-12-13",
+    "horario": "Quarta a domingo, 14h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Hipertelia – Marés de Mudanças",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Casa Museu Eva Klabin",
+   "endereco": "Av. Epitácio Pessoa, 2.480",
+   "bairro": "Lagoa",
+   "regiao": "Zona Sul",
+   "sinopse": "Exposição com cerca de 50 trabalhos no primeiro andar da Casa Museu Eva Klabin, com curadoria de Camilla Rocha Campos. Visitas mediadas gratuitas.",
+   "fonte": "Site da Casa Museu Eva Klabin e Riotur (Calendário Oficial)",
+   "link": "https://www.evaklabin.org.br/pt",
+   "id": "f-8fafc9a14f",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Exhibition with about 50 works on the first floor of Casa Museu Eva Klabin, curated by Camilla Rocha Campos. Free guided visits.",
+   "sinopse_es": "Exposición con cerca de 50 obras en el primer piso de la Casa Museu Eva Klabin, con curaduría de Camilla Rocha Campos. Visitas mediadas gratuitas.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-10-29",
+    "fim": "2027-01-26",
+    "horario": "Terça a quinta e domingo, 10h–18h; sexta e sábado, 10h–20h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Rio Carnaval Expo",
+   "areas": [
+    "Artes Visuais",
+    "Festas & Feiras"
+   ],
+   "tipo": "cartaz",
+   "local": "Cidade do Samba",
+   "endereco": "R. Rivadávia Corrêa, 60",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Rio Carnaval Expo, na Cidade do Samba, na Gamboa, em cartaz até 26 de janeiro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/rio-carnaval-expo-cidade-do-samba-10/",
+   "id": "f-91e8f08be9",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Rio Carnaval Expo, at Cidade do Samba, in Gamboa, on view until January 26.",
+   "sinopse_es": "Rio Carnaval Expo, en la Cidade do Samba, en Gamboa, en cartel hasta el 26 de enero.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -1376,6 +1581,40 @@
    "sinopse_en": "The Museu do Pontal's main long-term exhibition, a tribute to the original way of presenting its Brazilian folk art collection devised by the founder, Jacques Van de Beuque. Free admission.",
    "sinopse_es": "Exposición central y de larga duración del Museu do Pontal, un homenaje a la propuesta original de presentación del acervo de arte popular brasileño creada por el fundador, Jacques Van de Beuque. Entrada gratuita.",
    "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-11-26",
+    "fim": "2027-01-06",
+    "horario": "Terça a domingo, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cidade Batucada",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Palácio Gustavo Capanema",
+   "endereco": "Rua da Imprensa, 16",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Exposição \"Cidade Batucada\" no Palácio Gustavo Capanema, no Centro, em cartaz até 6 de janeiro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/cidade-batucada-no-palacio-gustavo-capanema-10/",
+   "id": "f-bcc6780966",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Exhibition \"Cidade Batucada\" at Palácio Gustavo Capanema, in Centro, on view until January 6.",
+   "sinopse_es": "Exposición \"Cidade Batucada\" en el Palácio Gustavo Capanema, en el Centro, en cartel hasta el 6 de enero.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -2999,6 +3238,69 @@
     {
      "data": "2026-11-26",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Pororoca",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Sesc Ginástico",
+   "endereco": "Av. Graça Aranha, 187",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Espetáculo \"Pororoca\" em temporada no Teatro Sesc Ginástico, no Centro, até 6 de dezembro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/pororoca-no-teatro-sesc-ginasio-3/",
+   "id": "f-e449afdfbe",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The play \"Pororoca\" runs at Teatro Sesc Ginástico, downtown, until December 6.",
+   "sinopse_es": "La obra \"Pororoca\" está en temporada en el Teatro Sesc Ginástico, en el Centro, hasta el 6 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
     }
    ],
    "preco_texto": "a partir de R$ 57,60",
@@ -3142,6 +3444,81 @@
    "entrou_em": "2026-11-26",
    "sinopse_en": "\"Entre Atos\" in the Sala Murilo Miranda at Teatro Glauce Rocha, downtown, until November 29.",
    "sinopse_es": "\"Entre Atos\" en la Sala Murilo Miranda del Teatro Glauce Rocha, en el Centro, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 297,50",
+   "preco_min": 297.5,
+   "preco_max": 297.5,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Seal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show de Seal no Qualistage, na Barra da Tijuca.",
+   "fonte": "Site do Qualistage",
+   "link": "https://qualistage.com.br/evento/400/seal",
+   "id": "f-e2bc0c6480",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Seal in concert at Qualistage, in Barra da Tijuca.",
+   "sinopse_es": "Show de Seal en el Qualistage, en Barra da Tijuca.",
+   "faixa": "acima80",
+   "status": "conferido"
+  },
+  {
+   "titulo": "O Nome do Bebê",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Casa Grande (Teatro Axia Casa Grande)",
+   "endereco": "Av. Afrânio de Melo Franco, 290",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Comédia da dupla francesa Matthieu Delaporte e Alexandre de la Patellière, com Bianca Bin no elenco e direção de Elias Andreato. Curtíssima temporada, até 27 de novembro.",
+   "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
+   "link": "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/o-nome-do-bebe/",
+   "id": "2026-11-19-147",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A comedy by the French duo Matthieu Delaporte and Alexandre de la Patellière, with Bianca Bin in the cast and direction by Elias Andreato. Very short run, until 27 November.",
+   "sinopse_es": "Comedia del dúo francés Matthieu Delaporte y Alexandre de la Patellière, con Bianca Bin en el elenco y dirección de Elias Andreato. Temporada cortísima, hasta el 27 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -3477,6 +3854,45 @@
    "sinopse_en": "Yumi Park presents the show \"Alma de Artista\" at Bottle's Bar, at Beco das Garrafas, in Copacabana. Five nights through Christmas.",
    "sinopse_es": "Yumi Park presenta el espectáculo \"Alma de Artista\" en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Son cinco noches hasta Navidad.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Embarcação Perdue",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Gláucio Gill",
+   "endereco": "Praça Cardeal Arcoverde, s/nº",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Últimas sessões do espetáculo \"Embarcação Perdue\" no Teatro Gláucio Gill, em Copacabana, que encerra a temporada nesta sexta.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/embarcacao-perdue-teatro-glaucio-gil/",
+   "id": "f-76daacf063",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Last performances of \"Embarcação Perdue\" at Teatro Gláucio Gill, in Copacabana; the run closes this Friday.",
+   "sinopse_es": "Últimas funciones de \"Embarcação Perdue\" en el Teatro Gláucio Gill, en Copacabana; la temporada termina este viernes.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -3984,6 +4400,69 @@
    "atualizado_em": "2026-11-25",
    "sinopse_en": "A staging of Shakespeare's \"Romeu e Julieta\", running at Teatro Municipal Domingos Oliveira, in Gávea, until December 10.",
    "sinopse_es": "Montaje de \"Romeu e Julieta\", de Shakespeare, en temporada en el Teatro Municipal Domingos Oliveira, en Gávea, hasta el 10 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "A Solidão do Feio",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana (Mezanino)",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo \"A Solidão do Feio\" no mezanino do Sesc Copacabana, com sessões de quinta a domingo até 6 de dezembro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/a-solidao-do-feio-no-teatro-sesc-copacabana-2/",
+   "id": "f-1da07461ee",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The play \"A Solidão do Feio\" on the mezzanine of Sesc Copacabana, with performances Thursday to Sunday until December 6.",
+   "sinopse_es": "La obra \"A Solidão do Feio\" en el entrepiso del Sesc Copacabana, con funciones de jueves a domingo hasta el 6 de diciembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -4870,6 +5349,50 @@
    "status": "conferido"
   },
   {
+   "titulo": "Confissões de Adolescente – o musical",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Versão musical inédita da história sobre as dores e as descobertas de crescer.",
+   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "id": "2026-11-19-142",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A new musical version of the story about the pains and discoveries of growing up.",
+   "sinopse_es": "Versión musical inédita de la historia sobre los dolores y los descubrimientos de crecer.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -5691,6 +6214,71 @@
    "sinopse_es": "El Samba do Pedro toca en el Largo do Boticário, en Cosme Velho, en la serie Feijuca com Samba.",
    "faixa": "nao_informado",
    "status": "conferido"
+  },
+  {
+   "titulo": "Escola do Rock",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "15:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Musical baseado no filme de 2003: um guitarrista se passa por professor substituto e monta uma banda com alunos do quinto ano para disputar a Batalha das Bandas.",
+   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "id": "2026-11-19-143",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A musical based on the 2003 film: a guitarist poses as a substitute teacher and forms a band with fifth-graders to compete in the Battle of the Bands.",
+   "sinopse_es": "Musical basado en la película de 2003: un guitarrista se hace pasar por profesor suplente y forma una banda con alumnos de quinto grado para competir en la Batalla de las Bandas.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -7227,6 +7815,46 @@
    "status": "conferido"
   },
   {
+   "titulo": "O Mercador de Veneza",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Casa Grande (Teatro Axia Casa Grande)",
+   "endereco": "Av. Afrânio de Melo Franco, 290",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "A peça de William Shakespeare, com direção de Daniela Stirbulov e Dan Stulbach no papel do agiota Shylock. Dura duas horas. Curta temporada, até 29 de novembro.",
+   "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
+   "link": "https://www.teatroaxiacasagrande.com.br/programacao/",
+   "id": "2026-11-19-148",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "William Shakespeare's play, directed by Daniela Stirbulov, with Dan Stulbach as the moneylender Shylock. Runs two hours. Short run, until 29 November.",
+   "sinopse_es": "La obra de William Shakespeare, con dirección de Daniela Stirbulov y Dan Stulbach en el papel del usurero Shylock. Dura dos horas. Temporada corta, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -7285,6 +7913,80 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Renato Albani: Salve-se Quem Puder",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Farmasi Arena",
+   "endereco": "Av. Embaixador Abelardo Bueno, 3.401",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Renato Albani apresenta o espetáculo \"Salve-se Quem Puder\" na Farmasi Arena, na Barra da Tijuca.",
+   "fonte": "Farmasi Arena (agenda oficial) e Riotur (Calendário Oficial)",
+   "link": "https://farmasiarena.com.br/proximos-eventos/",
+   "id": "f-0e345919ae",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Renato Albani presents the show \"Salve-se Quem Puder\" at Farmasi Arena, in Barra da Tijuca.",
+   "sinopse_es": "Renato Albani presenta el espectáculo \"Salve-se Quem Puder\" en la Farmasi Arena, en Barra da Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "O Céu da Língua, com Gregório Duvivier",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Gregório Duvivier apresenta \"O Céu da Língua\" em duas sessões na Brava Arena, no Jockey Club.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/o-ceu-da-lingua-com-gregorio-duvivier-na-brava-arena-jockey/",
+   "id": "f-ce157b6b62",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Gregório Duvivier performs \"O Céu da Língua\" in two shows at Brava Arena, at the Jockey Club.",
+   "sinopse_es": "Gregório Duvivier presenta \"O Céu da Língua\" en dos funciones en la Brava Arena, en el Jockey Club.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução",
    "areas": [
     "Música"
@@ -7302,6 +8004,41 @@
    "sinopse_en": "Guilherme Lemos e os Filhos da Revolução play Legião Urbana at Areninha Cultural Renato Russo, on Ilha do Governador.",
    "sinopse_es": "Guilherme Lemos e os Filhos da Revolução tocan Legião Urbana en la Areninha Cultural Renato Russo, en la Ilha do Governador.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Jorge Vercillo: JV30 Parte II – Mais um Final Feliz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show extra que encerra a turnê \"JV30 Parte II – Mais um final feliz\", com que Jorge Vercillo celebra 30 anos de carreira.",
+   "fonte": "Site do Qualistage",
+   "link": "https://qualistage.com.br/evento/438/jorge-vercillo",
+   "id": "f-d0c27e184b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Extra show closing the tour \"JV30 Parte II – Mais um final feliz\", with which Jorge Vercillo celebrates 30 years of career.",
+   "sinopse_es": "Show extra que cierra la gira \"JV30 Parte II – Mais um final feliz\", con la que Jorge Vercillo celebra 30 años de carrera.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -8207,6 +8944,41 @@
    "sinopse_en": "Monday samba circle with Moacyr Luz and Samba do Trabalhador at Renascença Clube, in Andaraí, from 4:30 pm to 9:30 pm.",
    "sinopse_es": "Rueda de samba de los lunes con Moacyr Luz y el Samba do Trabalhador en el Renascença Clube, en Andaraí, de 16:30 a 21:30.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis (retirada na bilheteria 2h antes)",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Dramaturgia em Leituras: Marlim Azul",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro TotalEnergies – Sala Adolpho Bloch",
+   "endereco": "Rua do Russel, 804",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Leitura dramatizada de \"Marlim Azul\", texto de Ruy Borba sobre o luto e os conflitos de uma família depois da morte do patriarca, com humor e realismo fantástico.",
+   "fonte": "Site do Teatro TotalEnergies e Riotur (Calendário Oficial)",
+   "link": "https://teatrototalenergies.com.br",
+   "id": "f-80ee594fbb",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Staged reading of \"Marlim Azul\", a play by Ruy Borba about grief and the conflicts of a family after the patriarch's death, mixing humor and magical realism.",
+   "sinopse_es": "Lectura dramatizada de \"Marlim Azul\", texto de Ruy Borba sobre el duelo y los conflictos de una familia tras la muerte del patriarca, con humor y realismo mágico.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -9447,6 +10219,41 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Pagodinho com Guga Nandes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Essência do Samba",
+   "endereco": "Rua Honório",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Guga Nandes no Essência do Samba, no Cachambi.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagodinho-com-guga-nandes-essencia-do-samba/3667032",
+   "id": "f-9037f6a4a1",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Guga Nandes at Essência do Samba, in Cachambi.",
+   "sinopse_es": "Guga Nandes en Essência do Samba, en Cachambi.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Marcos Sacramento e Moacyr Luz",
    "areas": [
     "Música"
@@ -10623,6 +11430,149 @@
    "sessoes": [
     {
      "data": "2026-12-04",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-02",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-03",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-07",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-08",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Patati Patatá Circo Show",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Estacionamento do Carrefour Barra",
+   "endereco": "Avenida das Américas, 5150",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Patati Patatá Circo Show no estacionamento do Carrefour Barra, na Avenida das Américas, na Barra da Tijuca, de 4 de dezembro a 10 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129506",
+   "id": "f-44d3abbad6",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Patati Patatá Circo Show in the Carrefour Barra parking lot, on Avenida das Américas, in Barra da Tijuca, from December 4 to January 10.",
+   "sinopse_es": "Patati Patatá Circo Show en el estacionamiento del Carrefour Barra, en la Avenida das Américas, en Barra da Tijuca, del 4 de diciembre al 10 de enero.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Guilherme Arantes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Guilherme Arantes na Brava Arena, no Jockey Club, na Gávea.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/guilherme-arantes-na-brava-arena-jockey/",
+   "id": "f-03bc18ee86",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Guilherme Arantes in concert at Brava Arena, at the Jockey Club, in Gávea.",
+   "sinopse_es": "Show de Guilherme Arantes en la Brava Arena, en el Jockey Club, en Gávea.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
      "hora": "20:00"
     },
     {
@@ -11253,6 +12203,53 @@
    "sessoes": [
     {
      "data": "2026-12-05",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Pagode com Molho",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Badalado Isla Club",
+   "endereco": "Ilha do Ipê, 52, loja 04",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Pagode com Molho no Badalado Isla Club, na Ilha do Ipê, na Barra da Tijuca, aos sábados de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagode-com-molho-05-12/3666487",
+   "id": "f-a30fd6d928",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Pagode com Molho at Badalado Isla Club, on Ilha do Ipê, in Barra da Tijuca, on Saturdays in December.",
+   "sinopse_es": "Pagode com Molho en el Badalado Isla Club, en la Ilha do Ipê, en Barra da Tijuca, los sábados de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
      "hora": "16:00"
     },
     {
@@ -11583,6 +12580,76 @@
    "sessoes": [
     {
      "data": "2026-12-05",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Capital Inicial",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show da banda Capital Inicial na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/capital-inicial-na-brava-arena-jockey/",
+   "id": "f-9a34852836",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The band Capital Inicial in concert at Brava Arena, at the Jockey Club; gates open at 6 p.m.",
+   "sinopse_es": "Show de la banda Capital Inicial en la Brava Arena, en el Jockey Club; las puertas abren a las 18 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Tributo a Raul Seixas e Renato Russo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Estrada dos Bandeirantes, 22774",
+   "endereco": "Estrada dos Bandeirantes, 22774",
+   "bairro": "Vargem Grande",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Tributo a Raul Seixas e Renato Russo na Estrada dos Bandeirantes, em Vargem Grande.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/tributo-raul-seixas-renato-russo-nectar-som/3666273",
+   "id": "f-58e65118d2",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Tribute to Raul Seixas and Renato Russo on Estrada dos Bandeirantes, in Vargem Grande.",
+   "sinopse_es": "Tributo a Raul Seixas y Renato Russo en la Estrada dos Bandeirantes, en Vargem Grande.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
      "hora": "21:00"
     }
    ],
@@ -11805,6 +12872,41 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Feijuca com Samba: Samba do Xoxó",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Largo do Boticário",
+   "endereco": "Beco do Boticário",
+   "bairro": "Cosme Velho",
+   "regiao": "Zona Sul",
+   "sinopse": "O Samba do Xoxó toca no Largo do Boticário, no Cosme Velho, na série Feijuca com Samba.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-xoxo/3662872",
+   "id": "f-d22d4a7643",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Samba do Xoxó plays at Largo do Boticário, in Cosme Velho, in the Feijuca com Samba series.",
+   "sinopse_es": "El Samba do Xoxó toca en el Largo do Boticário, en Cosme Velho, en la serie Feijuca com Samba.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Bruno Bellandi e Banda: Feijão Retrô",
    "areas": [
     "Música"
@@ -11856,6 +12958,53 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "A performance of \"Os Piores Pirralhos do Mundo!\" at Areninha Cultural Hermeto Pascoal, in Bangu.",
    "sinopse_es": "Presentación de \"Os Piores Pirralhos do Mundo!\" en la Areninha Cultural Hermeto Pascoal, en Bangu.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Puro Suco do Samba",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Badalado Isla Club",
+   "endereco": "Ilha do Ipê, 52, loja 04",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Puro Suco do Samba no Badalado Isla Club, na Ilha do Ipê, na Barra da Tijuca, aos domingos de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/puro-suco-do-samba-06-12/3666590",
+   "id": "f-2642cfefce",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Puro Suco do Samba at Badalado Isla Club, on Ilha do Ipê, in Barra da Tijuca, on Sundays in December.",
+   "sinopse_es": "Puro Suco do Samba en el Badalado Isla Club, en la Ilha do Ipê, en Barra da Tijuca, los domingos de diciembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -12032,6 +13181,41 @@
    "sinopse_en": "The Intercantus, Tu Voz, Mi Voz, Prelúdio and Península choirs sing Jean Kleeb's \"Canta Navidad\", conducted by Miguel Torres with María Gabriela Chacón on piano, at the Teatro de Câmara of Cidade das Artes.",
    "sinopse_es": "Los coros Intercantus, Tu Voz, Mi Voz, Prelúdio y Península cantan \"Canta Navidad\", de Jean Kleeb, con dirección de Miguel Torres y piano de María Gabriela Chacón, en el Teatro de Câmara de la Cidade das Artes.",
    "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Quintal do Batuqg",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Essência do Samba",
+   "endereco": "Rua Honório",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Quintal do Batuqg no Essência do Samba, no Cachambi.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-do-batuqg-essencia-do-samba/3667293",
+   "id": "f-93557939f7",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Quintal do Batuqg at Essência do Samba, in Cachambi.",
+   "sinopse_es": "Quintal do Batuqg en Essência do Samba, en Cachambi.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -12604,6 +13788,49 @@
     {
      "data": "2026-12-09",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Concurso da Corte Real do Carnaval 2027: eliminatórias",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Cidade do Samba",
+   "endereco": "R. Rivadávia Corrêa, 60",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Eliminatórias do concurso que escolhe a Corte Real do Carnaval 2027, na Cidade do Samba: dia 9, Corte Real LGBT+; dias 10 e 11, Corte Real Tradicional.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/elimatorias-concurso-corte-real-carnaval-2027/",
+   "id": "f-09fb8bccf4",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Qualifying rounds of the contest that chooses the Royal Court of Carnaval 2027, at Cidade do Samba: on the 9th, the LGBT+ Royal Court; on the 10th and 11th, the Traditional Royal Court.",
+   "sinopse_es": "Eliminatorias del concurso que elige la Corte Real del Carnaval 2027, en la Cidade do Samba: el día 9, Corte Real LGBT+; los días 10 y 11, Corte Real Tradicional.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
+     "hora": "19:00"
     }
    ],
    "preco_texto": "Grátis",
@@ -13128,6 +14355,69 @@
    "sessoes": [
     {
      "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "O Nariz",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"O Nariz\" no Teatro Glauce Rocha, da Funarte, no Centro, de 10 a 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/o-nariz/3666916",
+   "id": "f-fd2a4cbafe",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"O Nariz\" at Funarte's Teatro Glauce Rocha, downtown, from December 10 to 20.",
+   "sinopse_es": "\"O Nariz\" en el Teatro Glauce Rocha, de la Funarte, en el Centro, del 10 al 20 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
      "hora": "20:00"
     }
    ],
@@ -13401,6 +14691,45 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "Jade Vitóriah presents \"A Cor da Minha Voz\" in the Sexta Plural series at Centro da Música Carioca, in Tijuca.",
    "sinopse_es": "Jade Vitóriah presenta \"A Cor da Minha Voz\" en la serie Sexta Plural del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Noite da Floresta – Cabaré ao Som de Ney",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cesgranrio",
+   "endereco": "Rua Santa Alexandrina, 1011",
+   "bairro": "Rio Comprido",
+   "regiao": "Centro",
+   "sinopse": "Cabaré ao som de Ney no Teatro Cesgranrio, no Rio Comprido, em 11 e 12 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130807",
+   "id": "f-3a127a821b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "A cabaret to the sound of Ney at Teatro Cesgranrio, in Rio Comprido, on December 11 and 12.",
+   "sinopse_es": "Cabaret al son de Ney en el Teatro Cesgranrio, en Rio Comprido, el 11 y 12 de diciembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -14185,6 +15514,41 @@
      "hora": "20:00"
     }
    ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Jota Quest",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show da banda Jota Quest na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/jota-quest-na-brava-arena-jockey/",
+   "id": "f-962f9dcd71",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The band Jota Quest in concert at Brava Arena, at the Jockey Club; gates open at 6 p.m.",
+   "sinopse_es": "Show de la banda Jota Quest en la Brava Arena, en el Jockey Club; las puertas abren a las 18 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
    "preco_texto": "Pista: R$ 40 (inteira) e R$ 20 (meia)",
    "preco_min": 40,
    "preco_max": 40,
@@ -14509,6 +15873,41 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Quintal da Piedade – 5ª edição: A Paz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Galpão do Samba",
+   "endereco": "Rua Bernardo",
+   "bairro": "Engenho de Dentro",
+   "regiao": "Zona Norte",
+   "sinopse": "Quinta edição do Quintal da Piedade, com o tema \"A Paz\", no Galpão do Samba, no Engenho de Dentro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-da-piedade-5a-edicao-a-paz/3666100",
+   "id": "f-111b66f8b9",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Fifth edition of Quintal da Piedade, themed \"A Paz\", at Galpão do Samba, in Engenho de Dentro.",
+   "sinopse_es": "Quinta edición del Quintal da Piedade, con el tema \"A Paz\", en el Galpão do Samba, en Engenho de Dentro.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Canela de Velho",
    "areas": [
     "Música"
@@ -14596,6 +15995,41 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "Children's Sunday at the Centro da Música Carioca, in Tijuca, welcomes a Folia de Reis: \"A Brilhante Estrela de Belém\".",
    "sinopse_es": "El Domingo de los Niños del Centro da Música Carioca, en Tijuca, recibe una Folia de Reis: \"A Brilhante Estrela de Belém\".",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Pé do Meu Samba, a Roda – 3ª edição",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Casa Baixo Gávea",
+   "endereco": "Praça Santos Dumont",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Terceira edição da roda Pé do Meu Samba, na Casa Baixo Gávea, das 17h às 23h.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pe-do-meu-samba-a-roda-3a-edicao/3667060",
+   "id": "f-0ed3bd071c",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Third edition of the Pé do Meu Samba roda, at Casa Baixo Gávea, from 5 pm to 11 pm.",
+   "sinopse_es": "Tercera edición de la roda Pé do Meu Samba, en la Casa Baixo Gávea, de 17 h a 23 h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -15072,6 +16506,45 @@
     {
      "data": "2026-12-17",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Concurso da Corte Real do Carnaval 2027: finais",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Cidade do Samba",
+   "endereco": "R. Rivadávia Corrêa, 60",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Finais do concurso da Corte Real do Carnaval 2027, na Cidade do Samba: dia 17, Corte Real LGBT+; dia 18, Corte Real Tradicional.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/finais-concurso-corte-real-carnaval-2027/",
+   "id": "f-8843942562",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Finals of the Royal Court of Carnaval 2027 contest, at Cidade do Samba: on the 17th, the LGBT+ Royal Court; on the 18th, the Traditional Royal Court.",
+   "sinopse_es": "Finales del concurso de la Corte Real del Carnaval 2027, en la Cidade do Samba: el día 17, Corte Real LGBT+; el día 18, Corte Real Tradicional.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "19:00"
     }
    ],
    "preco_texto": "",
@@ -15484,6 +16957,76 @@
      "hora": "20:00"
     }
    ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Lenine",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Lenine na Brava Arena, no Jockey Club, na Gávea.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/lenine-na-brava-arena-jockey/",
+   "id": "f-0267941c28",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Lenine in concert at Brava Arena, at the Jockey Club, in Gávea.",
+   "sinopse_es": "Show de Lenine en la Brava Arena, en el Jockey Club, en Gávea.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Azul Limão e Taurus: 40 anos de \"Vingança\" e \"Signo de Taurus\"",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Audio Rebel",
+   "endereco": "Rua Visconde de Silva",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "As bandas Azul Limão e Taurus dividem a noite no Audio Rebel, em Botafogo, num show anunciado como celebração dos 40 anos de \"Vingança\" e \"Signo de Taurus\".",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/azul-limao-e-taurus-40-anos-de-vinganca-e-signo-de-taurus-no-audio-rebel/3601313",
+   "id": "f-5cf3c97343",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The bands Azul Limão and Taurus share the night at Audio Rebel, in Botafogo, in a show billed as a celebration of 40 years of \"Vingança\" and \"Signo de Taurus\".",
+   "sinopse_es": "Las bandas Azul Limão y Taurus comparten la noche en Audio Rebel, en Botafogo, en un show anunciado como celebración de los 40 años de \"Vingança\" y \"Signo de Taurus\".",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
    "preco_texto": "de R$ 45 a R$ 100",
    "preco_min": 45.0,
    "preco_max": 100.0,
@@ -15509,6 +17052,41 @@
    "sinopse_en": "Murilo Couto tries out new stand-up material, on current affairs and personal stories, for his next special.",
    "sinopse_es": "Murilo Couto prueba textos inéditos de stand-up, sobre actualidad e historias personales, para su próximo especial.",
    "faixa": "acima80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Mariroots: Só Pedrada! – 20 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Mariroots apresenta o show \"Só Pedrada!\", que marca 20 anos, na Fundição Progresso, na Lapa, dentro da temporada de verão da casa.",
+   "fonte": "Site da Fundição Progresso e Riotur (Calendário Oficial)",
+   "link": "https://fundicaoprogresso.com.br/Ingressos",
+   "id": "f-d6978cb616",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Mariroots presents the show \"Só Pedrada!\", marking 20 years, at Fundição Progresso, in Lapa, as part of the venue's summer season.",
+   "sinopse_es": "Mariroots presenta el show \"Só Pedrada!\", que marca 20 años, en la Fundição Progresso, en Lapa, dentro de la temporada de verano de la casa.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -15668,6 +17246,42 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Festa PLOC 22 Anos",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "A Festa PLOC comemora 22 anos com uma edição na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festa-ploc-22-anos-na-brava-arena-jockey/",
+   "id": "f-4e5365ffa2",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The PLOC party celebrates its 22nd anniversary with an edition at Brava Arena, at the Jockey Club; gates open at 6 p.m.",
+   "sinopse_es": "La Festa PLOC celebra 22 años con una edición en la Brava Arena, en el Jockey Club; las puertas abren a las 18 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Ranther Melo: Vem Que Tá Maneirinho",
    "areas": [
     "Teatro"
@@ -15684,6 +17298,111 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "Ranther Melo presents \"Vem Que Tá Maneirinho\" at the Lona Cultural in Campo Grande.",
    "sinopse_es": "Ranther Melo presenta \"Vem Que Tá Maneirinho\" en la Lona Cultural de Campo Grande.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Cone Crew Diretoria",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Show do grupo Cone Crew Diretoria na Fundição Progresso, na Lapa, dentro da temporada de verão da casa.",
+   "fonte": "Site da Fundição Progresso e Riotur (Calendário Oficial)",
+   "link": "https://fundicaoprogresso.com.br/Ingressos",
+   "id": "f-0d6da3e8f2",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The group Cone Crew Diretoria in concert at Fundição Progresso, in Lapa, as part of the venue's summer season.",
+   "sinopse_es": "Show del grupo Cone Crew Diretoria en la Fundição Progresso, en Lapa, dentro de la temporada de verano de la casa.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "A partir de R$ 97,50",
+   "preco_min": 97.5,
+   "preco_max": 97.5,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Di Ferrero e Thiago Castanho & Marcão Britto: Charlie Brown Jr. Acústico",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Dois shows na mesma noite: os guitarristas Thiago Castanho e Marcão Britto revisitam o Charlie Brown Jr. em formato acústico, e Di Ferrero apresenta a turnê \"SE7E\", com inéditas, carreira solo e clássicos do NX Zero.",
+   "fonte": "Site do Qualistage",
+   "link": "https://qualistage.com.br/evento/443/di-ferrero-e-thiago-castanho-e-marcao-britto-charlie-brown-jr",
+   "id": "f-2c504191d5",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Two shows in one night: guitarists Thiago Castanho and Marcão Britto revisit Charlie Brown Jr. in an acoustic format, and Di Ferrero presents the \"SE7E\" tour, with new songs, his solo career and NX Zero classics.",
+   "sinopse_es": "Dos shows en la misma noche: los guitarristas Thiago Castanho y Marcão Britto revisitan Charlie Brown Jr. en formato acústico, y Di Ferrero presenta la gira \"SE7E\", con temas inéditos, su carrera solista y clásicos de NX Zero.",
+   "faixa": "acima80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Noites de Verão: Delacruz, Pagode do Adame e DJ Saddam",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Morro da Urca (Parque Bondinho Pão de Açúcar)",
+   "endereco": "Av. Pasteur, 520",
+   "bairro": "Urca",
+   "regiao": "Zona Sul",
+   "sinopse": "Delacruz, o Pagode do Adame e DJ Saddam na série Noites de Verão, no alto do Morro da Urca.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/noites-de-verao-morro-da-urca-5/",
+   "id": "f-9ffbd2d5c8",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Delacruz, Pagode do Adame and DJ Saddam in the Noites de Verão series, atop Morro da Urca.",
+   "sinopse_es": "Delacruz, Pagode do Adame y DJ Saddam en la serie Noites de Verão, en lo alto del Morro da Urca.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -15837,6 +17556,77 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "Fabinho and Santo de Casa lead an afternoon of samba at Batuq Casa de Samba, in Penha.",
    "sinopse_es": "Fabinho y Santo de Casa hacen la tarde de samba en Batuq Casa de Samba, en Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Awurê Veste Branco",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A festa Awurê faz a edição \"Veste Branco\" no palco São Sebastião da Fundição Progresso, na Lapa, a partir das 16h.",
+   "fonte": "Site da Fundição Progresso e Riotur (Calendário Oficial)",
+   "link": "https://fundicaoprogresso.com.br/Ingressos",
+   "id": "f-30448cd19b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The Awurê party holds its \"Veste Branco\" edition on the São Sebastião stage at Fundição Progresso, in Lapa, from 4 p.m.",
+   "sinopse_es": "La fiesta Awurê hace su edición \"Veste Branco\" en el escenario São Sebastião de la Fundição Progresso, en Lapa, desde las 16 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Natal Comedy",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Cine Teatro (Teatros da Barra)",
+   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Natal Comedy no Cine Teatro dos Teatros da Barra, na Barra da Tijuca.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130767",
+   "id": "f-24a7e13605",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Natal Comedy at the Cine Teatro of Teatros da Barra, in Barra da Tijuca.",
+   "sinopse_es": "Natal Comedy en el Cine Teatro de los Teatros da Barra, en Barra da Tijuca.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -16017,6 +17807,45 @@
    "sessoes": [
     {
      "data": "2026-12-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "O Grinch – Uma História de Natal",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"O Grinch – Uma História de Natal\" no Teatro Vanucci, no Shopping da Gávea, em 26 e 27 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/113784",
+   "id": "f-13a08de757",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"O Grinch – Uma História de Natal\" at Teatro Vanucci, in Shopping da Gávea, on December 26 and 27.",
+   "sinopse_es": "\"O Grinch – Uma História de Natal\" en el Teatro Vanucci, en el Shopping da Gávea, el 26 y 27 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-26",
      "hora": "19:30"
     }
    ],
@@ -16044,6 +17873,76 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "Jay Vaquer in concert at Teatro Rival.",
    "sinopse_es": "Show de Jay Vaquer en el Teatro Rival.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-27",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Molengotengo Samba Clube",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Terraço Sambola Hall",
+   "endereco": "Avenida Dom Hélder Câmara",
+   "bairro": "Piedade",
+   "regiao": "Zona Norte",
+   "sinopse": "Molengotengo Samba Clube no Terraço Sambola Hall, em Piedade.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/molengotengo-samba-clube/3667259",
+   "id": "f-3e37d78e6b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Molengotengo Samba Clube at Terraço Sambola Hall, in Piedade.",
+   "sinopse_es": "Molengotengo Samba Clube en el Terraço Sambola Hall, en Piedade.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Elba Ramalho e Geraldo Azevedo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Elba Ramalho e Geraldo Azevedo dividem o palco na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/elba-ramalho-e-geraldo-azevedo-na-brava-arena-jockey/",
+   "id": "f-3f48af07d4",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Elba Ramalho and Geraldo Azevedo share the stage at Brava Arena, at the Jockey Club; gates open at 6 p.m.",
+   "sinopse_es": "Elba Ramalho y Geraldo Azevedo comparten el escenario en la Brava Arena, en el Jockey Club; las puertas abren a las 18 h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -16114,6 +18013,183 @@
    "entrou_em": "2026-11-26",
    "sinopse_en": "Matuê and LeaLL perform at MAM Rio on a pre-New Year's Eve night, from 10pm to 4am.",
    "sinopse_es": "Matuê y LeaLL se presentan en el MAM Rio en una noche previa a Año Nuevo, de 22h a 4h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-30",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Alok – Rave the World",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Abertura do Festival de Verão do Rio, no Museu do Amanhã: Alok apresenta \"Rave the World\".",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-rave-the-world-com-alok/",
+   "id": "f-f0e8bb5026",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Opening of the Festival de Verão do Rio, at Museu do Amanhã: Alok presents \"Rave the World\".",
+   "sinopse_es": "Apertura del Festival de Verão do Rio, en el Museu do Amanhã: Alok presenta \"Rave the World\".",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-31",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "João Gomes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de João Gomes na noite de 31 de dezembro na Brava Arena, no Jockey Club.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/joao-gomes-na-brava-arena-jockey/",
+   "id": "f-7d1099f28a",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "João Gomes in concert on the night of December 31 at Brava Arena, at the Jockey Club.",
+   "sinopse_es": "Show de João Gomes la noche del 31 de diciembre en la Brava Arena, en el Jockey Club.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-31",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Réveillon Cheers, com Pabllo Vittar e Gloria Groove",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Festa de Réveillon do Festival de Verão do Rio no Museu do Amanhã, com shows de Pabllo Vittar e Gloria Groove.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-reveillon-cheers-com-pablo-vittar-e-gloria-groove/",
+   "id": "f-2e3d620019",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "New Year's Eve party of the Festival de Verão do Rio at Museu do Amanhã, with shows by Pabllo Vittar and Gloria Groove.",
+   "sinopse_es": "Fiesta de Año Nuevo del Festival de Verão do Rio en el Museu do Amanhã, con shows de Pabllo Vittar y Gloria Groove.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-01",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Fruta do Pé pra Oxalá na Batuq",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Fruta do Pé pra Oxalá na Batuq, casa de samba da Penha, no dia 1º de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/fruta-do-pe-pra-oxala-na-batuq/3665614",
+   "id": "f-6233780e60",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Fruta do Pé pra Oxalá at Batuq, a samba house in Penha, on January 1.",
+   "sinopse_es": "Fruta do Pé pra Oxalá en Batuq, casa de samba de Penha, el 1 de enero.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Festa RARO",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A Festa RARO abre no Museu do Amanhã o projeto \"Gênesis\", com o capítulo \"Earth\", das 19h às 7h, com Ricardo Goii, Gui Guerrero, Gui Valenga, Yan Rabello, B2Better, Sagi Kariv, Ben Bakson e Tommy Love.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-festa-raro/",
+   "id": "f-b72825cc62",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The RARO party opens its \"Gênesis\" project at Museu do Amanhã with the \"Earth\" chapter, from 7 p.m. to 7 a.m., with Ricardo Goii, Gui Guerrero, Gui Valenga, Yan Rabello, B2Better, Sagi Kariv, Ben Bakson and Tommy Love.",
+   "sinopse_es": "La Festa RARO abre en el Museu do Amanhã el proyecto \"Gênesis\", con el capítulo \"Earth\", de las 19 h a las 7 h, con Ricardo Goii, Gui Guerrero, Gui Valenga, Yan Rabello, B2Better, Sagi Kariv, Ben Bakson y Tommy Love.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -16240,6 +18316,41 @@
    "sessoes": [
     {
      "data": "2027-01-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Rio Folia, com Ivete Sangalo e Babado Novo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Noite Rio Folia do Festival de Verão do Rio, no Museu do Amanhã, com Ivete Sangalo e Babado Novo.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-rio-folia-com-ivete-sangalo-e-babado-novo/",
+   "id": "f-ee9fdd6c71",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Rio Folia night of the Festival de Verão do Rio, at Museu do Amanhã, with Ivete Sangalo and Babado Novo.",
+   "sinopse_es": "Noche Rio Folia del Festival de Verão do Rio, en el Museu do Amanhã, con Ivete Sangalo y Babado Novo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-02",
      "hora": "19:30"
     }
    ],
@@ -16268,6 +18379,42 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "A musical about Clara Nunes with Clara Santhana, at Teatro Rival.",
    "sinopse_es": "Musical sobre Clara Nunes con Clara Santhana, en el Teatro Rival.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-03",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Sound of Sunset, com Mochakk",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Encerramento do Festival de Verão do Rio no Museu do Amanhã com o S.O.S. – Sound of Sunset, com Mochakk, a partir das 16h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-s-o-s-sound-of-sunset-com-mochakk/",
+   "id": "f-ff2363c326",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Closing of the Festival de Verão do Rio at Museu do Amanhã with S.O.S. – Sound of Sunset, with Mochakk, from 4 p.m.",
+   "sinopse_es": "Cierre del Festival de Verão do Rio en el Museu do Amanhã con S.O.S. – Sound of Sunset, con Mochakk, desde las 16 h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -16498,6 +18645,81 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "Elymar Santos presents the show \"Estrela Luminosa\" at Teatro Rival.",
    "sinopse_es": "Elymar Santos presenta el show \"Estrela Luminosa\" en el Teatro Rival.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "A Gente Mira no Amor e Acerta na Solidão",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro TotalEnergies – Sala Adolpho Bloch",
+   "endereco": "Rua do Russel, 804",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Johnny Massaro estrela a peça inspirada no livro de Ana Suy: um guia turístico conduz o público por uma visita ao coração humano, entre a espera da pessoa amada e o fim da relação. Dramaturgia de Júlia Portes e direção de Helena Varvaki.",
+   "fonte": "Site do Teatro TotalEnergies e Riotur (Calendário Oficial)",
+   "link": "https://teatrototalenergies.com.br",
+   "id": "f-3e2475e823",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Johnny Massaro stars in the play inspired by Ana Suy's book: a tour guide leads the audience on a visit to the human heart, between waiting for the loved one and the end of the relationship. Written by Júlia Portes and directed by Helena Varvaki.",
+   "sinopse_es": "Johnny Massaro protagoniza la obra inspirada en el libro de Ana Suy: un guía turístico lleva al público a una visita al corazón humano, entre la espera de la persona amada y el fin de la relación. Dramaturgia de Júlia Portes y dirección de Helena Varvaki.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -16933,6 +19155,45 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "Marcelo Duque presents the comedy show \"Sem Filtro\" at a city-run cultural venue, in Bangu.",
    "sinopse_es": "Marcelo Duque presenta el espectáculo de humor \"Sem Filtro\" en una areninha cultural de la alcaldía, en Bangu.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-16",
+     "hora": "15:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Top 10 da Galinha Pintadinha",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Espetáculo \"Top 10 da Galinha Pintadinha\" no Teatro Miguel Falabella, no Norte Shopping, em 16 e 17 de janeiro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/130342",
+   "id": "f-12ac528534",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Top 10 da Galinha Pintadinha\" show at Teatro Miguel Falabella, in Norte Shopping, on January 16 and 17.",
+   "sinopse_es": "Espectáculo \"Top 10 da Galinha Pintadinha\" en el Teatro Miguel Falabella, en el Norte Shopping, el 16 y 17 de enero.",
    "faixa": "nao_informado",
    "status": "conferido"
   },

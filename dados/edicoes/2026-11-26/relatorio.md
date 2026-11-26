@@ -1,15 +1,15 @@
 # Relatório da edição — Programação de hoje até 25 de janeiro de 2027
 
-- Eventos e exposições: **934** (884 eventos com 9528 sessões; 50 em cartaz)
-- Grátis: **65** · preço popular (até R$ 40): **79**
-- Conferidos sem ressalva: **918** · a confirmar: **16**
+- Eventos e exposições: **990** (933 eventos com 9651 sessões; 57 em cartaz)
+- Grátis: **67** · preço popular (até R$ 40): **79**
+- Conferidos sem ressalva: **973** · a confirmar: **17**
 
 ## Distribuição por região
 
-- Centro: 167
-- Zona Sul: 291
-- Zona Sudoeste: 177
-- Zona Norte: 220
+- Centro: 182
+- Zona Sul: 316
+- Zona Sudoeste: 187
+- Zona Norte: 226
 - Zona Oeste: 79
 
 ## Conferente independente (IA)
@@ -26,6 +26,10 @@
 - **Cravejar o Corpo, Inventar o Mundo – Madah Sodré** (2026-11-19-067) · local · *diverge* — A ficha chama o espaço de "Arena Carioca Dicró". Na fonte semanal o cabeçalho é "Arena Cultural Carlos Roberto de Oliveira - Dicró"; na do Novembro Negro, "Arena Cultural Dicró". "Arena Carioca" não aparece em nenhuma. → **Corrigido: “Arena Cultural Dicró”.**
 - **Ônibus Biblioteca – Livros nas Praças** (2026-11-19-082) · cartaz · *duvida* — A fonte diz "Até 27 de novembro, às 11h", sem dizer em quais dias da semana nem em que praça ("Livros nas Praças"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária "A partir das 11h" na areninha; a fonte diz "às 11h" e não confirma que é todo dia. → **Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”.**
 - **Guardar – Coleção Marcia e Luiz Chrysostomo** (2026-11-19-135) · preco_texto · *diverge* — A ficha traz só "R$ 10 (meia R$ 5), só na bilheteria". F066 (ArtRio) acrescenta "Às quartas-feiras, a entrada é franca para todos os públicos." e "Aos domingos, “ingresso família” a R$10 para grupos de quatro pessoas." A quarta gratuita (25/11 cai na edição) não aparece na ficha. → **Corrigido: acrescentado “grátis às quartas”.**
+- **O Nome do Bebê** (2026-11-19-147) · classificacao · *diverge* — A ficha deixa vazio. F114 traz "Classificação etária: 12 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis." → **Corrigido: 12 anos.**
+- **O Nome do Bebê** (2026-11-19-147) · sinopse · *diverge* — A nota diz que a coleta não trouxe a sinopse, e a ficha só fala da temporada. F114 traz a sinopse completa: "a comédia O Nome do Bebê, com Bianca Bin e grande elenco", "da dupla francesa Matthieu Delaporte e Alexandre de la Patellière", "A direção é de Elias Andreato". A nota está errada (o preço, de fato, não aparece). → **Corrigido: sinopse refeita a partir da fonte.**
+- **O Mercador de Veneza** (2026-11-19-148) · classificacao · *diverge* — A ficha deixa vazio. F114 traz "Classificação etária: 14 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis." → **Corrigido: 14 anos.**
+- **O Mercador de Veneza** (2026-11-19-148) · sinopse · *diverge* — A nota diz que a coleta não trouxe a sinopse. F114 traz: "O Mercador de Veneza, do dramaturgo inglês William Shakespeare [...] A peça tem direção de Daniela Stirbulov e é protagonizada por Dan Stulbach que dá vida ao marcante agiota Shylock" e "Duração: 120 minutos". A nota está errada (o preço, de fato, não aparece). → **Corrigido: sinopse refeita a partir da fonte.**
 - **Margaridas** (2026-11-19-150) · classificacao · *diverge* — A ficha deixa vazio. F123 traz "CLASSIFICAÇÃO ETÁRIA: 10 anos" (e "DURAÇÃO: 60 minutos"). → **Corrigido: 10 anos.**
 - **Adorável Face de Andronieva Petrosa** (2026-11-19-151) · classificacao · *diverge* — A ficha deixa vazio. F123 traz "CLASSIFICAÇÃO: Livre" (e "DURAÇÃO: 50 minutos"). → **Corrigido: Livre.**
 - **ECOS – coletiva** (2026-11-19-136) · sinopse · *duvida* — A sinopse diz "19 trabalhos, entre pinturas, esculturas e um vídeo", como a ArtRio (F066: "São dezenove obras, entre pinturas, esculturas e um vídeo"). O site da galeria (F100) diz "Reunindo vinte trabalhos, entre pinturas, esculturas, serigrafias e vídeos". A nota declara a divergência de horário, mas não esta; e nela diz que vale o site da galeria. → **Corrigido: vale o site da galeria (cerca de vinte trabalhos); a divergência fica anotada.**
@@ -111,14 +115,25 @@
 - **Patrulhinha de Natal** (f-836c624a59) · sessoes.hora · *duvida* — a Sympla indica a última sessão às 15:00; outras sessões podem ter o mesmo horário → **pendente (sai como “a confirmar”)**
 - **Patrulhinha de Natal** (f-836c624a59) · sinopse · *diverge* — "Shopping da Gávea" não está na fonte → **Corrigido: "na Gávea"**
 - **Patrulhinha de Natal** (f-836c624a59) · areas · *duvida* — espetáculo infantil pelo título, sem marca da Sympla → **Corrigido: acrescentado Infantil (decisão editorial)**
+- **Patati Patatá Circo Show** (f-44d3abbad6) · sessoes · *duvida* — dias presumidos caíam em feriados → **Corrigido: tirados 24, 25 e 31/12 e 1/1**
+- **Rio Carnaval Expo** (f-91e8f08be9) · sinopse · *diverge* — tema deduzido e gratuidade só da Riotur → **Corrigido: sinopse só com os fatos**
+- **Hipertelia – Marés de Mudanças** (f-8fafc9a14f) · preco · *duvida* — gratuidade só pela Riotur → **Corrigido: preço vazio, na nota**
+- **Cidade Batucada** (f-bcc6780966) · preco · *diverge* — gratuidade só pela Riotur → **Corrigido: preço vazio, na nota**
+- **Escola do Rock** (2026-11-19-143) · criterios · *duvida* — o site chama "Escola do Rock - CEFTEM"; pode ser montagem de escola de formação → **pendente (sai como “a confirmar”)**
 
 ## Conferência mecânica (regras)
 
 - [baixa] **Exposição Literária – Mês da Consciência Negra** (2026-11-19-046) — Preço não informado na fonte
 - [baixa] **Amigo Oculto** (f-0e743de4be) — Preço não informado na fonte
+- [baixa] **Novos barrocos – coletiva** (f-19b460ef0d) — Preço não informado na fonte
+- [baixa] **Modos de (co)existir, de Mariana Fogaça** (f-25ed1f51d8) — Preço não informado na fonte
 - [baixa] **Infâncias** (f-33ccd17d21) — Preço não informado na fonte
 - [baixa] **Gordon Parks: A América Sou Eu** (f-364a443249) — Preço não informado na fonte
+- [baixa] **Borda, de Mateu Velasco** (f-514938dd7f) — Preço não informado na fonte
 - [baixa] **Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID** (f-870b74aa68) — Preço não informado na fonte
+- [baixa] **Hipertelia – Marés de Mudanças** (f-8fafc9a14f) — Preço não informado na fonte
+- [baixa] **Rio Carnaval Expo** (f-91e8f08be9) — Preço não informado na fonte
+- [baixa] **Cidade Batucada** (f-bcc6780966) — Preço não informado na fonte
 - [baixa] **Renato Bezerra de Mello: Gestos Cotidianos** (f-bef83bad71) — Preço não informado na fonte
 - [baixa] **Priscila Rooxo: De onde venho** (f-c101572372) — Preço não informado na fonte
 - [baixa] **Rosana Palazyan: Quintal** (f-c6b14b6989) — Preço não informado na fonte
@@ -150,13 +165,16 @@
 - [baixa] **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** (f-a8d5f0ea92) — Preço não informado na fonte
 - [baixa] **Ruído Bruto** (f-a9d2e23843) — Preço não informado na fonte
 - [baixa] **1ª Mostra de Artes de Terreiro Os Ciclomáticos** (f-c21b141a4f) — Preço não informado na fonte
+- [baixa] **Pororoca** (f-e449afdfbe) — Preço não informado na fonte
 - [baixa] **Azymuth: Águia Não Come Mosca e Grandes Clássicos** (f-a2c07e1696) — Preço não informado na fonte
 - [baixa] **Entre Atos** (f-e1e9f06d4e) — Preço não informado na fonte
+- [baixa] **O Nome do Bebê** (2026-11-19-147) — Preço não informado na fonte
 - [baixa] **Adorável Face de Andronieva Petrosa** (2026-11-19-151) — Preço não informado na fonte
 - [baixa] **Dilma Oliveira canta Alcione** (f-0cde2fd78b) — Preço não informado na fonte
 - [baixa] **Maldito Coração** (f-2239414732) — Preço não informado na fonte
 - [baixa] **Festival Os Monólogos** (f-2b0962bcdd) — Preço não informado na fonte
 - [baixa] **Algoritmo** (f-5157b0c813) — Preço não informado na fonte
+- [baixa] **Embarcação Perdue** (f-76daacf063) — Preço não informado na fonte
 - [baixa] **Noite do Melodrama** (f-92e994a1ae) — Preço não informado na fonte
 - [baixa] **Eri Johnson em "Das Seis às Sete"** (f-96aa8576b9) — Preço não informado na fonte
 - [baixa] **Descalços no Parque** (f-a3a00c3382) — Preço não informado na fonte
@@ -167,6 +185,7 @@
 - [baixa] **Yuri Marçal: Macumbeiro** (f-db9886b6e6) — Preço não informado na fonte
 - [baixa] **Nhá Eva** (f-e7b56859d2) — Preço não informado na fonte
 - [baixa] **Simplesmente Shakespeare: Romeu e Julieta** (f-ff4b3d06a0) — Preço não informado na fonte
+- [baixa] **A Solidão do Feio** (f-1da07461ee) — Preço não informado na fonte
 - [baixa] **O Tigre** (f-1fcc3e695b) — Preço não informado na fonte
 - [baixa] **Hétero Sigilo** (f-740a844e42) — Preço não informado na fonte
 - [baixa] **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** (f-d2eac34399) — Preço não informado na fonte
@@ -182,6 +201,7 @@
 - [baixa] **MulheRio do Samba** (f-c7ada106b3) — Preço não informado na fonte
 - [baixa] **O Circo Se Constrói** (f-ebbedebb15) — Preço não informado na fonte
 - [baixa] **A Ópera do Malandro – o musical** (f-db4e688785) — Preço não informado na fonte
+- [baixa] **Confissões de Adolescente – o musical** (2026-11-19-142) — Preço não informado na fonte
 - [baixa] **Yuri Marçal: Macumbeiro** (f-132c6ce110) — Preço não informado na fonte
 - [baixa] **Beatles Fora da Caixa** (f-1e3cc3099b) — Preço não informado na fonte
 - [baixa] **Tudo Aquilo que Fica** (f-220da6ee35) — Preço não informado na fonte
@@ -197,6 +217,7 @@
 - [baixa] **Quando Dança o Baobá** (f-472932ae90) — Preço não informado na fonte
 - [baixa] **Rio Blues Festival** (f-f49e042115) — Preço não informado na fonte
 - [baixa] **Feijuca com Samba: Samba do Pedro** (f-7c728d45f2) — Preço não informado na fonte
+- [baixa] **Escola do Rock** (2026-11-19-143) — Preço não informado na fonte
 - [baixa] **Reunião Geral das Palavras** (f-43ec59dad8) — Preço não informado na fonte
 - [baixa] **Forró na Sala de Reboco convida Rod Bigode** (f-9a3b6abdab) — Preço não informado na fonte
 - [baixa] **Chiquititas** (f-fcd6d59230) — Preço não informado na fonte
@@ -223,6 +244,9 @@
 - [baixa] **Bonfim Comedy Show** (f-e76af35dff) — Preço não informado na fonte
 - [baixa] **Stand-up: Wêlson Nunes** (f-74cf9d83c0) — Preço não informado na fonte
 - [baixa] **Lia Paris canta Edith Piaf** (f-8af3bf8b08) — Preço não informado na fonte
+- [baixa] **O Mercador de Veneza** (2026-11-19-148) — Preço não informado na fonte
+- [baixa] **Renato Albani: Salve-se Quem Puder** (f-0e345919ae) — Preço não informado na fonte
+- [baixa] **O Céu da Língua, com Gregório Duvivier** (f-ce157b6b62) — Preço não informado na fonte
 - [baixa] **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** (f-ced40906a9) — Preço não informado na fonte
 - [baixa] **Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés** (f-87c5ee44d2) — Preço não informado na fonte
 - [baixa] **Quarteto Jequitibá: Retratos do Brasil** (f-a59ccd7888) — Preço não informado na fonte
@@ -262,6 +286,7 @@
 - [baixa] **Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte** (f-fa57985f39) — Preço não informado na fonte
 - [baixa] **Tempo Travesso** (f-5d78dd59cd) — Preço não informado na fonte
 - [baixa] **Mantra Tropical, com Fabrizio Filesi** (f-687a147153) — Preço não informado na fonte
+- [baixa] **Pagodinho com Guga Nandes** (f-9037f6a4a1) — Preço não informado na fonte
 - [baixa] **Marcos Sacramento e Moacyr Luz** (f-97ac09c02d) — Preço não informado na fonte
 - [baixa] **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** (f-a2c6e8e1a7) — Preço não informado na fonte
 - [baixa] **Tori: Areia e Voz** (f-705dcf0961) — Preço não informado na fonte
@@ -284,6 +309,8 @@
 - [baixa] **1º Encontro de Violonistas Compositores: Andrea Perrone** (f-216d584925) — Preço não informado na fonte
 - [baixa] **VibraSons** (f-394e86f0c0) — Preço não informado na fonte
 - [baixa] **Lisa, Lesa & Louca** (f-ce2b9d48cf) — Preço não informado na fonte
+- [baixa] **Patati Patatá Circo Show** (f-44d3abbad6) — Preço não informado na fonte
+- [baixa] **Guilherme Arantes** (f-03bc18ee86) — Preço não informado na fonte
 - [baixa] **A Vida Passou por Aqui** (f-0405b8de0e) — Preço não informado na fonte
 - [baixa] **Cabaret – Absurdos e Variedades** (f-0c1ae21378) — Preço não informado na fonte
 - [baixa] **Procura-se Messias** (f-2428b38459) — Preço não informado na fonte
@@ -294,19 +321,25 @@
 - [baixa] **Jhordan Matheus: Passando de Fase** (f-90cb83d106) — Preço não informado na fonte
 - [baixa] **Marina Aquino: Um Coração que Canta** (f-af1638ec9a) — Preço não informado na fonte
 - [baixa] **Festival Contarolando Histórias** (f-dcc73bca1e) — Preço não informado na fonte
+- [baixa] **Pagode com Molho** (f-a30fd6d928) — Preço não informado na fonte
 - [baixa] **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** (f-088e8527d9) — Preço não informado na fonte
 - [baixa] **Burning Love Band: An Elvis Tribute** (f-1b5f7ef2ba) — Preço não informado na fonte
 - [baixa] **Samblack II com Paula Quintanilha** (f-9963fe047d) — Preço não informado na fonte
 - [baixa] **Isabella Taviani: Confissões (de Amor)** (f-95e42ccf46) — Preço não informado na fonte
 - [baixa] **Wêlson Nunes** (f-2980b29edb) — Preço não informado na fonte
+- [baixa] **Capital Inicial** (f-9a34852836) — Preço não informado na fonte
+- [baixa] **Tributo a Raul Seixas e Renato Russo** (f-58e65118d2) — Preço não informado na fonte
 - [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-5cd31fccb9) — Preço não informado na fonte
 - [baixa] **Tangolomango – cantigas, histórias e brincadeiras** (f-040ee69754) — Preço não informado na fonte
 - [baixa] **1º Encontro de Violonistas Compositores: concerto com convidados** (f-b17c85b4fa) — Preço não informado na fonte
+- [baixa] **Feijuca com Samba: Samba do Xoxó** (f-d22d4a7643) — Preço não informado na fonte
 - [baixa] **Bruno Bellandi e Banda: Feijão Retrô** (f-d2ba37a102) — Preço não informado na fonte
 - [baixa] **Os Piores Pirralhos do Mundo!** (f-0d86b3e831) — Preço não informado na fonte
+- [baixa] **Puro Suco do Samba** (f-2642cfefce) — Preço não informado na fonte
 - [baixa] **Samba das Rosalinas na Batuq** (f-6dcd487bb1) — Preço não informado na fonte
 - [baixa] **Casuarina 25 anos, com João Cavalcanti e Moyseis Marques** (f-864ff362e9) — Preço não informado na fonte
 - [baixa] **Batuq em Verde e Rosa – 5ª edição** (f-e300ee9c73) — Preço não informado na fonte
+- [baixa] **Quintal do Batuqg** (f-93557939f7) — Preço não informado na fonte
 - [baixa] **Concerto ACC 85 anos: Canta Navidad, de Jean Kleeb** (f-afcf69a61e) — Preço não informado na fonte
 - [baixa] **Quem Matou o Leão?** (f-a903a7e2cd) — Preço não informado na fonte
 - [baixa] **Mulheres ao Vento – A Terra que Piso é Maré** (f-199d2ee2af) — Preço não informado na fonte
@@ -320,6 +353,7 @@
 - [baixa] **Ana Bispo canta Te Amos** (f-8079e7c1fb) — Preço não informado na fonte
 - [baixa] **Cá Entre Nós, com Fátima Bernardes e Bia Bonemer** (f-10d9df5efd) — Preço não informado na fonte
 - [baixa] **Terças no Ipanema: Celso Fonseca** (f-842d0e6d13) — Preço não informado na fonte
+- [baixa] **Concurso da Corte Real do Carnaval 2027: eliminatórias** (f-09fb8bccf4) — Preço não informado na fonte
 - [baixa] **Dragstar – 14ª temporada: a grande final** (f-f1aadd3e01) — Preço não informado na fonte
 - [baixa] **Quarteto Jequitibá – Série Vitrine Musical UNIRIO** (f-51fccee40a) — Preço não informado na fonte
 - [baixa] **Victor Giudice e a ficção: o insólito que habita o cotidiano – Quinta é Cultura** (f-c263ccf73d) — Preço não informado na fonte
@@ -327,6 +361,7 @@
 - [baixa] **Simplesmente Maysa: homenagem aos 90 anos** (f-b9f598d320) — Preço não informado na fonte
 - [baixa] **Praticar o Encontro: Mostra Cenas Curtas** (f-e01682e00d) — Preço não informado na fonte
 - [baixa] **Silvério Pontes e Marcelo Caldi** (f-f104dc9ece) — Preço não informado na fonte
+- [baixa] **O Nariz** (f-fd2a4cbafe) — Preço não informado na fonte
 - [baixa] **Gilsons** (f-74400b5b7e) — Preço não informado na fonte
 - [baixa] **Tiê** (f-aac77f6a65) — Preço não informado na fonte
 - [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-c212229e5d) — Preço não informado na fonte
@@ -335,6 +370,7 @@
 - [baixa] **Samba da Constituição canta Djavan** (f-02f112b40f) — Preço não informado na fonte
 - [baixa] **16º Sarau Pretos Novos** (f-0c3c947f28) — Preço não informado na fonte
 - [baixa] **Jade Vitóriah: A Cor da Minha Voz** (f-1e4cfb5e99) — Preço não informado na fonte
+- [baixa] **Noite da Floresta – Cabaré ao Som de Ney** (f-3a127a821b) — Preço não informado na fonte
 - [baixa] **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** (f-7732c10a1e) — Preço não informado na fonte
 - [baixa] **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** (f-f4a253c2e2) — Preço não informado na fonte
 - [baixa] **Gilsons** (f-46ea0de5be) — Preço não informado na fonte
@@ -348,13 +384,16 @@
 - [baixa] **Cores Sonoras** (f-e5752a0029) — Preço não informado na fonte
 - [baixa] **Mesmo Rio** (f-345c3d2ed6) — Preço não informado na fonte
 - [baixa] **Grupo Vocal TRIAR: Cores do Brasil** (f-b3fb9d4cd7) — Preço não informado na fonte
+- [baixa] **Jota Quest** (f-962f9dcd71) — Preço não informado na fonte
 - [baixa] **Carol Biazin: Odeio Muito a Despedida** (f-21597b84cf) — Preço não informado na fonte
 - [baixa] **El Corazón y Otros Frutos Amargos** (f-2e833de58e) — Preço não informado na fonte
 - [baixa] **Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos** (f-f7f4acada2) — Preço não informado na fonte
 - [baixa] **Um Ano de Pagode da Gigi** (f-a0c35676c9) — Preço não informado na fonte
+- [baixa] **Quintal da Piedade – 5ª edição: A Paz** (f-111b66f8b9) — Preço não informado na fonte
 - [baixa] **Canela de Velho** (f-f78460d8a7) — Preço não informado na fonte
 - [baixa] **Sandra de Sá e Jet Samba Black na Batuq** (f-c0b45d18fe) — Preço não informado na fonte
 - [baixa] **Folia de Reis – A Brilhante Estrela de Belém (Domingo das Crianças)** (f-f2afecea37) — Preço não informado na fonte
+- [baixa] **Pé do Meu Samba, a Roda – 3ª edição** (f-0ed3bd071c) — Preço não informado na fonte
 - [baixa] **Adrian Cortês: Moonwalk Fest** (f-ad440effa4) — Preço não informado na fonte
 - [baixa] **Pagode de Verão: Diggo (Conexão Rio-Salvador)** (f-70e1e81da6) — Preço não informado na fonte
 - [baixa] **Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120** (f-aafcf39299) — Preço não informado na fonte
@@ -362,6 +401,7 @@
 - [baixa] **Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos** (f-f9d32e3634) — Preço não informado na fonte
 - [baixa] **Terças no Ipanema: Sandra Pêra** (f-2407d306e6) — Preço não informado na fonte
 - [baixa] **Fábrica Mágica de Natal** (f-556068237b) — Preço não informado na fonte
+- [baixa] **Concurso da Corte Real do Carnaval 2027: finais** (f-8843942562) — Preço não informado na fonte
 - [baixa] **Os Lobos 60 Anos** (f-a5beeec037) — Preço não informado na fonte
 - [baixa] **Vidal Assis: Emílio Santiago – 80 anos** (f-9b0ed0ac57) — Preço não informado na fonte
 - [baixa] **Stand-up: Wêlson Nunes** (f-7ee593a290) — Preço não informado na fonte
@@ -370,29 +410,49 @@
 - [baixa] **Baile da Didi no Rio Scenarium** (f-9e04c91b88) — Preço não informado na fonte
 - [baixa] **Cantos de Força – 10 anos de Afrotelúricos** (f-c3ec0cdbd0) — Preço não informado na fonte
 - [baixa] **Thalita Pertuzatti em Whitney Forever** (f-7d9e2adb78) — Preço não informado na fonte
+- [baixa] **Lenine** (f-0267941c28) — Preço não informado na fonte
+- [baixa] **Azul Limão e Taurus: 40 anos de "Vingança" e "Signo de Taurus"** (f-5cf3c97343) — Preço não informado na fonte
+- [baixa] **Mariroots: Só Pedrada! – 20 anos** (f-d6978cb616) — Preço não informado na fonte
 - [baixa] **Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial** (f-2e459d6746) — Preço não informado na fonte
 - [baixa] **VVM: Fidelisx & Evy – show de lançamento** (f-d399d5a429) — Preço não informado na fonte
 - [baixa] **A Gongada das Mil Xuxas** (f-0f5a748f7c) — Preço não informado na fonte
+- [baixa] **Festa PLOC 22 Anos** (f-4e5365ffa2) — Preço não informado na fonte
 - [baixa] **Ranther Melo: Vem Que Tá Maneirinho** (f-666f8d5c79) — Preço não informado na fonte
+- [baixa] **Cone Crew Diretoria** (f-0d6da3e8f2) — Preço não informado na fonte
+- [baixa] **Noites de Verão: Delacruz, Pagode do Adame e DJ Saddam** (f-9ffbd2d5c8) — Preço não informado na fonte
 - [baixa] **Fabinho e Santo de Casa na Batuq** (f-09c39fc3aa) — Preço não informado na fonte
+- [baixa] **Awurê Veste Branco** (f-30448cd19b) — Preço não informado na fonte
+- [baixa] **Natal Comedy** (f-24a7e13605) — Preço não informado na fonte
 - [baixa] **Tiago Santineli** (f-270310ea16) — Preço não informado na fonte
 - [baixa] **Durval e Valcylange – com Cacau Protasio (Vista Alegre)** (f-7937a4860b) — Preço não informado na fonte
 - [baixa] **Samba in Rio – Sons & Vozes das Damas do Samba** (f-6f0af60fe5) — Preço não informado na fonte
+- [baixa] **O Grinch – Uma História de Natal** (f-13a08de757) — Preço não informado na fonte
 - [baixa] **Jay Vaquer** (f-2feb9d5fbf) — Preço não informado na fonte
+- [baixa] **Molengotengo Samba Clube** (f-3e37d78e6b) — Preço não informado na fonte
+- [baixa] **Elba Ramalho e Geraldo Azevedo** (f-3f48af07d4) — Preço não informado na fonte
 - [baixa] **Yayá do Cavaco: De Raiz em Flor** (f-e05e6a72a2) — Preço não informado na fonte
 - [baixa] **Matuê + LeaLL: Pré-Réveillon no MAM** (f-206cca97d1) — Preço não informado na fonte
+- [baixa] **Festival de Verão do Rio: Alok – Rave the World** (f-f0e8bb5026) — Preço não informado na fonte
+- [baixa] **João Gomes** (f-7d1099f28a) — Preço não informado na fonte
+- [baixa] **Festival de Verão do Rio: Réveillon Cheers, com Pabllo Vittar e Gloria Groove** (f-2e3d620019) — Preço não informado na fonte
+- [baixa] **Fruta do Pé pra Oxalá na Batuq** (f-6233780e60) — Preço não informado na fonte
+- [baixa] **Festival de Verão do Rio: Festa RARO** (f-b72825cc62) — Preço não informado na fonte
 - [baixa] **Leandro Sapucahy: Que Nem Antigamente** (f-d035932a07) — Preço não informado na fonte
 - [baixa] **Psicóloga Segundo Meu Psiquiatra** (f-d8051ffef7) — Preço não informado na fonte
+- [baixa] **Festival de Verão do Rio: Rio Folia, com Ivete Sangalo e Babado Novo** (f-ee9fdd6c71) — Preço não informado na fonte
 - [baixa] **Deixa Clarear, musical sobre Clara Nunes** (f-a9adb52cda) — Preço não informado na fonte
+- [baixa] **Festival de Verão do Rio: Sound of Sunset, com Mochakk** (f-ff2363c326) — Preço não informado na fonte
 - [baixa] **Aurora – O Despertar da Mulher Exausta** (f-30327b9bf9) — Preço não informado na fonte
 - [baixa] **Eles Não Usam Black Tie** (f-cbf54625b4) — Preço não informado na fonte
 - [baixa] **Elymar Santos: Estrela Luminosa** (f-619ec2e94c) — Preço não informado na fonte
+- [baixa] **A Gente Mira no Amor e Acerta na Solidão** (f-3e2475e823) — Preço não informado na fonte
 - [baixa] **Uma Vida de Amizade** (f-9022a91c92) — Preço não informado na fonte
 - [baixa] **Quintal da Quintão – Revive** (f-fdea4298cb) — Preço não informado na fonte
 - [baixa] **O Formigueiro** (f-d3cd20fe6a) — Preço não informado na fonte
 - [baixa] **Tributo a Tim Maia, com André Marçal** (f-75cdb431e3) — Preço não informado na fonte
 - [baixa] **Marcelo Duque: Sem Filtro** (f-ea4cefe17f) — Preço não informado na fonte
 - [baixa] **Marcelo Duque: Sem Filtro** (f-f16a9f483b) — Preço não informado na fonte
+- [baixa] **Top 10 da Galinha Pintadinha** (f-12ac528534) — Preço não informado na fonte
 - [baixa] **Marcelo Duque: Sem Filtro** (f-47a736f90a) — Preço não informado na fonte
 - [baixa] **Kwesny em Manual do Carioca** (f-b32caf22f6) — Preço não informado na fonte
 - [baixa] **Raphael Ghanem em A Carne Só Cai no Prato do Vegano** (f-e00b9fe3ca) — Preço não informado na fonte
@@ -482,50 +542,52 @@
 - **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
 - **02/12**: Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte; Entre Direitos e Afetos: relações sem violência; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
 - **03/12**: Laura Valle canta Cole Porter – Sala Jazz; O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura; La Strada – Os Que Vieram Antes de Nós
-- **04/12**: OSB: Especial Harry Potter; La Strada – Os Que Vieram Antes de Nós; Abertura da exposição "Você já escutou a terra?"
+- **04/12**: OSB: Especial Harry Potter; Patati Patatá Circo Show; Abertura da exposição "Você já escutou a terra?"
 - **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; La Strada – Os Que Vieram Antes de Nós
 - **06/12**: Canta Navidad – Coro Intercantus e convidados (Cidade das Artes); La Strada – Os Que Vieram Antes de Nós; Festival Contarolando Histórias
 - **07/12**: Carioquinha: Lu Oliveira e Rogério Guimarães; Saúde & Ciências em Jogo; Fera
 - **08/12**: Ana Bispo canta Te Amos; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Nama Pariret – Mawaca em Cena
 - **09/12**: Luiz Bomfim e Regina Lacerda – Concertos de Natal; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Nasce uma FrankStella
-- **10/12**: Djavan – O Musical: Vidas pra contar; O Menino e o Vento – Cultura Zona Oeste (Uerj Sem Muros); Victor Giudice e a ficção: o insólito que habita o cotidiano – Quinta é Cultura
-- **11/12**: Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília); Stand-up: Wêlson Nunes; 16º Sarau Pretos Novos
+- **10/12**: Djavan – O Musical: Vidas pra contar; Concurso da Corte Real do Carnaval 2027: eliminatórias; O Menino e o Vento – Cultura Zona Oeste (Uerj Sem Muros)
+- **11/12**: Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília); Patati Patatá Circo Show; 16º Sarau Pretos Novos
 - **12/12**: Carol Biazin: Odeio Muito a Despedida; Cadê o Sobrevento?; Olhar para Dentro
 - **13/12**: Oratório de Natal – Associação de Canto Coral (Cidade das Artes); Festival Contarolando Histórias; Cadê o Sobrevento?
 - **14/12**: Carioquinha: Lu Oliveira e Rogério Guimarães; Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120; Leandro Freixo Trio
 - **15/12**: Terças no Ipanema: Sandra Pêra; Primeira Pessoa; Margaridas
 - **16/12**: Música Antiga da UFF; O Quebra-Nozes; Corais do Novo Leblon e Olé Ola – Concertos de Natal
-- **17/12**: Vidal Assis: Emílio Santiago – 80 anos; Fábrica Mágica de Natal; Stand-up: Wêlson Nunes
-- **18/12**: Thalita Pertuzatti em Whitney Forever; Murilo Couto – Novo Show; Fábrica Mágica de Natal
-- **19/12**: Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial; Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça; O Quebra-Nozes
-- **20/12**: Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita; Festival Contarolando Histórias; Durval e Valcylange – com Cacau Protasio (Vista Alegre)
+- **17/12**: Vidal Assis: Emílio Santiago – 80 anos; Patati Patatá Circo Show; Concurso da Corte Real do Carnaval 2027: finais
+- **18/12**: Thalita Pertuzatti em Whitney Forever; Patati Patatá Circo Show; Concurso da Corte Real do Carnaval 2027: finais
+- **19/12**: Cone Crew Diretoria; Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial; Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça
+- **20/12**: Awurê Veste Branco; Durval e Valcylange – com Cacau Protasio (Vista Alegre); Festival Contarolando Histórias
 - **21/12**: Samba in Rio – Sons & Vozes das Damas do Samba; Carioquinha: Lu Oliveira e Rogério Guimarães; Leandro Freixo Trio
 - **22/12**: Carioquinha: Flávia Dantas & Bernardo Dantas; O Quebra-Nozes; Marcos Ariel: "Rio Bossa Nova"
 - **23/12**: Dilma Oliveira; O Quebra-Nozes – versão de Thiago Soares; O Quebra-Nozes
 - **25/12**: Yumi Park – Alma de Artista; O Quebra-Nozes – versão de Thiago Soares; A Vida Passou por Aqui
-- **26/12**: Jay Vaquer; O Quebra-Nozes – versão de Thiago Soares; O Quebra-Nozes
-- **27/12**: Quintal da Magia na Batuq; O Quebra-Nozes; A Vida Passou por Aqui
+- **26/12**: Jay Vaquer; Patati Patatá Circo Show; O Quebra-Nozes
+- **27/12**: Puro Suco do Samba; Patati Patatá Circo Show; O Quebra-Nozes
 - **28/12**: Yayá do Cavaco: De Raiz em Flor; O Quebra-Nozes – versão de Thiago Soares; Carioquinha: Lu Oliveira e Rogério Guimarães
 - **29/12**: Carioquinha: Flávia Dantas & Bernardo Dantas; Marcos Ariel: "Rio Bossa Nova"
-- **30/12**: Dilma Oliveira
-- **02/01**: Deixa Clarear, musical sobre Clara Nunes; Psicóloga Segundo Meu Psiquiatra; Leandro Sapucahy: Que Nem Antigamente
-- **03/01**: Psicóloga Segundo Meu Psiquiatra
+- **30/12**: Festival de Verão do Rio: Alok – Rave the World; Dilma Oliveira
+- **31/12**: Festival de Verão do Rio: Réveillon Cheers, com Pabllo Vittar e Gloria Groove; João Gomes
+- **01/01**: Fruta do Pé pra Oxalá na Batuq; Festival de Verão do Rio: Festa RARO
+- **02/01**: Deixa Clarear, musical sobre Clara Nunes; Patati Patatá Circo Show; Festival de Verão do Rio: Rio Folia, com Ivete Sangalo e Babado Novo
+- **03/01**: Festival de Verão do Rio: Sound of Sunset, com Mochakk; Patati Patatá Circo Show; Psicóloga Segundo Meu Psiquiatra
 - **06/01**: Abba Alive; Aurora – O Despertar da Mulher Exausta
-- **07/01**: Aurora – O Despertar da Mulher Exausta; Psicóloga Segundo Meu Psiquiatra
-- **08/01**: Elymar Santos: Estrela Luminosa; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
-- **09/01**: Quintal da Quintão – Revive; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
-- **10/01**: Eles Não Usam Black Tie; Durval e Valcylange – com Cacau Protasio e Rômulo Bellotti; Aurora – O Despertar da Mulher Exausta
+- **07/01**: Patati Patatá Circo Show; Aurora – O Despertar da Mulher Exausta; Psicóloga Segundo Meu Psiquiatra
+- **08/01**: Elymar Santos: Estrela Luminosa; Patati Patatá Circo Show; Eles Não Usam Black Tie
+- **09/01**: Quintal da Quintão – Revive; Patati Patatá Circo Show; Eles Não Usam Black Tie
+- **10/01**: Patati Patatá Circo Show; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
 - **11/01**: Nany (En)canta; O Formigueiro
 - **12/01**: O Formigueiro
 - **13/01**: Aurora – O Despertar da Mulher Exausta
 - **14/01**: Tributo a Tim Maia, com André Marçal; Percy Jackson – O Ladrão de Raios: O Musical; Marcelo Duque: Sem Filtro
 - **15/01**: Muato – DERÊ: Concerto sobre o Pagode; Percy Jackson – O Ladrão de Raios: O Musical; Eles Não Usam Black Tie
-- **16/01**: Péricles; Percy Jackson – O Ladrão de Raios: O Musical; Marcelo Duque: Sem Filtro
-- **17/01**: The Jazz Room: Marvin Gaye em uma noite de soul; Percy Jackson – O Ladrão de Raios: O Musical; Eles Não Usam Black Tie
+- **16/01**: Péricles; Top 10 da Galinha Pintadinha; Percy Jackson – O Ladrão de Raios: O Musical
+- **17/01**: The Jazz Room: Marvin Gaye em uma noite de soul; Percy Jackson – O Ladrão de Raios: O Musical; Top 10 da Galinha Pintadinha
 - **18/01**: O Formigueiro
 - **19/01**: Pablo; O Formigueiro
 - **20/01**: Iron Maiden Symphonic – The Beast Experience; Aurora – O Despertar da Mulher Exausta; Feijoada do Samba de Caboclo – feriado de São Sebastião
-- **21/01**: Percy Jackson – O Ladrão de Raios: O Musical; Aurora – O Despertar da Mulher Exausta; Ballet of Lights: A Bela Adormecida
+- **21/01**: Percy Jackson – O Ladrão de Raios: O Musical; Aurora – O Despertar da Mulher Exausta; A Gente Mira no Amor e Acerta na Solidão
 - **22/01**: The Wailers e Pato Banton; Percy Jackson – O Ladrão de Raios: O Musical; Eles Não Usam Black Tie
 - **23/01**: Baco Exu do Blues; Percy Jackson – O Ladrão de Raios: O Musical; Eles Não Usam Black Tie
 - **24/01**: Vila Anime – Edição Verão 2027; Percy Jackson – O Ladrão de Raios: O Musical; Eles Não Usam Black Tie
@@ -556,12 +618,19 @@ Regras de curadoria:
 - **ECOS – coletiva** — As fontes divergem num ponto: o site da galeria diz “segunda a sexta”; a ArtRio diz “terça a sexta”. Vale o site da galeria. Também divergem no número de obras (vinte no site da galeria, dezenove na ArtRio); vale o site da galeria.
 - **Hugo França & Max Lamb** — Classificação não informada. Endereço do site da FGV Arte (nº 190); a ficha "Infâncias" na base tinha nº 186 (do Arte que Acontece) e vai corrigida neste lote.
 - **Amigo Oculto** — Preço não informado. "Diferentes gerações" completa-se pelo resumo do Arte que Acontece.
+- **Novos barrocos – coletiva** — A ronda não trouxe o site da galeria: fatos da ArtRio, link da agenda (a página própria da exposição não foi lida). Endereço completado com "Rua". Preço não informado. A descrição da fonte vem cortada; a sinopse fica no que ela diz.
+- **Modos de (co)existir, de Mariana Fogaça** — A ronda não trouxe o site da galeria: fatos da ArtRio, link da agenda (a página própria da exposição não foi lida). Visita só com agendamento, de segunda a sexta; o telefone da galeria ficou fora da ficha, está no link. Preço não informado.
 - **Infâncias** — Correção de 26/11: horário de visitação e endereço (nº 190) tirados do site da FGV Arte, que anuncia a inauguração em 26 e 28/11; o site ainda não tem página própria da mostra, então o link continua o do Arte que Acontece. Fim (02/05/2027) e preço só no Arte que Acontece / não informados. Marquei Infantil pelo tema; a fonte não diz se é voltada a crianças.
 - **Gordon Parks: A América Sou Eu** — A ronda só trouxe a listagem do CCBB Rio, sem a página própria da exposição: link para a página de programação. Sem texto de apresentação: sinopse mínima, só com título, artista e datas. Horário de visitação tirado das outras exposições do CCBB Rio no mesmo arquivo (o mesmo das fichas do CCBB na base); a fonte não dá o horário desta. Preço e classificação não informados (a listagem só diz "ingressos"). Horário de visitação desta mostra não informado na fonte; campo vazio.
 - **Projeção mapeada de O Quebra-Nozes na fachada do Theatro Municipal** — Os horários das projeções não vêm no trecho coletado (o texto chega cortado); é à noite, segundo a fonte ('noite de abertura').
+- **Borda, de Mateu Velasco** — Período só na ArtRio (07.NOV a 09.JAN; a mostra aparece também na lista de janeiro de 2027, por isso o fim é 9/1/2027). Horário igual nas duas fontes. O site da galeria não tem página própria da exposição: link da página de exposições. Preço não informado (galerias costumam ser grátis, mas nenhuma fonte diz).
+- **Festas, Sambas e Outros Carnavais** — Exposição de longa duração, sem data de fim (fim vazio, aparece como "Em cartaz"). Início pela matéria do museu sobre as três mostras inauguradas em 8/11. Ingresso grátis com reserva antecipada (Sympla) ou na recepção. Classificação não informada. A página própria da exposição veio cortada na ronda; os fatos saem das páginas de exposições e de programação do museu.
 - **Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID** — Nenhuma fonte oficial do MAR na ronda; fatos do portal Arte que Acontece. Horário de visitação e preço não informados pela fonte (o MAR costuma abrir de quinta a terça; conferir).
+- **Hipertelia – Marés de Mudanças** — O fim em 13/12 vem do texto da página da Riotur (o site do museu não dá o encerramento). A ronda não trouxe página própria da exposição no site do museu: link para a página inicial. Endereço igual ao da outra ficha da casa na base (a Riotur dá a entrada pela Praça Benedito Cerqueira). Entrada gratuita só pela Riotur; o museu fala em visitas mediadas gratuitas. Preço deixado vazio.
+- **Rio Carnaval Expo** — Achado pelo AllEvents (que dava fim em 25/12); período, horário e endereço da Riotur, confirmados em parte pela LIESA (F037, só a manchete da estreia). Riotur dá ingressos de R$ 25 (terça a sexta) a R$ 40 (sábado e domingo), meia para carioca; pela regra, preço da Riotur só com confirmação, então ficou sem preço. Não achei na ronda a página própria da exposição (site oficial citado: riocarnavalexpo.com); link é o da Riotur. Fim do ano: a Riotur não diz se abre em 24, 25 e 31/12 e 1º/1. Ano do fim (2027) presumido pela janela. Nenhuma outra ficha da Cidade do Samba na base para copiar o endereço.
 - **Adrianna Eu: Trago um mar de incertezas** — O site da própria galeria não está na ronda: fonte é a agenda da ArtRio. Horário de sábado diverge na ArtRio: a página da exposição diz 11h–14h, a listagem diz 11h–15h; ficou o da página. Fim (21.JAN) sem ano na fonte: 2027. Classificação não informada. Primeira ficha da galeria na base.
 - **Novos ares: Pontal reinventado** — Exposição de longa duração, sem data de início ou fim na fonte (a Sympla só abre reservas por períodos). Entrada gratuita com retirada antecipada pela Sympla ou na bilheteria. Classificação não informada.
+- **Cidade Batucada** — Só a Riotur traz a mostra na ronda. O fim em 6/1 vem do texto da página da Riotur; a data de abertura não aparece (a Riotur tem 10 páginas do evento, sinal de que já está aberta): pus início hoje. Sem página própria da exposição na ronda. A Riotur não diz o tema além do título. Preço não confirmado fora da Riotur (que diz entrada gratuita).
 - **Renato Bezerra de Mello: Gestos Cotidianos** — A agenda oficial do Sesc na ronda não traz esta exposição; usei os fatos do Arte que Acontece. Sem horário de visitação e sem preço na fonte.
 - **Priscila Rooxo: De onde venho** — Fora da lista de candidatas, mas está na mesma fonte (F088), em cartaz e ausente da base. Datas da listagem de exposições do site; horário do rodapé do site. Preço e classificação não informados (a outra exposição do espaço na base está como grátis, mas esta página não diz). A programação do dia 5/12 (oficina, mesa, DJ) não virou ficha própria.
 - **Rosana Palazyan: Quintal** — Fim: a galeria diz 28/11; o Arte que Acontece e a ArtRio dizem 26/11. Ficou a data da galeria. Correção de 26/11: horário de visitação da agenda da ArtRio (o site da galeria não informa). Preço não informado.
@@ -597,10 +666,13 @@ Regras de curadoria:
 - **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
 - **Ruído Bruto** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco. A página do evento não pôde ser lida.
 - **1ª Mostra de Artes de Terreiro Os Ciclomáticos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Pororoca** — Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). Período de 5/11 a 6/12 tirado do texto da página da Riotur; sessões listadas de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Candlelight: Tributo ao Coldplay** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Andrezão do Cacique** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A fonte não cita o Cacique de Ramos pelo nome; diz 'a famosa tamarineira'.
 - **Azymuth: Águia Não Come Mosca e Grandes Clássicos** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO RIVAL.
 - **Entre Atos** — A listagem da Sympla não informa preço nem classificação. Dias e horários do calendário da Riotur (quinta a sábado, 19h30; domingo, 18h30), até o fim dado pela Sympla (29/11); o horário de início da Sympla (16h20) parece ser o da criação da página. Gênero não informado; Teatro presumido pelo espaço.
+- **Seal** — O site dá só o preço 'a partir de', sem dizer se é inteira. A Riotur dava 'a partir de R$ 197,50' e 'horário a confirmar'; valeu o site da casa. O site não traz texto de apresentação: sinopse mínima.
+- **O Nome do Bebê** — A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (27/11), pelo próprio trecho do site, confirmado pela Riotur.
 - **Adorável Face de Andronieva Petrosa** — A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até 20/12 (quinta a sábado, 20h; domingo, 19h), segundo a página da peça no site do Teatro Poeira; link trocado pela página da peça. A Sympla lista a peça no Teatro Poeira; mantido o Poeirinha, como diz o site do teatro.
 - **Dilma Oliveira canta Alcione** — A listagem da Sympla não informa preço nem classificação.
 - **Maldito Coração** — O site dá só o período (18 a 26/11); dias presumidos de quinta a domingo, o que deixa só o último dia. Hora da página do evento (a da listagem vem com fuso errado). Preço e classificação não informados.
@@ -608,6 +680,7 @@ Regras de curadoria:
 - **Wilson Meireles e Pedro Holanda: "Ben Monal"** — A fonte grafa o nome do show entre aspas irregulares; mantive "Ben Monal" como está. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Algoritmo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Yumi Park – Alma de Artista** — Na noite de 25/12 a hora muda para 21h. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
+- **Embarcação Perdue** — Só a Riotur traz o espetáculo na ronda. A página da Riotur dá R$ 50 (inteira) e R$ 25 (meia), mas pela regra o preço da Riotur só entra com confirmação; ficou sem preço. Classificação não informada.
 - **Noite do Melodrama** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 29 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 29/11 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.
 - **Eri Johnson em "Das Seis às Sete"** — A listagem da Sympla não informa preço nem classificação. A temporada vai até hoje, 26/11, às 20h; só essa sessão cabe na janela. Gênero não informado; Teatro presumido pelo espaço.
 - **Descalços no Parque** — A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).
@@ -619,6 +692,7 @@ Regras de curadoria:
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.
 - **Nhá Eva** — A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
 - **Simplesmente Shakespeare: Romeu e Julieta** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **A Solidão do Feio** — Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). O fim em 6/12 vem do texto da página da Riotur; a data de estreia não aparece, então listei as sessões de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Serginho Lacerda – Vida de Pai** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem chama o show de 'Qual o seu Talento?', mas o texto da página fala de 'Vida de Pai'; usei o nome do texto.
 - **O Tigre** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.
 - **Candlelight: Tributo ao Guns N' Roses** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. A fonte não diz a formação dos músicos.
@@ -641,6 +715,7 @@ Regras de curadoria:
 - **Samba Carioca: apresentação do Bloco Carioca 2027** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). O texto da página fala em 'quarta-feira', mas a data é sexta, 27/11; segui a data.
 - **A Ópera do Malandro – o musical** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Superiores** — Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.
+- **Confissões de Adolescente – o musical** — A fonte não informa o preço. Correção de 26/11: a ficha só tinha a semana de 19/11; acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur (Sextas-feiras, às 20h; sábados e domingos, às 19h).
 - **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Beatles Fora da Caixa** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. Música presumida pelo título.
 - **Tudo Aquilo que Fica** — A listagem da Sympla não informa preço nem classificação. Gênero não informado; Teatro presumido pelo espaço.
@@ -662,6 +737,7 @@ Regras de curadoria:
 - **Zuzuê Contos Africanos** — Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.
 - **Rio Blues Festival** — A listagem da Sympla não informa preço nem classificação. Organizador: Corporate Events Brasil. A fonte dá de 28/11, 12h, a 29/11, 22h; início do segundo dia presumido igual ao do primeiro. Atrações e preço não informados.
 - **Feijuca com Samba: Samba do Pedro** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio. Feijuca com Samba tratado como série pelo "apresenta".
+- **Escola do Rock** — A fonte não informa o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (13/12), pelo próprio trecho do site (sábados e domingos às 15h; sextas às 19h30 só em 4 e 11/12). A Riotur diz 'Sextas, às 19h30' sem restringir; segui o site do espaço e não pus 27/11.
 - **Brincando com Bento e Totó** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.
 - **Reunião Geral das Palavras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Cadê o Sobrevento?** — Ronda de 26/11: novas sessões em 5, 6, 12 e 13/12. Para essas a agenda não informa o preço; o preço da ficha (R$ 20, meia R$ 10) é o das sessões de novembro. A sessão de 22/11 (a única com Libras) já passou e saiu. Classificação livre. O Sesc ainda não informou o preço das sessões de dezembro; mantido o de novembro.
@@ -702,8 +778,12 @@ Regras de curadoria:
 - **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Lia Paris canta Edith Piaf** — A listagem da Sympla não informa preço nem classificação.
 - **J.P. Silva** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta).
+- **O Mercador de Veneza** — A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur.
 - **Bossa Mais** — A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
+- **Renato Albani: Salve-se Quem Puder** — Data na agenda da Farmasi Arena; hora da Riotur. Nenhuma das duas dá preço nem classificação na ronda.
+- **O Céu da Língua, com Gregório Duvivier** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada. Bairro: Gávea (endereço do Jockey Club); a Riotur escreve Lagoa.
 - **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Jorge Vercillo: JV30 Parte II – Mais um Final Feliz** — O site dá só o preço 'a partir de', sem dizer se é inteira.
 - **Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; o nome do projeto sugere dança.
 - **Quarteto Jequitibá: Retratos do Brasil** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Ilha do Anime** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; natureza do encontro presumida por ele.
@@ -728,6 +808,7 @@ Regras de curadoria:
 - **Marvio Ciribelli & Convidados: tributo a Sérgio Mendes e Chico Buarque** — A fonte não nomeia os convidados. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Festival PeriferI.A – Conectando saberes, tecnologias e territórios** — Grátis. Endereço tirado da própria fonte: a ficha da base para a Biblioteca Parque de Manguinhos estava com o endereço vazio. A página traz a etiqueta "Expirado", que parece ser do sistema do site (a notícia é de 16/11 e o evento é futuro). Classificação não informada.
 - **Moacyr Luz e Samba do Trabalhador** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço. Nova data (30/11) com página própria: https://www.sympla.com.br/evento/moacyr-luz-e-samba-do-trabalhador/3665798
+- **Dramaturgia em Leituras: Marlim Azul** — Data e gratuidade no site do teatro; hora e sala da Riotur. O site do teatro não tem página própria do evento na ronda: link para a página inicial. Classificação não informada.
 - **Orquestra Sinfônica do Conservatório de Música de Sydney** — Programa não informado. O roteiro não informa preço, classificação etária nem acessibilidade.
 - **We Are Making a Film About Mark Fisher** — A Fever dá só o preço 'a partir de' (pode ser meia-entrada); não informa a inteira. O texto da página foi cortado na extração; não há mais detalhes do programa.
 - **Fera** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período; dias presumidos de quinta a domingo. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
@@ -759,6 +840,7 @@ Regras de curadoria:
 - **Terreiro de Mangueira – Cordel Negro** — Nova sessão em 2/12 na agenda oficial do Sesc (ronda de 22/11); a página do evento mudou de endereço. A agenda atual dá o título só como 'Cordel Negro'; a relação exata entre o grupo e o projeto não está clara na fonte. A sessão de 20/11 veio da ronda anterior.
 - **Mantra Tropical, com Fabrizio Filesi** — A listagem da Sympla não informa preço nem classificação.
 - **Grupo Choro Novo: 25 anos** — O roteiro não informa classificação etária nem acessibilidade.
+- **Pagodinho com Guga Nandes** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 3h.
 - **Marcos Sacramento e Moacyr Luz** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ.
 - **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Coral Altivoz – Diálogos Transversos (Uerj Sem Muros)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
@@ -788,6 +870,8 @@ Regras de curadoria:
 - **Duo Gazzana – Série Piano na Sala** — O roteiro não diz se R$ 40 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
 - **Lisa, Lesa & Louca** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 19h, a 20/12); dias presumidos de quinta a domingo, 19h. Gênero não informado; Teatro presumido pelo espaço. Organização independente. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
 - **Ah!Banda – Prezadíssimos Ouvintes (Uerj Sem Muros)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
+- **Patati Patatá Circo Show** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Organizador: Igor Farias atividades circenses. Circo (Teatro); Infantil presumido pelo nome Patati Patatá no título, sem classificação na fonte. Tiradas as datas presumidas de 24, 25 e 31/12 e 1/1 (feriados e vésperas).
+- **Guilherme Arantes** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **A Vida Passou por Aqui** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 20h, a 27/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Cabaret – Absurdos e Variedades** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Noite de cabaré presumida pelo título; a casa já apresentou outras edições do Cabaret, não é mostra de alunos.
 - **Procura-se Messias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
@@ -803,6 +887,7 @@ Regras de curadoria:
 - **Matuê e Brandão** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 22h; o primeiro show está previsto para meia-noite. Preço máximo é de camarote.
 - **Festival Contarolando Histórias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Um Defeito de Cor na Pequena África** — Grátis. A fonte cita guiamento do grupo Contos da Guia, mas não diz se parte da atividade acontece fora da unidade; local mantido como Sesc Tijuca e sem marca de "Na rua".
+- **Pagode com Molho** — A listagem da Sympla não informa preço nem classificação. Organizador: Badalado Gigóia. Uma página da Sympla por data; link da primeira. Vai até as 23h. A fonte não diz quem toca.
 - **Djavan – O Musical: Vidas pra contar** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).
 - **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
 - **Burning Love Band: An Elvis Tribute** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
@@ -811,19 +896,24 @@ Regras de curadoria:
 - **Samblack II com Paula Quintanilha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Isabella Taviani: Confissões (de Amor)** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; em outra data o mesmo artista aparece como stand-up.
+- **Capital Inicial** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
+- **Tributo a Raul Seixas e Renato Russo** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o nome do lugar nem quem toca; "Nectar Som" aparece no título e pode ser o nome da banda ou da casa. Vai até as 2h.
 - **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
 - **Ithamara Koorax: Bossa Project** — Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Thiaguinho – turnê Bem Black** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 21h; o show está previsto para 0h30. Preço máximo é de camarote.
 - **Ferrugem: Sentimento – gravação do audiovisual** — O site dá só o preço 'a partir de'; não diz se é inteira.
 - **Tangolomango – cantigas, histórias e brincadeiras** — Preço não informado no trecho coletado. Duração de uma hora (9h30 às 10h30).
 - **1º Encontro de Violonistas Compositores: concerto com convidados** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Feijuca com Samba: Samba do Xoxó** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio. Vai até as 21h.
 - **Bruno Bellandi e Banda: Feijão Retrô** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Os Piores Pirralhos do Mundo!** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.
+- **Puro Suco do Samba** — A listagem da Sympla não informa preço nem classificação. Organizador: Badalado Gigóia. Uma página da Sympla por data; link da primeira. Vai até as 23h. A fonte não diz quem toca. Não confundir com a festa "Puro Suco – Brasil em Estado de Festa", na Praça XV.
 - **Samba das Rosalinas na Batuq** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa.
 - **Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. 'Os Paralamas do Sucesso' é o nome completo usado no site do festival; a bilheteria escreve 'Paralamas'. A página não separa abertura dos portões e início dos shows. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
 - **Casuarina 25 anos, com João Cavalcanti e Moyseis Marques** — A listagem da Sympla não informa preço nem classificação. Organização independente.
 - **Batuq em Verde e Rosa – 5ª edição** — A listagem da Sympla não informa preço nem classificação. Organizador: Batuq Casa de Samba. Atrações não informadas.
 - **Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)** — O roteiro não diz se R$ 40 é a inteira. Repete em 12/12, de graça, na Tijuca (ficha própria). O roteiro não informa classificação etária nem acessibilidade.
+- **Quintal do Batuqg** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 2h.
 - **Concerto ACC 85 anos: Canta Navidad, de Jean Kleeb** — A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte não explica a sigla ACC.
 - **Quem Matou o Leão?** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.
 - **Mulheres ao Vento – A Terra que Piso é Maré** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
@@ -840,6 +930,7 @@ Regras de curadoria:
 - **Terças no Ipanema: Celso Fonseca** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
 - **Luiz Bomfim e Regina Lacerda – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
 - **Corais infantis da UFRJ – Concerto de Natal na Candelária** — O roteiro não informa classificação etária nem acessibilidade.
+- **Concurso da Corte Real do Carnaval 2027: eliminatórias** — Só a Riotur traz o evento na ronda. Não informa preço nem classificação; atrações 'em breve'. A Riotur escreve 'LBT+' aqui e 'LGBT+' na página das finais; usei LGBT+.
 - **Nasce uma FrankStella** — Grátis. A peça nasceu no Laboratório Cênico (processo de criação colaborativo); entrou como espetáculo, não como apresentação de curso.
 - **Quarteto de Cordas da UFF** — O roteiro não diz se R$ 30 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
 - **Dragstar – 14ª temporada: a grande final** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
@@ -853,6 +944,7 @@ Regras de curadoria:
 - **Andrea Saffirio – piano** — O roteiro não informa classificação etária nem acessibilidade.
 - **O Quebra-Nozes** — A Fever lista sessões só até 22/12; as de 23, 26 e 27/12 vêm do roteiro da Revista CONCERTO (ronda de 25/11), que dá ingressos de R$ 20 a R$ 100. Preço 'a partir de' da Fever (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.
 - **Silvério Pontes e Marcelo Caldi** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
+- **O Nariz** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 18h como fim no dia 20 (talvez o horário de domingo). Organizador: Tamires Nascimento Produções. Gênero não informado; Teatro presumido pelo espaço.
 - **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Tiê** — A listagem da Sympla não informa preço nem classificação. Show presumido pelo nome da artista.
 - **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
@@ -861,6 +953,7 @@ Regras de curadoria:
 - **Samba da Constituição canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organização independente. Endereço completo e bairro informados pela coordenação editorial em 24/11.
 - **16º Sarau Pretos Novos** — A listagem da Sympla não informa preço nem classificação. organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN. Organizador: Instituto de Pesquisa e Memória Pretos Novos (sem fins lucrativos). A fonte não dá o número do endereço.
 - **Jade Vitóriah: A Cor da Minha Voz** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Noite da Floresta – Cabaré ao Som de Ney** — A listagem da Sympla não informa preço nem classificação. A Sympla dá de 11/12, 19h, a 12/12, 19h: presumida uma sessão por dia, às 19h. Organizador: Fundação Cesgranrio. Cabaré, pelo título; Teatro.
 - **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** — Repete em 17/12, de graça, na Igreja de São Francisco de Paula (ficha própria). O roteiro não informa preço, classificação etária nem acessibilidade.
 - **Dança Boba** — Três páginas de venda (11, 12 e 13/12) juntadas; link da primeira. Dança vai em Teatro.
 - **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
@@ -882,6 +975,7 @@ Regras de curadoria:
 - **Candlelight: Hinos do rock dos anos 80** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Canta Navidad – Coro Intercantus e convidados (Tijuca)** — O roteiro não informa classificação etária nem acessibilidade.
 - **Candlelight: O Melhor de Outlander** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Acessibilidade não informada.
+- **Jota Quest** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **4 anos de Vou de Lado B, com Príncipe e Imaginasamba** — Endereço repetido igual ao da base para a quadra (a página dá o número 3102).
 - **Rodrigo Sant'Anna – Mulheres em Turbulência** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
 - **Candlelight: O Melhor da MPB** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 24/1 fora da janela.
@@ -891,9 +985,11 @@ Regras de curadoria:
 - **Bita em Festa dos Bichos** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
 - **Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos** — O roteiro não informa preço, classificação etária nem acessibilidade.
 - **Um Ano de Pagode da Gigi** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem atrações. Organizador: produtora particular (não é o museu). Horário de 12h às 22h pela listagem.
+- **Quintal da Piedade – 5ª edição: A Paz** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço (só "Rua Bernardo") nem quem toca. Vai até as 22h.
 - **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
 - **Sandra de Sá e Jet Samba Black na Batuq** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
 - **Folia de Reis – A Brilhante Estrela de Belém (Domingo das Crianças)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Pé do Meu Samba, a Roda – 3ª edição** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço.
 - **Oratório de Natal – Associação de Canto Coral (Cidade das Artes)** — O roteiro repete esta apresentação em duas linhas iguais. Não diz se R$ 40 é a inteira nem a sala. O roteiro não informa classificação etária nem acessibilidade.
 - **Adrian Cortês: Moonwalk Fest** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; área Música presumida.
 - **Pagode de Verão: Diggo (Conexão Rio-Salvador)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
@@ -907,6 +1003,7 @@ Regras de curadoria:
 - **Fábrica Mágica de Natal** — Preço e duração não informados no trecho coletado.
 - **Coral Abstrassom – Concertos de Natal** — Programa não informado. O roteiro não informa classificação etária nem acessibilidade.
 - **Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)** — O roteiro não informa classificação etária nem acessibilidade.
+- **Concurso da Corte Real do Carnaval 2027: finais** — Só a Riotur traz o evento na ronda. Não informa preço nem classificação; atrações 'em breve'.
 - **Os Lobos 60 Anos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Vidal Assis: Emílio Santiago – 80 anos** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Francesca Lo Cicero** — Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
@@ -918,30 +1015,50 @@ Regras de curadoria:
 - **Baile da Didi no Rio Scenarium** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
 - **Cantos de Força – 10 anos de Afrotelúricos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
 - **Thalita Pertuzatti em Whitney Forever** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Lenine** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
+- **Azul Limão e Taurus: 40 anos de "Vingança" e "Signo de Taurus"** — Achado pelo AllEvents; fatos confirmados na Sympla (venda oficial, organizador: a própria banda Azul Limão). A listagem da Sympla não informa preço nem classificação. Endereço igual ao da outra ficha do Audio Rebel na base. A fonte não diz o que são "Vingança" e "Signo de Taurus"; ficaram entre aspas, como no título.
 - **Murilo Couto – Novo Show** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.
+- **Mariroots: Só Pedrada! – 20 anos** — Data na agenda da Fundição; hora da Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-mariroots-so-pedrada/). Nenhuma das duas dá preço nem classificação na ronda.
 - **Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
 - **VVM: Fidelisx & Evy – show de lançamento** — A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A fonte não explica a sigla VVM nem o que é lançado.
 - **A Gongada das Mil Xuxas** — Preço não informado. O elenco ainda não foi divulgado.
+- **Festa PLOC 22 Anos** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação e atrações não informadas.
 - **Ranther Melo: Vem Que Tá Maneirinho** — A listagem da Sympla não informa preço nem classificação. Organizador: Arte & Entretenimento. Humor presumido (Teatro).
+- **Cone Crew Diretoria** — Data na agenda da Fundição; hora da Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-cone-crew-diretoria/). Nenhuma das duas dá preço nem classificação na ronda.
+- **Di Ferrero e Thiago Castanho & Marcão Britto: Charlie Brown Jr. Acústico** — O site dá só o preço 'a partir de', sem dizer se é inteira.
+- **Noites de Verão: Delacruz, Pagode do Adame e DJ Saddam** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada. A data (19/12) é a única citada no texto da página da Riotur. Acesso pelo bondinho (não informado o custo).
 - **Trio Laetare – Concertos de Natal** — O roteiro indica 120 lugares. O roteiro não informa classificação etária nem acessibilidade.
 - **Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita** — Venda pelo site da orquestra e pela Ticket360. O roteiro não informa classificação etária nem acessibilidade.
 - **An Idiot's Guide to Wine: Uma Comédia sobre Vinho** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de fevereiro e março fora da janela. Há degustação de vinho: a idade mínima não aparece no trecho coletado.
 - **Fabinho e Santo de Casa na Batuq** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **Awurê Veste Branco** — Data na agenda da Fundição; hora da Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-a-festa-awure-veste-branco/). Nenhuma das duas dá preço nem classificação na ronda.
+- **Natal Comedy** — A listagem da Sympla não informa preço nem classificação. Comédia, pelo título; Teatro. A Sympla tem outra página do mesmo espetáculo (Natal Comedy 2026, Triumphant Produções): https://www.sympla.com.br/evento/natal-comedy-2026/3655981.
 - **Tiago Santineli** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A listagem não diz o nome do show; Tiago Santineli é humorista (classificado em Teatro).
 - **Durval e Valcylange – com Cacau Protasio (Vista Alegre)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Que é comédia vem da página da mesma peça na Uhuu.
 - **Samba in Rio – Sons & Vozes das Damas do Samba** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **O Quebra-Nozes – versão de Thiago Soares** — Venda pela Sympla (bileto) ou na bilheteria. O roteiro não diz se R$ 50 é meia nem a classificação.
+- **O Grinch – Uma História de Natal** — A listagem da Sympla não informa preço nem classificação. A Sympla dá de 26/12, 17h, a 27/12, 17h: presumida uma sessão por dia, às 17h. Gênero não informado; Teatro presumido pelo espaço.
 - **Jay Vaquer** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Molengotengo Samba Clube** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 22h.
+- **Elba Ramalho e Geraldo Azevedo** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Yayá do Cavaco: De Raiz em Flor** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Matuê + LeaLL: Pré-Réveillon no MAM** — Só a Sympla tem o evento; a listagem não informa preço nem classificação. Organizador: produtora particular. Show com horário de festa (22h às 4h): mantive por ser apresentação de artista, não festa de boate; confirmar.
+- **Festival de Verão do Rio: Alok – Rave the World** — Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.
+- **João Gomes** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
+- **Festival de Verão do Rio: Réveillon Cheers, com Pabllo Vittar e Gloria Groove** — Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.
+- **Fruta do Pé pra Oxalá na Batuq** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa. Fim às 23h59, que parece horário padrão da Sympla.
+- **Festival de Verão do Rio: Festa RARO** — Hora e lugar da Riotur e do Visit Rio, que concordam; escalação do Visit Rio. A venda é pela Q2 Ingressos, que não lemos: sem preço. Classificação não informada.
 - **Leandro Sapucahy: Que Nem Antigamente** — A listagem da Sympla não informa preço nem classificação. Bairro presumido (a sede do Cacique fica na Rua Uranos, em Olaria).
 - **Psicóloga Segundo Meu Psiquiatra** — A fonte dá o período (2 a 31/1) e 'Horário 19h e 18h', sem dizer os dias. Dias presumidos de quinta a domingo (mais o primeiro dia), 19h, e 18h aos domingos. Preço não informado.
+- **Festival de Verão do Rio: Rio Folia, com Ivete Sangalo e Babado Novo** — Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Deixa Clarear, musical sobre Clara Nunes** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Festival de Verão do Rio: Sound of Sunset, com Mochakk** — Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Aurora – O Despertar da Mulher Exausta** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (6/1, 19h, a 31/1, 17h); dias presumidos: o primeiro dia e de quinta a domingo, 19h, e 17h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Abba Alive** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com o grupo. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
 - **Eles Não Usam Black Tie** — A listagem da Sympla não informa preço nem classificação. Organizador: Hassis Produções Artísticas. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
 - **Elymar Santos: Estrela Luminosa** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **A Gente Mira no Amor e Acerta na Solidão** — Período e texto do site do teatro; dias e horas da Riotur. Sessões até 24/1 (fim da janela de 60 dias); a temporada vai até 31/1. Sem preço nem classificação na ronda; o site não tem página própria do evento (link para a página inicial).
 - **Uma Vida de Amizade** — A fonte dá o período (8/1 a 28/2) e 'Horário 21h e 20h', sem dizer os dias. Dias presumidos de quinta a domingo, 21h, e 20h aos domingos, até o fim da janela. Preço não informado.
 - **Durval e Valcylange – com Cacau Protasio e Rômulo Bellotti** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem dá só a primeira (9/1) e a última (10/1) sessão, ambas às 19h; como são dias seguidos, não há outros dias a presumir.
 - **Quintal da Quintão – Revive** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizadora: Renata Quintão.
@@ -952,6 +1069,7 @@ Regras de curadoria:
 - **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
 - **Muato – DERÊ: Concerto sobre o Pagode** — Nova sessão em 15/1/2027 na Uhuu (ronda de 25/11). O menor preço da Uhuu pode ser meia-entrada.
 - **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
+- **Top 10 da Galinha Pintadinha** — A listagem da Sympla não informa preço nem classificação. A Sympla dá de 16/1, 15h, a 17/1, 15h: presumida uma sessão por dia, às 15h. Infantil pela personagem do título.
 - **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
 - **Péricles** — O release não dá a classificação etária. Só o menor preço, de meia-entrada solidária.
 - **Paulinho da Viola** — Preço: o menor valor informado; pode haver setores mais caros.
