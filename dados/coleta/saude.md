@@ -20,13 +20,13 @@
 ## Redação (tarefa diária do Claude)
 
 - Última entrega: 2026-11-26
-  - 2026-11-26: 14 novas, 4 corrigidas, 0 recusadas — Lote 7 de 26/11: radar da Riotur (2) e galerias
   - 2026-11-26: 0 novas, 0 corrigidas, 0 recusadas — Lote 8 de 26/11: A boa de 3/12; pendentes atualizados; vistos marcados
   - 2026-11-26: 0 novas, 0 corrigidas, 0 recusadas — A boa de 30/11: entra a leitura de Marlim Azul (seção da vez: Teatro) no lugar do filme sobre Mark Fisher
   - 2026-11-26: 8 novas, 9 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte a1
   - 2026-11-26: 2 novas, 15 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte b1
   - 2026-11-26: 6 novas, 6 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte c1
   - 2026-11-26: 6 novas, 4 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte d1
+  - 2026-11-26: 0 novas, 0 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf): pendentes atualizados
 
 ## Edição no ar
 
