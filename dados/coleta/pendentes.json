@@ -2,7 +2,7 @@
  "pendentes": [
   {
    "fonte": "FPLAT_sympla",
-   "titulo": "grupo 'cultural' da Sympla: casas de samba, rodas e bares de música (Samba do Luna, Samba da Barão, Pasmado, Ferreirinha, Samba DQuintal, Soul do Samba, Colinda, Espetto Valqueire, Pagodente, Samba Prazi, Varanda de Vó, Samba do Pedro Ivo, Bangu Canta Pagode 90, Resenha R.O.S.A., Projero) e teatros comerciais e infantis (Miguel Falabella, Brigitte Blair, Teatros da Barra, Clara Nunes, Vanucci, Cândido Mendes), de 25/11 a 22/1, mais as cerca de 200 linhas que já estavam pendentes",
+   "titulo": "grupo 'cultural' da Sympla: linhas antigas que ainda não viraram ficha (as novas de 26/11 foram redigidas)",
    "data": "2026-11-25",
    "motivo": "não deu tempo"
   },
@@ -20,7 +20,7 @@
   },
   {
    "fonte": "FPLAT_sympla",
-   "titulo": "Novos ares: Pontal reinventado (Museu do Pontal) e O que resta (Centro Hélio Oiticica)",
+   "titulo": "O que resta (Centro Hélio Oiticica)",
    "data": "2026-11-23",
    "motivo": "falta confirmar se são exposições e o horário de visitação"
   },
@@ -32,15 +32,9 @@
   },
   {
    "fonte": "F034",
-   "titulo": "Fundição Progresso: Bloco do Silva (9/1), Armandinho (5/12), Mariroots (18/12), Conecrew (19/12), Awurê (20/12)",
+   "titulo": "Fundição Progresso: Bloco do Silva (9/1) e Armandinho (5/12)",
    "data": "2026-12-05",
    "motivo": "a fonte não dá a hora; sem release"
-  },
-  {
-   "fonte": "F002",
-   "titulo": "ABL: Victor Giudice e a ficção, Quinta é Cultura, 10/12 às 17h30",
-   "data": "2026-12-10",
-   "motivo": "não deu tempo; conferir data e título na página"
   },
   {
    "fonte": "FPLAT_sympla",
@@ -61,12 +55,6 @@
    "motivo": "endereço estranho no roteiro; a própria revista pede confirmação do evento de 17/12"
   },
   {
-   "fonte": "F138",
-   "titulo": "Percy Jackson – O Ladrão de Raios: O Musical, Teatro Multiplan, estreia 14/1",
-   "data": "2027-01-14",
-   "motivo": "a fonte não dá dias e horas da temporada"
-  },
-  {
    "fonte": "F082 / F092",
    "titulo": "Danielian Galeria: exposições 'Rio e também posso chorar' (até 9/1) e 'Bandálidas' (até 12/12); IMS: Senzala Hi-Tech (5/12, 17h)",
    "data": "2026-12-05",
@@ -77,6 +65,396 @@
    "titulo": "Sympla 'cultural' sem dado suficiente: Histórias que a gente canta – Glee (Tijuca Tênis, 28 e 29/11), Grupo Meu Samba é Assim (Rio Scenarium, 3/12, hora 23h59), Roda do Gab (Av. Dom Hélder Câmara, 7775, 5/12), A Lapa é Aqui (Arena Elza Osborne, 16/12)",
    "data": "2026-11-28",
    "motivo": "pode ser apresentação de escola, hora ou bairro incertos"
+  },
+  {
+   "fonte": "FAGENDA_sesc",
+   "titulo": "Vozerê",
+   "data": "2026-12-03",
+   "motivo": "a fonte não diz o que é (sinopse oficial quebrada na ronda; Sesc Ramos, 19h, grátis)"
+  },
+  {
+   "fonte": "F028",
+   "titulo": "Jango, 50 anos depois",
+   "data": "2026-12-07",
+   "motivo": "sem hora: a ABI ainda não informa o horário (homenagem a João Goulart e lançamento do livro \"As duas mortes de Jango\")"
+  },
+  {
+   "fonte": "F002",
+   "titulo": "Atividades sem título da ABL (15/12 às 11h e 13h; 16/12 às 10h e 12h)",
+   "data": "2026-12-15",
+   "motivo": "a fonte não diz o que é: a listagem traz só data e hora com inscrição, sem título nem tipo (podem ser visitas guiadas ou atividades dos 20 anos da Biblioteca Rodolfo Garcia)"
+  },
+  {
+   "fonte": "F138",
+   "titulo": "Terapia, com Marcelo Serrado",
+   "data": "2026-12-02",
+   "motivo": "sem hora: o site do Teatro Multiplan e a Sympla não dão o horário (a Sympla descartou por engano como autoajuda; é monólogo de humor)"
+  },
+  {
+   "fonte": "F082",
+   "titulo": "Rio e também posso chorar (Danielian Galeria)",
+   "data": "2027-01-09",
+   "motivo": "A ronda de hoje ainda não traz endereço nem horário de visitação da Danielian no Rio."
+  },
+  {
+   "fonte": "F082",
+   "titulo": "Bandálidas | Florencia Rodriguez Giles (Danielian Galeria)",
+   "data": "2026-12-12",
+   "motivo": "A ronda de hoje ainda não traz endereço nem horário de visitação da Danielian no Rio."
+  },
+  {
+   "fonte": "F088",
+   "titulo": "Obra de Rejane Cantoni (Petrobras Futuros)",
+   "data": "2026-12-31",
+   "motivo": "Só a chamada na listagem (1º de julho a 31 de dezembro), sem nome da obra nem página própria na ronda."
+  },
+  {
+   "fonte": "F066",
+   "titulo": "Borda, de Mateu Velasco (Galeria Movimento, Gávea)",
+   "data": "2027-01-09",
+   "motivo": "Em cartaz no Rio, fora da base; fora da lista deste lote, não redigida."
+  },
+  {
+   "fonte": "F066",
+   "titulo": "Modos de (co)existir, de Mariana Fogaça (Gaby Indio Arte Contemporânea, São Conrado)",
+   "data": "2026-12-17",
+   "motivo": "Em cartaz no Rio, fora da base; fora da lista deste lote, não redigida."
+  },
+  {
+   "fonte": "F066",
+   "titulo": "Novos barrocos, coletiva (Flexa, Leblon)",
+   "data": "2026-12-19",
+   "motivo": "Em cartaz no Rio, fora da base; fora da lista deste lote, não redigida."
+  },
+  {
+   "fonte": "F066",
+   "titulo": "Projeto Maravilha: Anna Bella Geiger (Parque Bondinho Pão de Açúcar, Urca)",
+   "data": "2027-01-14",
+   "motivo": "Abre em 14/01, fora da base; fora da lista deste lote, não redigida."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Domingo recreativo para crianças (Areninha Sandra de Sá, correção)",
+   "data": "2026-11-29",
+   "motivo": "PDF da Secretaria diz domingos às 10h; a Sympla dá 16h e temporada até 29/11. Horário em conflito; não acrescentei a sessão."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "WD – Eclipse Tour (Teatro Domingos Oliveira, correção)",
+   "data": "2026-11-26",
+   "motivo": "Sympla dá temporada até 26/11 às 19h; o PDF anterior dizia só 12 e 19/11 às 20h. Sessão de hoje e horário não confirmados."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "CELEBRA 2026 (Jacob do Bandolim, 5/12); Mostra Final da Arena Dicró (5/12); Espetáculo de dança Essência (Hermeto Pascoal, 19/12)",
+   "data": "2026-12-05",
+   "motivo": "Só o título na fonte; podem ser apresentações de alunos das oficinas ou de escola/academia."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Rodas de Leitura para Mover (Centro Coreográfico, até 4/12); O que resta: cotidiano, registros e formas do visível (Hélio Oiticica, até 11/12); Agroflorestinha – oficina de plantio (Arena Dicró, até 28/11)",
+   "data": "2026-11-27",
+   "motivo": "Temporada sem os dias e sem descrição; não é espetáculo (a regra de quinta a domingo não se aplica) e não se sabe se é aberto/gratuito ou se é exposição."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "SSL World Cup – sexta: Paulinho Moska (grátis)",
+   "data": "2026-12-11",
+   "motivo": "Página sem texto nem hora; show gratuito na Marina da Glória dentro de evento de vela."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "SSL World Cup – sábado: Monobloco (grátis)",
+   "data": "2026-12-12",
+   "motivo": "Página sem texto nem hora."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "SSL World Cup – domingo: Samuel Rosa e Toni Garrido",
+   "data": "2026-12-13",
+   "motivo": "Página só com preços (arena R$ 160 inteira; lounge R$ 240 inteira), sem hora."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "Feijoada do Thiago Soares",
+   "data": "2026-12-05",
+   "motivo": "Cidade do Samba; só diz que a feijoada é servida das 14h às 16h, sem hora de abertura nem preço."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "2Z Dinizz – Santo Sábado",
+   "data": "2026-12-12",
+   "motivo": "Soho Lounge (Padre Miguel); página sem hora e sem texto."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "Samba e Pagode Festival",
+   "data": "2027-01-20",
+   "motivo": "Quadra da Mocidade; página sem hora, sem atrações e sem endereço."
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "Santo Sábado: Nosso Sentimento",
+   "data": "2026-11-28",
+   "motivo": "casa noturna sem atração clara: pode ser festa, conferir"
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "Vou de Lado B apresenta: Entre Nós na Casa Savana",
+   "data": "2026-11-29",
+   "motivo": "casa noturna sem atração clara: pode ser festa, conferir"
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "Dona da Clareou",
+   "data": "2026-12-06",
+   "motivo": "casa noturna sem atração clara: pode ser festa, conferir"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Piano em Cena – Rogério Koury (Teatro Vanucci)",
+   "data": "2026-10-28",
+   "motivo": "Temporada de música até 15/12, 20h, sem os dias; a presunção de quinta a domingo é para teatro, dança e circo, e nenhuma outra fonte da ronda dá os dias."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "1ª Festa da Ala dos Compositores – Celebração ao Samba (Quadra do Império da Penha)",
+   "data": "2026-11-28",
+   "motivo": "A Sympla dá um período (29/10 a 28/11, 15h), não o dia da festa; provavelmente 28/11, sem confirmação."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Saravá Umbanda! O Último Samba do Ano (Sítio do Cezar, Campo Grande)",
+   "data": "2026-11-29",
+   "motivo": "Período de venda (3/11 a 29/11), sem o dia do evento; provavelmente 29/11, sem confirmação."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Samba do Luna (Realengo)",
+   "data": "2026-11-28",
+   "motivo": "Início às 11h07 (hora de criação da página) e fim 28/11, 23h30: dia e hora do samba não confirmados."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Samba da Barão (Gamboa/Providência)",
+   "data": "2026-11-27",
+   "motivo": "Início às 11h21 (hora de criação da página) e fim 27/11, 18h: dia e hora não confirmados."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Clube do Livro Entre Páginas e Taças – encontro de novembro (Janela Livraria)",
+   "data": "2026-11-27",
+   "motivo": "Início às 15h09 (hora de criação da página) e fim 27/11, 18h: hora do encontro não confirmada."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Musical O Milagre do Natal (Igreja Batista Atitude, Barra)",
+   "data": "2026-12-15",
+   "motivo": "Período de 24/8 a 15/12 sem dias nem hora confiáveis; montagem de igreja, pode ser apresentação interna."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Bianca Ramoneda – Oficina de Escritas Poéticas (Sesc Tijuca, Livro Labirinto)",
+   "data": "2026-11-28",
+   "motivo": "Oficina vendida na Sympla, preço não informado: se for paga, fica de fora."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Hamlet Fugiu / Alice Aqui e Agora / O que é, o que é? (Teatro Antônio Abujamra, Colégio Pinheiro Guimarães)",
+   "data": "2026-12-05",
+   "motivo": "Três peças de 1h no teatro de um colégio, mesma organizadora: parece mostra de curso ou escola."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Mil e Uma Noites, o espetáculo (CAC Luiz Januário, Tijuca)",
+   "data": "2026-12-05",
+   "motivo": "Organizador Cinepalco, 1h: pode ser apresentação de escola de teatro."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Concerto – Playlist de Natal (Colégio Pedro II, Realengo)",
+   "data": "2026-12-19",
+   "motivo": "Concerto num colégio, organizador cia. fino da musica: pode ser apresentação de alunos."
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Baile do Quintal (Irajá)",
+   "data": "2026-12-06",
+   "motivo": "Só o título e o lugar (13h à 1h): não dá para saber se é roda/show ou festa."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Roberto Carlos na Farmasi Arena",
+   "data": "2026-11-26",
+   "motivo": "Só a Riotur dá (21h); não aparece na agenda da Farmasi Arena lida hoje. Confirmar antes de publicar."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Major RD na Fundição Progresso",
+   "data": "2026-11-27",
+   "motivo": "Só a Riotur dá (abertura 21h); não aparece na agenda da Fundição lida hoje. Confirmar."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Noites de Verão: Biquíni Cavadão e Léo Jaime (Morro da Urca)",
+   "data": "2026-11-28",
+   "motivo": "A página da Riotur lista as datas da série inteira (28/11, 4, 5, 12 e 19/12) sem dizer a noite desta atração."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Noites de Verão: Sorriso Maroto, Toda Forma de Amor e DJ Tubarão (Morro da Urca)",
+   "data": "2026-12-04",
+   "motivo": "Riotur cita 4, 5, 12 e 19/12 (4/12 esgotado) sem dizer qual noite é desta atração."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Noites de Verão: Blitz e Nenhum de Nós (Morro da Urca)",
+   "data": "2026-12-12",
+   "motivo": "Riotur cita 12 e 19/12 sem dizer qual noite é desta atração (19/12 parece ser de Delacruz)."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "90's Festival 2026 (Morro da Urca)",
+   "data": "2026-12-11",
+   "motivo": "Sem hora e atrações 'em breve'; a página cita 11, 12, 18 e 19/12 e depois só 18 e 19/12."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "A Culpa é dos Amigos na Farmasi Arena",
+   "data": "2026-12-12",
+   "motivo": "Dia e hora confirmados (Farmasi + Riotur, 21h), mas nenhuma fonte da ronda diz o que é o espetáculo; sem base para sinopse."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Henrique & Juliano no Maracanã",
+   "data": "2026-12-12",
+   "motivo": "Horário 'a confirmar' na Riotur."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Xuxa – O Último Voo da Nave no Maracanã (data extra)",
+   "data": "2026-12-20",
+   "motivo": "Riotur cita 20/12/2026 e 13/11/2027 sem deixar claro qual é a data extra; venda pela Eventim, que não lemos."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Encontro de Natal, com Zeca Pagodinho, Alcione e Jorge Aragão (Praia de Copacabana)",
+   "data": "2026-12-26",
+   "motivo": "Grátis, na rua, mas sem hora na Riotur."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Rio Réveillon 2027 – 12 palcos (Palco Rio, Amstel Brasilidades, Leme, Parque Madureira e Sesc RJ Flamengo, Ilha, Paquetá, Realengo, Pedra de Guaratiba, Penha, Piscinão de Ramos, Sepetiba)",
+   "data": "2026-12-31",
+   "motivo": "Riotur e Visit Rio dão dia, lugar e escalação (Visit Rio), mas nenhum horário ('a confirmar'). Redigir assim que sair a hora."
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Ensaios Técnicos do Grupo Especial e Desfiles Mirins 2027 (Sapucaí)",
+   "data": "2027-01-23",
+   "motivo": "Grátis, mas a Riotur manda 'consultar a programação' para os horários; LIESA só traz a manchete do calendário."
+  },
+  {
+   "fonte": "FAGENDA_visitrio",
+   "titulo": "Árvore da Lagoa (Árvore do Rio): inauguração",
+   "data": "2026-11-28",
+   "motivo": "Só o Visit Rio dá (28/11, a partir das 17h, no Lagoon, com Orquestra Petrobras Sinfônica e fogos); falta segunda fonte com dia, hora e lugar."
+  },
+  {
+   "fonte": "FAGENDA_allevents",
+   "titulo": "Edgar Allan Poe Speakeasy (Solar de Botafogo)",
+   "data": "2027-01-09",
+   "motivo": "Fever confirma datas e horas (9 e 16/1), mas a página continua sem texto; formato e inteira não conferidos (já estava em pendentes)"
+  },
+  {
+   "fonte": "FAGENDA_allevents",
+   "titulo": "Djonga (Fundição Progresso)",
+   "data": "2026-11-27",
+   "motivo": "só o AllEvents; nada no site da Fundição na ronda"
+  },
+  {
+   "fonte": "FAGENDA_allevents",
+   "titulo": "Diogo Nogueira (Parque Madureira)",
+   "data": "2026-12-02",
+   "motivo": "só o AllEvents; nenhuma fonte oficial com esse show"
+  },
+  {
+   "fonte": "FAGENDA_allevents",
+   "titulo": "Rio Fantastik Festival 2026 (Casas Casadas)",
+   "data": "2026-11-26",
+   "motivo": "só o AllEvents; sem programação oficial na ronda"
+  },
+  {
+   "fonte": "FPLAT_sympla",
+   "titulo": "Tardezinha 360: samba, pagode e flashback",
+   "data": "2026-11-29",
+   "motivo": "sports bar com DJs: pode ser festa de bar, conferir"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Noites de Verão: Ferrugem, Farias e DJ Tartaruga",
+   "data": "2027-01-09",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Noites de Verão: Nando Reis e Uns e Outros",
+   "data": "2027-01-16",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "BK'",
+   "data": "2027-01-16",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "CasaBloco 2027: Samba Pra Ti",
+   "data": "2027-01-14",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "CasaBloco 2027: É Festa do Norte ao Nordeste",
+   "data": "2027-01-15",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "CasaBloco 2027: Noite dos Tambores",
+   "data": "2027-01-16",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "FAGENDA_riotur",
+   "titulo": "Dia Nacional do Samba na Cidade do Samba",
+   "data": "2026-11-28",
+   "motivo": "a data só aparece nas datas citadas da Riotur; confirmar"
+  },
+  {
+   "fonte": "F066",
+   "titulo": "Projeto Maravilha: Anna Bella Geiger",
+   "data": "2027-01-14",
+   "motivo": "a ArtRio não dá o ano; pode já ter acabado"
+  },
+  {
+   "fonte": "FPLAT_bilheteriadigital",
+   "titulo": "Pé no Chão – Balacobaco (Bohêmios de Irajá, 28/11)",
+   "data": "2026-11-28",
+   "motivo": "a fonte não dá o endereço"
+  },
+  {
+   "fonte": "F092",
+   "titulo": "IMS: sessões de cinema que a ronda trouxe (I Love Boosters, O ser querido, Uma em mil, Os demônios etc.)",
+   "data": "2026-12-01",
+   "motivo": "conferir se são no Rio; o IMS Rio estaria fechado para reforma"
+  },
+  {
+   "fonte": "F019",
+   "titulo": "CCBB: ERICO – Solo de Clarineta, Duas Vezes Ponto de Partida, PT-BR Mostra de Teatro Brasil, Jazz Proibidão, Mostra de Cinema Árabe Feminino, Dia do Cinema Polonês",
+   "data": "2026-12-03",
+   "motivo": "a listagem só dá o período, sem horas"
   }
  ]
 }
