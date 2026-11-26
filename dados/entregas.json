@@ -364,6 +364,21 @@
    "recusadas": [],
    "removidas": 1,
    "nota": "Lote 2 de 26/11: exposições e Sympla (equipamentos públicos)"
+  },
+  {
+   "data": "2026-11-26",
+   "novas": 19,
+   "corrigidas": 0,
+   "recusadas": [
+    {
+     "titulo": "Pé no Chão – Balacobaco",
+     "motivos": [
+      "falta endereco"
+     ]
+    }
+   ],
+   "removidas": 0,
+   "nota": "Lote 3 de 26/11: Beco das Garrafas e Bilheteria Digital"
   }
  ]
 }

@@ -6408,6 +6408,47 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Bossa Mais",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O show \"Bossa Mais\" ocupa o Bottle's Bar, no Beco das Garrafas, em Copacabana, em três sábados.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "28 / nov || BOSSA MAIS || 21:00 (SÁB) | Bottle's Bar || R$ 80,00 || 12 / dez [...] 26 / dez || BOSSA MAIS || 21:00 (SÁB) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-09b1b301ab",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-20",
      "hora": "16:00"
     }
@@ -7163,6 +7204,55 @@
    "link": "https://cultura.sescrio.org.br/programacao/nama-pariret-mawaca-em-cena",
    "trecho_fonte": "2026-12-08 19:00 | Nama Pariret – Mawaca em Cena | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | MÚSICA, LIVRE | [...] apresenta o show do seu oitavo álbum “Nama Pariret” - uma viagem aos cantos femininos de várias partes do mundo, com as seis cantoras do grupo assumindo a percussão",
    "id": "f-138ca17969",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-07",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-21",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80 / R$ 40 (meia carioca)",
+   "preco_min": 40,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não explica as condições da \"meia carioca\". Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Carioquinha: Lu Oliveira e Rogério Guimarães",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Lu Oliveira e Rogério Guimarães tocam na série Carioquinha, às segundas, no Little Club do Beco das Garrafas, em Copacabana.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "30 / nov || CARIOQUINHA: LU OLIVEIRA E ROGÉRIO GUIMARÃES || 20:00 (SEG) | Little Club || R$ 80 / R$ 40 (MEIA CARIOCA) || 07 / dez [...] 14 / dez [...] 21 / dez [...] 28 / dez || CARIOQUINHA: LU OLIVEIRA E ROGÉRIO GUIMARÃES || 20:00 (SEG) | Little Club || R$ 80 / R$ 40 (MEIA CARIOCA) || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-153694e465",
    "entrou_em": "2026-11-26"
   },
   {
@@ -9036,6 +9126,55 @@
    "entrou_em": "2026-11-26"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80 / R$ 40 (meia carioca)",
+   "preco_min": 40,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não explica as condições da \"meia carioca\". Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Carioquinha: Flávia Dantas & Bernardo Dantas",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Flávia Dantas e Bernardo Dantas tocam na série Carioquinha, às terças, no Little Club do Beco das Garrafas, em Copacabana.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "01 / dez || CARIOQUINHA: FLÁVIA DANTAS & BERNARDO DANTAS || 20:00 (TER) | Little Club || R$ 80 / R$ 40 (MEIA CARIOCA) || 08 / dez [...] 15 / dez [...] 22 / dez [...] 29 / dez || CARIOQUINHA: FLÁVIA DANTAS & BERNARDO DANTAS || 20:00 (TER) | Little Club || R$ 80 / R$ 40 (MEIA CARIOCA) || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-368d6eb05e",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": {
     "inicio": "2026-12-09",
     "fim": "2026-12-27",
@@ -9465,6 +9604,67 @@
    "trecho_fonte": "2026-11-27 19:00 | Hercules Gomes – piano | Espaço Cultural BNDES (300 lugares) — Av. República do Chile 100 – Centro – Tel. 0800 702 6337 – https://www.bndes.gov.br/. | ingressos: Entrada franca, com reserva antecipada de ingressos a partir do dia 23 às 12h em: www.bndes.gov.br/espacoculturalbndes. [...] programa segundo a revista: Recital dedicado a Radamés Gnattali, em celebração aos 120 anos de seu nascimento. Programa: obras de Gnattali.",
    "id": "f-4074abe96b",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Plateia: R$ 20 (inteira) e R$ 10 (meia); balcão: R$ 10 (inteira) e R$ 5 (meia). Clientes Caixa pagam meia.",
+   "preco_min": 10,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A Bilheteria Digital tem uma página por sessão (8 páginas, 27/11 a 6/12); juntei numa ficha e usei o link da primeira. Sessões tiradas do horário da apresentação (quinta e sexta 19h, sábado e domingo 18h, extra 28/11 15h), batendo com as páginas. Classificação indicativa não informada. A tabela chama de 'PLATEIA'/'BALCÃO' a meia; a inteira vem marcada.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "Sonho Elétrico",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Caixa Cultural – Teatro Nelson Rodrigues",
+   "endereco": "Av. República do Paraguai, 230",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Peça com texto e direção de Marcio Abreu, pela companhia brasileira de teatro, feita em diálogo com a obra do neurocientista Sidarta Ribeiro. Uma artista de banda atingida por um raio fica em coma e percorre memórias e sonhos entre a vida e a morte. Com pianista ao vivo em cena.",
+   "link": "https://www.bilheteriadigital.com/27-11-sonho-eletrico-27-de-novembro",
+   "trecho_fonte": "PLATEIA: R$ 10,00; Plateia (Meia Cliente CAIXA): R$ 10,00; Plateia (Inteira): R$ 20,00; BALCÃO: R$ 5,00; Balcão (Meia Cliente CAIXA): R$ 5,00; Balcão (Inteira): R$ 10,00 || Com texto e direção de Marcio Abreu e produção da companhia brasileira de teatro [...] · Local: CAIXA Cultural - Teatro Nelson Rodrigues · Endereço: Av. República do Paraguai, 230 - Centro, RJ · Período: 27 de novembro a 06 de dezembro de 2026 · Horário: Quinta e sexta, 19h; sábado e domingo, 18h · Sessão extra em 28 de novembro, sábado, 15h",
+   "id": "f-41ca124f0d",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -10252,6 +10452,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte grafa o nome do show entre aspas irregulares; mantive \"Ben Monal\" como está. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Wilson Meireles e Pedro Holanda: \"Ben Monal\"",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Wilson Meireles e Pedro Holanda dividem o palco do Little Club, no Beco das Garrafas, com o show \"Ben Monal\". Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "26 / nov || WILSON MEIRELES E PEDRO HOLANDA ”BEN MONAL” || 20:00 (QUI) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-50e50cd3aa",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-15",
      "hora": "19:00"
     }
@@ -10709,6 +10942,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Fernanda Santanna",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Fernanda Santanna se apresenta no Bottle's Bar, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "27 / nov || FERNANDA SANTANNA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || 18 / dez || FERNANDA SANTANNA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-591e118397",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-12",
      "hora": "15:00"
     }
@@ -11040,6 +11310,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 90",
+   "preco_min": 90,
+   "preco_max": 90,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Ithamara Koorax: Bossa Project",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Ithamara Koorax apresenta o show \"Bossa Project\" no Bottle's Bar, no Beco das Garrafas, em Copacabana. Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "05 / dez || ITHAMARA KOORAX • BOSSA PROJECT || 21:00 (SÁB) | Bottle’s Bar || R$ 90,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-5ea90d6bcf",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-01",
      "hora": "19:00"
     }
@@ -11200,6 +11503,55 @@
    "trecho_fonte": "2027-01-08 19:30 até 2027-01-08 19:30 | ELYMAR SANTOS NO SHOW 'ESTRELA LUMINOSA' | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/128635",
    "id": "f-619ec2e94c",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-25",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Na noite de 25/12 a hora muda para 21h. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Yumi Park – Alma de Artista",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Yumi Park apresenta o show \"Alma de Artista\" no Bottle's Bar, no Beco das Garrafas, em Copacabana. São cinco noites até o Natal.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "26 / nov || YUMI PARK – ALMA DE ARTISTA || 20:00 (QUI) | Bottle's Bar || R$ 80,00 || 03 / dez [...] 10 / dez [...] 17 / dez || YUMI PARK – ALMA DE ARTISTA || 20:00 (QUI) | Bottle's Bar || R$ 80,00 || 25 / dez || YUMI PARK – ALMA DE ARTISTA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-628411cc66",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -11673,6 +12025,39 @@
    "trecho_fonte": "2026-12-06 15:00 até 2026-12-06 23:59 | SAMBA DAS ROSALINAS na BATUQ | BATUQ Casa de samba, Rua Belizário Pena Penha | organizador: Batuq Casa de Samba | https://www.sympla.com.br/evento/samba-das-rosalinas-na-batuq/3654477",
    "id": "f-6dcd487bb1",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Francesca Lo Cicero",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Francesca Lo Cicero se apresenta no Little Club, no Beco das Garrafas, em Copacabana. Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "17 / dez || FRANCESCA LO CICERO || 20:00 (QUI) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-6dce58081f",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -12702,6 +13087,47 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Plateia: R$ 30 (inteira) e R$ 15 (meia); balcão: R$ 20 (inteira) e R$ 10 (meia). Clientes Caixa pagam meia.",
+   "preco_min": 20,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Três páginas de venda (11, 12 e 13/12) juntadas; link da primeira. Dança vai em Teatro.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "Dança Boba",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Caixa Cultural – Teatro Nelson Rodrigues",
+   "endereco": "Av. República do Paraguai, 230",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Dança contemporânea do grupo goiano Ateliê do Gesto: três intérpretes criam a cada noite uma dança nova a partir de jogos de improvisação. Direção de Daniel Calvet, que dança com João Paulo Gross, Thaís Kuwae e Isabel Mamede. A temporada homenageia a coreógrafa Carlota Portella. 50 minutos.",
+   "link": "https://www.bilheteriadigital.com/danca-boba-11-de-dezembro",
+   "trecho_fonte": "Local: Caixa Cultural - Teatro Nelson Rodrigues · Endereço: Av. República do Paraguai, 230 - Centro, RJ · Data: 11 a 13 de dezembro de 2026 · Horário: sexta, às 19h | sábado e domingo, às 18h · Classificação indicativa: livre · Duração: 50 minutos · Ingressos: Plateia - R$ 30 (inteira) e R$ 15 (meia-entrada) / Balcão - · R$ 20 (inteira) e R$ 10 (meia-entrada)",
+   "id": "f-7fbfb27f14",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-27",
      "hora": "20:00"
     }
@@ -13021,6 +13447,43 @@
    "id": "f-8446b1e433",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não nomeia os convidados. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Marvio Ciribelli & Convidados: tributo a Sérgio Mendes e Chico Buarque",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Marvio Ciribelli e convidados fazem um tributo a Sérgio Mendes e Chico Buarque no Bottle's Bar, no Beco das Garrafas, em Copacabana. Dois domingos.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "29 / nov || MARVIO CIRIBELLI & CONVIDADOS • TRIBUTO A SÉRGIO MENDES E CHICO BUARQUE || 21:00 (DOM) | Bottle's Bar || R$ 80,00 || 20 / dez || MARVIO CIRIBELLI & CONVIDADOS • TRIBUTO A SÉRGIO MENDES E CHICO BUARQUE || 21:00 (DOM) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-847a8170bc",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -14395,6 +14858,51 @@
    "sessoes": [
     {
      "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-25",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Kay Lyra",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Kay Lyra se apresenta no Little Club, no Beco das Garrafas, em Copacabana. Quatro noites, a última no dia de Natal.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "28 / nov || KAY LYRA || 20:00 (SÁB) | Little Club || R$ 80,00 || 04 / dez || KAY LYRA || 20:00 (SEX) | Little Club || R$ 80,00 || 18 / dez [...] 25 / dez || KAY LYRA || 20:00 (SEX) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-99b4d3be66",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
      "hora": "16:00"
     }
    ],
@@ -15372,6 +15880,51 @@
    "trecho_fonte": "2026-11-28 19:00 até 2026-11-29 22:00 | Festival Brasilidades & Futuros Música | Petrobras Futuros - Arte e Tecnologia, Rua Dois de Dezembro Flamengo | organizador: Instituto Futuros | https://www.sympla.com.br/evento/festival-brasilidades-futuros-musica/3639013",
    "id": "f-a8c723ed4d",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-22",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-29",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Não há sessão em 08/12 na fonte. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Marcos Ariel: \"Rio Bossa Nova\"",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Marcos Ariel apresenta o show \"Rio Bossa Nova\" às terças no Bottle's Bar, no Beco das Garrafas, em Copacabana.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "01 / dez || MARCOS ARIEL “RIO BOSSA NOVA” || 21:00 (TER) | Bottle’s Bar || R$ 80,00 || 15 / dez [...] 22 / dez [...] 29 / dez || MARCOS ARIEL “RIO BOSSA NOVA” || 21:00 (TER) | Bottle’s Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-a8d323e860",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -17053,6 +17606,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-04",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Ficha separada do tributo a Sérgio Mendes e Chico Buarque (outro show na fonte). Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Marvio Ciribelli Trio",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O Marvio Ciribelli Trio toca no Bottle's Bar, no Beco das Garrafas, em Copacabana. Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "04 / dez || MARVIO CIRIBELLI TRIO || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-c30d34e6e4",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-18",
      "hora": "19:00"
     }
@@ -18159,6 +18745,55 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-30",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-07",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-21",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-28",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Leandro Freixo Trio",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O Leandro Freixo Trio toca às segundas no Bottle's Bar, no Beco das Garrafas, em Copacabana. Cinco noites até o fim de dezembro.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "30 / nov || LEANDRO FREIXO TRIO || 21:00 (SEG) | Bottle's Bar || R$ 80,00 || 07 / dez [...] 14 / dez [...] 21 / dez [...] 28 / dez || LEANDRO FREIXO TRIO || 21:00 (SEG) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-d16cc368ee",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-04",
      "hora": "20:00"
     },
@@ -18817,6 +19452,43 @@
    "trecho_fonte": "ArtRio: 19.SEP - 29.NOV MAM Rio | Carnaval como método, coletiva Mostra investiga os processos criativos que estruturam os desfiles das escolas de samba [...] MAM Rio | Av. Infante Dom Henrique, 85 - Aterro do Flamengo Visitação: quartas, quintas, sextas, sábados domingos e feriados, das 10h às 18h. - Aos domingos, das 10h às 11h, visitação exclusiva para pessoas com deficiência intelectual. || Arte que Acontece: aberta de 2026-09-19 até 2027-02-21 [...] reunindo obras inéditas comissionadas a seis carnavalescos em atividade — André Rodrigues em colaboração com Juliana Joannou, Annik Salmon, Antônio Gonzaga, a dupla Gabriel Haddad e Leonardo Bora, e Thayssa Menezes",
    "id": "f-d9430fc970",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Ficha separada de \"Yumi Park – Alma de Artista\" (outra sala e outro título na fonte). Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Yumi Park",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Yumi Park se apresenta no Little Club, no Beco das Garrafas, em Copacabana, em dois domingos.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "29 / nov || YUMI PARK || 20:00 (DOM | Little Club || R$ 80,00 || 06 / dez || YUMI PARK || 20:00 (DOM) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-d99098b0b7",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -19689,6 +20361,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "MPB Entre Amigos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite de música popular brasileira no Little Club, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "27 / nov || MPB ENTRE AMIGOS || 20:00 (SEX) | Little Club || R$ 80,00 || 11 / dez || MPB ENTRE AMIGOS || 20:00 (SEX) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-e59c4f09b5",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-04",
      "hora": "19:00"
     }
@@ -20076,6 +20785,39 @@
    "link": "https://cultura.sescrio.org.br/programacao/encontro-com-a-escritora-ana-maria-goncalves",
    "trecho_fonte": "2026-12-12 14:00 | Encontro com a Escritora Ana Maria Gonçalves | Sesc Tijuca (Tijuca, Zona Norte) | grátis | 16 ANOS, GRÁTIS | [...] Esta atividade encerra a temporada de 2026 do Clube de Leitura Sesc Tijuca e culmina com o encontro com a escritora Ana Maria Gonçalves, autora do livro “Um Defeito de Cor”.",
    "id": "f-ec15ec44a5",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "Pista: R$ 40 (inteira) e R$ 20 (meia)",
+   "preco_min": 40,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "Acesso para pessoas com deficiência, segundo a página de venda",
+   "na_rua": false,
+   "nota_redacao": "Endereço repetido igual ao da base para a quadra (a página dá o número 3102).",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "4 anos de Vou de Lado B, com Príncipe e Imaginasamba",
+   "areas": [
+    "Música"
+   ],
+   "local": "Quadra da São Clemente",
+   "endereco": "Avenida Presidente Vargas, 3102",
+   "bairro": "Cidade Nova",
+   "regiao": "Centro",
+   "sinopse": "O projeto de pagode e samba Vou de Lado B comemora quatro anos na quadra da São Clemente, com participação de Príncipe e do grupo Imaginasamba. Das 20h às 4h.",
+   "link": "https://www.bilheteriadigital.com/4-anos-de-vou-de-lado-b-part-principe-e-imaginasamba-12-de-dezembro",
+   "trecho_fonte": "PISTA (Meia): R$ 20,00; PISTA (Inteira): R$ 40,00 | Nome do Evento: 4 anos de Vou de Lado B part. Príncipe e Imaginasamba · Data: 12/12 · Horário: 20H às 04H · Local: Quadra da São Clemente · Endereço do local: Av. Pres. Vargas, 3102 - Cidade Nova [...] · Classificação: +18 · Estilo do Evento: Pagode e Samba [...] · Terá acesso para PCD?: Sim",
+   "id": "f-edf3c67951",
    "entrou_em": "2026-11-26"
   },
   {
@@ -21109,6 +21851,55 @@
    "trecho_fonte": "2026-12-13 11:00 | Orquestra Petrobras Sinfônica | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Festival Radamés Gnattali – 120 anos. Felipe Prazeres – regente. Fábio Peixoto – violino e Luís Rabello – piano. Programa: Radamés Gnattali – Concerto para violino e orquestra de cordas e Concerto para piano e orquestra nº 2; e Mozart – Sinfonia nº 40.",
    "id": "f-f7f4acada2",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-09",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-16",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-23",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-30",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte repete a linha de 30/12; contei uma sessão só. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Dilma Oliveira",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Dilma Oliveira se apresenta às quartas no Bottle's Bar, no Beco das Garrafas, em Copacabana. Cinco noites em dezembro.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "02 / dez || DILMA OLIVEIRA || 21:00 (QUA) | Bottle's Bar || R$ 80,00 || 09 / dez [...] 16 / dez [...] 23 / dez [...] 30 / dez || DILMA OLIVEIRA || 21:00 (QUA) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-f816fad6ae",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
