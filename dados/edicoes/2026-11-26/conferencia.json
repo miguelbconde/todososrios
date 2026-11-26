@@ -1,6 +1,14 @@
 {
  "resultado": [
   {
+   "id": "2026-11-19-006",
+   "titulo": "Superiores",
+   "campo": "local",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha traz \"Teatro Municipal Domingos Oliveira (Planetário)\"; o cabeçalho da fonte semanal é só \"Teatro Municipal Domingos Oliveira / Rua Padre Leonel Franca 240, Gávea\". \"(Planetário)\" não consta em nenhuma das fontes.",
+   "resolucao": "Mantido: “(Planetário)” é o nome do teatro no cadastro do projeto, para ajudar a achar o lugar."
+  },
+  {
    "id": "2026-11-19-008",
    "titulo": "Exposição principal do Museu Histórico da Cidade",
    "campo": "sinopse",
@@ -86,6 +94,22 @@
    "veredito": "diverge",
    "detalhe": "A ficha traz só \"R$ 10 (meia R$ 5), só na bilheteria\". F066 (ArtRio) acrescenta \"Às quartas-feiras, a entrada é franca para todos os públicos.\" e \"Aos domingos, “ingresso família” a R$10 para grupos de quatro pessoas.\" A quarta gratuita (25/11 cai na edição) não aparece na ficha.",
    "resolucao": "Corrigido: acrescentado “grátis às quartas”."
+  },
+  {
+   "id": "2026-11-19-150",
+   "titulo": "Margaridas",
+   "campo": "classificacao",
+   "veredito": "diverge",
+   "detalhe": "A ficha deixa vazio. F123 traz \"CLASSIFICAÇÃO ETÁRIA: 10 anos\" (e \"DURAÇÃO: 60 minutos\").",
+   "resolucao": "Corrigido: 10 anos."
+  },
+  {
+   "id": "2026-11-19-151",
+   "titulo": "Adorável Face de Andronieva Petrosa",
+   "campo": "classificacao",
+   "veredito": "diverge",
+   "detalhe": "A ficha deixa vazio. F123 traz \"CLASSIFICAÇÃO: Livre\" (e \"DURAÇÃO: 50 minutos\").",
+   "resolucao": "Corrigido: Livre."
   },
   {
    "id": "2026-11-19-136",
@@ -590,6 +614,166 @@
    "detalhe": "\"em cena\" não está na fonte",
    "resolucao": "Corrigido: tirado \"em cena\"",
    "id": "f-0d057df3e2"
+  },
+  {
+   "titulo": "Gordon Parks: A América Sou Eu",
+   "campo": "cartaz.horario",
+   "veredito": "nao_encontrado",
+   "detalhe": "horário vinha de outra exposição do CCBB",
+   "resolucao": "Corrigido: horário deixado vazio",
+   "id": "f-364a443249"
+  },
+  {
+   "titulo": "Fernanda Gomes",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "frase sobre a galeria não ter divulgado o título não é da fonte",
+   "resolucao": "Corrigido: passou para a nota",
+   "id": "f-f54e6935b5"
+  },
+  {
+   "id": "f-33ccd17d21",
+   "titulo": "Infâncias",
+   "campo": "areas",
+   "veredito": "diverge",
+   "detalhe": "Infantil marcado só pelo tema",
+   "resolucao": "Corrigido: só Artes Visuais"
+  },
+  {
+   "titulo": "Quando Dança o Baobá",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "22h pode ser hora padrão da listagem da Sympla",
+   "resolucao": "",
+   "id": "f-472932ae90"
+  },
+  {
+   "titulo": "Lançamento de \"Plástico\", de Juan Pinheiro",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "22h pode ser hora padrão da listagem da Sympla",
+   "resolucao": "",
+   "id": "f-5457418c91"
+  },
+  {
+   "titulo": "Novos ares: Pontal reinventado",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"retoma a forma\" ia além da fonte",
+   "resolucao": "Corrigido: \"uma homenagem à proposta original\"",
+   "id": "f-b4f6e88fed"
+  },
+  {
+   "titulo": "Os Saltimbancos",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-beb283b529"
+  },
+  {
+   "titulo": "João e Maria na Casa de Chocolate",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-e93b1ae67b"
+  },
+  {
+   "titulo": "Três Porquinhos Contra o Lobo Mau",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-0c0ff790ad"
+  },
+  {
+   "titulo": "Noite do Melodrama",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 19:30; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-92e994a1ae"
+  },
+  {
+   "titulo": "Víboras – A Arte do Insulto",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 17:30; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-39b3da215f"
+  },
+  {
+   "titulo": "Víboras – A Arte do Insulto",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-39b3da215f"
+  },
+  {
+   "titulo": "Um Natal Congelante: O Musical ao Vivo",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 15:00; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-92342029b1"
+  },
+  {
+   "titulo": "Um Natal Congelante: O Musical ao Vivo",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-92342029b1"
+  },
+  {
+   "titulo": "O Tigre",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 19:30; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-1fcc3e695b"
+  },
+  {
+   "titulo": "O Tigre",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-1fcc3e695b"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "sessoes",
+   "veredito": "duvida",
+   "detalhe": "dias presumidos caíam em feriados",
+   "resolucao": "Corrigido: tirados 24, 25 e 31/12 e 1/1",
+   "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 15:00; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-836c624a59"
   }
  ]
 }

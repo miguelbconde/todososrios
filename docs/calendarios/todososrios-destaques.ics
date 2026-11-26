@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:f-474fbba1fc-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261126T170000Z
 DTEND:20261126T190000Z
 SUMMARY:Festival Arpoarte 2026
@@ -24,7 +24,7 @@ CATEGORIES:Festas & Feiras
 END:VEVENT
 BEGIN:VEVENT
 UID:f-474fbba1fc-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Festival Arpoarte 2026
@@ -38,8 +38,23 @@ URL:https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416
 CATEGORIES:Festas & Feiras
 END:VEVENT
 BEGIN:VEVENT
+UID:f-beb283b529-3@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261129T200000Z
+DTEND:20261129T220000Z
+SUMMARY:Os Saltimbancos
+LOCATION:Teatro Cândido Mendes\, Rua Joana Angélica\, 63 – Ipanema
+DESCRIPTION:"Os Saltimbancos" no Teatro Cândido Mendes\, em Ipanema\, at
+ é 29 de novembro.\n\nPreço não informado\n\nATENÇÃO: a fonte não i
+ nforma os dias exatos da temporada\; listamos de quinta a domingo. Confi
+ ra antes de ir.\n\nFonte: https://bileto.sympla.com.br/event/126898\nTod
+ os os Rios — agenda cultural aberta do Rio
+URL:https://bileto.sympla.com.br/event/126898
+CATEGORIES:Teatro\,Infantil
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-115-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261203T220000Z
 DTEND:20261204T000000Z
 SUMMARY:La Strada – Os Que Vieram Antes de Nós
@@ -55,7 +70,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-115-5@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261204T220000Z
 DTEND:20261205T000000Z
 SUMMARY:La Strada – Os Que Vieram Antes de Nós
@@ -71,7 +86,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-115-6@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261205T220000Z
 DTEND:20261206T000000Z
 SUMMARY:La Strada – Os Que Vieram Antes de Nós
@@ -87,7 +102,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-115-7@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261206T210000Z
 DTEND:20261206T230000Z
 SUMMARY:La Strada – Os Que Vieram Antes de Nós
@@ -103,7 +118,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-4a9f433f61-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261126T220000Z
 DTEND:20261127T000000Z
 SUMMARY:Suraras do Tapajós
@@ -117,7 +132,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-a2c07e1696-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261126T223000Z
 DTEND:20261127T003000Z
 SUMMARY:Azymuth: Águia Não Come Mosca e Grandes Clássicos
@@ -132,8 +147,23 @@ URL:https://bileto.sympla.com.br/event/124326
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
+UID:f-628411cc66-4@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261226T000000Z
+DTEND:20261226T020000Z
+SUMMARY:Yumi Park – Alma de Artista
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:Yumi Park apresenta o show "Alma de Artista" no Bottle's Bar\
+ , no Beco das Garrafas\, em Copacabana. São cinco noites até o Natal.\
+ n\nR$ 80\n\nFonte: https://becodasgarrafas.com.br/principal/events/\nTod
+ os os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-cc466cac8b-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Velha Guarda Musical da Mangueira: 70 anos
@@ -149,7 +179,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f7e52c2e2c-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261127T210000Z
 DTEND:20261127T230000Z
 SUMMARY:Noitada de Samba – Foco de Resistência: filme e relançamento 
@@ -168,7 +198,7 @@ CATEGORIES:Livros & Debates\,Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:f-2bc42b1a23-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
 SUMMARY:Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
@@ -183,7 +213,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f47b3902e1-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261212T120000Z
 DTEND:20261212T140000Z
 SUMMARY:Olhar para Dentro
@@ -197,7 +227,7 @@ CATEGORIES:Livros & Debates\,Artes Visuais
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f49e042115-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261129T150000Z
 DTEND:20261129T170000Z
 SUMMARY:Rio Blues Festival
@@ -213,7 +243,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-811784c086-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
 SUMMARY:Cadê o Sobrevento?
@@ -228,7 +258,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-811784c086-5@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261213T190000Z
 DTEND:20261213T210000Z
 SUMMARY:Cadê o Sobrevento?
@@ -243,7 +273,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-aa1e08f5a1-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
 SUMMARY:Samba do Alba: Cozinha Arrumada\, LadoB e Casa de Marimbondo
@@ -259,7 +289,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-8d7f1ac2c1-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261128T230000Z
 DTEND:20261129T010000Z
 SUMMARY:Gilsons
@@ -272,8 +302,21 @@ URL:https://bileto.sympla.com.br/event/127258
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
+UID:f-644214f001-1@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261227T190000Z
+DTEND:20261227T210000Z
+SUMMARY:Quintal da Magia na Batuq
+LOCATION:Batuq Casa de Samba\, Rua Belizário Pena – Penha
+DESCRIPTION:Quintal da Magia na Batuq\, casa de samba da Penha.\n\nPreço
+  não informado\n\nFonte: https://www.sympla.com.br/evento/quintal-da-ma
+ gia-na-batuq/3632556\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://www.sympla.com.br/evento/quintal-da-magia-na-batuq/3632556
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-70e211e793-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270117T200000Z
 DTEND:20270117T220000Z
 SUMMARY:The Jazz Room: Marvin Gaye em uma noite de soul
@@ -287,7 +330,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-70e211e793-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270117T223000Z
 DTEND:20270118T003000Z
 SUMMARY:The Jazz Room: Marvin Gaye em uma noite de soul
@@ -301,7 +344,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-37698fe132-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261129T220000Z
 DTEND:20261130T000000Z
 SUMMARY:Gilsons
@@ -315,7 +358,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-9b5a6ff868-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261130T193000Z
 DTEND:20261130T213000Z
 SUMMARY:Moacyr Luz e Samba do Trabalhador
@@ -331,7 +374,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cc87a92854-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261130T220000Z
 DTEND:20261201T000000Z
 SUMMARY:We Are Making a Film About Mark Fisher
@@ -347,7 +390,7 @@ CATEGORIES:Cinema\,Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d7cbeae19c-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261207T220000Z
 DTEND:20261208T000000Z
 SUMMARY:Fera
@@ -361,7 +404,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-817525d981-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261130T223000Z
 DTEND:20261201T003000Z
 SUMMARY:Tiago Nacarato: Segredo dos Deuses
@@ -374,8 +417,98 @@ URL:https://bileto.sympla.com.br/event/128464
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
+UID:f-153694e465-1@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261207T230000Z
+DTEND:20261208T010000Z
+SUMMARY:Carioquinha: Lu Oliveira e Rogério Guimarães
+LOCATION:Beco das Garrafas – Little Club\, Rua Duvivier\, 37 – Copaca
+ bana
+DESCRIPTION:Lu Oliveira e Rogério Guimarães tocam na série Carioquinha
+ \, às segundas\, no Little Club do Beco das Garrafas\, em Copacabana.\n
+ \nR$ 80 / R$ 40 (meia carioca)\n\nFonte: https://becodasgarrafas.com.br/
+ principal/events/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-153694e465-2@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261214T230000Z
+DTEND:20261215T010000Z
+SUMMARY:Carioquinha: Lu Oliveira e Rogério Guimarães
+LOCATION:Beco das Garrafas – Little Club\, Rua Duvivier\, 37 – Copaca
+ bana
+DESCRIPTION:Lu Oliveira e Rogério Guimarães tocam na série Carioquinha
+ \, às segundas\, no Little Club do Beco das Garrafas\, em Copacabana.\n
+ \nR$ 80 / R$ 40 (meia carioca)\n\nFonte: https://becodasgarrafas.com.br/
+ principal/events/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-153694e465-3@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261221T230000Z
+DTEND:20261222T010000Z
+SUMMARY:Carioquinha: Lu Oliveira e Rogério Guimarães
+LOCATION:Beco das Garrafas – Little Club\, Rua Duvivier\, 37 – Copaca
+ bana
+DESCRIPTION:Lu Oliveira e Rogério Guimarães tocam na série Carioquinha
+ \, às segundas\, no Little Club do Beco das Garrafas\, em Copacabana.\n
+ \nR$ 80 / R$ 40 (meia carioca)\n\nFonte: https://becodasgarrafas.com.br/
+ principal/events/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-153694e465-4@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261228T230000Z
+DTEND:20261229T010000Z
+SUMMARY:Carioquinha: Lu Oliveira e Rogério Guimarães
+LOCATION:Beco das Garrafas – Little Club\, Rua Duvivier\, 37 – Copaca
+ bana
+DESCRIPTION:Lu Oliveira e Rogério Guimarães tocam na série Carioquinha
+ \, às segundas\, no Little Club do Beco das Garrafas\, em Copacabana.\n
+ \nR$ 80 / R$ 40 (meia carioca)\n\nFonte: https://becodasgarrafas.com.br/
+ principal/events/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-d16cc368ee-2@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261215T000000Z
+DTEND:20261215T020000Z
+SUMMARY:Leandro Freixo Trio
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:O Leandro Freixo Trio toca às segundas no Bottle's Bar\, no 
+ Beco das Garrafas\, em Copacabana. Cinco noites até o fim de dezembro.\
+ n\nR$ 80\n\nFonte: https://becodasgarrafas.com.br/principal/events/\nTod
+ os os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-d16cc368ee-3@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261222T000000Z
+DTEND:20261222T020000Z
+SUMMARY:Leandro Freixo Trio
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:O Leandro Freixo Trio toca às segundas no Bottle's Bar\, no 
+ Beco das Garrafas\, em Copacabana. Cinco noites até o fim de dezembro.\
+ n\nR$ 80\n\nFonte: https://becodasgarrafas.com.br/principal/events/\nTod
+ os os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-5f105e75e1-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261201T220000Z
 DTEND:20261202T000000Z
 SUMMARY:Ensaio aberto: X-I-N’TEA
@@ -389,7 +522,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f2b607a1c8-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261201T220000Z
 DTEND:20261202T000000Z
 SUMMARY:Um Brasileiro em Israel: lançamento e bate-papo
@@ -404,8 +537,53 @@ URL:https://www.sympla.com.br/evento/um-brasileiro-em-israel-lancamento-d
 CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-150-4@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261215T230000Z
+DTEND:20261216T010000Z
+SUMMARY:Margaridas
+LOCATION:Teatro Poeira\, Rua São João Batista\, 104 – Botafogo
+DESCRIPTION:Com texto de Cecília Ripoll e direção de Natasha Corbelino
+ \, a peça percorre 200 anos de educação\, de 1916 a um futuro imagina
+ do em 2116.\n\nPreço não informado · 10 anos\n\nFonte: https://www.te
+ atropoeira.com.br/margaridas\nTodos os Rios — agenda cultural aberta d
+ o Rio
+URL:https://www.teatropoeira.com.br/margaridas
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
+UID:f-368d6eb05e-3@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261222T230000Z
+DTEND:20261223T010000Z
+SUMMARY:Carioquinha: Flávia Dantas & Bernardo Dantas
+LOCATION:Beco das Garrafas – Little Club\, Rua Duvivier\, 37 – Copaca
+ bana
+DESCRIPTION:Flávia Dantas e Bernardo Dantas tocam na série Carioquinha\
+ , às terças\, no Little Club do Beco das Garrafas\, em Copacabana.\n\n
+ R$ 80 / R$ 40 (meia carioca)\n\nFonte: https://becodasgarrafas.com.br/pr
+ incipal/events/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-368d6eb05e-4@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261229T230000Z
+DTEND:20261230T010000Z
+SUMMARY:Carioquinha: Flávia Dantas & Bernardo Dantas
+LOCATION:Beco das Garrafas – Little Club\, Rua Duvivier\, 37 – Copaca
+ bana
+DESCRIPTION:Flávia Dantas e Bernardo Dantas tocam na série Carioquinha\
+ , às terças\, no Little Club do Beco das Garrafas\, em Copacabana.\n\n
+ R$ 80 / R$ 40 (meia carioca)\n\nFonte: https://becodasgarrafas.com.br/pr
+ incipal/events/\nTodos os Rios — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-abe3a23c33-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261215T230000Z
 DTEND:20261216T010000Z
 SUMMARY:Primeira Pessoa
@@ -420,7 +598,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-dc32fb1c6e-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261201T230000Z
 DTEND:20261202T010000Z
 SUMMARY:Terças no Ipanema: João Nabuco
@@ -434,8 +612,38 @@ URL:https://bileto.sympla.com.br/event/130585
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
+UID:f-a8d323e860-2@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261223T000000Z
+DTEND:20261223T020000Z
+SUMMARY:Marcos Ariel: "Rio Bossa Nova"
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:Marcos Ariel apresenta o show "Rio Bossa Nova" às terças no
+  Bottle's Bar\, no Beco das Garrafas\, em Copacabana.\n\nR$ 80\n\nFonte:
+  https://becodasgarrafas.com.br/principal/events/\nTodos os Rios — age
+ nda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-a8d323e860-3@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261230T000000Z
+DTEND:20261230T020000Z
+SUMMARY:Marcos Ariel: "Rio Bossa Nova"
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:Marcos Ariel apresenta o show "Rio Bossa Nova" às terças no
+  Bottle's Bar\, no Beco das Garrafas\, em Copacabana.\n\nR$ 80\n\nFonte:
+  https://becodasgarrafas.com.br/principal/events/\nTodos os Rios — age
+ nda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-0879e45644-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261202T200000Z
 DTEND:20261202T220000Z
 SUMMARY:Entre Direitos e Afetos: relações sem violência
@@ -453,7 +661,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-fa57985f39-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261202T200000Z
 DTEND:20261202T220000Z
 SUMMARY:Dia do Samba na Batuq: Breno Bené\, Mauro Diniz\, PH Mocidade\, 
@@ -470,7 +678,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-a2c6e8e1a7-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261202T220000Z
 DTEND:20261203T000000Z
 SUMMARY:Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gen
@@ -485,8 +693,38 @@ URL:https://bileto.sympla.com.br/event/130520
 CATEGORIES:Cinema
 END:VEVENT
 BEGIN:VEVENT
+UID:f-f816fad6ae-3@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261224T000000Z
+DTEND:20261224T020000Z
+SUMMARY:Dilma Oliveira
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:Dilma Oliveira se apresenta às quartas no Bottle's Bar\, no 
+ Beco das Garrafas\, em Copacabana. Cinco noites em dezembro.\n\nR$ 80\n\
+ nFonte: https://becodasgarrafas.com.br/principal/events/\nTodos os Rios 
+ — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
+UID:f-f816fad6ae-4@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261231T000000Z
+DTEND:20261231T020000Z
+SUMMARY:Dilma Oliveira
+LOCATION:Beco das Garrafas – Bottle's Bar\, Rua Duvivier\, 37 – Copac
+ abana
+DESCRIPTION:Dilma Oliveira se apresenta às quartas no Bottle's Bar\, no 
+ Beco das Garrafas\, em Copacabana. Cinco noites em dezembro.\n\nR$ 80\n\
+ nFonte: https://becodasgarrafas.com.br/principal/events/\nTodos os Rios 
+ — agenda cultural aberta do Rio
+URL:https://becodasgarrafas.com.br/principal/events/
+CATEGORIES:Música
+END:VEVENT
+BEGIN:VEVENT
 UID:f-5ac17a363c-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261203T203000Z
 DTEND:20261203T223000Z
 SUMMARY:O Rabo da Lagartixa\, ficções em voz alta – Quinta é Cultura
@@ -501,7 +739,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-09e4c56fa2-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261203T220000Z
 DTEND:20261204T000000Z
 SUMMARY:Laura Valle canta Cole Porter – Sala Jazz
@@ -515,7 +753,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-df79058627-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261204T200000Z
 DTEND:20261204T220000Z
 SUMMARY:Abertura da exposição "Você já escutou a terra?"
@@ -531,7 +769,7 @@ CATEGORIES:Artes Visuais
 END:VEVENT
 BEGIN:VEVENT
 UID:f-0405b8de0e-9@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261225T230000Z
 DTEND:20261226T010000Z
 SUMMARY:A Vida Passou por Aqui
@@ -546,7 +784,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-0405b8de0e-11@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261227T220000Z
 DTEND:20261228T000000Z
 SUMMARY:A Vida Passou por Aqui
@@ -561,7 +799,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-7a0973d18a-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261204T230000Z
 DTEND:20261205T010000Z
 SUMMARY:OSB: Especial Harry Potter
@@ -576,7 +814,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-dcc73bca1e-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261205T140000Z
 DTEND:20261205T160000Z
 SUMMARY:Festival Contarolando Histórias
@@ -591,7 +829,7 @@ CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:f-dcc73bca1e-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261206T140000Z
 DTEND:20261206T160000Z
 SUMMARY:Festival Contarolando Histórias
@@ -606,7 +844,7 @@ CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:f-dcc73bca1e-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
 SUMMARY:Festival Contarolando Histórias
@@ -621,7 +859,7 @@ CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:f-dcc73bca1e-5@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
 SUMMARY:Festival Contarolando Histórias
@@ -636,7 +874,7 @@ CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:f-50b9a79c90-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261210T230000Z
 DTEND:20261211T010000Z
 SUMMARY:Djavan – O Musical: Vidas pra contar
@@ -653,7 +891,7 @@ CATEGORIES:Teatro\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-2f4279be22-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261206T003000Z
 DTEND:20261206T023000Z
 SUMMARY:Ferrugem: Sentimento – gravação do audiovisual
@@ -668,7 +906,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-181efa9e0b-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261206T200000Z
 DTEND:20261206T220000Z
 SUMMARY:Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)
@@ -683,7 +921,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-88b8321d33-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261207T113000Z
 DTEND:20261207T133000Z
 SUMMARY:Saúde & Ciências em Jogo
@@ -701,7 +939,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-138ca17969-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261208T220000Z
 DTEND:20261209T000000Z
 SUMMARY:Nama Pariret – Mawaca em Cena
@@ -716,7 +954,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-8079e7c1fb-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261208T223000Z
 DTEND:20261209T003000Z
 SUMMARY:Ana Bispo canta Te Amos
@@ -730,7 +968,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-10d9df5efd-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261208T230000Z
 DTEND:20261209T010000Z
 SUMMARY:Cá Entre Nós\, com Fátima Bernardes e Bia Bonemer
@@ -746,7 +984,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-10d9df5efd-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261209T230000Z
 DTEND:20261210T010000Z
 SUMMARY:Cá Entre Nós\, com Fátima Bernardes e Bia Bonemer
@@ -762,7 +1000,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-171c810416-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261209T153000Z
 DTEND:20261209T173000Z
 SUMMARY:Luiz Bomfim e Regina Lacerda – Concertos de Natal
@@ -777,7 +1015,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-15df418f78-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261209T220000Z
 DTEND:20261210T000000Z
 SUMMARY:Nasce uma FrankStella
@@ -792,7 +1030,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-10ec79340e-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261210T180000Z
 DTEND:20261210T200000Z
 SUMMARY:O Menino e o Vento – Cultura Zona Oeste (Uerj Sem Muros)
@@ -809,7 +1047,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-c263ccf73d-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261210T203000Z
 DTEND:20261210T223000Z
 SUMMARY:Victor Giudice e a ficção: o insólito que habita o cotidiano 
@@ -825,7 +1063,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261216T220000Z
 DTEND:20261217T000000Z
 SUMMARY:O Quebra-Nozes
@@ -840,7 +1078,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-7@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261219T220000Z
 DTEND:20261220T000000Z
 SUMMARY:O Quebra-Nozes
@@ -855,7 +1093,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-9@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261222T220000Z
 DTEND:20261223T000000Z
 SUMMARY:O Quebra-Nozes
@@ -870,7 +1108,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-10@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261223T220000Z
 DTEND:20261224T000000Z
 SUMMARY:O Quebra-Nozes
@@ -885,7 +1123,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-11@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261226T220000Z
 DTEND:20261227T000000Z
 SUMMARY:O Quebra-Nozes
@@ -900,7 +1138,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e7300b7d46-12@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261227T200000Z
 DTEND:20261227T220000Z
 SUMMARY:O Quebra-Nozes
@@ -915,7 +1153,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-0c3c947f28-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261211T210000Z
 DTEND:20261211T230000Z
 SUMMARY:16º Sarau Pretos Novos
@@ -931,7 +1169,7 @@ CATEGORIES:Livros & Debates
 END:VEVENT
 BEGIN:VEVENT
 UID:f-7732c10a1e-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261211T220000Z
 DTEND:20261212T000000Z
 SUMMARY:Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cec
@@ -948,7 +1186,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-4c8ae58ab7-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261211T230000Z
 DTEND:20261212T010000Z
 SUMMARY:Stand-up: Wêlson Nunes
@@ -962,7 +1200,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-21597b84cf-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261213T000000Z
 DTEND:20261213T020000Z
 SUMMARY:Carol Biazin: Odeio Muito a Despedida
@@ -977,7 +1215,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-4234c10ed3-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261213T200000Z
 DTEND:20261213T220000Z
 SUMMARY:Oratório de Natal – Associação de Canto Coral (Cidade das Ar
@@ -993,7 +1231,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-aafcf39299-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261214T220000Z
 DTEND:20261215T000000Z
 SUMMARY:Quarteto Maogani convida Daniel Migliavacca – Festival Radamés
@@ -1009,25 +1247,8 @@ URL:https://www.sympla.com.br/evento/quarteto-maogani-convida-daniel-migl
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
-UID:f-50f15bb931-0@todososrios.rio
-DTSTAMP:20261126T085622Z
-DTSTART:20261215T220000Z
-DTEND:20261216T000000Z
-SUMMARY:Mafalda Minnozzi – Voci di Donne
-LOCATION:Istituto Italiano di Cultura do Rio de Janeiro\, Avenida Preside
- nte Antônio Carlos\, 40 – Centro
-DESCRIPTION:Mafalda Minnozzi homenageia grandes divas da música no show 
- "Voci di Donne"\, no Instituto Italiano de Cultura.\n\nPreço não infor
- mado\n\nFonte: https://www.sympla.com.br/evento/mafalda-minnozzi-voci-di
- -donne-uma-homenagem-as-grandes-divas-da-musica/3664963\nTodos os Rios 
- — agenda cultural aberta do Rio
-URL:https://www.sympla.com.br/evento/mafalda-minnozzi-voci-di-donne-uma-h
- omenagem-as-grandes-divas-da-musica/3664963
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
 UID:f-2407d306e6-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261215T230000Z
 DTEND:20261216T010000Z
 SUMMARY:Terças no Ipanema: Sandra Pêra
@@ -1042,7 +1263,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-3172bb4187-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261216T153000Z
 DTEND:20261216T173000Z
 SUMMARY:Corais do Novo Leblon e Olé Ola – Concertos de Natal
@@ -1057,7 +1278,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-0a3f44e9ee-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261216T223000Z
 DTEND:20261217T003000Z
 SUMMARY:Música Antiga da UFF
@@ -1072,7 +1293,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-556068237b-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261217T180000Z
 DTEND:20261217T200000Z
 SUMMARY:Fábrica Mágica de Natal
@@ -1088,7 +1309,7 @@ CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:f-556068237b-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261218T180000Z
 DTEND:20261218T200000Z
 SUMMARY:Fábrica Mágica de Natal
@@ -1103,23 +1324,8 @@ URL:https://ecovillarihappy.com.br/programacao/
 CATEGORIES:Infantil
 END:VEVENT
 BEGIN:VEVENT
-UID:f-a5beeec037-0@todososrios.rio
-DTSTAMP:20261126T085622Z
-DTSTART:20261217T220000Z
-DTEND:20261218T000000Z
-SUMMARY:Os Lobos 60 Anos
-LOCATION:Centro da Música Carioca Artur da Távola\, Rua Conde de Bonfim
- \, 824 – Tijuca
-DESCRIPTION:Os Lobos celebram 60 anos na série Quinta Homenagem do Centr
- o da Música Carioca\, na Tijuca.\n\nPreço não informado\n\nFonte: htt
- ps://bileto.sympla.com.br/event/130333\nTodos os Rios — agenda cultura
- l aberta do Rio
-URL:https://bileto.sympla.com.br/event/130333
-CATEGORIES:Música
-END:VEVENT
-BEGIN:VEVENT
 UID:f-9b0ed0ac57-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261217T223000Z
 DTEND:20261218T003000Z
 SUMMARY:Vidal Assis: Emílio Santiago – 80 anos
@@ -1133,8 +1339,23 @@ URL:https://bileto.sympla.com.br/event/129320
 CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
+UID:f-7ee593a290-0@todososrios.rio
+DTSTAMP:20261126T090811Z
+DTSTART:20261217T230000Z
+DTEND:20261218T010000Z
+SUMMARY:Stand-up: Wêlson Nunes
+LOCATION:Areninha Cultural Jacob do Bandolim\, Praça do Barro Vermelho (
+ Praça Geraldo Simonard)\, s/nº – Pechincha
+DESCRIPTION:Stand-up de Wêlson Nunes na Areninha Cultural Jacob do Bando
+ lim\, no Pechincha.\n\nPreço não informado\n\nFonte: https://bileto.sy
+ mpla.com.br/event/125819\nTodos os Rios — agenda cultural aberta do Ri
+ o
+URL:https://bileto.sympla.com.br/event/125819
+CATEGORIES:Teatro
+END:VEVENT
+BEGIN:VEVENT
 UID:f-7d9e2adb78-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261218T223000Z
 DTEND:20261219T003000Z
 SUMMARY:Thalita Pertuzatti em Whitney Forever
@@ -1148,7 +1369,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-6d88fb718b-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261218T230000Z
 DTEND:20261219T010000Z
 SUMMARY:Murilo Couto – Novo Show
@@ -1163,7 +1384,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-2e459d6746-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261219T170000Z
 DTEND:20261219T190000Z
 SUMMARY:Roda de conversa: Quintais do Samba como lugar de resistência é
@@ -1179,7 +1400,7 @@ CATEGORIES:Livros & Debates\,Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-60fc1e13de-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261219T200000Z
 DTEND:20261219T220000Z
 SUMMARY:Concerto Harmonia\, Amor e Voz – tributo a Solange P. Mendonça
@@ -1196,7 +1417,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-5aa91aa5df-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
 SUMMARY:Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita
@@ -1211,7 +1432,7 @@ CATEGORIES:Música\,Infantil
 END:VEVENT
 BEGIN:VEVENT
 UID:f-7937a4860b-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261220T223000Z
 DTEND:20261221T003000Z
 SUMMARY:Durval e Valcylange – com Cacau Protasio (Vista Alegre)
@@ -1226,7 +1447,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-6f0af60fe5-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261221T223000Z
 DTEND:20261222T003000Z
 SUMMARY:Samba in Rio – Sons & Vozes das Damas do Samba
@@ -1241,7 +1462,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-33ab9caca1-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261223T200000Z
 DTEND:20261223T220000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1255,7 +1476,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-33ab9caca1-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261223T230000Z
 DTEND:20261224T010000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1269,7 +1490,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-33ab9caca1-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261225T230000Z
 DTEND:20261226T010000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1283,7 +1504,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-33ab9caca1-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261226T190000Z
 DTEND:20261226T210000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1297,7 +1518,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-33ab9caca1-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261226T230000Z
 DTEND:20261227T010000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1310,36 +1531,8 @@ URL:https://www.concerto.com.br/roteiros/2026-12-23
 CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
-UID:f-33ab9caca1-5@todososrios.rio
-DTSTAMP:20261126T085622Z
-DTSTART:20261227T190000Z
-DTEND:20261227T210000Z
-SUMMARY:O Quebra-Nozes – versão de Thiago Soares
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Nova versão do balé de Tchaikovsky com direção e coreogra
- fia de Thiago Soares\, no Teatro Multiplan\, na Barra\, de 23 a 28 de de
- zembro.\n\nR$ 50 a R$ 360\n\nFonte: https://www.concerto.com.br/roteiros
- /2026-12-23\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://www.concerto.com.br/roteiros/2026-12-23
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
-UID:f-33ab9caca1-6@todososrios.rio
-DTSTAMP:20261126T085622Z
-DTSTART:20261227T220000Z
-DTEND:20261228T000000Z
-SUMMARY:O Quebra-Nozes – versão de Thiago Soares
-LOCATION:Teatro Multiplan\, Av. das Américas\, 3.900 – Barra da Tijuca
-DESCRIPTION:Nova versão do balé de Tchaikovsky com direção e coreogra
- fia de Thiago Soares\, no Teatro Multiplan\, na Barra\, de 23 a 28 de de
- zembro.\n\nR$ 50 a R$ 360\n\nFonte: https://www.concerto.com.br/roteiros
- /2026-12-23\nTodos os Rios — agenda cultural aberta do Rio
-URL:https://www.concerto.com.br/roteiros/2026-12-23
-CATEGORIES:Teatro
-END:VEVENT
-BEGIN:VEVENT
 UID:f-33ab9caca1-7@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261228T200000Z
 DTEND:20261228T220000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1353,7 +1546,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-33ab9caca1-8@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261228T230000Z
 DTEND:20261229T010000Z
 SUMMARY:O Quebra-Nozes – versão de Thiago Soares
@@ -1367,7 +1560,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-2feb9d5fbf-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261226T223000Z
 DTEND:20261227T003000Z
 SUMMARY:Jay Vaquer
@@ -1381,7 +1574,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-e05e6a72a2-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20261228T223000Z
 DTEND:20261229T003000Z
 SUMMARY:Yayá do Cavaco: De Raiz em Flor
@@ -1396,7 +1589,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d035932a07-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270102T180000Z
 DTEND:20270102T200000Z
 SUMMARY:Leandro Sapucahy: Que Nem Antigamente
@@ -1411,7 +1604,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d8051ffef7-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270102T220000Z
 DTEND:20270103T000000Z
 SUMMARY:Psicóloga Segundo Meu Psiquiatra
@@ -1430,7 +1623,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d8051ffef7-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270103T210000Z
 DTEND:20270103T230000Z
 SUMMARY:Psicóloga Segundo Meu Psiquiatra
@@ -1449,7 +1642,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d8051ffef7-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270107T220000Z
 DTEND:20270108T000000Z
 SUMMARY:Psicóloga Segundo Meu Psiquiatra
@@ -1468,7 +1661,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-a9adb52cda-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270102T223000Z
 DTEND:20270103T003000Z
 SUMMARY:Deixa Clarear\, musical sobre Clara Nunes
@@ -1482,7 +1675,7 @@ CATEGORIES:Música\,Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270106T220000Z
 DTEND:20270107T000000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1496,7 +1689,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270107T220000Z
 DTEND:20270108T000000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1510,7 +1703,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270108T220000Z
 DTEND:20270109T000000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1524,7 +1717,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270109T200000Z
 DTEND:20270109T220000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1538,7 +1731,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270110T200000Z
 DTEND:20270110T220000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1552,7 +1745,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-5@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270113T220000Z
 DTEND:20270114T000000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1566,7 +1759,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-10@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270120T220000Z
 DTEND:20270121T000000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1580,7 +1773,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-30327b9bf9-11@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270121T220000Z
 DTEND:20270122T000000Z
 SUMMARY:Aurora – O Despertar da Mulher Exausta
@@ -1594,7 +1787,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ba91d53c2a-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270106T230000Z
 DTEND:20270107T010000Z
 SUMMARY:Abba Alive
@@ -1608,7 +1801,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270108T220000Z
 DTEND:20270109T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1623,7 +1816,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270109T220000Z
 DTEND:20270110T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1638,7 +1831,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270110T220000Z
 DTEND:20270111T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1653,7 +1846,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270115T220000Z
 DTEND:20270116T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1668,7 +1861,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-5@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270117T220000Z
 DTEND:20270118T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1683,7 +1876,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-6@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270122T220000Z
 DTEND:20270123T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1698,7 +1891,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-7@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270123T220000Z
 DTEND:20270124T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1713,7 +1906,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-cbf54625b4-8@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270124T220000Z
 DTEND:20270125T000000Z
 SUMMARY:Eles Não Usam Black Tie
@@ -1728,7 +1921,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-619ec2e94c-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270108T223000Z
 DTEND:20270109T003000Z
 SUMMARY:Elymar Santos: Estrela Luminosa
@@ -1742,7 +1935,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-f31424ba66-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270110T220000Z
 DTEND:20270111T000000Z
 SUMMARY:Durval e Valcylange – com Cacau Protasio e Rômulo Bellotti
@@ -1758,7 +1951,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-fdea4298cb-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270109T220000Z
 DTEND:20270110T000000Z
 SUMMARY:Quintal da Quintão – Revive
@@ -1772,7 +1965,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d3cd20fe6a-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270111T220000Z
 DTEND:20270112T000000Z
 SUMMARY:O Formigueiro
@@ -1786,7 +1979,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d3cd20fe6a-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270112T220000Z
 DTEND:20270113T000000Z
 SUMMARY:O Formigueiro
@@ -1800,7 +1993,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d3cd20fe6a-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270118T220000Z
 DTEND:20270119T000000Z
 SUMMARY:O Formigueiro
@@ -1814,7 +2007,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d3cd20fe6a-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270119T220000Z
 DTEND:20270120T000000Z
 SUMMARY:O Formigueiro
@@ -1828,7 +2021,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-d3cd20fe6a-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270125T220000Z
 DTEND:20270126T000000Z
 SUMMARY:O Formigueiro
@@ -1842,7 +2035,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-5fdc8179d2-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270111T230000Z
 DTEND:20270112T010000Z
 SUMMARY:Nany (En)canta
@@ -1856,7 +2049,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-75cdb431e3-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270114T223000Z
 DTEND:20270115T003000Z
 SUMMARY:Tributo a Tim Maia\, com André Marçal
@@ -1870,7 +2063,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270114T230000Z
 DTEND:20270115T010000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1886,7 +2079,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270115T230000Z
 DTEND:20270116T010000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1902,7 +2095,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-2@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270116T230000Z
 DTEND:20270117T010000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1918,7 +2111,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-3@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270117T223000Z
 DTEND:20270118T003000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1934,7 +2127,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-4@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270121T230000Z
 DTEND:20270122T010000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1950,7 +2143,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-5@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270122T230000Z
 DTEND:20270123T010000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1966,7 +2159,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-6@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270123T230000Z
 DTEND:20270124T010000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1982,7 +2175,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-abce1b60e3-7@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270124T223000Z
 DTEND:20270125T003000Z
 SUMMARY:Percy Jackson – O Ladrão de Raios: O Musical
@@ -1998,7 +2191,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-ea4cefe17f-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270114T233000Z
 DTEND:20270115T013000Z
 SUMMARY:Marcelo Duque: Sem Filtro
@@ -2013,7 +2206,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19-170-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270115T230000Z
 DTEND:20270116T010000Z
 SUMMARY:Muato – DERÊ: Concerto sobre o Pagode
@@ -2030,7 +2223,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-47a736f90a-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270116T233000Z
 DTEND:20270117T013000Z
 SUMMARY:Marcelo Duque: Sem Filtro
@@ -2045,7 +2238,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-2fe5076eff-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270117T000000Z
 DTEND:20270117T020000Z
 SUMMARY:Péricles
@@ -2059,7 +2252,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-8f0838eb43-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270120T010000Z
 DTEND:20270120T030000Z
 SUMMARY:Pablo
@@ -2073,7 +2266,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-c8a5c9df7e-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270120T160000Z
 DTEND:20270120T180000Z
 SUMMARY:Feijoada do Samba de Caboclo – feriado de São Sebastião
@@ -2088,7 +2281,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-48455faef8-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270120T230000Z
 DTEND:20270121T010000Z
 SUMMARY:Iron Maiden Symphonic – The Beast Experience
@@ -2103,7 +2296,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-50091abddb-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270121T213000Z
 DTEND:20270121T233000Z
 SUMMARY:Ballet of Lights: A Bela Adormecida
@@ -2117,7 +2310,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-50091abddb-1@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270121T233000Z
 DTEND:20270122T013000Z
 SUMMARY:Ballet of Lights: A Bela Adormecida
@@ -2131,7 +2324,7 @@ CATEGORIES:Teatro
 END:VEVENT
 BEGIN:VEVENT
 UID:f-3ba5c300bd-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270123T000000Z
 DTEND:20270123T020000Z
 SUMMARY:The Wailers e Pato Banton
@@ -2147,7 +2340,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-162e3eb0a9-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270124T000000Z
 DTEND:20270124T020000Z
 SUMMARY:Baco Exu do Blues
@@ -2164,7 +2357,7 @@ CATEGORIES:Música
 END:VEVENT
 BEGIN:VEVENT
 UID:f-6dad32d7c9-0@todososrios.rio
-DTSTAMP:20261126T085622Z
+DTSTAMP:20261126T090811Z
 DTSTART:20270124T150000Z
 DTEND:20270124T170000Z
 SUMMARY:Vila Anime – Edição Verão 2027

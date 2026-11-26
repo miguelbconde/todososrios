@@ -20,20 +20,20 @@
 ## Redação (tarefa diária do Claude)
 
 - Última entrega: 2026-11-26
-  - 2026-11-25: 2 novas, 2 corrigidas, 0 recusadas — Redação diária de 25/11, lote 6 (último): 2 fichas novas, 2 corrigidas (novas datas do Pagode da Garagem e de Moacyr Luz no Renascença) e A boa de 30/11 e 2/12.
-  - 2026-11-25: 0 novas, 0 corrigidas, 0 recusadas — Correção de 25/11: A boa de 30/11 ganha um destaque fora do eixo Centro–Zona Sul (Moacyr Luz no Renascença).
-  - 2026-11-25: 4 novas, 0 corrigidas, 0 recusadas — Clássicos do Brasil 2026 (4 noites, Marina da Glória), em conversa com a coordenação editorial em 25/11
   - 2026-11-25: 0 novas, 0 corrigidas, 0 recusadas — As boas do mês: Clássicos do Brasil entra como festival inteiro (4 noites); limite sobe para 7
   - 2026-11-25: 0 novas, 41 corrigidas, 0 recusadas — Dias e horários preenchidos em 41 temporadas que estavam com 'a fonte não informa os dias'; 2 encerradas removidas
   - 2026-11-25: 0 novas, 1 corrigidas, 0 recusadas — Correção de link: Do Cosmos a Nós (Museu do Amanhã) passa a apontar para a página da exposição (pedido do MigShow, 25/11)
   - 2026-11-26: 17 novas, 2 corrigidas, 0 recusadas — Lote 1 de 26/11: Sesc, Fiocruz, ABL, Travessa e Teatro Multiplan
+  - 2026-11-26: 14 novas, 5 corrigidas, 0 recusadas — Lote 2 de 26/11: exposições e Sympla (equipamentos públicos)
+  - 2026-11-26: 19 novas, 0 corrigidas, 1 recusadas — Lote 3 de 26/11: Beco das Garrafas e Bilheteria Digital
+  - 2026-11-26: 15 novas, 4 corrigidas, 0 recusadas — Lote 4 de 26/11: Sympla, grupo cultural (1)
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-25: **401**
-- Por região: Centro 149, Zona Sul 103, Zona Norte 93, Zona Sudoeste 31, Zona Oeste 25
-- Fora da Zona Sul: 74%
-- Grátis: 62
+- Fichas da redação de hoje até 2027-01-25: **456**
+- Por região: Centro 159, Zona Sul 136, Zona Norte 100, Zona Sudoeste 35, Zona Oeste 26
+- Fora da Zona Sul: 70%
+- Grátis: 65
 
 ## Alarmes
 

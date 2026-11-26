@@ -51,6 +51,10 @@
    {
     "id": "f-f49e042115",
     "porque": "Rio Blues Festival ao ar livre, no Aterro do Flamengo."
+   },
+   {
+    "id": "f-beb283b529",
+    "porque": "Última sessão de \"Os Saltimbancos\", em Ipanema."
    }
   ],
   "2026-11-30": [
@@ -164,6 +168,11 @@
    }
   ],
   "2026-12-07": [
+   {
+    "id": "f-153694e465",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   },
    {
     "id": "f-88b8321d33",
     "porque": "De graça, em Manguinhos.",
@@ -279,8 +288,18 @@
   ],
   "2026-12-14": [
    {
+    "id": "f-153694e465",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   },
+   {
     "id": "f-aafcf39299",
     "porque": "Em Centro.",
+    "automatico": true
+   },
+   {
+    "id": "f-d16cc368ee",
+    "porque": "Em Copacabana.",
     "automatico": true
    }
   ],
@@ -296,8 +315,8 @@
     "automatico": true
    },
    {
-    "id": "f-50f15bb931",
-    "porque": "Em Centro.",
+    "id": "2026-11-19-150",
+    "porque": "Em Botafogo.",
     "automatico": true
    }
   ],
@@ -330,8 +349,8 @@
     "automatico": true
    },
    {
-    "id": "f-a5beeec037",
-    "porque": "Em Tijuca.",
+    "id": "f-7ee593a290",
+    "porque": "Em Pechincha.",
     "automatico": true
    }
   ],
@@ -391,36 +410,66 @@
     "id": "f-6f0af60fe5",
     "porque": "Em Cinelândia.",
     "automatico": true
+   },
+   {
+    "id": "f-153694e465",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   },
+   {
+    "id": "f-d16cc368ee",
+    "porque": "Em Copacabana.",
+    "automatico": true
    }
   ],
   "2026-12-22": [
    {
+    "id": "f-368d6eb05e",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   },
+   {
     "id": "f-e7300b7d46",
     "porque": "A preço popular, em Centro (Cinelândia).",
+    "automatico": true
+   },
+   {
+    "id": "f-a8d323e860",
+    "porque": "Em Copacabana.",
     "automatico": true
    }
   ],
   "2026-12-23": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-f816fad6ae",
+    "porque": "Em Copacabana.",
     "automatico": true
    },
    {
     "id": "f-33ab9caca1",
     "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    }
   ],
   "2026-12-25": [
    {
-    "id": "f-0405b8de0e",
-    "porque": "Em São Conrado.",
+    "id": "f-628411cc66",
+    "porque": "Em Copacabana.",
     "automatico": true
    },
    {
     "id": "f-33ab9caca1",
     "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-0405b8de0e",
+    "porque": "Em São Conrado.",
     "automatico": true
    }
   ],
@@ -443,13 +492,13 @@
   ],
   "2026-12-27": [
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-644214f001",
+    "porque": "Em Penha.",
     "automatico": true
    },
    {
-    "id": "f-33ab9caca1",
-    "porque": "Em Barra da Tijuca.",
+    "id": "f-e7300b7d46",
+    "porque": "A preço popular, em Centro (Cinelândia).",
     "automatico": true
    },
    {
@@ -467,6 +516,30 @@
    {
     "id": "f-33ab9caca1",
     "porque": "Em Barra da Tijuca.",
+    "automatico": true
+   },
+   {
+    "id": "f-153694e465",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   }
+  ],
+  "2026-12-29": [
+   {
+    "id": "f-368d6eb05e",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   },
+   {
+    "id": "f-a8d323e860",
+    "porque": "Em Copacabana.",
+    "automatico": true
+   }
+  ],
+  "2026-12-30": [
+   {
+    "id": "f-f816fad6ae",
+    "porque": "Em Copacabana.",
     "automatico": true
    }
   ],
@@ -837,6 +910,8 @@
   "2026-12-26",
   "2026-12-27",
   "2026-12-28",
+  "2026-12-29",
+  "2026-12-30",
   "2027-01-02",
   "2027-01-03",
   "2027-01-06",

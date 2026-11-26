@@ -5,7 +5,7 @@
   "fim": "2027-01-25",
   "titulo": "Programação de hoje até 25 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-26T05:56-03:00",
+ "atualizado_em": "2026-11-26T06:08-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -1107,6 +1107,40 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-11-16",
+    "fim": "2027-02-21",
+    "horario": "Terça a sexta, 10h–20h; sábado, domingo e feriados, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Hugo França & Max Lamb",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "FGV Arte (Centro Cultural FGV)",
+   "endereco": "Praia de Botafogo, 190",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Móveis e esculturas feitos em Trancoso, na Bahia, na colaboração entre o escultor brasileiro Hugo França e o designer britânico Max Lamb, a partir de troncos caídos de pequi-vinagreiro e de antigas canoas indígenas sem uso. Curadoria da FGV Arte.",
+   "fonte": "FGV Arte (site oficial)",
+   "link": "https://arte.fgv.br/exposicao/hugo-franca-max-lamb",
+   "id": "f-0bac03fcd1",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Furniture and sculptures made in Trancoso, Bahia, in a collaboration between Brazilian sculptor Hugo França and British designer Max Lamb, using long-fallen pequi-vinagreiro trunks and old disused Indigenous canoes. Curated by FGV Arte.",
+   "sinopse_es": "Muebles y esculturas hechos en Trancoso, Bahía, en la colaboración entre el escultor brasileño Hugo França y el diseñador británico Max Lamb, a partir de troncos caídos de pequi-vinagreiro y de antiguas canoas indígenas en desuso. Curaduría de FGV Arte.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-11-14",
     "fim": "2027-01-16",
     "horario": "Segunda a sexta, 12h–18h; sábado, 12h–16h, com agendamento prévio"
@@ -1142,7 +1176,7 @@
    "cartaz": {
     "inicio": "2026-11-26",
     "fim": "2027-05-02",
-    "horario": ""
+    "horario": "Terça a sexta, 10h–20h; sábado, domingo e feriados, 10h–18h"
    },
    "sessoes": [],
    "preco_texto": "",
@@ -1156,11 +1190,10 @@
    "tipo": "cartaz",
    "titulo": "Infâncias",
    "areas": [
-    "Artes Visuais",
-    "Infantil"
+    "Artes Visuais"
    ],
    "local": "FGV Arte (Centro Cultural FGV)",
-   "endereco": "Praia de Botafogo, 186",
+   "endereco": "Praia de Botafogo, 190",
    "bairro": "Botafogo",
    "regiao": "Zona Sul",
    "sinopse": "Coletiva com artistas modernos e contemporâneos de várias gerações e países sobre brincadeiras, imaginação, relações familiares e educação. Curadoria de Andréa Hygino e Paulo Herkenhoff.",
@@ -1168,8 +1201,43 @@
    "link": "https://artequeacontece.com.br/evento/infancias-na-fgv-arte/",
    "id": "f-33ccd17d21",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26",
    "sinopse_en": "Group show with modern and contemporary artists from several generations and countries on play, imagination, family relationships and education. Curated by Andréa Hygino and Paulo Herkenhoff.",
    "sinopse_es": "Colectiva con artistas modernos y contemporáneos de varias generaciones y países sobre juegos, imaginación, relaciones familiares y educación. Curaduría de Andréa Hygino y Paulo Herkenhoff.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-12-09",
+    "fim": "2027-03-08",
+    "horario": ""
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Gordon Parks: A América Sou Eu",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Centro Cultural Banco do Brasil (CCBB)",
+   "endereco": "Rua Primeiro de Março, 66",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Exposição dedicada a Gordon Parks, em cartaz no CCBB Rio de 9 de dezembro a 8 de março.",
+   "fonte": "CCBB Rio (programação oficial)",
+   "link": "https://ccbb.com.br/rio-de-janeiro/programacao/",
+   "id": "f-364a443249",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Exhibition devoted to Gordon Parks, on view at CCBB Rio from December 9 to March 8.",
+   "sinopse_es": "Exposición dedicada a Gordon Parks, en cartel en el CCBB Rio del 9 de diciembre al 8 de marzo.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -1244,6 +1312,74 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-11-26",
+    "fim": "2027-01-21",
+    "horario": "Segunda a sexta, 10h–19h; sábado, 11h–14h"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Adrianna Eu: Trago um mar de incertezas",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Cassia Bomeny Galeria",
+   "endereco": "Rua Garcia d'Ávila, 196",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "Individual de Adrianna Eu, com curadoria de Marcus Lontra, que marca o início da representação da artista pela galeria. São cerca de 20 trabalhos, dois terços inéditos, entre objetos, instalações, fotografias, telas cobertas por linhas e bordados; abertura no dia 26, das 18h às 21h.",
+   "fonte": "ArtRio (agenda cultural)",
+   "link": "https://artrio.com/agenda-cultural/cassia-bomeny-galeria-adrianna-eu",
+   "id": "f-b275bf0da1",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Solo show by Adrianna Eu, curated by Marcus Lontra, marking the start of the artist's representation by the gallery. Around 20 works, two thirds never shown before, including objects, installations, photographs, canvases covered in thread and embroidery; opening on the 26th, 6pm to 9pm.",
+   "sinopse_es": "Individual de Adrianna Eu, con curaduría de Marcus Lontra, que marca el inicio de la representación de la artista por la galería. Son cerca de 20 obras, dos tercios inéditas, entre objetos, instalaciones, fotografías, telas cubiertas de líneas y bordados; inauguración el día 26, de 18h a 21h.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": null,
+    "fim": null,
+    "horario": "Quinta a domingo, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "cartaz",
+   "fonte": "Site do Museu do Pontal",
+   "titulo": "Novos ares: Pontal reinventado",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "local": "Museu do Pontal",
+   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "link": "https://museudopontal.org.br/exposicao/novos-ares-pontal-reinventado/",
+   "sinopse": "Exposição central e de longa duração do Museu do Pontal, uma homenagem à proposta original de apresentação do acervo de arte popular brasileira criada pelo fundador, Jacques Van de Beuque. Entrada gratuita.",
+   "id": "f-b4f6e88fed",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The Museu do Pontal's main long-term exhibition, a tribute to the original way of presenting its Brazilian folk art collection devised by the founder, Jacques Van de Beuque. Free admission.",
+   "sinopse_es": "Exposición central y de larga duración del Museu do Pontal, un homenaje a la propuesta original de presentación del acervo de arte popular brasileño creada por el fundador, Jacques Van de Beuque. Entrada gratuita.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-10-06",
     "fim": "2027-01-03",
     "horario": ""
@@ -1278,9 +1414,43 @@
   },
   {
    "cartaz": {
+    "inicio": "2026-10-29",
+    "fim": "2026-12-13",
+    "horario": "Quarta a domingo, 11h–20h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "Audiodescrição de obras, legendas na videoarte e Libras nas atividades públicas",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Priscila Rooxo: De onde venho",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Petrobras Futuros – Arte e Tecnologia",
+   "endereco": "Rua Dois de Dezembro, 63",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Primeira individual no Rio de Priscila Rooxo, artista de Mesquita, na Baixada Fluminense. Em três núcleos de pintura, vídeo e instalação, parte da família e do território, e fecha com obras sobre as enchentes de 2026 na Baixada. Programação gratuita com a artista no dia 5 de dezembro.",
+   "fonte": "Petrobras Futuros – Arte e Tecnologia (site oficial)",
+   "link": "https://petrobrasfuturos.com.br/programacao/exposicao-de-onde-venho-priscila-rooxo/",
+   "id": "f-c101572372",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "First solo show in Rio by Priscila Rooxo, an artist from Mesquita, in the Baixada Fluminense. In three sections of painting, video and installation, it starts from family and territory and ends with works on the 2026 floods in the Baixada. Free programme with the artist on December 5.",
+   "sinopse_es": "Primera individual en Río de Priscila Rooxo, artista de Mesquita, en la Baixada Fluminense. En tres núcleos de pintura, video e instalación, parte de la familia y del territorio, y cierra con obras sobre las inundaciones de 2026 en la Baixada. Programación gratuita con la artista el 5 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
     "inicio": "2026-10-28",
     "fim": "2026-11-28",
-    "horario": ""
+    "horario": "Segunda a sexta, 10h–19h; sábado, 12h–18h"
    },
    "sessoes": [],
    "preco_texto": "",
@@ -1304,6 +1474,7 @@
    "link": "https://www.anitaschwartz.com.br/2026/10/save-the-date-quintal-de-rosana-palazyan/",
    "id": "f-c6b14b6989",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26",
    "sinopse_en": "In a show curated by Ulisses Carrilho, Rosana Palazyan recreates as an installation the mango tree she considers her childhood confidant, incorporating dreams and teachings from people she talked to while preparing the show.",
    "sinopse_es": "En una muestra con curaduría de Ulisses Carrilho, Rosana Palazyan recrea en una instalación el árbol de mango que considera su confidente de la infancia, incorporando sueños y enseñanzas de personas con quienes conversó durante la preparación de la muestra.",
    "faixa": "nao_informado",
@@ -1472,6 +1643,40 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "In the foyer of the Exhibition Block, Andréa Hygino installs a playground with jungle gym, slide, swing, seesaw and merry-go-round that was not made for playing.",
    "sinopse_es": "En el foyer del Bloque de Exposiciones, Andréa Hygino instala un parque infantil con trepador, tobogán, columpio, balancín y tiovivo que no fue hecho para jugar.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-12-05",
+    "fim": "2027-02-13",
+    "horario": "Terça a sexta, 10h–19h; sábado, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Fernanda Gomes",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Carpintaria (Fortes D'Aloia & Gabriel)",
+   "endereco": "Rua Jardim Botânico, 971",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sinopse": "Exposição de Fernanda Gomes na Carpintaria, o espaço da galeria Fortes D'Aloia & Gabriel no Rio, no Jardim Botânico.",
+   "fonte": "Fortes D'Aloia & Gabriel (site oficial)",
+   "link": "https://fdag.com.br/exposicoes/proximas/",
+   "id": "f-f54e6935b5",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Exhibition by Fernanda Gomes at Carpintaria, the Fortes D'Aloia & Gabriel gallery space in Rio, in Jardim Botânico.",
+   "sinopse_es": "Exposición de Fernanda Gomes en Carpintaria, el espacio de la galería Fortes D'Aloia & Gabriel en Río, en Jardim Botânico.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -1693,6 +1898,313 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Um Natal Congelante: O Musical ao Vivo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Um Natal Congelante: O Musical ao Vivo\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129278",
+   "id": "f-92342029b1",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Um Natal Congelante: O Musical ao Vivo\" at Teatro Vanucci, in Gávea, until December 6.",
+   "sinopse_es": "\"Um Natal Congelante: O Musical ao Vivo\" en el Teatro Vanucci, en Gávea, hasta el 6 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Patrulhinha de Natal",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Patrulhinha de Natal\" no Teatro Vanucci, na Gávea, até 26 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/118950",
+   "id": "f-836c624a59",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Patrulhinha de Natal\" at Teatro Vanucci, in Gávea, until December 26.",
+   "sinopse_es": "\"Patrulhinha de Natal\" en el Teatro Vanucci, en Gávea, hasta el 26 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Os Saltimbancos",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Os Saltimbancos\" no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126898",
+   "id": "f-beb283b529",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Os Saltimbancos\" at Teatro Cândido Mendes, in Ipanema, until November 29.",
+   "sinopse_es": "\"Os Saltimbancos\" en el Teatro Cândido Mendes, en Ipanema, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "João e Maria na Casa de Chocolate",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Brigitte Blair",
+   "endereco": "Rua Miguel Lemos, 51",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "\"João e Maria na Casa de Chocolate\" no Teatro Brigitte Blair, em Copacabana, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/94955",
+   "id": "f-e93b1ae67b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"João e Maria na Casa de Chocolate\" at Teatro Brigitte Blair, in Copacabana, until November 29.",
+   "sinopse_es": "\"João e Maria na Casa de Chocolate\" en el Teatro Brigitte Blair, en Copacabana, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "17:30"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "17:30"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:30"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Três Porquinhos Contra o Lobo Mau",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Henriqueta Brieba (Tijuca Tênis Clube)",
+   "endereco": "Rua Conde de Bonfim",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Três Porquinhos Contra o Lobo Mau\" no Teatro Henriqueta Brieba, no Tijuca Tênis Clube, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/tres-porquinhos-contra-o-lobo-mau/3614726",
+   "id": "f-0c0ff790ad",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Três Porquinhos Contra o Lobo Mau\" at Teatro Henriqueta Brieba, in Tijuca Tênis Clube, until November 29.",
+   "sinopse_es": "\"Três Porquinhos Contra o Lobo Mau\" en el Teatro Henriqueta Brieba, en el Tijuca Tênis Clube, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "17:30"
     }
    ],
@@ -1827,6 +2339,45 @@
    "entrou_em": "2026-11-24",
    "sinopse_en": "A forró dance with Forró de Pife at Glorioso Cultural, in Catete.",
    "sinopse_es": "Baile de forró con el grupo Forró de Pife en el Glorioso Cultural, en Catete.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "18:30"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Além da Vida é Viver",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Além da Vida é Viver\" no Teatro Miguel Falabella, no Norte Shopping, até 27 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126763",
+   "id": "f-7eba6e2f77",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Além da Vida é Viver\" at Teatro Miguel Falabella, in Norte Shopping, until November 27.",
+   "sinopse_es": "\"Além da Vida é Viver\" en el Teatro Miguel Falabella, en el Norte Shopping, hasta el 27 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -1989,6 +2540,69 @@
    "sinopse_es": "\"O Sonho de Ícaro\" en cartel en el Teatro Firjan SESI Centro hasta el 20 de diciembre.",
    "faixa": "nao_informado",
    "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Víboras – A Arte do Insulto",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Víboras – A Arte do Insulto\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126646",
+   "id": "f-39b3da215f",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Víboras – A Arte do Insulto\" at Teatro Vanucci, in Gávea, until December 6.",
+   "sinopse_es": "\"Víboras – A Arte do Insulto\" en el Teatro Vanucci, en Gávea, hasta el 6 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -2489,6 +3103,148 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Entre Atos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha (Sala Murilo Miranda)",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Entre Atos\" na Sala Murilo Miranda do Teatro Glauce Rocha, no Centro, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/entre-atos-teatro-glauce-rocha/3632366",
+   "id": "f-e1e9f06d4e",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Entre Atos\" in the Sala Murilo Miranda at Teatro Glauce Rocha, downtown, until November 29.",
+   "sinopse_es": "\"Entre Atos\" en la Sala Murilo Miranda del Teatro Glauce Rocha, en el Centro, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Adorável Face de Andronieva Petrosa",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeirinha",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Primeiro solo de Fabianna de Mello e Souza, em 40 anos de carreira: uma atriz recebe uma carta anônima que a acusa de plágio e passa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e direção de Denise Stutz.",
+   "fonte": "Site do Teatro Poeira (ronda de 19/11)",
+   "link": "https://www.teatropoeira.com.br/adoravel-face",
+   "id": "2026-11-19-151",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Fabianna de Mello e Souza's first solo show in 40 years on stage: an actress receives an anonymous letter accusing her of plagiarism and starts to wonder what is original. Written by Cecilia Ripoll, directed by Denise Stutz.",
+   "sinopse_es": "Primer solo de Fabianna de Mello e Souza en 40 años de carrera: una actriz recibe una carta anónima que la acusa de plagio y empieza a preguntarse qué es lo original. Dramaturgia de Cecilia Ripoll y dirección de Denise Stutz.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "20:00"
     }
    ],
@@ -2595,6 +3351,41 @@
     {
      "data": "2026-11-26",
      "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Wilson Meireles e Pedro Holanda: \"Ben Monal\"",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Wilson Meireles e Pedro Holanda dividem o palco do Little Club, no Beco das Garrafas, com o show \"Ben Monal\". Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-50e50cd3aa",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Wilson Meireles and Pedro Holanda share the stage of Little Club, at Beco das Garrafas, with the show \"Ben Monal\". One night only.",
+   "sinopse_es": "Wilson Meireles y Pedro Holanda comparten el escenario del Little Club, en el Beco das Garrafas, con el espectáculo \"Ben Monal\". Presentación única.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
     },
     {
      "data": "2026-11-27",
@@ -2634,6 +3425,139 @@
    "atualizado_em": "2026-11-25",
    "sinopse_en": "\"Algoritmo\" runs at Teatro Municipal Ipanema Rubens Corrêa until November 29.",
    "sinopse_es": "\"Algoritmo\" en cartel en el Teatro Municipal Ipanema Rubens Corrêa hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-25",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Yumi Park – Alma de Artista",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Yumi Park apresenta o show \"Alma de Artista\" no Bottle's Bar, no Beco das Garrafas, em Copacabana. São cinco noites até o Natal.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-628411cc66",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Yumi Park presents the show \"Alma de Artista\" at Bottle's Bar, at Beco das Garrafas, in Copacabana. Five nights through Christmas.",
+   "sinopse_es": "Yumi Park presenta el espectáculo \"Alma de Artista\" en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Son cinco noches hasta Navidad.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Noite do Melodrama",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Cine Teatro (Teatros da Barra)",
+   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "\"Noite do Melodrama\" no Cine Teatro dos Teatros da Barra, na Barra da Tijuca, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128119",
+   "id": "f-92e994a1ae",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Noite do Melodrama\" at the Cine Teatro of Teatros da Barra, in Barra da Tijuca, until November 29.",
+   "sinopse_es": "\"Noite do Melodrama\" en el Cine Teatro de los Teatros da Barra, en Barra da Tijuca, hasta el 29 de noviembre.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Eri Johnson em \"Das Seis às Sete\"",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Fashion Mall",
+   "endereco": "Estrada da Gávea, 899, loja 213",
+   "bairro": "São Conrado",
+   "regiao": "Zona Sul",
+   "sinopse": "Eri Johnson em \"Das Seis às Sete\", no Teatro Fashion Mall, em São Conrado.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/123776",
+   "id": "f-96aa8576b9",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Eri Johnson in \"Das Seis às Sete\", at Teatro Fashion Mall, in São Conrado.",
+   "sinopse_es": "Eri Johnson en \"Das Seis às Sete\", en el Teatro Fashion Mall, en São Conrado.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -2814,6 +3738,45 @@
    "atualizado_em": "2026-11-25",
    "sinopse_en": "\"O que Meu Peito Carrega Sobre Mim\" runs at Teatro Poeira, in Botafogo, until December 20.",
    "sinopse_es": "\"O que Meu Peito Carrega Sobre Mim\" en cartel en el Teatro Poeira, en Botafogo, hasta el 20 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Loucas, Lindas e Lobas",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Cine Teatro (Teatros da Barra)",
+   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "\"Loucas, Lindas e Lobas\" no Cine Teatro dos Teatros da Barra, na Barra da Tijuca, até 27 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126832",
+   "id": "f-ce17c3cc78",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Loucas, Lindas e Lobas\" at the Cine Teatro of Teatros da Barra, in Barra da Tijuca, until November 27.",
+   "sinopse_es": "\"Loucas, Lindas e Lobas\" en el Cine Teatro de los Teatros da Barra, en Barra da Tijuca, hasta el 27 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -3058,6 +4021,69 @@
    "sinopse_es": "Show de stand-up del comediante Serginho Lacerda, el Papá de Bento, con historias sobre la paternidad, apto para todo público.",
    "faixa": "acima80",
    "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "O Tigre",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"O Tigre\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127654",
+   "id": "f-1fcc3e695b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"O Tigre\" at Teatro Vanucci, in Gávea, until December 6.",
+   "sinopse_es": "\"O Tigre\" en el Teatro Vanucci, en Gávea, hasta el 6 de diciembre.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -3522,6 +4548,69 @@
     {
      "data": "2026-11-27",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Plateia: R$ 20 (inteira) e R$ 10 (meia); balcão: R$ 10 (inteira) e R$ 5 (meia). Clientes Caixa pagam meia.",
+   "preco_min": 10,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "Sonho Elétrico",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Caixa Cultural – Teatro Nelson Rodrigues",
+   "endereco": "Av. República do Paraguai, 230",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Peça com texto e direção de Marcio Abreu, pela companhia brasileira de teatro, feita em diálogo com a obra do neurocientista Sidarta Ribeiro. Uma artista de banda atingida por um raio fica em coma e percorre memórias e sonhos entre a vida e a morte. Com pianista ao vivo em cena.",
+   "link": "https://www.bilheteriadigital.com/27-11-sonho-eletrico-27-de-novembro",
+   "id": "f-41ca124f0d",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Play written and directed by Marcio Abreu, by companhia brasileira de teatro, created in dialogue with the work of neuroscientist Sidarta Ribeiro. A band member struck by lightning falls into a coma and travels through memories and dreams between life and death. With a pianist live on stage.",
+   "sinopse_es": "Obra con texto y dirección de Marcio Abreu, por la companhia brasileira de teatro, creada en diálogo con la obra del neurocientífico Sidarta Ribeiro. Una artista de una banda alcanzada por un rayo queda en coma y recorre recuerdos y sueños entre la vida y la muerte. Con pianista en vivo en escena.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
     }
    ],
    "preco_texto": "",
@@ -3548,6 +4637,45 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "A night of the Rio edition of Dança à Deriva at Teatro Cacilda Becker, with A(s) – isso não é um solo, from Rio, and Humana, from Argentina.",
    "sinopse_es": "Noche de la edición carioca de Dança à Deriva en el Teatro Cacilda Becker, con A(s) – isso não é um solo, de Río, y Humana, de Argentina.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Todos os Amores Menos Aquele – um relato dramatizado",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Todos os Amores Menos Aquele\", relato dramatizado, no Teatro Glauce Rocha, no Centro, até 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/todos-os-amores-menos-aquele-um-relato-dramatizado/3644473",
+   "id": "f-b002c5aaef",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "\"Todos os Amores Menos Aquele\", a dramatized account, at Teatro Glauce Rocha, downtown, until November 28.",
+   "sinopse_es": "\"Todos os Amores Menos Aquele\", relato dramatizado, en el Teatro Glauce Rocha, en el Centro, hasta el 28 de noviembre.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -3695,6 +4823,50 @@
    "sinopse_en": "A staging of the musical \"A Ópera do Malandro\" at Areninha Cultural Terra, in Guadalupe, on November 27 and 28.",
    "sinopse_es": "Montaje del musical \"A Ópera do Malandro\" en la Areninha Cultural Terra, en Guadalupe, el 27 y 28 de noviembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Superiores",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Nove atores criam com o corpo e a voz todos os sons e ambientes de uma fábula sobre poder, falada numa língua inventada que o público entende pelo som.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "2026-11-19-006",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Nine actors use only body and voice to create every sound and setting of a fable about power, spoken in an invented language the audience understands by its sound.",
+   "sinopse_es": "Nueve actores crean con el cuerpo y la voz todos los sonidos y ambientes de una fábula sobre el poder, hablada en una lengua inventada que el público entiende por el sonido.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -3869,6 +5041,41 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "Second edition of the nerd gathering at Areninha Herbert Vianna, in Maré.",
    "sinopse_es": "Segunda edición del encuentro nerd en la Areninha Herbert Vianna, en Maré.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Realengo)",
+   "areas": [
+    "Música"
+   ],
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Teresa Cristina e a Velha Guarda da Portela no projeto Memórias do Samba, na Areninha Cultural Gilberto Gil, em Realengo.",
+   "link": "https://bileto.sympla.com.br/event/130668",
+   "id": "f-80323410c1",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Teresa Cristina and the Velha Guarda da Portela in the Memórias do Samba project, at Areninha Cultural Gilberto Gil, in Realengo.",
+   "sinopse_es": "Teresa Cristina y la Velha Guarda da Portela en el proyecto Memórias do Samba, en la Areninha Cultural Gilberto Gil, en Realengo.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -4061,6 +5268,45 @@
     {
      "data": "2026-11-27",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "MPB Entre Amigos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite de música popular brasileira no Little Club, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-e59c4f09b5",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "An evening of Brazilian popular music at Little Club, at Beco das Garrafas, in Copacabana. Two Fridays.",
+   "sinopse_es": "Noche de música popular brasileña en el Little Club, en el Beco das Garrafas, en Copacabana. Dos viernes.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
     }
    ],
    "preco_texto": "de R$ 25 a R$ 140",
@@ -4177,6 +5423,45 @@
      "hora": "21:00"
     },
     {
+     "data": "2026-12-18",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Fernanda Santanna",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Fernanda Santanna se apresenta no Bottle's Bar, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-591e118397",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Fernanda Santanna performs at Bottle's Bar, at Beco das Garrafas, in Copacabana. Two Fridays.",
+   "sinopse_es": "Fernanda Santanna se presenta en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Dos viernes.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "21:00"
+    },
+    {
      "data": "2026-11-28",
      "hora": "20:00"
     },
@@ -4212,6 +5497,41 @@
    "sinopse_es": "Rodrigo Sant'Anna lleva el espectáculo \"Mulheres em Turbulência\" al Teatro Miguel Falabella, en el Norte Shopping.",
    "faixa": "nao_informado",
    "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Quando Dança o Baobá",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "Apresentação de \"Quando Dança o Baobá\" na Arena Cultural Dicró, na Penha.",
+   "link": "https://bileto.sympla.com.br/event/130792",
+   "id": "f-472932ae90",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Performance of \"Quando Dança o Baobá\" at Arena Cultural Dicró, in Penha.",
+   "sinopse_es": "Presentación de \"Quando Dança o Baobá\" en la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -4255,6 +5575,47 @@
    "sinopse_en": "Visual poetry installation: an origami oracle box holds viewers with four visual poems.",
    "sinopse_es": "Instalación de poesía visual: una caja-oráculo de origami guarda monóculos con cuatro poemas visuales.",
    "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Zuzuê Contos Africanos",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ruth de Souza",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "11:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 20 a R$ 40",
+   "preco_min": 20,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Libras integrada à cena",
+   "na_rua": false,
+   "sinopse": "Paulinha Cavalcanti, Anderson Barreto e Árvore Vicente narram histórias afro-diaspóricas, com Libras integrada à cena. Cerca de 50 minutos.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "2026-11-19-019",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Paulinha Cavalcanti, Anderson Barreto and Árvore Vicente tell Afro-diasporic stories, with Brazilian Sign Language built into the staging. About 50 minutes.",
+   "sinopse_es": "Paulinha Cavalcanti, Anderson Barreto y Árvore Vicente narran historias afrodiaspóricas, con lengua de señas brasileña integrada a la escena. Unos 50 minutos.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -5236,6 +6597,46 @@
    "status": "conferido"
   },
   {
+   "titulo": "Equina",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Espetáculo de dança de Aline Bernardi e Dani Lima sobre os laços de cuidado entre humanos e cavalos, a partir da pesquisa de doutorado de Aline.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "2026-11-19-002",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A dance piece by Aline Bernardi and Dani Lima about the bonds of care between humans and horses, based on Aline's doctoral research.",
+   "sinopse_es": "Espectáculo de danza de Aline Bernardi y Dani Lima sobre los lazos de cuidado entre humanos y caballos, a partir de la investigación doctoral de Aline.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -5572,6 +6973,53 @@
      "hora": "20:00"
     },
     {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-25",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Kay Lyra",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Kay Lyra se apresenta no Little Club, no Beco das Garrafas, em Copacabana. Quatro noites, a última no dia de Natal.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-99b4d3be66",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Kay Lyra performs at Little Club, at Beco das Garrafas, in Copacabana. Four nights, the last one on Christmas Day.",
+   "sinopse_es": "Kay Lyra se presenta en el Little Club, en el Beco das Garrafas, en Copacabana. Cuatro noches, la última el día de Navidad.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
      "data": "2026-12-13",
      "hora": "16:00"
     }
@@ -5776,6 +7224,49 @@
    "sinopse_en": "JP Silva sings samba de raiz at Carioca da Gema.",
    "sinopse_es": "JP Silva canta samba de raíz en el Carioca da Gema.",
    "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Bossa Mais",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O show \"Bossa Mais\" ocupa o Bottle's Bar, no Beco das Garrafas, em Copacabana, em três sábados.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-09b1b301ab",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The show \"Bossa Mais\" takes over Bottle's Bar, at Beco das Garrafas, in Copacabana, on three Saturdays.",
+   "sinopse_es": "El espectáculo \"Bossa Mais\" ocupa el Bottle's Bar, en el Beco das Garrafas, en Copacabana, durante tres sábados.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -6138,6 +7629,45 @@
     {
      "data": "2026-11-29",
      "hora": "16:00"
+    },
+    {
+     "data": "2026-12-27",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Quintal da Magia na Batuq",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Batuq Casa de Samba",
+   "endereco": "Rua Belizário Pena",
+   "bairro": "Penha",
+   "regiao": "Zona Norte",
+   "sinopse": "Quintal da Magia na Batuq, casa de samba da Penha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/quintal-da-magia-na-batuq/3632556",
+   "id": "f-644214f001",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Quintal da Magia at Batuq, a samba house in Penha.",
+   "sinopse_es": "Quintal da Magia en Batuq, casa de samba de Penha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
     }
    ],
    "preco_texto": "Grátis",
@@ -6235,6 +7765,41 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "O Desdobrar das Histórias presents \"Árvore de Histórias\" in the Domingo das Crianças series at Centro da Música Carioca, in Tijuca.",
    "sinopse_es": "O Desdobrar das Histórias presenta \"Árvore de Histórias\" en la serie Domingo das Crianças del Centro da Música Carioca, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Pagode do Origem",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Essência do Samba",
+   "endereco": "Rua Honório",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Pagode do Origem no Essência do Samba, no Cachambi.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/pagode-do-origem-essencia-do-samba/3666691",
+   "id": "f-4e466b06e6",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Pagode do Origem at Essência do Samba, in Cachambi.",
+   "sinopse_es": "Pagode do Origem en Essência do Samba, en Cachambi.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -6499,6 +8064,84 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Yumi Park",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Yumi Park se apresenta no Little Club, no Beco das Garrafas, em Copacabana, em dois domingos.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-d99098b0b7",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Yumi Park performs at Little Club, at Beco das Garrafas, in Copacabana, on two Sundays.",
+   "sinopse_es": "Yumi Park se presenta en el Little Club, en el Beco das Garrafas, en Copacabana, durante dos domingos.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Marvio Ciribelli & Convidados: tributo a Sérgio Mendes e Chico Buarque",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Marvio Ciribelli e convidados fazem um tributo a Sérgio Mendes e Chico Buarque no Bottle's Bar, no Beco das Garrafas, em Copacabana. Dois domingos.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-847a8170bc",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Marvio Ciribelli and guests pay tribute to Sérgio Mendes and Chico Buarque at Bottle's Bar, at Beco das Garrafas, in Copacabana. Two Sundays.",
+   "sinopse_es": "Marvio Ciribelli e invitados rinden homenaje a Sérgio Mendes y Chico Buarque en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Dos domingos.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-30",
      "hora": "14:00"
     }
@@ -6753,6 +8396,108 @@
    "sinopse_en": "Alana Valentte, with over 20 years in samba, moves from samba de raiz to afro-samba in new takes on classics.",
    "sinopse_es": "Alana Valentte, con más de 20 años de samba, va del samba de raíz al afrosamba en relecturas de clásicos.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-07",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-21",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80 / R$ 40 (meia carioca)",
+   "preco_min": 40,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Carioquinha: Lu Oliveira e Rogério Guimarães",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Lu Oliveira e Rogério Guimarães tocam na série Carioquinha, às segundas, no Little Club do Beco das Garrafas, em Copacabana.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-153694e465",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Lu Oliveira and Rogério Guimarães play in the Carioquinha series, on Mondays, at Little Club in Beco das Garrafas, Copacabana.",
+   "sinopse_es": "Lu Oliveira y Rogério Guimarães tocan en la serie Carioquinha, los lunes, en el Little Club del Beco das Garrafas, en Copacabana.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-07",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-14",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-21",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-28",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Leandro Freixo Trio",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O Leandro Freixo Trio toca às segundas no Bottle's Bar, no Beco das Garrafas, em Copacabana. Cinco noites até o fim de dezembro.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-d16cc368ee",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Leandro Freixo Trio plays on Mondays at Bottle's Bar, at Beco das Garrafas, in Copacabana. Five nights through the end of December.",
+   "sinopse_es": "El Leandro Freixo Trio toca los lunes en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Cinco noches hasta fines de diciembre.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -7071,6 +8816,61 @@
    "status": "conferido"
   },
   {
+   "titulo": "Margaridas",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeira",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-09",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-16",
+     "hora": "20:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "10 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Com texto de Cecília Ripoll e direção de Natasha Corbelino, a peça percorre 200 anos de educação, de 1916 a um futuro imaginado em 2116.",
+   "fonte": "Site do Teatro Poeira (ronda de 19/11)",
+   "link": "https://www.teatropoeira.com.br/margaridas",
+   "id": "2026-11-19-150",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Written by Cecília Ripoll and directed by Natasha Corbelino, the play spans 200 years of education, from 1916 to an imagined future in 2116.",
+   "sinopse_es": "Con texto de Cecília Ripoll y dirección de Natasha Corbelino, la obra recorre 200 años de educación, de 1916 a un futuro imaginado en 2116.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -7103,6 +8903,57 @@
    "sinopse_en": "A Jazz em Dobro night devoted to Beth Carvalho and Maria Bethânia, at Teatro Cândido Mendes.",
    "sinopse_es": "Noche de la serie Jazz em Dobro dedicada a Beth Carvalho y Maria Bethânia, en el Teatro Cândido Mendes.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80 / R$ 40 (meia carioca)",
+   "preco_min": 40,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Carioquinha: Flávia Dantas & Bernardo Dantas",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Flávia Dantas e Bernardo Dantas tocam na série Carioquinha, às terças, no Little Club do Beco das Garrafas, em Copacabana.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-368d6eb05e",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Flávia Dantas and Bernardo Dantas play in the Carioquinha series, on Tuesdays, at Little Club in Beco das Garrafas, Copacabana.",
+   "sinopse_es": "Flávia Dantas y Bernardo Dantas tocan en la serie Carioquinha, los martes, en el Little Club del Beco das Garrafas, en Copacabana.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -7250,6 +9101,53 @@
    "sinopse_en": "João Nabuco in the Terças no Ipanema series at Teatro Municipal Ipanema Rubens Corrêa.",
    "sinopse_es": "João Nabuco en la serie Terças no Ipanema, del Teatro Municipal Ipanema Rubens Corrêa.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-15",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-22",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-29",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Marcos Ariel: \"Rio Bossa Nova\"",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Marcos Ariel apresenta o show \"Rio Bossa Nova\" às terças no Bottle's Bar, no Beco das Garrafas, em Copacabana.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-a8d323e860",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Marcos Ariel presents the show \"Rio Bossa Nova\" on Tuesdays at Bottle's Bar, at Beco das Garrafas, in Copacabana.",
+   "sinopse_es": "Marcos Ariel presenta el espectáculo \"Rio Bossa Nova\" los martes en el Bottle's Bar, en el Beco das Garrafas, en Copacabana.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -7706,6 +9604,57 @@
    "sinopse_en": "A tribute show to Delcio Carvalho at Teatro Brigitte Blair, in Copacabana.",
    "sinopse_es": "Show en homenaje a Delcio Carvalho en el Teatro Brigitte Blair, en Copacabana.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-02",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-09",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-16",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-23",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-30",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Dilma Oliveira",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Dilma Oliveira se apresenta às quartas no Bottle's Bar, no Beco das Garrafas, em Copacabana. Cinco noites em dezembro.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-f816fad6ae",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Dilma Oliveira performs on Wednesdays at Bottle's Bar, at Beco das Garrafas, in Copacabana. Five nights in December.",
+   "sinopse_es": "Dilma Oliveira se presenta los miércoles en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Cinco noches en diciembre.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -8334,6 +10283,41 @@
    "sinopse_es": "Teresa Cristina recibe a la Velha Guarda da Portela en el proyecto Memórias do Samba, en la Arena Dicró, en Penha.",
    "faixa": "nao_informado",
    "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Lançamento de \"Plástico\", de Juan Pinheiro",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "Juan Pinheiro lança o livro \"Plástico\" na Arena Cultural Dicró, na Penha.",
+   "link": "https://bileto.sympla.com.br/event/130796",
+   "id": "f-5457418c91",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Juan Pinheiro launches the book \"Plástico\" at Arena Cultural Dicró, in Penha.",
+   "sinopse_es": "Juan Pinheiro presenta el libro \"Plástico\" en la Arena Cultural Dicró, en Penha.",
+   "faixa": "nao_informado",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -9108,6 +11092,41 @@
    "sessoes": [
     {
      "data": "2026-12-04",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Marvio Ciribelli Trio",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "O Marvio Ciribelli Trio toca no Bottle's Bar, no Beco das Garrafas, em Copacabana. Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-c30d34e6e4",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Marvio Ciribelli Trio plays at Bottle's Bar, at Beco das Garrafas, in Copacabana. One night only.",
+   "sinopse_es": "El Marvio Ciribelli Trio toca en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Presentación única.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
      "hora": "22:00"
     }
    ],
@@ -9592,6 +11611,41 @@
    "sinopse_en": "Matheus Ceará performs \"Desculpa Eu Ter Vindo\" at Arena Carioca Abelardo Barbosa, in Pedra de Guaratiba.",
    "sinopse_es": "Matheus Ceará presenta \"Desculpa Eu Ter Vindo\" en la Arena Carioca Abelardo Barbosa, en Pedra de Guaratiba.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 90",
+   "preco_min": 90,
+   "preco_max": 90,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Ithamara Koorax: Bossa Project",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Ithamara Koorax apresenta o show \"Bossa Project\" no Bottle's Bar, no Beco das Garrafas, em Copacabana. Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-5ea90d6bcf",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Ithamara Koorax presents the show \"Bossa Project\" at Bottle's Bar, at Beco das Garrafas, in Copacabana. One night only.",
+   "sinopse_es": "Ithamara Koorax presenta el espectáculo \"Bossa Project\" en el Bottle's Bar, en el Beco das Garrafas, en Copacabana. Presentación única.",
+   "faixa": "acima80",
    "status": "conferido"
   },
   {
@@ -10229,6 +12283,41 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-07",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "titulo": "Samba, Livre, Leve e Solto, com Paulão 7 Cordas",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Glorioso Cultural",
+   "endereco": "Rua do Catete",
+   "bairro": "Catete",
+   "regiao": "Zona Sul",
+   "sinopse": "Roda de samba comandada por Paulão 7 Cordas no Glorioso Cultural, no Catete, das 20h às 23h30.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/samba-livre-leve-e-souto-com-paulao-7-cordas/3666897",
+   "id": "f-54fb9840fe",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Samba circle led by Paulão 7 Cordas at Glorioso Cultural, in Catete, from 8 pm to 11:30 pm.",
+   "sinopse_es": "Rueda de samba dirigida por Paulão 7 Cordas en el Glorioso Cultural, en Catete, de 20 h a 23:30.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-08",
      "hora": "16:00"
     }
@@ -10825,6 +12914,41 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
+   "titulo": "Simplesmente Maysa: homenagem aos 90 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cenáculo",
+   "endereco": "Rua Almirante Tamandaré",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Homenagem aos 90 anos de Maysa no Espaço Cenáculo, no Flamengo.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/simplesmente-maysa-homenagem-aos-90-anos/3649840",
+   "id": "f-b9f598d320",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Tribute to Maysa's 90th anniversary at Espaço Cenáculo, in Flamengo.",
+   "sinopse_es": "Homenaje a los 90 años de Maysa en el Espaço Cenáculo, en Flamengo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
    "aviso": "",
    "titulo": "Praticar o Encontro: Mostra Cenas Curtas",
    "areas": [
@@ -11321,6 +13445,49 @@
     {
      "data": "2026-12-11",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Plateia: R$ 30 (inteira) e R$ 15 (meia); balcão: R$ 20 (inteira) e R$ 10 (meia). Clientes Caixa pagam meia.",
+   "preco_min": 20,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "Dança Boba",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Caixa Cultural – Teatro Nelson Rodrigues",
+   "endereco": "Av. República do Paraguai, 230",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Dança contemporânea do grupo goiano Ateliê do Gesto: três intérpretes criam a cada noite uma dança nova a partir de jogos de improvisação. Direção de Daniel Calvet, que dança com João Paulo Gross, Thaís Kuwae e Isabel Mamede. A temporada homenageia a coreógrafa Carlota Portella. 50 minutos.",
+   "link": "https://www.bilheteriadigital.com/danca-boba-11-de-dezembro",
+   "id": "f-7fbfb27f14",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Contemporary dance by Ateliê do Gesto, a group from Goiás: three performers create a new dance each night from improvisation games. Directed by Daniel Calvet, who dances alongside João Paulo Gross, Thaís Kuwae and Isabel Mamede. The run pays tribute to choreographer Carlota Portella. 50 minutes.",
+   "sinopse_es": "Danza contemporánea del grupo de Goiás Ateliê do Gesto: tres intérpretes crean cada noche una danza nueva a partir de juegos de improvisación. Dirección de Daniel Calvet, que baila con João Paulo Gross, Thaís Kuwae e Isabel Mamede. La temporada homenajea a la coreógrafa Carlota Portella. 50 minutos.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
     }
    ],
    "preco_texto": "",
@@ -11800,6 +13967,41 @@
      "hora": "17:00"
     }
    ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Grupo Vocal TRIAR: Cores do Brasil",
+   "areas": [
+    "Música"
+   ],
+   "local": "Centro Cultural da Justiça Federal",
+   "endereco": "Avenida Rio Branco, 241",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "O Grupo Vocal TRIAR apresenta o show \"Cores do Brasil\" na Sala de Sessões do Centro Cultural da Justiça Federal, na Cinelândia.",
+   "link": "https://www.sympla.com.br/evento/grupo-vocal-triar-em-cores-do-brasil/3666774",
+   "id": "f-b3fb9d4cd7",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Grupo Vocal TRIAR presents the show \"Cores do Brasil\" in the Sala de Sessões of the Centro Cultural da Justiça Federal, in Cinelândia.",
+   "sinopse_es": "El Grupo Vocal TRIAR presenta el espectáculo \"Cores do Brasil\" en la Sala de Sessões del Centro Cultural da Justiça Federal, en Cinelândia.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "17:00"
+    }
+   ],
    "preco_texto": "R$ 10",
    "preco_min": 10,
    "preco_max": 10,
@@ -11973,6 +14175,41 @@
    "sinopse_en": "A string quartet plays music from the series \"Outlander\" in a candlelit space at Solar de Botafogo. A 60-minute concert.",
    "sinopse_es": "Un cuarteto de cuerdas toca la música de la serie \"Outlander\" en un espacio iluminado por velas, en el Solar de Botafogo. Concierto de 60 minutos.",
    "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "Pista: R$ 40 (inteira) e R$ 20 (meia)",
+   "preco_min": 40,
+   "preco_max": 40,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "Acesso para pessoas com deficiência, segundo a página de venda",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "4 anos de Vou de Lado B, com Príncipe e Imaginasamba",
+   "areas": [
+    "Música"
+   ],
+   "local": "Quadra da São Clemente",
+   "endereco": "Avenida Presidente Vargas, 3102",
+   "bairro": "Cidade Nova",
+   "regiao": "Centro",
+   "sinopse": "O projeto de pagode e samba Vou de Lado B comemora quatro anos na quadra da São Clemente, com participação de Príncipe e do grupo Imaginasamba. Das 20h às 4h.",
+   "link": "https://www.bilheteriadigital.com/4-anos-de-vou-de-lado-b-part-principe-e-imaginasamba-12-de-dezembro",
+   "id": "f-edf3c67951",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The pagode and samba series Vou de Lado B celebrates four years at the São Clemente samba school court, with guest appearances by Príncipe and the group Imaginasamba. From 8 pm to 4 am.",
+   "sinopse_es": "El proyecto de pagode y samba Vou de Lado B celebra cuatro años en la cancha de la São Clemente, con participación de Príncipe y del grupo Imaginasamba. De las 20 h a las 4 h.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -12218,6 +14455,41 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "Conducted by Felipe Prazeres, the orchestra plays two concertos by Radamés Gnattali, for violin and for piano, with Fábio Peixoto and Luís Rabello, and Mozart's Symphony No. 40.",
    "sinopse_es": "Dirigida por Felipe Prazeres, la orquesta toca dos conciertos de Radamés Gnattali, para violín y para piano, con Fábio Peixoto y Luís Rabello, y la Sinfonía n.º 40 de Mozart.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-13",
+     "hora": "12:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Um Ano de Pagode da Gigi",
+   "areas": [
+    "Música"
+   ],
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "O Pagode da Gigi comemora um ano com uma tarde e noite de pagode no Muhcab, na Gamboa, das 12h às 22h.",
+   "link": "https://www.sympla.com.br/evento/um-ano-de-pagode-da-gigi-no-muhcab/3666865",
+   "id": "f-a0c35676c9",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Pagode da Gigi celebrates its first year with an afternoon and evening of pagode at Muhcab, in Gamboa, from 12pm to 10pm.",
+   "sinopse_es": "El Pagode da Gigi celebra un año con una tarde y noche de pagode en el Muhcab, en Gamboa, de 12h a 22h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -12870,6 +15142,76 @@
     {
      "data": "2026-12-17",
      "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Francesca Lo Cicero",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Francesca Lo Cicero se apresenta no Little Club, no Beco das Garrafas, em Copacabana. Apresentação única.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "id": "f-6dce58081f",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Francesca Lo Cicero performs at Little Club, at Beco das Garrafas, in Copacabana. One night only.",
+   "sinopse_es": "Francesca Lo Cicero se presenta en el Little Club, en el Beco das Garrafas, en Copacabana. Presentación única.",
+   "faixa": "ate80",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Stand-up: Wêlson Nunes",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Areninha Cultural Jacob do Bandolim",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Stand-up de Wêlson Nunes na Areninha Cultural Jacob do Bandolim, no Pechincha.",
+   "link": "https://bileto.sympla.com.br/event/125819",
+   "id": "f-7ee593a290",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Stand-up comedy by Wêlson Nunes at Areninha Cultural Jacob do Bandolim, in Pechincha.",
+   "sinopse_es": "Stand-up de Wêlson Nunes en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
     },
     {
      "data": "2026-12-18",
@@ -13238,6 +15580,41 @@
    "sinopse_en": "A concert in tribute to the legacy of Solange P. Mendonça, with Brazilian Sign Language, at Uerj's Teatro Odylo Costa, filho. Free.",
    "sinopse_es": "Concierto en tributo al legado de Solange P. Mendonça, con lengua de señas, en el Teatro Odylo Costa, filho, de la Uerj. Gratis.",
    "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "VVM: Fidelisx & Evy – show de lançamento",
+   "areas": [
+    "Música"
+   ],
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Fidelisx e Evy fazem o show de lançamento \"VVM\" na Areninha Cultural João Bosco, em Vista Alegre.",
+   "link": "https://bileto.sympla.com.br/event/130797",
+   "id": "f-d399d5a429",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Fidelisx and Evy perform the launch show \"VVM\" at Areninha Cultural João Bosco, in Vista Alegre.",
+   "sinopse_es": "Fidelisx y Evy presentan el espectáculo de lanzamiento \"VVM\" en la Areninha Cultural João Bosco, en Vista Alegre.",
+   "faixa": "nao_informado",
    "status": "conferido"
   },
   {
@@ -13702,6 +16079,41 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "Yayá do Cavaco presents \"De Raiz em Flor\", with guests Ana Costa, Claudia Macedo and Alice Vasques.",
    "sinopse_es": "Yayá do Cavaco presenta \"De Raiz em Flor\", con participaciones de Ana Costa, Claudia Macedo y Alice Vasques.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-28",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "titulo": "Matuê + LeaLL: Pré-Réveillon no MAM",
+   "areas": [
+    "Música"
+   ],
+   "local": "MAM Rio",
+   "endereco": "Avenida Infante Dom Henrique, 85 (Parque do Flamengo)",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Matuê e LeaLL se apresentam no MAM Rio numa noite de pré-réveillon, das 22h às 4h.",
+   "link": "https://www.sympla.com.br/evento/matue-leall-rio-de-janeiro-mam-prereveillon/3663684",
+   "id": "f-206cca97d1",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Matuê and LeaLL perform at MAM Rio on a pre-New Year's Eve night, from 10pm to 4am.",
+   "sinopse_es": "Matuê y LeaLL se presentan en el MAM Rio en una noche previa a Año Nuevo, de 22h a 4h.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
