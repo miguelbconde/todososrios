@@ -1591,6 +1591,39 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não informa preço nem classificação. Pede inscrição pelo site. A fonte não diz quem são os debatedores.",
+   "aviso": "",
+   "titulo": "Doze anos de residência no Brasil – mesa-redonda, Quinta é Cultura",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Mesa-redonda da série Quinta é Cultura, com coordenação do acadêmico Antonio Carlos Secchin. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "trecho_fonte": "Mesa-redonda \"Doze anos de residência no Brasil\" Quinta é Cultura Data e horário: 26 de Novembro de 2026 às 17h30 Coordenação: Acadêmico Antonio Carlos Secchin INSCREVA-SE CLICANDO AQUI",
+   "id": "f-5bf4ed1e3d",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "18:00"
     }
    ],
@@ -1713,6 +1746,22 @@
     {
      "data": "2026-11-29",
      "hora": "18:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
     }
    ],
    "cartaz": null,
@@ -1726,12 +1775,12 @@
    "sinopse": "Palhaçaria e teatro documentário sobre gerações de palhaços anônimos que fizeram a história do circo no Brasil.",
    "fonte": "Sesc RJ (programação oficial)",
    "link": "https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-antes-de-nos",
-   "trecho_fonte": "2026-11-22 18:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | Inteira: R$ 30; Meia: R$ 15 [...] | TEATRO, LIVRE || 2026-11-26 19:00 [...] || 2026-11-27 19:00 [...] || 2026-11-28 19:00 [...] acessibilidade: Libras || 2026-11-29 18:00 [...] acessibilidade: Libras",
-   "nota_redacao": "Sessões novas da agenda oficial do Sesc (ronda de 22/11). A sessão de 19/11 veio da ronda anterior.",
+   "trecho_fonte": "2026-11-26 19:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | Inteira: R$ 30; Meia: R$ 15 [...] | TEATRO, LIVRE || 2026-11-27 19:00 [...] || 2026-11-28 19:00 [...] acessibilidade: Libras || 2026-11-29 18:00 [...] acessibilidade: Libras || 2026-12-03 19:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | TEATRO, LIVRE || 2026-12-04 19:00 [...] || 2026-12-05 19:00 [...] || 2026-12-06 18:00 [...]",
+   "nota_redacao": "Ronda de 26/11: novas sessões de 3 a 6/12. Para essas a agenda não informa o preço; o preço da ficha (R$ 30, meia R$ 15) é o das sessões de novembro. Sessões já passadas (19 e 22/11) retiradas. Libras só em 28 e 29/11. O Sesc ainda não informou o preço das sessões de dezembro; mantido o de novembro.",
    "id": "2026-11-19-115",
    "entrou_em": "2026-11-19",
    "aviso": "",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4161,6 +4210,22 @@
     {
      "data": "2026-11-29",
      "hora": "16:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "16:00"
     }
    ],
    "preco_texto": "R$ 20 (meia R$ 10)",
@@ -4168,9 +4233,9 @@
    "preco_max": 20,
    "gratis": false,
    "classificacao": "Livre",
-   "acessibilidade": "Libras na sessão de 22/11",
+   "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Libras indicada só na sessão de 22/11. Classificação livre.",
+   "nota_redacao": "Ronda de 26/11: novas sessões em 5, 6, 12 e 13/12. Para essas a agenda não informa o preço; o preço da ficha (R$ 20, meia R$ 10) é o das sessões de novembro. A sessão de 22/11 (a única com Libras) já passou e saiu. Classificação livre. O Sesc ainda não informou o preço das sessões de dezembro; mantido o de novembro.",
    "aviso": "",
    "tipo": "evento",
    "titulo": "Cadê o Sobrevento?",
@@ -4184,9 +4249,10 @@
    "sinopse": "Espetáculo que trata do desaparecimento, há 20 anos, do grupo Sobrevento, famoso pelo teatro de bonecos nos anos 90 e início dos 2000, e das pessoas que cobram respostas.",
    "fonte": "Sesc RJ (programação oficial)",
    "link": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento",
-   "trecho_fonte": "2026-11-22 16:00 | Cadê o Sobrevento? | Sesc Tijuca (Tijuca, Zona Norte) | Inteira: R$ 20; Meia: R$ 10 [...] | TEATRO, LIVRE | acessibilidade: Libras || 2026-11-28 16:00 | Cadê o Sobrevento? [...] || 2026-11-29 16:00 | Cadê o Sobrevento? [...] || O mistério do desaparecimento de um grupo de teatro de bonecos, há 20 anos",
+   "trecho_fonte": "2026-11-28 16:00 | Cadê o Sobrevento? | Sesc Tijuca (Tijuca, Zona Norte) | Inteira: R$ 20; Meia: R$ 10 [...] | TEATRO, LIVRE || 2026-11-29 16:00 [...] || 2026-12-05 16:00 | Cadê o Sobrevento? | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | TEATRO, LIVRE || 2026-12-06 16:00 [...] || 2026-12-12 16:00 [...] || 2026-12-13 16:00 [...] || O mistério do desaparecimento de um grupo de teatro de bonecos, há 20 anos",
    "id": "f-811784c086",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6086,6 +6152,40 @@
    "sessoes": [
     {
      "data": "2026-11-30",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Grátis. Endereço tirado da própria fonte: a ficha da base para a Biblioteca Parque de Manguinhos estava com o endereço vazio. A página traz a etiqueta \"Expirado\", que parece ser do sistema do site (a notícia é de 16/11 e o evento é futuro). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Festival PeriferI.A – Conectando saberes, tecnologias e territórios",
+   "areas": [
+    "Livros & Debates",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Parque de Manguinhos",
+   "endereco": "Av. Dom Hélder Câmara, 1.184",
+   "bairro": "Manguinhos",
+   "regiao": "Zona Norte",
+   "sinopse": "Festival feito pela turma 15 do Pró-Cultural, do Museu da Vida Fiocruz: roda de conversa sobre inteligência artificial e cultura periférica às 14h, vogue às 16h, roda de rima às 17h, painel coletivo e exposição de banners.",
+   "fonte": "Museu da Vida Fiocruz (site oficial)",
+   "link": "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2772-festival-perifer-ia-pro-cultural",
+   "trecho_fonte": "Festival PeriferI.A – Conectando saberes, tecnologias e territórios || Quando: 30 de novembro de 2026 (segunda-feira), a partir das 14h || Onde: Biblioteca Parque de Manguinhos – Marielle Franco. Av. Dom Hélder Câmara, 1.184, Manguinhos, Rio de Janeiro. || Entrada gratuita. || A primeira atividade [...] será no Cine Teatro Eduardo Coutinho, às 14h, com a roda de conversa “Usos de I.A. para inovação e sustentabilidade na cultura periférica” [...] Às 16h, o público poderá acompanhar apresentações de Vogue [...] Fechando a programação, às 17h, a Roda de Rima do Pac’stão",
+   "id": "f-dbeb56a60c",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
      "hora": "16:30"
     }
    ],
@@ -6298,6 +6398,39 @@
    "sessoes": [
     {
      "data": "2026-12-01",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não informa preço nem classificação. Pede inscrição pelo site. A fonte não diz quem fala.",
+   "aviso": "",
+   "titulo": "A representação feminina na Academia – conferência",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Conferência sobre a presença das mulheres na Academia Brasileira de Letras. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "trecho_fonte": "A representação feminina na Academia Conferências Data e horário: 1 de Dezembro de 2026 às 16h00 INSCREVA-SE CLICANDO AQUI",
+   "id": "f-3f3da167ec",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
      "hora": "18:00"
     }
    ],
@@ -6325,6 +6458,39 @@
    "id": "f-8446b1e433",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não informa preço (lançamentos na Travessa costumam ser abertos). O texto da fonte foi cortado depois de \"uma seleção de 180\"; a sinopse não diz 180 o quê.",
+   "aviso": "",
+   "titulo": "Lançamento: Margaret Mee – Cadernos de Campo",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Livraria da Travessa – Shopping Leblon",
+   "endereco": "Av. Afrânio de Melo Franco, 290",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "Autógrafos e bate-papo com a organizadora Sylvia de Botton Brautigam e autores de \"Margaret Mee – Cadernos de Campo\", seleção que sai pela primeira vez em livro.",
+   "fonte": "Site da Livraria da Travessa (ronda de 26/11)",
+   "link": "https://www.travessa.com.br/eventos",
+   "trecho_fonte": "01/12 . TERÇA [...] Shopping Leblon | 18:00 MARGARET MEE: CADERNOS DE CAMPO Autor(a): Sylvia de Botton Brautigam AUTÓGRAFOS + BATE-PAPO COM ORGANIZADORES SYLVIA DE BOTTON BRAUTIGAM E AUTORES Margaret Mee – Cadernos de Campo apresenta, pela primeira vez em livro, uma seleção de 180",
+   "id": "f-93f00c4a41",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6407,6 +6573,39 @@
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
+   "nota_redacao": "A fonte não informa preço. Livro de ofício teatral e de roteiro, não de autoajuda.",
+   "aviso": "",
+   "titulo": "Lançamento: Manual do Personagem",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Livraria da Travessa – Botafogo",
+   "endereco": "Rua Voluntários da Pátria, 97",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Carlos Gregorio autografa e conversa sobre \"Manual do Personagem: um guia para atores, diretores e roteiristas\", que trata do que faz um personagem parecer vivo.",
+   "fonte": "Site da Livraria da Travessa (ronda de 26/11)",
+   "link": "https://www.travessa.com.br/eventos",
+   "trecho_fonte": "01/12 . TERÇA [...] Botafogo | 19:00 MANUAL DO PERSONAGEM: UM GUIA PARA ATORES, DIRETORES E ROTEIRISTAS Autor(a): Carlos Gregorio AUTÓGRAFOS + BATE-PAPO COM AUTOR O que faz um personagem parecer vivo enquanto outros não passam de clichê?",
+   "id": "f-0d057df3e2",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
    "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.",
    "aviso": "",
    "titulo": "Ensaio aberto: X-I-N’TEA",
@@ -6424,6 +6623,39 @@
    "trecho_fonte": "2026-12-01 19:00 até 2026-12-01 19:00 | Ensaio aberto: X-I-N’TEA | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130300",
    "id": "f-5f105e75e1",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Acessibilidade estrutural",
+   "na_rua": false,
+   "nota_redacao": "A agenda do Sesc não informa o preço desta sessão: campo de preço vazio.",
+   "aviso": "",
+   "titulo": "Viva Caymmi",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Danilo Caymmi canta e conta histórias da obra do pai, Dorival Caymmi, acompanhado só pelo violão do maestro Flávio Mendes.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/viva-caymmi",
+   "trecho_fonte": "2026-12-01 19:00 | VIVA CAYMMI | Sesc Copacabana (Copacabana, Zona Sul) | preço não informado | MÚSICA, LIVRE | acessibilidade: Acessibilidade Estrutural | [...] Danilo Caymmi canta e conta as histórias, as melodias e os afetos que moldaram a obra de seu pai, Dorival Caymmi [...] Acompanhado apenas pelo violão do maestro Flávio Mendes",
+   "id": "f-b39926a98a",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7067,6 +7299,39 @@
    "sessoes": [
     {
      "data": "2026-12-03",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não informa preço nem classificação. Pede inscrição pelo site. A fonte não diz quem lê nem quais textos; a sinopse se limita ao título.",
+   "aviso": "",
+   "titulo": "O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Encontro da série Quinta é Cultura com leituras de ficção em voz alta. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "trecho_fonte": "O Rabo da Lagartixa, ficções em voz alta Quinta é Cultura Data e horário: 3 de Dezembro de 2026 às 17h30 INSCREVA-SE CLICANDO AQUI",
+   "id": "f-5ac17a363c",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
      "hora": "19:00"
     }
    ],
@@ -7448,6 +7713,51 @@
    "trecho_fonte": "2026-12-03 20:00 até 2026-12-03 23:00 | Audio Rebel Jazz apresenta: João Donato In Jazz | Audio Rebel, Rua Visconde Silva Botafogo | organizador: Audio Rebel | https://www.sympla.com.br/evento/audio-rebel-jazz-apresenta-joao-donato-in-jazz/3661043",
    "id": "f-4c351d9ab5",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Acessibilidade estrutural",
+   "na_rua": false,
+   "nota_redacao": "Circo, na seção Teatro. A agenda do Sesc não informa o preço: campo de preço vazio.",
+   "aviso": "",
+   "titulo": "{FÉ}STA",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo de circo do Coletivo Prot{agô}nistas, com acrobacias, dança e música, organizado em torno de morte, nascimento, união e fé.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/festa",
+   "trecho_fonte": "2026-12-03 20:00 | {FÉ}STA | Sesc Copacabana (Copacabana, Zona Sul) | preço não informado | CIRCO, LIVRE | acessibilidade: Acessibilidade Estrutural [...] || 2026-12-04 20:00 [...] || 2026-12-05 18:00 [...] || 2026-12-06 18:00 [...] | {FÉ}STA é um espetáculo circense que transforma o picadeiro em um espaço traçado pelo ritual de quatro pontos inerentes à condição humana: morte, nascimento, união e fé. Entre acrobacias, dança e música, o Coletivo Prot{agô}nistas",
+   "id": "f-a545bbdf78",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8405,6 +8715,39 @@
    "sessoes": [
     {
      "data": "2026-12-05",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Grátis. A fonte cita guiamento do grupo Contos da Guia, mas não diz se parte da atividade acontece fora da unidade; local mantido como Sesc Tijuca e sem marca de \"Na rua\".",
+   "aviso": "",
+   "titulo": "Um Defeito de Cor na Pequena África",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Encontro do Clube de Leitura do Sesc Tijuca sobre \"Um Defeito de Cor\", de Ana Maria Gonçalves, em roda de conversa mediada por Carla Nascimento, com guiamento do grupo Contos da Guia.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/um-defeito-de-cor-na-pequena-africa",
+   "trecho_fonte": "2026-12-05 14:00 | Um Defeito de Cor na Pequena África | Sesc Tijuca (Tijuca, Zona Norte) | grátis | 16 ANOS, GRÁTIS | [...] O Clube de Leitura do Sesc Tijuca [...] o livro “Um Defeito de Cor”, de Ana Maria Gonçalves [...] Os encontros são mediados por Carla Nascimento, em rodas de conversa abertas [...] O guiamento será do grupo Contos da Guia.",
+   "id": "f-a1a4cb66cb",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
      "hora": "16:00"
     },
     {
@@ -9313,6 +9656,105 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-07",
+     "hora": "08:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Aberto a interessados, grátis e sem inscrição prévia, segundo a fonte. Das 8h30 às 16h30 (workshops das 14h às 16h). Fica no campus da Fiocruz em Manguinhos. Classificação não informada. A página traz a etiqueta \"Expirado\", que parece ser do sistema do site.",
+   "aviso": "",
+   "titulo": "Saúde & Ciências em Jogo",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Escola Politécnica de Saúde Joaquim Venâncio (Fiocruz)",
+   "endereco": "Av. Brasil, 4.365",
+   "bairro": "Manguinhos",
+   "regiao": "Zona Norte",
+   "sinopse": "Primeira edição de um encontro sobre jogos de tabuleiro e digitais na divulgação científica: palestra, mesa com pesquisadores, lançamento de dois jogos para experimentar e, à tarde, workshops simultâneos.",
+   "fonte": "Museu da Vida Fiocruz (site oficial)",
+   "link": "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2778-evento-fiocruz-criacao-jogos",
+   "trecho_fonte": "No dia 7 de dezembro, [...] realizam a primeira edição do encontro ‘Saúde & Ciências em Jogo’. O evento é gratuito, voltado para educadores, divulgadores da ciência, pesquisadores, designers e demais interessados no assunto. Não há inscrição prévia. || Data: 07 de dezembro de 2026 || Horário: 8h30 a 16h30 || Local: Escola Politécnica de Saúde Joaquim Venâncio (Av. Brasil, 4.365, Manguinhos - Rio de Janeiro – RJ)",
+   "id": "f-88b8321d33",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não informa preço nem classificação. Pede inscrição pelo site. A fonte não diz quem fala.",
+   "aviso": "",
+   "titulo": "A Academia e a pose da imortalidade – conferência",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Conferência sobre a Academia Brasileira de Letras e a imagem de imortalidade dos acadêmicos. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "trecho_fonte": "A Academia e a pose da imortalidade Conferências Data e horário: 8 de Dezembro de 2026 às 16h00 INSCREVA-SE CLICANDO AQUI",
+   "id": "f-c5f5cae5f6",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A agenda do Sesc não informa o preço: campo de preço vazio.",
+   "aviso": "",
+   "titulo": "Nama Pariret – Mawaca em Cena",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "O grupo paulistano Mawaca apresenta o show do oitavo álbum, \"Nama Pariret\", com cantos femininos de várias partes do mundo e as seis cantoras na percussão.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/nama-pariret-mawaca-em-cena",
+   "trecho_fonte": "2026-12-08 19:00 | Nama Pariret – Mawaca em Cena | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | MÚSICA, LIVRE | [...] apresenta o show do seu oitavo álbum “Nama Pariret” - uma viagem aos cantos femininos de várias partes do mundo, com as seis cantoras do grupo assumindo a percussão",
+   "id": "f-138ca17969",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-08",
      "hora": "19:00"
     }
@@ -9519,6 +9961,39 @@
      "hora": "19:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Grátis. A peça nasceu no Laboratório Cênico (processo de criação colaborativo); entrou como espetáculo, não como apresentação de curso.",
+   "aviso": "",
+   "titulo": "Nasce uma FrankStella",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Peça de terror cômico com bonecos, objetos e máscaras sobre uma criatura feita em busca da perfeição artística. Direção de Márcio Nascimento; criada no Laboratório Cênico.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/nasce-uma-frankstella",
+   "trecho_fonte": "2026-12-09 19:00 | Nasce uma FrankStella | Sesc Tijuca (Tijuca, Zona Norte) | grátis | TEATRO, 16 ANOS, GRÁTIS | [...] Nesta peça de terror cômico, que mistura bonecos, objetos e máscaras [...] Fruto de um processo colaborativo de criação desenvolvido no Laboratório Cênico, o espetáculo tem direção de Márcio Nascimento e supervisão artística de Cleyton Diirr.",
+   "id": "f-15df418f78",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
+     "hora": "19:00"
+    }
+   ],
    "preco_texto": "R$ 30",
    "preco_min": 30,
    "preco_max": 30,
@@ -9675,6 +10150,39 @@
    "trecho_fonte": "2026-12-10 17:30 até 2026-12-10 18:30 | Quarteto Jequitibá na Série Vitrine Musical UNIRIO no Saguão do CCJF-RJ | Centro Cultural Justiça Federal, Avenida Rio Branco Centro | organizador: Sérgio Barrenechea | https://www.sympla.com.br/evento/quarteto-jequitiba-na-serie-vitrine-musical-unirio-no-saguao-do-ccjf-rj/3532443",
    "id": "f-51fccee40a",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não informa preço nem classificação. Pede inscrição pelo site.",
+   "aviso": "",
+   "titulo": "Victor Giudice e a ficção: o insólito que habita o cotidiano – Quinta é Cultura",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Encontro da série Quinta é Cultura sobre a ficção de Victor Giudice e o insólito no cotidiano. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "trecho_fonte": "Victor Giudice e a ficção: o insólito que habita o cotidiano Quinta é Cultura Data e horário: 10 de Dezembro de 2026 às 17h30 INSCREVA-SE CLICANDO AQUI",
+   "id": "f-c263ccf73d",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -10481,6 +10989,39 @@
    "trecho_fonte": "2026-12-12 14:00 até 2026-12-12 14:00 | Cineclube Adélia Sampaio | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130380",
    "id": "f-cc108ee630",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Grátis. A fonte não diz se é preciso inscrição.",
+   "aviso": "",
+   "titulo": "Encontro com a Escritora Ana Maria Gonçalves",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Encontro com Ana Maria Gonçalves, autora de \"Um Defeito de Cor\", que encerra a temporada de 2026 do Clube de Leitura do Sesc Tijuca.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/encontro-com-a-escritora-ana-maria-goncalves",
+   "trecho_fonte": "2026-12-12 14:00 | Encontro com a Escritora Ana Maria Gonçalves | Sesc Tijuca (Tijuca, Zona Norte) | grátis | 16 ANOS, GRÁTIS | [...] Esta atividade encerra a temporada de 2026 do Clube de Leitura Sesc Tijuca e culmina com o encontro com a escritora Ana Maria Gonçalves, autora do livro “Um Defeito de Cor”.",
+   "id": "f-ec15ec44a5",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -13066,6 +13607,67 @@
    "sessoes": [
     {
      "data": "2027-01-14",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 25",
+   "preco_min": 25,
+   "preco_max": 25,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Temporada de 14/1 a 14/2 sem os dias: sessões presumidas de quinta a domingo (aviso de dias). A Sympla dá 20h na estreia (quinta) e 19h30 na última sessão (domingo); por isso pus 20h de quinta a sábado e 19h30 aos domingos, também presumido. Não há outra fonte na ronda com os dias. O site só dá o preço inicial.",
+   "aviso": "dias",
+   "titulo": "Percy Jackson – O Ladrão de Raios: O Musical",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Multiplan",
+   "endereco": "Av. das Américas, 3.900",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Musical baseado em \"Percy Jackson – O Ladrão de Raios\", que chega ao Rio depois de temporada em São Paulo, com 120 minutos.",
+   "fonte": "Site do Teatro Multiplan (ronda de 26/11)",
+   "link": "https://teatromultiplan.com.br/eventos/percy-jackson-musical-2026/",
+   "trecho_fonte": "Percy Jackson - O Ladrão de Raios Estreia 14 de janeiro [...] desembarca no Teatro Multiplan, no VillageMall, com estreia em 14 de janeiro [...] Após uma temporada de sucesso em São Paulo [...] Duração 120 min Classificação etária Livre Ingressos a partir de a partir de R$ 25 || (Sympla) 2027-01-14 20:00 até 2027-02-14 19:30 | Percy Jackson - O Ladrão de Raios: O Musical | Teatro Multiplan - VillageMall [...] https://bileto.sympla.com.br/event/130298",
+   "id": "f-abce1b60e3",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-14",
      "hora": "20:30"
     }
    ],
@@ -13390,6 +13992,39 @@
    "trecho_fonte": "2027-01-20 13:00 até 2027-01-20 22:00 | Feijoada do Samba de Caboclo - Feriado de São Sebastião | Soulbrado, Estrada de Jacarepaguá Anil | organizador: Paulo Cesar",
    "id": "f-c8a5c9df7e",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-20",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "A partir de R$ 110",
+   "preco_min": 110,
+   "preco_max": 110,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site do teatro não dá a hora; as 20h vêm da página de venda oficial na Sympla (bileto). O site só dá o preço inicial.",
+   "aviso": "",
+   "titulo": "Iron Maiden Symphonic – The Beast Experience",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Multiplan",
+   "endereco": "Av. das Américas, 3.900",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "O grupo The Beast Experience, com o vocalista Raphael Mendes, faz tributo ao Iron Maiden com orquestra, cenários e figurinos.",
+   "fonte": "Site do Teatro Multiplan (ronda de 26/11)",
+   "link": "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
+   "trecho_fonte": "Iron Maiden Symphonic 20 de janeiro [...] Show reúne o grupo The Beast Experience e o vocalista Raphael Mendes [...] Duração 120 min Classificação etária Livre Ingressos a partir de a partir de R$ 110,00 || (Sympla) 2027-01-20 20:00 até 2027-01-20 20:00 | IRON MAIDEN SYMPHONIC | Teatro Multiplan - VillageMall, AV. DAS AMÉRICAS, 3900 - PISO SS1 | organizador: MULTIPLAN EMPREENDIMENTOS RJ | https://bileto.sympla.com.br/event/128287",
+   "id": "f-48455faef8",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,

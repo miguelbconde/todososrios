@@ -5,7 +5,7 @@
   "fim": "2027-01-25",
   "titulo": "Programação de hoje até 25 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-26T03:26-03:00",
+ "atualizado_em": "2026-11-26T05:56-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -1693,6 +1693,41 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Doze anos de residência no Brasil – mesa-redonda, Quinta é Cultura",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Mesa-redonda da série Quinta é Cultura, com coordenação do acadêmico Antonio Carlos Secchin. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "id": "f-5bf4ed1e3d",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Round table in the Quinta é Cultura series, coordinated by academician Antonio Carlos Secchin. Registration through the Academy's website.",
+   "sinopse_es": "Mesa redonda de la serie Quinta é Cultura, coordinada por el académico Antonio Carlos Secchin. La inscripción se hace en el sitio de la Academia.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "18:00"
     }
    ],
@@ -1821,6 +1856,22 @@
     {
      "data": "2026-11-29",
      "hora": "18:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
     }
    ],
    "cartaz": null,
@@ -1837,7 +1888,7 @@
    "id": "2026-11-19-115",
    "entrou_em": "2026-11-19",
    "aviso": "",
-   "atualizado_em": "2026-11-22",
+   "atualizado_em": "2026-11-26",
    "sinopse_en": "Clowning and documentary theatre about generations of anonymous clowns who made the history of the circus in Brazil.",
    "sinopse_es": "Clown y teatro documental sobre generaciones de payasos anónimos que hicieron la historia del circo en Brasil.",
    "faixa": "popular",
@@ -4395,6 +4446,22 @@
     {
      "data": "2026-11-29",
      "hora": "16:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "16:00"
     }
    ],
    "preco_texto": "R$ 20 (meia R$ 10)",
@@ -4402,7 +4469,7 @@
    "preco_max": 20,
    "gratis": false,
    "classificacao": "Livre",
-   "acessibilidade": "Libras na sessão de 22/11",
+   "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
    "tipo": "evento",
@@ -4419,6 +4486,7 @@
    "link": "https://cultura.sescrio.org.br/programacao/cade-o-sobrevento",
    "id": "f-811784c086",
    "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26",
    "sinopse_en": "A show about the disappearance, 20 years ago, of the Sobrevento group, famous for puppet theatre in the 1990s and early 2000s, and the people demanding answers.",
    "sinopse_es": "Espectáculo sobre la desaparición, hace 20 años, del grupo Sobrevento, famoso por el teatro de títeres en los años 90 y comienzos de los 2000, y de las personas que exigen respuestas.",
    "faixa": "popular",
@@ -6432,6 +6500,42 @@
    "sessoes": [
     {
      "data": "2026-11-30",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival PeriferI.A – Conectando saberes, tecnologias e territórios",
+   "areas": [
+    "Livros & Debates",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Parque de Manguinhos",
+   "endereco": "Av. Dom Hélder Câmara, 1.184",
+   "bairro": "Manguinhos",
+   "regiao": "Zona Norte",
+   "sinopse": "Festival feito pela turma 15 do Pró-Cultural, do Museu da Vida Fiocruz: roda de conversa sobre inteligência artificial e cultura periférica às 14h, vogue às 16h, roda de rima às 17h, painel coletivo e exposição de banners.",
+   "fonte": "Museu da Vida Fiocruz (site oficial)",
+   "link": "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2772-festival-perifer-ia-pro-cultural",
+   "id": "f-dbeb56a60c",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Festival organized by the 15th class of Pró-Cultural, from Museu da Vida Fiocruz: a conversation circle on artificial intelligence and peripheral culture at 2pm, vogue at 4pm, a rhyme circle at 5pm, a collective mural and a banner exhibition.",
+   "sinopse_es": "Festival hecho por la turma 15 del Pró-Cultural, del Museu da Vida Fiocruz: rueda de conversación sobre inteligencia artificial y cultura periférica a las 14h, vogue a las 16h, rueda de rima a las 17h, panel colectivo y exposición de banners.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
      "hora": "16:30"
     }
    ],
@@ -6656,6 +6760,41 @@
    "sessoes": [
     {
      "data": "2026-12-01",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "A representação feminina na Academia – conferência",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Conferência sobre a presença das mulheres na Academia Brasileira de Letras. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "id": "f-3f3da167ec",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Lecture on the presence of women in the Academia Brasileira de Letras. Registration through the Academy's website.",
+   "sinopse_es": "Conferencia sobre la presencia de las mujeres en la Academia Brasileira de Letras. La inscripción se hace en el sitio de la Academia.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
      "hora": "18:00"
     }
    ],
@@ -6683,6 +6822,41 @@
    "atualizado_em": "2026-11-25",
    "sinopse_en": "Tuesday pagode at Praça Tiradentes, downtown, from 6:30 pm into the early hours.",
    "sinopse_es": "Pagode de los martes en la Praça Tiradentes, en el Centro, desde las 18:30 hasta la madrugada.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Lançamento: Margaret Mee – Cadernos de Campo",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Livraria da Travessa – Shopping Leblon",
+   "endereco": "Av. Afrânio de Melo Franco, 290",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "Autógrafos e bate-papo com a organizadora Sylvia de Botton Brautigam e autores de \"Margaret Mee – Cadernos de Campo\", seleção que sai pela primeira vez em livro.",
+   "fonte": "Site da Livraria da Travessa (ronda de 26/11)",
+   "link": "https://www.travessa.com.br/eventos",
+   "id": "f-93f00c4a41",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Book signing and talk with editor Sylvia de Botton Brautigam and authors of \"Margaret Mee – Cadernos de Campo\", a selection published in book form for the first time.",
+   "sinopse_es": "Firma de libros y charla con la organizadora Sylvia de Botton Brautigam y autores de \"Margaret Mee – Cadernos de Campo\", selección que se publica por primera vez en libro.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -6772,6 +6946,41 @@
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
+   "titulo": "Lançamento: Manual do Personagem",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Livraria da Travessa – Botafogo",
+   "endereco": "Rua Voluntários da Pátria, 97",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "Carlos Gregorio autografa e conversa sobre \"Manual do Personagem: um guia para atores, diretores e roteiristas\", que trata do que faz um personagem parecer vivo.",
+   "fonte": "Site da Livraria da Travessa (ronda de 26/11)",
+   "link": "https://www.travessa.com.br/eventos",
+   "id": "f-0d057df3e2",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Carlos Gregorio signs and talks about \"Manual do Personagem: um guia para atores, diretores e roteiristas\", which looks at what makes a character seem alive.",
+   "sinopse_es": "Carlos Gregorio firma y conversa sobre \"Manual do Personagem: um guia para atores, diretores e roteiristas\", que trata de lo que hace que un personaje parezca vivo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
    "titulo": "Ensaio aberto: X-I-N’TEA",
    "areas": [
     "Teatro"
@@ -6788,6 +6997,41 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "Open rehearsal of \"X-I-N’TEA\" at the Centro Coreográfico da Cidade, in Tijuca.",
    "sinopse_es": "Ensayo abierto de \"X-I-N’TEA\" en el Centro Coreográfico da Cidade, en Tijuca.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Acessibilidade estrutural",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Viva Caymmi",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Danilo Caymmi canta e conta histórias da obra do pai, Dorival Caymmi, acompanhado só pelo violão do maestro Flávio Mendes.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/viva-caymmi",
+   "id": "f-b39926a98a",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Danilo Caymmi sings and tells stories about the work of his father, Dorival Caymmi, accompanied only by the guitar of maestro Flávio Mendes.",
+   "sinopse_es": "Danilo Caymmi canta y cuenta historias de la obra de su padre, Dorival Caymmi, acompañado solo por la guitarra del maestro Flávio Mendes.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -7469,6 +7713,41 @@
    "sessoes": [
     {
      "data": "2026-12-03",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Encontro da série Quinta é Cultura com leituras de ficção em voz alta. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "id": "f-5ac17a363c",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Quinta é Cultura session with fiction read aloud. Registration through the Academy's website.",
+   "sinopse_es": "Encuentro de la serie Quinta é Cultura con lecturas de ficción en voz alta. La inscripción se hace en el sitio de la Academia.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
      "hora": "19:00"
     }
    ],
@@ -7866,6 +8145,53 @@
    "entrou_em": "2026-11-23",
    "sinopse_en": "The \"João Donato In Jazz\" night in the Audio Rebel Jazz series, in Botafogo.",
    "sinopse_es": "Noche \"João Donato In Jazz\" en la serie Audio Rebel Jazz, en Botafogo.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Acessibilidade estrutural",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "{FÉ}STA",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo de circo do Coletivo Prot{agô}nistas, com acrobacias, dança e música, organizado em torno de morte, nascimento, união e fé.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/festa",
+   "id": "f-a545bbdf78",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Circus show by Coletivo Prot{agô}nistas, with acrobatics, dance and music, built around death, birth, union and faith.",
+   "sinopse_es": "Espectáculo de circo del Coletivo Prot{agô}nistas, con acrobacias, danza y música, organizado en torno a la muerte, el nacimiento, la unión y la fe.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -8873,6 +9199,41 @@
    "sessoes": [
     {
      "data": "2026-12-05",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Um Defeito de Cor na Pequena África",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Encontro do Clube de Leitura do Sesc Tijuca sobre \"Um Defeito de Cor\", de Ana Maria Gonçalves, em roda de conversa mediada por Carla Nascimento, com guiamento do grupo Contos da Guia.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/um-defeito-de-cor-na-pequena-africa",
+   "id": "f-a1a4cb66cb",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Meeting of the Sesc Tijuca Reading Club on \"Um Defeito de Cor\", by Ana Maria Gonçalves, in a conversation circle mediated by Carla Nascimento, guided by the group Contos da Guia.",
+   "sinopse_es": "Encuentro del Club de Lectura del Sesc Tijuca sobre \"Um Defeito de Cor\", de Ana Maria Gonçalves, en rueda de conversación mediada por Carla Nascimento, con guía del grupo Contos da Guia.",
+   "faixa": "gratis",
+   "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
      "hora": "16:00"
     },
     {
@@ -9833,6 +10194,111 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-07",
+     "hora": "08:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Saúde & Ciências em Jogo",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Escola Politécnica de Saúde Joaquim Venâncio (Fiocruz)",
+   "endereco": "Av. Brasil, 4.365",
+   "bairro": "Manguinhos",
+   "regiao": "Zona Norte",
+   "sinopse": "Primeira edição de um encontro sobre jogos de tabuleiro e digitais na divulgação científica: palestra, mesa com pesquisadores, lançamento de dois jogos para experimentar e, à tarde, workshops simultâneos.",
+   "fonte": "Museu da Vida Fiocruz (site oficial)",
+   "link": "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2778-evento-fiocruz-criacao-jogos",
+   "id": "f-88b8321d33",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "First edition of a meeting on board and digital games in science communication: a talk, a panel with researchers, the launch of two games to try out and, in the afternoon, simultaneous workshops.",
+   "sinopse_es": "Primera edición de un encuentro sobre juegos de mesa y digitales en la divulgación científica: charla, mesa con investigadores, lanzamiento de dos juegos para probar y, por la tarde, talleres simultáneos.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "A Academia e a pose da imortalidade – conferência",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Conferência sobre a Academia Brasileira de Letras e a imagem de imortalidade dos acadêmicos. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "id": "f-c5f5cae5f6",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Lecture on the Academia Brasileira de Letras and the image of its members' immortality. Registration through the Academy's website.",
+   "sinopse_es": "Conferencia sobre la Academia Brasileira de Letras y la imagen de inmortalidad de los académicos. La inscripción se hace en el sitio de la Academia.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-08",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Nama Pariret – Mawaca em Cena",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "O grupo paulistano Mawaca apresenta o show do oitavo álbum, \"Nama Pariret\", com cantos femininos de várias partes do mundo e as seis cantoras na percussão.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/nama-pariret-mawaca-em-cena",
+   "id": "f-138ca17969",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The São Paulo group Mawaca presents the show of its eighth album, \"Nama Pariret\", with women's songs from various parts of the world and the six singers on percussion.",
+   "sinopse_es": "El grupo paulista Mawaca presenta el show de su octavo álbum, \"Nama Pariret\", con cantos femeninos de varias partes del mundo y las seis cantantes en la percusión.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-08",
      "hora": "19:00"
     }
@@ -10051,6 +10517,41 @@
      "hora": "19:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Nasce uma FrankStella",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Peça de terror cômico com bonecos, objetos e máscaras sobre uma criatura feita em busca da perfeição artística. Direção de Márcio Nascimento; criada no Laboratório Cênico.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/nasce-uma-frankstella",
+   "id": "f-15df418f78",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Comic horror play with puppets, objects and masks about a creature made in pursuit of artistic perfection. Directed by Márcio Nascimento; created at the Laboratório Cênico.",
+   "sinopse_es": "Obra de terror cómico con títeres, objetos y máscaras sobre una criatura creada en busca de la perfección artística. Dirección de Márcio Nascimento; creada en el Laboratório Cênico.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-09",
+     "hora": "19:00"
+    }
+   ],
    "preco_texto": "R$ 30",
    "preco_min": 30,
    "preco_max": 30,
@@ -10215,6 +10716,41 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "Quarteto Jequitibá plays in the lobby of the Centro Cultural da Justiça Federal, in the Vitrine Musical UNIRIO series, from 5:30 to 6:30 pm.",
    "sinopse_es": "El Quarteto Jequitibá toca en el vestíbulo del Centro Cultural da Justiça Federal, en la serie Vitrine Musical UNIRIO, de 17:30 a 18:30 h.",
+   "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-10",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Victor Giudice e a ficção: o insólito que habita o cotidiano – Quinta é Cultura",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Academia Brasileira de Letras (ABL)",
+   "endereco": "Av. Presidente Wilson, 203",
+   "bairro": "Centro (Castelo)",
+   "regiao": "Centro",
+   "sinopse": "Encontro da série Quinta é Cultura sobre a ficção de Victor Giudice e o insólito no cotidiano. A inscrição é feita pelo site da Academia.",
+   "fonte": "Site da ABL (ronda de 26/11)",
+   "link": "https://academia.org.br/eventos",
+   "id": "f-c263ccf73d",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Quinta é Cultura session on Victor Giudice's fiction and the uncanny in everyday life. Registration through the Academy's website.",
+   "sinopse_es": "Encuentro de la serie Quinta é Cultura sobre la ficción de Victor Giudice y lo insólito en lo cotidiano. La inscripción se hace en el sitio de la Academia.",
    "faixa": "nao_informado",
    "status": "conferido"
   },
@@ -11066,6 +11602,41 @@
    "sinopse_en": "Cineclube Adélia Sampaio screening at Arena Cultural Dicró, in Penha.",
    "sinopse_es": "Sesión del Cineclube Adélia Sampaio en la Arena Cultural Dicró, en Penha.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-12",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Encontro com a Escritora Ana Maria Gonçalves",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Encontro com Ana Maria Gonçalves, autora de \"Um Defeito de Cor\", que encerra a temporada de 2026 do Clube de Leitura do Sesc Tijuca.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/encontro-com-a-escritora-ana-maria-goncalves",
+   "id": "f-ec15ec44a5",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Meeting with Ana Maria Gonçalves, author of \"Um Defeito de Cor\", closing the 2026 season of the Sesc Tijuca Reading Club.",
+   "sinopse_es": "Encuentro con Ana Maria Gonçalves, autora de \"Um Defeito de Cor\", que cierra la temporada 2026 del Club de Lectura del Sesc Tijuca.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -13790,6 +14361,69 @@
    "sessoes": [
     {
      "data": "2027-01-14",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "19:30"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 25",
+   "preco_min": 25,
+   "preco_max": 25,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "dias",
+   "titulo": "Percy Jackson – O Ladrão de Raios: O Musical",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Multiplan",
+   "endereco": "Av. das Américas, 3.900",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Musical baseado em \"Percy Jackson – O Ladrão de Raios\", que chega ao Rio depois de temporada em São Paulo, com 120 minutos.",
+   "fonte": "Site do Teatro Multiplan (ronda de 26/11)",
+   "link": "https://teatromultiplan.com.br/eventos/percy-jackson-musical-2026/",
+   "id": "f-abce1b60e3",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Musical based on \"Percy Jackson – O Ladrão de Raios\", arriving in Rio after a season in São Paulo, 120 minutes long.",
+   "sinopse_es": "Musical basado en \"Percy Jackson – O Ladrão de Raios\", que llega a Río después de una temporada en São Paulo, de 120 minutos.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-14",
      "hora": "20:30"
     }
    ],
@@ -14133,6 +14767,41 @@
    "sinopse_en": "Feijoada do Samba de Caboclo at Soulbrado, in Anil, on the São Sebastião holiday.",
    "sinopse_es": "Feijoada do Samba de Caboclo en el Soulbrado, en Anil, en el feriado de San Sebastián.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-20",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "A partir de R$ 110",
+   "preco_min": 110,
+   "preco_max": 110,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Iron Maiden Symphonic – The Beast Experience",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Multiplan",
+   "endereco": "Av. das Américas, 3.900",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "O grupo The Beast Experience, com o vocalista Raphael Mendes, faz tributo ao Iron Maiden com orquestra, cenários e figurinos.",
+   "fonte": "Site do Teatro Multiplan (ronda de 26/11)",
+   "link": "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
+   "id": "f-48455faef8",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The group The Beast Experience, with singer Raphael Mendes, performs an Iron Maiden tribute with orchestra, sets and costumes.",
+   "sinopse_es": "El grupo The Beast Experience, con el vocalista Raphael Mendes, hace un tributo a Iron Maiden con orquesta, escenografía y vestuario.",
+   "faixa": "acima80",
    "status": "conferido"
   },
   {

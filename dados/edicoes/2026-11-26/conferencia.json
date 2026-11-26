@@ -550,6 +550,46 @@
    "veredito": "diverge",
    "detalhe": "Show às 15h chamado de 'noite'.",
    "resolucao": "Corrigido: 'dia' no lugar de 'noite'."
+  },
+  {
+   "titulo": "Nasce uma FrankStella",
+   "campo": "criterios",
+   "veredito": "duvida",
+   "detalhe": "peça nascida do Laboratório Cênico do Sesc; pode ser mostra de curso",
+   "resolucao": "Mantido: espetáculo com direção e supervisão artística, na programação oficial",
+   "id": "f-15df418f78"
+  },
+  {
+   "titulo": "Um Defeito de Cor na Pequena África",
+   "campo": "local",
+   "veredito": "duvida",
+   "detalhe": "o título e o \"guiamento\" do grupo Contos da Guia sugerem percurso pela Pequena África; a fonte não diz o ponto de encontro",
+   "resolucao": "",
+   "id": "f-a1a4cb66cb"
+  },
+  {
+   "id": "2026-11-19-115",
+   "titulo": "La Strada – Os Que Vieram Antes de Nós",
+   "campo": "preco",
+   "veredito": "duvida",
+   "detalhe": "agenda do Sesc diz \"preço não informado\" nas sessões de dezembro",
+   "resolucao": "Mantido: preço de novembro, com aviso na nota"
+  },
+  {
+   "id": "f-811784c086",
+   "titulo": "Cadê o Sobrevento?",
+   "campo": "preco",
+   "veredito": "duvida",
+   "detalhe": "agenda do Sesc diz \"preço não informado\" nas sessões de dezembro",
+   "resolucao": "Mantido: preço de novembro, com aviso na nota"
+  },
+  {
+   "titulo": "Lançamento: Manual do Personagem",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"em cena\" não está na fonte",
+   "resolucao": "Corrigido: tirado \"em cena\"",
+   "id": "f-0d057df3e2"
   }
  ]
 }

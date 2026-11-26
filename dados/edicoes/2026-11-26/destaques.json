@@ -102,13 +102,13 @@
     "automatico": true
    },
    {
-    "id": "f-e4798b7411",
-    "porque": "Em Vista Alegre.",
+    "id": "f-5ac17a363c",
+    "porque": "Em Centro (Castelo).",
     "automatico": true
    },
    {
-    "id": "f-0a59a101f5",
-    "porque": "Em Penha Circular.",
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
     "automatico": true
    }
   ],
@@ -119,8 +119,8 @@
     "automatico": true
    },
    {
-    "id": "f-176da8f5f3",
-    "porque": "Em Centro.",
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
     "automatico": true
    },
    {
@@ -141,8 +141,8 @@
     "automatico": true
    },
    {
-    "id": "f-f47b3902e1",
-    "porque": "De graça, em Madureira.",
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
     "automatico": true
    }
   ],
@@ -153,8 +153,8 @@
     "automatico": true
    },
    {
-    "id": "f-0d86b3e831",
-    "porque": "Em Bangu.",
+    "id": "2026-11-19-115",
+    "porque": "A preço popular, em Tijuca.",
     "automatico": true
    },
    {
@@ -164,6 +164,11 @@
    }
   ],
   "2026-12-07": [
+   {
+    "id": "f-88b8321d33",
+    "porque": "De graça, em Manguinhos.",
+    "automatico": true
+   },
    {
     "id": "f-d7cbeae19c",
     "porque": "Em Centro.",
@@ -182,8 +187,8 @@
     "automatico": true
    },
    {
-    "id": "f-abe3a23c33",
-    "porque": "Em Leblon.",
+    "id": "f-138ca17969",
+    "porque": "Em Tijuca.",
     "automatico": true
    }
   ],
@@ -199,8 +204,8 @@
     "automatico": true
    },
    {
-    "id": "f-abe3a23c33",
-    "porque": "Em Leblon.",
+    "id": "f-15df418f78",
+    "porque": "De graça, em Tijuca.",
     "automatico": true
    }
   ],
@@ -216,8 +221,8 @@
     "automatico": true
    },
    {
-    "id": "f-c10bff36d2",
-    "porque": "De graça, em Centro.",
+    "id": "f-c263ccf73d",
+    "porque": "Em Centro (Castelo).",
     "automatico": true
    }
   ],
@@ -245,8 +250,8 @@
     "automatico": true
    },
    {
-    "id": "f-b945f69659",
-    "porque": "Em Tijuca.",
+    "id": "f-811784c086",
+    "porque": "A preço popular, em Tijuca.",
     "automatico": true
    },
    {
@@ -267,8 +272,8 @@
     "automatico": true
    },
    {
-    "id": "f-e7300b7d46",
-    "porque": "A preço popular, em Centro (Cinelândia).",
+    "id": "f-811784c086",
+    "porque": "A preço popular, em Tijuca.",
     "automatico": true
    }
   ],
@@ -597,13 +602,13 @@
     "automatico": true
    },
    {
-    "id": "f-ea4cefe17f",
-    "porque": "Em Cocotá (Ilha do Governador).",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
-    "porque": "Em Centro.",
+    "id": "f-ea4cefe17f",
+    "porque": "Em Cocotá (Ilha do Governador).",
     "automatico": true
    }
   ],
@@ -614,13 +619,13 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-f16a9f483b",
-    "porque": "Em Bangu.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -631,13 +636,13 @@
     "automatico": true
    },
    {
-    "id": "f-47a736f90a",
-    "porque": "Em Pechincha.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-b32caf22f6",
-    "porque": "Em Realengo.",
+    "id": "f-47a736f90a",
+    "porque": "Em Pechincha.",
     "automatico": true
    }
   ],
@@ -648,12 +653,12 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
+    "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
    }
@@ -679,17 +684,27 @@
   ],
   "2027-01-20": [
    {
-    "id": "f-c8a5c9df7e",
-    "porque": "Em Anil.",
+    "id": "f-48455faef8",
+    "porque": "Em Barra da Tijuca.",
     "automatico": true
    },
    {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
     "automatico": true
+   },
+   {
+    "id": "f-c8a5c9df7e",
+    "porque": "Em Anil.",
+    "automatico": true
    }
   ],
   "2027-01-21": [
+   {
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
+    "automatico": true
+   },
    {
     "id": "f-30327b9bf9",
     "porque": "Em Centro.",
@@ -697,11 +712,6 @@
    },
    {
     "id": "f-50091abddb",
-    "porque": "Em Gávea.",
-    "automatico": true
-   },
-   {
-    "id": "f-9022a91c92",
     "porque": "Em Gávea.",
     "automatico": true
    }
@@ -713,8 +723,8 @@
     "automatico": true
    },
    {
-    "id": "f-e76aa0e4f0",
-    "porque": "Em Pechincha.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
@@ -730,13 +740,13 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-7a37651211",
-    "porque": "Em Barra da Tijuca.",
+    "id": "f-cbf54625b4",
+    "porque": "Em Centro.",
     "automatico": true
    }
   ],
@@ -747,12 +757,12 @@
     "automatico": true
    },
    {
-    "id": "f-cbf54625b4",
-    "porque": "Em Centro.",
+    "id": "f-abce1b60e3",
+    "porque": "A preço popular, em Barra da Tijuca.",
     "automatico": true
    },
    {
-    "id": "f-30327b9bf9",
+    "id": "f-cbf54625b4",
     "porque": "Em Centro.",
     "automatico": true
    }
