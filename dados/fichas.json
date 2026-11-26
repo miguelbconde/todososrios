@@ -4691,6 +4691,18 @@
     {
      "data": "2026-11-22",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
     }
    ],
    "cartaz": null,
@@ -4705,9 +4717,11 @@
    "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
    "link": "https://ecovillarihappy.com.br/programacao/",
    "trecho_fonte": "Confissões de Adolescente 23 de outubro a 29 de novembro | Sextas às 20h, Sábados e Domingos às 19h Classificação: 16 anos FENÔMENO QUE MARCOU GERAÇÕES, ‘CONFISSÕES DE ADOLESOCENTE’ RETORNA AOS PALCOS EM VERSÃO MUSICAL INÉDITA.",
-   "nota_redacao": "A fonte não informa o preço.",
+   "nota_redacao": "A fonte não informa o preço. Correção de 26/11: a ficha só tinha a semana de 19/11; acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur (Sextas-feiras, às 20h; sábados e domingos, às 19h).",
    "id": "2026-11-19-142",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "Escola do Rock",
@@ -4728,6 +4742,38 @@
     {
      "data": "2026-11-22",
      "hora": "15:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "15:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "15:00"
     }
    ],
    "cartaz": null,
@@ -4742,9 +4788,11 @@
    "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
    "link": "https://ecovillarihappy.com.br/programacao/",
    "trecho_fonte": "Escola do Rock - CEFTEM 14 de novembro a 13 de dezembro | Sábados e Domingos, às 15h e dia 04 e 11 de dezembro | Sexta-feiras às 19h30 Classificação: Livre Baseado no filme School of Rock, de 2003 [...] ao fingir ser um professor substituto em uma prestigiosa e conservadora escola, Dewey forma um grupo do quinto ano, na tentativa de ganhar o próximo concurso: a Batalha das Bandas.",
-   "nota_redacao": "A fonte não informa o preço.",
+   "nota_redacao": "A fonte não informa o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (13/12), pelo próprio trecho do site (sábados e domingos às 15h; sextas às 19h30 só em 4 e 11/12). A Riotur diz 'Sextas, às 19h30' sem restringir; segui o site do espaço e não pus 27/11.",
    "id": "2026-11-19-143",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "Sábado Musical com Batuca Jardim – Ritmos da Ancestralidade",
@@ -4862,6 +4910,14 @@
     {
      "data": "2026-11-20",
      "hora": "20:00"
+    },
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
     }
    ],
    "cartaz": null,
@@ -4876,9 +4932,11 @@
    "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
    "link": "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/o-nome-do-bebe/",
    "trecho_fonte": "CURTÍSSIMA TEMPORADA O Nome do Bebê 05 de Novembro a 27 de Novembro [...] Data: De 5 a 27 de novembro de 2026 Horário: Quintas e sextas às 20h00 Abertura da casa: 1h antes || a comédia O Nome do Bebê, com Bianca Bin e grande elenco [...] da dupla francesa Matthieu Delaporte e Alexandre de la Patellière [...] A direção é de Elias Andreato [...] Classificação etária: 12 anos.",
-   "nota_redacao": "A coleta não trouxe o preço.",
+   "nota_redacao": "A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (27/11), pelo próprio trecho do site, confirmado pela Riotur.",
    "id": "2026-11-19-147",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "O Mercador de Veneza",
@@ -4898,6 +4956,14 @@
     {
      "data": "2026-11-22",
      "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
     }
    ],
    "cartaz": null,
@@ -4912,9 +4978,11 @@
    "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
    "link": "https://www.teatroaxiacasagrande.com.br/programacao/",
    "trecho_fonte": "CURTA TEMPORADA O Mercador de Veneza 07 de Novembro a 29 de Novembro [...] Data: 7 a 29 de novembro de 2026 Horário: Sábado às 21h00 e Domingo às 19h00 Abertura da casa: 1 hora antes do evento || O Mercador de Veneza, do dramaturgo inglês William Shakespeare [...] A peça tem direção de Daniela Stirbulov e é protagonizada por Dan Stulbach que dá vida ao marcante agiota Shylock [...] Duração: 120 minutos [...] Classificação etária: 14 anos.",
-   "nota_redacao": "A coleta não trouxe o preço.",
+   "nota_redacao": "A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur.",
    "id": "2026-11-19-148",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "Atom Pink Floyd – Pink Floyd Symphonic",
@@ -6704,6 +6772,47 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-09",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda. Não informa preço nem classificação; atrações 'em breve'. A Riotur escreve 'LBT+' aqui e 'LGBT+' na página das finais; usei LGBT+.",
+   "aviso": "",
+   "titulo": "Concurso da Corte Real do Carnaval 2027: eliminatórias",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Cidade do Samba",
+   "endereco": "R. Rivadávia Corrêa, 60",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Eliminatórias do concurso que escolhe a Corte Real do Carnaval 2027, na Cidade do Samba: dia 9, Corte Real LGBT+; dias 10 e 11, Corte Real Tradicional.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/elimatorias-concurso-corte-real-carnaval-2027/",
+   "trecho_fonte": "Datas: 09/12 (quarta-feira) – Eliminatória Corte Real LBT+ 10/12 (quinta-feira) – Eliminatória Corte Real Tradicional 11/12 (sexta-feira) – Eliminatória Corte Real Tradicional Local: Cidade do Samba Endereço: Rua Rivadávia Corrêa, 60 – Gamboa Horário: 19h Atrações: em breve",
+   "id": "f-09fb8bccf4",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-16",
      "hora": "19:30"
     }
@@ -7972,6 +8081,38 @@
    "entrou_em": "2026-11-22"
   },
   {
+   "cartaz": {
+    "inicio": "2026-09-17",
+    "fim": "2026-12-19",
+    "horario": "Segunda a sexta, 10h–19h; sábado, 13h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A ronda não trouxe o site da galeria: fatos da ArtRio, link da agenda (a página própria da exposição não foi lida). Endereço completado com \"Rua\". Preço não informado. A descrição da fonte vem cortada; a sinopse fica no que ela diz.",
+   "aviso": "",
+   "titulo": "Novos barrocos – coletiva",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Flexa",
+   "endereco": "Rua Dias Ferreira, 214",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "Coletiva com curadoria de Lilia Schwarcz que parte do barroco brasileiro, pensado como linguagem de fé e de poder.",
+   "fonte": "Agenda da ArtRio",
+   "link": "https://artrio.com/agenda-cultural",
+   "trecho_fonte": "17.SEP - 19.DEC Flexa | Novos barrocos, coletiva Com curadoria de Lilia Schwarcz, a exposição parte do barroco brasileiro, pensando-o como linguagem de fé, poder e… Flexa | Dias Ferreira, 214 Leblon Abertura: 17 de setembro de 2026, das 18h às 21h - De segunda a sexta, 10h às 19h, sábado, das 13h às 18h",
+   "id": "f-19b460ef0d",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -8677,6 +8818,38 @@
    "entrou_em": "2026-11-24"
   },
   {
+   "cartaz": {
+    "inicio": "2026-11-07",
+    "fim": "2026-12-17",
+    "horario": "Segunda a sexta, com agendamento prévio"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A ronda não trouxe o site da galeria: fatos da ArtRio, link da agenda (a página própria da exposição não foi lida). Visita só com agendamento, de segunda a sexta; o telefone da galeria ficou fora da ficha, está no link. Preço não informado.",
+   "aviso": "",
+   "titulo": "Modos de (co)existir, de Mariana Fogaça",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Gaby Indio Arte Contemporânea",
+   "endereco": "Estrada da Gávea, 712, térreo",
+   "bairro": "São Conrado",
+   "regiao": "Zona Sul",
+   "sinopse": "Exposição de Mariana Fogaça a partir de sucessivas incursões da artista pela Mata Atlântica, com texto de Ana Carolina Ralston.",
+   "fonte": "Agenda da ArtRio",
+   "link": "https://artrio.com/agenda-cultural",
+   "trecho_fonte": "07.NOV - 17.DEC Gaby Indio Arte Contemporânea | Modos de (co)existir, de Mariana Fogaça Com texto de Ana Carolina Ralston, a exposição parte de sucessivas incursões da artista pela Mata Atlântica. Gaby Indio Arte Contemporânea | Estrada da Gávea 712 - térreo, São Conrado - Rio de Janeiro Abertura: sábado, 7 de novembro de 2026, das 15h às 19h - Segunda a sexta, sob agendamento pelo Whatsapp [...]",
+   "id": "f-25ed1f51d8",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -9051,6 +9224,40 @@
    "trecho_fonte": "2026-11-23 20:00 até 2026-11-23 20:00 | Show Xodó em Flor | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/129554",
    "id": "f-2d78333860",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-31",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Réveillon Cheers, com Pabllo Vittar e Gloria Groove",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Festa de Réveillon do Festival de Verão do Rio no Museu do Amanhã, com shows de Pabllo Vittar e Gloria Groove.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-reveillon-cheers-com-pablo-vittar-e-gloria-groove/",
+   "trecho_fonte": "Horário: A partir das 21h Local : Museu do Amanhã Endereço : Praça Mauá, 1 – Centro || Visit Rio: A Festa RARO integra a programação do Festival de Verão do Rio, que vai de 30/12 até 03/01 no Museu do Amanhã e conta com os seguintes eventos: 30/12- Alok presents Rave the World 31/12 – Réveillon Cheers com Gloria Groove e Pabllo Vittar 01/01 – Festa RARO 02/01 – Rio Folia com Ivete Sangalo e Babado Novo 03/01 – Sound of Sunset com Mochakk",
+   "id": "f-2e3d620019",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -11598,6 +11805,38 @@
    "trecho_fonte": "2026-12-15 19:00 até 2026-12-15 21:00 | Mafalda Minnozzi. Voci di Donne, uma homenagem às grandes divas da música | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio",
    "id": "f-50f15bb931",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-11-07",
+    "fim": "2027-01-09",
+    "horario": "Terça a sexta, 11h–19h; sábado, 13h–17h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Período só na ArtRio (07.NOV a 09.JAN; a mostra aparece também na lista de janeiro de 2027, por isso o fim é 9/1/2027). Horário igual nas duas fontes. O site da galeria não tem página própria da exposição: link da página de exposições. Preço não informado (galerias costumam ser grátis, mas nenhuma fonte diz).",
+   "aviso": "",
+   "titulo": "Borda, de Mateu Velasco",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Galeria Movimento",
+   "endereco": "Rua dos Oitis, 15",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Individual de Mateu Velasco com pinturas inéditas, acompanhada de texto de Beatriz Coslovsky.",
+   "fonte": "Site da Galeria Movimento; agenda da ArtRio (período)",
+   "link": "https://www.galeriamovimento.com.br/exposicoes",
+   "trecho_fonte": "ArtRio: 07.NOV - 09.JAN Galeria Movimento | Borda, de Mateu Velasco Com texto de Beatriz Coslovsky, a exposição reúne pinturas inéditas que partem de um olhar sobre as coisas… Galeria Movimento | Rua dos Oitis 15 - Gávea Abertura: sábado, 7 de novembro de 2026, das 15h às 18h  - De terça a sexta, das 11h às 19h, e sábado, das 13h às 17h || Site da galeria: MATEU VELASCO BORDA Texto: Bia Coslovsky Nov/26 [...] Rua dos Oitis, 15 | Gávea [...] Terça - Sexta | 11h - 19h Sabado | 13h - 17h",
+   "id": "f-514938dd7f",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -14417,6 +14656,38 @@
    "entrou_em": "2026-11-26"
   },
   {
+   "cartaz": {
+    "inicio": "2026-11-08",
+    "fim": null,
+    "horario": "Quinta a domingo, 10h–18h (acesso às exposições até 17h30)"
+   },
+   "sessoes": [],
+   "preco_texto": "Grátis (contribuição sugerida de R$ 20)",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Exposição de longa duração, sem data de fim (fim vazio, aparece como \"Em cartaz\"). Início pela matéria do museu sobre as três mostras inauguradas em 8/11. Ingresso grátis com reserva antecipada (Sympla) ou na recepção. Classificação não informada. A página própria da exposição veio cortada na ronda; os fatos saem das páginas de exposições e de programação do museu.",
+   "aviso": "",
+   "titulo": "Festas, Sambas e Outros Carnavais",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Museu do Pontal",
+   "endereco": "Av. Célia Ribeiro da Silva Mendes, s/nº",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Coletiva de longa duração que ocupa cerca de 70% das galerias do museu, com maracatus, folias, reisados, jongos, bois-bumbá, carimbós, sambas e carnavais. Curadoria de Angela Mascelani e Lucas Van de Beuque.",
+   "fonte": "Site do Museu do Pontal",
+   "link": "https://museudopontal.org.br/exposicao/festas-sambas-e-outros-carnavais/",
+   "trecho_fonte": "Exposições de longa duração Festas, Sambas e Outros Carnavais Festas, Sambas e Outros Carnavais é a maior exposição já realizada na nova sede do Museu do Pontal, ocupando cerca de 70% do espaço expositivo. A coletiva celebra a riqueza e diversidade das manifestações populares brasileiras, reunindo maracatus, folias, reisados, jongos, bois-bumbá, carimbós, sambas e carnavais [...] Com curadoria de Angela Mascelani e Lucas Van de Beuque || No dia 8 de novembro, três mostras foram inauguradas [...]: Festas, sambas e outros carnavais, coletiva de longa duração || Aberto de quinta a domingo, das 10h às 18h*. * O acesso às exposições se encerra às 17h30 [...] A entrada no Museu do Pontal é gratuita para todos . Entretanto, sugerimos uma contribuição mínima de R$ 20",
+   "id": "f-7f54b7b0b2",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": null,
    "sessoes": [
     {
@@ -15117,6 +15388,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-17",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda. Não informa preço nem classificação; atrações 'em breve'.",
+   "aviso": "",
+   "titulo": "Concurso da Corte Real do Carnaval 2027: finais",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Cidade do Samba",
+   "endereco": "R. Rivadávia Corrêa, 60",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Finais do concurso da Corte Real do Carnaval 2027, na Cidade do Samba: dia 17, Corte Real LGBT+; dia 18, Corte Real Tradicional.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/finais-concurso-corte-real-carnaval-2027/",
+   "trecho_fonte": "Datas: 17/12 (quinta-feira) – Final da Corte Real LGBT+ 18/12 (sexta-feira) – Final da Corte Real Tradicional Local: Cidade do Samba Endereço: Rua Rivadávia Corrêa, 60 – Gamboa Horário: 19h Atrações: em breve",
+   "id": "f-8843942562",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-07",
      "hora": "08:30"
     }
@@ -15528,6 +15836,38 @@
    "id": "f-8f37410ce6",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-22"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-09-12",
+    "fim": "2026-12-13",
+    "horario": "Quarta a domingo, 14h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O fim em 13/12 vem do texto da página da Riotur (o site do museu não dá o encerramento). A ronda não trouxe página própria da exposição no site do museu: link para a página inicial. Endereço igual ao da outra ficha da casa na base (a Riotur dá a entrada pela Praça Benedito Cerqueira). Entrada gratuita só pela Riotur; o museu fala em visitas mediadas gratuitas. Preço deixado vazio.",
+   "aviso": "",
+   "titulo": "Hipertelia – Marés de Mudanças",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Casa Museu Eva Klabin",
+   "endereco": "Av. Epitácio Pessoa, 2.480",
+   "bairro": "Lagoa",
+   "regiao": "Zona Sul",
+   "sinopse": "Exposição com cerca de 50 trabalhos no primeiro andar da Casa Museu Eva Klabin, com curadoria de Camilla Rocha Campos. Visitas mediadas gratuitas.",
+   "fonte": "Site da Casa Museu Eva Klabin e Riotur (Calendário Oficial)",
+   "link": "https://www.evaklabin.org.br/pt",
+   "trecho_fonte": "Visitas mediadas gratuitas de quarta-feira a domingo| 14h às 18h [...] a exposição Hipertelia - marés de mudanças. Com curadoria de Camilla Rocha Campos, a mostra reúne cerca de 50 trabalhos no primeiro andar da Casa. Abertura em 12 de setembro de 2026 || Riotur (https://riotur.rio/evento-calendario/hipertelia-mares-de-mudancas-na-casa-museu-eva-klabin-11/): Horário: De quarta-feira a domingo, das 14h às 18h Local: Casa Museu Eva Klabin [...] Ingressos: Entrada gratuita",
+   "id": "f-8fafc9a14f",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -16923,6 +17263,39 @@
    "trecho_fonte": "2026-12-18 19:00 até 2026-12-18 19:00 | BAILE DA DIDI NO RIO SCENARIUM  18.12 | Rio Scenarium, Rua do Lavradio, 20  | organizador: Rio Scenarium (taxa)",
    "id": "f-9e04c91b88",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada. A data (19/12) é a única citada no texto da página da Riotur. Acesso pelo bondinho (não informado o custo).",
+   "aviso": "",
+   "titulo": "Noites de Verão: Delacruz, Pagode do Adame e DJ Saddam",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Morro da Urca (Parque Bondinho Pão de Açúcar)",
+   "endereco": "Av. Pasteur, 520",
+   "bairro": "Urca",
+   "regiao": "Zona Sul",
+   "sinopse": "Delacruz, o Pagode do Adame e DJ Saddam na série Noites de Verão, no alto do Morro da Urca.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/noites-de-verao-morro-da-urca-5/",
+   "trecho_fonte": "Local: Morro da Urca Endereço: Av. Pasteur, 520 – Morro da Urca Horário: 22h || 19/12: Delacruz, Pagode do Adame, DJ Saddam",
+   "id": "f-9ffbd2d5c8",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -19009,6 +19382,40 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-01",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Hora e lugar da Riotur e do Visit Rio, que concordam; escalação do Visit Rio. A venda é pela Q2 Ingressos, que não lemos: sem preço. Classificação não informada.",
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Festa RARO",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "A Festa RARO abre no Museu do Amanhã o projeto \"Gênesis\", com o capítulo \"Earth\", das 19h às 7h, com Ricardo Goii, Gui Guerrero, Gui Valenga, Yan Rabello, B2Better, Sagi Kariv, Ben Bakson e Tommy Love.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-festa-raro/",
+   "trecho_fonte": "Horário : A partir das 19h Local : Museu do Amanhã Endereço : Praça Mauá, 1 – Centro || Visit Rio: Em 1º de janeiro de 2027, a Festa RARO chega ao Rio de Janeiro e apresenta GÊNESIS [...] O primeiro capítulo, EARTH, acontece no Museu do Amanhã [...] A festa vai de 19h às 07h [...] 19:00 RICARDO GOII 20:30 GUI GUERRERO 22:00 GUI VALENGA 23:30 YAN RABELLO 00:50 SHOW | OPEN 01:00 B2BETTER 02:30 SAGI KARIV (Guest Internacional) 04:00 BEN BAKSON (Guest Internacional) 05:30 TOMMY LOVE 07:00 FIM",
+   "id": "f-b72825cc62",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2027-01-22",
      "hora": "17:00"
     },
@@ -19182,6 +19589,38 @@
    "trecho_fonte": "2027-01-06 20:00 até 2027-01-06 20:00 | Abba Alive | Teatro Claro MAIS RJ | Show | de R$ 80,00 a R$ 280,00 (o menor pode ser meia) | classificação: Livre || ABBA ALIVE – O Tributo + Próximo do Original está de volta! || O ABBA ALIVE volta com NOVO SHOW",
    "id": "f-ba91d53c2a",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": {
+    "inicio": "2026-11-26",
+    "fim": "2027-01-06",
+    "horario": "Terça a domingo, 10h–18h"
+   },
+   "sessoes": [],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz a mostra na ronda. O fim em 6/1 vem do texto da página da Riotur; a data de abertura não aparece (a Riotur tem 10 páginas do evento, sinal de que já está aberta): pus início hoje. Sem página própria da exposição na ronda. A Riotur não diz o tema além do título. Preço não confirmado fora da Riotur (que diz entrada gratuita).",
+   "aviso": "",
+   "titulo": "Cidade Batucada",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "cartaz",
+   "local": "Palácio Gustavo Capanema",
+   "endereco": "Rua da Imprensa, 16",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Exposição \"Cidade Batucada\" no Palácio Gustavo Capanema, no Centro, em cartaz até 6 de janeiro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/cidade-batucada-no-palacio-gustavo-capanema-10/",
+   "trecho_fonte": "Horário: De terça a domingo, das 10h às 18h Local: Palácio Gustavo Capanema Endereço: Rua da Imprensa, 16 – Centro Ingresso: Entrada gratuita, sujeita à lotação.",
+   "id": "f-bcc6780966",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -23145,6 +23584,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-02",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Rio Folia, com Ivete Sangalo e Babado Novo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Noite Rio Folia do Festival de Verão do Rio, no Museu do Amanhã, com Ivete Sangalo e Babado Novo.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-rio-folia-com-ivete-sangalo-e-babado-novo/",
+   "trecho_fonte": "Horário: A partir das 19h Local : Museu do Amanhã Endereço : Praça Mauá, 1 – Centro || Visit Rio: A Festa RARO integra a programação do Festival de Verão do Rio, que vai de 30/12 até 03/01 no Museu do Amanhã e conta com os seguintes eventos: 30/12- Alok presents Rave the World 31/12 – Réveillon Cheers com Gloria Groove e Pabllo Vittar 01/01 – Festa RARO 02/01 – Rio Folia com Ivete Sangalo e Babado Novo 03/01 – Sound of Sunset com Mochakk",
+   "id": "f-ee9fdd6c71",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-28",
      "hora": "17:00"
     },
@@ -23431,6 +23903,39 @@
    "trecho_fonte": "2026-11-26 19:00 até 2026-11-26 19:00 | Candlelight: Tributo aos Coldplay | Teatro dos Quatro, R. Marquês de São Vicente, 52 - 2° piso - Gávea, Rio de Janeiro, 22451-040 | a partir de R$ 57.6 | datas: 2026-11-26 19:00 | https://feverup.com/m/701016 || No Teatro dos Quatro, na Gávea, um quarteto de cordas revisita os grandes sucessos do Coldplay [...] Este evento é um concerto tributo.",
    "id": "f-f0e4208997",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-30",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Alok – Rave the World",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Abertura do Festival de Verão do Rio, no Museu do Amanhã: Alok apresenta \"Rave the World\".",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-rave-the-world-com-alok/",
+   "trecho_fonte": "Horário: A partir das 21h Local: Museu do Amanhã Endereço: Praça Mauá, 1 – Centro || Visit Rio: A Festa RARO integra a programação do Festival de Verão do Rio, que vai de 30/12 até 03/01 no Museu do Amanhã e conta com os seguintes eventos: 30/12- Alok presents Rave the World 31/12 – Réveillon Cheers com Gloria Groove e Pabllo Vittar 01/01 – Festa RARO 02/01 – Rio Folia com Ivete Sangalo e Babado Novo 03/01 – Sound of Sunset com Mochakk",
+   "id": "f-f0e8bb5026",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -24493,6 +24998,40 @@
    "trecho_fonte": "2027-01-09 19:00 até 2027-01-10 02:30 | Quintal da Quintão - Revive | Pagode da Tia Doca, Rua João Vicente  | organizador: Renata Quintão",
    "id": "f-fdea4298cb",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2027-01-03",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Hora e lugar da Riotur; datas confirmadas pela matéria do Visit Rio sobre a Festa RARO. Sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Festival de Verão do Rio: Sound of Sunset, com Mochakk",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Museu do Amanhã",
+   "endereco": "Praça Mauá, 1",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Encerramento do Festival de Verão do Rio no Museu do Amanhã com o S.O.S. – Sound of Sunset, com Mochakk, a partir das 16h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festival-de-verao-do-rio-apresenta-s-o-s-sound-of-sunset-com-mochakk/",
+   "trecho_fonte": "Horário: A partir das 16h Local : Museu do Amanhã Endereço : Praça Mauá, 1 – Centro || Visit Rio: A Festa RARO integra a programação do Festival de Verão do Rio, que vai de 30/12 até 03/01 no Museu do Amanhã e conta com os seguintes eventos: 30/12- Alok presents Rave the World 31/12 – Réveillon Cheers com Gloria Groove e Pabllo Vittar 01/01 – Festa RARO 02/01 – Rio Folia com Ivete Sangalo e Babado Novo 03/01 – Sound of Sunset com Mochakk",
+   "id": "f-ff2363c326",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,

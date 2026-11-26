@@ -1280,6 +1280,30 @@
    "detalhe": "tema deduzido e gratuidade só da Riotur",
    "resolucao": "Corrigido: sinopse só com os fatos",
    "id": "f-91e8f08be9"
+  },
+  {
+   "titulo": "Hipertelia – Marés de Mudanças",
+   "campo": "preco",
+   "veredito": "duvida",
+   "detalhe": "gratuidade só pela Riotur",
+   "resolucao": "Corrigido: preço vazio, na nota",
+   "id": "f-8fafc9a14f"
+  },
+  {
+   "titulo": "Cidade Batucada",
+   "campo": "preco",
+   "veredito": "diverge",
+   "detalhe": "gratuidade só pela Riotur",
+   "resolucao": "Corrigido: preço vazio, na nota",
+   "id": "f-bcc6780966"
+  },
+  {
+   "titulo": "Escola do Rock",
+   "campo": "criterios",
+   "veredito": "duvida",
+   "detalhe": "o site chama \"Escola do Rock - CEFTEM\"; pode ser montagem de escola de formação",
+   "resolucao": "",
+   "id": "2026-11-19-143"
   }
  ]
 }
