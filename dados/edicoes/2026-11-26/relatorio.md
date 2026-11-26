@@ -538,7 +538,7 @@
 - **27/11**: Velha Guarda Musical da Mangueira: 70 anos; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
 - **28/11**: Gilsons; Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo; Festival Arpoarte 2026
 - **29/11**: Gilsons; Rio Blues Festival; Os Saltimbancos
-- **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher; Moacyr Luz e Samba do Trabalhador
+- **30/11**: Tiago Nacarato: Segredo dos Deuses; Dramaturgia em Leituras: Marlim Azul; Moacyr Luz e Samba do Trabalhador
 - **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
 - **02/12**: Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte; Entre Direitos e Afetos: relações sem violência; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
 - **03/12**: Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha); Luan Pureza celebra Iansã – Santa Bárbara; O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura
@@ -595,11 +595,10 @@
 
 Regras de curadoria:
 - ⚠️ 26/11 — Falta a seção da vez: Livros & Debates
-- ⚠️ 30/11 — Falta a seção da vez: Teatro
 
 ## Traduções
 
-- Todas as sinopses têm versão em inglês e espanhol.
+- Sem tradução (aparece em português no site em inglês e espanhol): destaque: Leitura dramatizada de graça de "Marlim …
 
 ## Notas de redação
 
