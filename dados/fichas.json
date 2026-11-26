@@ -2828,6 +2828,10 @@
     {
      "data": "2026-11-22",
      "hora": "10:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
     }
    ],
    "cartaz": null,
@@ -2839,12 +2843,14 @@
    "acessibilidade": "",
    "na_rua": false,
    "sinopse": "Jogos, brincadeiras e pintura conduzidos pela equipe da areninha, todo domingo.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Domingo recreativo para crianças Domingos, às 10h. Grátis. Livre.",
-   "nota_redacao": "",
+   "trecho_fonte": "Areninha Cultural Sandra Sá Rua Doze 1, Santa Cruz [...] Domingo recreativo para crianças Domingos, às 10h. Grátis. Livre.",
+   "nota_redacao": "Correção: acrescentado o domingo 29/11, que o PDF desta semana repete. O PDF diz \"todos os domingos do mês\" sem data final; só entrou o domingo da semana do PDF. A Sympla (event/118973) dá o mesmo evento às 16h, até 29/11; mantido o horário do PDF (10h).",
    "id": "2026-11-19-086",
-   "entrou_em": "2026-11-19"
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "Celebração da Diversidade – Dia da Consciência Negra",
@@ -10197,6 +10203,39 @@
    "atualizado_em": "2026-11-25"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não diz quem se apresenta nem as linguagens do sarau.",
+   "aviso": "",
+   "titulo": "Sarau Herdeiros da Nossa História",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Abelardo Barbosa – Chacrinha",
+   "endereco": "Rua Soldado Eliseu Hipólito, s/nº",
+   "bairro": "Pedra de Guaratiba",
+   "regiao": "Zona Oeste",
+   "sinopse": "Sarau temático dedicado a dar visibilidade à produção de artistas negros de Pedra de Guaratiba e arredores.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Arena Cultural Abelardo Barbosa - Chacrinha Rua Soldado Eliseu Hipólito s/nº, Pedra de Guaratiba [...] Sarau “Herdeiros da Nossa História” Sábado (28/11), às 17h. Grátis. 12 anos",
+   "id": "f-349a24b226",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": {
     "inicio": "2026-12-09",
     "fim": "2027-03-08",
@@ -10278,6 +10317,40 @@
    "entrou_em": "2026-11-26"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não dá a escalação nem o horário de fim. Dança em Teatro, rimas em Música.",
+   "aviso": "",
+   "titulo": "Festival de Hip Hop After Dance",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Sandra de Sá",
+   "endereco": "Rua Doze, 1",
+   "bairro": "Santa Cruz",
+   "regiao": "Zona Oeste",
+   "sinopse": "Festival do After Dance com a associação de moradores AMLB: grupos de dança, apresentações de hip hop e rimas de artistas da comunidade, numa tarde aberta a famílias e jovens.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Sandra Sá Rua Doze 1, Santa Cruz [...] Festival de Hip Hop “After Dance” Sábado (28/11), às 14h. Grátis. Livre. [...] realizado pelo After Dance, em parceria com a AMLB - Associação dos Moradores [...] O evento reunirá grupos de dança, apresentações de Hip Hop, rimas e outras manifestações artísticas",
+   "id": "f-369717188d",
+   "entrou_em": "2026-11-26"
+  },
+  {
    "cartaz": {
     "inicio": "2026-12-09",
     "fim": "2026-12-27",
@@ -10351,14 +10424,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O texto do PDF diz uma vez \"29 de dezembro\", mas o cabeçalho, a frase anterior e a Sympla dão 29/11 às 19h; ficou 29/11. O PDF não informa meia-entrada. Mantido o link de venda da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Gilsons",
    "areas": [
@@ -10369,12 +10442,13 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "Show dos Gilsons na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O trio formado por José, João e Francisco Gil, filho e netos de Gilberto Gil, volta à areninha de Bangu para um show único, que também celebra a obra de Gil.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126981",
-   "trecho_fonte": "2026-11-29 19:00 até 2026-11-29 19:00 | Gilsons | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/126981",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Show dos “Gilsons” Domingo (29/11), às 19h. R$ 40. Livre. Areninha Cultural Hermeto Pascoal recebe Gilsons em única apresentação, no dia 29 de novembro às 19h. || 2026-11-29 19:00 até 2026-11-29 19:00 | Gilsons | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/126981",
    "id": "f-37698fe132",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -11605,6 +11679,40 @@
    "link": "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
    "trecho_fonte": "Iron Maiden Symphonic 20 de janeiro [...] Show reúne o grupo The Beast Experience e o vocalista Raphael Mendes [...] Duração 120 min Classificação etária Livre Ingressos a partir de a partir de R$ 110,00 || (Sympla) 2027-01-20 20:00 até 2027-01-20 20:00 | IRON MAIDEN SYMPHONIC | Teatro Multiplan - VillageMall, AV. DAS AMÉRICAS, 3900 - PISO SS1 | organizador: MULTIPLAN EMPREENDIMENTOS RJ | https://bileto.sympla.com.br/event/128287",
    "id": "f-48455faef8",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não informa meia-entrada nem elenco além de Rafael de Andrade. Link de venda da Sympla (organizador: Município do Rio).",
+   "aviso": "",
+   "titulo": "Tentativa 74",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Espetáculo infantil levado ao palco por Rafael de Andrade, uma aventura em torno do aprendizado.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/129698",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Espetáculo “Tentativa 74” Sábado (28/11), às 16h. R$ 20. Livre. [...] Rafael de Andrade traz para o palco da Areninha Cultural Hermeto Pascoal o espetáculo infantil \"Tentativa 74\". Uma aventura de aprendizado e muita diversão. || 2026-11-28 16:00 até 2026-11-28 16:00 | Tentativa 74 | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/129698",
+   "id": "f-485ffbd70b",
    "entrou_em": "2026-11-26"
   },
   {
@@ -15620,6 +15728,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não dá link próprio nem diz se é preciso retirar ingresso. Título ajustado ao nome do projeto (\"Misturando o Som\"), como no texto do PDF.",
+   "aviso": "",
+   "titulo": "Misturando o Som: Zona Oeste Jazz & Blues",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Noite de jazz e blues do projeto coletivo Misturando o Som, com Robertinho de Paula, Back in Blues e Cesinha Almuinha; nos intervalos, o Clube do Vinil toca música brasileira no varandão.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Misturando Som ZONA OESTE JAZZ & BLUES Sábado (28/11), às 20h. Gratuito. 14 anos. [...] reunindo três atrações musicais: Robertinho de Paula, Back in Blues e Cesinha Almuinha. E, nos intervalos, o Clube do Vinil assume o som no varandão",
+   "id": "f-84a0f12099",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-06",
      "hora": "16:00"
     }
@@ -19114,6 +19255,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "10:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Seção de cursos e oficinas do PDF; entra por ser seminário aberto e gratuito. O PDF não diz se há inscrição nem dá a programação. RER = relações étnico-raciais (sigla do PDF).",
+   "aviso": "",
+   "titulo": "3º Seminário de RER e Socioeducação",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Terceira edição do seminário, com debates sobre direitos, desafios e protagonismo das juventudes negras. Das 10h às 17h.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Museu da História e da Cultura Afro-Brasileira (Muhcab) Rua Pedro Ernesto 80, Gamboa [...] 3° Seminário de RER e SocioEducação Quinta e sexta-feira (26 e 27/11), das 10h às 17h. Grátis. Livre.",
+   "id": "f-ac3862ec76",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-28",
      "hora": "20:00"
     },
@@ -19381,6 +19559,39 @@
    "trecho_fonte": "2027-01-22 19:30 até 2027-01-22 19:30 | ALEGRIA NO SHOW “TRIBUTE TO SADE” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL",
    "id": "f-b0fb3a7157",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF diz \"quintas-feiras\" sem data final e sem descrição; só entrou a quinta da semana do PDF (26/11). Entrada grátis; o que se vende na feira é pago.",
+   "aviso": "",
+   "titulo": "Feira Comunitária de Artesanato e Gastronomia",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Feira comunitária de artesanato e comida que ocupa a Areninha Cultural Gilberto Gil às quintas-feiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Gilberto Gil Av. Marechal Fontenelle 5000, Realengo [...] Feira Comunitária de Artesanato e Gastronomia Quintas-feiras, às 16h. Grátis. Livre.",
+   "id": "f-b13c5f8734",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -20964,14 +21175,14 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "14 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.",
+   "nota_redacao": "Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O PDF não informa meia-entrada. Mantido o link de venda da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Bem-vindo a Bangu",
    "areas": [
@@ -20982,12 +21193,13 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "\"Bem-vindo a Bangu\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Peça de humor com reviravoltas, levada ao palco por Rafael de Andrade e Rômulo Moura, com piadas sobre a vida no subúrbio.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129701",
-   "trecho_fonte": "2026-11-28 17:00 até 2026-11-28 17:00 | Bem-vindo a Bangu | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/129701",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Peça “Bem Vindo A Bangu” Sábado (28/11), às 17h. R$ 20. 14 anos. || 2026-11-28 17:00 até 2026-11-28 17:00 | Bem-vindo a Bangu | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/129701",
    "id": "f-cb548d2990",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -22583,14 +22795,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.",
+   "nota_redacao": "Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O PDF não diz se R$ 35 é meia e R$ 70 inteira. Mantido o link de venda da Sympla (o PDF não dá link). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Yuri Marçal: Macumbeiro",
    "areas": [
@@ -22601,13 +22813,13 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Yuri Marçal festeja dez anos de stand-up com seu quinto solo, em que transforma em piada a infância num terreiro, ao lado da mãe de santo, e os choques entre tradição religiosa, preconceito e internet.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126804",
-   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Yuri Marcal -  Macumbeiro | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/126804",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Show de Comédia Stand Up “Yuri Marçal - Macumbeiro “ Quinta-feira(26/11), às 20h. R$ 35 a R$ 70. 16 anos. || 2026-11-26 20:00 até 2026-11-26 20:00 | Yuri Marcal -  Macumbeiro | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/126804",
    "id": "f-db9886b6e6",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": {
