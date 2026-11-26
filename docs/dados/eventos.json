@@ -5,7 +5,7 @@
   "fim": "2027-01-25",
   "titulo": "Programação de hoje até 25 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-26T06:34-03:00",
+ "atualizado_em": "2026-11-26T06:39-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -439,39 +439,6 @@
    "sinopse_es": "Exposición en cartel en el centro de arte.",
    "faixa": "gratis",
    "status": "conferido"
-  },
-  {
-   "titulo": "MULTIARTE 2026",
-   "areas": [
-    "Artes Visuais"
-   ],
-   "tipo": "cartaz",
-   "local": "Centro Municipal de Artes Calouste Gulbenkian",
-   "endereco": "Rua Benedito Hipólito, 125",
-   "bairro": "Praça XI",
-   "regiao": "Centro",
-   "sessoes": [],
-   "cartaz": {
-    "inicio": null,
-    "fim": "2026-12-19",
-    "horario": "Segunda a sábado, 9h–20h45"
-   },
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Exposição anual das oficinas do Calouste: pintura, gravura, cerâmica, mosaico, estamparia e outras técnicas.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "id": "2026-11-19-037",
-   "entrou_em": "2026-11-19",
-   "sinopse_en": "The annual show of the Calouste workshops: painting, printmaking, ceramics, mosaic, textile printing and other techniques.",
-   "sinopse_es": "Exposición anual de los talleres del Calouste: pintura, grabado, cerámica, mosaico, estampado y otras técnicas.",
-   "faixa": "gratis",
-   "status": "a_confirmar"
   },
   {
    "titulo": "Maquete da Biblioteca dos Saberes",
@@ -3338,50 +3305,6 @@
     },
     {
      "data": "2026-11-28",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "dias",
-   "titulo": "Ruído Bruto",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Carlos Gomes",
-   "endereco": "Praça Tiradentes, s/nº",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "\"Ruído Bruto\" em cartaz no Teatro Municipal Carlos Gomes, na Praça Tiradentes, de 24 a 28 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/130260",
-   "id": "f-a9d2e23843",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "\"Ruído Bruto\" runs at Teatro Municipal Carlos Gomes, on Praça Tiradentes, from November 24 to 28.",
-   "sinopse_es": "\"Ruído Bruto\" en cartel en el Teatro Municipal Carlos Gomes, en la Praça Tiradentes, del 24 al 28 de noviembre.",
-   "faixa": "nao_informado",
-   "status": "a_confirmar"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-26",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
      "hora": "18:00"
     }
    ],
@@ -5014,7 +4937,7 @@
    "sinopse_en": "Escola do Olhar's conference at MAR on education and ethnic-racial relations, themed \"Territórios de Pertencimento\". Runs until November 29.",
    "sinopse_es": "Jornada de la Escola do Olhar en el MAR sobre educación y relaciones étnico-raciales, con el tema \"Territórios de Pertencimento\". Sigue hasta el 29 de noviembre.",
    "faixa": "nao_informado",
-   "status": "a_confirmar"
+   "status": "conferido"
   },
   {
    "cartaz": null,
@@ -5517,46 +5440,6 @@
    "status": "conferido"
   },
   {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:30"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "",
-   "titulo": "A Ópera do Malandro – o musical",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Terra",
-   "endereco": "Rua Marcos de Macedo, s/nº",
-   "bairro": "Guadalupe",
-   "regiao": "Zona Norte",
-   "sinopse": "Montagem do musical \"A Ópera do Malandro\" na Areninha Cultural Terra, em Guadalupe, em 27 e 28 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129270",
-   "id": "f-db4e688785",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "A staging of the musical \"A Ópera do Malandro\" at Areninha Cultural Terra, in Guadalupe, on November 27 and 28.",
-   "sinopse_es": "Montaje del musical \"A Ópera do Malandro\" en la Areninha Cultural Terra, en Guadalupe, el 27 y 28 de noviembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
-  },
-  {
    "titulo": "Superiores",
    "areas": [
     "Teatro"
@@ -5965,7 +5848,7 @@
    "sinopse_en": "Júlia Bernat performs her first solo piece, directed by Débora Lamm, mixing personal account and research into the history of the lesbian movement, with mentions of Chantal Akerman and Rosely Roth; on the soundtrack, Ângela Ro Ro and Cássia Eller.",
    "sinopse_es": "Júlia Bernat presenta su primer solo, dirigida por Débora Lamm, mezclando relato personal e investigación sobre la trayectoria del movimiento lésbico, con menciones a Chantal Akerman y Rosely Roth; en la banda sonora, Ângela Ro Ro y Cássia Eller.",
    "faixa": "ate80",
-   "status": "a_confirmar"
+   "status": "conferido"
   },
   {
    "cartaz": null,
@@ -8669,41 +8552,6 @@
    "cartaz": null,
    "sessoes": [
     {
-     "data": "2026-11-28",
-     "hora": "22:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "",
-   "titulo": "Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Dicró",
-   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
-   "bairro": "Penha Circular",
-   "regiao": "Zona Norte",
-   "sinopse": "\"Antes de Mim\", do Projeto Na Ponta dos Pés, na série Palco Leopoldina da Arena Cultural Dicró, na Penha.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129077",
-   "id": "f-87c5ee44d2",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "\"Antes de Mim\", by Projeto Na Ponta dos Pés, in the Palco Leopoldina series at Arena Cultural Dicró, in Penha.",
-   "sinopse_es": "\"Antes de Mim\", del Projeto Na Ponta dos Pés, en la serie Palco Leopoldina de la Arena Cultural Dicró, en Penha.",
-   "faixa": "nao_informado",
-   "status": "a_confirmar"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
      "data": "2026-11-29",
      "hora": "09:00"
     }
@@ -10980,41 +10828,6 @@
    "sinopse_es": "Noche del Día del Samba en Batuq, en Penha, con Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab y Tendinha da Sorte.",
    "faixa": "nao_informado",
    "status": "conferido"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-12-02",
-     "hora": "18:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "aviso": "",
-   "titulo": "Tempo Travesso",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Coreográfico da Cidade do Rio de Janeiro",
-   "endereco": "Rua José Higino, 115",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "\"Tempo Travesso\" no Centro Coreográfico da Cidade, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129992",
-   "id": "f-5d78dd59cd",
-   "entrou_em": "2026-11-22",
-   "sinopse_en": "\"Tempo Travesso\" at the Centro Coreográfico da Cidade, in Tijuca.",
-   "sinopse_es": "\"Tempo Travesso\" en el Centro Coreográfico da Cidade, en Tijuca.",
-   "faixa": "nao_informado",
-   "status": "a_confirmar"
   },
   {
    "titulo": "Terreiro de Mangueira – Cordel Negro",
