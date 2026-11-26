@@ -1152,6 +1152,118 @@
    "detalhe": "\"retoma a forma\" ia além da fonte",
    "resolucao": "Corrigido: \"uma homenagem à proposta original\"",
    "id": "f-b4f6e88fed"
+  },
+  {
+   "titulo": "Os Saltimbancos",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-beb283b529"
+  },
+  {
+   "titulo": "João e Maria na Casa de Chocolate",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-e93b1ae67b"
+  },
+  {
+   "titulo": "Três Porquinhos Contra o Lobo Mau",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-0c0ff790ad"
+  },
+  {
+   "titulo": "Noite do Melodrama",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 19:30; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-92e994a1ae"
+  },
+  {
+   "titulo": "Víboras – A Arte do Insulto",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 17:30; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-39b3da215f"
+  },
+  {
+   "titulo": "Víboras – A Arte do Insulto",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-39b3da215f"
+  },
+  {
+   "titulo": "Um Natal Congelante: O Musical ao Vivo",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 15:00; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-92342029b1"
+  },
+  {
+   "titulo": "Um Natal Congelante: O Musical ao Vivo",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-92342029b1"
+  },
+  {
+   "titulo": "O Tigre",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 19:30; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-1fcc3e695b"
+  },
+  {
+   "titulo": "O Tigre",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-1fcc3e695b"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "sessoes",
+   "veredito": "duvida",
+   "detalhe": "dias presumidos caíam em feriados",
+   "resolucao": "Corrigido: tirados 24, 25 e 31/12 e 1/1",
+   "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "sessoes.hora",
+   "veredito": "duvida",
+   "detalhe": "a Sympla indica a última sessão às 15:00; outras sessões podem ter o mesmo horário",
+   "resolucao": "",
+   "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "\"Shopping da Gávea\" não está na fonte",
+   "resolucao": "Corrigido: \"na Gávea\"",
+   "id": "f-836c624a59"
+  },
+  {
+   "titulo": "Patrulhinha de Natal",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "espetáculo infantil pelo título, sem marca da Sympla",
+   "resolucao": "Corrigido: acrescentado Infantil (decisão editorial)",
+   "id": "f-836c624a59"
   }
  ]
 }
