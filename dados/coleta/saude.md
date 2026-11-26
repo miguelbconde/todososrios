@@ -20,20 +20,20 @@
 ## Redação (tarefa diária do Claude)
 
 - Última entrega: 2026-11-26
-  - 2026-11-26: 19 novas, 0 corrigidas, 1 recusadas — Lote 3 de 26/11: Beco das Garrafas e Bilheteria Digital
-  - 2026-11-26: 15 novas, 4 corrigidas, 0 recusadas — Lote 4 de 26/11: Sympla, grupo cultural (1)
-  - 2026-11-26: 18 novas, 0 corrigidas, 0 recusadas — Lote 5 de 26/11: Sympla, grupo cultural (2) e AllEvents
-  - 2026-11-26: 20 novas, 0 corrigidas, 0 recusadas — Lote 6 de 26/11: radar da Riotur (1)
   - 2026-11-26: 14 novas, 4 corrigidas, 0 recusadas — Lote 7 de 26/11: radar da Riotur (2) e galerias
   - 2026-11-26: 0 novas, 0 corrigidas, 0 recusadas — Lote 8 de 26/11: A boa de 3/12; pendentes atualizados; vistos marcados
   - 2026-11-26: 0 novas, 0 corrigidas, 0 recusadas — A boa de 30/11: entra a leitura de Marlim Azul (seção da vez: Teatro) no lugar do filme sobre Mark Fisher
+  - 2026-11-26: 8 novas, 9 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte a1
+  - 2026-11-26: 2 novas, 15 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte b1
+  - 2026-11-26: 6 novas, 6 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte c1
+  - 2026-11-26: 6 novas, 4 corrigidas, 0 recusadas — PDF da Secretaria (PROGRAMACAO-SEMANAL-DE-26_11-a-02_12.pdf), parte d1
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-25: **512**
-- Por região: Centro 174, Zona Sul 161, Zona Norte 106, Zona Sudoeste 45, Zona Oeste 26
+- Fichas da redação de hoje até 2027-01-25: **537**
+- Por região: Centro 181, Zona Sul 165, Zona Norte 113, Zona Sudoeste 46, Zona Oeste 32
 - Fora da Zona Sul: 69%
-- Grátis: 67
+- Grátis: 96
 
 ## Alarmes
 

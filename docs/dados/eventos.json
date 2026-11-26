@@ -5,7 +5,7 @@
   "fim": "2027-01-25",
   "titulo": "Programação de hoje até 25 de janeiro de 2027"
  },
- "atualizado_em": "2026-11-26T06:09-03:00",
+ "atualizado_em": "2026-11-26T06:34-03:00",
  "licenca": "ODbL 1.0 (dados) · CC BY-SA 4.0 (textos)",
  "credito": "Todos os Rios (todososrios.com.br)",
  "documentacao": "https://todososrios.com.br/dados/",
@@ -471,7 +471,7 @@
    "sinopse_en": "The annual show of the Calouste workshops: painting, printmaking, ceramics, mosaic, textile printing and other techniques.",
    "sinopse_es": "Exposición anual de los talleres del Calouste: pintura, grabado, cerámica, mosaico, estampado y otras técnicas.",
    "faixa": "gratis",
-   "status": "conferido"
+   "status": "a_confirmar"
   },
   {
    "titulo": "Maquete da Biblioteca dos Saberes",
@@ -1924,6 +1924,45 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "10:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "3º Seminário de RER e Socioeducação",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Terceira edição do seminário, com debates sobre direitos, desafios e protagonismo das juventudes negras. Das 10h às 17h.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-ac3862ec76",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Third edition of the seminar, with debates on the rights, challenges and leading role of Black youth. From 10am to 5pm.",
+   "sinopse_es": "Tercera edición del seminario, con debates sobre los derechos, desafíos y protagonismo de las juventudes negras. De 10h a 17h.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "11:00"
     },
     {
@@ -2050,6 +2089,77 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "14:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Canteiro de Palavras",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Municipal Marques Rebelo",
+   "endereco": "Rua Guapeni, 61",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Sessão em que se narram contos do repertório popular, narrativas antigas e textos de autoria própria, para estimular o gosto pela leitura.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-63d65f766a",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Session of folk tales, old stories and original texts read aloud, to encourage a taste for reading.",
+   "sinopse_es": "Sesión en la que se narran cuentos del repertorio popular, relatos antiguos y textos de autoría propia, para estimular el gusto por la lectura.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Clube literário infantil",
+   "areas": [
+    "Infantil",
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Municipal José de Alencar",
+   "endereco": "Rua Monte Alegre, 306 (anexo ao Centro Cultural Laurinda Santos Lobo)",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "15:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Encontro semanal de leitura de livros infantis sobre inclusão e diversidade.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "2026-11-19-039",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A weekly reading session of children's books on inclusion and diversity.",
+   "sinopse_es": "Encuentro semanal de lectura de libros infantiles sobre inclusión y diversidad.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "15:00"
     },
     {
@@ -2081,6 +2191,41 @@
    "entrou_em": "2026-11-25",
    "sinopse_en": "Panthalassa Ensemble, an international group of winds, electronics, guitar, piano and percussion, premieres at 3 pm, at MAM's pilotis, a work by Bryan Holmes made for the museum; at 6:30 pm, it premieres a work by Pasquale Calò and performs again one by Camila Nebbia.",
    "sinopse_es": "El Panthalassa Ensemble, grupo internacional de vientos, electrónica, guitarra, piano y percusión, estrena a las 15 h, en los pilotis del MAM, una obra de Bryan Holmes creada para el museo; a las 18.30, estrena una obra de Pasquale Calò y vuelve a presentar una de Camila Nebbia.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Lançamento: Caminhamos na Maré e a Maré Caminha em Nós",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Herbert Vianna",
+   "endereco": "Rua Evanildo Alves, s/nº",
+   "bairro": "Maré",
+   "regiao": "Zona Norte",
+   "sinopse": "Lançamento, na Biblioteca Municipal Jorge Amado, de livro escrito e ilustrado por crianças que frequentam essa biblioteca e a Biblioteca Escritor Lima Barreto, na Maré, feito com os projetos Era Uma Vez e Escritores para o Futuro.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-94caf2b666",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Launch, at the Biblioteca Municipal Jorge Amado, of a book written and illustrated by children who attend that library and the Biblioteca Escritor Lima Barreto in Maré, made with the projects Era Uma Vez and Escritores para o Futuro.",
+   "sinopse_es": "Lanzamiento, en la Biblioteca Municipal Jorge Amado, de un libro escrito e ilustrado por niños que frecuentan esa biblioteca y la Biblioteca Escritor Lima Barreto, en la Maré, realizado con los proyectos Era Uma Vez y Escritores para o Futuro.",
    "faixa": "gratis",
    "status": "conferido"
   },
@@ -2194,6 +2339,41 @@
    "sinopse_es": "\"Um Natal Congelante: O Musical ao Vivo\" en el Teatro Vanucci, en Gávea, hasta el 6 de diciembre.",
    "faixa": "nao_informado",
    "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Feira Comunitária de Artesanato e Gastronomia",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Feira comunitária de artesanato e comida que ocupa a Areninha Cultural Gilberto Gil às quintas-feiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-b13c5f8734",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "A community crafts and food fair held at Areninha Cultural Gilberto Gil on Thursdays.",
+   "sinopse_es": "Feria comunitaria de artesanía y comida que ocupa la Areninha Cultural Gilberto Gil los jueves.",
+   "faixa": "gratis",
+   "status": "conferido"
   },
   {
    "cartaz": null,
@@ -2922,11 +3102,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 25 a R$ 50",
+   "preco_min": 25,
+   "preco_max": 50,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -2939,15 +3119,15 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Zeppa apresenta \"Na Voz do Compositor\" na série Quintas Autorais do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O compositor Zeppa, gravado por Alcione, Elba Ramalho e Zezé Di Camargo & Luciano, canta suas músicas e canções de autores que o inspiraram, contando histórias entre elas, na série Quintas Autorais.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129530",
    "id": "f-8f37410ce6",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "Zeppa presents \"Na Voz do Compositor\" in the Quintas Autorais series at Centro da Música Carioca, in Tijuca.",
-   "sinopse_es": "Zeppa presenta \"Na Voz do Compositor\" en la serie Quintas Autorais del Centro da Música Carioca, en Tijuca.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Songwriter Zeppa, recorded by Alcione, Elba Ramalho and Zezé Di Camargo & Luciano, sings his songs and songs by writers who inspired him, telling stories in between, in the Quintas Autorais series.",
+   "sinopse_es": "El compositor Zeppa, grabado por Alcione, Elba Ramalho y Zezé Di Camargo & Luciano, canta sus canciones y temas de autores que lo inspiraron, con historias entre ellas, en la serie Quintas Autorais.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -3081,11 +3261,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "18 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -3098,15 +3278,15 @@
    "endereco": "Rua Visconde de Itaboraí, 20",
    "bairro": "Centro",
    "regiao": "Centro",
-   "sinopse": "\"Gosto Amargo na Pele\" em cartaz no Teatro Correios Léa Garcia, no Centro, de 26 de novembro a 5 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Ribamar Ribeiro escreve e dirige esta peça a partir de Plínio Marcos, num ambiente que mistura cabaré, circo e prostíbulo, sobre gente posta à margem. Último título da Trilogia dos Indesejáveis.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128463",
    "id": "f-9c2207768d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "\"Gosto Amargo na Pele\" runs at Teatro Correios Léa Garcia, downtown, from November 26 to December 5.",
-   "sinopse_es": "\"Gosto Amargo na Pele\" en cartel en el Teatro Correios Léa Garcia, en el Centro, del 26 de noviembre al 5 de diciembre.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Ribamar Ribeiro writes and directs this play based on Plínio Marcos, in a setting that mixes cabaret, circus and brothel, about people pushed to the margins. Last title of the Trilogia dos Indesejáveis.",
+   "sinopse_es": "Ribamar Ribeiro escribe y dirige esta obra a partir de Plínio Marcos, en un ambiente que mezcla cabaret, circo y prostíbulo, sobre gente empujada a los márgenes. Último título de la Trilogia dos Indesejáveis.",
+   "faixa": "popular",
    "status": "a_confirmar"
   },
   {
@@ -3117,10 +3297,10 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis (ingresso pela Sympla)",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
+   "gratis": true,
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
@@ -3134,14 +3314,15 @@
    "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
    "bairro": "Madureira",
    "regiao": "Zona Norte",
-   "sinopse": "Teresa Cristina e a Velha Guarda da Portela no projeto Memórias do Samba, na Arena Fernando Torres, no Parque de Madureira.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Teresa Cristina canta com a Velha Guarda da Portela no projeto Memórias do Samba, dedicado à história do samba, na Arena Fernando Torres, em Madureira.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/130674",
    "id": "f-a8d5f0ea92",
    "entrou_em": "2026-11-25",
-   "sinopse_en": "Teresa Cristina and the Velha Guarda da Portela in the Memórias do Samba project, at Arena Fernando Torres, in Parque de Madureira.",
-   "sinopse_es": "Teresa Cristina y la Velha Guarda da Portela en el proyecto Memórias do Samba, en la Arena Fernando Torres, en el Parque de Madureira.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Teresa Cristina sings with the Velha Guarda da Portela in the Memórias do Samba project, devoted to the history of samba, at Arena Fernando Torres, in Madureira.",
+   "sinopse_es": "Teresa Cristina canta con la Velha Guarda da Portela en el proyecto Memórias do Samba, dedicado a la historia del samba, en la Arena Fernando Torres, en Madureira.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -3204,11 +3385,11 @@
      "hora": "18:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -3221,15 +3402,15 @@
    "endereco": "Rua Benedito Hipólito, 125",
    "bairro": "Praça XI",
    "regiao": "Centro",
-   "sinopse": "Primeira edição da Mostra de Artes de Terreiro Os Ciclomáticos, no Teatro Municipal Gonzaguinha, de 26 a 28 de novembro.",
+   "sinopse": "Primeira edição de uma mostra que reúne trabalhos artísticos nascidos dos terreiros e de seus saberes, no Teatro Municipal Gonzaguinha.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129222",
    "id": "f-c21b141a4f",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "First edition of the Os Ciclomáticos Terreiro Arts Showcase, at Teatro Municipal Gonzaguinha, from November 26 to 28.",
-   "sinopse_es": "Primera edición de la Muestra de Artes de Terreiro Os Ciclomáticos, en el Teatro Municipal Gonzaguinha, del 26 al 28 de noviembre.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "First edition of a showcase bringing together artistic works born in terreiros and their knowledge, at Teatro Municipal Gonzaguinha.",
+   "sinopse_es": "Primera edición de una muestra que reúne trabajos artísticos nacidos de los terreiros y de sus saberes, en el Teatro Municipal Gonzaguinha.",
+   "faixa": "gratis",
    "status": "a_confirmar"
   },
   {
@@ -4239,11 +4420,11 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -4256,15 +4437,15 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Ariane Mathias apresenta \"Rindo de Nervoso\".",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Na Semana da Comédia do Teatro Municipal Ziembinski, edição Queer Comedy, Ariane Mathias apresenta \"Rindo de Nervoso\": stand-up sobre a vida de uma mulher negra e bissexual criada na periferia do Rio, às voltas com a crise dos 30 anos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128540",
    "id": "f-d219493664",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "A Festival Queer Comedy night, part of the Comedy Week at Teatro Municipal Ziembinski, in Tijuca: Ariane Mathias performs \"Rindo de Nervoso\".",
-   "sinopse_es": "Noche del Festival Queer Comedy, dentro de la Semana de la Comedia del Teatro Municipal Ziembinski, en Tijuca: Ariane Mathias presenta \"Rindo de Nervoso\".",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "At the Teatro Municipal Ziembinski's Comedy Week, Queer Comedy edition, Ariane Mathias performs \"Rindo de Nervoso\": stand-up about the life of a Black bisexual woman raised on the outskirts of Rio, dealing with the crisis of turning 30.",
+   "sinopse_es": "En la Semana de la Comedia del Teatro Municipal Ziembinski, edición Queer Comedy, Ariane Mathias presenta \"Rindo de Nervoso\": stand-up sobre la vida de una mujer negra y bisexual criada en la periferia de Río, en plena crisis de los 30.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -4275,11 +4456,11 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -4292,15 +4473,15 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Yuri Marçal festeja dez anos de stand-up com seu quinto solo, em que transforma em piada a infância num terreiro, ao lado da mãe de santo, e os choques entre tradição religiosa, preconceito e internet.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126804",
    "id": "f-db9886b6e6",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Areninha Cultural Hermeto Pascoal, in Bangu.",
-   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Areninha Cultural Hermeto Pascoal, en Bangu.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Yuri Marçal marks ten years of stand-up with his fifth solo show, turning into jokes a childhood spent in a terreiro, next to his mãe de santo mother, and the clashes between religious tradition, prejudice and the internet.",
+   "sinopse_es": "Yuri Marçal celebra diez años de stand-up con su quinto solo, en el que convierte en chiste una infancia en un terreiro, junto a su madre mãe de santo, y los choques entre tradición religiosa, prejuicio e internet.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -4349,6 +4530,41 @@
    "sinopse_en": "\"Nhá Eva\" runs at Companhia de Teatro Contemporâneo, in Botafogo, until November 29.",
    "sinopse_es": "\"Nhá Eva\" en cartel en la Companhia de Teatro Contemporâneo, en Botafogo, hasta el 29 de noviembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 45 a R$ 90",
+   "preco_min": 45,
+   "preco_max": 90,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Arianna Nutt: De Repente 40",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Solo de humor de Arianna Nutt, que passou pelo Comedy Central e pelo Risorama e recebeu o prêmio de humorista revelação do festival Risadaria em 2019.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-f58b661900",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Comedy solo by Arianna Nutt, who has performed on Comedy Central and at Risorama and won the breakthrough comedian award at the Risadaria festival in 2019.",
+   "sinopse_es": "Solo de humor de Arianna Nutt, que pasó por Comedy Central y por Risorama y recibió el premio de humorista revelación del festival Risadaria en 2019.",
+   "faixa": "acima80",
    "status": "conferido"
   },
   {
@@ -4651,6 +4867,42 @@
    "sessoes": [
     {
      "data": "2026-11-27",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Roda de leitura: \"O menino só\", de Andrea Taubman",
+   "areas": [
+    "Infantil",
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Ecio Salles (Planetário)",
+   "endereco": "Rua Vice-Governador Rubens Berardo, 100 (Planetário)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Contação do livro \"O menino só\", de Andrea Taubman, seguida de atividades, na biblioteca do Planetário da Gávea.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-5a864a586c",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Storytelling of the book \"O menino só\" by Andrea Taubman, followed by activities, at the library of the Planetário in Gávea.",
+   "sinopse_es": "Narración del libro \"O menino só\", de Andrea Taubman, seguida de actividades, en la biblioteca del Planetário de Gávea.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
      "hora": "11:00"
     },
     {
@@ -4762,7 +5014,7 @@
    "sinopse_en": "Escola do Olhar's conference at MAR on education and ethnic-racial relations, themed \"Territórios de Pertencimento\". Runs until November 29.",
    "sinopse_es": "Jornada de la Escola do Olhar en el MAR sobre educación y relaciones étnico-raciales, con el tema \"Territórios de Pertencimento\". Sigue hasta el 29 de noviembre.",
    "faixa": "nao_informado",
-   "status": "conferido"
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -4958,11 +5210,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -4975,15 +5227,15 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Lançamento do álbum \"Mãe África\", de Wesley Nóog e a Banda Roda Jardim Suspenso, na série Sextas Lançamentos do Centro da Música Carioca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Wesley Nóog lança \"Mãe África\", seu oitavo álbum de estúdio, nos 20 anos de carreira, em show com a Banda Roda Jardim Suspenso que junta samba e danças urbanas e de salão.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128255",
    "id": "f-2bc42b1a23",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "Launch of the album \"Mãe África\" by Wesley Nóog and Banda Roda Jardim Suspenso, in the Sextas Lançamentos series at Centro da Música Carioca.",
-   "sinopse_es": "Lanzamiento del álbum \"Mãe África\", de Wesley Nóog y la Banda Roda Jardim Suspenso, en la serie Sextas Lançamentos del Centro da Música Carioca.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Wesley Nóog launches \"Mãe África\", his eighth studio album, marking 20 years of career, in a show with Banda Roda Jardim Suspenso that brings together samba and urban and ballroom dance.",
+   "sinopse_es": "Wesley Nóog lanza \"Mãe África\", su octavo álbum de estudio, en sus 20 años de carrera, en un show con la Banda Roda Jardim Suspenso que une samba y danzas urbanas y de salón.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -5201,11 +5453,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -5218,15 +5470,15 @@
    "endereco": "Parque Poeta Manuel Bandeira, s/nº",
    "bairro": "Cocotá (Ilha do Governador)",
    "regiao": "Zona Norte",
-   "sinopse": "Espetáculo \"O Circo Se Constrói\" na Areninha Cultural Renato Russo, na Ilha do Governador.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Montagem de dança dirigida por Raissa Martins, a partir de um caso verídico, que mistura vários estilos de dança com o circo e a cultura popular; o elenco tem gente de várias idades. Duração: 60 minutos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129212",
    "id": "f-ebbedebb15",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "The show \"O Circo Se Constrói\" at Areninha Cultural Renato Russo, on Ilha do Governador.",
-   "sinopse_es": "Espectáculo \"O Circo Se Constrói\" en la Areninha Cultural Renato Russo, en la Ilha do Governador.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Dance production directed by Raissa Martins, based on a true case, mixing several dance styles with circus and popular culture; the cast spans several ages. Running time: 60 minutes.",
+   "sinopse_es": "Montaje de danza dirigido por Raissa Martins, a partir de un caso verídico, que mezcla varios estilos de danza con el circo y la cultura popular; el elenco reúne gente de varias edades. Duración: 60 minutos.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -5400,11 +5652,11 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -5417,14 +5669,15 @@
    "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
    "bairro": "Madureira",
    "regiao": "Zona Norte",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Arena Carioca Fernando Torres, em Madureira.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "No quinto solo de stand-up, nos 10 anos de carreira, Yuri Marçal, filho de mãe de santo, fala de sua vida nas religiões de matriz africana e do sentido da palavra \"macumbeiro\", passando por intolerância religiosa e fake news.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126727",
    "id": "f-132c6ce110",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Arena Carioca Fernando Torres, in Madureira.",
-   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Arena Carioca Fernando Torres, en Madureira.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "In his fifth stand-up solo, marking 10 years of career, Yuri Marçal, son of a mãe de santo, talks about his life in Afro-Brazilian religions and the meaning of the word \"macumbeiro\", touching on religious intolerance and fake news.",
+   "sinopse_es": "En su quinto solo de stand-up, en sus 10 años de carrera, Yuri Marçal, hijo de una mãe de santo, habla de su vida en las religiones de matriz africana y del sentido de la palabra \"macumbeiro\", pasando por la intolerancia religiosa y las fake news.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -5686,11 +5939,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -5703,16 +5956,16 @@
    "endereco": "Rua Visconde de Silva, ao lado do nº 292",
    "bairro": "Humaitá",
    "regiao": "Zona Sul",
-   "sinopse": "\"Minha Vó Ri\" em cartaz no Espaço Cultural Municipal Sérgio Porto, no Humaitá, até 13 de dezembro.",
+   "sinopse": "Júlia Bernat faz seu primeiro solo, dirigida por Débora Lamm, misturando relato pessoal e pesquisa sobre a trajetória do movimento lésbico, com menções a Chantal Akerman e Rosely Roth; na trilha, Ângela Ro Ro e Cássia Eller.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128323",
    "id": "f-a8b365287d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "\"Minha Vó Ri\" runs at Espaço Cultural Municipal Sérgio Porto, in Humaitá, until December 13.",
-   "sinopse_es": "\"Minha Vó Ri\" en cartel en el Espaço Cultural Municipal Sérgio Porto, en Humaitá, hasta el 13 de diciembre.",
-   "faixa": "nao_informado",
-   "status": "conferido"
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Júlia Bernat performs her first solo piece, directed by Débora Lamm, mixing personal account and research into the history of the lesbian movement, with mentions of Chantal Akerman and Rosely Roth; on the soundtrack, Ângela Ro Ro and Cássia Eller.",
+   "sinopse_es": "Júlia Bernat presenta su primer solo, dirigida por Débora Lamm, mezclando relato personal e investigación sobre la trayectoria del movimiento lésbico, con menciones a Chantal Akerman y Rosely Roth; en la banda sonora, Ângela Ro Ro y Cássia Eller.",
+   "faixa": "ate80",
+   "status": "a_confirmar"
   },
   {
    "cartaz": null,
@@ -5722,11 +5975,11 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -5739,15 +5992,15 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Cris Silva Cruz apresenta \"Credo Que Delícia\".",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Na Semana da Comédia do Ziembinski, edição Queer Comedy, Cris Silva Cruz fala dos 50 anos de idade, da infância numa família de dez irmãos e da mãe que manteve todos unidos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129023",
    "id": "f-d13457973d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22",
-   "sinopse_en": "A Festival Queer Comedy night, part of the Comedy Week at Teatro Municipal Ziembinski, in Tijuca: Cris Silva Cruz performs \"Credo Que Delícia\".",
-   "sinopse_es": "Noche del Festival Queer Comedy, dentro de la Semana de la Comedia del Teatro Municipal Ziembinski, en Tijuca: Cris Silva Cruz presenta \"Credo Que Delícia\".",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "At the Ziembinski's Comedy Week, Queer Comedy edition, Cris Silva Cruz talks about turning 50, growing up in a family of ten siblings and the mother who kept them all together.",
+   "sinopse_es": "En la Semana de la Comedia del Ziembinski, edición Queer Comedy, Cris Silva Cruz habla de sus 50 años, de su infancia en una familia de diez hermanos y de la madre que los mantuvo unidos.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -5875,11 +6128,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -5892,15 +6145,15 @@
    "endereco": "Av. Ataulfo de Paiva, 269",
    "bairro": "Leblon",
    "regiao": "Zona Sul",
-   "sinopse": "\"Mistério Buffo\" no Teatro Municipal Café Pequeno, no Leblon, de 27 a 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Douglas Kodi interpreta sozinho narrativas de Dario Fo e Franca Rame, numa combinação diferente a cada noite, no centenário de nascimento do dramaturgo italiano.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129347",
    "id": "f-f8ed502f79",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "\"Mistério Buffo\" at Teatro Municipal Café Pequeno, in Leblon, from November 27 to 29.",
-   "sinopse_es": "\"Mistério Buffo\" en el Teatro Municipal Café Pequeno, en Leblon, del 27 al 29 de noviembre.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Douglas Kodi performs alone stories by Dario Fo and Franca Rame, in a different combination each night, on the centenary of the Italian playwright's birth.",
+   "sinopse_es": "Douglas Kodi interpreta en solitario narraciones de Dario Fo y Franca Rame, en una combinación distinta cada noche, en el centenario del nacimiento del dramaturgo italiano.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -6062,6 +6315,42 @@
     {
      "data": "2026-11-28",
      "hora": "09:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "De Piriri na Rede",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Espetáculo infantil premiado por direção e sonoplastia no Fetecirco 2025, do Ponto de Cultura Palhaçadaria e da JM Produções. Direção de Jailson Santos e Jairo Santos; no elenco, Eduardo Lage.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-3009262db4",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Children's show that won awards for direction and sound design at Fetecirco 2025, by Ponto de Cultura Palhaçadaria and JM Produções. Directed by Jailson Santos and Jairo Santos; cast: Eduardo Lage.",
+   "sinopse_es": "Espectáculo infantil premiado por dirección y sonido en el Fetecirco 2025, del Ponto de Cultura Palhaçadaria y JM Produções. Dirección de Jailson Santos y Jairo Santos; en el elenco, Eduardo Lage.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "09:00"
     },
     {
      "data": "2026-12-05",
@@ -6097,6 +6386,121 @@
    "entrou_em": "2026-11-22",
    "sinopse_en": "Visual poetry installation: an origami oracle box holds viewers with four visual poems.",
    "sinopse_es": "Instalación de poesía visual: una caja-oráculo de origami guarda monóculos con cuatro poemas visuales.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Dia dos Países Africanos – Edição Consciência Negra",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Festival dedicado à cultura dos países africanos e ao que eles legaram ao Brasil, no Muhcab, na Gamboa.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-1e1a3a0566",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Festival devoted to the culture of African countries and to what they bequeathed to Brazil, at Muhcab, in Gamboa.",
+   "sinopse_es": "Festival dedicado a la cultura de los países africanos y a lo que legaron a Brasil, en el Muhcab, en Gamboa.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "10:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": true,
+   "aviso": "",
+   "titulo": "Carnaval das Culturas",
+   "areas": [
+    "Festas & Feiras",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Parque Glória Maria",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sinopse": "Festival de danças de várias culturas no Parque Glória Maria, em Santa Teresa, com barracas de artesanato e comida.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-1e99682229",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Festival of dances from various cultures at Parque Glória Maria, in Santa Teresa, with crafts and food stalls.",
+   "sinopse_es": "Festival de danzas de varias culturas en el Parque Glória Maria, en Santa Teresa, con puestos de artesanía y comida.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "titulo": "A Cura da Terra – Pequenas Revoluções",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "11:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "A banda Pequenas Revoluções canta e conta episódios de levantes indígenas latino-americanos, num espetáculo inspirado no livro “A Cura da Terra”, de Eliane Potiguara.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "2026-11-19-005",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "The band Pequenas Revoluções sings and tells episodes of Latin American Indigenous uprisings, in a show inspired by the book “A Cura da Terra” by Eliane Potiguara.",
+   "sinopse_es": "La banda Pequenas Revoluções canta y cuenta episodios de levantamientos indígenas latinoamericanos, en un espectáculo inspirado en el libro “A Cura da Terra”, de Eliane Potiguara.",
    "faixa": "gratis",
    "status": "conferido"
   },
@@ -6188,6 +6592,42 @@
      "hora": "14:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival de Hip Hop After Dance",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Sandra de Sá",
+   "endereco": "Rua Doze, 1",
+   "bairro": "Santa Cruz",
+   "regiao": "Zona Oeste",
+   "sinopse": "Festival do After Dance com a associação de moradores AMLB: grupos de dança, apresentações de hip hop e rimas de artistas da comunidade, numa tarde aberta a famílias e jovens.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-369717188d",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "A festival by After Dance with the AMLB residents' association: dance groups, hip hop performances and rhymes by community artists, in an afternoon open to families and young people.",
+   "sinopse_es": "Festival de After Dance con la asociación de vecinos AMLB: grupos de danza, presentaciones de hip hop y rimas de artistas de la comunidad, en una tarde abierta a familias y jóvenes.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "14:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -6213,6 +6653,41 @@
    "sinopse_en": "Samba do Pedro plays at Largo do Boticário, in Cosme Velho, in the Feijuca com Samba series.",
    "sinopse_es": "El Samba do Pedro toca en el Largo do Boticário, en Cosme Velho, en la serie Feijuca com Samba.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "14:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Decompositions / Decomposições",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Municipal de Arte Hélio Oiticica",
+   "endereco": "Rua Luís de Camões, 68",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Peça concebida, dirigida e interpretada por Tannis Kowalchuk, que parte da ideia de decomposição para pensar o que é viver plenamente.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-3bce755968",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Play conceived, directed and performed by Tannis Kowalchuk, which starts from the idea of decomposition to reflect on what it means to live fully.",
+   "sinopse_es": "Obra concebida, dirigida e interpretada por Tannis Kowalchuk, que parte de la idea de descomposición para pensar qué es vivir plenamente.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -6358,16 +6833,17 @@
      "hora": "16:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
-   "titulo": "Reunião Geral das Palavras",
+   "titulo": "Lançamento de \"Reunião Geral das Palavras\", de Cecília Ripoll",
    "areas": [
+    "Livros & Debates",
     "Teatro"
    ],
    "tipo": "evento",
@@ -6375,14 +6851,51 @@
    "endereco": "Rua Visconde de Silva, ao lado do nº 292",
    "bairro": "Humaitá",
    "regiao": "Zona Sul",
-   "sinopse": "Coletânea com cinco peças de Cecilia Ripoll, no Espaço Cultural Municipal Sérgio Porto, no Humaitá.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Lançamento do livro da Editora Javali com cinco peças de Cecília Ripoll. A autora estará presente, e atores e atrizes dos elencos encenam e leem trechos dos textos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129799",
    "id": "f-43ec59dad8",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "A collection of five plays by Cecilia Ripoll, at Espaço Cultural Municipal Sérgio Porto, in Humaitá.",
-   "sinopse_es": "Colección de cinco obras de Cecilia Ripoll, en el Espaço Cultural Municipal Sérgio Porto, en Humaitá.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Launch of the Editora Javali book with five plays by Cecília Ripoll. The author will be present, and actors and actresses from the casts stage and read excerpts from the texts.",
+   "sinopse_es": "Lanzamiento del libro de la Editora Javali con cinco obras de Cecília Ripoll. La autora estará presente, y actores y actrices de los elencos escenifican y leen fragmentos de los textos.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Tentativa 74",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Espetáculo infantil levado ao palco por Rafael de Andrade, uma aventura em torno do aprendizado.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/129698",
+   "id": "f-485ffbd70b",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "A children's show brought to the stage by Rafael de Andrade, an adventure about learning.",
+   "sinopse_es": "Espectáculo infantil llevado al escenario por Rafael de Andrade, una aventura en torno al aprendizaje.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -6596,6 +7109,41 @@
      "hora": "17:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Sarau Herdeiros da Nossa História",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Abelardo Barbosa – Chacrinha",
+   "endereco": "Rua Soldado Eliseu Hipólito, s/nº",
+   "bairro": "Pedra de Guaratiba",
+   "regiao": "Zona Oeste",
+   "sinopse": "Sarau temático dedicado a dar visibilidade à produção de artistas negros de Pedra de Guaratiba e arredores.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-349a24b226",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "A themed sarau devoted to giving visibility to the work of Black artists from Pedra de Guaratiba and nearby.",
+   "sinopse_es": "Sarao temático dedicado a dar visibilidad a la producción de artistas negros de Pedra de Guaratiba y alrededores.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -6666,11 +7214,11 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -6683,14 +7231,15 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Elaine Machado e a Banda Raça Brasileira apresentam \"História da Diva\" na série Sábado Homenagem do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "A sambista Elaine Machado comemora 40 anos de carreira ao lado da banda Raça Brasileira, com sucessos dos discos \"Jeito Maneiro\" e \"Tempo de Festa\" e homenagens a parceiros como Beto Sem Braço.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128256",
    "id": "f-a0af483c60",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Elaine Machado and Banda Raça Brasileira present \"História da Diva\" in the Sábado Homenagem series at Centro da Música Carioca, in Tijuca.",
-   "sinopse_es": "Elaine Machado y la Banda Raça Brasileira presentan \"História da Diva\" en la serie Sábado Homenagem del Centro da Música Carioca, en Tijuca.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Samba singer Elaine Machado celebrates 40 years of career alongside the band Raça Brasileira, with hits from the albums \"Jeito Maneiro\" and \"Tempo de Festa\" and tributes to partners such as Beto Sem Braço.",
+   "sinopse_es": "La sambista Elaine Machado celebra 40 años de carrera junto a la banda Raça Brasileira, con éxitos de los discos \"Jeito Maneiro\" y \"Tempo de Festa\" y homenajes a compañeros como Beto Sem Braço.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -6701,11 +7250,11 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "14 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -6718,14 +7267,15 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "\"Bem-vindo a Bangu\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Peça de humor com reviravoltas, levada ao palco por Rafael de Andrade e Rômulo Moura, com piadas sobre a vida no subúrbio.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129701",
    "id": "f-cb548d2990",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "\"Bem-vindo a Bangu\" at Areninha Cultural Hermeto Pascoal, in Bangu.",
-   "sinopse_es": "\"Bem-vindo a Bangu\" en la Areninha Cultural Hermeto Pascoal, en Bangu.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A comedy play with twists, brought to the stage by Rafael de Andrade and Rômulo Moura, with jokes about life in the suburbs.",
+   "sinopse_es": "Obra de humor con giros, llevada al escenario por Rafael de Andrade y Rômulo Moura, con chistes sobre la vida en el suburbio.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -6767,6 +7317,41 @@
    "sinopse_en": "A staging of \"A Bruxinha que Era Boa\" runs at O Tablado, in Jardim Botânico, at 5 pm, until November 29.",
    "sinopse_es": "Montaje de \"A Bruxinha que Era Boa\" en cartel en O Tablado, en Jardim Botânico, a las 17 h, hasta el 29 de noviembre.",
    "faixa": "nao_informado",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Sarau Solos Suburbanos",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite de poesia e números artísticos que dá palco ao que se cria nos bairros do subúrbio do Rio.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-e6c784f0fc",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "An evening of poetry and artistic acts that gives a stage to what is created in Rio's suburban neighbourhoods.",
+   "sinopse_es": "Noche de poesía y números artísticos que da escenario a lo que se crea en los barrios del suburbio de Río.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -6836,11 +7421,11 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20 a R$ 40",
+   "preco_min": 20,
+   "preco_max": 40,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -6853,15 +7438,15 @@
    "endereco": "Rua Murtinho Nobre, 169",
    "bairro": "Santa Teresa",
    "regiao": "Centro",
-   "sinopse": "\"Maria no Fio da Navalha\" em cartaz no Teatro Municipal Ruth de Souza, em Santa Teresa, até 6 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Uma mulher que cresceu nas ruas da Lapa enfrenta violência e exploração até se tornar Maria Navalha. A peça, em três vozes, junta samba, poesia, capoeira e elementos das religiões afro-brasileiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128568",
    "id": "f-ef4b37b8ed",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "\"Maria no Fio da Navalha\" runs at Teatro Municipal Ruth de Souza, in Santa Teresa, until December 6.",
-   "sinopse_es": "\"Maria no Fio da Navalha\" en cartel en el Teatro Municipal Ruth de Souza, en Santa Teresa, hasta el 6 de diciembre.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A woman who grew up on the streets of Lapa faces violence and exploitation until she becomes Maria Navalha. The play, in three voices, brings together samba, poetry, capoeira and elements of Afro-Brazilian religions.",
+   "sinopse_es": "Una mujer que creció en las calles de Lapa enfrenta violencia y explotación hasta convertirse en Maria Navalha. La obra, en tres voces, reúne samba, poesía, capoeira y elementos de las religiones afrobrasileñas.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -7271,11 +7856,11 @@
      "hora": "18:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "18 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -7288,15 +7873,15 @@
    "endereco": "Rua José Higino, 115",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "\"Fora de Quadro\" no Centro Coreográfico da Cidade, na Tijuca, em 28 e 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Espetáculo de dança da Improvável Produções que reúne integrantes antigos do grupo e artistas da ação Práticas Abertas, com Ballroom/Voguing, Waacking, Locking, hip-hop, jazz e sapateado, a partir do muro de um batalhão do Exército na Tijuca marcado pela ditadura.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128863",
    "id": "f-9944b1aa2c",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25",
-   "sinopse_en": "\"Fora de Quadro\" at the Centro Coreográfico da Cidade, in Tijuca, on November 28 and 29.",
-   "sinopse_es": "\"Fora de Quadro\" en el Centro Coreográfico da Cidade, en Tijuca, el 28 y 29 de noviembre.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Dance piece by Improvável Produções bringing together long-standing members of the group and artists from its Práticas Abertas programme, with Ballroom/Voguing, Waacking, Locking, hip-hop, jazz and tap, starting from the wall of an Army battalion in Tijuca marked by the dictatorship.",
+   "sinopse_es": "Espectáculo de danza de Improvável Produções que reúne a integrantes antiguos del grupo y artistas de la acción Práticas Abertas, con Ballroom/Voguing, Waacking, Locking, hip-hop, jazz y claqué, a partir del muro de un batallón del Ejército en Tijuca marcado por la dictadura.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -7456,11 +8041,11 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35",
+   "preco_min": 35,
+   "preco_max": 35,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -7473,14 +8058,15 @@
    "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
    "bairro": "Pechincha",
    "regiao": "Zona Sudoeste",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Jacob do Bandolim, no Pechincha.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "No quinto solo de stand-up, nos 10 anos de carreira, Yuri Marçal, filho de mãe de santo, fala de sua vida nas religiões de matriz africana e do sentido da palavra \"macumbeiro\", passando por intolerância religiosa e fake news.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/127034",
    "id": "f-6576ed5f1c",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Areninha Cultural Jacob do Bandolim, in Pechincha.",
-   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Areninha Cultural Jacob do Bandolim, en Pechincha.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "In his fifth stand-up solo, marking 10 years of career, Yuri Marçal, son of a mãe de santo, talks about his life in Afro-Brazilian religions and the meaning of the word \"macumbeiro\", touching on religious intolerance and fake news.",
+   "sinopse_es": "En su quinto solo de stand-up, en sus 10 años de carrera, Yuri Marçal, hijo de una mãe de santo, habla de su vida en las religiones de matriz africana y del sentido de la palabra \"macumbeiro\", pasando por la intolerancia religiosa y las fake news.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -7491,11 +8077,46 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
+   "gratis": true,
+   "classificacao": "14 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Misturando o Som: Zona Oeste Jazz & Blues",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Noite de jazz e blues do projeto coletivo Misturando o Som, com Robertinho de Paula, Back in Blues e Cesinha Almuinha; nos intervalos, o Clube do Vinil toca música brasileira no varandão.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-84a0f12099",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "A jazz and blues night from the collective project Misturando o Som, with Robertinho de Paula, Back in Blues and Cesinha Almuinha; between sets, Clube do Vinil plays Brazilian music on the veranda.",
+   "sinopse_es": "Noche de jazz y blues del proyecto colectivo Misturando o Som, con Robertinho de Paula, Back in Blues y Cesinha Almuinha; en los intervalos, el Clube do Vinil pone música brasileña en la terraza.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 40 a R$ 80",
+   "preco_min": 40,
+   "preco_max": 80,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -7508,14 +8129,15 @@
    "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
    "bairro": "Madureira",
    "regiao": "Zona Norte",
-   "sinopse": "Show dos Gilsons na Arena Carioca Fernando Torres, em Madureira.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "José Gil, João Gil e Francisco Gil, filho e netos de Gilberto Gil, voltam a Madureira para um show único em que também celebram a obra de Gil.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/127258",
    "id": "f-8d7f1ac2c1",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Gilsons in concert at Arena Carioca Fernando Torres, in Madureira.",
-   "sinopse_es": "Concierto de Gilsons en la Arena Carioca Fernando Torres, en Madureira.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "José Gil, João Gil and Francisco Gil, son and grandsons of Gilberto Gil, return to Madureira for a one-off show that also celebrates Gil's work.",
+   "sinopse_es": "José Gil, João Gil y Francisco Gil, hijo y nietos de Gilberto Gil, vuelven a Madureira para un show único en el que también celebran la obra de Gil.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -7682,11 +8304,11 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "14 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -7699,14 +8321,15 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Noite de comédia do Bonfim Comedy Show na Semana da Comédia do Festival Queer Comedy, no Teatro Municipal Ziembinski.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O ator e comediante Diogo Bonfim conta casos pessoais e histórias do dia a dia e dá vida a personagens como a socialite Nascinza e a vidente Morta Sensitiva, na Semana da Comédia do Ziembinski.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128301",
    "id": "f-e76af35dff",
    "entrou_em": "2026-11-23",
-   "sinopse_en": "A comedy night by Bonfim Comedy Show during the Queer Comedy Festival's Comedy Week, at Teatro Municipal Ziembinski.",
-   "sinopse_es": "Noche de comedia del Bonfim Comedy Show en la Semana de la Comedia del Festival Queer Comedy, en el Teatro Municipal Ziembinski.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Actor and comedian Diogo Bonfim tells personal stories and everyday tales and brings to life characters such as the socialite Nascinza and the psychic Morta Sensitiva, at the Ziembinski's Comedy Week.",
+   "sinopse_es": "El actor y humorista Diogo Bonfim cuenta casos personales e historias del día a día y da vida a personajes como la socialité Nascinza y la vidente Morta Sensitiva, en la Semana de la Comedia del Ziembinski.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -7979,11 +8602,11 @@
      "hora": "21:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -7996,14 +8619,15 @@
    "endereco": "Parque Poeta Manuel Bandeira, s/nº",
    "bairro": "Cocotá (Ilha do Governador)",
    "regiao": "Zona Norte",
-   "sinopse": "Guilherme Lemos e os Filhos da Revolução tocam Legião Urbana na Areninha Cultural Renato Russo, na Ilha do Governador.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Guilherme Lemos e os Filhos da Revolução tocam o repertório da Legião Urbana na areninha que leva o nome de Renato Russo, no ano em que se completam 30 anos de sua morte. Apresentação única.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128850",
    "id": "f-ced40906a9",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Guilherme Lemos e os Filhos da Revolução play Legião Urbana at Areninha Cultural Renato Russo, on Ilha do Governador.",
-   "sinopse_es": "Guilherme Lemos e os Filhos da Revolução tocan Legião Urbana en la Areninha Cultural Renato Russo, en la Ilha do Governador.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Guilherme Lemos e os Filhos da Revolução play the Legião Urbana songbook at the venue named after Renato Russo, in the year marking 30 years since his death. One-off performance.",
+   "sinopse_es": "Guilherme Lemos e os Filhos da Revolução tocan el repertorio de Legião Urbana en la areninha que lleva el nombre de Renato Russo, en el año en que se cumplen 30 años de su muerte. Presentación única.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -8074,6 +8698,184 @@
    "sinopse_en": "\"Antes de Mim\", by Projeto Na Ponta dos Pés, in the Palco Leopoldina series at Arena Cultural Dicró, in Penha.",
    "sinopse_es": "\"Antes de Mim\", del Projeto Na Ponta dos Pés, en la serie Palco Leopoldina de la Arena Cultural Dicró, en Penha.",
    "faixa": "nao_informado",
+   "status": "a_confirmar"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "09:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Confraria dos Homens Pretos – roda de conversa",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Roda de conversa sobre a identidade do homem negro, com troca de experiências e reflexão sobre ancestralidade e coletividade.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-bb6421c844",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Conversation circle on Black male identity, with an exchange of experiences and reflection on ancestry and community.",
+   "sinopse_es": "Rueda de conversación sobre la identidad del hombre negro, con intercambio de experiencias y reflexión sobre ancestralidad y colectividad.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "titulo": "Domingo recreativo para crianças",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Sandra de Sá",
+   "endereco": "Rua Doze, 1",
+   "bairro": "Santa Cruz",
+   "regiao": "Zona Oeste",
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Jogos, brincadeiras e pintura conduzidos pela equipe da areninha, todo domingo.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "2026-11-19-086",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Games, play and painting led by the areninha's team, every Sunday.",
+   "sinopse_es": "Juegos, actividades y pintura a cargo del equipo de la areninha, todos los domingos.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": true,
+   "aviso": "",
+   "titulo": "Cortejo Escola Olodum",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Cortejo de tambores da Escola Olodum, na Gamboa, em celebração à música e às tradições afro-brasileiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-1c8ab2131c",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Drum procession by Escola Olodum, in Gamboa, celebrating Afro-Brazilian music and traditions.",
+   "sinopse_es": "Cortejo de tambores de la Escola Olodum, en Gamboa, en celebración de la música y las tradiciones afrobrasileñas.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Festival Desapegue-se",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "A 125ª edição do Festival Desapegue-se reúne atividades artísticas e formativas sobre economia circular e sustentabilidade em quatro espaços da Leopoldina; na Arena Dicró, a programação é no domingo.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/129084",
+   "id": "f-781686ca1c",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "The 125th edition of Festival Desapegue-se brings together artistic and educational activities on the circular economy and sustainability in four venues in the Leopoldina area; at Arena Dicró, the programme is on Sunday.",
+   "sinopse_es": "La 125.ª edición del Festival Desapegue-se reúne actividades artísticas y formativas sobre economía circular y sostenibilidad en cuatro espacios de la Leopoldina; en la Arena Dicró, la programación es el domingo.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "The Herock",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro de Fantoches e Marionetes Carlos Werneck de Carvalho",
+   "endereco": "Aterro do Flamengo, altura do Posto 3",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Mister Copini mistura rock e circo em 50 minutos de malabarismo, jogos de máscaras e improviso; no final, sobe no monociclo e, lá em cima, equilibra uma bola de cristal.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-d86b0e991e",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Mister Copini blends rock and circus in 50 minutes of juggling, mask play and improvisation; at the end, he gets on a unicycle and, up there, balances a crystal ball.",
+   "sinopse_es": "Mister Copini mezcla rock y circo en 50 minutos de malabares, juegos de máscaras e improvisación; al final, se sube al monociclo y, allí arriba, equilibra una bola de cristal.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -8084,11 +8886,11 @@
      "hora": "11:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 5 a R$ 10",
+   "preco_min": 5,
+   "preco_max": 10,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -8101,14 +8903,15 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "O Quarteto Jequitibá apresenta \"Retratos do Brasil – Uma viagem pela Música Brasileira\" na série Clássicos Domingos do Centro da Música Carioca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Quarteto de jovens músicos da UNIRIO toca \"Cantilena\", de Villa-Lobos, a \"Suíte para Cordas\", de Radamés Gnattali, e \"Ijexá\" e \"Cantiga – Baião e Frevo\", de Hércules Gomes, na série Clássicos Domingos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128654",
    "id": "f-a59ccd7888",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Quarteto Jequitibá presents \"Retratos do Brasil – Uma viagem pela Música Brasileira\" in the Clássicos Domingos series at Centro da Música Carioca.",
-   "sinopse_es": "El Quarteto Jequitibá presenta \"Retratos do Brasil – Uma viagem pela Música Brasileira\" en la serie Clássicos Domingos del Centro da Música Carioca.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "A quartet of young UNIRIO musicians plays \"Cantilena\" by Villa-Lobos, the \"Suíte para Cordas\" by Radamés Gnattali, and \"Ijexá\" and \"Cantiga – Baião e Frevo\" by Hércules Gomes, in the Clássicos Domingos series.",
+   "sinopse_es": "Un cuarteto de jóvenes músicos de la UNIRIO toca \"Cantilena\", de Villa-Lobos, la \"Suíte para Cordas\", de Radamés Gnattali, e \"Ijexá\" y \"Cantiga – Baião e Frevo\", de Hércules Gomes, en la serie Clássicos Domingos.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -8119,11 +8922,11 @@
      "hora": "12:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -8136,14 +8939,50 @@
    "endereco": "Parque Poeta Manuel Bandeira, s/nº",
    "bairro": "Cocotá (Ilha do Governador)",
    "regiao": "Zona Norte",
-   "sinopse": "Encontro dedicado aos animes na Areninha Cultural Renato Russo, na Ilha do Governador.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Encontro de cultura pop japonesa com videogames, jogos de tabuleiro, expositores, concurso e encontro de cosplay, troca de cartas Pokémon, animekê e brincadeiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129219",
    "id": "f-c4d8d90c91",
    "entrou_em": "2026-11-23",
-   "sinopse_en": "A gathering devoted to anime at Areninha Cultural Renato Russo, on Ilha do Governador.",
-   "sinopse_es": "Encuentro dedicado al anime en la Areninha Cultural Renato Russo, en la Ilha do Governador.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Japanese pop culture gathering with video games, board games, exhibitors, a cosplay contest and meetup, Pokémon card trading, animekê and games.",
+   "sinopse_es": "Encuentro de cultura pop japonesa con videojuegos, juegos de mesa, expositores, concurso y encuentro de cosplay, intercambio de cartas Pokémon, animekê y juegos.",
+   "faixa": "popular",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Percursos imersivos no MHC: a presença negra na cidade",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "evento",
+   "local": "Museu Histórico da Cidade",
+   "endereco": "Estrada Santa Marinha, s/nº",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Visita mediada pela exposição de longa duração e pelo parque do Museu Histórico da Cidade, sobre a presença negra no Rio e sua marca na cultura, nas artes e na arquitetura.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-00ba0202ca",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Guided visit through the long-term exhibition and the park of the Museu Histórico da Cidade, on the Black presence in Rio and its mark on culture, the arts and architecture.",
+   "sinopse_es": "Visita mediada por la exposición de larga duración y el parque del Museu Histórico da Cidade, sobre la presencia negra en Río y su huella en la cultura, las artes y la arquitectura.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -8294,31 +9133,32 @@
      "hora": "15:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
    "titulo": "Festival Esperançar",
    "areas": [
-    "Festas & Feiras"
+    "Música"
    ],
    "tipo": "evento",
    "local": "Areninha Cultural Terra",
    "endereco": "Rua Marcos de Macedo, s/nº",
    "bairro": "Guadalupe",
    "regiao": "Zona Norte",
-   "sinopse": "Festival Esperançar na Areninha Cultural Terra, em Guadalupe.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Festa musical organizada pelo canal e podcast Esperançar, de Allan Rodrigues, com bandas e conjuntos espíritas de estilos variados. Apresentação única.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129274",
    "id": "f-cb7bacc156",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Festival Esperançar at Areninha Cultural Terra, in Guadalupe.",
-   "sinopse_es": "Festival Esperançar en la Areninha Cultural Terra, en Guadalupe.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Music gathering organized by the Esperançar channel and podcast, by Allan Rodrigues, with Spiritist bands and ensembles of varied styles. One-off event.",
+   "sinopse_es": "Encuentro musical organizado por el canal y pódcast Esperançar, de Allan Rodrigues, con bandas y conjuntos espíritas de estilos variados. Presentación única.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -8478,11 +9318,11 @@
      "hora": "16:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -8495,14 +9335,15 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "O Desdobrar das Histórias apresenta \"Árvore de Histórias\" na série Domingo das Crianças do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O grupo O Desdobrar das Histórias narra contos de tradição oral africana e afro-brasileira enquanto faz dobraduras de papel, na série Domingo das Crianças.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129704",
    "id": "f-e2b00c012e",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "O Desdobrar das Histórias presents \"Árvore de Histórias\" in the Domingo das Crianças series at Centro da Música Carioca, in Tijuca.",
-   "sinopse_es": "O Desdobrar das Histórias presenta \"Árvore de Histórias\" en la serie Domingo das Crianças del Centro da Música Carioca, en Tijuca.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "The group O Desdobrar das Histórias tells tales from African and Afro-Brazilian oral tradition while folding paper, in the Domingo das Crianças series.",
+   "sinopse_es": "El grupo O Desdobrar das Histórias narra cuentos de tradición oral africana y afrobrasileña mientras hace plegados de papel, en la serie Domingo das Crianças.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -8665,11 +9506,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -8682,14 +9523,15 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "Show dos Gilsons na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O trio formado por José, João e Francisco Gil, filho e netos de Gilberto Gil, volta à areninha de Bangu para um show único, que também celebra a obra de Gil.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126981",
    "id": "f-37698fe132",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Gilsons in concert at Areninha Cultural Hermeto Pascoal, in Bangu.",
-   "sinopse_es": "Concierto de Gilsons en la Areninha Cultural Hermeto Pascoal, en Bangu.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "The trio of José, João and Francisco Gil, son and grandsons of Gilberto Gil, returns to the Bangu areninha for a one-off show that also celebrates Gil's work.",
+   "sinopse_es": "El trío formado por José, João y Francisco Gil, hijo y nietos de Gilberto Gil, vuelve a la areninha de Bangu para un show único que también celebra la obra de Gil.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {
@@ -8700,11 +9542,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -8717,14 +9559,15 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Viny Arêas apresenta \"De Risco\" na Semana da Comédia do Festival Queer Comedy, no Teatro Municipal Ziembinski.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Na Semana da Comédia do Ziembinski, edição Queer Comedy, o humorista Viny Arêas, gay e solteiro aos 40 anos, transforma em stand-up as próprias aventuras e o que pensa sobre o mundo de hoje.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128328",
    "id": "f-a80078b053",
    "entrou_em": "2026-11-23",
-   "sinopse_en": "Viny Arêas performs \"De Risco\" during the Queer Comedy Festival's Comedy Week, at Teatro Municipal Ziembinski.",
-   "sinopse_es": "Viny Arêas presenta \"De Risco\" en la Semana de la Comedia del Festival Queer Comedy, en el Teatro Municipal Ziembinski.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "At the Ziembinski's Comedy Week, Queer Comedy edition, comedian Viny Arêas, gay and single at 40, turns his own adventures and his views on today's world into stand-up.",
+   "sinopse_es": "En la Semana de la Comedia del Ziembinski, edición Queer Comedy, el humorista Viny Arêas, gay y soltero a los 40 años, convierte en stand-up sus propias aventuras y lo que piensa del mundo de hoy.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -8735,11 +9578,11 @@
      "hora": "19:30"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -8752,14 +9595,15 @@
    "endereco": "Av. São Félix, 601",
    "bairro": "Vista Alegre",
    "regiao": "Zona Norte",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural João Bosco, em Vista Alegre.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "No quinto solo de stand-up, que marca dez anos de carreira, Yuri Marçal, filho de mãe de santo, fala da vida dentro das religiões de matriz africana e de intolerância religiosa.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128488",
    "id": "f-1db2b26c64",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Yuri Marçal performs \"Macumbeiro\" at Areninha Cultural João Bosco, in Vista Alegre.",
-   "sinopse_es": "Yuri Marçal presenta \"Macumbeiro\" en la Areninha Cultural João Bosco, en Vista Alegre.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "In his fifth stand-up solo, marking ten years in comedy, Yuri Marçal, son of a mãe de santo, talks about life within Afro-Brazilian religions and religious intolerance.",
+   "sinopse_es": "En su quinto solo de stand-up, que celebra diez años de carrera, Yuri Marçal, hijo de una mãe de santo, habla de la vida dentro de las religiones de matriz africana y de la intolerancia religiosa.",
+   "faixa": "ate80",
    "status": "conferido"
   },
   {
@@ -9277,6 +10121,80 @@
    "sessoes": [
     {
      "data": "2026-12-01",
+     "hora": "09:00"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "09:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Bazar Colaborativo Marisol",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Terra",
+   "endereco": "Rua Marcos de Macedo, s/nº",
+   "bairro": "Guadalupe",
+   "regiao": "Zona Norte",
+   "sinopse": "Feira de brechó e artesanato de um grupo de artesãs e customizadoras coordenado pela artesã Marina Araújo. Das 9h às 16h.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-40e8e22c10",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "Thrift and handicraft fair by a group of artisans and clothing customizers coordinated by artisan Marina Araújo. From 9am to 4pm.",
+   "sinopse_es": "Feria de ropa usada y artesanía de un grupo de artesanas y customizadoras coordinado por la artesana Marina Araújo. De 9 a 16 h.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "aviso": "",
+   "titulo": "Roda de Leitura: clássicos e autores dos subúrbios",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Municipal Milton Santos (Areninha Jacob do Bandolim)",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Encontro aberto na biblioteca da Areninha Jacob do Bandolim, no Pechincha, para ler e conversar sobre obras clássicas e textos de escritores do subúrbio e da periferia carioca.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "id": "f-216e7d6551",
+   "entrou_em": "2026-11-26",
+   "sinopse_en": "An open gathering at the library in Areninha Jacob do Bandolim, in Pechincha, to read and talk about classic works and texts by writers from Rio's suburbs and outskirts.",
+   "sinopse_es": "Encuentro abierto en la biblioteca de la Areninha Jacob do Bandolim, en Pechincha, para leer y conversar sobre obras clásicas y textos de escritores del suburbio y la periferia carioca.",
+   "faixa": "gratis",
+   "status": "conferido"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
      "hora": "16:00"
     }
    ],
@@ -9490,11 +10408,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "18 anos",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -9507,14 +10425,15 @@
    "endereco": "Rua José Higino, 115",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Ensaio aberto de \"X-I-N’TEA\" no Centro Coreográfico da Cidade, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Ensaio aberto de uma obra de performance que troca o palco convencional por um espaço expositivo partilhado com o público, com esgotamento físico, suspensão e colapso sobre um pedestal.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/130300",
    "id": "f-5f105e75e1",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Open rehearsal of \"X-I-N’TEA\" at the Centro Coreográfico da Cidade, in Tijuca.",
-   "sinopse_es": "Ensayo abierto de \"X-I-N’TEA\" en el Centro Coreográfico da Cidade, en Tijuca.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Open rehearsal of a performance piece that swaps the conventional stage for an exhibition space shared with the audience, with physical exhaustion, suspension and collapse on a pedestal.",
+   "sinopse_es": "Ensayo abierto de una obra de performance que cambia el escenario convencional por un espacio expositivo compartido con el público, con agotamiento físico, suspensión y colapso sobre un pedestal.",
+   "faixa": "gratis",
    "status": "conferido"
   },
   {
@@ -10095,7 +11014,7 @@
    "sinopse_en": "\"Tempo Travesso\" at the Centro Coreográfico da Cidade, in Tijuca.",
    "sinopse_es": "\"Tempo Travesso\" en el Centro Coreográfico da Cidade, en Tijuca.",
    "faixa": "nao_informado",
-   "status": "conferido"
+   "status": "a_confirmar"
   },
   {
    "titulo": "Terreiro de Mangueira – Cordel Negro",
@@ -10180,8 +11099,8 @@
    "preco_min": null,
    "preco_max": null,
    "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
+   "classificacao": "Livre",
+   "acessibilidade": "Intérprete de Libras",
    "na_rua": false,
    "aviso": "",
    "titulo": "Grupo Choro Novo: 25 anos",
@@ -10193,13 +11112,14 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "O Grupo Choro Novo comemora 25 anos na série Diálogos Sonoros, com participação de Mestre Siqueira no cavaquinho, no Centro da Música Carioca, na Tijuca. Entrada franca.",
-   "fonte": "Revista CONCERTO (roteiro)",
+   "sinopse": "O grupo Choro Novo comemora 25 anos com a série Diálogos Sonoros – Brasil Instrumental, que chega ao Rio com o cavaquinista Mestre Siqueira. Depois do show, conversa com o público.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://www.concerto.com.br/roteiros/2026-12-02",
    "id": "f-69fd3c3cbd",
    "entrou_em": "2026-11-25",
-   "sinopse_en": "Grupo Choro Novo celebrates 25 years in the Diálogos Sonoros series, with Mestre Siqueira on cavaquinho, at the Centro da Música Carioca in Tijuca. Free admission.",
-   "sinopse_es": "El Grupo Choro Novo celebra 25 años en la serie Diálogos Sonoros, con Mestre Siqueira en el cavaquinho, en el Centro da Música Carioca, en Tijuca. Entrada libre.",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "The group Choro Novo celebrates 25 years with the series Diálogos Sonoros – Brasil Instrumental, which arrives in Rio with cavaquinho player Mestre Siqueira. After the show, a conversation with the audience.",
+   "sinopse_es": "El grupo Choro Novo celebra 25 años con la serie Diálogos Sonoros – Brasil Instrumental, que llega a Río con el cavaquinista Mestre Siqueira. Después del show, charla con el público.",
    "faixa": "gratis",
    "status": "conferido"
   },
@@ -10281,11 +11201,11 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
    "aviso": "",
@@ -10298,14 +11218,15 @@
    "endereco": "Praça Tiradentes, s/nº",
    "bairro": "Centro",
    "regiao": "Centro",
-   "sinopse": "Sessão do Cineclube Carlos Gomes com \"Macumbaria\" e \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", na Praça Tiradentes.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Sexta sessão do cineclube: o documentário \"Macumbaria\", de Lucio Branco, com reflexões de Luiz Antonio Simas, e o curta \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", de Chico Serra, sobre Getúlio Marinho.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/130520",
    "id": "f-a2c6e8e1a7",
    "entrou_em": "2026-11-22",
-   "sinopse_en": "Cineclube Carlos Gomes screening with \"Macumbaria\" and \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", on Praça Tiradentes.",
-   "sinopse_es": "Sesión del Cineclube Carlos Gomes con \"Macumbaria\" y \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", en la Praça Tiradentes.",
-   "faixa": "nao_informado",
+   "atualizado_em": "2026-11-26",
+   "sinopse_en": "Sixth session of the film club: the documentary \"Macumbaria\" by Lucio Branco, with reflections by Luiz Antonio Simas, and the short \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\" by Chico Serra, about Getúlio Marinho.",
+   "sinopse_es": "Sexta sesión del cineclub: el documental \"Macumbaria\", de Lucio Branco, con reflexiones de Luiz Antonio Simas, y el corto \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", de Chico Serra, sobre Getúlio Marinho.",
+   "faixa": "popular",
    "status": "conferido"
   },
   {

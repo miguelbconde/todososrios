@@ -1,19 +1,20 @@
 # Relatório da edição — Programação de hoje até 25 de janeiro de 2027
 
-- Eventos e exposições: **990** (933 eventos com 9651 sessões; 57 em cartaz)
-- Grátis: **67** · preço popular (até R$ 40): **79**
-- Conferidos sem ressalva: **973** · a confirmar: **17**
+- Eventos e exposições: **1015** (958 eventos com 9680 sessões; 57 em cartaz)
+- Grátis: **96** · preço popular (até R$ 40): **91**
+- Conferidos sem ressalva: **993** · a confirmar: **22**
 
 ## Distribuição por região
 
-- Centro: 182
-- Zona Sul: 316
-- Zona Sudoeste: 187
-- Zona Norte: 226
-- Zona Oeste: 79
+- Centro: 189
+- Zona Sul: 320
+- Zona Sudoeste: 188
+- Zona Norte: 233
+- Zona Oeste: 85
 
 ## Conferente independente (IA)
 
+- **A Cura da Terra – Pequenas Revoluções** (2026-11-19-005) · local · *nao_encontrado* — A ficha traz "Teatro Municipal Domingos Oliveira (Planetário)"; o cabeçalho da fonte semanal é só "Teatro Municipal Domingos Oliveira / Rua Padre Leonel Franca 240, Gávea". "(Planetário)" não consta em nenhuma das fontes. → **Mantido: “(Planetário)” é o nome do teatro no cadastro do projeto, para ajudar a achar o lugar.**
 - **Superiores** (2026-11-19-006) · local · *nao_encontrado* — A ficha traz "Teatro Municipal Domingos Oliveira (Planetário)"; o cabeçalho da fonte semanal é só "Teatro Municipal Domingos Oliveira / Rua Padre Leonel Franca 240, Gávea". "(Planetário)" não consta em nenhuma das fontes. → **Mantido: “(Planetário)” é o nome do teatro no cadastro do projeto, para ajudar a achar o lugar.**
 - **Exposição principal do Museu Histórico da Cidade** (2026-11-19-008) · sinopse · *nao_encontrado* — A ficha diz "Acervo permanente sobre a história do Rio, na antiga chácara da Gávea". A fonte semanal não traz descrição nenhuma ("Exposição Principal do Museu Histórico da Cidade. Terça-feira a domingo, das 9h às 16h"); a do Novembro Negro fala só em "exposição de longa duração do Museu Histórico da Cidade". "Antiga chácara" e "história do Rio" não constam. → **Corrigido: sinopse reduzida ao que a fonte informa.**
 - **Exposição permanente Getúlio Vargas** (2026-11-19-012) · sinopse · *nao_encontrado* — A ficha diz "Mostra permanente do memorial dedicado ao ex-presidente". A fonte só traz "Exposição permanente Getulio Vargas", sem descrição; "ex-presidente" é conhecimento geral, não está na fonte. → **Corrigido: sinopse reduzida ao que a fonte informa.**
@@ -120,6 +121,13 @@
 - **Hipertelia – Marés de Mudanças** (f-8fafc9a14f) · preco · *duvida* — gratuidade só pela Riotur → **Corrigido: preço vazio, na nota**
 - **Cidade Batucada** (f-bcc6780966) · preco · *diverge* — gratuidade só pela Riotur → **Corrigido: preço vazio, na nota**
 - **Escola do Rock** (2026-11-19-143) · criterios · *duvida* — o site chama "Escola do Rock - CEFTEM"; pode ser montagem de escola de formação → **pendente (sai como “a confirmar”)**
+- **Minha Vó Ri** (f-a8b365287d) · sessoes · *diverge* — o PDF da Secretaria (26/11–02/12) diz sábados e domingos às 11h; a Sympla diz sexta e sábado às 20h e domingo às 19h → **pendente (sai como “a confirmar”)**
+- **Ciclomáticos** (f-c21b141a4f) · sessoes.hora · *diverge* — 28/11: o PDF diz 19h, a Sympla 18h → **pendente (sai como “a confirmar”)**
+- **MULTIARTE** (2026-11-19-037) · cartaz.fim · *diverge* — o PDF novo diz até 14/01/2027; a base diz até 19/12 → **pendente (sai como “a confirmar”)**
+- **14ª Jornada (MAR)** (f-7adf1f93f5) · sessoes · *diverge* — a base tem 27/11 às 17h (Sympla); o PDF dá 26 e 27/11 às 10h, grátis, livre → **pendente (sai como “a confirmar”)**
+- **Tempo Travesso** (f-5d78dd59cd) · sessoes.hora · *diverge* — 18h30 na base, 19h no PDF → **pendente (sai como “a confirmar”)**
+- **Antes de Mim** (f-87c5ee44d2) · sessoes.hora · *diverge* — 22h na base (Sympla, provável hora padrão), 17h no PDF; o texto fala em "nossas alunas" → **pendente (sai como “a confirmar”)**
+- **Domingo recreativo** (2026-11-19-086) · sessoes.hora · *diverge* — a Sympla dá 16h e o PDF 10h; mantido 10h → **Mantido: 10h do PDF**
 
 ## Conferência mecânica (regras)
 
@@ -158,13 +166,9 @@
 - [baixa] **O Sonho de Ícaro** (f-38ba6a7f25) — Preço não informado na fonte
 - [baixa] **Víboras – A Arte do Insulto** (f-39b3da215f) — Preço não informado na fonte
 - [baixa] **Cordélia Brasil** (f-897e83ed8a) — Preço não informado na fonte
-- [baixa] **Zeppa: Na Voz do Compositor** (f-8f37410ce6) — Preço não informado na fonte
 - [baixa] **Brás Cubas (Armazém Companhia de Teatro)** (f-913b8130f3) — Preço não informado na fonte
 - [baixa] **Orquestra Furiosa Portátil na Casa do Choro** (f-9253f75471) — Preço não informado na fonte
-- [baixa] **Gosto Amargo na Pele** (f-9c2207768d) — Preço não informado na fonte
-- [baixa] **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** (f-a8d5f0ea92) — Preço não informado na fonte
 - [baixa] **Ruído Bruto** (f-a9d2e23843) — Preço não informado na fonte
-- [baixa] **1ª Mostra de Artes de Terreiro Os Ciclomáticos** (f-c21b141a4f) — Preço não informado na fonte
 - [baixa] **Pororoca** (f-e449afdfbe) — Preço não informado na fonte
 - [baixa] **Azymuth: Águia Não Come Mosca e Grandes Clássicos** (f-a2c07e1696) — Preço não informado na fonte
 - [baixa] **Entre Atos** (f-e1e9f06d4e) — Preço não informado na fonte
@@ -181,8 +185,6 @@
 - [baixa] **Lisandra na Mesa de Jantar** (f-b29d9de2c6) — Preço não informado na fonte
 - [baixa] **O que Meu Peito Carrega Sobre Mim** (f-b6ff10b271) — Preço não informado na fonte
 - [baixa] **Loucas, Lindas e Lobas** (f-ce17c3cc78) — Preço não informado na fonte
-- [baixa] **Ariane Mathias: Rindo de Nervoso** (f-d219493664) — Preço não informado na fonte
-- [baixa] **Yuri Marçal: Macumbeiro** (f-db9886b6e6) — Preço não informado na fonte
 - [baixa] **Nhá Eva** (f-e7b56859d2) — Preço não informado na fonte
 - [baixa] **Simplesmente Shakespeare: Romeu e Julieta** (f-ff4b3d06a0) — Preço não informado na fonte
 - [baixa] **A Solidão do Feio** (f-1da07461ee) — Preço não informado na fonte
@@ -195,73 +197,51 @@
 - [baixa] **Noitada de Samba – Foco de Resistência: filme e relançamento do livro** (f-f7e52c2e2c) — Preço não informado na fonte
 - [baixa] **Justiça em Cena: Perigosas Damas** (f-2985740e6d) — Preço não informado na fonte
 - [baixa] **Cristiano Vogas – Série Piano na Sala** (f-2750eaac64) — Preço não informado na fonte
-- [baixa] **Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África** (f-2bc42b1a23) — Preço não informado na fonte
 - [baixa] **Dança à Deriva: A(s) – isso não é um solo (RJ) e Humana (AR)** (f-881ae763c1) — Preço não informado na fonte
 - [baixa] **Todos os Amores Menos Aquele – um relato dramatizado** (f-b002c5aaef) — Preço não informado na fonte
 - [baixa] **MulheRio do Samba** (f-c7ada106b3) — Preço não informado na fonte
-- [baixa] **O Circo Se Constrói** (f-ebbedebb15) — Preço não informado na fonte
 - [baixa] **A Ópera do Malandro – o musical** (f-db4e688785) — Preço não informado na fonte
 - [baixa] **Confissões de Adolescente – o musical** (2026-11-19-142) — Preço não informado na fonte
-- [baixa] **Yuri Marçal: Macumbeiro** (f-132c6ce110) — Preço não informado na fonte
 - [baixa] **Beatles Fora da Caixa** (f-1e3cc3099b) — Preço não informado na fonte
 - [baixa] **Tudo Aquilo que Fica** (f-220da6ee35) — Preço não informado na fonte
 - [baixa] **Pra Gira Girar: celebração a Os Tincoãs** (f-6f1c52fbee) — Preço não informado na fonte
 - [baixa] **II Encontro Nerd de Favela** (f-72ad055ee6) — Preço não informado na fonte
 - [baixa] **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Realengo)** (f-80323410c1) — Preço não informado na fonte
 - [baixa] **Senhorita Júlia, Pássaros em uma Mesma Gaiola** (f-94d2c5ff86) — Preço não informado na fonte
-- [baixa] **Minha Vó Ri** (f-a8b365287d) — Preço não informado na fonte
-- [baixa] **Cris Silva Cruz: Credo Que Delícia** (f-d13457973d) — Preço não informado na fonte
-- [baixa] **Mistério Buffo** (f-f8ed502f79) — Preço não informado na fonte
 - [baixa] **Thiago Chagas em Extraviado 3.0** (f-0bfb8b21e5) — Preço não informado na fonte
 - [baixa] **Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)** (f-6a27b066b3) — Preço não informado na fonte
 - [baixa] **Quando Dança o Baobá** (f-472932ae90) — Preço não informado na fonte
 - [baixa] **Rio Blues Festival** (f-f49e042115) — Preço não informado na fonte
 - [baixa] **Feijuca com Samba: Samba do Pedro** (f-7c728d45f2) — Preço não informado na fonte
 - [baixa] **Escola do Rock** (2026-11-19-143) — Preço não informado na fonte
-- [baixa] **Reunião Geral das Palavras** (f-43ec59dad8) — Preço não informado na fonte
 - [baixa] **Forró na Sala de Reboco convida Rod Bigode** (f-9a3b6abdab) — Preço não informado na fonte
 - [baixa] **Chiquititas** (f-fcd6d59230) — Preço não informado na fonte
 - [baixa] **Os Três Porquinhos** (f-8b4fc827c0) — Preço não informado na fonte
 - [baixa] **Quintal da VP: roda de samba do Papo de Quintal na rua** (f-543be3e01a) — Preço não informado na fonte
 - [baixa] **Mario da Silva e Rocio Infante Cia de Dança – Sala em Movimento** (f-5726cfe428) — Preço não informado na fonte
-- [baixa] **Elaine Machado e Banda Raça Brasileira: História da Diva** (f-a0af483c60) — Preço não informado na fonte
-- [baixa] **Bem-vindo a Bangu** (f-cb548d2990) — Preço não informado na fonte
 - [baixa] **A Bruxinha que Era Boa** (f-d4254bc016) — Preço não informado na fonte
-- [baixa] **Maria no Fio da Navalha** (f-ef4b37b8ed) — Preço não informado na fonte
 - [baixa] **Quintal da Magia e Délcio Luiz** (f-c8546d5963) — Preço não informado na fonte
 - [baixa] **Dança à Deriva: Obra Mala (CO), Breve (RJ) e Colombia Profunda (CO)** (f-0d906fc7e8) — Preço não informado na fonte
 - [baixa] **Casuarina** (f-57466b13d8) — Preço não informado na fonte
 - [baixa] **Forró de Pife Descalço** (f-82d5149dfc) — Preço não informado na fonte
 - [baixa] **Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo** (f-aa1e08f5a1) — Preço não informado na fonte
-- [baixa] **Fora de Quadro** (f-9944b1aa2c) — Preço não informado na fonte
 - [baixa] **ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)** (f-a239d37d31) — Preço não informado na fonte
 - [baixa] **Festival Brasilidades & Futuros Música** (f-a8c723ed4d) — Preço não informado na fonte
 - [baixa] **Um Homem Célebre** (f-a9155630c6) — Preço não informado na fonte
 - [baixa] **Jaloo: Crua (acústico)** (f-8831f8dae4) — Preço não informado na fonte
-- [baixa] **Yuri Marçal: Macumbeiro** (f-6576ed5f1c) — Preço não informado na fonte
-- [baixa] **Gilsons** (f-8d7f1ac2c1) — Preço não informado na fonte
 - [baixa] **Festival Favela Rock II** (f-d0415cf8cc) — Preço não informado na fonte
-- [baixa] **Bonfim Comedy Show** (f-e76af35dff) — Preço não informado na fonte
 - [baixa] **Stand-up: Wêlson Nunes** (f-74cf9d83c0) — Preço não informado na fonte
 - [baixa] **Lia Paris canta Edith Piaf** (f-8af3bf8b08) — Preço não informado na fonte
 - [baixa] **O Mercador de Veneza** (2026-11-19-148) — Preço não informado na fonte
 - [baixa] **Renato Albani: Salve-se Quem Puder** (f-0e345919ae) — Preço não informado na fonte
 - [baixa] **O Céu da Língua, com Gregório Duvivier** (f-ce157b6b62) — Preço não informado na fonte
-- [baixa] **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** (f-ced40906a9) — Preço não informado na fonte
 - [baixa] **Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés** (f-87c5ee44d2) — Preço não informado na fonte
-- [baixa] **Quarteto Jequitibá: Retratos do Brasil** (f-a59ccd7888) — Preço não informado na fonte
-- [baixa] **Ilha do Anime** (f-c4d8d90c91) — Preço não informado na fonte
 - [baixa] **Forró da Praça** (f-10dbb25ae9) — Preço não informado na fonte
 - [baixa] **Sede de Samba** (f-e1922cbf93) — Preço não informado na fonte
-- [baixa] **Festival Esperançar** (f-cb7bacc156) — Preço não informado na fonte
 - [baixa] **Quintal da Magia na Batuq** (f-644214f001) — Preço não informado na fonte
 - [baixa] **Sarau de Danças: Roda de Movimentos** (f-b927b6de50) — Preço não informado na fonte
-- [baixa] **Domingo das Crianças: Árvore de Histórias** (f-e2b00c012e) — Preço não informado na fonte
 - [baixa] **Pagode do Origem** (f-4e466b06e6) — Preço não informado na fonte
 - [baixa] **Dança à Deriva: ¿Quién habla por los espíritus? (BO/AR) e La Caballota (MX)** (f-d78c0013ec) — Preço não informado na fonte
-- [baixa] **Gilsons** (f-37698fe132) — Preço não informado na fonte
-- [baixa] **Viny Arêas em De Risco** (f-a80078b053) — Preço não informado na fonte
-- [baixa] **Yuri Marçal: Macumbeiro** (f-1db2b26c64) — Preço não informado na fonte
 - [baixa] **Rosi Alves: tributo a Clara Nunes** (f-084422ee9e) — Preço não informado na fonte
 - [baixa] **Moacyr Luz e Samba do Trabalhador** (f-9b5a6ff868) — Preço não informado na fonte
 - [baixa] **Orquestra Sinfônica do Conservatório de Música de Sydney** (f-960787124a) — Preço não informado na fonte
@@ -273,7 +253,6 @@
 - [baixa] **Lançamento: Margaret Mee – Cadernos de Campo** (f-93f00c4a41) — Preço não informado na fonte
 - [baixa] **Recante – 2ª Mostra Portugal Contemporâneo no Brasil** (f-e5641ae06c) — Preço não informado na fonte
 - [baixa] **Lançamento: Manual do Personagem** (f-0d057df3e2) — Preço não informado na fonte
-- [baixa] **Ensaio aberto: X-I-N’TEA** (f-5f105e75e1) — Preço não informado na fonte
 - [baixa] **Viva Caymmi** (f-b39926a98a) — Preço não informado na fonte
 - [baixa] **Um Brasileiro em Israel: lançamento e bate-papo** (f-f2b607a1c8) — Preço não informado na fonte
 - [baixa] **Margaridas** (2026-11-19-150) — Preço não informado na fonte
@@ -288,7 +267,6 @@
 - [baixa] **Mantra Tropical, com Fabrizio Filesi** (f-687a147153) — Preço não informado na fonte
 - [baixa] **Pagodinho com Guga Nandes** (f-9037f6a4a1) — Preço não informado na fonte
 - [baixa] **Marcos Sacramento e Moacyr Luz** (f-97ac09c02d) — Preço não informado na fonte
-- [baixa] **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** (f-a2c6e8e1a7) — Preço não informado na fonte
 - [baixa] **Tori: Areia e Voz** (f-705dcf0961) — Preço não informado na fonte
 - [baixa] **Tributo a Delcio Carvalho** (f-4e93cdffeb) — Preço não informado na fonte
 - [baixa] **O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura** (f-5ac17a363c) — Preço não informado na fonte
@@ -639,12 +617,17 @@ Regras de curadoria:
 - **Ser imortal é deixar lucidamente algo fora de sítio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Centro Cultural do Poder Judiciário). A Sympla dá o período de 19/11, 16h, a 27/11, 19h, sem dias nem horário de visitação.
 - **Andréa Hygino: Projeto parquinho** — Nenhuma fonte oficial do MAM na ronda; fatos do Arte que Acontece. Horário é o geral do museu, dado pela ArtRio. Preço não informado.
 - **Fernanda Gomes** — Candidata indicada (12 Nov–30 Jan) era de duas mostras na FDAG Barra Funda, em São Paulo (Sarah Morris e João Maria Gusmão): ficaram de fora. A única mostra listada na Carpintaria é esta, em "Próximas", sem título nem página própria: link para a página de próximas exposições; título = nome da artista. Primeira ficha da Carpintaria na base: endereço e bairro do site da galeria. Preço e classificação não informados. A fonte não traz título nem texto da mostra.
+- **3º Seminário de RER e Socioeducação** — Seção de cursos e oficinas do PDF; entra por ser seminário aberto e gratuito. O PDF não diz se há inscrição nem dá a programação. RER = relações étnico-raciais (sigla do PDF).
 - **II Encontro Internacional de Piano Colaborativo – recitais na ABL** — Os dois primeiros recitais estão no endereço da ABL; o terceiro, no Teatro R. Magalhães Jr., no mesmo endereço. O roteiro não informa classificação etária nem acessibilidade.
 - **Rigoletto – Ópera do Meio-Dia** — Datas e gratuidade do site do Theatro Municipal; o horário (12h) vem do roteiro da Revista CONCERTO, porque o site não o informa. Ingressos distribuídos no dia, a partir das 11h, segundo o site do Theatro Municipal. O roteiro não informa classificação etária nem acessibilidade.
 - **Festival Arpoarte 2026** — A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).
+- **Canteiro de Palavras** — Classificação 18 anos como está no PDF (incomum para contação de histórias). O PDF não informa a duração.
+- **Clube literário infantil** — Correção de 26/11: acrescentada a quinta 26/11. O mesmo trecho está no PDF SMC 19–25/11 e no de 26/11–02/12. Encontro semanal sem data de fim; só pus as quintas cobertas pelos PDFs, sem presumir as seguintes.
 - **Symbiophilia – Panthalassa Ensemble** — Retirada de ingresso pelo site do MAM. O roteiro não informa classificação etária nem acessibilidade.
+- **Lançamento: Caminhamos na Maré e a Maré Caminha em Nós** — Endereço copiado das fichas da Areninha Herbert Vianna na base ("Evanildo"); o PDF grafa "Ivanildo". Local com o nome da base; a sinopse diz que é na Biblioteca Municipal Jorge Amado, que funciona na areninha.
 - **Lia e a Árvore da Montanha** — A listagem da Sympla não informa preço nem classificação. organizador: Sintonia Dominó. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário; a fonte não diz.
 - **Um Natal Congelante: O Musical ao Vivo** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 15h como fim no dia 6. Musical, pelo título; Teatro. A Sympla dá o fim da temporada em 06/12 às 15:00; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.
+- **Feira Comunitária de Artesanato e Gastronomia** — O PDF diz "quintas-feiras" sem data final e sem descrição; só entrou a quinta da semana do PDF (26/11). Entrada grátis; o que se vende na feira é pago.
 - **Patrulhinha de Natal** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 15h como fim no dia 26. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público. Tiradas as datas presumidas de 24, 25 e 31/12 e 1/1 (feriados e vésperas). A Sympla dá o fim da temporada em 26/12 às 15:00; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.
 - **Os Saltimbancos** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço.
 - **João e Maria na Casa de Chocolate** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público.
@@ -658,13 +641,13 @@ Regras de curadoria:
 - **O Sonho de Ícaro** — A listagem da Sympla não informa preço nem classificação. organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Víboras – A Arte do Insulto** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 17h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 17:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.
 - **Cordélia Brasil** — A listagem da Sympla não informa preço nem classificação. organizador: Persona Produções. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
-- **Zeppa: Na Voz do Compositor** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Zeppa: Na Voz do Compositor** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Brás Cubas (Armazém Companhia de Teatro)** — A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
 - **Orquestra Furiosa Portátil na Casa do Choro** — A listagem da Sympla não informa preço nem classificação. organizador: Casa do Choro. Organizador: Casa do Choro. A sessão de 26/11 tem página própria na Sympla: https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621209.
-- **Gosto Amargo na Pele** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
-- **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Gosto Amargo na Pele** — Correção de 26/11 com o PDF da Secretaria (26/11–02/12): preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla (o PDF não dá página própria). Organizador: órgão público (Município do Rio).
+- **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** — O PDF não informa classificação. Grátis com ingresso pela Sympla. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Ruído Bruto** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco. A página do evento não pôde ser lida.
-- **1ª Mostra de Artes de Terreiro Os Ciclomáticos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **1ª Mostra de Artes de Terreiro Os Ciclomáticos** — Correção de 26/11 com o PDF da Secretaria: grátis e 12 anos. DIVERGÊNCIA no sábado 28/11: o PDF diz 19h, a Sympla diz 18h; mantive 18h, da Sympla, até a confirmação. Fonte e link mantidos na Sympla por isso. Organizador: órgão público (Município do Rio).
 - **Pororoca** — Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). Período de 5/11 a 6/12 tirado do texto da página da Riotur; sessões listadas de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Candlelight: Tributo ao Coldplay** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Andrezão do Cacique** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A fonte não cita o Cacique de Ramos pelo nome; diz 'a famosa tamarineira'.
@@ -687,15 +670,17 @@ Regras de curadoria:
 - **O que Meu Peito Carrega Sobre Mim** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Loucas, Lindas e Lobas** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço.
 - **Queen Legend** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com a banda. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
-- **Ariane Mathias: Rindo de Nervoso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
-- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.
+- **Ariane Mathias: Rindo de Nervoso** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. O sobrenome da artista vem da Sympla. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
+- **Yuri Marçal: Macumbeiro** — Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O PDF não diz se R$ 35 é meia e R$ 70 inteira. Mantido o link de venda da Sympla (o PDF não dá link). Organizador: órgão público (Município do Rio).
 - **Nhá Eva** — A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Arianna Nutt: De Repente 40** — O PDF apresenta a humorista, mas não descreve o tema do espetáculo; seção Teatro (humor). Não achei a página de venda na ronda.
 - **Simplesmente Shakespeare: Romeu e Julieta** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **A Solidão do Feio** — Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). O fim em 6/12 vem do texto da página da Riotur; a data de estreia não aparece, então listei as sessões de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.
 - **Serginho Lacerda – Vida de Pai** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem chama o show de 'Qual o seu Talento?', mas o texto da página fala de 'Vida de Pai'; usei o nome do texto.
 - **O Tigre** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.
 - **Candlelight: Tributo ao Guns N' Roses** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. A fonte não diz a formação dos músicos.
 - **Hétero Sigilo** — O site dá só o período (7 a 29/11); dias presumidos de quinta a domingo. A página informa "21h e 19h" sem dizer em que dias: usamos 21h (o horário da listagem vem com fuso errado, 3 horas adiantado). Preço e classificação não informados.
+- **Roda de leitura: "O menino só", de Andrea Taubman** — Local sem ficha anterior na base; endereço do PDF (o Planetário tem entrada também pela Rua Padre Leonel Franca). Classifiquei como Infantil por ser contação de história; o PDF não diz a faixa etária do público.
 - **II Encontro Internacional de Piano Colaborativo – recitais na Sala Mário Tavares** — Retirada de ingresso na bilheteria uma hora antes. O site do Theatro Municipal confirma o encontro nos dias 25 e 27 na Sala Mário Tavares, mas os horários vêm do roteiro da Revista CONCERTO. O roteiro não informa classificação etária nem acessibilidade.
 - **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** — A listagem da Sympla não informa preço nem classificação. organizador: IICRio. Organizador: Istituto Italiano di Cultura.
 - **14ª Jornada de Educação e Relações Étnico-Raciais: Territórios de Pertencimento** — A listagem da Sympla não informa preço nem classificação. A fonte dá de 27/11, 17h, a 29/11, 18h, sem a programação de cada dia; registrada só a abertura.
@@ -704,53 +689,62 @@ Regras de curadoria:
 - **Noitada de Samba – Foco de Resistência: filme e relançamento do livro** — A listagem da Sympla não informa preço nem classificação. organizador: Cely Leal. Organizadora: Cely Leal (pessoa física, não órgão público).
 - **Justiça em Cena: Perigosas Damas** — A listagem da Sympla não informa preço nem classificação. organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ. Organizador: Centro Cultural do Poder Judiciário (órgão público).
 - **Cristiano Vogas – Série Piano na Sala** — Programa não informado. O roteiro não informa preço, classificação etária nem acessibilidade.
-- **Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. O PDF grafa "Noog"; mantida a grafia "Nóog" da ficha. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Hercules Gomes: Radamés Gnattali 120 anos** — Reserva a partir de 23/11 no site do Espaço Cultural BNDES. O roteiro não informa classificação etária nem acessibilidade.
 - **Sonho Elétrico** — A Bilheteria Digital tem uma página por sessão (8 páginas, 27/11 a 6/12); juntei numa ficha e usei o link da primeira. Sessões tiradas do horário da apresentação (quinta e sexta 19h, sábado e domingo 18h, extra 28/11 15h), batendo com as páginas. Classificação indicativa não informada. A tabela chama de 'PLATEIA'/'BALCÃO' a meia; a inteira vem marcada.
 - **Dança à Deriva: A(s) – isso não é um solo (RJ) e Humana (AR)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
 - **Todos os Amores Menos Aquele – um relato dramatizado** — A listagem da Sympla não informa preço nem classificação. Dias e horários do calendário da Riotur (sextas, 19h; sábados, 17h), até o fim dado pela Sympla (28/11). A Sympla dá 19h como fim no dia 28; ficou o horário de sábado da Riotur. Gênero não informado; Teatro presumido pelo espaço.
 - **MulheRio do Samba** — A listagem da Sympla não informa preço nem classificação.
-- **O Circo Se Constrói** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não descreve o espetáculo;
+- **O Circo Se Constrói** — Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.
 - **Samba Carioca: apresentação do Bloco Carioca 2027** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). O texto da página fala em 'quarta-feira', mas a data é sexta, 27/11; segui a data.
 - **A Ópera do Malandro – o musical** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Superiores** — Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.
 - **Confissões de Adolescente – o musical** — A fonte não informa o preço. Correção de 26/11: a ficha só tinha a semana de 19/11; acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur (Sextas-feiras, às 20h; sábados e domingos, às 19h).
-- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Yuri Marçal: Macumbeiro** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Beatles Fora da Caixa** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. Música presumida pelo título.
 - **Tudo Aquilo que Fica** — A listagem da Sympla não informa preço nem classificação. Gênero não informado; Teatro presumido pelo espaço.
 - **Pra Gira Girar: celebração a Os Tincoãs** — A listagem da Sympla não informa preço nem classificação. Intérpretes não informados na listagem.
 - **II Encontro Nerd de Favela** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
 - **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Realengo)** — A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Mesmo projeto das fichas de Madureira (26/11) e da Penha (3/12); esta é a apresentação de Realengo.
 - **Senhorita Júlia, Pássaros em uma Mesma Gaiola** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
-- **Minha Vó Ri** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
-- **Cris Silva Cruz: Credo Que Delícia** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Minha Vó Ri** — Correção de 26/11 com o PDF da Secretaria: preço e classificação. DIVERGÊNCIA de dias e hora: o PDF diz sábados e domingos às 11h; a página da Sympla diz sexta e sábado às 20h e domingo às 19h. Mantive as sessões da Sympla até a confirmação; fonte e link mantidos na Sympla. Organizador: órgão público (Município do Rio).
+- **Cris Silva Cruz: Credo Que Delícia** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Daniel Lopes e Kwesny – KD o Show?!** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
 - **MPB Entre Amigos** — A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Milton Canta Lulu** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
-- **Mistério Buffo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Mistério Buffo** — Correção de 26/11 com o PDF da Secretaria: preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).
 - **Thiago Chagas em Extraviado 3.0** — A listagem da Sympla não informa preço nem classificação. Teatro (humor) presumido pelo espaço e pelo subtítulo.
 - **Fernanda Santanna** — Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
 - **Quando Dança o Baobá** — A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Teatro (dança) pelo título. Hora como na listagem. A hora (22h) é a da Sympla, que parece usar 22h como padrão nas linhas da Arena Dicró.
+- **De Piriri na Rede** — HORA A CONFIRMAR: a linha de serviço do PDF diz 9h e o texto de apresentação diz 10h. Usei 9h (a mais cedo, para ninguém chegar atrasado). O prêmio do Fetecirco 2025 é do espetáculo. Projeto Fluxo Contínuo.
 - **Olhar para Dentro** — A agenda dá só o horário de início (9h) aos sábados listados; não diz até que horas. Endereço do Sesc Madureira completado pela redação.
+- **Dia dos Países Africanos – Edição Consciência Negra** — O PDF não detalha as atrações nem o horário de término.
+- **Carnaval das Culturas** — Das 10h às 18h nos dois dias. Marcado "Na rua" por ser num parque, como a ficha do Festival Rio Santa no mesmo lugar.
+- **A Cura da Terra – Pequenas Revoluções** — Correção de 26/11: acrescentadas as sessões de 28 e 29/11. O primeiro trecho é do PDF SMC 19–25/11 ("De 21 a 29/11"), o segundo do PDF 26/11–02/12 ("Até 29/11").
 - **Zuzuê Contos Africanos** — Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.
 - **Rio Blues Festival** — A listagem da Sympla não informa preço nem classificação. Organizador: Corporate Events Brasil. A fonte dá de 28/11, 12h, a 29/11, 22h; início do segundo dia presumido igual ao do primeiro. Atrações e preço não informados.
+- **Festival de Hip Hop After Dance** — O PDF não dá a escalação nem o horário de fim. Dança em Teatro, rimas em Música.
 - **Feijuca com Samba: Samba do Pedro** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio. Feijuca com Samba tratado como série pelo "apresenta".
+- **Decompositions / Decomposições** — O PDF não diz a língua da apresentação nem a duração.
 - **Escola do Rock** — A fonte não informa o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (13/12), pelo próprio trecho do site (sábados e domingos às 15h; sextas às 19h30 só em 4 e 11/12). A Riotur diz 'Sextas, às 19h30' sem restringir; segui o site do espaço e não pus 27/11.
 - **Brincando com Bento e Totó** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.
-- **Reunião Geral das Palavras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Lançamento de "Reunião Geral das Palavras", de Cecília Ripoll** — Correção de 26/11 com o PDF da Secretaria: é lançamento de livro (não peça), grátis, 12 anos; título ajustado. Link mantido na página da Sympla. Organizador: órgão público (Município do Rio).
+- **Tentativa 74** — O PDF não informa meia-entrada nem elenco além de Rafael de Andrade. Link de venda da Sympla (organizador: Município do Rio).
 - **Cadê o Sobrevento?** — Ronda de 26/11: novas sessões em 5, 6, 12 e 13/12. Para essas a agenda não informa o preço; o preço da ficha (R$ 20, meia R$ 10) é o das sessões de novembro. A sessão de 22/11 (a única com Libras) já passou e saiu. Classificação livre. O Sesc ainda não informou o preço das sessões de dezembro; mantido o de novembro.
 - **Raízes que pulsaM – vivência musical** — A gratuidade é a regra geral do museu. Classificação não informada no trecho coletado.
 - **Forró na Sala de Reboco convida Rod Bigode** — A listagem da Sympla não informa preço nem classificação. Organização independente.
 - **Chiquititas** — Período de 28 a 29/11; uma sessão por dia, às 16h, conforme a página do evento (a hora da listagem vem com fuso errado). Preço e classificação não informados.
 - **Os Três Porquinhos** — A listagem da Sympla não informa preço nem classificação. Organizador: Tripularte. Infantil presumido pelo título.
+- **Sarau Herdeiros da Nossa História** — O PDF não diz quem se apresenta nem as linguagens do sarau.
 - **Quintal da VP: roda de samba do Papo de Quintal na rua** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Bigode Buço Casa de Samba e Cultura. Número da rua não informado.
 - **Mario da Silva e Rocio Infante Cia de Dança – Sala em Movimento** — O roteiro não informa preço, classificação etária nem acessibilidade.
-- **Elaine Machado e Banda Raça Brasileira: História da Diva** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
-- **Bem-vindo a Bangu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Elaine Machado e Banda Raça Brasileira: História da Diva** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
+- **Bem-vindo a Bangu** — Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O PDF não informa meia-entrada. Mantido o link de venda da Sympla. Organizador: órgão público (Município do Rio).
 - **A Bruxinha que Era Boa** — A listagem da Sympla não informa preço nem classificação. organizador: TABLADO. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Sarau Solos Suburbanos** — O PDF não diz quem se apresenta nem se há inscrição para participar.
 - **Candlelight: Tributo a Michael Jackson** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de 2027 fora da janela.
-- **Maria no Fio da Navalha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Maria no Fio da Navalha** — Correção de 26/11 com o PDF da Secretaria: preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).
 - **Clássicos do Brasil: Alceu Valença, Maria Bethânia e Vanessa da Mata** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); achado pela coordenação editorial e confirmado no calendário da Riotur em 25/11. Nesta noite a página de venda só lista o setor Arena (o Lounge não aparece, provavelmente esgotado). A página não separa abertura dos portões e início dos shows. A Riotur informa 'a partir de R$ 120', valor que não confere com a venda oficial: vale o da bilheteria. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
 - **Quintal da Magia e Délcio Luiz** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa. A fonte não diz quem convida quem; a ordem do título foi mantida.
 - **Dança à Deriva: Obra Mala (CO), Breve (RJ) e Colombia Profunda (CO)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
@@ -762,18 +756,19 @@ Regras de curadoria:
 - **Orquestra Forte de Copacabana** — O roteiro indica 99 lugares. O roteiro não informa classificação etária nem acessibilidade.
 - **Equina** — Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.
 - **Candlelight: Tributo a Metallica** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 26/2 fora da janela.
-- **Fora de Quadro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Fora de Quadro** — O PDF confirma dias e horas da Sympla e acrescenta gratuidade e classificação. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Circo no Ato; circo, classificado em Teatro.
 - **Festival Brasilidades & Futuros Música** — A listagem da Sympla não informa preço nem classificação. Organizador: Instituto Futuros. A fonte dá de 28/11, 19h, a 29/11, 22h; horário do segundo dia presumido igual ao do primeiro. Atrações não informadas.
 - **Um Homem Célebre** — A listagem da Sympla não informa preço nem classificação. organizador: Rafael Apolinário Coutinho. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
 - **Jaloo: Crua (acústico)** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
-- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
-- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Yuri Marçal: Macumbeiro** — O PDF dá um só valor (R$ 35), sem dizer se é inteira ou meia; em Madureira, no dia 27, a faixa é R$ 35 a R$ 70. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
+- **Misturando o Som: Zona Oeste Jazz & Blues** — O PDF não dá link próprio nem diz se é preciso retirar ingresso. Título ajustado ao nome do projeto ("Misturando o Som"), como no texto do PDF.
+- **Gilsons** — Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.
 - **Echoes: O Melhor do Pink Floyd** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com a banda. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
 - **Kay Lyra** — Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Candlelight: Vivaldi, As Quatro Estações** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos; 'quarteto de cordas' é o formato da série. Sessão de 24/1 fora da janela.
 - **Festival Favela Rock II** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Bandas não informadas.
-- **Bonfim Comedy Show** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Bonfim Comedy Show** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
 - **Lia Paris canta Edith Piaf** — A listagem da Sympla não informa preço nem classificação.
 - **J.P. Silva** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta).
@@ -781,27 +776,33 @@ Regras de curadoria:
 - **Bossa Mais** — A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Renato Albani: Salve-se Quem Puder** — Data na agenda da Farmasi Arena; hora da Riotur. Nenhuma das duas dá preço nem classificação na ronda.
 - **O Céu da Língua, com Gregório Duvivier** — Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada. Bairro: Gávea (endereço do Jockey Club); a Riotur escreve Lagoa.
-- **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** — Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.
 - **Jorge Vercillo: JV30 Parte II – Mais um Final Feliz** — O site dá só o preço 'a partir de', sem dizer se é inteira.
 - **Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; o nome do projeto sugere dança.
-- **Quarteto Jequitibá: Retratos do Brasil** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
-- **Ilha do Anime** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; natureza do encontro presumida por ele.
+- **Confraria dos Homens Pretos – roda de conversa** — O PDF não informa convidados nem duração.
+- **Domingo recreativo para crianças** — Correção: acrescentado o domingo 29/11, que o PDF desta semana repete. O PDF diz "todos os domingos do mês" sem data final; só entrou o domingo da semana do PDF. A Sympla (event/118973) dá o mesmo evento às 16h, até 29/11; mantido o horário do PDF (10h).
+- **Cortejo Escola Olodum** — O PDF não diz o trajeto nem o ponto de partida; o evento aparece na programação do Muhcab, cujo endereço usei. Marquei "Na rua" por ser cortejo, como o Cortejo da Tia Ciata na base.
+- **Festival Desapegue-se** — O PDF não diz quais são os outros três espaços e dias nem a programação detalhada; só a data na Dicró. Não diz se é ao ar livre (na_rua falso). Organizador: órgão público (Município do Rio). Das 10h às 20h, pela Sympla.
+- **The Herock** — Circo, classificado em Teatro; Infantil pelo espaço e pela classificação livre. "Na rua" desmarcado, igual à outra ficha do mesmo teatro.
+- **Quarteto Jequitibá: Retratos do Brasil** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
+- **Ilha do Anime** — Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC. O PDF não informa o horário de término.
+- **Percursos imersivos no MHC: a presença negra na cidade** — Das 14h às 16h. O PDF não diz se precisa de inscrição.
 - **Forró da Praça** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio.
 - **Sede de Samba** — A listagem da Sympla não informa preço nem classificação.
 - **Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. A página não separa abertura dos portões e início dos shows; endereço igual ao das outras noites. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
-- **Festival Esperançar** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não detalha a programação.
+- **Festival Esperançar** — Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC. Seção mudada de Festas & Feiras para Música, pelo que o PDF descreve.
 - **Candlelight: O Melhor de Hans Zimmer** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos. Sessão de 30/1 fora da janela.
 - **Quintal da Magia na Batuq** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa. Duas datas, cada uma com sua página na Sympla; link da primeira. Fim às 23h59, que parece horário padrão da Sympla.
 - **Contos de Príncipe** — A gratuidade é a regra geral do museu (retirada antecipada pela Sympla ou na bilheteria). Classificação não informada no trecho coletado. Infantil por ser contação de histórias de um autor de livros para infâncias.
 - **Sarau de Danças: Roda de Movimentos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
-- **Domingo das Crianças: Árvore de Histórias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Domingo das Crianças: Árvore de Histórias** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Pagode do Origem** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 2h.
 - **The Jazz Room: Marvin Gaye em uma noite de soul** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A página não traz texto; sinopse só pelo título.
 - **Candlelight: Tributo a Bruno Mars** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
 - **Dança à Deriva: ¿Quién habla por los espíritus? (BO/AR) e La Caballota (MX)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
-- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
-- **Viny Arêas em De Risco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (comédia) dado pelo nome da série.
-- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Gilsons** — Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O texto do PDF diz uma vez "29 de dezembro", mas o cabeçalho, a frase anterior e a Sympla dão 29/11 às 19h; ficou 29/11. O PDF não informa meia-entrada. Mantido o link de venda da Sympla. Organizador: órgão público (Município do Rio).
+- **Viny Arêas em De Risco** — O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
+- **Yuri Marçal: Macumbeiro** — Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.
 - **Rosi Alves: tributo a Clara Nunes** — A listagem da Sympla não informa preço nem classificação.
 - **Yumi Park** — Ficha separada de "Yumi Park – Alma de Artista" (outra sala e outro título na fonte). Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Marvio Ciribelli & Convidados: tributo a Sérgio Mendes e Chico Buarque** — A fonte não nomeia os convidados. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
@@ -815,13 +816,15 @@ Regras de curadoria:
 - **Alana Valentte** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A casa não informa o preço de segunda-feira.
 - **Carioquinha: Lu Oliveira e Rogério Guimarães** — A fonte não explica as condições da "meia carioca". Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
 - **Leandro Freixo Trio** — Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.
+- **Bazar Colaborativo Marisol** — O PDF diz "terça e quarta-feira" sem data; usei as da semana do PDF (01 e 02/12). Não sei se continua nas semanas seguintes.
+- **Roda de Leitura: clássicos e autores dos subúrbios** — O PDF não dá link próprio nem diz a duração. Endereço repetido da ficha da mesma biblioteca na base.
 - **A representação feminina na Academia – conferência** — A fonte não informa preço nem classificação. Pede inscrição pelo site. A fonte não diz quem fala.
 - **Pagode da Garagem** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem toca. Nova data (1/12) com página própria: https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3665752
 - **Lançamento: Margaret Mee – Cadernos de Campo** — A fonte não informa preço (lançamentos na Travessa costumam ser abertos). O texto da fonte foi cortado depois de "uma seleção de 180"; a sinopse não diz 180 o quê.
 - **Oficina de Cantoria +60 e Vocal Molho Inglês – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
 - **Recante – 2ª Mostra Portugal Contemporâneo no Brasil** — O roteiro não informa preço, classificação etária nem acessibilidade.
 - **Lançamento: Manual do Personagem** — A fonte não informa preço. Livro de ofício teatral e de roteiro, não de autoajuda.
-- **Ensaio aberto: X-I-N’TEA** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
+- **Ensaio aberto: X-I-N’TEA** — O PDF grafa o título "X-+N'TEA" (provável erro de extração); mantida a grafia da Sympla. O PDF acrescenta gratuidade e classificação. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).
 - **Viva Caymmi** — A agenda do Sesc não informa o preço desta sessão: campo de preço vazio.
 - **Um Brasileiro em Israel: lançamento e bate-papo** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número na Epitácio Pessoa nem o autor.
 - **Margaridas** — A coleta não trouxe o preço. Correção de 26/11: acrescentadas as terças e quartas até 16/12, segundo a página da peça no site do Teatro Poeira (a Sympla também lista a temporada até 16/12); link trocado pela página da peça.
@@ -838,10 +841,10 @@ Regras de curadoria:
 - **Tempo Travesso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
 - **Terreiro de Mangueira – Cordel Negro** — Nova sessão em 2/12 na agenda oficial do Sesc (ronda de 22/11); a página do evento mudou de endereço. A agenda atual dá o título só como 'Cordel Negro'; a relação exata entre o grupo e o projeto não está clara na fonte. A sessão de 20/11 veio da ronda anterior.
 - **Mantra Tropical, com Fabrizio Filesi** — A listagem da Sympla não informa preço nem classificação.
-- **Grupo Choro Novo: 25 anos** — O roteiro não informa classificação etária nem acessibilidade.
+- **Grupo Choro Novo: 25 anos** — O PDF acrescenta a classificação e a intérprete de Libras ao que dava o roteiro da Revista CONCERTO.
 - **Pagodinho com Guga Nandes** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número do endereço. Vai até as 3h.
 - **Marcos Sacramento e Moacyr Luz** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ.
-- **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** — Correção de 26/11 com o PDF da Secretaria: preço, classificação e sinopse; data e hora iguais às da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).
 - **Coral Altivoz – Diálogos Transversos (Uerj Sem Muros)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
 - **Tori: Areia e Voz** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
 - **Tributo a Delcio Carvalho** — A listagem da Sympla não informa preço nem classificação. Intérpretes não informados.

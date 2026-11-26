@@ -1,6 +1,14 @@
 {
  "resultado": [
   {
+   "id": "2026-11-19-005",
+   "titulo": "A Cura da Terra – Pequenas Revoluções",
+   "campo": "local",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha traz \"Teatro Municipal Domingos Oliveira (Planetário)\"; o cabeçalho da fonte semanal é só \"Teatro Municipal Domingos Oliveira / Rua Padre Leonel Franca 240, Gávea\". \"(Planetário)\" não consta em nenhuma das fontes.",
+   "resolucao": "Mantido: “(Planetário)” é o nome do teatro no cadastro do projeto, para ajudar a achar o lugar."
+  },
+  {
    "id": "2026-11-19-006",
    "titulo": "Superiores",
    "campo": "local",
@@ -846,6 +854,62 @@
    "detalhe": "o site chama \"Escola do Rock - CEFTEM\"; pode ser montagem de escola de formação",
    "resolucao": "",
    "id": "2026-11-19-143"
+  },
+  {
+   "id": "f-a8b365287d",
+   "titulo": "Minha Vó Ri",
+   "campo": "sessoes",
+   "veredito": "diverge",
+   "detalhe": "o PDF da Secretaria (26/11–02/12) diz sábados e domingos às 11h; a Sympla diz sexta e sábado às 20h e domingo às 19h",
+   "resolucao": ""
+  },
+  {
+   "id": "f-c21b141a4f",
+   "titulo": "Ciclomáticos",
+   "campo": "sessoes.hora",
+   "veredito": "diverge",
+   "detalhe": "28/11: o PDF diz 19h, a Sympla 18h",
+   "resolucao": ""
+  },
+  {
+   "id": "2026-11-19-037",
+   "titulo": "MULTIARTE",
+   "campo": "cartaz.fim",
+   "veredito": "diverge",
+   "detalhe": "o PDF novo diz até 14/01/2027; a base diz até 19/12",
+   "resolucao": ""
+  },
+  {
+   "id": "f-7adf1f93f5",
+   "titulo": "14ª Jornada (MAR)",
+   "campo": "sessoes",
+   "veredito": "diverge",
+   "detalhe": "a base tem 27/11 às 17h (Sympla); o PDF dá 26 e 27/11 às 10h, grátis, livre",
+   "resolucao": ""
+  },
+  {
+   "id": "f-5d78dd59cd",
+   "titulo": "Tempo Travesso",
+   "campo": "sessoes.hora",
+   "veredito": "diverge",
+   "detalhe": "18h30 na base, 19h no PDF",
+   "resolucao": ""
+  },
+  {
+   "id": "f-87c5ee44d2",
+   "titulo": "Antes de Mim",
+   "campo": "sessoes.hora",
+   "veredito": "diverge",
+   "detalhe": "22h na base (Sympla, provável hora padrão), 17h no PDF; o texto fala em \"nossas alunas\"",
+   "resolucao": ""
+  },
+  {
+   "id": "2026-11-19-086",
+   "titulo": "Domingo recreativo",
+   "campo": "sessoes.hora",
+   "veredito": "diverge",
+   "detalhe": "a Sympla dá 16h e o PDF 10h; mantido 10h",
+   "resolucao": "Mantido: 10h do PDF"
   }
  ]
 }

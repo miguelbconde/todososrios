@@ -1806,6 +1806,43 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "10:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Seção de cursos e oficinas do PDF; entra por ser seminário aberto e gratuito. O PDF não diz se há inscrição nem dá a programação. RER = relações étnico-raciais (sigla do PDF).",
+   "aviso": "",
+   "titulo": "3º Seminário de RER e Socioeducação",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Terceira edição do seminário, com debates sobre direitos, desafios e protagonismo das juventudes negras. Das 10h às 17h.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Museu da História e da Cultura Afro-Brasileira (Muhcab) Rua Pedro Ernesto 80, Gamboa [...] 3° Seminário de RER e SocioEducação Quinta e sexta-feira (26 e 27/11), das 10h às 17h. Grátis. Livre.",
+   "id": "f-ac3862ec76",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "11:00"
     },
     {
@@ -1926,6 +1963,73 @@
    "sessoes": [
     {
      "data": "2026-11-26",
+     "hora": "14:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Classificação 18 anos como está no PDF (incomum para contação de histórias). O PDF não informa a duração.",
+   "aviso": "",
+   "titulo": "Canteiro de Palavras",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Municipal Marques Rebelo",
+   "endereco": "Rua Guapeni, 61",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "Sessão em que se narram contos do repertório popular, narrativas antigas e textos de autoria própria, para estimular o gosto pela leitura.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Biblioteca Municipal Marques Rebelo Rua Guapeni 61, Tijuca [...] Contação de histórias “Canteiro de Palavras” Quinta-feira (26/11), às 14h30. Grátis. 18 anos.",
+   "id": "f-63d65f766a",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "titulo": "Clube literário infantil",
+   "areas": [
+    "Infantil",
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Municipal José de Alencar",
+   "endereco": "Rua Monte Alegre, 306 (anexo ao Centro Cultural Laurinda Santos Lobo)",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "15:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Encontro semanal de leitura de livros infantis sobre inclusão e diversidade.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Clube literário infantil Quintas-feiras, às 15h. Grátis. Livre.",
+   "nota_redacao": "Correção de 26/11: acrescentada a quinta 26/11. O mesmo trecho está no PDF SMC 19–25/11 e no de 26/11–02/12. Encontro semanal sem data de fim; só pus as quintas cobertas pelos PDFs, sem presumir as seguintes.",
+   "id": "2026-11-19-039",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
      "hora": "15:00"
     },
     {
@@ -1957,6 +2061,39 @@
    "trecho_fonte": "2026-11-26 15:00 | Symbiophilia | Museu de Arte Moderna do Rio de Janeiro - MAM (186 lugares) — Av. Infante Dom Henrique, 85 - Parque do Flamengo - Tel. (21) 3883-5600 - https://mam.rio/ | ingressos: Entrada franca, retirada de ingressos: https://mamrio.byinti.com/#/ticket/. [...] programa segundo a revista: Projeto internacional de criação artística. Panthalassa Ensemble: Camila Nebbia - sax tenor, Susana Santos Silva - trompete, Bryan Holmes - eletrônica, Pasquale Calò - saxofone, Lorenzo Colocci - flauta transversa, Samuel Gapp - piano, Rodrigo Girafa - guitarra elétrica, Lee Hodel - contrabaixo acústico e Francesca Remigi - bateria e percussão. Programa: estreia da obra site-specific de Bryan Holmes, concebida especialmente para o espaço do museu. Pilotis. Continuidade às 18h30.",
    "id": "f-8aac37b494",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço copiado das fichas da Areninha Herbert Vianna na base (\"Evanildo\"); o PDF grafa \"Ivanildo\". Local com o nome da base; a sinopse diz que é na Biblioteca Municipal Jorge Amado, que funciona na areninha.",
+   "aviso": "",
+   "titulo": "Lançamento: Caminhamos na Maré e a Maré Caminha em Nós",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Herbert Vianna",
+   "endereco": "Rua Evanildo Alves, s/nº",
+   "bairro": "Maré",
+   "regiao": "Zona Norte",
+   "sinopse": "Lançamento, na Biblioteca Municipal Jorge Amado, de livro escrito e ilustrado por crianças que frequentam essa biblioteca e a Biblioteca Escritor Lima Barreto, na Maré, feito com os projetos Era Uma Vez e Escritores para o Futuro.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Biblioteca Jorge Amado Na Areninha Cultural Municipal Herbert Vianna: Rua Ivanildo Alves, s/n°, Maré [...] Lançamentos do livro Caminhamos na Maré e a Maré Caminha em Nós. Quinta-feira (26/11), às 15h. Grátis. Livre.",
+   "id": "f-94caf2b666",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -2063,6 +2200,39 @@
    "link": "https://bileto.sympla.com.br/event/129278",
    "trecho_fonte": "2026-11-20 16:00 até 2026-12-06 15:00 | “Um Natal Congelante: O Musical ao Vivo | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/129278",
    "id": "f-92342029b1",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF diz \"quintas-feiras\" sem data final e sem descrição; só entrou a quinta da semana do PDF (26/11). Entrada grátis; o que se vende na feira é pago.",
+   "aviso": "",
+   "titulo": "Feira Comunitária de Artesanato e Gastronomia",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Gilberto Gil",
+   "endereco": "Av. Marechal Fontenelle, 5.000",
+   "bairro": "Realengo",
+   "regiao": "Zona Oeste",
+   "sinopse": "Feira comunitária de artesanato e comida que ocupa a Areninha Cultural Gilberto Gil às quintas-feiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Gilberto Gil Av. Marechal Fontenelle 5000, Realengo [...] Feira Comunitária de Artesanato e Gastronomia Quintas-feiras, às 16h. Grátis. Livre.",
+   "id": "f-b13c5f8734",
    "entrou_em": "2026-11-26"
   },
   {
@@ -2764,14 +2934,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 25 a R$ 50",
+   "preco_min": 25,
+   "preco_max": 50,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Zeppa: Na Voz do Compositor",
    "areas": [
@@ -2782,13 +2952,13 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Zeppa apresenta \"Na Voz do Compositor\" na série Quintas Autorais do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O compositor Zeppa, gravado por Alcione, Elba Ramalho e Zezé Di Camargo & Luciano, canta suas músicas e canções de autores que o inspiraram, contando histórias entre elas, na série Quintas Autorais.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129530",
-   "trecho_fonte": "2026-11-26 19:00 até 2026-11-26 19:00 | Quintas Autorais - Zeppa apresenta Na Voz do Compositor | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129530",
+   "trecho_fonte": "Quintas Autorais “Zeppa apresenta Na Voz do Compositor “ Quinta-feira (26/11), às 19h. R$ 25 a R$ 50. Livre. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
    "id": "f-8f37410ce6",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -2917,14 +3087,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "18 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria (26/11–02/12): preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla (o PDF não dá página própria). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Gosto Amargo na Pele",
    "areas": [
@@ -2935,13 +3105,13 @@
    "endereco": "Rua Visconde de Itaboraí, 20",
    "bairro": "Centro",
    "regiao": "Centro",
-   "sinopse": "\"Gosto Amargo na Pele\" em cartaz no Teatro Correios Léa Garcia, no Centro, de 26 de novembro a 5 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Ribamar Ribeiro escreve e dirige esta peça a partir de Plínio Marcos, num ambiente que mistura cabaré, circo e prostíbulo, sobre gente posta à margem. Último título da Trilogia dos Indesejáveis.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128463",
-   "trecho_fonte": "2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 5 de Dezembro · Quinta, Sexta e Sábado às 19h00",
+   "trecho_fonte": "Espetáculo \"Gosto amargo na pele\" Quinta-feira a sábado, às 19h. De 26/11 a 05/12. R$ 10 a R$ 20. 18 anos. || 2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 5 de Dezembro · Quinta, Sexta e Sábado às 19h00",
    "id": "f-9c2207768d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -2951,14 +3121,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis (ingresso pela Sympla)",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
+   "gratis": true,
    "classificacao": "",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF não informa classificação. Grátis com ingresso pela Sympla. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)",
    "areas": [
@@ -2969,12 +3139,13 @@
    "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
    "bairro": "Madureira",
    "regiao": "Zona Norte",
-   "sinopse": "Teresa Cristina e a Velha Guarda da Portela no projeto Memórias do Samba, na Arena Fernando Torres, no Parque de Madureira.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Teresa Cristina canta com a Velha Guarda da Portela no projeto Memórias do Samba, dedicado à história do samba, na Arena Fernando Torres, em Madureira.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/130674",
-   "trecho_fonte": "2026-11-26 19:00 até 2026-11-26 19:00 | MEMÓRIAS DO SAMBA: TERESA CRISTINA E VELHA GUARDA DA PORTELA | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200  | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres",
+   "trecho_fonte": "Show “Memórias Do Samba - Teresa Cristina E Velha Guarda Da Portela” Quinta-feira (26/11), às 19h. Gratis pelo sympla. || Arena Cultural Fernando Torres || Rua Bernardino de Andrade 200, Madureira",
    "id": "f-a8d5f0ea92",
-   "entrou_em": "2026-11-25"
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -3034,14 +3205,14 @@
      "hora": "18:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: grátis e 12 anos. DIVERGÊNCIA no sábado 28/11: o PDF diz 19h, a Sympla diz 18h; mantive 18h, da Sympla, até a confirmação. Fonte e link mantidos na Sympla por isso. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
    "areas": [
@@ -3052,13 +3223,13 @@
    "endereco": "Rua Benedito Hipólito, 125",
    "bairro": "Praça XI",
    "regiao": "Centro",
-   "sinopse": "Primeira edição da Mostra de Artes de Terreiro Os Ciclomáticos, no Teatro Municipal Gonzaguinha, de 26 a 28 de novembro.",
+   "sinopse": "Primeira edição de uma mostra que reúne trabalhos artísticos nascidos dos terreiros e de seus saberes, no Teatro Municipal Gonzaguinha.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/129222",
-   "trecho_fonte": "2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 28 de Novembro · Quinta e Sexta às 19h00, Sábado às 18h00",
+   "trecho_fonte": "1° Mostra de Artes de Terreiro Os Ciclomáticos Quinta-feira a sábado (26 a 28/11), às 19h. Grátis. 12 anos. || 2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 28 de Novembro · Quinta e Sexta às 19h00, Sábado às 18h00",
    "id": "f-c21b141a4f",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4023,14 +4194,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. O sobrenome da artista vem da Sympla. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Ariane Mathias: Rindo de Nervoso",
    "areas": [
@@ -4041,13 +4212,13 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Ariane Mathias apresenta \"Rindo de Nervoso\".",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Na Semana da Comédia do Teatro Municipal Ziembinski, edição Queer Comedy, Ariane Mathias apresenta \"Rindo de Nervoso\": stand-up sobre a vida de uma mulher negra e bissexual criada na periferia do Rio, às voltas com a crise dos 30 anos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128540",
-   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Semana da Comédia: Festival Queer Comedy – Ariane Mathias em Rindo de Nervoso | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128540",
+   "trecho_fonte": "Semana da Comédia: Edição Queer Comedy apresenta Rindo De Nervoso Quinta-feira (26/11), às 20h. R$ 30 a R$ 60. 16 anos. [...] Ariane é criada na periferia da cidade do rio de janeiro, uma mulher negra e bissexual || Teatro Municipal Ziembinski || Rua Heitor Beltrão s/nº, Tijuca",
    "id": "f-d219493664",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4057,14 +4228,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.",
+   "nota_redacao": "Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O PDF não diz se R$ 35 é meia e R$ 70 inteira. Mantido o link de venda da Sympla (o PDF não dá link). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Yuri Marçal: Macumbeiro",
    "areas": [
@@ -4075,13 +4246,13 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Yuri Marçal festeja dez anos de stand-up com seu quinto solo, em que transforma em piada a infância num terreiro, ao lado da mãe de santo, e os choques entre tradição religiosa, preconceito e internet.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126804",
-   "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Yuri Marcal -  Macumbeiro | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/126804",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Show de Comédia Stand Up “Yuri Marçal - Macumbeiro “ Quinta-feira(26/11), às 20h. R$ 35 a R$ 70. 16 anos. || 2026-11-26 20:00 até 2026-11-26 20:00 | Yuri Marcal -  Macumbeiro | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/126804",
    "id": "f-db9886b6e6",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4128,6 +4299,39 @@
    "id": "f-e7b56859d2",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 45 a R$ 90",
+   "preco_min": 45,
+   "preco_max": 90,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF apresenta a humorista, mas não descreve o tema do espetáculo; seção Teatro (humor). Não achei a página de venda na ronda.",
+   "aviso": "",
+   "titulo": "Arianna Nutt: De Repente 40",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Solo de humor de Arianna Nutt, que passou pelo Comedy Central e pelo Risorama e recebeu o prêmio de humorista revelação do festival Risadaria em 2019.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Municipal João Bosco Av. São Félix 601, Vista Alegre [...] Espetáculo “De Repente 40”, com Arianna Nutt Quinta-feira(26/11), às 20h. R$ 45 a R$ 90. 16 anos.",
+   "id": "f-f58b661900",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4411,6 +4615,40 @@
    "trecho_fonte": "- Hétero Sigilo | início 2026-11-07T18:00:00-03:00 | fim 2026-11-29T18:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/ | ingressos.divertix Sinopse Solo que mistura humor e confissão para expor os pactos silenciosos que fazemos para caber na norma. Entre memórias, afetos e contradições, o espetáculo revela como a heteronormatividade atravessa corpos e subjetividades e convida o público a rir, se reconhecer e questionar o papel que interpreta na própria vida. Ficha Técnica Dramaturgia e Performance: Bernardo DuginDir [… cortado] || [página do evento] Horário || 21h e 19h",
    "id": "f-740a844e42",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-27",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Local sem ficha anterior na base; endereço do PDF (o Planetário tem entrada também pela Rua Padre Leonel Franca). Classifiquei como Infantil por ser contação de história; o PDF não diz a faixa etária do público.",
+   "aviso": "",
+   "titulo": "Roda de leitura: \"O menino só\", de Andrea Taubman",
+   "areas": [
+    "Infantil",
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Ecio Salles (Planetário)",
+   "endereco": "Rua Vice-Governador Rubens Berardo, 100 (Planetário)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Contação do livro \"O menino só\", de Andrea Taubman, seguida de atividades, na biblioteca do Planetário da Gávea.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Biblioteca Ecio Salles No Planetário do Rio de Janeiro: Rua Vice-Governador Rúbens Berardo 100, Gávea Roda de leitura sobre \"O menino só\" de Andrea Taubman. Sexta-feira (27/11), às 10h. Grátis. Livre.",
+   "id": "f-5a864a586c",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4708,14 +4946,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. O PDF grafa \"Noog\"; mantida a grafia \"Nóog\" da ficha. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África",
    "areas": [
@@ -4726,13 +4964,13 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Lançamento do álbum \"Mãe África\", de Wesley Nóog e a Banda Roda Jardim Suspenso, na série Sextas Lançamentos do Centro da Música Carioca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Wesley Nóog lança \"Mãe África\", seu oitavo álbum de estúdio, nos 20 anos de carreira, em show com a Banda Roda Jardim Suspenso que junta samba e danças urbanas e de salão.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128255",
-   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 19:00 | Sextas Lançamentos - Wesley Nóog & Banda Roda Jardim Suspenso - Lançamento do Álbum Mãe África | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128255",
+   "trecho_fonte": "Sextas Lançamentos “Wesley Noog & Banda Roda Jardim Suspenso - Lançamento do Álbum Mãe África” Sexta-feira (27/11), às 19h. R$ 30 a R$ 60. Livre. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
    "id": "f-2bc42b1a23",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -4939,14 +5177,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não descreve o espetáculo;",
+   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.",
    "aviso": "",
    "titulo": "O Circo Se Constrói",
    "areas": [
@@ -4957,13 +5195,13 @@
    "endereco": "Parque Poeta Manuel Bandeira, s/nº",
    "bairro": "Cocotá (Ilha do Governador)",
    "regiao": "Zona Norte",
-   "sinopse": "Espetáculo \"O Circo Se Constrói\" na Areninha Cultural Renato Russo, na Ilha do Governador.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Montagem de dança dirigida por Raissa Martins, a partir de um caso verídico, que mistura vários estilos de dança com o circo e a cultura popular; o elenco tem gente de várias idades. Duração: 60 minutos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129212",
-   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 19:00 | O Circo Se Constrói | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0 | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/129212",
+   "trecho_fonte": "Areninha Cultural Renato Russo Parque Poeta Manuel Bandeira s/nº, Cocotá (Ilha do Governador) [...] Espetáculo “O Circo Se Constrói “ Sexta-feira (27/11), às 19h. R$ 20. Livre. [...] Com duração de 60 minutos e classificação indicativa livre",
    "id": "f-ebbedebb15",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5128,14 +5366,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Yuri Marçal: Macumbeiro",
    "areas": [
@@ -5146,12 +5384,13 @@
    "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
    "bairro": "Madureira",
    "regiao": "Zona Norte",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Arena Carioca Fernando Torres, em Madureira.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "No quinto solo de stand-up, nos 10 anos de carreira, Yuri Marçal, filho de mãe de santo, fala de sua vida nas religiões de matriz africana e do sentido da palavra \"macumbeiro\", passando por intolerância religiosa e fake news.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126727",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | MACUMBEIRO com YURY MARÇAL | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/126727",
+   "trecho_fonte": "Show de Comédia Stand Up “Macumbeiro com Yuri Marçal” Sexta-feira(27/11), às 20h. R$ 35 a R$ 70. 16 anos. || Arena Cultural Fernando Torres || Rua Bernardino de Andrade 200, Madureira",
    "id": "f-132c6ce110",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5400,14 +5639,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação. DIVERGÊNCIA de dias e hora: o PDF diz sábados e domingos às 11h; a página da Sympla diz sexta e sábado às 20h e domingo às 19h. Mantive as sessões da Sympla até a confirmação; fonte e link mantidos na Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Minha Vó Ri",
    "areas": [
@@ -5418,13 +5657,13 @@
    "endereco": "Rua Visconde de Silva, ao lado do nº 292",
    "bairro": "Humaitá",
    "regiao": "Zona Sul",
-   "sinopse": "\"Minha Vó Ri\" em cartaz no Espaço Cultural Municipal Sérgio Porto, no Humaitá, até 13 de dezembro.",
+   "sinopse": "Júlia Bernat faz seu primeiro solo, dirigida por Débora Lamm, misturando relato pessoal e pesquisa sobre a trajetória do movimento lésbico, com menções a Chantal Akerman e Rosely Roth; na trilha, Ângela Ro Ro e Cássia Eller.",
    "fonte": "Sympla (extração do Todos os Rios)",
    "link": "https://bileto.sympla.com.br/event/128323",
-   "trecho_fonte": "2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 de Novembro a 13 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
+   "trecho_fonte": "Espetáculo “Minha Vó Ri” Sábados e domingos, às 11h. Até 13/12. R$ 30 a R$ 60. 12 anos. || 2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 de Novembro a 13 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-a8b365287d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5434,14 +5673,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Cris Silva Cruz: Credo Que Delícia",
    "areas": [
@@ -5452,13 +5691,13 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Noite do Festival Queer Comedy, dentro da Semana da Comédia do Teatro Municipal Ziembinski, na Tijuca: Cris Silva Cruz apresenta \"Credo Que Delícia\".",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Na Semana da Comédia do Ziembinski, edição Queer Comedy, Cris Silva Cruz fala dos 50 anos de idade, da infância numa família de dez irmãos e da mãe que manteve todos unidos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129023",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Semana da Comédia: Festival Queer Comedy – Cris Silva Cruz em Credo Que Delícia | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/129023",
+   "trecho_fonte": "Semana da Comédia: Edição Queer Comedy apresenta Cris Cruz Credo Que Delícia Sexta-feira (27/11), às 20h. R$ 30 a R$ 60. 16 anos. || Teatro Municipal Ziembinski || Rua Heitor Beltrão s/nº, Tijuca",
    "id": "f-d13457973d",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5579,14 +5818,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Mistério Buffo",
    "areas": [
@@ -5597,13 +5836,13 @@
    "endereco": "Av. Ataulfo de Paiva, 269",
    "bairro": "Leblon",
    "regiao": "Zona Sul",
-   "sinopse": "\"Mistério Buffo\" no Teatro Municipal Café Pequeno, no Leblon, de 27 a 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Douglas Kodi interpreta sozinho narrativas de Dario Fo e Franca Rame, numa combinação diferente a cada noite, no centenário de nascimento do dramaturgo italiano.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129347",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta e Sábado às 20h00, Domingo às 19h00",
+   "trecho_fonte": "Espetáculo“Mistério Buffo” Sexta-feira e sábado (27 e 28/11), às 20h, e domingo (29/11) às 19h. R$ 30 a R$ 60. 12 anos. || 2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta e Sábado às 20h00, Domingo às 19h00",
    "id": "f-f8ed502f79",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5756,6 +5995,40 @@
     {
      "data": "2026-11-28",
      "hora": "09:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "HORA A CONFIRMAR: a linha de serviço do PDF diz 9h e o texto de apresentação diz 10h. Usei 9h (a mais cedo, para ninguém chegar atrasado). O prêmio do Fetecirco 2025 é do espetáculo. Projeto Fluxo Contínuo.",
+   "aviso": "",
+   "titulo": "De Piriri na Rede",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Espetáculo infantil premiado por direção e sonoplastia no Fetecirco 2025, do Ponto de Cultura Palhaçadaria e da JM Produções. Direção de Jailson Santos e Jairo Santos; no elenco, Eduardo Lage.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “De Piriri na Rede” Sábado(28/11), às 9h. Grátis. Livre. || no dia 28/11, sábado, às 10h, na Areninha Cultural João Bosco",
+   "id": "f-3009262db4",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "09:00"
     },
     {
      "data": "2026-12-05",
@@ -5791,6 +6064,115 @@
    "trecho_fonte": "2026-11-28 09:00 | OLHAR PARA DENTRO | Sesc Madureira (Madureira, Zona Norte) | grátis | LITERATURA, LIVRE, GRÁTIS || 2026-12-05 09:00 [...] || 2026-12-12 09:00 [...] || A exposição Olhar para dentro convida o público a desvendar uma caixa – oráculo feita de origami, dentro dela haverá diversos monóculos com quatro poemas visuais",
    "id": "f-f47b3902e1",
    "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não detalha as atrações nem o horário de término.",
+   "aviso": "",
+   "titulo": "Dia dos Países Africanos – Edição Consciência Negra",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Festival dedicado à cultura dos países africanos e ao que eles legaram ao Brasil, no Muhcab, na Gamboa.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Museu da História e da Cultura Afro-Brasileira (Muhcab) Rua Pedro Ernesto 80, Gamboa [...] Festival “Dia Dos Países Africanos - Edição Consciência Negra” Sábado (28/11), às 10h. Grátis. Livre.",
+   "id": "f-1e1a3a0566",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "10:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": true,
+   "nota_redacao": "Das 10h às 18h nos dois dias. Marcado \"Na rua\" por ser num parque, como a ficha do Festival Rio Santa no mesmo lugar.",
+   "aviso": "",
+   "titulo": "Carnaval das Culturas",
+   "areas": [
+    "Festas & Feiras",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Parque Glória Maria",
+   "endereco": "Rua Murtinho Nobre, 169",
+   "bairro": "Santa Teresa",
+   "regiao": "Centro",
+   "sinopse": "Festival de danças de várias culturas no Parque Glória Maria, em Santa Teresa, com barracas de artesanato e comida.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Parque Glória Maria Rua Murtinho Nobre 169, Santa Teresa [...] Carnaval das Culturas Sábado e domingo(28 e 29/11), das 10h às 18h. Grátis. Livre.",
+   "id": "f-1e99682229",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "titulo": "A Cura da Terra – Pequenas Revoluções",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "11:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "A banda Pequenas Revoluções canta e conta episódios de levantes indígenas latino-americanos, num espetáculo inspirado no livro “A Cura da Terra”, de Eliane Potiguara.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “A Cura da Terra – Pequenas Revoluções” Sábados e domingos, às 11h. De 21 a 29/11. Grátis. Livre. || Espetáculo “A Cura da Terra – Pequenas Revoluções” Sábados e domingos, às 11h. Até 29/11. Grátis. Livre.",
+   "nota_redacao": "Correção de 26/11: acrescentadas as sessões de 28 e 29/11. O primeiro trecho é do PDF SMC 19–25/11 (\"De 21 a 29/11\"), o segundo do PDF 26/11–02/12 (\"Até 29/11\").",
+   "id": "2026-11-19-005",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26"
   },
   {
    "titulo": "Zuzuê Contos Africanos",
@@ -5876,6 +6258,40 @@
      "hora": "14:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não dá a escalação nem o horário de fim. Dança em Teatro, rimas em Música.",
+   "aviso": "",
+   "titulo": "Festival de Hip Hop After Dance",
+   "areas": [
+    "Teatro",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Sandra de Sá",
+   "endereco": "Rua Doze, 1",
+   "bairro": "Santa Cruz",
+   "regiao": "Zona Oeste",
+   "sinopse": "Festival do After Dance com a associação de moradores AMLB: grupos de dança, apresentações de hip hop e rimas de artistas da comunidade, numa tarde aberta a famílias e jovens.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Sandra Sá Rua Doze 1, Santa Cruz [...] Festival de Hip Hop “After Dance” Sábado (28/11), às 14h. Grátis. Livre. [...] realizado pelo After Dance, em parceria com a AMLB - Associação dos Moradores [...] O evento reunirá grupos de dança, apresentações de Hip Hop, rimas e outras manifestações artísticas",
+   "id": "f-369717188d",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "14:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -5900,6 +6316,39 @@
    "trecho_fonte": "2026-11-28 14:00 até 2026-11-28 21:00 | Feijuca com Samba apresenta: Samba do Pedro | Largo do Boticário, Beco do Boticário Cosme Velho | organizador: Jo&Joe RIO | https://www.sympla.com.br/evento/feijuca-com-samba-apresenta-samba-do-pedro/3630489",
    "id": "f-7c728d45f2",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "14:30"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não diz a língua da apresentação nem a duração.",
+   "aviso": "",
+   "titulo": "Decompositions / Decomposições",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Centro Municipal de Arte Hélio Oiticica",
+   "endereco": "Rua Luís de Camões, 68",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Peça concebida, dirigida e interpretada por Tannis Kowalchuk, que parte da ideia de decomposição para pensar o que é viver plenamente.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Centro de Arte Hélio Oiticica Rua Luís de Camões 68, Centro [...] Peça “Decompositions / Decomposições” Sábado (28/11), às 14h30. Grátis. 18 anos.",
+   "id": "f-3bce755968",
+   "entrou_em": "2026-11-26"
   },
   {
    "titulo": "Escola do Rock",
@@ -6038,17 +6487,18 @@
      "hora": "16:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: é lançamento de livro (não peça), grátis, 12 anos; título ajustado. Link mantido na página da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
-   "titulo": "Reunião Geral das Palavras",
+   "titulo": "Lançamento de \"Reunião Geral das Palavras\", de Cecília Ripoll",
    "areas": [
+    "Livros & Debates",
     "Teatro"
    ],
    "tipo": "evento",
@@ -6056,12 +6506,47 @@
    "endereco": "Rua Visconde de Silva, ao lado do nº 292",
    "bairro": "Humaitá",
    "regiao": "Zona Sul",
-   "sinopse": "Coletânea com cinco peças de Cecilia Ripoll, no Espaço Cultural Municipal Sérgio Porto, no Humaitá.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Lançamento do livro da Editora Javali com cinco peças de Cecília Ripoll. A autora estará presente, e atores e atrizes dos elencos encenam e leem trechos dos textos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129799",
-   "trecho_fonte": "2026-11-28 16:00 até 2026-11-28 16:00 | Reunião Geral das Palavras: uma coletânea com 5 peças de Cecilia Ripoll | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/129799",
+   "trecho_fonte": "Lançamento de Livro “Reunião Geral das Palavras, uma coletânea com 5 peças de Cecília Ripoll” Sábado (28/11), às 16h. Grátis. 12 anos. || 2026-11-28 16:00 até 2026-11-28 16:00 | Reunião Geral das Palavras: uma coletânea com 5 peças de Cecilia Ripoll | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/129799",
    "id": "f-43ec59dad8",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não informa meia-entrada nem elenco além de Rafael de Andrade. Link de venda da Sympla (organizador: Município do Rio).",
+   "aviso": "",
+   "titulo": "Tentativa 74",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Espetáculo infantil levado ao palco por Rafael de Andrade, uma aventura em torno do aprendizado.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/129698",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Espetáculo “Tentativa 74” Sábado (28/11), às 16h. R$ 20. Livre. [...] Rafael de Andrade traz para o palco da Areninha Cultural Hermeto Pascoal o espetáculo infantil \"Tentativa 74\". Uma aventura de aprendizado e muita diversão. || 2026-11-28 16:00 até 2026-11-28 16:00 | Tentativa 74 | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/129698",
+   "id": "f-485ffbd70b",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6264,6 +6749,39 @@
      "hora": "17:00"
     }
    ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não diz quem se apresenta nem as linguagens do sarau.",
+   "aviso": "",
+   "titulo": "Sarau Herdeiros da Nossa História",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Abelardo Barbosa – Chacrinha",
+   "endereco": "Rua Soldado Eliseu Hipólito, s/nº",
+   "bairro": "Pedra de Guaratiba",
+   "regiao": "Zona Oeste",
+   "sinopse": "Sarau temático dedicado a dar visibilidade à produção de artistas negros de Pedra de Guaratiba e arredores.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Arena Cultural Abelardo Barbosa - Chacrinha Rua Soldado Eliseu Hipólito s/nº, Pedra de Guaratiba [...] Sarau “Herdeiros da Nossa História” Sábado (28/11), às 17h. Grátis. 12 anos",
+   "id": "f-349a24b226",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
    "preco_texto": "",
    "preco_min": null,
    "preco_max": null,
@@ -6330,14 +6848,14 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Elaine Machado e Banda Raça Brasileira: História da Diva",
    "areas": [
@@ -6348,12 +6866,13 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Elaine Machado e a Banda Raça Brasileira apresentam \"História da Diva\" na série Sábado Homenagem do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "A sambista Elaine Machado comemora 40 anos de carreira ao lado da banda Raça Brasileira, com sucessos dos discos \"Jeito Maneiro\" e \"Tempo de Festa\" e homenagens a parceiros como Beto Sem Braço.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128256",
-   "trecho_fonte": "2026-11-28 17:00 até 2026-11-28 17:00 | Sábado Homenagem Elaine Machado e Banda Raça Brasileira apresenta História da Diva | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128256",
+   "trecho_fonte": "Sábado Homenagem: Elaine Machado e Banda Raça Brasileira apresenta História da Diva Sábado (28/11), às 17h. R$ 30 a R$ 60. Livre. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
    "id": "f-a0af483c60",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6363,14 +6882,14 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "14 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.",
+   "nota_redacao": "Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O PDF não informa meia-entrada. Mantido o link de venda da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Bem-vindo a Bangu",
    "areas": [
@@ -6381,12 +6900,13 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "\"Bem-vindo a Bangu\" na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Peça de humor com reviravoltas, levada ao palco por Rafael de Andrade e Rômulo Moura, com piadas sobre a vida no subúrbio.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129701",
-   "trecho_fonte": "2026-11-28 17:00 até 2026-11-28 17:00 | Bem-vindo a Bangu | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/129701",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Peça “Bem Vindo A Bangu” Sábado (28/11), às 17h. R$ 20. 14 anos. || 2026-11-28 17:00 até 2026-11-28 17:00 | Bem-vindo a Bangu | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/129701",
    "id": "f-cb548d2990",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6426,6 +6946,39 @@
    "id": "f-d4254bc016",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não diz quem se apresenta nem se há inscrição para participar.",
+   "aviso": "",
+   "titulo": "Sarau Solos Suburbanos",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural João Bosco",
+   "endereco": "Av. São Félix, 601",
+   "bairro": "Vista Alegre",
+   "regiao": "Zona Norte",
+   "sinopse": "Noite de poesia e números artísticos que dá palco ao que se cria nos bairros do subúrbio do Rio.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Sarau Solos Suburbanos Sábado(28/11), às 17h. Grátis. Livre.",
+   "id": "f-e6c784f0fc",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6492,14 +7045,14 @@
      "hora": "17:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20 a R$ 40",
+   "preco_min": 20,
+   "preco_max": 40,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "12 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Maria no Fio da Navalha",
    "areas": [
@@ -6510,13 +7063,13 @@
    "endereco": "Rua Murtinho Nobre, 169",
    "bairro": "Santa Teresa",
    "regiao": "Centro",
-   "sinopse": "\"Maria no Fio da Navalha\" em cartaz no Teatro Municipal Ruth de Souza, em Santa Teresa, até 6 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Uma mulher que cresceu nas ruas da Lapa enfrenta violência e exploração até se tornar Maria Navalha. A peça, em três vozes, junta samba, poesia, capoeira e elementos das religiões afro-brasileiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128568",
-   "trecho_fonte": "2026-11-28 17:00 até 2026-12-06 17:00 | Maria no fio da Navalha | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128568 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 28 de Novembro a 6 de Dezembro · Sábado e Domingo às 17h00",
+   "trecho_fonte": "Espetáculo “Maria no Fio da Navalha” Sábado e domingo, às 17h. De 28/11 a 06/12. R$ 20 a R$ 40. 12 anos. || 2026-11-28 17:00 até 2026-12-06 17:00 | Maria no fio da Navalha | Teatro Municipal Ruth de Souza, R. Murtinho Nobre, 169 | organizador: MUNICIPIO DE RIO DE JANEIRO- Ruth de Souza | https://bileto.sympla.com.br/event/128568 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 28 de Novembro a 6 de Dezembro · Sábado e Domingo às 17h00",
    "id": "f-ef4b37b8ed",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6903,14 +7456,14 @@
      "hora": "18:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "18 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "nota_redacao": "O PDF confirma dias e horas da Sympla e acrescenta gratuidade e classificação. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Fora de Quadro",
    "areas": [
@@ -6921,13 +7474,13 @@
    "endereco": "Rua José Higino, 115",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "\"Fora de Quadro\" no Centro Coreográfico da Cidade, na Tijuca, em 28 e 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Espetáculo de dança da Improvável Produções que reúne integrantes antigos do grupo e artistas da ação Práticas Abertas, com Ballroom/Voguing, Waacking, Locking, hip-hop, jazz e sapateado, a partir do muro de um batalhão do Exército na Tijuca marcado pela ditadura.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128863",
-   "trecho_fonte": "2026-11-28 19:00 até 2026-11-29 18:00 | Fora de Quadro | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/128863 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 28 a 29 de Novembro · Sábado às 19h00, Domingo às 18h00",
+   "trecho_fonte": "Espetáculo “Fora de Quadro” Sábado(28/11), às 19h, e Domingo(29/11), às 18h. Grátis. 18 anos. || Centro Coreográfico da Cidade do Rio de Janeiro || Rua José Higino 115, Tijuca",
    "id": "f-9944b1aa2c",
    "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7078,14 +7631,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35",
+   "preco_min": 35,
+   "preco_max": 35,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá um só valor (R$ 35), sem dizer se é inteira ou meia; em Madureira, no dia 27, a faixa é R$ 35 a R$ 70. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Yuri Marçal: Macumbeiro",
    "areas": [
@@ -7096,12 +7649,13 @@
    "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
    "bairro": "Pechincha",
    "regiao": "Zona Sudoeste",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural Jacob do Bandolim, no Pechincha.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "No quinto solo de stand-up, nos 10 anos de carreira, Yuri Marçal, filho de mãe de santo, fala de sua vida nas religiões de matriz africana e do sentido da palavra \"macumbeiro\", passando por intolerância religiosa e fake news.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/127034",
-   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | MACUMBEIRO - Yuri Marçal | Areninha Cultural Municipal Jacob do Bandolim, Praça do Barro Vermelho | organizador: Município de Rio de Janeiro - Areninha Cultural Municipal Jacob do Bandolim | https://bileto.sympla.com.br/event/127034",
+   "trecho_fonte": "Areninha Cultural Municipal Jacob do Bandolim || Praça do Barro Vermelho, s/nº , Pechinha || Show de Comédia Stand Up “Macumbeiro com Yuri Marçal“ Sábado (28/11), às 20h. R$ 35. 16 anos.",
    "id": "f-6576ed5f1c",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7111,14 +7665,47 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "14 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF não dá link próprio nem diz se é preciso retirar ingresso. Título ajustado ao nome do projeto (\"Misturando o Som\"), como no texto do PDF.",
+   "aviso": "",
+   "titulo": "Misturando o Som: Zona Oeste Jazz & Blues",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Hermeto Pascoal",
+   "endereco": "Praça Primeiro de Maio, s/nº",
+   "bairro": "Bangu",
+   "regiao": "Zona Oeste",
+   "sinopse": "Noite de jazz e blues do projeto coletivo Misturando o Som, com Robertinho de Paula, Back in Blues e Cesinha Almuinha; nos intervalos, o Clube do Vinil toca música brasileira no varandão.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Misturando Som ZONA OESTE JAZZ & BLUES Sábado (28/11), às 20h. Gratuito. 14 anos. [...] reunindo três atrações musicais: Robertinho de Paula, Back in Blues e Cesinha Almuinha. E, nos intervalos, o Clube do Vinil assume o som no varandão",
+   "id": "f-84a0f12099",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 40 a R$ 80",
+   "preco_min": 40,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.",
    "aviso": "",
    "titulo": "Gilsons",
    "areas": [
@@ -7129,12 +7716,13 @@
    "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
    "bairro": "Madureira",
    "regiao": "Zona Norte",
-   "sinopse": "Show dos Gilsons na Arena Carioca Fernando Torres, em Madureira.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "José Gil, João Gil e Francisco Gil, filho e netos de Gilberto Gil, voltam a Madureira para um show único em que também celebram a obra de Gil.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/127258",
-   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | GILSONS | Arena Carioca Fernando Torres, R. Bernardino de Andrade, 200 | organizador: Município de Rio de Janeiro - Arena Cultural Fernando Torres | https://bileto.sympla.com.br/event/127258",
+   "trecho_fonte": "Arena Cultural Fernando Torres Rua Bernardino de Andrade 200, Madureira [...] Show “ Gilsons” Sábado(28/11), às 20h. R$ 40 a R$ 80. 16 anos. || Os Gilsons retornam à Arena Cultural Fernando Torres, em Madureira, no dia 28 de novembro, às 20h, para um show único com o qual celebrarão ainda a obra do mestre Gilberto Gil. O trio composto por José Gil, João Gil e Francisco Gil, respectivamente filho e netos",
    "id": "f-8d7f1ac2c1",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7292,14 +7880,14 @@
      "hora": "20:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "14 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Bonfim Comedy Show",
    "areas": [
@@ -7310,12 +7898,13 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Noite de comédia do Bonfim Comedy Show na Semana da Comédia do Festival Queer Comedy, no Teatro Municipal Ziembinski.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O ator e comediante Diogo Bonfim conta casos pessoais e histórias do dia a dia e dá vida a personagens como a socialite Nascinza e a vidente Morta Sensitiva, na Semana da Comédia do Ziembinski.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128301",
-   "trecho_fonte": "2026-11-28 20:00 até 2026-11-28 20:00 | Semana da Comédia: Festival Queer Comedy – Bonfim Comedy Show | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128301",
+   "trecho_fonte": "Semana da Comédia: Edição Queer Comedy apresenta “Bonfim Comedy Show” Sábado (28/11), às 20h. R$ 30 a R$ 60. 14 anos. || Teatro Municipal Ziembinski || Rua Heitor Beltrão s/nº, Tijuca",
    "id": "f-e76af35dff",
-   "entrou_em": "2026-11-23"
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7573,14 +8162,14 @@
      "hora": "21:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30",
+   "preco_min": 30,
+   "preco_max": 30,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.",
    "aviso": "",
    "titulo": "Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução",
    "areas": [
@@ -7591,12 +8180,13 @@
    "endereco": "Parque Poeta Manuel Bandeira, s/nº",
    "bairro": "Cocotá (Ilha do Governador)",
    "regiao": "Zona Norte",
-   "sinopse": "Guilherme Lemos e os Filhos da Revolução tocam Legião Urbana na Areninha Cultural Renato Russo, na Ilha do Governador.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Guilherme Lemos e os Filhos da Revolução tocam o repertório da Legião Urbana na areninha que leva o nome de Renato Russo, no ano em que se completam 30 anos de sua morte. Apresentação única.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128850",
-   "trecho_fonte": "2026-11-28 21:00 até 2026-11-28 21:00 | Tributo à Legião Urbana - Guilherme Lemos e os Filhos da Revolução | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0 | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/128850",
+   "trecho_fonte": "Show “Tributo à Legião Urbana - Guilherme Lemos e os Filhos da Revolução” Sábado (28/11), às 21h. R$ 30. 16 anos. [...] neste ano, que completa 30 anos de saudade. [...] Apresentação única.",
    "id": "f-ced40906a9",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7669,17 +8259,185 @@
    "sessoes": [
     {
      "data": "2026-11-29",
+     "hora": "09:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não informa convidados nem duração.",
+   "aviso": "",
+   "titulo": "Confraria dos Homens Pretos – roda de conversa",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Roda de conversa sobre a identidade do homem negro, com troca de experiências e reflexão sobre ancestralidade e coletividade.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Museu da História e da Cultura Afro-Brasileira (Muhcab) Rua Pedro Ernesto 80, Gamboa [...] Roda de Conversa “Confraria dos Homens Pretos’ Domingo (29/11), às 9h. Grátis. Livre.",
+   "id": "f-bb6421c844",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "titulo": "Domingo recreativo para crianças",
+   "areas": [
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Sandra de Sá",
+   "endereco": "Rua Doze, 1",
+   "bairro": "Santa Cruz",
+   "regiao": "Zona Oeste",
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Jogos, brincadeiras e pintura conduzidos pela equipe da areninha, todo domingo.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Sandra Sá Rua Doze 1, Santa Cruz [...] Domingo recreativo para crianças Domingos, às 10h. Grátis. Livre.",
+   "nota_redacao": "Correção: acrescentado o domingo 29/11, que o PDF desta semana repete. O PDF diz \"todos os domingos do mês\" sem data final; só entrou o domingo da semana do PDF. A Sympla (event/118973) dá o mesmo evento às 16h, até 29/11; mantido o horário do PDF (10h).",
+   "id": "2026-11-19-086",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": true,
+   "nota_redacao": "O PDF não diz o trajeto nem o ponto de partida; o evento aparece na programação do Muhcab, cujo endereço usei. Marquei \"Na rua\" por ser cortejo, como o Cortejo da Tia Ciata na base.",
+   "aviso": "",
+   "titulo": "Cortejo Escola Olodum",
+   "areas": [
+    "Música",
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
+   "endereco": "Rua Pedro Ernesto, 80",
+   "bairro": "Gamboa",
+   "regiao": "Centro",
+   "sinopse": "Cortejo de tambores da Escola Olodum, na Gamboa, em celebração à música e às tradições afro-brasileiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Museu da História e da Cultura Afro-Brasileira (Muhcab) Rua Pedro Ernesto 80, Gamboa [...] Cortejo Escola Olodum Domingo (29/11), às 10h. Grátis. Livre.",
+   "id": "f-1c8ab2131c",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não diz quais são os outros três espaços e dias nem a programação detalhada; só a data na Dicró. Não diz se é ao ar livre (na_rua falso). Organizador: órgão público (Município do Rio). Das 10h às 20h, pela Sympla.",
+   "aviso": "",
+   "titulo": "Festival Desapegue-se",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Arena Cultural Dicró",
+   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
+   "bairro": "Penha Circular",
+   "regiao": "Zona Norte",
+   "sinopse": "A 125ª edição do Festival Desapegue-se reúne atividades artísticas e formativas sobre economia circular e sustentabilidade em quatro espaços da Leopoldina; na Arena Dicró, a programação é no domingo.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/129084",
+   "trecho_fonte": "Arena Cultural Carlos Roberto de Oliveira - Dicró || Rua Flora Lobo, Parque Ary Barroso, s/nº, Penha Circular || Festival “Desapegue-se” Domingo (29/11), às 10h. Grátis. Livre. [...] 125ª edição do Festival Desapegue-se, um evento cultural gratuito de quatro dias consecutivos em quatro espaços na região da Leopoldina",
+   "id": "f-781686ca1c",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Circo, classificado em Teatro; Infantil pelo espaço e pela classificação livre. \"Na rua\" desmarcado, igual à outra ficha do mesmo teatro.",
+   "aviso": "",
+   "titulo": "The Herock",
+   "areas": [
+    "Infantil",
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro de Fantoches e Marionetes Carlos Werneck de Carvalho",
+   "endereco": "Aterro do Flamengo, altura do Posto 3",
+   "bairro": "Flamengo",
+   "regiao": "Zona Sul",
+   "sinopse": "Mister Copini mistura rock e circo em 50 minutos de malabarismo, jogos de máscaras e improviso; no final, sobe no monociclo e, lá em cima, equilibra uma bola de cristal.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Teatro de Fantoches e Marionetes Carlos Werneck de Carvalho Praça do Aterro do Flamengo, na altura do Posto 3 Espetáculo The Herock Domingo (29/11), às 10h. Grátis. Livre. [...] Ao longo de 50 minutos",
+   "id": "f-d86b0e991e",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
      "hora": "11:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 5 a R$ 10",
+   "preco_min": 5,
+   "preco_max": 10,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Quarteto Jequitibá: Retratos do Brasil",
    "areas": [
@@ -7690,12 +8448,13 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "O Quarteto Jequitibá apresenta \"Retratos do Brasil – Uma viagem pela Música Brasileira\" na série Clássicos Domingos do Centro da Música Carioca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Quarteto de jovens músicos da UNIRIO toca \"Cantilena\", de Villa-Lobos, a \"Suíte para Cordas\", de Radamés Gnattali, e \"Ijexá\" e \"Cantiga – Baião e Frevo\", de Hércules Gomes, na série Clássicos Domingos.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128654",
-   "trecho_fonte": "2026-11-29 11:00 até 2026-11-29 11:00 | Clássicos Domingos Quarteto Jequitibá apresenta Retratos do Brasil - Uma viagem pela Música Brasileira | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/128654",
+   "trecho_fonte": "Clássicos Domingos apresenta Quarteto Jequitibá apresenta Retratos do Brasil - Uma viagem pela Música Brasileira Domingo (29/11), às 11h. R$ 5 a R$ 10. Livre. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
    "id": "f-a59ccd7888",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7705,14 +8464,14 @@
      "hora": "12:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 20",
+   "preco_min": 20,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; natureza do encontro presumida por ele.",
+   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC. O PDF não informa o horário de término.",
    "aviso": "",
    "titulo": "Ilha do Anime",
    "areas": [
@@ -7723,12 +8482,46 @@
    "endereco": "Parque Poeta Manuel Bandeira, s/nº",
    "bairro": "Cocotá (Ilha do Governador)",
    "regiao": "Zona Norte",
-   "sinopse": "Encontro dedicado aos animes na Areninha Cultural Renato Russo, na Ilha do Governador.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Encontro de cultura pop japonesa com videogames, jogos de tabuleiro, expositores, concurso e encontro de cosplay, troca de cartas Pokémon, animekê e brincadeiras.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129219",
-   "trecho_fonte": "2026-11-29 12:00 até 2026-11-29 12:00 | Ilha do Anime | Areninha Cultural Renato Russo, Parque Poeta Manuel Bandeira,0  | organizador: Município de Rio de Janeiro - Areninha Cultural Renato Russo | https://bileto.sympla.com.br/event/129219",
+   "trecho_fonte": "Feira “Ilha do Anime” Domingo (29/11), às 12h. R$ 20. Livre. [...] Programação: Video Games, Arena Board Games, Expositores, Concurso e Encontro Cosplay, Área para Colorir, Pokémon TCG, Troca de Cartas, Animekê",
    "id": "f-c4d8d90c91",
-   "entrou_em": "2026-11-23"
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-29",
+     "hora": "14:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Das 14h às 16h. O PDF não diz se precisa de inscrição.",
+   "aviso": "",
+   "titulo": "Percursos imersivos no MHC: a presença negra na cidade",
+   "areas": [
+    "Artes Visuais"
+   ],
+   "tipo": "evento",
+   "local": "Museu Histórico da Cidade",
+   "endereco": "Estrada Santa Marinha, s/nº",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Visita mediada pela exposição de longa duração e pelo parque do Museu Histórico da Cidade, sobre a presença negra no Rio e sua marca na cultura, nas artes e na arquitetura.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Museu Histórico da Cidade (MHC) Estrada Santa Marinha s/nº, Gávea Percursos imersivos no MHC: roteiro cultural sobre a presença negra na cidade Domingo (29/11), das 14h às 16h. Grátis. Livre.",
+   "id": "f-00ba0202ca",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -7870,30 +8663,31 @@
      "hora": "15:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não detalha a programação.",
+   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC. Seção mudada de Festas & Feiras para Música, pelo que o PDF descreve.",
    "aviso": "",
    "titulo": "Festival Esperançar",
    "areas": [
-    "Festas & Feiras"
+    "Música"
    ],
    "tipo": "evento",
    "local": "Areninha Cultural Terra",
    "endereco": "Rua Marcos de Macedo, s/nº",
    "bairro": "Guadalupe",
    "regiao": "Zona Norte",
-   "sinopse": "Festival Esperançar na Areninha Cultural Terra, em Guadalupe.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Festa musical organizada pelo canal e podcast Esperançar, de Allan Rodrigues, com bandas e conjuntos espíritas de estilos variados. Apresentação única.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129274",
-   "trecho_fonte": "2026-11-29 15:00 até 2026-11-29 15:00 | Festival Esperançar | Areninha Cultural Terra, R. Marcos de Macedo, s/nº | organizador: Município de Rio de Janeiro - Areninha Cultural Terra - Guadalupe | https://bileto.sympla.com.br/event/129274",
+   "trecho_fonte": "Festival Esperançar Domingo (29/11), às 15h. Gratis. Livre. [...] o festival apresentará vários grupos de música espírita de diversos gêneros [...] Única apresentação",
    "id": "f-cb7bacc156",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8044,14 +8838,14 @@
      "hora": "16:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Domingo das Crianças: Árvore de Histórias",
    "areas": [
@@ -8062,12 +8856,13 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "O Desdobrar das Histórias apresenta \"Árvore de Histórias\" na série Domingo das Crianças do Centro da Música Carioca, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O grupo O Desdobrar das Histórias narra contos de tradição oral africana e afro-brasileira enquanto faz dobraduras de papel, na série Domingo das Crianças.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/129704",
-   "trecho_fonte": "2026-11-29 16:00 até 2026-11-29 16:00 | Domingo das Crianças - O Desdobrar das Histórias apresenta Árvore de Histórias | Centro da Música Carioca Artur da Távola, Rua Conde de Bonfim,824 | organizador: MUNICIPIO DE RIO DE JANEIRO -Centro de Referência da Música Carioca Artur da Távola | https://bileto.sympla.com.br/event/129704",
+   "trecho_fonte": "Domingo das Crianças: O Desdobrar das Histórias apresenta Árvore de Histórias Domingo (29/11), às 16h. R$ 10 a R$ 20. Livre. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
    "id": "f-e2b00c012e",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8221,14 +9016,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 40",
+   "preco_min": 40,
+   "preco_max": 40,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "Correção com o PDF da SMC como fonte principal: entram preço, classificação e sinopse. O texto do PDF diz uma vez \"29 de dezembro\", mas o cabeçalho, a frase anterior e a Sympla dão 29/11 às 19h; ficou 29/11. O PDF não informa meia-entrada. Mantido o link de venda da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Gilsons",
    "areas": [
@@ -8239,12 +9034,13 @@
    "endereco": "Praça Primeiro de Maio, s/nº",
    "bairro": "Bangu",
    "regiao": "Zona Oeste",
-   "sinopse": "Show dos Gilsons na Areninha Cultural Hermeto Pascoal, em Bangu.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "O trio formado por José, João e Francisco Gil, filho e netos de Gilberto Gil, volta à areninha de Bangu para um show único, que também celebra a obra de Gil.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/126981",
-   "trecho_fonte": "2026-11-29 19:00 até 2026-11-29 19:00 | Gilsons | Areninha Cultural Hermeto Pascoal, Praça Primeiro de Maio, s/n | organizador: Município de Rio de Janeiro - Areninha Cultural Hermeto Pascoal | https://bileto.sympla.com.br/event/126981",
+   "trecho_fonte": "Areninha Cultural Hermeto Pascoal Praça Primeiro de Maio s/nº, Bangu [...] Show dos “Gilsons” Domingo (29/11), às 19h. R$ 40. Livre. Areninha Cultural Hermeto Pascoal recebe Gilsons em única apresentação, no dia 29 de novembro às 19h. || 2026-11-29 19:00 até 2026-11-29 19:00 | Gilsons | Areninha Cultural Hermeto Pascoal [...] | https://bileto.sympla.com.br/event/126981",
    "id": "f-37698fe132",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8254,14 +9050,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (comédia) dado pelo nome da série.",
+   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Viny Arêas em De Risco",
    "areas": [
@@ -8272,12 +9068,13 @@
    "endereco": "Rua Heitor Beltrão, s/nº",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Viny Arêas apresenta \"De Risco\" na Semana da Comédia do Festival Queer Comedy, no Teatro Municipal Ziembinski.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Na Semana da Comédia do Ziembinski, edição Queer Comedy, o humorista Viny Arêas, gay e solteiro aos 40 anos, transforma em stand-up as próprias aventuras e o que pensa sobre o mundo de hoje.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128328",
-   "trecho_fonte": "2026-11-29 19:00 até 2026-11-29 19:00 | Semana da Comédia: Festival Queer Comedy – Viny Arêas de Risco | Teatro Municipal Ziembinski, Av. Heitor Beltrão s/n,0  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Ziembinski | https://bileto.sympla.com.br/event/128328",
+   "trecho_fonte": "Semana da Comédia: Edição Queer Comedy apresenta “Viny Arêas de Risco” Domingo (29/11), às 19h. R$ 30 a R$ 60. 16 anos. || Teatro Municipal Ziembinski || Rua Heitor Beltrão s/nº, Tijuca",
    "id": "f-a80078b053",
-   "entrou_em": "2026-11-23"
+   "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8287,14 +9084,14 @@
      "hora": "19:30"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 35 a R$ 70",
+   "preco_min": 35,
+   "preco_max": 70,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "16 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.",
    "aviso": "",
    "titulo": "Yuri Marçal: Macumbeiro",
    "areas": [
@@ -8305,12 +9102,13 @@
    "endereco": "Av. São Félix, 601",
    "bairro": "Vista Alegre",
    "regiao": "Zona Norte",
-   "sinopse": "Yuri Marçal apresenta \"Macumbeiro\" na Areninha Cultural João Bosco, em Vista Alegre.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "No quinto solo de stand-up, que marca dez anos de carreira, Yuri Marçal, filho de mãe de santo, fala da vida dentro das religiões de matriz africana e de intolerância religiosa.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/128488",
-   "trecho_fonte": "2026-11-29 19:30 até 2026-11-29 19:30 | Yuri Marçal - Macumbeiro | Areninha Cultural João Bosco de Vista Alegre, Av São Felix, 601 | organizador: Município de Rio de Janeiro - Areninha Cultural João Bosco | https://bileto.sympla.com.br/event/128488",
+   "trecho_fonte": "Areninha Cultural Municipal João Bosco Av. São Félix 601, Vista Alegre [...] Show de Comédia Stand Up “Macumbeiro com Yuri Marçal” Domingo(29/11), às 19h30. R$ 35 a R$ 70. 16 anos.",
    "id": "f-1db2b26c64",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -8801,6 +9599,76 @@
    "sessoes": [
     {
      "data": "2026-12-01",
+     "hora": "09:00"
+    },
+    {
+     "data": "2026-12-02",
+     "hora": "09:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF diz \"terça e quarta-feira\" sem data; usei as da semana do PDF (01 e 02/12). Não sei se continua nas semanas seguintes.",
+   "aviso": "",
+   "titulo": "Bazar Colaborativo Marisol",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Areninha Cultural Terra",
+   "endereco": "Rua Marcos de Macedo, s/nº",
+   "bairro": "Guadalupe",
+   "regiao": "Zona Norte",
+   "sinopse": "Feira de brechó e artesanato de um grupo de artesãs e customizadoras coordenado pela artesã Marina Araújo. Das 9h às 16h.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Areninha Cultural Municipal Terra Rua Marcos de Macedo s/nº, Guadalupe [...] Bazar Colaborativo Marisol Terça e quarta-feira, de 9h às 16h. Grátis. Livre.",
+   "id": "f-40e8e22c10",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
+     "hora": "10:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O PDF não dá link próprio nem diz a duração. Endereço repetido da ficha da mesma biblioteca na base.",
+   "aviso": "",
+   "titulo": "Roda de Leitura: clássicos e autores dos subúrbios",
+   "areas": [
+    "Livros & Debates"
+   ],
+   "tipo": "evento",
+   "local": "Biblioteca Municipal Milton Santos (Areninha Jacob do Bandolim)",
+   "endereco": "Praça do Barro Vermelho (Praça Geraldo Simonard), s/nº",
+   "bairro": "Pechincha",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Encontro aberto na biblioteca da Areninha Jacob do Bandolim, no Pechincha, para ler e conversar sobre obras clássicas e textos de escritores do subúrbio e da periferia carioca.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Biblioteca Municipal Milton Santos || Na Areninha Jacob do Bandolim: Praça Geraldo Simonard s/nº, Pechincha || Roda de Leitura Terça-feira (1°/12), às 10h. Grátis. Livre.",
+   "id": "f-216e7d6551",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-01",
      "hora": "16:00"
     }
    ],
@@ -9002,14 +9870,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
+   "preco_texto": "Grátis",
    "preco_min": null,
    "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
+   "gratis": true,
+   "classificacao": "18 anos",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.",
+   "nota_redacao": "O PDF grafa o título \"X-+N'TEA\" (provável erro de extração); mantida a grafia da Sympla. O PDF acrescenta gratuidade e classificação. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Ensaio aberto: X-I-N’TEA",
    "areas": [
@@ -9020,12 +9888,13 @@
    "endereco": "Rua José Higino, 115",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "Ensaio aberto de \"X-I-N’TEA\" no Centro Coreográfico da Cidade, na Tijuca.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Ensaio aberto de uma obra de performance que troca o palco convencional por um espaço expositivo partilhado com o público, com esgotamento físico, suspensão e colapso sobre um pedestal.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/130300",
-   "trecho_fonte": "2026-12-01 19:00 até 2026-12-01 19:00 | Ensaio aberto: X-I-N’TEA | Centro Coreográfico da Cidade do Rio de Janeiro, Rua José Higino, 115 | organizador: MUNICIPIO DE RIO DE JANEIRO - Centro Coreográfico da Cidade do Rio de Janeiro | https://bileto.sympla.com.br/event/130300",
+   "trecho_fonte": "Ensaio aberto: X-+N'TEA Segunda-feira (01/12), às 19h. Grátis. 18 anos. || Centro Coreográfico da Cidade do Rio de Janeiro || Rua José Higino 115, Tijuca",
    "id": "f-5f105e75e1",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -9658,10 +10527,10 @@
    "preco_min": null,
    "preco_max": null,
    "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
+   "classificacao": "Livre",
+   "acessibilidade": "Intérprete de Libras",
    "na_rua": false,
-   "nota_redacao": "O roteiro não informa classificação etária nem acessibilidade.",
+   "nota_redacao": "O PDF acrescenta a classificação e a intérprete de Libras ao que dava o roteiro da Revista CONCERTO.",
    "aviso": "",
    "titulo": "Grupo Choro Novo: 25 anos",
    "areas": [
@@ -9672,12 +10541,13 @@
    "endereco": "Rua Conde de Bonfim, 824",
    "bairro": "Tijuca",
    "regiao": "Zona Norte",
-   "sinopse": "O Grupo Choro Novo comemora 25 anos na série Diálogos Sonoros, com participação de Mestre Siqueira no cavaquinho, no Centro da Música Carioca, na Tijuca. Entrada franca.",
-   "fonte": "Revista CONCERTO (roteiro)",
+   "sinopse": "O grupo Choro Novo comemora 25 anos com a série Diálogos Sonoros – Brasil Instrumental, que chega ao Rio com o cavaquinista Mestre Siqueira. Depois do show, conversa com o público.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://www.concerto.com.br/roteiros/2026-12-02",
-   "trecho_fonte": "2026-12-02 19:00 | Grupo Choro Novo | Centro Municipal de Referência da Música Carioca Artur da Távola (156 lugares) — Rua Conde de Bonfim, 824 - Tijuca - Tel. (21) 3238-3831 - http://centrodamusicacarioca.blogspot.com | ingressos: Entrada franca. [...] programa segundo a revista: Série Diálogos Sonoros – Brasil Instrumental. 25 anos do grupo. Participação: Mestre Siqueira - cavaquinho.",
+   "trecho_fonte": "Quarta Especial Choro Novo apresenta: Diálogos Sonoros - Brasil Instrumental Quarta-feira (02/12), às 19h.Grátis. Livre. [...] Rio de Janeiro, em 2 de dezembro, com o cavaquinista Mestre Siqueira. Todas as apresentações terão intérprete de Libras e serão seguidas de conversa com o público. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
    "id": "f-69fd3c3cbd",
-   "entrou_em": "2026-11-25"
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -9753,14 +10623,14 @@
      "hora": "19:00"
     }
    ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
    "gratis": false,
-   "classificacao": "",
+   "classificacao": "Livre",
    "acessibilidade": "",
    "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).",
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço, classificação e sinopse; data e hora iguais às da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).",
    "aviso": "",
    "titulo": "Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco",
    "areas": [
@@ -9771,12 +10641,13 @@
    "endereco": "Praça Tiradentes, s/nº",
    "bairro": "Centro",
    "regiao": "Centro",
-   "sinopse": "Sessão do Cineclube Carlos Gomes com \"Macumbaria\" e \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", na Praça Tiradentes.",
-   "fonte": "Sympla (extração do Todos os Rios)",
+   "sinopse": "Sexta sessão do cineclube: o documentário \"Macumbaria\", de Lucio Branco, com reflexões de Luiz Antonio Simas, e o curta \"Arruma um Pessoal pra Gente Botar uma Macumba num Disco\", de Chico Serra, sobre Getúlio Marinho.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
    "link": "https://bileto.sympla.com.br/event/130520",
-   "trecho_fonte": "2026-12-02 19:00 até 2026-12-02 19:00 | CINECLUBE CARLOS GOMES # 6 :  Macumbaria +  Arruma um Pessoal pra Gente Botar uma Macumba num Disco | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130520",
+   "trecho_fonte": "Cineclube Carlos Gomes apresenta “ Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco” Quarta-feira (02/12) 19h. R$ 10 a R$ 20. Livre. || 2026-12-02 19:00 até 2026-12-02 19:00 | CINECLUBE CARLOS GOMES # 6 :  Macumbaria +  Arruma um Pessoal pra Gente Botar uma Macumba num Disco | Teatro Municipal Carlos Gomes, Praça Tiradentes | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CARLOS GOMES | https://bileto.sympla.com.br/event/130520",
    "id": "f-a2c6e8e1a7",
-   "entrou_em": "2026-11-22"
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
   },
   {
    "cartaz": null,
