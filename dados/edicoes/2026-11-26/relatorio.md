@@ -2,7 +2,7 @@
 
 - Eventos e exposições: **1010** (954 eventos com 9673 sessões; 56 em cartaz)
 - Grátis: **95** · preço popular (até R$ 40): **91**
-- Conferidos sem ressalva: **994** · a confirmar: **16**
+- Conferidos sem ressalva: **995** · a confirmar: **15**
 
 ## Distribuição por região
 
@@ -119,11 +119,11 @@
 - **Rio Carnaval Expo** (f-91e8f08be9) · sinopse · *diverge* — tema deduzido e gratuidade só da Riotur → **Corrigido: sinopse só com os fatos**
 - **Hipertelia – Marés de Mudanças** (f-8fafc9a14f) · preco · *duvida* — gratuidade só pela Riotur → **Corrigido: preço vazio, na nota**
 - **Cidade Batucada** (f-bcc6780966) · preco · *diverge* — gratuidade só pela Riotur → **Corrigido: preço vazio, na nota**
-- **Escola do Rock** (2026-11-19-143) · criterios · *duvida* — o site chama "Escola do Rock - CEFTEM"; pode ser montagem de escola de formação → **pendente (sai como “a confirmar”)**
 - **Minha Vó Ri** (f-a8b365287d) · sessoes · *diverge* — o PDF diz sábados e domingos às 11h; a Sympla, sexta e sábado às 20h e domingo às 19h → **Mantido: horário da Sympla (decisão da coordenação editorial de 26/11: em conflito de horário, vale a Sympla, salvo hora padrão)**
 - **Ciclomáticos** (f-c21b141a4f) · sessoes.hora · *diverge* — 28/11: o PDF diz 19h, a Sympla 18h → **Mantido: horário da Sympla (decisão da coordenação editorial de 26/11: em conflito de horário, vale a Sympla, salvo hora padrão)**
 - **14ª Jornada (MAR)** (f-7adf1f93f5) · sessoes · *diverge* — a Sympla dá 27/11 às 17h; o PDF, 26 e 27/11 às 10h → **Mantido: horário da Sympla (decisão da coordenação editorial de 26/11: em conflito de horário, vale a Sympla, salvo hora padrão)**
 - **Domingo recreativo** (2026-11-19-086) · sessoes.hora · *diverge* — a Sympla dá 16h, mas como hora padrão de temporada sem dias (16h até 16h); o PDF dá 10h → **Mantido: 10h do PDF, porque a hora da Sympla é a padrão**
+- **Escola do Rock** (2026-11-19-143) · criterios · *duvida* — o site chama "Escola do Rock - CEFTEM" → **Mantido: a programação da EcoVilla Ri Happy entra sempre (decisão editorial de 26/11)**
 
 ## Conferência mecânica (regras)
 
@@ -512,7 +512,7 @@
 - **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
 - **02/12**: Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte; Entre Direitos e Afetos: relações sem violência; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
 - **03/12**: Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha); Luan Pureza celebra Iansã – Santa Bárbara; O Rabo da Lagartixa, ficções em voz alta – Quinta é Cultura
-- **04/12**: OSB: Especial Harry Potter; Patati Patatá Circo Show; Abertura da exposição "Você já escutou a terra?"
+- **04/12**: OSB: Especial Harry Potter; Escola do Rock; Abertura da exposição "Você já escutou a terra?"
 - **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; La Strada – Os Que Vieram Antes de Nós
 - **06/12**: Canta Navidad – Coro Intercantus e convidados (Cidade das Artes); La Strada – Os Que Vieram Antes de Nós; Festival Contarolando Histórias
 - **07/12**: Carioquinha: Lu Oliveira e Rogério Guimarães; Saúde & Ciências em Jogo; Fera

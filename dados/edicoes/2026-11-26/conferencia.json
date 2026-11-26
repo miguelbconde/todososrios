@@ -840,14 +840,6 @@
    "id": "f-bcc6780966"
   },
   {
-   "titulo": "Escola do Rock",
-   "campo": "criterios",
-   "veredito": "duvida",
-   "detalhe": "o site chama \"Escola do Rock - CEFTEM\"; pode ser montagem de escola de formação",
-   "resolucao": "",
-   "id": "2026-11-19-143"
-  },
-  {
    "id": "f-a8b365287d",
    "titulo": "Minha Vó Ri",
    "campo": "sessoes",
@@ -878,6 +870,14 @@
    "veredito": "diverge",
    "detalhe": "a Sympla dá 16h, mas como hora padrão de temporada sem dias (16h até 16h); o PDF dá 10h",
    "resolucao": "Mantido: 10h do PDF, porque a hora da Sympla é a padrão"
+  },
+  {
+   "id": "2026-11-19-143",
+   "titulo": "Escola do Rock",
+   "campo": "criterios",
+   "veredito": "duvida",
+   "detalhe": "o site chama \"Escola do Rock - CEFTEM\"",
+   "resolucao": "Mantido: a programação da EcoVilla Ri Happy entra sempre (decisão editorial de 26/11)"
   }
  ]
 }
