@@ -6057,6 +6057,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Lenine",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Lenine na Brava Arena, no Jockey Club, na Gávea.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/lenine-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: 20h Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Lagoa",
+   "id": "f-0267941c28",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-11",
      "hora": "18:00"
     }
@@ -6086,6 +6119,39 @@
    "id": "f-02f112b40f",
    "entrou_em": "2026-11-24",
    "atualizado_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Guilherme Arantes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de Guilherme Arantes na Brava Arena, no Jockey Club, na Gávea.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/guilherme-arantes-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: 20h Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Lagoa",
+   "id": "f-03bc18ee86",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6980,6 +7046,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-19",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Data na agenda da Fundição; hora da Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-cone-crew-diretoria/). Nenhuma das duas dá preço nem classificação na ronda.",
+   "aviso": "",
+   "titulo": "Cone Crew Diretoria",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Show do grupo Cone Crew Diretoria na Fundição Progresso, na Lapa, dentro da temporada de verão da casa.",
+   "fonte": "Site da Fundição Progresso e Riotur (Calendário Oficial)",
+   "link": "https://fundicaoprogresso.com.br/Ingressos",
+   "trecho_fonte": "CONECREW DIRETORIA_ 19 DEZ || Show 19 DEZ CONECREW DIRETORIA || Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-cone-crew-diretoria/): Horário: A partir das 21h Local: Fundição Progresso Endereço: Rua dos Arcos, 24 – Lapa",
+   "id": "f-0d6da3e8f2",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-06",
      "hora": "14:30"
     }
@@ -7041,6 +7140,39 @@
    "trecho_fonte": "2026-11-28 18:00 até 2026-11-28 21:00 | 28/11 | Obra Mala (CO) // Breve (RJ) // Colombia Profunda (CO)| Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS | https://www.sympla.com.br/evento/28-11-obra-mala-co-breve-rj-colombia-profunda-co-danca-a-deriva-edicao-rj/3651194",
    "id": "f-0d906fc7e8",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Data na agenda da Farmasi Arena; hora da Riotur. Nenhuma das duas dá preço nem classificação na ronda.",
+   "aviso": "",
+   "titulo": "Renato Albani: Salve-se Quem Puder",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Farmasi Arena",
+   "endereco": "Av. Embaixador Abelardo Bueno, 3.401",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Renato Albani apresenta o espetáculo \"Salve-se Quem Puder\" na Farmasi Arena, na Barra da Tijuca.",
+   "fonte": "Farmasi Arena (agenda oficial) e Riotur (Calendário Oficial)",
+   "link": "https://farmasiarena.com.br/proximos-eventos/",
+   "trecho_fonte": "Renato Albani: Salve-se quem puder 28/11/2026 || Riotur: Horário: 21h Local: Farmasi Arena Endereço: Av. Embaixador Abelardo Bueno, 3.401 – Barra da Tijuca",
+   "id": "f-0e345919ae",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": {
@@ -7980,6 +8112,67 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). O fim em 6/12 vem do texto da página da Riotur; a data de estreia não aparece, então listei as sessões de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "A Solidão do Feio",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana (Mezanino)",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo \"A Solidão do Feio\" no mezanino do Sesc Copacabana, com sessões de quinta a domingo até 6 de dezembro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/a-solidao-do-feio-no-teatro-sesc-copacabana-2/",
+   "trecho_fonte": "Horário: Quintas e sextas, às 20h30; sábados e domingos, às 19h Local: Mezanino do Sesc Copacabana Endereço: Rua Domingos Ferreira, 160 – Copacabana",
+   "id": "f-1da07461ee",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-29",
      "hora": "19:30"
     }
@@ -8798,6 +8991,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-19",
+     "hora": "22:00"
+    }
+   ],
+   "preco_texto": "A partir de R$ 97,50",
+   "preco_min": 97.5,
+   "preco_max": 97.5,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o preço 'a partir de', sem dizer se é inteira.",
+   "aviso": "",
+   "titulo": "Di Ferrero e Thiago Castanho & Marcão Britto: Charlie Brown Jr. Acústico",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Dois shows na mesma noite: os guitarristas Thiago Castanho e Marcão Britto revisitam o Charlie Brown Jr. em formato acústico, e Di Ferrero apresenta a turnê \"SE7E\", com inéditas, carreira solo e clássicos do NX Zero.",
+   "fonte": "Site do Qualistage",
+   "link": "https://qualistage.com.br/evento/443/di-ferrero-e-thiago-castanho-e-marcao-britto-charlie-brown-jr",
+   "trecho_fonte": "A partir de R$ 97,50 Sábado - 19 | DEZEMBRO 22h00 16 anos || A turnê “Thiago Castanho & Marcão Britto Charlie Brown Jr. Acústico”, revisitando clássicos de uma banda que atravessou gerações, enquanto Di Ferrero apresenta uma nova fase de sua carreira com a turnê “SE7E”. Serão dois shows completos em uma única noite [...] Di Ferrero leva ao palco um espetáculo que conecta novidades, carreira solo e clássicos do NX Zero.",
+   "id": "f-2c504191d5",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-23",
      "hora": "20:00"
     }
@@ -9134,6 +9360,40 @@
    "id": "f-30327b9bf9",
    "entrou_em": "2026-11-24",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-20",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Data na agenda da Fundição; hora da Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-a-festa-awure-veste-branco/). Nenhuma das duas dá preço nem classificação na ronda.",
+   "aviso": "",
+   "titulo": "Awurê Veste Branco",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A festa Awurê faz a edição \"Veste Branco\" no palco São Sebastião da Fundição Progresso, na Lapa, a partir das 16h.",
+   "fonte": "Site da Fundição Progresso e Riotur (Calendário Oficial)",
+   "link": "https://fundicaoprogresso.com.br/Ingressos",
+   "trecho_fonte": "AWURÊ VESTE BRANCO_ 20 DEZ || Show 20 DEZ Awurê Veste Branco || Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-a-festa-awure-veste-branco/): Horário : A partir das 16h Local : Fundição Progresso – Palco São Sebastião Endereço : Rua dos Arcos, 24 – Lapa",
+   "id": "f-30448cd19b",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -10056,6 +10316,79 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2027-01-08",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-09",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-10",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-14",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-15",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-16",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-17",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-21",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-22",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-23",
+     "hora": "20:00"
+    },
+    {
+     "data": "2027-01-24",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Período e texto do site do teatro; dias e horas da Riotur. Sessões até 24/1 (fim da janela de 60 dias); a temporada vai até 31/1. Sem preço nem classificação na ronda; o site não tem página própria do evento (link para a página inicial).",
+   "aviso": "",
+   "titulo": "A Gente Mira no Amor e Acerta na Solidão",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro TotalEnergies – Sala Adolpho Bloch",
+   "endereco": "Rua do Russel, 804",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Johnny Massaro estrela a peça inspirada no livro de Ana Suy: um guia turístico conduz o público por uma visita ao coração humano, entre a espera da pessoa amada e o fim da relação. Dramaturgia de Júlia Portes e direção de Helena Varvaki.",
+   "fonte": "Site do Teatro TotalEnergies e Riotur (Calendário Oficial)",
+   "link": "https://teatrototalenergies.com.br",
+   "trecho_fonte": "08 a 31 de janeiro A gente Mira no Amor e Acerta na Solidão [...] o best-seller A gente mira no amor e acerta na solidão, da psicanalista e escritora Ana Suy, serviu de inspiração para o espetáculo estrelado e idealizado por Johnny Massaro, com temporada de estreia no Rio de Janeiro, no Teatro TotalEnergies - Sala Adolpho Bloch, de 08 a 31 de janeiro de 2027. [...] dramaturgia de Júlia Portes e direção de Helena Varvaki. Na trama, um guia turístico convida o público a uma visita ao coração humano. || Riotur: Horário: Quintas, sextas e sábados, às 20h; domingos, às 18h Local: Teatro TotalEnergies – Sala Adolpho Bloch Endereço: Rua do Russel, 804 – Glória",
+   "id": "f-3e2475e823",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-27",
      "hora": "14:00"
     }
@@ -10116,6 +10449,39 @@
    "link": "https://academia.org.br/eventos",
    "trecho_fonte": "A representação feminina na Academia Conferências Data e horário: 1 de Dezembro de 2026 às 16h00 INSCREVA-SE CLICANDO AQUI",
    "id": "f-3f3da167ec",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Elba Ramalho e Geraldo Azevedo",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Elba Ramalho e Geraldo Azevedo dividem o palco na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/elba-ramalho-e-geraldo-azevedo-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: 20h (abertura dos portões às 18h Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Lagoa",
+   "id": "f-3f48af07d4",
    "entrou_em": "2026-11-26"
   },
   {
@@ -10871,6 +11237,40 @@
    "link": "https://www.sympla.com.br/evento/pagode-do-origem-essencia-do-samba/3666691",
    "trecho_fonte": "2026-11-29 17:00 até 2026-11-30 02:00 | Pagode do Origem - Essência do Samba | ESSENCIA DO SAMBA, Rua Honório Cachambi | organizador: Rafael caus Azevedo | https://www.sympla.com.br/evento/pagode-do-origem-essencia-do-samba/3666691",
    "id": "f-4e466b06e6",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação e atrações não informadas.",
+   "aviso": "",
+   "titulo": "Festa PLOC 22 Anos",
+   "areas": [
+    "Festas & Feiras",
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "A Festa PLOC comemora 22 anos com uma edição na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/festa-ploc-22-anos-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: 20h (abertura dos portões às 18h) Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Gávea",
+   "id": "f-4e5365ffa2",
    "entrou_em": "2026-11-26"
   },
   {
@@ -13374,6 +13774,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o espetáculo na ronda. A página da Riotur dá R$ 50 (inteira) e R$ 25 (meia), mas pela regra o preço da Riotur só entra com confirmação; ficou sem preço. Classificação não informada.",
+   "aviso": "",
+   "titulo": "Embarcação Perdue",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Gláucio Gill",
+   "endereco": "Praça Cardeal Arcoverde, s/nº",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Últimas sessões do espetáculo \"Embarcação Perdue\" no Teatro Gláucio Gill, em Copacabana, que encerra a temporada nesta sexta.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/embarcacao-perdue-teatro-glaucio-gil/",
+   "trecho_fonte": "Temporada: 5 a 27 de novembro Local: Teatro Glaucio Gil Endereço: Praça Cardeal Arcoverde, s/n – Copacabana Horário: quarta a sexta, às 20h",
+   "id": "f-76daacf063",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-11",
      "hora": "19:00"
     }
@@ -13729,6 +14166,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-31",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "João Gomes",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show de João Gomes na noite de 31 de dezembro na Brava Arena, no Jockey Club.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/joao-gomes-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: a partir de 20h Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Lagoa",
+   "id": "f-7d1099f28a",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-22",
      "hora": "15:00"
     }
@@ -14052,6 +14522,39 @@
    "trecho_fonte": "2026-12-08 19:30 até 2026-12-08 19:30 | ANA BISPO CANTA TE AMOS | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126515",
    "id": "f-8079e7c1fb",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-30",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "Grátis (retirada na bilheteria 2h antes)",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Data e gratuidade no site do teatro; hora e sala da Riotur. O site do teatro não tem página própria do evento na ronda: link para a página inicial. Classificação não informada.",
+   "aviso": "",
+   "titulo": "Dramaturgia em Leituras: Marlim Azul",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro TotalEnergies – Sala Adolpho Bloch",
+   "endereco": "Rua do Russel, 804",
+   "bairro": "Glória",
+   "regiao": "Zona Sul",
+   "sinopse": "Leitura dramatizada de \"Marlim Azul\", texto de Ruy Borba sobre o luto e os conflitos de uma família depois da morte do patriarca, com humor e realismo fantástico.",
+   "fonte": "Site do Teatro TotalEnergies e Riotur (Calendário Oficial)",
+   "link": "https://teatrototalenergies.com.br",
+   "trecho_fonte": "30 de novembro Dramaturgia em Leituras: Marlim Azul (GRATUITO) [...] O texto, escrito por Ruy Borba, investiga o luto, a herança emocional e os conflitos internos de uma família após a morte do patriarca. [...] Entrada Gratuita Retirada de ingressos na bilheteria a partir de 2 horas antes do início do espetáculo || Riotur: Horário: A partir das 19h Local : Teatro TotalEnergies – Sala Adolpho Bloch Endereço : Rua do Russel, 804 – Glória",
+   "id": "f-80ee594fbb",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -15787,6 +16290,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Jota Quest",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show da banda Jota Quest na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/jota-quest-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário : 20h (abertura dos portões às 18h) Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Gávea",
+   "id": "f-962f9dcd71",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-26",
      "hora": "20:00"
     }
@@ -16095,6 +16631,39 @@
    "link": "https://becodasgarrafas.com.br/principal/events/",
    "trecho_fonte": "28 / nov || KAY LYRA || 20:00 (SÁB) | Little Club || R$ 80,00 || 04 / dez || KAY LYRA || 20:00 (SEX) | Little Club || R$ 80,00 || 18 / dez [...] 25 / dez || KAY LYRA || 20:00 (SEX) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
    "id": "f-99b4d3be66",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Capital Inicial",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Show da banda Capital Inicial na Brava Arena, no Jockey Club; portões abrem às 18h.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/capital-inicial-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: 20h (Abertura dos portões às 18h) Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Lagoa (Jockey Club Brasileiro)",
+   "id": "f-9a34852836",
    "entrou_em": "2026-11-26"
   },
   {
@@ -19768,6 +20337,43 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada. Bairro: Gávea (endereço do Jockey Club); a Riotur escreve Lagoa.",
+   "aviso": "",
+   "titulo": "O Céu da Língua, com Gregório Duvivier",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Brava Arena Jockey",
+   "endereco": "Praça Santos Dumont, 31 (Jockey Club Brasileiro)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Gregório Duvivier apresenta \"O Céu da Língua\" em duas sessões na Brava Arena, no Jockey Club.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/o-ceu-da-lingua-com-gregorio-duvivier-na-brava-arena-jockey/",
+   "trecho_fonte": "Horário: 21h (28/11) e 16h (29/11) Local: Brava Arena Jockey Endereço: Praça Santos Dumont, 31 – Lagoa",
+   "id": "f-ce157b6b62",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-11-26",
      "hora": "20:00"
     },
@@ -20039,6 +20645,39 @@
    "trecho_fonte": "2026-11-26 20:00 até 2026-11-26 20:00 | Queen Legend | Teatro Claro MAIS RJ | Show | de R$ 90,00 a R$ 280,00 (o menor pode ser meia) | classificação: Livre || QUEEN LEGEND — O LEGADO DE FREDDIE MERCURY || À frente da Queen Legend , Elvis Balbo é o grande destaque do espetáculo",
    "id": "f-d07da5e4e1",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o preço 'a partir de', sem dizer se é inteira.",
+   "aviso": "",
+   "titulo": "Jorge Vercillo: JV30 Parte II – Mais um Final Feliz",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show extra que encerra a turnê \"JV30 Parte II – Mais um final feliz\", com que Jorge Vercillo celebra 30 anos de carreira.",
+   "fonte": "Site do Qualistage",
+   "link": "https://qualistage.com.br/evento/438/jorge-vercillo",
+   "trecho_fonte": "A partir de R$ 80,00 Sábado - 28 | NOVEMBRO 21h30 18 anos || Jorge Vercillo esgota sua apresentação de outubro e abre show extra com a apresentação final da turnê “JV30 Parte II – Mais um final feliz”. [...] Jorge Vercillo celebra seus 30 anos de carreira e encerra a Tour do espetáculo.",
+   "id": "f-d0c27e184b",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -20563,6 +21202,39 @@
    "trecho_fonte": "2026-12-12 17:00 | Orquestra Furiosa Portátil | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: R$ 10. [...] programa segundo a revista: Festival Radamés Gnattali – 120 anos. Pedro Aragão – regente. Programa: Radamés Gnattali – Papo de anjo, Sempre a sonhar, Alma brasileira, Tristonho, Caçador de borboletas, Choro sofisticado, Bate papo, Caminho da saudade,",
    "id": "f-d5ae982323",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Data na agenda da Fundição; hora da Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-mariroots-so-pedrada/). Nenhuma das duas dá preço nem classificação na ronda.",
+   "aviso": "",
+   "titulo": "Mariroots: Só Pedrada! – 20 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "Mariroots apresenta o show \"Só Pedrada!\", que marca 20 anos, na Fundição Progresso, na Lapa, dentro da temporada de verão da casa.",
+   "fonte": "Site da Fundição Progresso e Riotur (Calendário Oficial)",
+   "link": "https://fundicaoprogresso.com.br/Ingressos",
+   "trecho_fonte": "MARIROOTS, SÓ PEDRADA!_ 18 DEZ || Show 18 DEZ MARIROOTS, SÓ PEDRADA! 20 ANOS || Riotur (https://riotur.rio/evento-calendario/verao-na-fundicao-progresso-com-mariroots-so-pedrada/): Horário : A partir das 20h Local : Fundição Progresso Endereço : Rua dos Arcos, 24 – Lapa",
+   "id": "f-d6978cb616",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -21598,6 +22270,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-11-26",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "A partir de R$ 297,50",
+   "preco_min": 297.5,
+   "preco_max": 297.5,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o preço 'a partir de', sem dizer se é inteira. A Riotur dava 'a partir de R$ 197,50' e 'horário a confirmar'; valeu o site da casa. O site não traz texto de apresentação: sinopse mínima.",
+   "aviso": "",
+   "titulo": "Seal",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Qualistage",
+   "endereco": "Av. Ayrton Senna, 3.000 (Via Parque Shopping)",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "Show de Seal no Qualistage, na Barra da Tijuca.",
+   "fonte": "Site do Qualistage",
+   "link": "https://qualistage.com.br/evento/400/seal",
+   "trecho_fonte": "A partir de R$ 297,50 Quinta - 26 | NOVEMBRO 19h30 16 anos",
+   "id": "f-e2bc0c6480",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-06",
      "hora": "16:00"
     }
@@ -21626,6 +22331,67 @@
    "trecho_fonte": "2026-12-06 16:00 até 2026-12-07 01:00 | BATUQ EM VERDE E ROSA - 5ª EDIÇÃO | G.R.E.S. Estação Primeira de Mangueira, Rua Visconde de Niterói  | organizador: Batuq Casa de Samba | https://www.sympla.com.br/evento/batuq-em-verde-e-rosa-5a-edicao/3649271",
    "id": "f-e300ee9c73",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-26",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-27",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). Período de 5/11 a 6/12 tirado do texto da página da Riotur; sessões listadas de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Pororoca",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Sesc Ginástico",
+   "endereco": "Av. Graça Aranha, 187",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Espetáculo \"Pororoca\" em temporada no Teatro Sesc Ginástico, no Centro, até 6 de dezembro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/pororoca-no-teatro-sesc-ginasio-3/",
+   "trecho_fonte": "Horário: Quintas, sextas e sábados, às 19h, e domingos, às 17h Local: Teatro Sesc Ginástico Endereço: Av. Graça Aranha, 187 – Centro",
+   "id": "f-e449afdfbe",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
