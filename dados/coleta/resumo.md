@@ -1,12 +1,12 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-25 22:02 UTC, em 236 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-26 06:01 UTC, em 206 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
 
-- coletada: **62**
-- não respondeu: **22**
+- coletada: **64**
+- não respondeu: **20**
 - coletada, mas sem datas à vista: **10**
 - recusou a visita: **3**
 
@@ -21,12 +21,13 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Artur Fidalgo Galeria | coletada | feed (20 itens), texto de 5 página(s) |
 | Beco das Garrafas | coletada | texto de 1 página(s) |
 | Biblioteca Parque Estadual; Bibliotecas Parque de Manguinhos e Rocinha | coletada | feed (10 itens), texto de 5 página(s) |
-| CCBB Rio | coletada | texto de 7 página(s) |
+| CCBB Rio | coletada | texto de 12 página(s) |
 | Carioca da Gema | coletada | feed (20 itens), texto de 2 página(s) |
 | Carpintaria (Fortes D'Aloia & Gabriel) | coletada | texto de 9 página(s) |
 | Casa Firjan | coletada | texto de 13 página(s) |
 | Casa Museu Eva Klabin | coletada | texto de 13 página(s) |
 | Casa Roberto Marinho | coletada | texto de 12 página(s) |
+| Casa da Ciência da UFRJ | coletada | texto de 3 página(s) |
 | Centro Cultural Correios RJ | coletada | feed (15 itens), feed (15 itens), texto de 13 página(s) |
 | Centro Cultural Justiça Federal (CCJF) | coletada | texto de 13 página(s) |
 | Cineclube Macunaíma (ABI) | coletada | feed (10 itens), texto de 12 página(s) |
@@ -40,6 +41,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Farmasi Arena | coletada | texto de 5 página(s) |
 | Fundição Progresso | coletada | texto de 14 página(s) |
 | Futuros – Arte e Tecnologia (Oi Futuro) | coletada | texto de 12 página(s) |
+| Fórum de Ciência e Cultura da UFRJ | coletada | feed (3 itens), texto de 12 página(s) |
 | Galeria Athena | coletada | texto de 3 página(s) |
 | Galeria Cavalo | coletada | texto de 7 página(s) |
 | Galeria Movimento | coletada | texto de 1 página(s) |
@@ -66,13 +68,13 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Rio Scenarium | coletada | texto de 2 página(s) |
 | Sala Cecília Meireles | coletada | texto de 12 página(s) |
 | Teatro Bangu Shopping | coletada | texto de 13 página(s) |
-| Teatro Casa Grande | coletada | texto de 8 página(s) |
-| Teatro Multiplan | coletada | texto de 9 página(s) |
+| Teatro Casa Grande | coletada | texto de 7 página(s) |
+| Teatro Multiplan | coletada | texto de 8 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
 | Teatro Rival Petrobras | coletada | texto de 2 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
-| Teatro das Artes | coletada | dados estruturados (21 eventos), texto de 13 página(s) |
+| Teatro das Artes | coletada | dados estruturados (20 eventos), texto de 12 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
 | Theatro Municipal do Rio de Janeiro | coletada | feed (8 itens), texto de 5 página(s) |
 | Vivo Rio | coletada | texto de 12 página(s) |
@@ -92,9 +94,6 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro dos Quatro | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Trapiche Gamboa | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
 | Z42 Arte | não respondeu: URLError: <urlopen error [Errno -2] Name or service not known> |  |
-| Casa da Ciência da UFRJ | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
-| Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
-| Fórum de Ciência e Cultura da UFRJ | não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution> |  |
 | Arquivo Nacional | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Fundação Casa de Rui Barbosa | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
 | Jardim Botânico do Rio de Janeiro | não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer> |  |
@@ -108,6 +107,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | É Tudo Verdade | não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)> |  |
 | Galeria Nara Roesler | não respondeu: URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1011)> |  |
 | Imperator (Centro Cultural João Nogueira) | não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)> |  |
+| Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros) | não respondeu: URLError: <urlopen error timed out> |  |
 | Biblioteca Nacional | recusou a visita (código 403) |  |
 | Solar de Botafogo | recusou a visita (código 403) |  |
 | Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teat | recusou a visita (código 503) |  |

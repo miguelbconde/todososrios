@@ -1,0 +1,1312 @@
+# Relatório da edição — Programação de hoje até 25 de janeiro de 2027
+
+- Eventos e exposições: **862** (818 eventos com 9323 sessões; 44 em cartaz)
+- Grátis: **57** · preço popular (até R$ 40): **74**
+- Conferidos sem ressalva: **854** · a confirmar: **8**
+
+## Distribuição por região
+
+- Centro: 152
+- Zona Sul: 254
+- Zona Sudoeste: 171
+- Zona Norte: 207
+- Zona Oeste: 78
+
+## Conferente independente (IA)
+
+- **Exposição principal do Museu Histórico da Cidade** (2026-11-19-008) · sinopse · *nao_encontrado* — A ficha diz "Acervo permanente sobre a história do Rio, na antiga chácara da Gávea". A fonte semanal não traz descrição nenhuma ("Exposição Principal do Museu Histórico da Cidade. Terça-feira a domingo, das 9h às 16h"); a do Novembro Negro fala só em "exposição de longa duração do Museu Histórico da Cidade". "Antiga chácara" e "história do Rio" não constam. → **Corrigido: sinopse reduzida ao que a fonte informa.**
+- **Exposição permanente Getúlio Vargas** (2026-11-19-012) · sinopse · *nao_encontrado* — A ficha diz "Mostra permanente do memorial dedicado ao ex-presidente". A fonte só traz "Exposição permanente Getulio Vargas", sem descrição; "ex-presidente" é conhecimento geral, não está na fonte. → **Corrigido: sinopse reduzida ao que a fonte informa.**
+- **Providência 130: Histórias que Fazem Território** (2026-11-19-020) · cartaz · *duvida* — A semanal diz "De 19/11 a 17/11/2027"; a do Novembro Negro diz "19/11/2026 a 17/11/2026 (período como informado no material; conferir)". A ficha usa fim em 17/11/2027. As fontes se contradizem na data final. → **Mantido: 17/11/2027. A exposição abre em 19/11/2026 e o próprio PDF do Novembro Negro marca a sua data como “conferir”.**
+- **Protagonismos: Memória, Orgulho e Identidade** (2026-11-19-028) · sinopse · *nao_encontrado* — A ficha diz "Exposição de longa duração do museu da Pequena África sobre personalidades e lutas negras". A fonte traz só o título e o horário ("Exposição “Protagonismos: Memória, Orgulho e Identidade” Terça-feira a domingo, das 10h às 17h. Grátis. Livre."), sem descrição. Tudo na sinopse é acréscimo. → **Corrigido: sinopse reduzida ao que a fonte informa.**
+- **Zanele Muholi** (2026-11-19-030) · sinopse · *duvida* — A ficha escreve "da ativista visual sul-africana", no feminino. A fonte usa forma neutra de propósito: "Muholi é um(a) ativista visual e fotógrafo(a) sul-africano(a)". O gênero atribuído não vem da fonte. → **Corrigido: sinopse reescrita sem atribuir gênero.**
+- **Ponto de Leitura: Brasilidades que vêm de Áfricas** (2026-11-19-032) · preco_texto · *duvida* — As fontes divergem: a semanal diz "R$ 10 a R$ 20 (terças-feiras são gratuitas)"; a do Novembro Negro diz "Local: Biblioteca do MAR | Valor: Gratuita". A ficha publica o preço da semanal, com gratis=false. → **pendente (sai como “a confirmar”)**
+- **Programa Hélio Oiticica** (2026-11-19-035) · sinopse · *nao_encontrado* — A ficha diz "Exposição permanente dedicada à obra de Hélio Oiticica". A fonte traz só "Exposição “Programa Hélio Oiticica” Segunda-feira a sábado, das 10h às 18h. Grátis. Livre."; não diz que é permanente nem descreve o conteúdo. → **Corrigido: sinopse reduzida ao que a fonte informa.**
+- **Música Brasilis** (2026-11-19-062) · sinopse · *nao_encontrado* — A ficha diz "Exposição sobre a história da música brasileira". A fonte traz só "Exposição “Música Brasilis” Terça-feira a domingo, das 10h às 17h. Grátis. Livre.", sem descrição. → **Corrigido: sinopse reduzida ao que a fonte informa.**
+- **Cravejar o Corpo, Inventar o Mundo – Madah Sodré** (2026-11-19-067) · local · *diverge* — A ficha chama o espaço de "Arena Carioca Dicró". Na fonte semanal o cabeçalho é "Arena Cultural Carlos Roberto de Oliveira - Dicró"; na do Novembro Negro, "Arena Cultural Dicró". "Arena Carioca" não aparece em nenhuma. → **Corrigido: “Arena Cultural Dicró”.**
+- **Ônibus Biblioteca – Livros nas Praças** (2026-11-19-082) · cartaz · *duvida* — A fonte diz "Até 27 de novembro, às 11h", sem dizer em quais dias da semana nem em que praça ("Livros nas Praças"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária "A partir das 11h" na areninha; a fonte diz "às 11h" e não confirma que é todo dia. → **Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”.**
+- **Guardar – Coleção Marcia e Luiz Chrysostomo** (2026-11-19-135) · preco_texto · *diverge* — A ficha traz só "R$ 10 (meia R$ 5), só na bilheteria". F066 (ArtRio) acrescenta "Às quartas-feiras, a entrada é franca para todos os públicos." e "Aos domingos, “ingresso família” a R$10 para grupos de quatro pessoas." A quarta gratuita (25/11 cai na edição) não aparece na ficha. → **Corrigido: acrescentado “grátis às quartas”.**
+- **ECOS – coletiva** (2026-11-19-136) · sinopse · *duvida* — A sinopse diz "19 trabalhos, entre pinturas, esculturas e um vídeo", como a ArtRio (F066: "São dezenove obras, entre pinturas, esculturas e um vídeo"). O site da galeria (F100) diz "Reunindo vinte trabalhos, entre pinturas, esculturas, serigrafias e vídeos". A nota declara a divergência de horário, mas não esta; e nela diz que vale o site da galeria. → **Corrigido: vale o site da galeria (cerca de vinte trabalhos); a divergência fica anotada.**
+- **Casa da Mônica** (2026-11-19-133) · endereco · *duvida* — O endereço da ficha está certo, mas a nota erra ao dizer que ele não está no texto coletado: F013 traz "Biblioteca Parque Estadual Av. Pres. Vargas, 1261 – Centro, Rio de Janeiro – RJ, 20071-004". → **Corrigido: a nota estava errada; o endereço consta na fonte e entrou no trecho.**
+- **Rosana Palazyan: Quintal** (f-c6b14b6989) · sinopse · *diverge* — 'conviveu' no lugar de 'conversou durante a preparação da mostra' → **Corrigido: sinopse e trecho seguem a fonte.**
+- **Rosana Palazyan: Quintal** (f-c6b14b6989) · cartaz.fim · *duvida* — galeria diz 28/11, Arte que Acontece diz 26/11 → **Mantido: 28/11, data da fonte oficial (galeria).**
+- **Tainan Cabral: Armadilhas no Paraíso** (f-d85692266b) · sinopse · *diverge* — 'e equipe' não está na fonte → **Corrigido: os cinco curadores pelo nome.**
+- **Carnaval Como Método** (f-d9430fc970) · cartaz.fim · *duvida* — ArtRio diz 29/11/2026; Arte que Acontece diz 21/02/2027 → **pendente (sai como “a confirmar”)**
+- **Ruído Bruto** (f-a9d2e23843) · areas · *duvida* — A fonte não diz o gênero; Teatro presumido pelo palco. → **pendente (sai como “a confirmar”)**
+- **Gosto Amargo na Pele** (f-9c2207768d) · areas · *duvida* — A fonte não diz o gênero; Teatro presumido pelo palco. → **pendente (sai como “a confirmar”)**
+- **1ª Mostra de Artes de Terreiro Os Ciclomáticos** (f-c21b141a4f) · areas · *duvida* — A fonte não detalha a programação; Teatro é suposição. → **pendente (sai como “a confirmar”)**
+- **Som Bonde Carioca em Tão Iguais** (f-24c0dccb9e) · areas · *duvida* — Texto da fonte cortado antes da descrição; Música presumida pelo nome. → **pendente (sai como “a confirmar”)**
+- **Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair** (f-abef674624) · natureza · *duvida* — A fonte não diz se é apresentação ou prática aberta (aula); se for curso pago, sai. → **pendente (sai como “a confirmar”)**
+- **Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos** (f-f9d32e3634) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse reescrita só com o que a fonte diz.**
+- **Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID** (f-870b74aa68) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse reescrita só com o que a fonte diz.**
+- **Andrezão do Cacique** (f-25e6d54419) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse reescrita só com o que a fonte diz.**
+- **Candlelight: Tributo ao Guns N' Roses** (f-6cfa8a334b) · classificacao · *diverge* — A fonte informa idade mínima de 8 anos e acessibilidade. → **Corrigido: classificação e acessibilidade preenchidas.**
+- **Candlelight: O Melhor de Outlander** (f-316f8e3cdb) · sinopse · *diverge* — Dizia ser concerto tributo sem ligação com os artistas; a página não diz isso. Faltava a classificação (a partir de 8 anos). → **Corrigido: sinopse e classificação conforme a fonte.**
+- **Candlelight: Tributo ao Oasis** (f-b36c446b0c) · local · *duvida* — A Fever escreve 'Solar de Botafogo'; Teatro Rival e Teatro dos Quatro sem 'subsolo'/'Shopping da Gávea'. → **Mantido: nome e endereço iguais aos das fichas já na base para o mesmo espaço.**
+- **An Idiot's Guide to Wine: Uma Comédia sobre Vinho** (f-dfa1349655) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Feijoada da Mangueira com Leci Brandão** (f-f5e92ecd72) · local · *duvida* — A Sympla dá só o endereço (R. Visc. de Niterói, 1072) e o organizador 'Mangueira'. → **Mantido: é o endereço da quadra da escola, já usado em outras fichas.**
+- **Forró de Pife Descalço** (f-82d5149dfc) · endereco · *duvida* — O endereço da Sympla é Rua Sá Ferreira, Copacabana, mas as coordenadas apontam para a Zona Oeste. → **Mantido: segui o endereço escrito.**
+- **Quintal da Magia e Délcio Luiz** (f-c8546d5963) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Canela de Velho no Quintal de Benfica: homenagem a Oxum** (f-74efc97d70) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Samba da Constituição canta Djavan** (f-02f112b40f) · sinopse · *diverge* — A sinopse afirmava algo que a fonte não diz. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Samba da Constituição canta Djavan** (f-02f112b40f) · bairro · *nao_encontrado* — A Sympla não dava o bairro do Mocamba Livre. → **Corrigido: Rua do Livramento, 98, Gamboa (informado pela coordenação editorial).**
+- **Rigoletto – Ópera do Meio-Dia** (f-7844e7b011) · nota_redacao · *diverge* — A fonte informa a distribuição de ingressos. → **Corrigido: nota com a distribuição a partir das 11h.**
+- **Symbiophilia – Panthalassa Ensemble** (f-8aac37b494) · sinopse · *diverge* — O programa das 18h30 é outro. → **Corrigido: sinopse distingue as duas sessões.**
+- **Orquestra Forte de Copacabana** (f-af2f73c61f) · sinopse · *diverge* — 'Big band' não está na fonte. → **Corrigido: tirado 'big band'.**
+- **Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)** (f-181efa9e0b) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** (f-7732c10a1e) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Canta Navidad – Coro Intercantus e convidados (Tijuca)** (f-07e33c6932) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Corais do Novo Leblon e Olé Ola – Concertos de Natal** (f-3172bb4187) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)** (f-8193aa7749) · sinopse · *diverge* — A fonte não dá o número ou a filiação dos grupos. → **Corrigido: sinopse com os nomes dos grupos da fonte.**
+- **Daniel Lopes e Kwesny – KD o Show?!** (f-df1cb21491) · sinopse · *diverge* — A fonte diz que representam, não que são de lá. → **Corrigido.**
+- **Ele Se Fez Boneco** (f-8e32e2382f) · nota_redacao · *diverge* — A página informa a realização e a duração. → **Corrigido: realização na sinopse e duração na nota; área só Teatro.**
+- **Nany (En)canta** (f-5fdc8179d2) · sessoes · *diverge* — As apresentações são mensais; 18/1 não existe. → **Corrigido: só 11/1 na janela, sem aviso.**
+- **Arriba** (f-d1b5f7b7eb) · nota_redacao · *diverge* — 19h de 6/12 pode ser hora de fim, não de sessão. → **Corrigido: nota explica; aviso de dias mantido.**
+- **Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça** (f-60fc1e13de) · titulo · *diverge* — A fonte não liga este concerto à Uerj Sem Muros. → **Corrigido: retirado do título.**
+- **Tiago Santineli** (f-270310ea16) · areas · *duvida* — A fonte só dá o nome; humor e área Teatro são julgamento da redação. → **pendente (sai como “a confirmar”)**
+- **Vila Anime – Edição Verão 2027** (f-6dad32d7c9) · sinopse · *diverge* — Leitura do título além da fonte. → **Corrigido: sinopse só com o título.**
+- **O Quebra-Nozes – versão de Thiago Soares** (f-33ab9caca1) · sinopse · *diverge* — Há sessões antes do Natal. → **Corrigido: período de 23 a 28/12.**
+- **O Quebra-Nozes** (f-e7300b7d46) · trecho_fonte · *diverge* — Rótulo fora da fonte no trecho. → **Corrigido: rótulo retirado.**
+- **Tangolomango – cantigas, histórias e brincadeiras** (f-040ee69754) · nota_redacao · *diverge* — Afirmação além da fonte. → **Corrigido: frase sobre acessibilidade retirada.**
+- **Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)** (f-6a27b066b3) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Quintal da VP: roda de samba do Papo de Quintal na rua** (f-543be3e01a) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)** (f-a239d37d31) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Baile Charme Essência Black** (f-3d33915b69) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Já Quero Esse Pagode – FM O Dia no Renascença** (f-59e1d0e722) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Pagode de Verão: Diggo (Conexão Rio-Salvador)** (f-70e1e81da6) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Baile da Didi no Rio Scenarium** (f-9e04c91b88) · nota_redacao · *diverge* — Afirmação além da fonte. → **Corrigido: nota sem a taxa.**
+- **Quintal da Quintão – Revive** (f-fdea4298cb) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Feijoada do Samba de Caboclo – feriado de São Sebastião** (f-c8a5c9df7e) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Lavagem do Rio ao Bonfim** (f-9356acd839) · sinopse · *diverge* — Afirmação além da fonte. → **Corrigido: sinopse só com o que a fonte diz.**
+- **Clássicos do Brasil: Alceu Valença, Maria Bethânia e Vanessa da Mata** (f-fc28817220) · preco_texto · *duvida* — Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'. → **Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda.**
+- **Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem** (f-049eaa80c8) · preco_texto · *duvida* — Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'. → **Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda.**
+- **Clássicos do Brasil: Fábio Jr., Roupa Nova e Paulo Ricardo** (f-1d861140a7) · preco_texto · *duvida* — Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'. → **Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda.**
+- **Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso** (f-cb7d616a7a) · preco_texto · *duvida* — Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'. → **Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda.**
+- **Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem** (f-049eaa80c8) · sinopse · *diverge* — Show às 15h chamado de 'noite'. → **Corrigido: 'dia' no lugar de 'noite'.**
+- **Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso** (f-cb7d616a7a) · sinopse · *diverge* — Show às 15h chamado de 'noite'. → **Corrigido: 'dia' no lugar de 'noite'.**
+
+## Conferência mecânica (regras)
+
+- [baixa] **Exposição Literária – Mês da Consciência Negra** (2026-11-19-046) — Preço não informado na fonte
+- [baixa] **Amigo Oculto** (f-0e743de4be) — Preço não informado na fonte
+- [baixa] **Infâncias** (f-33ccd17d21) — Preço não informado na fonte
+- [baixa] **Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID** (f-870b74aa68) — Preço não informado na fonte
+- [baixa] **Renato Bezerra de Mello: Gestos Cotidianos** (f-bef83bad71) — Preço não informado na fonte
+- [baixa] **Rosana Palazyan: Quintal** (f-c6b14b6989) — Preço não informado na fonte
+- [baixa] **Tainan Cabral: Armadilhas no Paraíso** (f-d85692266b) — Preço não informado na fonte
+- [baixa] **Carnaval Como Método** (f-d9430fc970) — Preço não informado na fonte
+- [baixa] **Romain Dumesnil: EXORAMA** (f-dbb5dba5a3) — Preço não informado na fonte
+- [baixa] **Ser imortal é deixar lucidamente algo fora de sítio** (f-e02b0bbcb4) — Preço não informado na fonte
+- [baixa] **Andréa Hygino: Projeto parquinho** (f-f3b05f223f) — Preço não informado na fonte
+- [baixa] **Festival Arpoarte 2026** (f-474fbba1fc) — Preço não informado na fonte
+- [baixa] **Lia e a Árvore da Montanha** (f-77a74481e4) — Preço não informado na fonte
+- [baixa] **Dança à Deriva: Translúcidxs (CH) e La Política del Malestar (CH/AR)** (f-28cdf2b946) — Preço não informado na fonte
+- [baixa] **Nota Justa: Afrojazz** (f-5dbe31cb4c) — Preço não informado na fonte
+- [baixa] **Baile do Forró de Pife no Glorioso Cultural** (f-b5c30d192b) — Preço não informado na fonte
+- [baixa] **O Sonho de Ícaro** (f-38ba6a7f25) — Preço não informado na fonte
+- [baixa] **Cordélia Brasil** (f-897e83ed8a) — Preço não informado na fonte
+- [baixa] **Zeppa: Na Voz do Compositor** (f-8f37410ce6) — Preço não informado na fonte
+- [baixa] **Brás Cubas (Armazém Companhia de Teatro)** (f-913b8130f3) — Preço não informado na fonte
+- [baixa] **Orquestra Furiosa Portátil na Casa do Choro** (f-9253f75471) — Preço não informado na fonte
+- [baixa] **Gosto Amargo na Pele** (f-9c2207768d) — Preço não informado na fonte
+- [baixa] **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** (f-a8d5f0ea92) — Preço não informado na fonte
+- [baixa] **Ruído Bruto** (f-a9d2e23843) — Preço não informado na fonte
+- [baixa] **1ª Mostra de Artes de Terreiro Os Ciclomáticos** (f-c21b141a4f) — Preço não informado na fonte
+- [baixa] **Azymuth: Águia Não Come Mosca e Grandes Clássicos** (f-a2c07e1696) — Preço não informado na fonte
+- [baixa] **Dilma Oliveira canta Alcione** (f-0cde2fd78b) — Preço não informado na fonte
+- [baixa] **Maldito Coração** (f-2239414732) — Preço não informado na fonte
+- [baixa] **Festival Os Monólogos** (f-2b0962bcdd) — Preço não informado na fonte
+- [baixa] **Algoritmo** (f-5157b0c813) — Preço não informado na fonte
+- [baixa] **Descalços no Parque** (f-a3a00c3382) — Preço não informado na fonte
+- [baixa] **Lisandra na Mesa de Jantar** (f-b29d9de2c6) — Preço não informado na fonte
+- [baixa] **O que Meu Peito Carrega Sobre Mim** (f-b6ff10b271) — Preço não informado na fonte
+- [baixa] **Ariane Mathias: Rindo de Nervoso** (f-d219493664) — Preço não informado na fonte
+- [baixa] **Yuri Marçal: Macumbeiro** (f-db9886b6e6) — Preço não informado na fonte
+- [baixa] **Nhá Eva** (f-e7b56859d2) — Preço não informado na fonte
+- [baixa] **Simplesmente Shakespeare: Romeu e Julieta** (f-ff4b3d06a0) — Preço não informado na fonte
+- [baixa] **Hétero Sigilo** (f-740a844e42) — Preço não informado na fonte
+- [baixa] **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** (f-d2eac34399) — Preço não informado na fonte
+- [baixa] **14ª Jornada de Educação e Relações Étnico-Raciais: Territórios de Pertencimento** (f-7adf1f93f5) — Preço não informado na fonte
+- [baixa] **Samba que Elas Querem** (f-96fb924318) — Preço não informado na fonte
+- [baixa] **Velha Guarda Musical da Mangueira: 70 anos** (f-cc466cac8b) — Preço não informado na fonte
+- [baixa] **Noitada de Samba – Foco de Resistência: filme e relançamento do livro** (f-f7e52c2e2c) — Preço não informado na fonte
+- [baixa] **Justiça em Cena: Perigosas Damas** (f-2985740e6d) — Preço não informado na fonte
+- [baixa] **Cristiano Vogas – Série Piano na Sala** (f-2750eaac64) — Preço não informado na fonte
+- [baixa] **Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África** (f-2bc42b1a23) — Preço não informado na fonte
+- [baixa] **Dança à Deriva: A(s) – isso não é um solo (RJ) e Humana (AR)** (f-881ae763c1) — Preço não informado na fonte
+- [baixa] **MulheRio do Samba** (f-c7ada106b3) — Preço não informado na fonte
+- [baixa] **O Circo Se Constrói** (f-ebbedebb15) — Preço não informado na fonte
+- [baixa] **A Ópera do Malandro – o musical** (f-db4e688785) — Preço não informado na fonte
+- [baixa] **Yuri Marçal: Macumbeiro** (f-132c6ce110) — Preço não informado na fonte
+- [baixa] **Beatles Fora da Caixa** (f-1e3cc3099b) — Preço não informado na fonte
+- [baixa] **Tudo Aquilo que Fica** (f-220da6ee35) — Preço não informado na fonte
+- [baixa] **Pra Gira Girar: celebração a Os Tincoãs** (f-6f1c52fbee) — Preço não informado na fonte
+- [baixa] **II Encontro Nerd de Favela** (f-72ad055ee6) — Preço não informado na fonte
+- [baixa] **Senhorita Júlia, Pássaros em uma Mesma Gaiola** (f-94d2c5ff86) — Preço não informado na fonte
+- [baixa] **Minha Vó Ri** (f-a8b365287d) — Preço não informado na fonte
+- [baixa] **Cris Silva Cruz: Credo Que Delícia** (f-d13457973d) — Preço não informado na fonte
+- [baixa] **Mistério Buffo** (f-f8ed502f79) — Preço não informado na fonte
+- [baixa] **Thiago Chagas em Extraviado 3.0** (f-0bfb8b21e5) — Preço não informado na fonte
+- [baixa] **Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)** (f-6a27b066b3) — Preço não informado na fonte
+- [baixa] **Rio Blues Festival** (f-f49e042115) — Preço não informado na fonte
+- [baixa] **Feijuca com Samba: Samba do Pedro** (f-7c728d45f2) — Preço não informado na fonte
+- [baixa] **Reunião Geral das Palavras** (f-43ec59dad8) — Preço não informado na fonte
+- [baixa] **Forró na Sala de Reboco convida Rod Bigode** (f-9a3b6abdab) — Preço não informado na fonte
+- [baixa] **Chiquititas** (f-fcd6d59230) — Preço não informado na fonte
+- [baixa] **Os Três Porquinhos** (f-8b4fc827c0) — Preço não informado na fonte
+- [baixa] **Quintal da VP: roda de samba do Papo de Quintal na rua** (f-543be3e01a) — Preço não informado na fonte
+- [baixa] **Mario da Silva e Rocio Infante Cia de Dança – Sala em Movimento** (f-5726cfe428) — Preço não informado na fonte
+- [baixa] **Elaine Machado e Banda Raça Brasileira: História da Diva** (f-a0af483c60) — Preço não informado na fonte
+- [baixa] **Bem-vindo a Bangu** (f-cb548d2990) — Preço não informado na fonte
+- [baixa] **A Bruxinha que Era Boa** (f-d4254bc016) — Preço não informado na fonte
+- [baixa] **Maria no Fio da Navalha** (f-ef4b37b8ed) — Preço não informado na fonte
+- [baixa] **Quintal da Magia e Délcio Luiz** (f-c8546d5963) — Preço não informado na fonte
+- [baixa] **Dança à Deriva: Obra Mala (CO), Breve (RJ) e Colombia Profunda (CO)** (f-0d906fc7e8) — Preço não informado na fonte
+- [baixa] **Casuarina** (f-57466b13d8) — Preço não informado na fonte
+- [baixa] **Forró de Pife Descalço** (f-82d5149dfc) — Preço não informado na fonte
+- [baixa] **Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo** (f-aa1e08f5a1) — Preço não informado na fonte
+- [baixa] **Fora de Quadro** (f-9944b1aa2c) — Preço não informado na fonte
+- [baixa] **ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)** (f-a239d37d31) — Preço não informado na fonte
+- [baixa] **Festival Brasilidades & Futuros Música** (f-a8c723ed4d) — Preço não informado na fonte
+- [baixa] **Um Homem Célebre** (f-a9155630c6) — Preço não informado na fonte
+- [baixa] **Jaloo: Crua (acústico)** (f-8831f8dae4) — Preço não informado na fonte
+- [baixa] **Yuri Marçal: Macumbeiro** (f-6576ed5f1c) — Preço não informado na fonte
+- [baixa] **Gilsons** (f-8d7f1ac2c1) — Preço não informado na fonte
+- [baixa] **Festival Favela Rock II** (f-d0415cf8cc) — Preço não informado na fonte
+- [baixa] **Bonfim Comedy Show** (f-e76af35dff) — Preço não informado na fonte
+- [baixa] **Stand-up: Wêlson Nunes** (f-74cf9d83c0) — Preço não informado na fonte
+- [baixa] **Lia Paris canta Edith Piaf** (f-8af3bf8b08) — Preço não informado na fonte
+- [baixa] **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** (f-ced40906a9) — Preço não informado na fonte
+- [baixa] **Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés** (f-87c5ee44d2) — Preço não informado na fonte
+- [baixa] **Quarteto Jequitibá: Retratos do Brasil** (f-a59ccd7888) — Preço não informado na fonte
+- [baixa] **Ilha do Anime** (f-c4d8d90c91) — Preço não informado na fonte
+- [baixa] **Forró da Praça** (f-10dbb25ae9) — Preço não informado na fonte
+- [baixa] **Sede de Samba** (f-e1922cbf93) — Preço não informado na fonte
+- [baixa] **Festival Esperançar** (f-cb7bacc156) — Preço não informado na fonte
+- [baixa] **Sarau de Danças: Roda de Movimentos** (f-b927b6de50) — Preço não informado na fonte
+- [baixa] **Domingo das Crianças: Árvore de Histórias** (f-e2b00c012e) — Preço não informado na fonte
+- [baixa] **Dança à Deriva: ¿Quién habla por los espíritus? (BO/AR) e La Caballota (MX)** (f-d78c0013ec) — Preço não informado na fonte
+- [baixa] **Gilsons** (f-37698fe132) — Preço não informado na fonte
+- [baixa] **Viny Arêas em De Risco** (f-a80078b053) — Preço não informado na fonte
+- [baixa] **Yuri Marçal: Macumbeiro** (f-1db2b26c64) — Preço não informado na fonte
+- [baixa] **Rosi Alves: tributo a Clara Nunes** (f-084422ee9e) — Preço não informado na fonte
+- [baixa] **Moacyr Luz e Samba do Trabalhador** (f-9b5a6ff868) — Preço não informado na fonte
+- [baixa] **Orquestra Sinfônica do Conservatório de Música de Sydney** (f-960787124a) — Preço não informado na fonte
+- [baixa] **Fera** (f-d7cbeae19c) — Preço não informado na fonte
+- [baixa] **Tiago Nacarato: Segredo dos Deuses** (f-817525d981) — Preço não informado na fonte
+- [baixa] **Alana Valentte** (f-d2e296c2af) — Preço não informado na fonte
+- [baixa] **Pagode da Garagem** (f-8446b1e433) — Preço não informado na fonte
+- [baixa] **Recante – 2ª Mostra Portugal Contemporâneo no Brasil** (f-e5641ae06c) — Preço não informado na fonte
+- [baixa] **Ensaio aberto: X-I-N’TEA** (f-5f105e75e1) — Preço não informado na fonte
+- [baixa] **Um Brasileiro em Israel: lançamento e bate-papo** (f-f2b607a1c8) — Preço não informado na fonte
+- [baixa] **Jazz em Dobro: Beth Carvalho & Maria Bethânia** (f-336a21fcd4) — Preço não informado na fonte
+- [baixa] **Primeira Pessoa** (f-abe3a23c33) — Preço não informado na fonte
+- [baixa] **As Coisas que me Tiram o Sono** (f-cad0eb95eb) — Preço não informado na fonte
+- [baixa] **Terças no Ipanema: João Nabuco** (f-dc32fb1c6e) — Preço não informado na fonte
+- [baixa] **Duo Entre Papéis** (f-950b841600) — Preço não informado na fonte
+- [baixa] **Entre Direitos e Afetos: relações sem violência** (f-0879e45644) — Preço não informado na fonte
+- [baixa] **Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte** (f-fa57985f39) — Preço não informado na fonte
+- [baixa] **Tempo Travesso** (f-5d78dd59cd) — Preço não informado na fonte
+- [baixa] **Mantra Tropical, com Fabrizio Filesi** (f-687a147153) — Preço não informado na fonte
+- [baixa] **Marcos Sacramento e Moacyr Luz** (f-97ac09c02d) — Preço não informado na fonte
+- [baixa] **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** (f-a2c6e8e1a7) — Preço não informado na fonte
+- [baixa] **Tori: Areia e Voz** (f-705dcf0961) — Preço não informado na fonte
+- [baixa] **Tributo a Delcio Carvalho** (f-4e93cdffeb) — Preço não informado na fonte
+- [baixa] **Dia de Jogo** (f-176da8f5f3) — Preço não informado na fonte
+- [baixa] **Saulo Ligo e André Bertini: Abênça** (f-535034cd59) — Preço não informado na fonte
+- [baixa] **O Pulso Ainda Pulsa** (f-eaa477ab3e) — Preço não informado na fonte
+- [baixa] **Violões Itinerantes: Do Rio a Exu** (f-31041482e5) — Preço não informado na fonte
+- [baixa] **Luan Pureza celebra Iansã – Santa Bárbara** (f-da9a28b5f7) — Preço não informado na fonte
+- [baixa] **Baby Rei** (f-4282152e9c) — Preço não informado na fonte
+- [baixa] **Audio Rebel Jazz: João Donato In Jazz** (f-4c351d9ab5) — Preço não informado na fonte
+- [baixa] **Helena Beltrão canta Ella, Elis e Elza** (f-aaceda3923) — Preço não informado na fonte
+- [baixa] **Leo Gandelman: Cosmos** (f-70d707fb63) — Preço não informado na fonte
+- [baixa] **Jhordan Matheus: Passando de Fase** (f-e4798b7411) — Preço não informado na fonte
+- [baixa] **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha)** (f-0a59a101f5) — Preço não informado na fonte
+- [baixa] **Abertura da exposição "Você já escutou a terra?"** (f-df79058627) — Preço não informado na fonte
+- [baixa] **1º Encontro de Violonistas Compositores: Andrea Perrone** (f-216d584925) — Preço não informado na fonte
+- [baixa] **VibraSons** (f-394e86f0c0) — Preço não informado na fonte
+- [baixa] **Lisa, Lesa & Louca** (f-ce2b9d48cf) — Preço não informado na fonte
+- [baixa] **A Vida Passou por Aqui** (f-0405b8de0e) — Preço não informado na fonte
+- [baixa] **Cabaret – Absurdos e Variedades** (f-0c1ae21378) — Preço não informado na fonte
+- [baixa] **Procura-se Messias** (f-2428b38459) — Preço não informado na fonte
+- [baixa] **Música de Cinema – Magia em Concerto** (f-8978d3f62f) — Preço não informado na fonte
+- [baixa] **Arriba** (f-d1b5f7b7eb) — Preço não informado na fonte
+- [baixa] **ZO Livre Festival** (f-d930a64f3b) — Preço não informado na fonte
+- [baixa] **Paulinho Gogó: Só e Bem Acompanhado** (f-904af954ca) — Preço não informado na fonte
+- [baixa] **Jhordan Matheus: Passando de Fase** (f-90cb83d106) — Preço não informado na fonte
+- [baixa] **Marina Aquino: Um Coração que Canta** (f-af1638ec9a) — Preço não informado na fonte
+- [baixa] **Festival Contarolando Histórias** (f-dcc73bca1e) — Preço não informado na fonte
+- [baixa] **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** (f-088e8527d9) — Preço não informado na fonte
+- [baixa] **Burning Love Band: An Elvis Tribute** (f-1b5f7ef2ba) — Preço não informado na fonte
+- [baixa] **Samblack II com Paula Quintanilha** (f-9963fe047d) — Preço não informado na fonte
+- [baixa] **Isabella Taviani: Confissões (de Amor)** (f-95e42ccf46) — Preço não informado na fonte
+- [baixa] **Wêlson Nunes** (f-2980b29edb) — Preço não informado na fonte
+- [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-5cd31fccb9) — Preço não informado na fonte
+- [baixa] **Tangolomango – cantigas, histórias e brincadeiras** (f-040ee69754) — Preço não informado na fonte
+- [baixa] **1º Encontro de Violonistas Compositores: concerto com convidados** (f-b17c85b4fa) — Preço não informado na fonte
+- [baixa] **Bruno Bellandi e Banda: Feijão Retrô** (f-d2ba37a102) — Preço não informado na fonte
+- [baixa] **Os Piores Pirralhos do Mundo!** (f-0d86b3e831) — Preço não informado na fonte
+- [baixa] **Samba das Rosalinas na Batuq** (f-6dcd487bb1) — Preço não informado na fonte
+- [baixa] **Casuarina 25 anos, com João Cavalcanti e Moyseis Marques** (f-864ff362e9) — Preço não informado na fonte
+- [baixa] **Batuq em Verde e Rosa – 5ª edição** (f-e300ee9c73) — Preço não informado na fonte
+- [baixa] **Concerto ACC 85 anos: Canta Navidad, de Jean Kleeb** (f-afcf69a61e) — Preço não informado na fonte
+- [baixa] **Quem Matou o Leão?** (f-a903a7e2cd) — Preço não informado na fonte
+- [baixa] **Mulheres ao Vento – A Terra que Piso é Maré** (f-199d2ee2af) — Preço não informado na fonte
+- [baixa] **Matheus Pessanha: Entrelaçando Sambas e Histórias** (f-5c8d9ab2fe) — Preço não informado na fonte
+- [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-ad2ab9a962) — Preço não informado na fonte
+- [baixa] **Diogo Defante: especial de fim de ano** (f-5822127c1d) — Preço não informado na fonte
+- [baixa] **Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos** (f-97527d1876) — Preço não informado na fonte
+- [baixa] **Ana Bispo canta Te Amos** (f-8079e7c1fb) — Preço não informado na fonte
+- [baixa] **Cá Entre Nós, com Fátima Bernardes e Bia Bonemer** (f-10d9df5efd) — Preço não informado na fonte
+- [baixa] **Terças no Ipanema: Celso Fonseca** (f-842d0e6d13) — Preço não informado na fonte
+- [baixa] **Dragstar – 14ª temporada: a grande final** (f-f1aadd3e01) — Preço não informado na fonte
+- [baixa] **Quarteto Jequitibá – Série Vitrine Musical UNIRIO** (f-51fccee40a) — Preço não informado na fonte
+- [baixa] **Hienas: Uma Comédia Tóxica** (f-4e91eb3d3d) — Preço não informado na fonte
+- [baixa] **Praticar o Encontro: Mostra Cenas Curtas** (f-e01682e00d) — Preço não informado na fonte
+- [baixa] **Silvério Pontes e Marcelo Caldi** (f-f104dc9ece) — Preço não informado na fonte
+- [baixa] **Gilsons** (f-74400b5b7e) — Preço não informado na fonte
+- [baixa] **Tiê** (f-aac77f6a65) — Preço não informado na fonte
+- [baixa] **Matheus Ceará: Desculpa Eu Ter Vindo** (f-c212229e5d) — Preço não informado na fonte
+- [baixa] **Tem Culpa Eu? – comédia de improviso investigativo** (f-6657731272) — Preço não informado na fonte
+- [baixa] **Baile Charme Essência Black** (f-3d33915b69) — Preço não informado na fonte
+- [baixa] **Samba da Constituição canta Djavan** (f-02f112b40f) — Preço não informado na fonte
+- [baixa] **16º Sarau Pretos Novos** (f-0c3c947f28) — Preço não informado na fonte
+- [baixa] **Jade Vitóriah: A Cor da Minha Voz** (f-1e4cfb5e99) — Preço não informado na fonte
+- [baixa] **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** (f-7732c10a1e) — Preço não informado na fonte
+- [baixa] **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** (f-f4a253c2e2) — Preço não informado na fonte
+- [baixa] **Gilsons** (f-46ea0de5be) — Preço não informado na fonte
+- [baixa] **Stand-up: Wêlson Nunes** (f-4c8ae58ab7) — Preço não informado na fonte
+- [baixa] **Cuidado Quando For Falar de Mim** (f-b945f69659) — Preço não informado na fonte
+- [baixa] **Matheus Ceará** (f-96ac8e8073) — Preço não informado na fonte
+- [baixa] **Feijoada da Mangueira com Leci Brandão** (f-f5e92ecd72) — Preço não informado na fonte
+- [baixa] **Cineclube Adélia Sampaio** (f-cc108ee630) — Preço não informado na fonte
+- [baixa] **Já Quero Esse Pagode – FM O Dia no Renascença** (f-59e1d0e722) — Preço não informado na fonte
+- [baixa] **Canela de Velho no Quintal de Benfica: homenagem a Oxum** (f-74efc97d70) — Preço não informado na fonte
+- [baixa] **Cores Sonoras** (f-e5752a0029) — Preço não informado na fonte
+- [baixa] **Mesmo Rio** (f-345c3d2ed6) — Preço não informado na fonte
+- [baixa] **Carol Biazin: Odeio Muito a Despedida** (f-21597b84cf) — Preço não informado na fonte
+- [baixa] **El Corazón y Otros Frutos Amargos** (f-2e833de58e) — Preço não informado na fonte
+- [baixa] **Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos** (f-f7f4acada2) — Preço não informado na fonte
+- [baixa] **Canela de Velho** (f-f78460d8a7) — Preço não informado na fonte
+- [baixa] **Sandra de Sá e Jet Samba Black na Batuq** (f-c0b45d18fe) — Preço não informado na fonte
+- [baixa] **Folia de Reis – A Brilhante Estrela de Belém (Domingo das Crianças)** (f-f2afecea37) — Preço não informado na fonte
+- [baixa] **Adrian Cortês: Moonwalk Fest** (f-ad440effa4) — Preço não informado na fonte
+- [baixa] **Pagode de Verão: Diggo (Conexão Rio-Salvador)** (f-70e1e81da6) — Preço não informado na fonte
+- [baixa] **Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120** (f-aafcf39299) — Preço não informado na fonte
+- [baixa] **Mafalda Minnozzi – Voci di Donne** (f-50f15bb931) — Preço não informado na fonte
+- [baixa] **Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos** (f-f9d32e3634) — Preço não informado na fonte
+- [baixa] **Terças no Ipanema: Sandra Pêra** (f-2407d306e6) — Preço não informado na fonte
+- [baixa] **Fábrica Mágica de Natal** (f-556068237b) — Preço não informado na fonte
+- [baixa] **Os Lobos 60 Anos** (f-a5beeec037) — Preço não informado na fonte
+- [baixa] **Vidal Assis: Emílio Santiago – 80 anos** (f-9b0ed0ac57) — Preço não informado na fonte
+- [baixa] **Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair** (f-abef674624) — Preço não informado na fonte
+- [baixa] **Tributo a Cazuza** (f-0202434169) — Preço não informado na fonte
+- [baixa] **Baile da Didi no Rio Scenarium** (f-9e04c91b88) — Preço não informado na fonte
+- [baixa] **Cantos de Força – 10 anos de Afrotelúricos** (f-c3ec0cdbd0) — Preço não informado na fonte
+- [baixa] **Thalita Pertuzatti em Whitney Forever** (f-7d9e2adb78) — Preço não informado na fonte
+- [baixa] **Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial** (f-2e459d6746) — Preço não informado na fonte
+- [baixa] **A Gongada das Mil Xuxas** (f-0f5a748f7c) — Preço não informado na fonte
+- [baixa] **Ranther Melo: Vem Que Tá Maneirinho** (f-666f8d5c79) — Preço não informado na fonte
+- [baixa] **Fabinho e Santo de Casa na Batuq** (f-09c39fc3aa) — Preço não informado na fonte
+- [baixa] **Tiago Santineli** (f-270310ea16) — Preço não informado na fonte
+- [baixa] **Durval e Valcylange – com Cacau Protasio (Vista Alegre)** (f-7937a4860b) — Preço não informado na fonte
+- [baixa] **Samba in Rio – Sons & Vozes das Damas do Samba** (f-6f0af60fe5) — Preço não informado na fonte
+- [baixa] **Jay Vaquer** (f-2feb9d5fbf) — Preço não informado na fonte
+- [baixa] **Yayá do Cavaco: De Raiz em Flor** (f-e05e6a72a2) — Preço não informado na fonte
+- [baixa] **Leandro Sapucahy: Que Nem Antigamente** (f-d035932a07) — Preço não informado na fonte
+- [baixa] **Psicóloga Segundo Meu Psiquiatra** (f-d8051ffef7) — Preço não informado na fonte
+- [baixa] **Deixa Clarear, musical sobre Clara Nunes** (f-a9adb52cda) — Preço não informado na fonte
+- [baixa] **Aurora – O Despertar da Mulher Exausta** (f-30327b9bf9) — Preço não informado na fonte
+- [baixa] **Eles Não Usam Black Tie** (f-cbf54625b4) — Preço não informado na fonte
+- [baixa] **Elymar Santos: Estrela Luminosa** (f-619ec2e94c) — Preço não informado na fonte
+- [baixa] **Uma Vida de Amizade** (f-9022a91c92) — Preço não informado na fonte
+- [baixa] **Quintal da Quintão – Revive** (f-fdea4298cb) — Preço não informado na fonte
+- [baixa] **O Formigueiro** (f-d3cd20fe6a) — Preço não informado na fonte
+- [baixa] **Tributo a Tim Maia, com André Marçal** (f-75cdb431e3) — Preço não informado na fonte
+- [baixa] **Marcelo Duque: Sem Filtro** (f-ea4cefe17f) — Preço não informado na fonte
+- [baixa] **Marcelo Duque: Sem Filtro** (f-f16a9f483b) — Preço não informado na fonte
+- [baixa] **Marcelo Duque: Sem Filtro** (f-47a736f90a) — Preço não informado na fonte
+- [baixa] **Kwesny em Manual do Carioca** (f-b32caf22f6) — Preço não informado na fonte
+- [baixa] **Raphael Ghanem em A Carne Só Cai no Prato do Vegano** (f-e00b9fe3ca) — Preço não informado na fonte
+- [baixa] **Feijoada do Samba de Caboclo – feriado de São Sebastião** (f-c8a5c9df7e) — Preço não informado na fonte
+- [baixa] **Paulo e Estêvão** (f-1b0f02a353) — Preço não informado na fonte
+- [baixa] **Alegria – Tribute to Sade** (f-b0fb3a7157) — Preço não informado na fonte
+- [baixa] **Diego Besou em Upa que Pariu** (f-e76aa0e4f0) — Preço não informado na fonte
+- [baixa] **Trilhas Épicas de Game of Thrones e Senhor dos Anéis** (f-f38b8f0baa) — Preço não informado na fonte
+- [baixa] **Vila Anime – Edição Verão 2027** (f-6dad32d7c9) — Preço não informado na fonte
+- [baixa] **Lavagem do Rio ao Bonfim** (f-9356acd839) — Preço não informado na fonte
+- [baixa] **10 anos do Projeto Teatro Nômade** (f-a213bf0a58) — Preço não informado na fonte
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1664-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1681-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-4-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-4-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-354-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-354-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-3-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-3-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1210-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1210-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1055-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1055-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1280-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1280-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1280-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1280-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-502-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-502-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-502-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-502-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1606-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-830-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-830-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-830-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1281-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1281-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1281-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1281-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-398-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-398-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-398-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-398-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-901-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-901-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-901-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-901-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1493-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1575-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1100-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-14-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-2-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-423-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-18-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-512-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1273-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-855-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-433-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-433-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-433-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-433-25347) — Horário incomum: 00:20
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-433-25347) — Horário incomum: 00:25
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-433-25347) — Horário incomum: 00:30
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-25-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-25-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-25-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-25-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-25-25347) — Horário incomum: 00:20
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1062-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1062-25347) — Horário incomum: 00:05
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1062-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1062-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1062-25347) — Horário incomum: 00:20
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1062-25347) — Horário incomum: 00:25
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1563-25347) — Horário incomum: 00:01
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1563-25347) — Horário incomum: 00:10
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1563-25347) — Horário incomum: 00:15
+- [media] **Vingadores: Doutor Destino** (2026-11-26-cine-1563-25347) — Horário incomum: 00:20
+
+## Destaques (A boa)
+
+- **26/11**: Azymuth: Águia Não Come Mosca e Grandes Clássicos; Festival Arpoarte 2026; Suraras do Tapajós
+- **27/11**: Velha Guarda Musical da Mangueira: 70 anos; Noitada de Samba – Foco de Resistência: filme e relançamento do livro; Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África
+- **28/11**: Gilsons; Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo; Festival Arpoarte 2026
+- **29/11**: Gilsons; Rio Blues Festival
+- **30/11**: Tiago Nacarato: Segredo dos Deuses; We Are Making a Film About Mark Fisher; Moacyr Luz e Samba do Trabalhador
+- **01/12**: Terças no Ipanema: João Nabuco; Ensaio aberto: X-I-N’TEA; Um Brasileiro em Israel: lançamento e bate-papo
+- **02/12**: Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte; Entre Direitos e Afetos: relações sem violência; Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco
+- **03/12**: Laura Valle canta Cole Porter – Sala Jazz; Jhordan Matheus: Passando de Fase; Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha)
+- **04/12**: OSB: Especial Harry Potter; Dia de Jogo; Abertura da exposição "Você já escutou a terra?"
+- **05/12**: Ferrugem: Sentimento – gravação do audiovisual; Festival Contarolando Histórias; Olhar para Dentro
+- **06/12**: Canta Navidad – Coro Intercantus e convidados (Cidade das Artes); Os Piores Pirralhos do Mundo!; Festival Contarolando Histórias
+- **07/12**: Fera
+- **08/12**: Ana Bispo canta Te Amos; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Primeira Pessoa
+- **09/12**: Luiz Bomfim e Regina Lacerda – Concertos de Natal; Cá Entre Nós, com Fátima Bernardes e Bia Bonemer; Primeira Pessoa
+- **10/12**: Djavan – O Musical: Vidas pra contar; O Menino e o Vento – Cultura Zona Oeste (Uerj Sem Muros); Cláudio Vettori e convidados – Concertos de Natal
+- **11/12**: Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília); Stand-up: Wêlson Nunes; 16º Sarau Pretos Novos
+- **12/12**: Carol Biazin: Odeio Muito a Despedida; Cuidado Quando For Falar de Mim; Olhar para Dentro
+- **13/12**: Oratório de Natal – Associação de Canto Coral (Cidade das Artes); Festival Contarolando Histórias; O Quebra-Nozes
+- **14/12**: Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120
+- **15/12**: Terças no Ipanema: Sandra Pêra; Primeira Pessoa; Mafalda Minnozzi – Voci di Donne
+- **16/12**: Música Antiga da UFF; O Quebra-Nozes; Corais do Novo Leblon e Olé Ola – Concertos de Natal
+- **17/12**: Vidal Assis: Emílio Santiago – 80 anos; Fábrica Mágica de Natal; Os Lobos 60 Anos
+- **18/12**: Thalita Pertuzatti em Whitney Forever; Murilo Couto – Novo Show; Fábrica Mágica de Natal
+- **19/12**: Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial; Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça; O Quebra-Nozes
+- **20/12**: Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita; Festival Contarolando Histórias; Durval e Valcylange – com Cacau Protasio (Vista Alegre)
+- **21/12**: Samba in Rio – Sons & Vozes das Damas do Samba
+- **22/12**: O Quebra-Nozes
+- **23/12**: O Quebra-Nozes; O Quebra-Nozes – versão de Thiago Soares
+- **25/12**: A Vida Passou por Aqui; O Quebra-Nozes – versão de Thiago Soares
+- **26/12**: Jay Vaquer; O Quebra-Nozes – versão de Thiago Soares; O Quebra-Nozes
+- **27/12**: O Quebra-Nozes; O Quebra-Nozes – versão de Thiago Soares; A Vida Passou por Aqui
+- **28/12**: Yayá do Cavaco: De Raiz em Flor; O Quebra-Nozes – versão de Thiago Soares
+- **02/01**: Deixa Clarear, musical sobre Clara Nunes; Psicóloga Segundo Meu Psiquiatra; Leandro Sapucahy: Que Nem Antigamente
+- **03/01**: Psicóloga Segundo Meu Psiquiatra
+- **06/01**: Abba Alive; Aurora – O Despertar da Mulher Exausta
+- **07/01**: Aurora – O Despertar da Mulher Exausta; Psicóloga Segundo Meu Psiquiatra
+- **08/01**: Elymar Santos: Estrela Luminosa; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
+- **09/01**: Quintal da Quintão – Revive; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
+- **10/01**: Eles Não Usam Black Tie; Durval e Valcylange – com Cacau Protasio e Rômulo Bellotti; Aurora – O Despertar da Mulher Exausta
+- **11/01**: Nany (En)canta; O Formigueiro
+- **12/01**: O Formigueiro
+- **13/01**: Aurora – O Despertar da Mulher Exausta
+- **14/01**: Tributo a Tim Maia, com André Marçal; Marcelo Duque: Sem Filtro; Aurora – O Despertar da Mulher Exausta
+- **15/01**: Muato – DERÊ: Concerto sobre o Pagode; Eles Não Usam Black Tie; Marcelo Duque: Sem Filtro
+- **16/01**: Péricles; Marcelo Duque: Sem Filtro; Kwesny em Manual do Carioca
+- **17/01**: The Jazz Room: Marvin Gaye em uma noite de soul; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
+- **18/01**: O Formigueiro
+- **19/01**: Pablo; O Formigueiro
+- **20/01**: Feijoada do Samba de Caboclo – feriado de São Sebastião; Aurora – O Despertar da Mulher Exausta
+- **21/01**: Aurora – O Despertar da Mulher Exausta; Ballet of Lights: A Bela Adormecida; Uma Vida de Amizade
+- **22/01**: The Wailers e Pato Banton; Diego Besou em Upa que Pariu; Eles Não Usam Black Tie
+- **23/01**: Baco Exu do Blues; Eles Não Usam Black Tie; Oswaldo Montenegro – A Dança dos Signos
+- **24/01**: Vila Anime – Edição Verão 2027; Eles Não Usam Black Tie; Aurora – O Despertar da Mulher Exausta
+- **25/01**: O Formigueiro
+
+Regras de curadoria:
+- ⚠️ 29/11 — Falta a seção da vez: Infantil
+- ⚠️ 30/11 — Falta a seção da vez: Teatro
+
+## Traduções
+
+- Todas as sinopses têm versão em inglês e espanhol.
+
+## Notas de redação
+
+- **Do Cosmos a Nós** — Link trocado em 25/11/2026 da agenda geral da Prefeitura pela página da exposição no site do museu (endereço conferido pelo MigShow em 25/11; o site do museu barra leitores automáticos).
+- **Ponto de Leitura: Brasilidades que vêm de Áfricas** — Preço diverge entre as fontes: o PDF semanal dá R$ 10 a R$ 20 (grátis às terças); o do Novembro Negro diz “Valor: Gratuita”.
+- **Exposição Literária – Mês da Consciência Negra** — Preço não informado na fonte.
+- **País Brasa, Planeta Fogo** — Consta no PDF semanal anterior, com data de encerramento em 2027; o PDF desta semana não repete a exposição.
+- **A Cidade entre o Jardim e a Baía** — Consta no PDF semanal anterior, com data de encerramento em 2027; o PDF desta semana não repete a exposição.
+- **MEME: no Br@sil da memeficação** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **YOKAI PARADE – Seres sobrenaturais do Japão** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **Um Atlas de Lembranças** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **Palavras em Cena: O Cinema que Veio dos Livros** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **21º Festival de Cinema Italiano no Brasil** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **Cinemateca do MAM no CCBB** — Coletado no site em 15–17/11 e relido na ronda de 19/11: datas conferem.
+- **Casa da Mônica** — Fecha no feriado de 20/11.
+- **ECOS – coletiva** — As fontes divergem num ponto: o site da galeria diz “segunda a sexta”; a ArtRio diz “terça a sexta”. Vale o site da galeria. Também divergem no número de obras (vinte no site da galeria, dezenove na ArtRio); vale o site da galeria.
+- **Amigo Oculto** — Preço não informado. "Diferentes gerações" completa-se pelo resumo do Arte que Acontece.
+- **Infâncias** — Fonte oficial da FGV Arte não está na ronda; fatos do Arte que Acontece. Sem horário de visitação e sem preço na fonte. Marquei Infantil pelo tema; a fonte não diz se é voltada a crianças.
+- **Projeção mapeada de O Quebra-Nozes na fachada do Theatro Municipal** — Os horários das projeções não vêm no trecho coletado (o texto chega cortado); é à noite, segundo a fonte ('noite de abertura').
+- **Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID** — Nenhuma fonte oficial do MAR na ronda; fatos do portal Arte que Acontece. Horário de visitação e preço não informados pela fonte (o MAR costuma abrir de quinta a terça; conferir).
+- **Renato Bezerra de Mello: Gestos Cotidianos** — A agenda oficial do Sesc na ronda não traz esta exposição; usei os fatos do Arte que Acontece. Sem horário de visitação e sem preço na fonte.
+- **Rosana Palazyan: Quintal** — Fim: a galeria diz 28/11; o Arte que Acontece diz 26/11. Ficou a data da galeria. Horário e preço não informados.
+- **Tainan Cabral: Armadilhas no Paraíso** — Nenhuma fonte oficial do MAR na ronda; fatos do Arte que Acontece. Horário e preço não informados por esta fonte.
+- **Carnaval Como Método** — Data de encerramento diverge: ArtRio diz 29/11, Arte que Acontece diz 21/02/2027. Ficou 29/11 até confirmar no site do MAM. Preço não informado.
+- **Romain Dumesnil: EXORAMA** — Preço não informado. Achada pelo radar do Arte que Acontece; fatos do site da galeria.
+- **Ser imortal é deixar lucidamente algo fora de sítio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Centro Cultural do Poder Judiciário). A Sympla dá o período de 19/11, 16h, a 27/11, 19h, sem dias nem horário de visitação.
+- **Andréa Hygino: Projeto parquinho** — Nenhuma fonte oficial do MAM na ronda; fatos do Arte que Acontece. Horário é o geral do museu, dado pela ArtRio. Preço não informado.
+- **II Encontro Internacional de Piano Colaborativo – recitais na ABL** — Os dois primeiros recitais estão no endereço da ABL; o terceiro, no Teatro R. Magalhães Jr., no mesmo endereço. O roteiro não informa classificação etária nem acessibilidade.
+- **Rigoletto – Ópera do Meio-Dia** — Datas e gratuidade do site do Theatro Municipal; o horário (12h) vem do roteiro da Revista CONCERTO, porque o site não o informa. Ingressos distribuídos no dia, a partir das 11h, segundo o site do Theatro Municipal. O roteiro não informa classificação etária nem acessibilidade.
+- **Festival Arpoarte 2026** — A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).
+- **Symbiophilia – Panthalassa Ensemble** — Retirada de ingresso pelo site do MAM. O roteiro não informa classificação etária nem acessibilidade.
+- **Lia e a Árvore da Montanha** — A listagem da Sympla não informa preço nem classificação. organizador: Sintonia Dominó. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário; a fonte não diz.
+- **Dança à Deriva: Translúcidxs (CH) e La Política del Malestar (CH/AR)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
+- **Nota Justa: Afrojazz** — A listagem da Sympla não informa preço nem classificação. organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ. Organizador: Centro Cultural do Poder Judiciário (órgão público). A fonte não dá o número do endereço.
+- **Baile do Forró de Pife no Glorioso Cultural** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio grupo.
+- **La Strada – Os Que Vieram Antes de Nós** — Sessões novas da agenda oficial do Sesc (ronda de 22/11). A sessão de 19/11 veio da ronda anterior.
+- **O Sonho de Ícaro** — A listagem da Sympla não informa preço nem classificação. organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Cordélia Brasil** — A listagem da Sympla não informa preço nem classificação. organizador: Persona Produções. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Zeppa: Na Voz do Compositor** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Brás Cubas (Armazém Companhia de Teatro)** — A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Orquestra Furiosa Portátil na Casa do Choro** — A listagem da Sympla não informa preço nem classificação. organizador: Casa do Choro. Organizador: Casa do Choro. A sessão de 26/11 tem página própria na Sympla: https://www.sympla.com.br/evento/orquestra-furiosa-portatil-temporada-2026-cristovao-bastos-80-anos-casa-do-choro/3621209.
+- **Gosto Amargo na Pele** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Madureira)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Ruído Bruto** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. A fonte não diz o gênero; classifiquei como Teatro pelo palco. A página do evento não pôde ser lida.
+- **1ª Mostra de Artes de Terreiro Os Ciclomáticos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Candlelight: Tributo ao Coldplay** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Andrezão do Cacique** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A fonte não cita o Cacique de Ramos pelo nome; diz 'a famosa tamarineira'.
+- **Azymuth: Águia Não Come Mosca e Grandes Clássicos** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO RIVAL.
+- **Dilma Oliveira canta Alcione** — A listagem da Sympla não informa preço nem classificação.
+- **Maldito Coração** — O site dá só o período (18 a 26/11); dias presumidos de quinta a domingo, o que deixa só o último dia. Hora da página do evento (a da listagem vem com fuso errado). Preço e classificação não informados.
+- **Festival Os Monólogos** — A listagem da Sympla não informa preço nem classificação. Peças da noite não informadas. Endereço completo presumido (Shopping da Gávea), a fonte dá só a rua.
+- **Algoritmo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Descalços no Parque** — A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Lisandra na Mesa de Jantar** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **O que Meu Peito Carrega Sobre Mim** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Queen Legend** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com a banda. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
+- **Ariane Mathias: Rindo de Nervoso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Yuri Marçal é humorista; a fonte não diz o gênero.
+- **Nhá Eva** — A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Simplesmente Shakespeare: Romeu e Julieta** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Serginho Lacerda – Vida de Pai** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem chama o show de 'Qual o seu Talento?', mas o texto da página fala de 'Vida de Pai'; usei o nome do texto.
+- **Candlelight: Tributo ao Guns N' Roses** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. A fonte não diz a formação dos músicos.
+- **Hétero Sigilo** — O site dá só o período (7 a 29/11); dias presumidos de quinta a domingo. A página informa "21h e 19h" sem dizer em que dias: usamos 21h (o horário da listagem vem com fuso errado, 3 horas adiantado). Preço e classificação não informados.
+- **II Encontro Internacional de Piano Colaborativo – recitais na Sala Mário Tavares** — Retirada de ingresso na bilheteria uma hora antes. O site do Theatro Municipal confirma o encontro nos dias 25 e 27 na Sala Mário Tavares, mas os horários vêm do roteiro da Revista CONCERTO. O roteiro não informa classificação etária nem acessibilidade.
+- **Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ** — A listagem da Sympla não informa preço nem classificação. organizador: IICRio. Organizador: Istituto Italiano di Cultura.
+- **14ª Jornada de Educação e Relações Étnico-Raciais: Territórios de Pertencimento** — A listagem da Sympla não informa preço nem classificação. A fonte dá de 27/11, 17h, a 29/11, 18h, sem a programação de cada dia; registrada só a abertura.
+- **Samba que Elas Querem** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Beco do Rato. "Roda" presumida pelo nome e pela casa.
+- **Velha Guarda Musical da Mangueira: 70 anos** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Três datas, cada uma com página própria; link da primeira.
+- **Noitada de Samba – Foco de Resistência: filme e relançamento do livro** — A listagem da Sympla não informa preço nem classificação. organizador: Cely Leal. Organizadora: Cely Leal (pessoa física, não órgão público).
+- **Justiça em Cena: Perigosas Damas** — A listagem da Sympla não informa preço nem classificação. organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ. Organizador: Centro Cultural do Poder Judiciário (órgão público).
+- **Cristiano Vogas – Série Piano na Sala** — Programa não informado. O roteiro não informa preço, classificação etária nem acessibilidade.
+- **Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Hercules Gomes: Radamés Gnattali 120 anos** — Reserva a partir de 23/11 no site do Espaço Cultural BNDES. O roteiro não informa classificação etária nem acessibilidade.
+- **Dança à Deriva: A(s) – isso não é um solo (RJ) e Humana (AR)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
+- **MulheRio do Samba** — A listagem da Sympla não informa preço nem classificação.
+- **O Circo Se Constrói** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não descreve o espetáculo;
+- **Samba Carioca: apresentação do Bloco Carioca 2027** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). O texto da página fala em 'quarta-feira', mas a data é sexta, 27/11; segui a data.
+- **A Ópera do Malandro – o musical** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Beatles Fora da Caixa** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. Música presumida pelo título.
+- **Tudo Aquilo que Fica** — A listagem da Sympla não informa preço nem classificação. Gênero não informado; Teatro presumido pelo espaço.
+- **Pra Gira Girar: celebração a Os Tincoãs** — A listagem da Sympla não informa preço nem classificação. Intérpretes não informados na listagem.
+- **II Encontro Nerd de Favela** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Senhorita Júlia, Pássaros em uma Mesma Gaiola** — A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Minha Vó Ri** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Cris Silva Cruz: Credo Que Delícia** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Daniel Lopes e Kwesny – KD o Show?!** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
+- **Milton Canta Lulu** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
+- **Mistério Buffo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Thiago Chagas em Extraviado 3.0** — A listagem da Sympla não informa preço nem classificação. Teatro (humor) presumido pelo espaço e pelo subtítulo.
+- **Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Olhar para Dentro** — A agenda dá só o horário de início (9h) aos sábados listados; não diz até que horas. Endereço do Sesc Madureira completado pela redação.
+- **Rio Blues Festival** — A listagem da Sympla não informa preço nem classificação. Organizador: Corporate Events Brasil. A fonte dá de 28/11, 12h, a 29/11, 22h; início do segundo dia presumido igual ao do primeiro. Atrações e preço não informados.
+- **Feijuca com Samba: Samba do Pedro** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio. Feijuca com Samba tratado como série pelo "apresenta".
+- **Brincando com Bento e Totó** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.
+- **Reunião Geral das Palavras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Cadê o Sobrevento?** — Libras indicada só na sessão de 22/11. Classificação livre.
+- **Raízes que pulsaM – vivência musical** — A gratuidade é a regra geral do museu. Classificação não informada no trecho coletado.
+- **Forró na Sala de Reboco convida Rod Bigode** — A listagem da Sympla não informa preço nem classificação. Organização independente.
+- **Chiquititas** — Período de 28 a 29/11; uma sessão por dia, às 16h, conforme a página do evento (a hora da listagem vem com fuso errado). Preço e classificação não informados.
+- **Os Três Porquinhos** — A listagem da Sympla não informa preço nem classificação. Organizador: Tripularte. Infantil presumido pelo título.
+- **Quintal da VP: roda de samba do Papo de Quintal na rua** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Bigode Buço Casa de Samba e Cultura. Número da rua não informado.
+- **Mario da Silva e Rocio Infante Cia de Dança – Sala em Movimento** — O roteiro não informa preço, classificação etária nem acessibilidade.
+- **Elaine Machado e Banda Raça Brasileira: História da Diva** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Bem-vindo a Bangu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **A Bruxinha que Era Boa** — A listagem da Sympla não informa preço nem classificação. organizador: TABLADO. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Candlelight: Tributo a Michael Jackson** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de 2027 fora da janela.
+- **Maria no Fio da Navalha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Clássicos do Brasil: Alceu Valença, Maria Bethânia e Vanessa da Mata** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); achado pela coordenação editorial e confirmado no calendário da Riotur em 25/11. Nesta noite a página de venda só lista o setor Arena (o Lounge não aparece, provavelmente esgotado). A página não separa abertura dos portões e início dos shows. A Riotur informa 'a partir de R$ 120', valor que não confere com a venda oficial: vale o da bilheteria. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
+- **Quintal da Magia e Délcio Luiz** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa. A fonte não diz quem convida quem; a ordem do título foi mantida.
+- **Dança à Deriva: Obra Mala (CO), Breve (RJ) e Colombia Profunda (CO)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
+- **Colin Foster e Alexandre Cardoni – RioWindsFestival** — O roteiro não informa classificação etária nem acessibilidade.
+- **Casuarina** — A listagem da Sympla não informa preço nem classificação. Organizador: Cola Comigo que Tu Samba. Formação (grupo) presumida.
+- **Forró de Pife Descalço** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio grupo. A fonte só dá o título; 'descalço' é parte do nome.
+- **Candlelight: Coldplay & Imagine Dragons** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de 2027 fora da janela de 60 dias.
+- **Samba do Alba: Cozinha Arrumada, LadoB e Casa de Marimbondo** — A listagem da Sympla não informa preço nem classificação. Organizador: Agência Meu Rio. Na rua presumido pelo local (praça).
+- **Orquestra Forte de Copacabana** — O roteiro indica 99 lugares. O roteiro não informa classificação etária nem acessibilidade.
+- **Candlelight: Tributo a Metallica** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 26/2 fora da janela.
+- **Fora de Quadro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Circo no Ato; circo, classificado em Teatro.
+- **Festival Brasilidades & Futuros Música** — A listagem da Sympla não informa preço nem classificação. Organizador: Instituto Futuros. A fonte dá de 28/11, 19h, a 29/11, 22h; horário do segundo dia presumido igual ao do primeiro. Atrações não informadas.
+- **Um Homem Célebre** — A listagem da Sympla não informa preço nem classificação. organizador: Rafael Apolinário Coutinho. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Jaloo: Crua (acústico)** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Echoes: O Melhor do Pink Floyd** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com a banda. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
+- **Candlelight: Vivaldi, As Quatro Estações** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos; 'quarteto de cordas' é o formato da série. Sessão de 24/1 fora da janela.
+- **Festival Favela Rock II** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Bandas não informadas.
+- **Bonfim Comedy Show** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Lia Paris canta Edith Piaf** — A listagem da Sympla não informa preço nem classificação.
+- **J.P. Silva** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta).
+- **Tributo à Legião Urbana – Guilherme Lemos e os Filhos da Revolução** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Palco Leopoldina: Antes de Mim – Projeto Na Ponta dos Pés** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; o nome do projeto sugere dança.
+- **Quarteto Jequitibá: Retratos do Brasil** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Ilha do Anime** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; natureza do encontro presumida por ele.
+- **Forró da Praça** — A listagem da Sympla não informa preço nem classificação. Organizador: Jo&Joe Rio.
+- **Sede de Samba** — A listagem da Sympla não informa preço nem classificação.
+- **Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. A página não separa abertura dos portões e início dos shows; endereço igual ao das outras noites. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
+- **Festival Esperançar** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não detalha a programação.
+- **Candlelight: O Melhor de Hans Zimmer** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos. Sessão de 30/1 fora da janela.
+- **Contos de Príncipe** — A gratuidade é a regra geral do museu (retirada antecipada pela Sympla ou na bilheteria). Classificação não informada no trecho coletado. Infantil por ser contação de histórias de um autor de livros para infâncias.
+- **Sarau de Danças: Roda de Movimentos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Domingo das Crianças: Árvore de Histórias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **The Jazz Room: Marvin Gaye em uma noite de soul** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A página não traz texto; sinopse só pelo título.
+- **Candlelight: Tributo a Bruno Mars** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Dança à Deriva: ¿Quién habla por los espíritus? (BO/AR) e La Caballota (MX)** — A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.
+- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Viny Arêas em De Risco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (comédia) dado pelo nome da série.
+- **Yuri Marçal: Macumbeiro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Rosi Alves: tributo a Clara Nunes** — A listagem da Sympla não informa preço nem classificação.
+- **Moacyr Luz e Samba do Trabalhador** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço. Nova data (30/11) com página própria: https://www.sympla.com.br/evento/moacyr-luz-e-samba-do-trabalhador/3665798
+- **Orquestra Sinfônica do Conservatório de Música de Sydney** — Programa não informado. O roteiro não informa preço, classificação etária nem acessibilidade.
+- **We Are Making a Film About Mark Fisher** — A Fever dá só o preço 'a partir de' (pode ser meia-entrada); não informa a inteira. O texto da página foi cortado na extração; não há mais detalhes do programa.
+- **Fera** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período; dias presumidos de quinta a domingo. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Tiago Nacarato: Segredo dos Deuses** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Alana Valentte** — O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). A casa não informa o preço de segunda-feira.
+- **Pagode da Garagem** — A listagem da Sympla não informa preço nem classificação, e a página do evento não pôde ser lida nesta rodada (acesso bloqueado). A fonte não dá o número do endereço nem quem toca. Nova data (1/12) com página própria: https://www.sympla.com.br/evento/pagode-da-garagem-toda-terca-nao-se-esqueca/3665752
+- **Oficina de Cantoria +60 e Vocal Molho Inglês – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
+- **Recante – 2ª Mostra Portugal Contemporâneo no Brasil** — O roteiro não informa preço, classificação etária nem acessibilidade.
+- **Ensaio aberto: X-I-N’TEA** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
+- **Um Brasileiro em Israel: lançamento e bate-papo** — A listagem da Sympla não informa preço nem classificação. A fonte não dá o número na Epitácio Pessoa nem o autor.
+- **Jazz em Dobro: Beth Carvalho & Maria Bethânia** — A listagem da Sympla não informa preço nem classificação. Organizador: Par Teatros. Intérpretes não informados. "Série" presumida: o Cândido Mendes teve outra noite Jazz em Dobro em 24/11.
+- **Primeira Pessoa** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **As Coisas que me Tiram o Sono** — A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Terças no Ipanema: João Nabuco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
+- **Duo Entre Papéis** — O roteiro não informa preço, classificação etária nem acessibilidade.
+- **Flautas, teclados e coral do Centro de Artes Calouste Gulbenkian – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
+- **Entre Direitos e Afetos: relações sem violência** — A listagem da Sympla não informa preço nem classificação. O título na Sympla vem cortado. Formato (palestra ou roda) não informado; Livros & Debates presumido pelo tema. Organização independente.
+- **Dia do Samba na Batuq: Breno Bené, Mauro Diniz, PH Mocidade, Leandro Fab e Tendinha da Sorte** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa.
+- **Tempo Travesso** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; dança presumido pelo espaço.
+- **Terreiro de Mangueira – Cordel Negro** — Nova sessão em 2/12 na agenda oficial do Sesc (ronda de 22/11); a página do evento mudou de endereço. A agenda atual dá o título só como 'Cordel Negro'; a relação exata entre o grupo e o projeto não está clara na fonte. A sessão de 20/11 veio da ronda anterior.
+- **Mantra Tropical, com Fabrizio Filesi** — A listagem da Sympla não informa preço nem classificação.
+- **Grupo Choro Novo: 25 anos** — O roteiro não informa classificação etária nem acessibilidade.
+- **Marcos Sacramento e Moacyr Luz** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ.
+- **Cineclube Carlos Gomes #6: Macumbaria + Arruma um Pessoal pra Gente Botar uma Macumba num Disco** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Coral Altivoz – Diálogos Transversos (Uerj Sem Muros)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
+- **Tori: Areia e Voz** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Tributo a Delcio Carvalho** — A listagem da Sympla não informa preço nem classificação. Intérpretes não informados.
+- **Laura Valle canta Cole Porter – Sala Jazz** — O roteiro não diz se R$ 40 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
+- **Dia de Jogo** — A listagem da Sympla não informa preço nem classificação. organizador: Má Companhia De Teatro. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Som Bonde Carioca em Tão Iguais** — O texto da página foi cortado na extração antes da descrição: a fonte não diz que tipo de apresentação é. Classifiquei como Música pelo nome do grupo; a confirmar. Preço 'a partir de' (a inteira não é informada). A casa exige traje esporte fino.
+- **Saulo Ligo e André Bertini: Abênça** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
+- **O Pulso Ainda Pulsa** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Teatro presumido pelo espaço.
+- **Violões Itinerantes: Do Rio a Exu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Luan Pureza celebra Iansã – Santa Bárbara** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Baby Rei** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte dá só o período (3/12, 20h, a 20/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Audio Rebel Jazz: João Donato In Jazz** — A listagem da Sympla não informa preço nem classificação. Intérpretes não informados. "Série" presumida pelo nome "Audio Rebel Jazz apresenta".
+- **Helena Beltrão canta Ella, Elis e Elza** — A listagem da Sympla não informa preço nem classificação.
+- **Leo Gandelman: Cosmos** — O site não informa o preço na página extraída.
+- **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Penha)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Abertura da exposição "Você já escutou a terra?"** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Ficha só da abertura; o período da exposição não é informado. Número da rua não informado.
+- **The Jazz Room: Um Tributo a Frank Sinatra e Louis Armstrong** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A Fever menciona um ingresso 'Entrada Social', sem dar o valor.
+- **1º Encontro de Violonistas Compositores: Andrea Perrone** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **VibraSons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Duo Gazzana – Série Piano na Sala** — O roteiro não diz se R$ 40 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
+- **Lisa, Lesa & Louca** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 19h, a 20/12); dias presumidos de quinta a domingo, 19h. Gênero não informado; Teatro presumido pelo espaço. Organização independente. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Ah!Banda – Prezadíssimos Ouvintes (Uerj Sem Muros)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
+- **A Vida Passou por Aqui** — A listagem da Sympla não informa preço nem classificação. A fonte dá só o período (4/12, 20h, a 27/12, 19h); dias presumidos de quinta a domingo, 20h, e 19h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Cabaret – Absurdos e Variedades** — A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Noite de cabaré presumida pelo título; a casa já apresentou outras edições do Cabaret, não é mostra de alunos.
+- **Procura-se Messias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Melodrama da Meia-noite com Rita Von Hunty** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
+- **OSB: Especial Harry Potter** — O roteiro não diz em qual sala da Cidade das Artes (Grande Sala ou Teatro de Câmara). O roteiro não informa classificação etária nem acessibilidade.
+- **Música de Cinema – Magia em Concerto** — A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte dá só o período (4/12, 20h, a 6/12, 17h); presumi sessões em cada dia, 20h na sexta e no sábado e 17h no domingo. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Arriba** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **ZO Livre Festival** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Atrações não informadas.
+- **Paulinho Gogó: Só e Bem Acompanhado** — A listagem da Sympla não informa preço nem classificação. Organizador: RH Produções. Humor presumido (Teatro).
+- **Jhordan Matheus: Passando de Fase** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Marina Aquino: Um Coração que Canta** — A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cesgranrio. Música presumida pelo título.
+- **Matuê e Brandão** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 22h; o primeiro show está previsto para meia-noite. Preço máximo é de camarote.
+- **Festival Contarolando Histórias** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Djavan – O Musical: Vidas pra contar** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).
+- **Orquestra de Cordas Dedilhadas da UNIRIO – Série Vitrine Musical** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
+- **Burning Love Band: An Elvis Tribute** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Clássicos do Brasil: Fábio Jr., Roupa Nova e Paulo Ricardo** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. A página não separa abertura dos portões e início dos shows; endereço igual ao das outras noites. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
+- **Oratório de Natal – Associação de Canto Coral (Tijuca)** — Mesmo programa repete em 13/12 na Cidade das Artes (ficha própria). O roteiro não informa classificação etária nem acessibilidade.
+- **Samblack II com Paula Quintanilha** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Isabella Taviani: Confissões (de Amor)** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; em outra data o mesmo artista aparece como stand-up.
+- **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Thiaguinho – turnê Bem Black** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 21h; o show está previsto para 0h30. Preço máximo é de camarote.
+- **Ferrugem: Sentimento – gravação do audiovisual** — O site dá só o preço 'a partir de'; não diz se é inteira.
+- **Tangolomango – cantigas, histórias e brincadeiras** — Preço não informado no trecho coletado. Duração de uma hora (9h30 às 10h30).
+- **1º Encontro de Violonistas Compositores: concerto com convidados** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Bruno Bellandi e Banda: Feijão Retrô** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Os Piores Pirralhos do Mundo!** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.
+- **Samba das Rosalinas na Batuq** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria casa.
+- **Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso** — Fora das fontes do Núcleo (vende pela Bilheteria Digital); confirmado no calendário da Riotur em 25/11. 'Os Paralamas do Sucesso' é o nome completo usado no site do festival; a bilheteria escreve 'Paralamas'. A página não separa abertura dos portões e início dos shows. 'TÉRMINO DAS VENDAS ONLINE' na página é uma contagem regressiva (em 25/11 faltavam 3 a 11 dias), não o fim das vendas.
+- **Casuarina 25 anos, com João Cavalcanti e Moyseis Marques** — A listagem da Sympla não informa preço nem classificação. Organização independente.
+- **Batuq em Verde e Rosa – 5ª edição** — A listagem da Sympla não informa preço nem classificação. Organizador: Batuq Casa de Samba. Atrações não informadas.
+- **Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)** — O roteiro não diz se R$ 40 é a inteira. Repete em 12/12, de graça, na Tijuca (ficha própria). O roteiro não informa classificação etária nem acessibilidade.
+- **Concerto ACC 85 anos: Canta Navidad, de Jean Kleeb** — A listagem da Sympla não informa preço nem classificação. Organizador: Fundação Cidade das Artes (órgão público). A fonte não explica a sigla ACC.
+- **Quem Matou o Leão?** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; Teatro presumido pelo título e pelo espaço.
+- **Mulheres ao Vento – A Terra que Piso é Maré** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Matheus Pessanha: Entrelaçando Sambas e Histórias** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Diogo Defante: especial de fim de ano** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Diogo Defante é humorista.
+- **Orquestra Furiosa Portátil: 80 anos de Cristóvão Bastos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Ana Bispo canta Te Amos** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Cá Entre Nós, com Fátima Bernardes e Bia Bonemer** — Preço não informado (a listagem do site dá 'preço 0', que não é gratuidade). Duas datas, cada uma com sua página; usei o link do dia 8.
+- **Terças no Ipanema: Celso Fonseca** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
+- **Luiz Bomfim e Regina Lacerda – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
+- **Corais infantis da UFRJ – Concerto de Natal na Candelária** — O roteiro não informa classificação etária nem acessibilidade.
+- **Quarteto de Cordas da UFF** — O roteiro não diz se R$ 30 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
+- **Dragstar – 14ª temporada: a grande final** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Cláudio Vettori e convidados – Concertos de Natal** — Programa não informado. O roteiro não informa classificação etária nem acessibilidade.
+- **O Menino e o Vento – Cultura Zona Oeste (Uerj Sem Muros)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
+- **Quarteto Jequitibá – Série Vitrine Musical UNIRIO** — A listagem da Sympla não informa preço nem classificação. organizador: Sérgio Barrenechea. Organizador: pessoa física ligada à série, não órgão público.
+- **Hienas: Uma Comédia Tóxica** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Praticar o Encontro: Mostra Cenas Curtas** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Tratada como mostra aberta ao público; a fonte não diz se é encerramento de curso.
+- **Andrea Saffirio – piano** — O roteiro não informa classificação etária nem acessibilidade.
+- **O Quebra-Nozes** — A Fever lista sessões só até 22/12; as de 23, 26 e 27/12 vêm do roteiro da Revista CONCERTO (ronda de 25/11), que dá ingressos de R$ 20 a R$ 100. Preço 'a partir de' da Fever (setor e meia não informados). Classificação não informada. A casa exige traje passeio ou esporte fino.
+- **Silvério Pontes e Marcelo Caldi** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
+- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Tiê** — A listagem da Sympla não informa preço nem classificação. Show presumido pelo nome da artista.
+- **Matheus Ceará: Desculpa Eu Ter Vindo** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Tem Culpa Eu? – comédia de improviso investigativo** — A listagem da Sympla não informa preço nem classificação.
+- **Baile Charme Essência Black** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Casa Carnaval. Número da rua não informado.
+- **Samba da Constituição canta Djavan** — A listagem da Sympla não informa preço nem classificação. Organização independente. Endereço completo e bairro informados pela coordenação editorial em 24/11.
+- **16º Sarau Pretos Novos** — A listagem da Sympla não informa preço nem classificação. organizador: INSTITUTO DE PESQUISSA E MEMÓRIA PRETOS NOVOS - IPN. Organizador: Instituto de Pesquisa e Memória Pretos Novos (sem fins lucrativos). A fonte não dá o número do endereço.
+- **Jade Vitóriah: A Cor da Minha Voz** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)** — Repete em 17/12, de graça, na Igreja de São Francisco de Paula (ficha própria). O roteiro não informa preço, classificação etária nem acessibilidade.
+- **Quarteto Radamés Gnattali – Festival Radamés Gnattali 120** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
+- **Gilsons** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Stand-up: Wêlson Nunes** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Cuidado Quando For Falar de Mim** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Matheus Ceará** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Candlelight: Tributo ao Oasis** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Feijoada da Mangueira com Leci Brandão** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria escola.
+- **Cineclube Adélia Sampaio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não informa o filme.
+- **Já Quero Esse Pagode – FM O Dia no Renascença** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Atrações não informadas.
+- **Canela de Velho no Quintal de Benfica: homenagem a Oxum** — A listagem da Sympla não informa preço nem classificação. Organização independente. A fonte não diz o formato; 'roda' é suposição pelo nome do grupo.
+- **Cores Sonoras** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
+- **Mesmo Rio** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Orquestra Furiosa Portátil – Festival Radamés Gnattali 120 anos** — O roteiro não diz se R$ 10 é a inteira. O roteiro não informa classificação etária nem acessibilidade.
+- **Candlelight: Coldplay & Ed Sheeran** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A fonte não diz a formação dos músicos. Sessões de fevereiro fora da janela.
+- **Candlelight: Hinos do rock dos anos 80** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Canta Navidad – Coro Intercantus e convidados (Tijuca)** — O roteiro não informa classificação etária nem acessibilidade.
+- **Candlelight: O Melhor de Outlander** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Acessibilidade não informada.
+- **Rodrigo Sant'Anna – Mulheres em Turbulência** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
+- **Candlelight: O Melhor da MPB** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 24/1 fora da janela.
+- **Carol Biazin: Odeio Muito a Despedida** — O release não dá preço nem a hora do show; 21h é a abertura da casa. Há meia-entrada solidária com doação de 1 kg de alimento.
+- **Candlelight: Queen & The Beatles** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessão de 20/2 fora da janela.
+- **El Corazón y Otros Frutos Amargos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero.
+- **Bita em Festa dos Bichos** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.
+- **Orquestra Petrobras Sinfônica – Festival Radamés Gnattali 120 anos** — O roteiro não informa preço, classificação etária nem acessibilidade.
+- **Canela de Velho** — A listagem da Sympla não informa preço nem classificação. organizador: Canela de Velho. A fonte não diz o gênero; Música presumida (o Tia Doca é espaço de samba). Organizador: o próprio grupo. A fonte não dá o número do endereço.
+- **Sandra de Sá e Jet Samba Black na Batuq** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **Folia de Reis – A Brilhante Estrela de Belém (Domingo das Crianças)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Oratório de Natal – Associação de Canto Coral (Cidade das Artes)** — O roteiro repete esta apresentação em duas linhas iguais. Não diz se R$ 40 é a inteira nem a sala. O roteiro não informa classificação etária nem acessibilidade.
+- **Adrian Cortês: Moonwalk Fest** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte só dá o título; área Música presumida.
+- **Pagode de Verão: Diggo (Conexão Rio-Salvador)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **Quarteto Maogani convida Daniel Migliavacca – Festival Radamés Gnattali 120** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
+- **Mafalda Minnozzi – Voci di Donne** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: IICRio (o próprio instituto).
+- **Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos** — A listagem da Sympla não informa preço nem classificação. Organizador: a própria Casa do Choro.
+- **Terças no Ipanema: Sandra Pêra** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Música pela série.
+- **Corais do Novo Leblon e Olé Ola – Concertos de Natal** — O roteiro não informa classificação etária nem acessibilidade.
+- **Música Antiga da UFF** — Programa a definir, segundo o roteiro. O roteiro não informa classificação etária nem acessibilidade.
+- **Ele Se Fez Boneco** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Realização de igreja; duração de cerca de 90 minutos. Classificação livre, mas não é anunciada como infantil. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
+- **Fábrica Mágica de Natal** — Preço e duração não informados no trecho coletado.
+- **Coral Abstrassom – Concertos de Natal** — Programa não informado. O roteiro não informa classificação etária nem acessibilidade.
+- **Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)** — O roteiro não informa classificação etária nem acessibilidade.
+- **Os Lobos 60 Anos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Vidal Assis: Emílio Santiago – 80 anos** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **OSB e OSB Jovem: encerramento da temporada** — O roteiro não diz a sala. O roteiro não informa classificação etária nem acessibilidade.
+- **Candlelight: Clássicos de Natal** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz se é apresentação ou prática aberta (aula).
+- **Tributo a Cazuza** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Intérpretes não informados.
+- **Baile da Didi no Rio Scenarium** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **Cantos de Força – 10 anos de Afrotelúricos** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; Música presumida pelo título.
+- **Thalita Pertuzatti em Whitney Forever** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Murilo Couto – Novo Show** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. A página cita acessibilidade, mas o texto chega cortado; o balcão só tem acesso por escadas.
+- **Roda de conversa: Quintais do Samba como lugar de resistência étnico-racial** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Divisão de Teatro da UERJ. Endereço completo do campus (nº 524) não vem da listagem.
+- **A Gongada das Mil Xuxas** — Preço não informado. O elenco ainda não foi divulgado.
+- **Ranther Melo: Vem Que Tá Maneirinho** — A listagem da Sympla não informa preço nem classificação. Organizador: Arte & Entretenimento. Humor presumido (Teatro).
+- **Trio Laetare – Concertos de Natal** — O roteiro indica 120 lugares. O roteiro não informa classificação etária nem acessibilidade.
+- **Natal do Bita – Orquestra Petrobras Sinfônica e Mundo Bita** — Venda pelo site da orquestra e pela Ticket360. O roteiro não informa classificação etária nem acessibilidade.
+- **An Idiot's Guide to Wine: Uma Comédia sobre Vinho** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. Sessões de fevereiro e março fora da janela. Há degustação de vinho: a idade mínima não aparece no trecho coletado.
+- **Fabinho e Santo de Casa na Batuq** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **Tiago Santineli** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A listagem não diz o nome do show; Tiago Santineli é humorista (classificado em Teatro).
+- **Durval e Valcylange – com Cacau Protasio (Vista Alegre)** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Que é comédia vem da página da mesma peça na Uhuu.
+- **Samba in Rio – Sons & Vozes das Damas do Samba** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **O Quebra-Nozes – versão de Thiago Soares** — Venda pela Sympla (bileto) ou na bilheteria. O roteiro não diz se R$ 50 é meia nem a classificação.
+- **Jay Vaquer** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Yayá do Cavaco: De Raiz em Flor** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Leandro Sapucahy: Que Nem Antigamente** — A listagem da Sympla não informa preço nem classificação. Bairro presumido (a sede do Cacique fica na Rua Uranos, em Olaria).
+- **Psicóloga Segundo Meu Psiquiatra** — A fonte dá o período (2 a 31/1) e 'Horário 19h e 18h', sem dizer os dias. Dias presumidos de quinta a domingo (mais o primeiro dia), 19h, e 18h aos domingos. Preço não informado.
+- **Deixa Clarear, musical sobre Clara Nunes** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Aurora – O Despertar da Mulher Exausta** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (6/1, 19h, a 31/1, 17h); dias presumidos: o primeiro dia e de quinta a domingo, 19h, e 17h aos domingos. Gênero não informado; Teatro presumido pelo espaço. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Abba Alive** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. É tributo, sem ligação com o grupo. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
+- **Eles Não Usam Black Tie** — A listagem da Sympla não informa preço nem classificação. Organizador: Hassis Produções Artísticas. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).
+- **Elymar Santos: Estrela Luminosa** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Uma Vida de Amizade** — A fonte dá o período (8/1 a 28/2) e 'Horário 21h e 20h', sem dizer os dias. Dias presumidos de quinta a domingo, 21h, e 20h aos domingos, até o fim da janela. Preço não informado.
+- **Durval e Valcylange – com Cacau Protasio e Rômulo Bellotti** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A listagem dá só a primeira (9/1) e a última (10/1) sessão, ambas às 19h; como são dias seguidos, não há outros dias a presumir.
+- **Quintal da Quintão – Revive** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizadora: Renata Quintão.
+- **O Formigueiro** — A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. A fonte dá só o período (11/1 a 2/2, 19h); o período começa numa segunda e acaba numa terça, então as sessões podem ser no começo da semana. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Nany (En)canta** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A página fala em apresentações mensais; a fonte dá 11/1 e 15/2 (esta fora da janela de 60 dias). Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.
+- **Tributo a Tim Maia, com André Marçal** — A listagem da Sympla não informa preço nem classificação. Venda pelo próprio Teatro Rival.
+- **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
+- **Muato – DERÊ: Concerto sobre o Pagode** — Nova sessão em 15/1/2027 na Uhuu (ronda de 25/11). O menor preço da Uhuu pode ser meia-entrada.
+- **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
+- **Marcelo Duque: Sem Filtro** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Gênero (humor) presumido; a fonte só dá o título.
+- **Péricles** — O release não dá a classificação etária. Só o menor preço, de meia-entrada solidária.
+- **Paulinho da Viola** — Preço: o menor valor informado; pode haver setores mais caros.
+- **Kwesny em Manual do Carioca** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Raphael Ghanem em A Carne Só Cai no Prato do Vegano** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **Pablo** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 22h; o show está previsto para 1h. Preço máximo é de camarote.
+- **Feijoada do Samba de Caboclo – feriado de São Sebastião** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **Ballet of Lights: A Bela Adormecida** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas. A página não traz texto; sinopse só pelo título.
+- **Candlelight: Os clássicos do rock** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Paulo e Estêvão** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).
+- **Candlelight: Compositores intemporais** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Alegria – Tribute to Sade** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: Teatro Rival. É tributo, sem ligação com a artista.
+- **Diego Besou em Upa que Pariu** — A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio).
+- **The Wailers e Pato Banton** — O release não dá a hora do show; 21h é a abertura da casa. Só o menor preço, de meia-entrada solidária. O release dá dois nomes para a turnê ('Exódus 2027 World Tour' e '50 Years of Positive Vibrations'); deixei fora do título.
+- **Trilhas Épicas de Game of Thrones e Senhor dos Anéis** — Preço não informado.
+- **Candlelight: Tributo a Phil Collins** — Só a Fever tem o evento. O preço é 'a partir de' e pode não ser a inteira. Classificação etária e acessibilidade não informadas.
+- **Baco Exu do Blues** — O release só dá o menor preço, que é de meia-entrada solidária; a inteira não é informada. Venda pela Shotgun.
+- **Oswaldo Montenegro – A Dança dos Signos** — Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. A casa abre às 20h; o show está previsto para 22h. Preço máximo é de camarote.
+- **Vila Anime – Edição Verão 2027** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).
+- **Lavagem do Rio ao Bonfim** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição.
+- **10 anos do Projeto Teatro Nômade** — Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Programação da comemoração não informada; número da rua não informado.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Intruso** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Projeto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Ser Querido** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **As Dez Vantagens De Morrer Depois De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Galinha Pintadinha - O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Paixão De Cristo (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Galinha Pintadinha - O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Paixão De Cristo (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **As Dez Vantagens De Morrer Depois De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Assalto À Brasileira** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 2 (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minha Melhor Amiga** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Intruso** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Se Eu Fosse Você 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Galinha Pintadinha - O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 2 (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Loucos Amores Líquidos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Irmãos Segreto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Loucos Amores Líquidos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Irmãos Segreto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Alucinação** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jim Queen** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Loucos Amores Líquidos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Irmãos Segreto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Deixe-me Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Loucos Amores Líquidos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Irmãos Segreto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Nascimento De Cristo: Zero D.C** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Ceia Dos Acusados** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A General** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Vida De Brian** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Apenas Uma Ilusão** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **As Crianças Estão Bem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Batman, O Retorno** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Brazil, O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Milagre Na Rua 34** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minha Noite Com Ela** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minotauro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Ser Querido** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo O Que o Céu Permite** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Ceia Dos Acusados** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Terra Do Meu Pai** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Vida De Brian** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Anastasia** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Arroz Amargo** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **As Crianças Estão Bem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Batman, O Retorno** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Brazil, O Filme** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cara-De-Barro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cavalo Selvagem Nove** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cine Bacante - Sócrates** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cinema De Pijama Para Sempre!** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Clássicos Brasileiros Restaurados** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Contos Paralelos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Cronos** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Fogaréu** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Glen Ou Glenda** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jim Queen** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Leviticus: Ritual De Sangue** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Milagre Na Rua 34** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minha Noite Com Ela** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Minotauro** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Natal Sangrento** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Caso Dos Irmãos Naves** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Ser Querido** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Demônios (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Razão E Sensibilidade** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tempo De Viver** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo O Que o Céu Permite** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Yellow Cake** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **100 Dias** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 2 (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **NMIXX 1st World Tour <Episode 1: Zero Frontier> Finale In Incheon Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Leviticus: Ritual De Sangue** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Ramayana: O Nascimento De Uma Lenda** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Yellow Cake** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Intruso** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Homem-Aranha: Um (Novo) Novo Dia (Versão Estendida)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Shrek (25º Aniversário)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Alucinação** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Camisas Negras** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Vou Ter Saudades De Você** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Feito Pipa** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Escolha Perfeita 2** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Paris Opera Ballet Swan Lake** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Spartacus** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Escolha Perfeita 2** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Dona Onete - Meu Coração Neste Pedacinho Aqui** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Ebenezer E Os Fantasmas Do Natal** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Godzilla Minus Zero** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **I Love Boosters** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Josephine - Fragmentos De Um Crime** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Nação Ubuntu - A Voz Dos Silenciados** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Bosque Selvagem** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Gatola Da Cartola** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Intruso** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **O Ser Querido** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Paris Opera Ballet Swan Lake** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Spartacus** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Tudo Pode Ser Visto** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Um Tio Quase Perfeito 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Escolha Perfeita 2** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Pecadora** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Spartacus** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Verão Da Lata** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Escolha Perfeita 2** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **A Virada - Ignição Da Alma** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **BTS World Tour 'Arirang' In Jakarta: Live Viewing** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Duna - Parte 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Enfeitiçadas: Bem-Vindos A Hexe** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Entrando Numa Grande Fria** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Eu Sou O Rocky** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes - Em chamas (Relançamento)** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Jogos Vorazes: Amanhecer Na Colheita** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Os Farofeiros 3** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Spartacus** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.
+- **Vingadores: Doutor Destino** — Ficha montada automaticamente a partir dos dados da Ingresso.com, sem redação de IA.

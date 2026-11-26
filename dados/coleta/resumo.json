@@ -1,7 +1,7 @@
 {
  "origem": "nuvem",
- "feito_em": "2026-11-25 22:02 UTC",
- "segundos": 236,
+ "feito_em": "2026-11-26 06:01 UTC",
+ "segundos": 206,
  "fontes": [
   {
    "ids": [
@@ -111,7 +111,7 @@
     "feed (10 itens)",
     "texto de 5 página(s)"
    ],
-   "caracteres": 31132,
+   "caracteres": 31152,
    "url_final": "https://cultura.rj.gov.br",
    "paginas": [
     "https://cultura.rj.gov.br",
@@ -158,13 +158,13 @@
     "feed (20 itens)",
     "texto de 2 página(s)"
    ],
-   "caracteres": 9302,
+   "caracteres": 12640,
    "url_final": "https://www.barcariocadagema.com.br/",
    "paginas": [
     "https://www.barcariocadagema.com.br/",
     "https://www.barcariocadagema.com.br/shows"
    ],
-   "mencoes_de_data": 8,
+   "mencoes_de_data": 7,
    "situacao": "coletada",
    "arquivo": "F016.txt"
   },
@@ -191,20 +191,25 @@
     "Centro"
    ],
    "degraus": [
-    "texto de 7 página(s)"
+    "texto de 12 página(s)"
    ],
-   "caracteres": 25345,
+   "caracteres": 41609,
    "url_final": "https://ccbb.com.br/rio-de-janeiro/",
    "paginas": [
     "https://ccbb.com.br/rio-de-janeiro/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/feira-das-yabas/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/musica-no-museu-2/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/do-sal-ao-digital-o-dinheiro-na-colecao-banco-do-brasil/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/dia-do-cinema-polones/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/6a-mostra-de-cinema-arabe-feminino/",
-    "https://ccbb.com.br/rio-de-janeiro/programacao/palavras-em-cena-o-cinema-que-veio-dos-livros/"
+    "https://ccbb.com.br/rio-de-janeiro/programacao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=hoje",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=semana",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=mes",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/meme-no-brsil-da-memeficacao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/palavras-em-cena-o-cinema-que-veio-dos-livros/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/um-atlas-de-lembrancas/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/cinemateca-do-mam-no-ccbb/"
    ],
-   "mencoes_de_data": 102,
+   "mencoes_de_data": 351,
    "situacao": "coletada",
    "arquivo": "F019.txt"
   },
@@ -315,7 +320,7 @@
     "feed (10 itens)",
     "texto de 12 página(s)"
    ],
-   "caracteres": 36978,
+   "caracteres": 36874,
    "url_final": "https://www.abi.org.br/",
    "paginas": [
     "https://www.abi.org.br/",
@@ -331,7 +336,7 @@
     "http://www.abi.org.br/institucional/direcao/conselho-fiscal/",
     "http://www.abi.org.br/institucional/direcao/comissoes/"
    ],
-   "mencoes_de_data": 12,
+   "mencoes_de_data": 10,
    "situacao": "coletada",
    "arquivo": "F028.txt"
   },
@@ -431,7 +436,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 28318,
+   "caracteres": 28304,
    "url_final": "https://fundicaoprogresso.com.br",
    "paginas": [
     "https://fundicaoprogresso.com.br",
@@ -449,7 +454,7 @@
     "https://fundicaoprogresso.com.br/Informacoes/Parceiros",
     "https://fundicaoprogresso.com.br/"
    ],
-   "mencoes_de_data": 235,
+   "mencoes_de_data": 233,
    "situacao": "coletada",
    "arquivo": "F034.txt"
   },
@@ -670,7 +675,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 13749,
+   "caracteres": 13692,
    "url_final": "https://teatroriachuelorio.com.br",
    "paginas": [
     "https://teatroriachuelorio.com.br",
@@ -818,12 +823,12 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 4365,
+   "caracteres": 4305,
    "url_final": "https://becodasgarrafas.com.br/principal/events/",
    "paginas": [
     "https://becodasgarrafas.com.br/principal/events/"
    ],
-   "mencoes_de_data": 101,
+   "mencoes_de_data": 99,
    "situacao": "coletada",
    "arquivo": "F068.txt"
   },
@@ -887,9 +892,19 @@
    "regioes": [
     "Zona Sul"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "degraus": [
+    "texto de 3 página(s)"
+   ],
+   "caracteres": 14080,
+   "url_final": "https://casadaciencia.ufrj.br",
+   "paginas": [
+    "https://casadaciencia.ufrj.br",
+    "https://casadaciencia.ufrj.br/?page_id=518",
+    "https://casadaciencia.ufrj.br/?programacao=floresta-em-jogo"
+   ],
+   "mencoes_de_data": 24,
+   "situacao": "coletada",
+   "arquivo": "F072.txt"
   },
   {
    "ids": [
@@ -1217,7 +1232,7 @@
     "calendário WordPress (40 eventos)",
     "texto de 14 página(s)"
    ],
-   "caracteres": 70760,
+   "caracteres": 70769,
    "url_final": "https://ims.com.br",
    "paginas": [
     "https://ims.com.br",
@@ -1277,7 +1292,7 @@
    "degraus": [
     "texto de 1 página(s)"
    ],
-   "caracteres": 9642,
+   "caracteres": 9502,
    "url_final": "https://blooks.com.br",
    "paginas": [
     "https://blooks.com.br"
@@ -1578,9 +1593,9 @@
     "Zona Sul"
    ],
    "degraus": [
-    "texto de 8 página(s)"
+    "texto de 7 página(s)"
    ],
-   "caracteres": 34499,
+   "caracteres": 28237,
    "url_final": "https://www.teatroaxiacasagrande.com.br/",
    "paginas": [
     "https://www.teatroaxiacasagrande.com.br/",
@@ -1588,11 +1603,10 @@
     "https://www.teatroaxiacasagrande.com.br/programacao/",
     "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/o-nome-do-bebe/",
     "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/o-mercador-de-veneza/",
-    "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/2895/",
     "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/leo-gandelman-cosmos/",
     "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/miraculous-o-show-oficial-da-ladybug/"
    ],
-   "mencoes_de_data": 108,
+   "mencoes_de_data": 101,
    "situacao": "coletada",
    "arquivo": "F114.txt"
   },
@@ -1606,10 +1620,10 @@
     "Zona Sul"
    ],
    "degraus": [
-    "dados estruturados (21 eventos)",
-    "texto de 13 página(s)"
+    "dados estruturados (20 eventos)",
+    "texto de 12 página(s)"
    ],
-   "caracteres": 42722,
+   "caracteres": 40333,
    "url_final": "https://teatrodasartes.com.br",
    "paginas": [
     "https://teatrodasartes.com.br",
@@ -1619,14 +1633,13 @@
     "https://teatrodasartes.com.br/eventos/universo-infantil/",
     "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
     "https://teatrodasartes.com.br/eventos/maldito-coracao-novembro-2026/",
-    "https://teatrodasartes.com.br/eventos/chiquititas-novembro-2026/",
     "https://teatrodasartes.com.br/eventos/ca-entre-nos-dezembro-2026/",
     "https://teatrodasartes.com.br/eventos/ca-entre-nos-9-dezembro-2026/",
     "https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/",
     "https://teatrodasartes.com.br/eventos/psicologa-segundo-meu-psiquiatra-janeiro-2027/",
     "https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/"
    ],
-   "mencoes_de_data": 121,
+   "mencoes_de_data": 110,
    "situacao": "coletada",
    "arquivo": "F116.txt"
   },
@@ -1770,7 +1783,7 @@
    "degraus": [
     "texto de 5 página(s)"
    ],
-   "caracteres": 25988,
+   "caracteres": 25776,
    "url_final": "https://farmasiarena.com.br",
    "paginas": [
     "https://farmasiarena.com.br",
@@ -1779,7 +1792,7 @@
     "https://farmasiarena.com.br/eventos-esportivos/",
     "https://farmasiarena.com.br/proximos-eventos/"
    ],
-   "mencoes_de_data": 13,
+   "mencoes_de_data": 10,
    "situacao": "coletada",
    "arquivo": "F134.txt"
   },
@@ -1797,7 +1810,7 @@
     "dados estruturados (1 eventos)",
     "texto de 6 página(s)"
    ],
-   "caracteres": 16172,
+   "caracteres": 16471,
    "url_final": "https://museubispodorosario.com",
    "paginas": [
     "https://museubispodorosario.com",
@@ -1886,22 +1899,21 @@
     "Zona Sudoeste"
    ],
    "degraus": [
-    "texto de 9 página(s)"
+    "texto de 8 página(s)"
    ],
-   "caracteres": 13092,
+   "caracteres": 11849,
    "url_final": "https://teatromultiplan.com.br",
    "paginas": [
     "https://teatromultiplan.com.br",
     "https://teatromultiplan.com.br/eventos/",
     "https://teatromultiplan.com.br/programacao/",
-    "https://teatromultiplan.com.br/eventos/mauricio-meirelles-2026/",
     "https://teatromultiplan.com.br/eventos/terapia-2026/",
     "https://teatromultiplan.com.br/eventos/o-quebra-nozes-2026/",
     "https://teatromultiplan.com.br/eventos/percy-jackson-musical-2026/",
     "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
     "https://teatromultiplan.com.br/eventos/almost-elton-john-2027/"
    ],
-   "mencoes_de_data": 27,
+   "mencoes_de_data": 25,
    "situacao": "coletada",
    "arquivo": "F138.txt"
   },
@@ -1916,7 +1928,7 @@
    ],
    "degraus": [],
    "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
   },
   {
    "ids": [
@@ -2010,9 +2022,29 @@
    "regioes": [
     "Várias"
    ],
-   "degraus": [],
-   "caracteres": 0,
-   "situacao": "não respondeu: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+   "degraus": [
+    "feed (3 itens)",
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 36453,
+   "url_final": "https://forum.ufrj.br",
+   "paginas": [
+    "https://forum.ufrj.br",
+    "https://forum.ufrj.br/eventos/",
+    "https://forum.ufrj.br/o-forum/historia/",
+    "https://forum.ufrj.br/o-forum/equipe/",
+    "https://forum.ufrj.br/o-forum/organograma/",
+    "https://forum.ufrj.br/o-forum/regimento/",
+    "https://forum.ufrj.br/o-forum/conselho-diretor/",
+    "https://forum.ufrj.br/patrimonio-cultural/patrimonio-tombado/",
+    "https://forum.ufrj.br/patrimonio-cultural/acervos/",
+    "https://forum.ufrj.br/o-forum/sistema-eletronico-de-informacoes/",
+    "https://forum.ufrj.br/o-forum/identidade-visual/",
+    "https://forum.ufrj.br/comunicacao/radio-ufrj/"
+   ],
+   "mencoes_de_data": 35,
+   "situacao": "coletada",
+   "arquivo": "F186.txt"
   },
   {
    "ids": [
@@ -2026,7 +2058,7 @@
    "degraus": [
     "texto de 14 página(s)"
    ],
-   "caracteres": 63303,
+   "caracteres": 63328,
    "url_final": "https://www.travessa.com.br/eventos",
    "paginas": [
     "https://www.travessa.com.br/eventos",
@@ -2044,7 +2076,7 @@
     "https://www.travessa.com.br/dvds/filmes",
     "https://www.travessa.com.br/dvds/show"
    ],
-   "mencoes_de_data": 165,
+   "mencoes_de_data": 162,
    "situacao": "coletada",
    "arquivo": "F189.txt"
   },
@@ -2317,7 +2349,7 @@
    "degraus": [
     "texto de 2 página(s)"
    ],
-   "caracteres": 5293,
+   "caracteres": 5294,
    "url_final": "https://galeriapatriciacosta.com.br/exposicoes/",
    "paginas": [
     "https://galeriapatriciacosta.com.br/exposicoes/",

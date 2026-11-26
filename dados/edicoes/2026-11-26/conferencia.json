@@ -1,0 +1,555 @@
+{
+ "resultado": [
+  {
+   "id": "2026-11-19-008",
+   "titulo": "Exposição principal do Museu Histórico da Cidade",
+   "campo": "sinopse",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha diz \"Acervo permanente sobre a história do Rio, na antiga chácara da Gávea\". A fonte semanal não traz descrição nenhuma (\"Exposição Principal do Museu Histórico da Cidade. Terça-feira a domingo, das 9h às 16h\"); a do Novembro Negro fala só em \"exposição de longa duração do Museu Histórico da Cidade\". \"Antiga chácara\" e \"história do Rio\" não constam.",
+   "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
+  },
+  {
+   "id": "2026-11-19-012",
+   "titulo": "Exposição permanente Getúlio Vargas",
+   "campo": "sinopse",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha diz \"Mostra permanente do memorial dedicado ao ex-presidente\". A fonte só traz \"Exposição permanente Getulio Vargas\", sem descrição; \"ex-presidente\" é conhecimento geral, não está na fonte.",
+   "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
+  },
+  {
+   "id": "2026-11-19-020",
+   "titulo": "Providência 130: Histórias que Fazem Território",
+   "campo": "cartaz",
+   "veredito": "duvida",
+   "detalhe": "A semanal diz \"De 19/11 a 17/11/2027\"; a do Novembro Negro diz \"19/11/2026 a 17/11/2026 (período como informado no material; conferir)\". A ficha usa fim em 17/11/2027. As fontes se contradizem na data final.",
+   "resolucao": "Mantido: 17/11/2027. A exposição abre em 19/11/2026 e o próprio PDF do Novembro Negro marca a sua data como “conferir”."
+  },
+  {
+   "id": "2026-11-19-028",
+   "titulo": "Protagonismos: Memória, Orgulho e Identidade",
+   "campo": "sinopse",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha diz \"Exposição de longa duração do museu da Pequena África sobre personalidades e lutas negras\". A fonte traz só o título e o horário (\"Exposição “Protagonismos: Memória, Orgulho e Identidade” Terça-feira a domingo, das 10h às 17h. Grátis. Livre.\"), sem descrição. Tudo na sinopse é acréscimo.",
+   "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
+  },
+  {
+   "id": "2026-11-19-030",
+   "titulo": "Zanele Muholi",
+   "campo": "sinopse",
+   "veredito": "duvida",
+   "detalhe": "A ficha escreve \"da ativista visual sul-africana\", no feminino. A fonte usa forma neutra de propósito: \"Muholi é um(a) ativista visual e fotógrafo(a) sul-africano(a)\". O gênero atribuído não vem da fonte.",
+   "resolucao": "Corrigido: sinopse reescrita sem atribuir gênero."
+  },
+  {
+   "id": "2026-11-19-032",
+   "titulo": "Ponto de Leitura: Brasilidades que vêm de Áfricas",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "As fontes divergem: a semanal diz \"R$ 10 a R$ 20 (terças-feiras são gratuitas)\"; a do Novembro Negro diz \"Local: Biblioteca do MAR | Valor: Gratuita\". A ficha publica o preço da semanal, com gratis=false."
+  },
+  {
+   "id": "2026-11-19-035",
+   "titulo": "Programa Hélio Oiticica",
+   "campo": "sinopse",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha diz \"Exposição permanente dedicada à obra de Hélio Oiticica\". A fonte traz só \"Exposição “Programa Hélio Oiticica” Segunda-feira a sábado, das 10h às 18h. Grátis. Livre.\"; não diz que é permanente nem descreve o conteúdo.",
+   "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
+  },
+  {
+   "id": "2026-11-19-062",
+   "titulo": "Música Brasilis",
+   "campo": "sinopse",
+   "veredito": "nao_encontrado",
+   "detalhe": "A ficha diz \"Exposição sobre a história da música brasileira\". A fonte traz só \"Exposição “Música Brasilis” Terça-feira a domingo, das 10h às 17h. Grátis. Livre.\", sem descrição.",
+   "resolucao": "Corrigido: sinopse reduzida ao que a fonte informa."
+  },
+  {
+   "id": "2026-11-19-067",
+   "titulo": "Cravejar o Corpo, Inventar o Mundo – Madah Sodré",
+   "campo": "local",
+   "veredito": "diverge",
+   "detalhe": "A ficha chama o espaço de \"Arena Carioca Dicró\". Na fonte semanal o cabeçalho é \"Arena Cultural Carlos Roberto de Oliveira - Dicró\"; na do Novembro Negro, \"Arena Cultural Dicró\". \"Arena Carioca\" não aparece em nenhuma.",
+   "resolucao": "Corrigido: “Arena Cultural Dicró”."
+  },
+  {
+   "id": "2026-11-19-082",
+   "titulo": "Ônibus Biblioteca – Livros nas Praças",
+   "campo": "cartaz",
+   "veredito": "duvida",
+   "detalhe": "A fonte diz \"Até 27 de novembro, às 11h\", sem dizer em quais dias da semana nem em que praça (\"Livros nas Praças\"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária \"A partir das 11h\" na areninha; a fonte diz \"às 11h\" e não confirma que é todo dia.",
+   "resolucao": "Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”."
+  },
+  {
+   "id": "2026-11-19-135",
+   "titulo": "Guardar – Coleção Marcia e Luiz Chrysostomo",
+   "campo": "preco_texto",
+   "veredito": "diverge",
+   "detalhe": "A ficha traz só \"R$ 10 (meia R$ 5), só na bilheteria\". F066 (ArtRio) acrescenta \"Às quartas-feiras, a entrada é franca para todos os públicos.\" e \"Aos domingos, “ingresso família” a R$10 para grupos de quatro pessoas.\" A quarta gratuita (25/11 cai na edição) não aparece na ficha.",
+   "resolucao": "Corrigido: acrescentado “grátis às quartas”."
+  },
+  {
+   "id": "2026-11-19-136",
+   "titulo": "ECOS – coletiva",
+   "campo": "sinopse",
+   "veredito": "duvida",
+   "detalhe": "A sinopse diz \"19 trabalhos, entre pinturas, esculturas e um vídeo\", como a ArtRio (F066: \"São dezenove obras, entre pinturas, esculturas e um vídeo\"). O site da galeria (F100) diz \"Reunindo vinte trabalhos, entre pinturas, esculturas, serigrafias e vídeos\". A nota declara a divergência de horário, mas não esta; e nela diz que vale o site da galeria.",
+   "resolucao": "Corrigido: vale o site da galeria (cerca de vinte trabalhos); a divergência fica anotada."
+  },
+  {
+   "id": "2026-11-19-133",
+   "titulo": "Casa da Mônica",
+   "campo": "endereco",
+   "veredito": "duvida",
+   "detalhe": "O endereço da ficha está certo, mas a nota erra ao dizer que ele não está no texto coletado: F013 traz \"Biblioteca Parque Estadual Av. Pres. Vargas, 1261 – Centro, Rio de Janeiro – RJ, 20071-004\".",
+   "resolucao": "Corrigido: a nota estava errada; o endereço consta na fonte e entrou no trecho."
+  },
+  {
+   "id": "f-c6b14b6989",
+   "titulo": "Rosana Palazyan: Quintal",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "'conviveu' no lugar de 'conversou durante a preparação da mostra'",
+   "resolucao": "Corrigido: sinopse e trecho seguem a fonte."
+  },
+  {
+   "id": "f-c6b14b6989",
+   "titulo": "Rosana Palazyan: Quintal",
+   "campo": "cartaz.fim",
+   "veredito": "duvida",
+   "detalhe": "galeria diz 28/11, Arte que Acontece diz 26/11",
+   "resolucao": "Mantido: 28/11, data da fonte oficial (galeria)."
+  },
+  {
+   "id": "f-d85692266b",
+   "titulo": "Tainan Cabral: Armadilhas no Paraíso",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "'e equipe' não está na fonte",
+   "resolucao": "Corrigido: os cinco curadores pelo nome."
+  },
+  {
+   "id": "f-d9430fc970",
+   "titulo": "Carnaval Como Método",
+   "campo": "cartaz.fim",
+   "veredito": "duvida",
+   "detalhe": "ArtRio diz 29/11/2026; Arte que Acontece diz 21/02/2027",
+   "resolucao": ""
+  },
+  {
+   "id": "f-a9d2e23843",
+   "titulo": "Ruído Bruto",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte não diz o gênero; Teatro presumido pelo palco.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-9c2207768d",
+   "titulo": "Gosto Amargo na Pele",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte não diz o gênero; Teatro presumido pelo palco.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-c21b141a4f",
+   "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte não detalha a programação; Teatro é suposição.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-24c0dccb9e",
+   "titulo": "Som Bonde Carioca em Tão Iguais",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "Texto da fonte cortado antes da descrição; Música presumida pelo nome.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-abef674624",
+   "titulo": "Com[o] Amortecer a Queda: práticas de uma dança inclinada a cair",
+   "campo": "natureza",
+   "veredito": "duvida",
+   "detalhe": "A fonte não diz se é apresentação ou prática aberta (aula); se for curso pago, sai.",
+   "resolucao": ""
+  },
+  {
+   "titulo": "Novo Quinteto: Radamés Gnattali e Oscar Bolão – Festival Radamés Gnattali 120 anos",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-f9d32e3634"
+  },
+  {
+   "titulo": "Pluralidades Insulares: arte latino-americana e caribenha da Coleção do BID",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-870b74aa68"
+  },
+  {
+   "titulo": "Andrezão do Cacique",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
+   "id": "f-25e6d54419"
+  },
+  {
+   "id": "f-6cfa8a334b",
+   "titulo": "Candlelight: Tributo ao Guns N' Roses",
+   "campo": "classificacao",
+   "veredito": "diverge",
+   "detalhe": "A fonte informa idade mínima de 8 anos e acessibilidade.",
+   "resolucao": "Corrigido: classificação e acessibilidade preenchidas."
+  },
+  {
+   "id": "f-316f8e3cdb",
+   "titulo": "Candlelight: O Melhor de Outlander",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Dizia ser concerto tributo sem ligação com os artistas; a página não diz isso. Faltava a classificação (a partir de 8 anos).",
+   "resolucao": "Corrigido: sinopse e classificação conforme a fonte."
+  },
+  {
+   "id": "f-b36c446b0c",
+   "titulo": "Candlelight: Tributo ao Oasis",
+   "campo": "local",
+   "veredito": "duvida",
+   "detalhe": "A Fever escreve 'Solar de Botafogo'; Teatro Rival e Teatro dos Quatro sem 'subsolo'/'Shopping da Gávea'.",
+   "resolucao": "Mantido: nome e endereço iguais aos das fichas já na base para o mesmo espaço."
+  },
+  {
+   "id": "f-dfa1349655",
+   "titulo": "An Idiot's Guide to Wine: Uma Comédia sobre Vinho",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-f5e92ecd72",
+   "titulo": "Feijoada da Mangueira com Leci Brandão",
+   "campo": "local",
+   "veredito": "duvida",
+   "detalhe": "A Sympla dá só o endereço (R. Visc. de Niterói, 1072) e o organizador 'Mangueira'.",
+   "resolucao": "Mantido: é o endereço da quadra da escola, já usado em outras fichas."
+  },
+  {
+   "id": "f-82d5149dfc",
+   "titulo": "Forró de Pife Descalço",
+   "campo": "endereco",
+   "veredito": "duvida",
+   "detalhe": "O endereço da Sympla é Rua Sá Ferreira, Copacabana, mas as coordenadas apontam para a Zona Oeste.",
+   "resolucao": "Mantido: segui o endereço escrito."
+  },
+  {
+   "id": "f-c8546d5963",
+   "titulo": "Quintal da Magia e Délcio Luiz",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-74efc97d70",
+   "titulo": "Canela de Velho no Quintal de Benfica: homenagem a Oxum",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-02f112b40f",
+   "titulo": "Samba da Constituição canta Djavan",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-02f112b40f",
+   "titulo": "Samba da Constituição canta Djavan",
+   "campo": "bairro",
+   "veredito": "nao_encontrado",
+   "detalhe": "A Sympla não dava o bairro do Mocamba Livre.",
+   "resolucao": "Corrigido: Rua do Livramento, 98, Gamboa (informado pela coordenação editorial)."
+  },
+  {
+   "id": "f-7844e7b011",
+   "titulo": "Rigoletto – Ópera do Meio-Dia",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "A fonte informa a distribuição de ingressos.",
+   "resolucao": "Corrigido: nota com a distribuição a partir das 11h."
+  },
+  {
+   "id": "f-8aac37b494",
+   "titulo": "Symbiophilia – Panthalassa Ensemble",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "O programa das 18h30 é outro.",
+   "resolucao": "Corrigido: sinopse distingue as duas sessões."
+  },
+  {
+   "id": "f-af2f73c61f",
+   "titulo": "Orquestra Forte de Copacabana",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "'Big band' não está na fonte.",
+   "resolucao": "Corrigido: tirado 'big band'."
+  },
+  {
+   "id": "f-181efa9e0b",
+   "titulo": "Canta Navidad – Coro Intercantus e convidados (Cidade das Artes)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-7732c10a1e",
+   "titulo": "Orquestra Sinfônica da UFRJ e coros: música de Natal (Sala Cecília)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-07e33c6932",
+   "titulo": "Canta Navidad – Coro Intercantus e convidados (Tijuca)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-3172bb4187",
+   "titulo": "Corais do Novo Leblon e Olé Ola – Concertos de Natal",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-8193aa7749",
+   "titulo": "Orquestra Sinfônica da UFRJ e coros: música de Natal (São Francisco de Paula)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
+   "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
+  },
+  {
+   "id": "f-df1cb21491",
+   "titulo": "Daniel Lopes e Kwesny – KD o Show?!",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "A fonte diz que representam, não que são de lá.",
+   "resolucao": "Corrigido."
+  },
+  {
+   "id": "f-8e32e2382f",
+   "titulo": "Ele Se Fez Boneco",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "A página informa a realização e a duração.",
+   "resolucao": "Corrigido: realização na sinopse e duração na nota; área só Teatro."
+  },
+  {
+   "id": "f-5fdc8179d2",
+   "titulo": "Nany (En)canta",
+   "campo": "sessoes",
+   "veredito": "diverge",
+   "detalhe": "As apresentações são mensais; 18/1 não existe.",
+   "resolucao": "Corrigido: só 11/1 na janela, sem aviso."
+  },
+  {
+   "id": "f-d1b5f7b7eb",
+   "titulo": "Arriba",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "19h de 6/12 pode ser hora de fim, não de sessão.",
+   "resolucao": "Corrigido: nota explica; aviso de dias mantido."
+  },
+  {
+   "id": "f-60fc1e13de",
+   "titulo": "Concerto Harmonia, Amor e Voz – tributo a Solange P. Mendonça",
+   "campo": "titulo",
+   "veredito": "diverge",
+   "detalhe": "A fonte não liga este concerto à Uerj Sem Muros.",
+   "resolucao": "Corrigido: retirado do título."
+  },
+  {
+   "id": "f-270310ea16",
+   "titulo": "Tiago Santineli",
+   "campo": "areas",
+   "veredito": "duvida",
+   "detalhe": "A fonte só dá o nome; humor e área Teatro são julgamento da redação.",
+   "resolucao": ""
+  },
+  {
+   "id": "f-6dad32d7c9",
+   "titulo": "Vila Anime – Edição Verão 2027",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Leitura do título além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o título."
+  },
+  {
+   "id": "f-33ab9caca1",
+   "titulo": "O Quebra-Nozes – versão de Thiago Soares",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Há sessões antes do Natal.",
+   "resolucao": "Corrigido: período de 23 a 28/12."
+  },
+  {
+   "id": "f-e7300b7d46",
+   "titulo": "O Quebra-Nozes",
+   "campo": "trecho_fonte",
+   "veredito": "diverge",
+   "detalhe": "Rótulo fora da fonte no trecho.",
+   "resolucao": "Corrigido: rótulo retirado."
+  },
+  {
+   "id": "f-040ee69754",
+   "titulo": "Tangolomango – cantigas, histórias e brincadeiras",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: frase sobre acessibilidade retirada."
+  },
+  {
+   "id": "f-6a27b066b3",
+   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-543be3e01a",
+   "titulo": "Quintal da VP: roda de samba do Papo de Quintal na rua",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-a239d37d31",
+   "titulo": "ATO 021 – 4ª edição: Atos da Noite (Circo no Ato)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-3d33915b69",
+   "titulo": "Baile Charme Essência Black",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-59e1d0e722",
+   "titulo": "Já Quero Esse Pagode – FM O Dia no Renascença",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-70e1e81da6",
+   "titulo": "Pagode de Verão: Diggo (Conexão Rio-Salvador)",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-9e04c91b88",
+   "titulo": "Baile da Didi no Rio Scenarium",
+   "campo": "nota_redacao",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: nota sem a taxa."
+  },
+  {
+   "id": "f-fdea4298cb",
+   "titulo": "Quintal da Quintão – Revive",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-c8a5c9df7e",
+   "titulo": "Feijoada do Samba de Caboclo – feriado de São Sebastião",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-9356acd839",
+   "titulo": "Lavagem do Rio ao Bonfim",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Afirmação além da fonte.",
+   "resolucao": "Corrigido: sinopse só com o que a fonte diz."
+  },
+  {
+   "id": "f-fc28817220",
+   "titulo": "Clássicos do Brasil: Alceu Valença, Maria Bethânia e Vanessa da Mata",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-049eaa80c8",
+   "titulo": "Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-1d861140a7",
+   "titulo": "Clássicos do Brasil: Fábio Jr., Roupa Nova e Paulo Ricardo",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-cb7d616a7a",
+   "titulo": "Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso",
+   "campo": "preco_texto",
+   "veredito": "duvida",
+   "detalhe": "Página da bilheteria mostra 'TÉRMINO DAS VENDAS ONLINE'.",
+   "resolucao": "Mantido: é contagem regressiva para o fim da venda online; preços e lotes seguem à venda."
+  },
+  {
+   "id": "f-049eaa80c8",
+   "titulo": "Clássicos do Brasil: Alexandre Pires, Péricles e Ferrugem",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Show às 15h chamado de 'noite'.",
+   "resolucao": "Corrigido: 'dia' no lugar de 'noite'."
+  },
+  {
+   "id": "f-cb7d616a7a",
+   "titulo": "Clássicos do Brasil: Pepeu Gomes, Paralamas do Sucesso e Caetano Veloso",
+   "campo": "sinopse",
+   "veredito": "diverge",
+   "detalhe": "Show às 15h chamado de 'noite'.",
+   "resolucao": "Corrigido: 'dia' no lugar de 'noite'."
+  }
+ ]
+}
