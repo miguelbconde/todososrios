@@ -455,6 +455,36 @@
    "titulo": "CCBB: ERICO – Solo de Clarineta, Duas Vezes Ponto de Partida, PT-BR Mostra de Teatro Brasil, Jazz Proibidão, Mostra de Cinema Árabe Feminino, Dia do Cinema Polonês",
    "data": "2026-12-03",
    "motivo": "a listagem só dá o período, sem horas"
+  },
+  {
+   "fonte": "PDF SMC 26/11–02/12",
+   "titulo": "Rio WebFest 2026 (Cidade das Artes)",
+   "data": "2026-11-27",
+   "motivo": "27 a 30/11 sem hora; o PDF dá R$ 60 a R$ 120 e, no texto, 'programação gratuita' (contraditório). Também mistura painéis, oficinas e eventos de mercado."
+  },
+  {
+   "fonte": "PDF SMC 26/11–02/12",
+   "titulo": "Tempo Travesso (Centro Coreográfico, f-5d78dd59cd)",
+   "data": "2026-12-02",
+   "motivo": "PDF diz 19h, base (Sympla) diz 18h30; classificação 'XX' no PDF. Trabalho de conclusão de curso de Dança da UFRJ: conferir se cabe nos critérios."
+  },
+  {
+   "fonte": "PDF SMC 26/11–02/12",
+   "titulo": "Palco Leopoldina: Antes de Mim (Arena Dicró, f-87c5ee44d2)",
+   "data": "2026-11-28",
+   "motivo": "PDF diz 17h, base (Sympla) diz 22h; o texto fala em 'nossas alunas' (pode ser apresentação de escola de dança). Grátis, Livre."
+  },
+  {
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "titulo": "Encontros de Literatura Afetuosa (Biblioteca Municipal Marques Rebelo)",
+   "data": "2026-11-30",
+   "motivo": "Grupo terapêutico em ciclo (biblioterapia para pessoas 60+); retirado na conferência, decisão editorial pendente."
+  },
+  {
+   "fonte": "PDF SMC 26/11–02/12",
+   "titulo": "Clube do Livro (Espaço de Leitura Moacyr Teixeira, Areninha Sandra de Sá)",
+   "data": "2026-12-01",
+   "motivo": "Encontros semanais de 1º a 18/12 sem dia da semana nem hora."
   }
  ]
 }
