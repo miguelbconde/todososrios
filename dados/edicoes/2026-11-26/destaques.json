@@ -1,20 +1,6 @@
 {
  "criterios_versao": "2026-11-15",
  "dias": {
-  "2026-11-26": [
-   {
-    "id": "f-a2c07e1696",
-    "porque": "O Azymuth revisita \"Águia Não Come Mosca\" no Rival."
-   },
-   {
-    "id": "f-474fbba1fc",
-    "porque": "Festival Arpoarte nos armazéns do Píer Mauá, até domingo."
-   },
-   {
-    "id": "f-4a9f433f61",
-    "porque": "Carimbó de mulheres indígenas do Tapajós, de graça e com Libras, na Tijuca."
-   }
-  ],
   "2026-11-27": [
    {
     "id": "f-cc466cac8b",
@@ -887,6 +873,13 @@
     "porque": "Em Centro.",
     "automatico": true
    }
+  ],
+  "2027-01-26": [
+   {
+    "id": "f-d3cd20fe6a",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
   ]
  },
  "mes": [
@@ -975,6 +968,7 @@
   "2027-01-22",
   "2027-01-23",
   "2027-01-24",
-  "2027-01-25"
+  "2027-01-25",
+  "2027-01-26"
  ]
 }

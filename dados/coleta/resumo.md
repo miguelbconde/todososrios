@@ -1,6 +1,6 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-26 06:01 UTC, em 206 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-27 06:03 UTC, em 214 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
@@ -24,7 +24,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | CCBB Rio | coletada | texto de 12 página(s) |
 | Carioca da Gema | coletada | feed (20 itens), texto de 2 página(s) |
 | Carpintaria (Fortes D'Aloia & Gabriel) | coletada | texto de 9 página(s) |
-| Casa Firjan | coletada | texto de 13 página(s) |
+| Casa Firjan | coletada | texto de 12 página(s) |
 | Casa Museu Eva Klabin | coletada | texto de 13 página(s) |
 | Casa Roberto Marinho | coletada | texto de 12 página(s) |
 | Casa da Ciência da UFRJ | coletada | texto de 3 página(s) |
@@ -72,9 +72,9 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro Multiplan | coletada | texto de 8 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
-| Teatro Rival Petrobras | coletada | texto de 2 página(s) |
+| Teatro Rival Petrobras | coletada | texto de 6 página(s) |
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
-| Teatro das Artes | coletada | dados estruturados (20 eventos), texto de 12 página(s) |
+| Teatro das Artes | coletada | dados estruturados (19 eventos), texto de 11 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
 | Theatro Municipal do Rio de Janeiro | coletada | feed (8 itens), texto de 5 página(s) |
 | Vivo Rio | coletada | texto de 12 página(s) |

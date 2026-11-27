@@ -1,8 +1,8 @@
-# Boletim de saúde — 2026-11-26
+# Boletim de saúde — 2026-11-27
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-26 06:01 UTC
+- Feita em: 2026-11-27 06:03 UTC
 - Lidas com datas: **64** de 97 visitadas
 - não respondeu: 20
 - coletada, mas sem datas à vista: 10
@@ -10,7 +10,9 @@
 
 ## Plataformas de ingresso
 
-- Sem extração nesta rodada (publicação de fichas entregues). Números da última ronda em `dados/coleta/plataformas.md`.
+- Ingresso.com: 8354 sessões de cinema
+- Sympla: 2136 eventos no Rio
+- Fever: 59 eventos no Rio
 
 ## Fichas automáticas (sem IA)
 
@@ -30,10 +32,10 @@
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-25: **532**
-- Por região: Centro 179, Zona Sul 165, Zona Norte 110, Zona Sudoeste 46, Zona Oeste 32
+- Fichas da redação de hoje até 2027-01-26: **500**
+- Por região: Centro 169, Zona Sul 154, Zona Norte 103, Zona Sudoeste 45, Zona Oeste 29
 - Fora da Zona Sul: 69%
-- Grátis: 95
+- Grátis: 86
 
 ## Alarmes
 

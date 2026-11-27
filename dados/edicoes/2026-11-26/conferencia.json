@@ -248,22 +248,6 @@
    "id": "f-870b74aa68"
   },
   {
-   "titulo": "Andrezão do Cacique",
-   "campo": "sinopse",
-   "veredito": "diverge",
-   "detalhe": "A sinopse afirmava algo que a fonte não diz.",
-   "resolucao": "Corrigido: sinopse reescrita só com o que a fonte diz.",
-   "id": "f-25e6d54419"
-  },
-  {
-   "id": "f-6cfa8a334b",
-   "titulo": "Candlelight: Tributo ao Guns N' Roses",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A fonte informa idade mínima de 8 anos e acessibilidade.",
-   "resolucao": "Corrigido: classificação e acessibilidade preenchidas."
-  },
-  {
    "id": "f-316f8e3cdb",
    "titulo": "Candlelight: O Melhor de Outlander",
    "campo": "sinopse",
@@ -334,22 +318,6 @@
    "veredito": "nao_encontrado",
    "detalhe": "A Sympla não dava o bairro do Mocamba Livre.",
    "resolucao": "Corrigido: Rua do Livramento, 98, Gamboa (informado pela coordenação editorial)."
-  },
-  {
-   "id": "f-7844e7b011",
-   "titulo": "Rigoletto – Ópera do Meio-Dia",
-   "campo": "nota_redacao",
-   "veredito": "diverge",
-   "detalhe": "A fonte informa a distribuição de ingressos.",
-   "resolucao": "Corrigido: nota com a distribuição a partir das 11h."
-  },
-  {
-   "id": "f-8aac37b494",
-   "titulo": "Symbiophilia – Panthalassa Ensemble",
-   "campo": "sinopse",
-   "veredito": "diverge",
-   "detalhe": "O programa das 18h30 é outro.",
-   "resolucao": "Corrigido: sinopse distingue as duas sessões."
   },
   {
    "id": "f-af2f73c61f",
