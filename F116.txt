@@ -1,0 +1,969 @@
+# F116 | Teatro das Artes
+# endereço: https://teatrodasartes.com.br
+# coletado em 2026-11-28 05:56 UTC
+
+## EVENTOS (dados estruturados da página)
+- UNIVERSO INFANTIL | início 2025-04-01 | fim 2035-12-31 | Shopping da Gávea | preço 0 | https://teatrodasartes.com.br/eventos/universo-infantil/
+- Hétero Sigilo | início 2026-11-07T18:00:00-03:00 | fim 2026-11-29T18:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/ | ingressos.divertix Sinopse Solo que mistura humor e confissão para expor os pactos silenciosos que fazemos para caber na norma. Entre memórias, afetos e contradições, o espetáculo revela como a heteronormatividade atravessa corpos e subjetividades e convida o público a rir, se reconhecer e questionar o papel que interpreta na própria vida. Ficha Técnica Dramaturgia e Performance: Bernardo DuginDir [… cortado]
+- Cá entre nós | início 2026-12-08T17:00:00-03:00 | fim 2026-12-08T17:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/ca-entre-nos-dezembro-2026/ | ingressos.divertix Sinopse Do YouTube para o palco, o Cá Entre Nós convida o público a acompanhar de perto o papo que Fátima Bernardes e Bia Bonemer comandam juntas. Mãe e filha recebem convidados para uma conversa leve e cheia de curiosidade, com histórias de bastidores, escolhas que marcaram suas trajetórias e espaço para aqueles assuntos que só aparecem quando o papo rende.Reserve seu lugar na  [… cortado]
+- Cá entre nós | início 2026-12-09T17:00:00-03:00 | fim 2026-12-09T17:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/ca-entre-nos-9-dezembro-2026/ | ingressos.divertix Sinopse Do YouTube para o palco, o Cá Entre Nós convida o público a acompanhar de perto o papo que Fátima Bernardes e Bia Bonemer comandam juntas. Mãe e filha recebem convidados para uma conversa leve e cheia de curiosidade, com histórias de bastidores, escolhas que marcaram suas trajetórias e espaço para aqueles assuntos que só aparecem quando o papo rende.Reserve seu lugar na  [… cortado]
+- A Gongada das Mil Xuxas | início 2026-12-19T17:00:00-03:00 | fim 2026-12-19T17:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/ | ingressos.divertix Sinopse Edição inédita na véspera do show “O Último Voo da Nave”, no Maracanã!No dia 19 de dezembro, o Teatro das Artes recebe “A Gongada das Mil Xuxas”, edição especial da Gongada Drag que homenageia o universo de Xuxa com humor, performances drag, improviso e muita nostalgia.Criado e apresentado por Bruno Motta, o espetáculo mistura roast, stand-up comedy e performances, reuni [… cortado]
+- Psicóloga Segundo Meu Psiquiatra | início 2027-01-02T16:00:00-03:00 | fim 2027-01-31T16:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/psicologa-segundo-meu-psiquiatra-janeiro-2027/ | ingressos.divertix Sinopse Sexo, desejo e conflitos familiares dão o tom dessa comédia cheia de humor e situações inesperadas. Quando um psiquiatra, acostumado a cuidar dos problemas dos outros, entra em crise, acaba procurando ajuda justamente de uma psicóloga e terapeuta sexual nada convencional. Entre conversas sobre sexo, conflitos pessoais e revelações surpreendentes, os dois se envolvem em u [… cortado]
+- Uma Vida de Amizade | início 2027-01-08T18:00:00-03:00 | fim 2027-02-28T18:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/ | ingressos.divertix Sinopse Três amigas são intimas desde a juventude nos anos 1990, quando dividiam sonhos, dificuldades e um quarto e sala em Paris, trabalhando como modelos. Desde então, elas cumprem o ritual de se encontrar uma vez por ano numa data especial.Gilda (Silvia Pfeifer) é a conciliadora e, embora pareça ser forte, também esconde suas fragilidades. Yasmin (AdrianaGarambone) é a mais l [… cortado]
+- Maldito Coração | início 2026-11-18T17:00:00-03:00 | fim 2026-11-26T17:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/maldito-coracao-novembro-2026/ | ingressos.divertix Sinopse MALDITO CORAÇÃO (me alegra que tu sofras)O que acontece no nosso cérebro quando nos apaixonamos?Até onde a ciência consegue explicar o amor?Nesta comédia dramática, uma palestrante sofre lapsos de memória durante uma apresentação e acaba revelando os bastidores de uma paixão avassaladora.Entre humor, sedução e reviravoltas, certezas científicas dão lugar a lembranças, fa [… cortado]
+- Os Três Porquinhos | início 2026-10-31T13:00:00-03:00 | fim 2026-11-22T13:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/os-tres-porquinhos-outubro-2026/ | ingressos.divertix Sinopse Era uma vez 3 porquinhos, cada um tinha uma casinha diferente. Heitor construiu uma casa de madeira, Cícero uma de palha e Prático a de tijolos. Eles não imaginavam que perto dali, vivia um lobo. Que vivia assoprando e derrubando as casinhas, um dia assoprou muito forte que ficou com soluço. Com a ajuda de Tata, ele encontrou uma solução para o seu problema. É aí, que co [… cortado]
+- Sérgio Mallandro &#8211; 45 anos de Mallandragem e uma viagem no tempo | início 2026-10-24T18:30:00-03:00 | fim 2026-10-31T18:30:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/sergio-mallandro-45-anos-de-mallandragem-e-uma-viagem-no-tempo-outubro-2026/ | ingressos.divertix Ficha Técnica Artista: Sérgio MallandroDireção: Sérgio MallandroRoteiro: Sérgio Mallandro Gênero: ComédiaClassificação Etária
+- Heróis e Princesas | início 2026-10-03 | fim 2026-10-24 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/herois-e-princesas-outubro-2026/ | ingressos.divertix Sinopse João, vive grandes aventuras ao lado dos seus amigos heróis.Alice sua irmã, prefere a magia das princesas. Então, devido a uma mentira contada por João, Alice, é capturada pelo terrível vilão de Gotham City, o Coringa. Em um enredo cheio de aventuras e grandes brincadeiras, essa divertida história é contada para toda a família. Na trama, João se torna um Super Herói tamb [… cortado]
+- Nelson Rodrigues – O Passado Sempre Tem Razão | início 2026-09-27T16:00:00-03:00 | fim 2026-09-27 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/nelson-rodrigues-o-passado-sempre-tem-razao-2/ | .cls-1 { fill: #fff; } ingressos.divertix Sinopse “Nelson Rodrigues – O Passado Sempre Tem Razão” leva ao palco o pensamento do maior dramaturgo brasileiro por meio de falas extraídas de entrevistas, crônicas e peças. Com dramaturgia de Carlos Jardim, o espetáculo reúne reflexões sobre amor, adultério, política, futebol e teatro, revelando a impressionante atualidade de Nelson Rodrigues. Bruce Gom [… cortado]
+- Chapeuzinho Vermelho e os Bichos da Floresta | início 2026-09-19T13:00:00-03:00 | fim 2026-09-27 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/chapeuzinho-vermelho-e-os-bichos-da-floresta-setembro-2026/ | .cls-1 { fill: #fff; } ingressos.divertix Sinopse A história é sempre a mesma, mas com um pouco de criatividade. Desta vez, chapeuzinho vermelho conta com a ajuda de alguns amigos bichos, para encontrar o caminho da casa de sua vovó, são eles: uma galinha, uma gata, um cachorro e um jumento. Que além de mostrarem o caminho, ensinam ela a cuidar e preservar a floresta. O lobo que de mau não tem nad [… cortado]
+- Abrakadabra — Princesas: O Poder dos Desejos | início 2026-09-12T14:00:00-03:00 | fim 2026-09-13 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/abrakadabra-princesas-setembro-2026/ | .cls-1 { fill: #fff; } ingressos.divertix SinopseSe encontram na cidade de Rosas, Rapunzel, Asha e Elsa que vivem suas vidas seguindo seus corações e sonhos. No entanto, tudo muda quando o poderoso e sinistro vilão Magnifico surge, com a capacidade de roubar os desejos das pessoas e controlá-los para seu próprio benefício. Magnifico, com sua astúcia e magia, consegue roubar os desejos mais profund [… cortado]
+- Era uma Vez | início 2026-09-05T14:00:00-03:00 | fim 2026-09-07T14:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/era-uma-vez/ | .cls-1 { fill: #fff; } ingressos.divertix Sinopse Numa noite de insônia, Mel, a mãe de Pedrinho, lê histórias de um livro mágico sem saber. De repente, eles caem no mundo da imaginação e encontram diversos heróis do mundo encantado, que tentam ajudá-los a sair do livro. O que eles não esperavam é que um vilão malvado iria atrapalhar a saída deles da história, que tem um tempo determinado para acab [… cortado]
+- FROZEN &#8211; Uma aventura na neve | início 2026-08-08T16:00:00-03:00 | fim 2026-08-30T16:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/frozen-uma-aventura-na-neve-2/ | .cls-1 { fill: #fff; } ingressos.divertix Sinopse Frozen - Uma Aventura na Neve, relembra a infância das irmãs de Arendel, que descobrem a origem dos poderes da Rainha do gelo. Com a ajuda de Olaf e seus amigos essa história é contada. Trazemos para o imaginário infantil todas as musicas marcantes do fenômeno Frozen, onde relembramos os dois filmes. Não percam essa comédia infantil, vocês irão se  [… cortado]
+- Nelson Rodrigues – O Passado Sempre Tem Razão | início 2026-07-25T17:00:00-03:00 | fim 2026-08-30T17:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/nelson-rodrigues-o-passado-sempre-tem-razao/ | .cls-1 { fill: #fff; } ingressos.divertix Sinopse“Nelson Rodrigues – O Passado Sempre Tem Razão” leva aopalco o pensamento do maior dramaturgo brasileiro por meio defalas extraídas de entrevistas, crônicas e peças. Comdramaturgia de Carlos Jardim, o espetáculo reúne reflexõessobre amor, adultério, política, futebol e teatro, revelando aimpressionante atualidade de Nelson Rodrigues. BruceGomlevsky  [… cortado]
+- O Rei Leão &#8211; O Reino de Simba | início 2026-07-11T13:00:00-03:00 | fim 2026-07-26T13:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/o-rei-leao-o-reino-de-simba-2/ | .cls-1 { fill: #fff; } ingressos.divertix Sinopse “O Reino de Simba” é um musical infantil que conta a história de Simba, um pequeno leãozinho que é filho do rei Mufasa e da rainha Sarabi. Ao crescer, é envolvido nas artimanhas de seu tio Scar, o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e assumir o trono. Quando Simba se vê injustamente acusado pela morte de seu p [… cortado]
+- Um conto sobre&#8230; A Bela e a Fera | início 2026-07-04T13:00:00-03:00 | fim 2026-07-05T13:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/um-conto-sobre-a-bela-e-a-fera-2/ | .cls-1 { fill: #fff; } ingressos.divertix Um conto sobre... A Bela e a Fera SINOPSE Bela, moradora de uma pequena aldeia francesa, tem o pai capturado por uma fera e decide entregar sua vida, em troca da liberdade do seu pai. No castelo, ela conhece objetos mágicos e descobre que a fera é na verdade um lindo príncipe, que precisa de amor para voltar à forma humana. Com muitas músicas, danças, ence [… cortado]
+
+## PÁGINA (página inicial) — https://teatrodasartes.com.br
+Teatro das Artes - RJ
+WhatsApp
+Home
+O Teatro
+Programação
+Em Cartaz
+Eventos Passados
+Depoimentos
+Linha do Tempo
+Contato
+Locação Para Eventos
+Área do Produtor
+Home
+O Teatro
+Programação
+Em Cartaz
+Eventos Passados
+Depoimentos
+Linha do Tempo
+Contato
+Locação Para Eventos
+Área do Produtor
+Home
+O Teatro
+Programação
+Em Cartaz
+Eventos Passados
+Depoimentos
+Linha do Tempo
+Contato
+Locação Para Eventos
+Área do Produtor
+Home
+O Teatro
+Programação
+Em Cartaz
+Eventos Passados
+Depoimentos
+Linha do Tempo
+Contato
+Locação Para Eventos
+Área do Produtor
+WhatsApp
+abril 01 terça-feira
+UNIVERSO INFANTIL
+Em Cartaz
+DETALHES DO EVENTO
+novembro 07 sábado
+Hétero Sigilo
+Em cartaz Em Cartaz
+DETALHES DO EVENTO
+dezembro 08 terça-feira
+Cá entre nós
+Em cartaz
+DETALHES DO EVENTO
+dezembro 09 quarta-feira
+Cá entre nós
+Em cartaz
+DETALHES DO EVENTO
+dezembro 19 sábado
+A Gongada das Mil Xuxas
+Em cartaz
+DETALHES DO EVENTO
+janeiro 02 sábado
+Psicóloga Segundo Meu Psiquiatra
+Em cartaz
+DETALHES DO EVENTO
+janeiro 08 sexta-feira
+Uma Vida de Amizade
+Em cartaz
+DETALHES DO EVENTO
+abril 01 terça-feira
+UNIVERSO INFANTIL
+Em Cartaz
+DETALHES DO EVENTO
+novembro 07 sábado
+Hétero Sigilo
+Em cartaz Em Cartaz
+DETALHES DO EVENTO
+dezembro 08 terça-feira
+Cá entre nós
+Em cartaz
+DETALHES DO EVENTO
+dezembro 09 quarta-feira
+Cá entre nós
+Em cartaz
+DETALHES DO EVENTO
+dezembro 19 sábado
+A Gongada das Mil Xuxas
+Em cartaz
+DETALHES DO EVENTO
+janeiro 02 sábado
+Psicóloga Segundo Meu Psiquiatra
+Em cartaz
+DETALHES DO EVENTO
+janeiro 08 sexta-feira
+Uma Vida de Amizade
+Em cartaz
+DETALHES DO EVENTO
+Categoria
+10 anos
+12 anos
+14 anos
+16 anos
+18 anos
+Biográfico
+Comédia
+Comédia Dramática
+Comédia Policial
+Confessional
+Drama
+Drama Familiar
+Espiritual
+Evento Gratuito
+Infantil
+Informações
+Livre
+Meditação
+Monólogo
+Musical
+Rock instrumental
+Stand Up
+Organizador
+Devaki
+Divertix
+Faz Art
+Teatro das Artes
+Teatro das Artes e Plinio Oliveira
+Tags
+Comédia
+Duetos
+Falando de Amor
+Infantil
+Música
+Música Romântica
+Musical
+Os três porquinhos
+Plinio Olveira
+Produtora Faz art
+Etiqueta
+Em breve
+Em cartaz
+Search results will show here
+Espetáculos Nobres
+no Teatro das Artes
+Aconchegante,
+acolhedor e intimista
+O Teatro das Artes foi inaugurado em 1998 e estreou com a peça ARTE, da dramaturga francesa Yasmina Reza, autora premiada com o Molière. No grande elenco, Pedro Paulo Rangel, Paulo Goulart e Paulo Gorgulho.
+O Teatro oferece estrutura e modelos de negócios seguros e rentáveis para produtores e facilidades de acesso ao público. Fica na Broadway do Rio de Janeiro, localizada no tradicional, charmoso e elegante Shopping da Gávea, num bairro residencial, cheio de atrativos culturais e ambiente amigável.
+A voz de quem faz teatro
+O que eles tem a dizer sobre nós?
+Veja!
+Fazemos parte da História
+do Teatro Brasileiro
+Há quase 30 anos existimos e resistimos
+1994
+Começamos como administradores de teatros. Fomos produtores e criamos um espaço de conveniência cultural. Fundamos a Teatrali Produções Culturais e construímos uma história de espetáculos de valor, com elencos consagrados no palco, sucesso de público, crítica e bilheteria.
+1995
+Fundamos o Teatro dos Grandes Atores no Shopping Barra Square com duas salas. Estreamos a Sala Azul com a peça APARECEU A MARGARIDA, estrelado por Marília Pêra. E a Sala Vermelha com A Era do Rádio, encenada e dirigida por Sérgio Britto.
+1998
+Inauguramos o Teatro das Artes, no Shopping da Gávea, com a peça ARTE, da dramaturga francesa Yasmina Reza, autora premiada com o Molière. No elenco consagrado, Pedro Paulo Rangel, Paulo Goulart e Paulo Gorgulho.
+2020
+Fechamos nossas portas por dois anos em decorrência da pandemia de COVID-19, mas garantimos empregos e salários aos nossos colaboradores.
+2022
+Estamos felizes pelo retorno da atividade teatral e pelo público que volta ao teatro.
+A responsabilidade da Teatrali Produções Culturais é manter o teatro preparado para receber produções artísticas e eventos, acolher o público e oferecer a todos a melhor experiência.
+Atua para alcançar excelência em suas atividades.
+Como proprietária do Teatro das Artes no Shopping da Gávea e do Teatro dos Grandes Atores no Shopping Barra Square , traz o que de mais completo há para cada espetáculo.
+Peças em cartaz no Rio de Janeiro fazem sucesso nestes palcos!
+Melhores Momentos
+Sim. Cada peça é preciosa!
+Tudo que se faz com amor tem valor.
+Marca de público: mais de 2 milhões
+de pessoas.
+Receber produções culturais de qualidade e privilegiar o público infantil e adulto com a mesma atenção, aconchego e segurança, fez o Teatro das Artes e o Teatro dos Grandes Atores registrar a marca de público que equivale a quase 15% da população da cidade do Rio de Janeiro. Isso não é pouco, isso tem valor.
+No teatro das artes
+Infantil em Alta
+Grandes obras voltam aos palcos
+Produtores Teatrais e de Eventos,
+preparados para inovações?
+Encontrar o teatro ideal para levar o seu espetáculo ao público
+é bem fácil. Seu caminho para o sucesso começa aqui.
+Encontrar o teatro ideal para levar o seu espetáculo ao público é bem fácil.
+Seu caminho para o sucesso começa aqui.
+Experiência
+Conquistas
+Recursos técnicos, segurança e aconchego são resultados da administração e operação da Teatrali Produções Culturais para valorizar a atividade teatral no Brasil.
+Vendas Online
+Sistema Seguro
+A Teatrali Produções Culturais, tem parceria com a Divertix, empresa oficial de venda de ingressos online. Rápido prático e com total segurança nos processos e relatórios gerados.
+Divulgação
+On-line e Off-line
+Os gabaritos de todas as artes estão disponíveis para Download.
+Assessoria de Marketing Digital com equipe especializada em Design, Google e Instagram.
+Traga o Seu Evento
+Parcerias por Excelência
+Onde tem arte, tem resultado.
+Para o publico aplaudir, dá-se muito suor.
+Localização
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Como Chegar
+Locação | Sugestão de Pauta
+pauta@teatrali.com.br
+Venda de Ingressos Online
+www.divertix.com.br
+Bilheteria
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2026 Teatro das Artes – mywork.digital
+
+## PÁGINA (listagem: Locação Para Eventos) — https://teatrodasartes.com.br/locacao/
+Aluguel do Teatro - Teatro das Artes
+Empresas e produções renomadas passam por aqui.
+Agende agora o seu evento no Teatro das Artes, Gávea.
+Locação de espaço para: peças, musicais adulto ou infantil, stand-up e audições.
+Escolas de dança, ballet, música, formaturas, curso de línguas, coaching, workshops e conferências.
+Fale conosco agora para locação do teatro.
+Nome
+Telefone
+Email
+Mensagem
+Enviar
+Ingresso Online Divertix
+Excelência
+Empresa formada por pessoas que conhecem e que trabalham há anos no mercado de entretenimento.
+Segurança
+Tecnologia moderna com livre acesso ao sistema para gerenciamento e do faturamento em tempo real.
+Borderô
+Produções e os empresários da área têm segurança nos processos e nos relatórios gerados, para melhor administração do negócio.
+Confiança
+O nosso teatro oferece o sistema de venda e controle de ingressos online.
+Compra fácil
+A Divertix tem por objetivo facilitar a compra de ingressos através de uma ferramenta ágil e livre de burocracias.
+Acesso QR Code
+Visa a agilidade, reforça a segurança e a validade dos ingressos, evitando assim a entrada de público indevido e falsificação de tickets.
+Entrar em contato
+Divulgação on-line e off-line
+O Teatro das Artes oferece:
+– Intranet, área exclusiva para as produções.
+– Equipe de designers aptos para orientações em geral,
+e aprovação de todo material enviado para inserção nos pontos de divulgação internos, externos e digitais (Site, Divertix, Shopping e Banners).
+– Arquivos dos gabaritos – todos os formatos das artes necessárias estão disponíveis em PSD para download , o que agiliza a entrega de todos os criativos de uma só vez.
+– Mini-site – página exclusiva do seu espetáculo dentro do site do Teatro das Artes para promoção de vendas online, a partir de fotografias, vídeos e conteúdos enviados pela produção ;
+– ChatBot – apoio a divulgação das atrações, com base em banco de dados fornecidos pela produção ;
+Entrar em contato
+Conheça os bastidores
+do Teatro das Artes
+Juntos, levantamos plateias!
+Espetáculos se constroem com
+pessoas e estruturas.
+Veja o espetáculo por trás do espetáculo!
+Tradicional e imponente local na Cidade
+Vista Plateia
+Camarins
+O Teatro da Gávea: área e espaços
+– Estrutura para recepção dos melhores espetáculos e eventos
+– Capacidade: 421 pessoas sentadas na plateia
+– Palco: 14,4, de larg. x 9,26 de prof. x 3,80 de alt. e 1,60 de proscênio
+– Coxias: 62 m²
+– 7 Camarins com banheiros
+– 2 Bilheterias informatizadas com 3 guichês (1 deles para cadeirante).
+– Banheiros Internos: 1 Masculino e 1 Feminino
+Entrar em contato
+Ambiente imersivo com som de alta qualidade
+Console de Som Digital
+Microfone TSI
+Ajuste de intensidade e volume dos efeitos sonoros
+– 01 Console de som digital YAMAHA Modelo 01V-96
+– 02 Ultragain Pro-8 Digital ADA 8000
+– 01 Equalizador gráfico DOD R-231 (P.A)
+– 02 CDJ Pioneer 200
+– 01 Amplificador Crest Áudio CA-2
+– 01 Processador BOSE 802-C
+– 01 Multicabo de 48 vias (40 IN / 8 OUT) (palco/cabine)
+– 01 Subsnake de 20 vias (18 IN / 2 OUT)
+– 06 Caixas de som BOSE Modelo 802 (P.A.)
+– 02 Caixas de som FZ 108A (retorno)
+– 01 Microfone TSI Modelo SM-58
+Entrar em contato
+Cuidamos da beleza das cores e você, da atração
+Mesa de Luz
+16 PC Telem
+Garantimos o básico
+de sua iluminação
+– 16 PC telem OM 1000w
+– 16 Fresnel Telem OM 1000w
+– 11 Elipsoidal Telem OM 1000w
+– 01 mesa de luz Element 250 canais/168 dimer
+Entrar em contato
+Conforto na climatização
+Ar condiconado
+Ar condicionado 2
+Ar condicionado 3
+Viva a experiência do bem-estar
+- Condicionamento de ar em todo espaço do teatro e hall de entrada
+- Garantia de temperatura ideal
+Entrar em contato
+Ambiente seguro dentro do Shopping da Gávea
+Sala principal
+Detectores de Incêndio
+Segurança para a família e todo tipo de espetáculo
+- Sala de apresentação conta com 3 saídas
+- Luzes de emergência
+- Amplos acessos para área de escape
+- Portas corta-fogo com barras anti-pânico
+- Detectores de fumaça
+- Extintores de incêndio
+- Todos os materiais de revestimento empregados são retardantes de chamas ou pouco combustíveis.
+Entrar em contato
+Razões e diferenciais do mercado?
+Produções ganham tempo quando recebem os benefícios. Descubra agora quais são eles!
+Teatro, Sistema de Vendas e Divulgação juntos.
+Aqui, você adquire na locação um super combo!
+estrutura
+Segura, confortável, com acústica de alta qualidade, excelentes espaços e dimensão de palco.
+locação
+O espaço se encontra adequado para apresentação completa de espetáculos e ou eventos corporativos.
+suporte
+Você se dedica ao seu espetáculo e recebe assessoria integral na utilização das áreas do teatro.
+ingresso online
+Venda fácil pela Divertix, via computador, notebook, tablet, celular android ou smartphone.
+bilheteria
+O controle de ingressos é realizado desde o início da venda até o acesso ao teatro com leitura de
+QR CODE, evitando fraudes.
+apoio
+Estamos 100% preparados para que o seu evento seja um espetáculo marcante.
+Arquivos Técnicos
+PLANTA DO TEATRO
+CAMARINS
+Clique MAPA DA PLATEIA
+RIDER
+Locação do teatro
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2026 Teatro das Artes – mywork.digital
+
+## PÁGINA (listagem: Em Cartaz) — https://teatrodasartes.com.br/programacao/
+Programação - Teatro das Artes
+Juntos, fazemos o show acontecer
+Adulto ou infantil, sempre uma nova atração.
+Categoria:
+Categoria
+10 anos
+12 anos
+14 anos
+16 anos
+18 anos
+Comédia
+Comédia Policial
+Confessional
+Drama
+Drama Familiar
+Espiritual
+Evento Gratuito
+Infantil
+Informações
+Livre
+Meditação
+Monólogo
+Musical
+Rock instrumental
+Stand Up
+Data:
+Horário:
+Texto:
+01 abril 2025 - 31 dezembro 2035
+UNIVERSO INFANTIL
+Shopping da Gávea, Rua Marquês de São Vicente - 52
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+07 - 29 novembro 2026
+Hétero Sigilo Repetir
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+08 dezembro 2026
+Cá entre nós
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+09 dezembro 2026
+Cá entre nós
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+19 dezembro 2026
+A Gongada das Mil Xuxas
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+02 - 31 janeiro 2027
+Psicóloga Segundo Meu Psiquiatra Repetir
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+08 janeiro 2027 - 28 fevereiro 2027
+Uma Vida de Amizade Repetir
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+Nenhum evento encontrado!
+Conheça o teatro
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2026 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos-passados/
+Eventos Passados - Teatro das Artes
+Juntos, fizemos o show acontecer
+Adulto ou infantil, fomos uma ótima opção.
+18 - 26 novembro 2026
+Maldito Coração
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+31 outubro 2026 - 22 novembro 2026
+Os Três Porquinhos
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+24 - 31 outubro 2026
+Sérgio Mallandro – 45 anos de Mallandragem e uma viagem no tempo
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+03 - 24 outubro 2026
+Heróis e Princesas
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+27 setembro 2026
+Nelson Rodrigues – O Passado Sempre Tem Razão
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+19 - 27 setembro 2026
+Chapeuzinho Vermelho e os Bichos da Floresta
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+12 - 13 setembro 2026
+Abrakadabra — Princesas: O Poder dos Desejos
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+05 - 07 setembro 2026
+Era uma Vez
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+08 - 30 agosto 2026
+FROZEN – Uma aventura na neve
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+25 julho 2026 - 30 agosto 2026
+Nelson Rodrigues – O Passado Sempre Tem Razão
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+11 - 26 julho 2026
+O Rei Leão – O Reino de Simba
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+04 - 05 julho 2026
+Um conto sobre… A Bela e a Fera
+Teatro das Artes, Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Facebook
+Twitter
+Linkedin
+Telegram
+E-mail
+Ver Detalhes
+Nenhum evento encontrado!
+Carregar Mais
+Conheça o teatro
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2026 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/universo-infantil/
+UNIVERSO INFANTIL - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+UNIVERSO INFANTIL
+Texto
+Info
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+01 abr 2025 - 31 dez 2035
+Shopping da Gávea
+Rua Marquês de São Vicente - 52
+Categoria
+Informações
+Compartilhar Este Evento
+Ver Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/
+Hétero Sigilo - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+Hétero Sigilo
+ingressos.divertix
+Sinopse
+Solo que mistura humor e confissão para expor os pactos silenciosos que fazemos para caber na norma. Entre memórias, afetos e contradições, o espetáculo revela como a heteronormatividade atravessa corpos e subjetividades e convida o público a rir, se reconhecer e questionar o papel que interpreta na própria vida.
+Ficha Técnica
+Dramaturgia e Performance: Bernardo Dugin
+Direção: João Fonseca
+Assistente de Direção: André Celant
+Direção Musical e Trilha Original: Federico Puppi Direção de Movimento: Vanessa Garcia
+Cenário e Figurino: Nello Marrese
+Adereço: Marcia Marques
+Iluminação: Daniela Sanchez
+Assistente de Produção: Azul Scorzelli
+Identidade Visual: Loomi House
+Fotografia: Nil Caniné
+Operadora de Luz: Kaylane Desidério
+Operador de Som: Lincoln Laet
+Mobiliário: Roma Industriais
+Produção: O Delirante Produções
+Serviço:
+Duração do Espetáculo: 80 minutos
+Classificação: 16 anos
+Gênero: Drama
+Classificação Etária
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+07 - 29 nov 2026
+Horário
+21h e 19h
+21:00 - 21:00
+Mais Informações
+Comprar Ingresso
+Etiquetas
+Em cartaz
+Teatro das Artes
+Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Categoria
+16 anos
+Drama
+Organizador
+Divertix
+E-mail
+atendimento@divertix.com.br
+Website
+https://divertix.com.br/
+Comprar Ingresso
+Compartilhar Este Evento
+evento em destaque
+08/12/2026
+Cá entre nós
+09/12/2026
+Cá entre nós
+19/12/2026
+A Gongada das Mil Xuxas
+Ver Evento
+Novo Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/ca-entre-nos-dezembro-2026/
+Cá entre nós - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+Cá entre nós
+ingressos.divertix
+Sinopse
+Do YouTube para o palco, o Cá Entre Nós convida o público a acompanhar de perto o papo que Fátima Bernardes e Bia Bonemer comandam juntas. Mãe e filha recebem convidados para uma conversa leve e cheia de curiosidade, com histórias de bastidores, escolhas que marcaram suas trajetórias e espaço para aqueles assuntos que só aparecem quando o papo rende.
+Reserve seu lugar na plateia e venha viver esse encontro ao vivo.
+Realização: Play9
+Gênero: Podcast
+Classificação Etária
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+08 dez 2026
+Horário
+20h
+20:00 - 20:00
+Mais Informações
+Comprar Ingresso
+Etiquetas
+Em cartaz
+Teatro das Artes
+Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Categoria
+Livre
+Organizador
+Divertix
+E-mail
+atendimento@divertix.com.br
+Website
+https://divertix.com.br/
+Comprar Ingresso
+Compartilhar Este Evento
+evento em destaque
+07/11/2026
+Hétero Sigilo
+09/12/2026
+Cá entre nós
+19/12/2026
+A Gongada das Mil Xuxas
+Ver Evento
+Novo Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/ca-entre-nos-9-dezembro-2026/
+Cá entre nós - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+Cá entre nós
+ingressos.divertix
+Sinopse
+Do YouTube para o palco, o Cá Entre Nós convida o público a acompanhar de perto o papo que Fátima Bernardes e Bia Bonemer comandam juntas. Mãe e filha recebem convidados para uma conversa leve e cheia de curiosidade, com histórias de bastidores, escolhas que marcaram suas trajetórias e espaço para aqueles assuntos que só aparecem quando o papo rende.
+Reserve seu lugar na plateia e venha viver esse encontro ao vivo.
+Realização: Play9
+Gênero: Podcast
+Classificação Etária
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+09 dez 2026
+Horário
+20h
+20:00 - 20:00
+Mais Informações
+Comprar Ingresso
+Etiquetas
+Em cartaz
+Teatro das Artes
+Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Categoria
+Livre
+Organizador
+Divertix
+E-mail
+atendimento@divertix.com.br
+Website
+https://divertix.com.br/
+Comprar Ingresso
+Compartilhar Este Evento
+evento em destaque
+07/11/2026
+Hétero Sigilo
+08/12/2026
+Cá entre nós
+19/12/2026
+A Gongada das Mil Xuxas
+Ver Evento
+Novo Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/
+A Gongada das Mil Xuxas - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+A Gongada das Mil Xuxas
+ingressos.divertix
+Sinopse
+Edição inédita na véspera do show “O Último Voo da Nave”, no Maracanã!
+No dia 19 de dezembro, o Teatro das Artes recebe “A Gongada das Mil Xuxas”, edição especial da Gongada Drag que homenageia o universo de Xuxa com humor, performances drag, improviso e muita nostalgia.
+Criado e apresentado por Bruno Motta, o espetáculo mistura roast, stand-up comedy e performances, reunindo diferentes elencos e criando uma experiência exclusiva a cada edição.
+Com referências aos programas de auditório, figurinos icônicos e músicas que marcaram gerações, a apresentação promete transformar o teatro em uma grande celebração da cultura pop brasileira, unindo a memória afetiva dos fãs de Xuxa à irreverência da arte drag.
+ATENÇÃO! O ELENCO SERÁ DIVULGADO EM BREVE!
+Acompanhe @gongadadrag no Instagram.
+Gênero: Comédia
+Classificação Etária
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+19 dez 2026
+Horário
+20h
+20:00 - 20:00
+Mais Informações
+Comprar Ingresso
+Etiquetas
+Em cartaz
+Teatro das Artes
+Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Categoria
+14 anos
+Comédia
+Organizador
+Divertix
+E-mail
+atendimento@divertix.com.br
+Website
+https://divertix.com.br/
+Comprar Ingresso
+Compartilhar Este Evento
+evento em destaque
+07/11/2026
+Hétero Sigilo
+08/12/2026
+Cá entre nós
+09/12/2026
+Cá entre nós
+Ver Evento
+Novo Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/psicologa-segundo-meu-psiquiatra-janeiro-2027/
+Psicóloga Segundo Meu Psiquiatra - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+Psicóloga Segundo Meu Psiquiatra
+ingressos.divertix
+Sinopse
+Sexo, desejo e conflitos familiares dão o tom dessa comédia cheia de humor e situações inesperadas. Quando um psiquiatra, acostumado a cuidar dos problemas dos outros, entra em crise, acaba procurando ajuda justamente de uma psicóloga e terapeuta sexual nada convencional. Entre conversas sobre sexo, conflitos pessoais e revelações surpreendentes, os dois se envolvem em uma sessão cada vez mais divertida. No meio do colapso emocional e ético, surge uma conexão improvável e transformadora. Afinal, quem precisa de terapia: o paciente ou a terapeuta?
+Ficha Técnica
+Texto: Carlos Simões
+Direção: Humberto Martins e Carlos Simões
+Elenco
+Humberto Martins
+Aline Müller
+Gênero: Comédia
+Classificação Etária
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+02 - 31 jan 2027
+Horário
+19h e 18h
+19:00 - 19:00
+Mais Informações
+Comprar Ingresso
+Etiquetas
+Em cartaz
+Teatro das Artes
+Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Categoria
+16 anos
+Comédia
+Organizador
+Divertix
+E-mail
+atendimento@divertix.com.br
+Website
+https://divertix.com.br/
+Comprar Ingresso
+Compartilhar Este Evento
+evento em destaque
+07/11/2026
+Hétero Sigilo
+08/12/2026
+Cá entre nós
+09/12/2026
+Cá entre nós
+Ver Evento
+Novo Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital
+
+## PÁGINA (evento) — https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/
+Uma Vida de Amizade - Teatro das Artes
+Pular para o conteúdo principal
+Teatro das Artes
+Uma Vida de Amizade
+ingressos.divertix
+Sinopse
+Três amigas são intimas desde a juventude nos anos 1990, quando dividiam sonhos, dificuldades e um quarto e sala em Paris, trabalhando como modelos. Desde então, elas cumprem o ritual de se encontrar uma vez por ano numa data especial.
+Gilda (Silvia Pfeifer) é a conciliadora e, embora pareça ser forte, também esconde suas fragilidades. Yasmin (Adriana
+Garambone) é a mais leve e um tanto volúvel. Renée (Helena Fernandes), uma mulher rígida e julgadora, sempre tem um olhar crítico sobre as amigas. No encontro, entre lembranças da vida profissional, familiar e amorosa, emergem novas histórias inesperadas, e algumas surpresas que podem transformar suas vidas para sempre.
+Gênero: Comédia
+Classificação Etária
++ Adicionar ao Calendário do Google
++ Exportar para iCal
+Data
+08 jan 2027 - 28 fev 2027
+Horário
+21h e 20h
+21:00 - 21:00
+Mais Informações
+Comprar Ingresso
+Etiquetas
+Em cartaz
+Teatro das Artes
+Shopping da Gávea, 2º Piso - Lj 264 - RJ
+Categoria
+14 anos
+Comédia
+Organizador
+Divertix
+E-mail
+atendimento@divertix.com.br
+Website
+https://divertix.com.br/
+Comprar Ingresso
+Compartilhar Este Evento
+evento em destaque
+07/11/2026
+Hétero Sigilo
+08/12/2026
+Cá entre nós
+09/12/2026
+Cá entre nós
+Ver Evento
+2º Andar | Shopping da Gávea
+R. Marquês de São Vicente, 52 – Lj 264
+Gávea – Rio de Janeiro – Cep 22.451-901
+Marketing | Artes e Mídias
+marketing@teatrali.com.br
+Venda de Ingressos Online
+Sex, Sáb e Dom à partir das 15h
+(21) 2540-6004
+©2023 Teatro das Artes – mywork.digital

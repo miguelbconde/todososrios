@@ -1,0 +1,898 @@
+# F092 | IMS Rio (Instituto Moreira Salles)
+# endereço: https://ims.com.br
+# coletado em 2026-11-28 05:56 UTC
+
+## FEED https://ims.com.br/feed/
+- 2026-11-19 | Istambul: crônicas de uma cidade – Textos da exposição | https://ims.com.br/2026/11/19/ara-guler-istambul-cronicas-de-uma-cidade-textos-da-exposicao/ | Istambul: crônicas de uma cidade IMS Paulista Textos da exposição Texto institucional [… cortado]
+- 2026-11-04 | Doze flechas feitas de água, de Inaê Moreira | https://ims.com.br/2026/11/04/doze-flechas-feitas-de-agua-de-inae-moreira/ | Doze flechas feitas de água , de Inaê Moreira Instalação apresentada no foyer do Cinema do IMS Paulista, nos dias 7 e 8 de novembro de 2026. Parte do Festival ZUM 2026. Obra realizada com apoio da Bolsa ZUM / IMS 2025. Áudio, 11' Além dos doze tecidos que ocupam o espaço do foyer, Inaê Moreira convidou a artista Marta Supernova para criar uma paisagem sonora que traduzisse a experiência de estar entre Salvador e Ouidah. Para cada imagem-flecha, um estado de espírito em forma de som, acompanhado dos textos escritos e lidos por Moreira durante as viagens. https://ims.com.br/wp-content/uploads/2026/11/Doze-flechas-feitas-de-agua-v11.1-Mix-v1.1.mp3 [… cortado]
+- 2026-10-30 | Dia D – Dia Drummond 2025 | https://ims.com.br/2026/10/30/dia-d-dia-drummond-2025/ | Dia D - Dia Drummond 2025 Para o Dia D de 2025, trouxemos para o IMS Poços a exibição de O padre e a moça , o primeiro longa-metragem de ficção de Joaquim Pedro de Andrade, inspirado no poema O padre, a moça de Drummond. Após o filme houve um debate com Pedro Rena e Bruno Cosentino, seguido por um recital de poesia e música com Rafael Macedo e Eucanaã Ferraz. Filme O padre e a moça Cena de O padre e a moça , de Joaquim Pedro de Andrade Em seu livro Versiprosa, Carlos Drummond de Andrade escreve, sob o título “Em preto e branco”: “O padre e a moça no cinema./ Emoção mais funda quem há de/ sentir ante este filme-poema?/ Salve, Joaquim Pedro de Andrade!” [… cortado]
+- 2026-10-30 | Ara Güler, Istanbul: Tales of a City – Exhibition texts | https://ims.com.br/2026/10/30/ara-guler-exhibition-texts/ | Ara Güler, Istanbul: Tales of a City IMS Paulista Exhibition texts Institutional text [… cortado]
+- 2026-10-21 | Evandro Teixeira – conteúdo relacionado | https://ims.com.br/2026/10/21/evandro-teixeira-conteudo-relacionado/ | Evandro Teixeira Conteúdo relacionado IMS notícias Evandro Teixeira volta ao Chile, 50 anos depois Tour virtual: Evandro Teixeira. Chile 1973 (IMS Paulista, 2023) Neste tour virtual de Evandro Teixeira. Chile 1973 , em cartaz no IMS Paulista, em São Paulo, de 21/3 a 30/7/2023, o público pode visitar a exposição de onde estiver e explorar o conteúdo exposto de várias maneiras, usando o computador ou o celular, com opção para óculos de realidade virtual. Testemunha Ocular 60 anos do golpe militar, em fotos históricas de Evandro Teixeira e outros Testemunha Ocular A longa vida do fotojornalista [… cortado]
+
+## EVENTOS (calendário do site)
+- O que pede passagem: oficina de pintura a partir da obra de Liti Guerreiro Caçador | início 2026-11-28 14:30:00 | fim 2026-11-28 16:30:00 | preço Livre | https://ims.com.br/evento/o-que-pede-passagem/
+- Feito pipa | início 2026-11-28 14:40:00 | fim 2026-11-28 15:30:00 | preço R$1 | https://ims.com.br/evento/feito-pipa/2026-11-28/
+- Yellow Cake | início 2026-11-28 16:00:00 | fim 2026-11-28 17:00:00 | preço R$1 | https://ims.com.br/evento/yellow-cake/2026-11-28/
+- Art&Tricks: as artimanhas de Odilon Lopez | início 2026-11-28 16:30:00 | fim 2026-11-28 17:30:00 | preço Livre | https://ims.com.br/evento/arttricks-as-artimanhas-de-odilon-lopez/2026-11-28/
+- Dor de dente + Caso um, caso dois | início 2026-11-28 18:00:00 | fim 2026-11-28 19:00:00 | preço Livre | https://ims.com.br/evento/dor-de-dente-caso-um-caso-dois/2026-11-28/
+- I Love Boosters | início 2026-11-28 18:00:00 | fim 2026-11-28 19:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters/2026-11-28/
+- Ana, en passant | início 2026-11-28 20:00:00 | fim 2026-11-28 21:00:00 | preço R$1 | https://ims.com.br/evento/ana-en-passant/2026-11-28/
+- I Love Boosters | início 2026-11-28 22:00:00 | fim 2026-11-28 23:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters-2/2026-11-28/
+- Vicentina pede desculpas | início 2026-11-29 15:00:00 | fim 2026-11-29 16:00:00 | preço R$1 | https://ims.com.br/evento/vicentina-pede-desculpas/2026-11-29/
+- I Love Boosters | início 2026-11-29 16:00:00 | fim 2026-11-29 17:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters/2026-11-29/
+- Duas soluções para um problema + Close-Up | início 2026-11-29 18:00:00 | fim 2026-11-29 19:00:00 | preço Livre | https://ims.com.br/evento/duas-solucoes-para-um-problema-close-up/2026-11-29/
+- Yellow Cake | início 2026-11-29 18:10:00 | fim 2026-11-29 19:10:00 | preço R$1 | https://ims.com.br/evento/yellow-cake/2026-11-29/
+- I Love Boosters | início 2026-11-29 20:00:00 | fim 2026-11-29 21:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters-2/2026-11-29/
+- I Love Boosters | início 2026-12-01 14:00:00 | fim 2026-12-01 15:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters-3/2026-12-01/
+- O ser querido | início 2026-12-01 16:20:00 | fim 2026-12-01 17:20:00 | preço R$1 | https://ims.com.br/evento/o-ser-querido-2/2026-12-01/
+- Alvorada de Glória | início 2026-12-01 19:30:00 | fim 2026-12-01 20:30:00 | preço Livre | https://ims.com.br/evento/alvorada-de-gloria/2026-12-01/
+- I Love Boosters | início 2026-12-02 14:00:00 | fim 2026-12-02 15:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters-3/2026-12-02/
+- O ser querido | início 2026-12-02 16:30:00 | fim 2026-12-02 17:30:00 | preço R$1 | https://ims.com.br/evento/o-ser-querido-2/2026-12-02/
+- I Love Boosters | início 2026-12-03 14:00:00 | fim 2026-12-03 15:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters-3/2026-12-03/
+- O ser querido | início 2026-12-03 16:10:00 | fim 2026-12-03 17:10:00 | preço R$1 | https://ims.com.br/evento/o-ser-querido-2/2026-12-03/
+- Uma em mil | início 2026-12-03 18:40:00 | fim 2026-12-03 19:40:00 | preço R$1 | https://ims.com.br/evento/uma-em-mil-2/2026-12-03/
+- O ser querido | início 2026-12-03 19:00:00 | fim 2026-12-03 20:00:00 | preço R$1 | https://ims.com.br/evento/o-ser-querido/2026-12-03/
+- Fiz um foguete imaginando que você vinha | início 2026-12-03 20:10:00 | fim 2026-12-03 21:10:00 | preço R$1 | https://ims.com.br/evento/fiz-um-foguete-imaginando-que-voce-vinha-2/2026-12-03/
+- I Love Boosters | início 2026-12-04 14:00:00 | fim 2026-12-04 15:00:00 | preço R$1 | https://ims.com.br/evento/i-love-boosters-3/2026-12-04/
+- O ser querido | início 2026-12-04 16:10:00 | fim 2026-12-04 17:10:00 | preço R$1 | https://ims.com.br/evento/o-ser-querido-2/2026-12-04/
+- Uma em mil | início 2026-12-04 18:40:00 | fim 2026-12-04 19:40:00 | preço R$1 | https://ims.com.br/evento/uma-em-mil-2/2026-12-04/
+- Os demônios | início 2026-12-04 19:00:00 | fim 2026-12-04 20:00:00 | preço R$1 | https://ims.com.br/evento/os-demonios/2026-12-04/
+- Fiz um foguete imaginando que você vinha | início 2026-12-04 20:10:00 | fim 2026-12-04 21:10:00 | preço R$1 | https://ims.com.br/evento/fiz-um-foguete-imaginando-que-voce-vinha-2/2026-12-04/
+- Os demônios | início 2026-12-04 22:00:00 | fim 2026-12-04 23:00:00 | preço R$1 | https://ims.com.br/evento/os-demonios-2/2026-12-04/
+- Fiz um foguete imaginando que você vinha | início 2026-12-05 16:00:00 | fim 2026-12-05 17:00:00 | preço R$1 | https://ims.com.br/evento/fiz-um-foguete-imaginando-que-voce-vinha/2026-12-05/
+- Senzala Hi-Tech: Música, Arte e Afrofuturismo | início 2026-12-05 17:00:00 | fim 2026-12-05 19:00:00 | preço Livre | https://ims.com.br/evento/senzala-hi-tech-musica-arte-e-afrofuturismo/
+- Os demônios | início 2026-12-05 18:00:00 | fim 2026-12-05 19:00:00 | preço R$1 | https://ims.com.br/evento/os-demonios/2026-12-05/
+- Nosso segredo | início 2026-12-05 19:30:00 | fim 2026-12-05 20:30:00 | preço R$1 | https://ims.com.br/evento/nosso-segredo-7/2026-12-05/
+- Vicentina pede desculpas | início 2026-12-05 21:40:00 | fim 2026-12-05 22:40:00 | preço R$1 | https://ims.com.br/evento/vicentina-pede-desculpas-3/
+- Uma em mil | início 2026-12-06 14:30:00 | fim 2026-12-06 15:30:00 | preço R$1 | https://ims.com.br/evento/uma-em-mil-2/2026-12-06/
+- Fiz um foguete imaginando que você vinha | início 2026-12-06 16:00:00 | fim 2026-12-06 17:00:00 | preço R$1 | https://ims.com.br/evento/fiz-um-foguete-imaginando-que-voce-vinha-2/2026-12-06/
+- Jim Queen | início 2026-12-06 16:00:00 | fim 2026-12-06 17:00:00 | preço R$1 | https://ims.com.br/evento/jim-queen-2/
+- Os demônios | início 2026-12-06 18:00:00 | fim 2026-12-06 19:00:00 | preço R$1 | https://ims.com.br/evento/os-demonios/2026-12-06/
+- Os demônios | início 2026-12-06 20:00:00 | fim 2026-12-06 21:00:00 | preço R$1 | https://ims.com.br/evento/os-demonios-2/2026-12-06/
+- Fiz um foguete imaginando que você vinha | início 2026-12-08 15:00:00 | fim 2026-12-08 16:00:00 | preço R$1 | https://ims.com.br/evento/fiz-um-foguete-imaginando-que-voce-vinha-2/2026-12-08/
+
+## PÁGINA (página inicial) — https://ims.com.br
+Instituto Moreira Salles
+Idioma
+EN
+Contraste
+Pular para o conteúdo principal
+Programação
+Agenda
+São Paulo
+Rio de Janeiro
+Poços de Caldas
+Online
+Exposições
+Em cartaz
+Futuras
+Anteriores
+Tours virtuais
+Visitas mediadas
+Acervo
+Pesquise no Acervo
+Sobre o acervo
+Arte Contemporânea
+Biblioteca de Fotografia
+Centro de Memória e Documentação
+Fotografia
+Iconografia
+Literatura
+Música
+Destaques de A a Z
+Programa Convida
+Por dentro do acervo
+Cinema
+Sessões de cinema
+São Paulo
+Poços de Caldas
+Sobre Cinema no IMS
+Blog do Cinema
+Revistas de programação
+Coleção DVD IMS
+Instituto
+Centros culturais
+IMS Paulista
+IMS Rio
+IMS Poços
+Sobre o IMS
+Quem somos
+Ação social
+Educação
+Escola Escuta
+Publicações e DVDs
+Lojas
+Loja online
+Lojas físicas
+Todos os sites
+Rádio Batuta
+ZUM
+Discografia Brasileira
+Carolina Maria de Jesus
+Crônica Brasileira
+Testemunha Ocular
+Clarice Lispector
+serrote
+Ver todos
+São Paulo
+Rio de Janeiro
+Poços de Caldas
+Sessões de cinema ►
+Sobre o IMS Paulista ►
+Vista da piscina nos jardins do IMS Rio. Foto de Roberto Polidori / Acervo IMS
+Com a sede da Gávea fechada para obras, a programação do IMS no Rio de Janeiro está acontecendo em instituições culturais parceiras.
+Sessões de cinema ►
+Sobre o IMS Poços ►
+IMS Poços. Poços de Caldas, MG, 2024. Foto de Thiago Verolla
+Acervo
+Pesquisar no acervo ►
+Pesquisar no acervo ►
+IMS em vídeo
+Parcerias
+Cinema
+Outros sites do IMS
+Loja
+Crônica Brasileira
+A grande solidão, por Guilherme Tauil
+Brasiliana Iconográfica
+As aquarelas de Joaquim Cândido Guillobel como referência do povo brasileiro
+Discografia brasileira
+Amélia e Emília, duas antimusas que ainda dão o que falar, por Pedro Paulo Malta
+ZUM
+A fotografia do futuro, por Djaimilia Pereira de Almeida e Humberto Brito
+Brasiliana Fotográfica
+Retrospectiva de artigos para celebrar o Dia Internacional da Música, por Andrea Wanderley
+Correio IMS
+Cartas e nosso tempo: 10 anos do Correio IMS, por Danilo Bresciani
+Todos os sites ►
+Todos os sites ►
+Fale conosco
+Assine a newsletter
+Atendimento a pesquisadores
+Sala de imprensa
+Trabalhe no IMS
+Endereços
+Rio de Janeiro
+O IMS Rio está fechado temporariamente para reformas.
+Horário de visitação: a programação do IMS no Rio de Janeiro será apresentada em instituições culturais parceiras.
+Mais informações
+São Paulo
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Mais informações
+Poços de Caldas
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Mais informações
+Quem somos
+Código de ética e conduta
+Política de privacidade
+Termos de Uso
+desenvolvido pelo hacklab /
+Este site utiliza cookies para garantir a você a melhor experiência de navegação. Confira a Política de Privacidade e os Termos de Uso .
+Aceitar Rejeitar
+Gerenciar consentimento
+Fechar
+Privacy Overview
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary
+Necessary
+Sempre ativado
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+SALVAR E ACEITAR
+
+## PÁGINA (listagem: Exposições) — https://ims.com.br/expos/
+Exposições - Instituto Moreira Salles
+No destaque, a última exposição a sair de cartaz em cada centro cultural do IMS. Para ter acesso a uma lista completa das centenas de exposições já realizadas pelo instituto, clique no botão correspondente à cidade de seu interesse.
+IMS PAULISTA
+Dignidade e luta: Laudelina de Campos Mello
+16/5/2026 a 22/11/2026
+PAÇO IMPERIAL
+Luiz Braga - Arquipélago imaginário
+9/12/2025 a 1/3/2026
+IMS POÇOS
+Stefania Bril: desobediência pelo afeto
+7/3 a 2/8/2026
+Mais exposições em São Paulo
+Mais exposições no Rio de Janeiro
+Mais exposições em Poços de Caldas
+Nestes tours virtuais do Instituto Moreira Salles, o público pode visitar exposições atuais e passadas de onde estiver e explorar o material de diversas maneiras, usando o computador ou o celular, com opção para óculos de realidade virtual.
+Mais tours
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (listagem: Sobre Cinema no IMS) — https://ims.com.br/cinema/
+Cinema do IMS - Instituto Moreira Salles
+Cinema do IMS
+Cena de Casa Forte , curta-metragem de Rodrigo Almeida
+A área de cinema do IMS exibe filmes de repertório, além de mostras de diretores brasileiros e estrangeiros. Promove também seminários, cursos e debates, e edita uma coleção de DVDs em que cada filme é acompanhado por um livreto com resenhas e entrevistas.
+IMS Paulista: sessões de cinema
+IMS Poços: sessões de cinema
+IMS Rio: centro cultural fechado
+Sessões de cinema online
+Revista de programação
+Cena de Tilaï , de Idrissa Ouédraogo
+A revista de programação do Cinema do IMS traz a lista completa dos filmes exibidos a cada mês nas salas do IMS Paulista e do IMS Poços, com datas e horários, além de ensaios e entrevistas.
+Revista de novembro/2026
+Edições anteriores
+Ingressos
+Os ingressos para as sessões são vendidos na bilheteria do IMS Paulista e pelo site ingresso.com . A venda é mensal e os ingressos são liberados no primeiro dia de cada mês. Os preços variam de acordo com o filme ou a mostra.
+A bilheteria fica na Praça IMS, no 5º andar do centro cultural, e funciona de terça a domingo, das 12h até o início da última sessão de cinema do dia.
+Os ingressos para as sessões são vendidos na bilheteria do IMS Poços e pelo site ingresso.com . A venda é mensal e os ingressos são liberados no primeiro dia de cada mês. Os preços variam de acordo com o filme ou a mostra.
+A bilheteria funciona de terça a sexta, das 13h às 19h, sábados e domingos, das 9h às 19h, na recepção do IMS Poços.
+IMS Paulista: comprar ingressos online
+IMS Poços: comprar ingressos online
+Acessibilidade
+É possível assistir a alguns dos filmes em cartaz no Cinema do IMS Paulista com recursos de acessibilidade em Libras, legendas descritivas e audiodescrição. Essa possibilidade é indicada na página individual de cada filme. Para retirar o equipamento com recursos, consulte a bilheteria do IMS Paulista. Em caso de dúvidas, entrar em contato pelo telefone (11) 2842-9120 ou pelo e-mail [email protected]
+Conheça os DVDs
+A coleção, criada em 2012 pelo então coordenador de cinema José Carlos Avellar (1936-2016), já lançou diversos filmes, entre produções brasileiras e estrangeiras. Os DVDs podem ser adquiridos nas lojas dos nossos centros culturais e na loja online do IMS.
+Outros posts do blog
+Mais Cinema
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (listagem: Programa Convida) — https://ims.com.br/convida/
+IMS Convida - Instituto Moreira Salles
+Lançado pelo Instituto Moreira Salles em abril de 2020, o programa Convida se estendeu até outubro do mesmo ano e subsidiou obras de 171 artistas e coletivos em situação vulnerável no período mais severo da quarentena imposta pela Covid.
+Os conteúdos aqui publicados não refletem necessariamente o pensamento institucional do IMS. Este é um arquivo do projeto , os dados biográficos dizem respeito às datas originais de publicação, sempre indicadas em cada página.
+Mais sobre o Programa Convida
+a
+•
+b
+•
+c
+•
+d
+•
+e
+•
+f
+•
+g
+•
+h
+•
+i
+•
+j
+•
+k
+•
+l
+•
+m
+•
+n
+•
+o
+•
+p
+•
+q
+•
+r
+•
+s
+•
+t
+•
+u
+•
+v
+•
+w
+•
+x
+•
+y
+•
+z
+Ação e reflexão na quarentena
+Nos últimos meses, o modo como vivemos e trabalhamos mudou radicalmente. Em tempos de isolamento, a equipe do IMS buscou reflexões sobre o cenário de pandemia, fomentou a criação artística, fez indicações de leitura, desenvolveu vários programas reunidos na #IMSQuarentena.
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/tours-virtuais/
+Tours virtuais / Exposições - Instituto Moreira Salles
+TOURS VIRTUAIS / Exposições
+Mais sobre Exposições
+Nestes tours virtuais do Instituto Moreira Salles, o público pode visitar exposições atuais e passadas de onde estiver e explorar o material de diversas maneiras, usando o computador ou o celular, com opção para óculos de realidade virtual.
+Os tours virtuais ficam disponíveis em três fases nesta seção. A primeira versão, identificada como 1.0 , é quando se faz o registro e não há ainda informações adicionais disponíveis, sendo que a pessoa usuária apenas circula pelas áreas expositivas. A segunda versão, identificada como 2.0 , já traz diversas informações adicionais aos tours virtuais, tais como vídeos, textos, imagens ampliadas e conteúdos de acessibilidade, mas segue sendo constantemente atualizada. A terceira e última fase, identificada como 3.0 , é a versão final dos tours virtuais, sendo que apenas eventualmente eles ainda poderão sofrer alguma atualização com mais informações ou correções pontuais.
+2025
+Tour virtual
+Fotografia AGNÈS VARDA Cinema (IMS Paulista, 2025)
+Versão 1.0
+Tour virtual
+Ocupação Eduardo Coutinho (IMS Poços, 2025)
+Versão 1.0
+Tour virtual
+Gordon Parks – A América sou eu (IMS Paulista, 2025)
+Versão 1.0
+Tour virtual
+Paiter Suruí, Gente de Verdade. Um projeto do Coletivo Lakapoy (IMS Paulista, 2025)
+Versão 1.0
+Tour virtual
+Dignidade e luta: Laudelina de Campos Mello (IMS Poços, 2025)
+Versão 1.0
+Tour virtual
+Luiz Braga – Arquipélago imaginário (IMS Paulista, 2025)
+Versão 1.0
+Tour virtual
+Zanele Muholi: Beleza valente (IMS Paulista, 2025)
+Versão 1.0
+2024
+Tour virtual
+Thomaz Farkas, todomundo (IMS Paulista, 2024)
+Versão 1.0
+Tour virtual
+Stefania Bril: desobediência pelo afeto (IMS Paulista, 2024)
+Versão 1.0
+Tour virtual
+Koudelka: Ciganos, Praga 1968, Exílios (IMS Paulista, 2024)
+Versão 1.0
+Tour virtual
+Que país é este? A câmera de Jorge Bodanzky durante a ditadura brasileira, 1964-1985 (IMS Paulista, 2024)
+Versão 2.0
+Tour virtual
+Fotoclubismo em Poços de Caldas – Vestígios de uma história (IMS Poços, 2024)
+Versão 2.0
+Tour virtual
+Madalena Schwartz: As metamorfoses – Travestis e transformistas na SP dos anos 70 (IMS Poços, 2024)
+Versão 2.0
+2023
+Tour virtual
+Pequenas Áfricas: o Rio que o samba inventou (IMS Paulista, 2023-2024)
+Versão 1.0
+Tour virtual
+Flieg. Tudo que é sólido (IMS Paulista, 2023-2024)
+Versão 3.0
+Tour virtual
+Entre nós: dez anos da Bolsa ZUM/IMS (Pivô, 2023)
+Versão 2.0
+Tour virtual
+Fotografia habitada, antologia de Helena Almeida, 1969-2018 (IMS Paulista, 2023)
+Versão 1.0
+Tour virtual
+Iole de Freitas, anos 1970 – Imagem como presença (IMS Paulista, 2023)
+Versão 1.0
+Tour virtual
+Evandro Teixeira. Chile 1973 (IMS Paulista, 2023)
+Versão 1.0
+2022
+Tour virtual
+Miguel Rio Branco. Palavras cruzadas, sonhadas, rasgadas, roubadas, usadas, sangradas (IMS Rio, 2022-2023)
+Versão 3.0
+Tour virtual
+Xingu: Contatos (IMS Paulista, 2022-2023)
+Versão 3.0
+Tour virtual
+Constelação Clarice (IMS Rio, 2022)
+Versão 3.0
+Tour virtual
+Walter Firmo: no verbo do silêncio a síntese do grito (IMS Paulista, 2022)
+Versão 3.0
+Tour virtual
+Daido Moriyama: uma retrospectiva (IMS Paulista, 2022)
+Versão 3.0
+2021
+Tour virtual
+Carolina Maria de Jesus: Um Brasil para os brasileiros (IMS Paulista, 2021-2022)
+Versão 3.0
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/acervos/pesquise-nos-acervos/
+Pesquise no acervo - Instituto Moreira Salles
+Pesquise no acervo
+A pesquisa no acervo do Instituto Moreira Salles é aberta ao público em geral e a profissionais interessados. Ela tem início nas bases de dados do IMS, disponíveis em parte na internet: são cerca de 40 mil fotografias, 1.800 imagens de iconografia, descrição de 50 mil itens do arquivo de Literatura, dos quais 9 mil digitalizados, além de 30 mil obras da biblioteca e 10 mil fonogramas.
+Centro
+de Memória
+e Documentação
+Domínio público
+O IMS disponibiliza para download gratuito parte de seu acervo fotográfico e iconográfico em domínio público. São cerca de 10 mil obras, entre fotografias, gravuras, desenhos e pinturas, produzidas entre o século XVI e as três primeiras décadas do século XX. Entre os temas abordados estão paisagens naturais e urbanas, retratos, expedições, o trabalho forçado de pessoas escravizadas, povos indígenas, desenvolvimento urbano, arquitetura, manifestações populares, política e cartografia.
+Como baixar imagens em domínio público ►
+Eu, mestiço , 2017. Jonathas de Andrade. Coleção Contemporânea/ Acervo IMS
+A coleção Contemporânea possui cerca de 1.500 obras de mais de 30 titulares, parte delas disponibilizada no banco de dados do IMS. São fotografias, vídeos, instalações, livros e objetos que formam um conjunto único da produção contemporânea mais recente.
+Busca na base de dados ►
+Mais sobre o acervo de Arte Contemporânea ►
+Atendimento a pesquisas - Arte Contemporânea
+O processo de liberação de imagens possui etapas, dentre elas, autorização, elaboração de termo de responsabilidade e custos (dependendo da finalidade de uso). O prazo para conclusão dos pedidos é de até 10 dias úteis porém este limite pode se estender conforme a quantidade de itens solicitados e/ou demanda interna.
+Contato
+[email protected]
+(11) 3371-4453
+Ilustração das instalações da Biblioteca de Fotografia do IMS Paulista
+O acervo bibliográfico guardado no IMS Paulista é composto por publicações de e sobre fotografia, contemplando também seus desdobramentos em áreas como cinema, moda, artes visuais, ciências humanas. Além do catálogo de obras gerais, selecionadas pela curadoria, há coleções especiais de nomes como Stefania Bril, Thomaz Farkas, Iatã Cannabrava, Vania Toledo e Steidl.
+Pode-se pesquisar de várias maneiras no acervo bibliográfico: título do livro, autor ou fotógrafo, assunto, nacionalidade ou localidade, tipo de publicação, coleção, editora, ano etc. Assim, é possível encontrar, por exemplo: as edições disponíveis de The Americans , o clássico de Robert Frank; livros de e sobre Henri Cartier-Bresson; títulos sobre fotojornalismo ou história da fotografia; volumes de fotografia da África, do Japão ou que tematizem uma cidade como São Paulo; catálogos de exposição ou fotolivros; a composição das bibliotecas particulares de nomes como Stefania Bril; a produção de editoras específicas; a safra editorial de determinada década; e muito mais.
+Busca na base de dados ►
+Agendar pesquisa ►
+Mais sobre a Biblioteca de Fotografia ►
+Atendimento ao público
+Avenida Paulista, 2424
+São Paulo/SP
+CEP 01310-300
+Atendimento
+Terça a domingo e feriados (exceto segunda) das 10h às 20h. Última admissão: 30 minutos antes do encerramento.
+Contato
+(11) 2842-9132
+[email protected]
+Entrada gratuita, mediante apresentação do comprovante de vacinação e documento oficial com foto.
+Terça a domingo e feriados (exceto segunda) das 10h às 20h, quintas-feiras até às 22h. Última admissão: 30 minutos antes do encerramento.
+Pesquisadores podem garantir seu lugar e solicitar previamente uma pesquisa (mínimo de 24h de antecedência).
+Reserva Técnica de Acervo - RTA. IMS Rio, 2011. Foto de Cristina Zappa. Arquivo Institucional / Acervo IMS
+Estão disponíveis cerca de 8 mil documentos para pesquisa através de buscas livres e avançadas. É possível navegar pelos gêneros sonoro, audiovisual e textual, e explorar de notícias sobre o Acervo até a programação do IMS e cadernos de Santiago Badariotti Merlo.
+Busca na base de dados ►
+Mais sobre o Centro de Memória e Documentação ►
+Atendimento a pesquisas - Centro de Memória e Documentação
+O processo de liberação de imagens possui etapas, dentre elas, autorização, elaboração de termo de responsabilidade e custos (dependendo da finalidade de uso). O prazo para conclusão dos pedidos é de até 10 dias úteis, porém este limite pode se estender conforme a quantidade de itens solicitados e/ou demanda interna.
+IMS Russel
+Rua do Russel, 270
+Rio de Janeiro/RJ
+CEP 22210-010
+Atendimento
+Apenas mediante agendamento , de segunda a sexta-feira, das 10h às 12h30 e das 14h às 17h30.
+Agendamento
+Somente por email:
+[email protected]
+Regulamento da sala de pesquisa ►
+Parque indígena do Xingu, c.1975. Maureen Bisilliat / Acervo IMS
+Estão disponíveis cerca de 40 mil imagens para pesquisas online. Na base de dados a visualização das imagens é de até 200% de ampliação. As alternativas de ação são busca livre; busca avançada; e opções de visualização.
+Busca na base de dados ►
+Mais sobre o acervo de Fotografia ►
+Atendimento a pesquisas - Fotografia
+IMS Russel
+Rua do Russel, 270
+Rio de Janeiro/RJ
+CEP 22210-010
+Atendimento
+Apenas mediante agendamento , de segunda a sexta-feira, das 10h às 12h30 e das 14h às 17h30.
+Agendamento
+Somente por email:
+[email protected]
+Regulamento da sala de pesquisa ►
+Mata virgem, c.1850-1860. Detalhe de grafite e aquarela sobre papel, de Manuel de Araújo Porto-Alegre/ Coleção Martha e Erico Stickel/ Acervo IMS
+Estão disponíveis para pesquisa on-line cerca de 1.800 obras de iconografia brasileira do século XIX. Você pode realizar buscas livres, avançadas, ou navegar pelas categorias mapas, álbuns, imagens e textos. O acesso ao banco de dados oferece uma ferramenta de zoom que permite observar as imagens em detalhes.
+Busca na base de dados ►
+Mais sobre o acervo de Iconografia ►
+Atendimento a pesquisas - Iconografia
+IMS Russel
+Rua do Russel, 270
+Rio de Janeiro/RJ
+CEP 22210-010
+Atendimento
+[… cortado]
+
+## PÁGINA (evento) — https://ims.com.br/acervos/biblioteca-ims-paulista/
+Biblioteca de Fotografia - Instituto Moreira Salles
+Foto de Pedro Vannucchi/IMS
+Avenida Paulista, 2424
+São Paulo/SP - CEP 01310-300
+Atendimento
+Terça a domingo e feriados das 10h às 20h (fechado às segundas)
+Contato
+[email protected]
+A Biblioteca de Fotografia do IMS Paulista é uma iniciativa única no Brasil. Com capacidade para abrigar 30 mil itens, visa a incentivar a pesquisa no campo fotográfico e a colaborar para a compreensão da fotografia nos seus mais diversos modos de expressão. O acervo é composto por publicações de e sobre fotografia, contemplando também seus desdobramentos em áreas como cinema, moda, artes visuais e ciências humanas. Além do catálogo de obras gerais, selecionadas pela curadoria, há coleções especiais de nomes como Stefania Bril, Thomaz Farkas, Iatã Cannabrava, Vania Toledo e Steidl.
+Atendimento ao público
+Entrada gratuita.
+Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Pesquisadores podem garantir lugar e solicitar previamente uma pesquisa, com um mínimo de 24h de antecedência, através do formulário abaixo:
+Agendar pesquisa
+Guarda-volumes
+Só será permitido a entrada nas galerias com mochilas pequenas. Para malas ou volumes maiores use nosso serviço de guarda-volumes localizado no balcão de atendimento no 5º andar.
+Serviço de alerta
+Cadastre-se aqui para receber notificações periódicas quando novos livros com autores, fotógrafos ou assuntos de seu interesse chegarem ao acervo e estiverem disponíveis para consulta.
+Periódicos
+O IMS disponibiliza para consultas online todo o conteúdo da revista Novidades Fotoptica , um dos mais longevos periódicos de fotografia no Brasil, capitaneado por Thomaz Farkas e editada entre 1953 e 1987. Os 136 números da publicação integram a biblioteca pessoal de Thomaz Farkas, parte da qual está guardada na Biblioteca de Fotografia.
+Revista Novidades Fotoptica , n. 58, 1972. Capa com ensaio de Maureen Bisilliat. Acervo da Biblioteca de Fotografia/IMS. © Thomaz Farkas Estate Comércio de Obras de Arte Ltda
+O acervo possui outros periódicos recentes e históricos, além de assinaturas das revistas ZUM , Aperture , FOAM , Exit , British Journal of Photography , Transbordeur , 6 Mois e Artforum . Recursos online dos mesmos estão disponíveis para os usuários nos terminais de consulta.
+Pesquise no acervo
+Pode-se pesquisar de várias maneiras no acervo bibliográfico : título do livro, autor ou fotógrafo, assunto, nacionalidade ou localidade, tipo de publicação, coleção, editora, ano etc.
+Assim, é possível encontrar, por exemplo: livros de e sobre um fotógrafo; títulos sobre fotojornalismo ou história da fotografia; volumes de fotografia de um continente, de um país ou que tematizem uma cidade; catálogos de exposição ou fotolivros; a composição das bibliotecas particulares; a produção de editoras específicas; a safra editorial de determinada década; e muito mais.
+Acesse o banco de dados da Biblioteca
+Foto de Pedro Vannucchi/IMS
+Palavra do curador
+Neste video, o curador Miguel Del Castillo apresenta em linhas gerais o acervo da Biblioteca de Fotografia e as atividades realizadas nesse espaço do IMS Paulista.
+Leia mais sobre a Biblioteca de Fotografia do IMS Paulista
+Vitrine da Biblioteca
+A Biblioteca de Fotografia do IMS Paulista também promove exposições temáticas de fotolivros, relacionadas ou não às exposições em cartaz no centro cultual.
+Convocatória de Fotolivros ZUM/IMS 2026 ►
+7/11/26 a 28/3/27
+Encerradas
+ZineZona ►
+O que elas viram: fotolivros históricos de mulheres, 1843-1999 ►
+Convocatória de Fotolivros ZUM/IMS 2025 ►
+Mirada aos filhos da terra: o livro como território de imagem, memória e resistência dos povos indígenas ►
+Espelho interior: fotolivros e o autorretrato contemporâneo ►
+Convocatória de Fotolivros ZUM/IMS 2024 ►
+Stefania Bril e o livro fotográfico: aproximações críticas ►
+Koudelka como artista do livro ►
+Convocatória de Fotolivros ZUM/IMS 2023 ►
+Áfricas contemporâneas no fotolivro ►
+Convocatória de Fotolivros ZUM/IMS 2022 ►
+Papel, tinta e chumbo ►
+Realidade e corrosão ►
+Convocatória de Fotolivros ZUM/IMS 2021 ►
+Destaques da Coleção Paulo Leite ►
+Indumentárias negras em foco ►
+Destaques da coleção Vania Toledo ►
+Amazônia, de Claudia Andujar e George Love ►
+Fotografia e literatura nos livros de Maureen Bisilliat ►
+O Caso Flávio: revistas e livros ►
+São Paulo no livro fotográfico: 1954-2017 ►
+Fotolivro de cabeceira
+O conteúdo das apresentações do Fotolivro de Cabeceira, série de encontros ocorridos na Biblioteca de Fotografia entre 2019 e 2023 e registrados em vídeo na playlist abaixo, não necessariamente reflete o pensamento institucional do IMS.
+Foto de Pedro Vannucchi/IMS
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+[… cortado]
+
+## PÁGINA (evento) — https://ims.com.br/acervos/centro-de-memoria-e-documentacao/
+Centro de Memória e Documentação - Instituto Moreira Salles
+Exposição William Eggleston: a cor americana . IMS Rio, 2015. Foto de Ailton Silva. Arquivo Institucional / Acervo IMS
+Exposição Aleksandr Ródtchenko: revolução na fotografia . IMS Rio, 2011. Foto de Paulo Jabur. Arquivo Institucional / Acervo IMS
+O Centro de Memória e Documentação (CMD) preserva a história do IMS e de seus protagonistas, acompanhando as mudanças da instituição ao longo de sua trajetória. Tem como objetivos preservar e difundir a memória do instituto, desenvolvendo atividades de processamento documental, história oral e atendimento a pesquisadores. É responsável pelos arquivos Institucional, Walther Moreira Salles, Olavo Redig de Campos e Santiago Badariotti Merlo, Biblioteca Institucional e da coleção de produtos IMS.
+Mais sobre o CMD ►
+Destaques do acervo
+Veja mais ►
+Pesquise no acervo do Centro de Memória e Documentação
+Estão disponíveis cerca de 8 mil documentos para pesquisa através de buscas livres e avançadas. É possível navegar pelos gêneros sonoro, audiovisual e textual, e explorar de notícias sobre o Acervo até a programação do IMS e cadernos de Santiago Badariotti Merlo.
+Busca na base de dados ►
+Olavo Redig de Campos, 1971 | Cadernos de Santiago Badariotti Merlo | Casa Ideal. Cambuí, MG, 1909 / detalhes de imagens do Acervo IMS
+Atendimento a pesquisas
+O processo de liberação de imagens possui etapas, dentre elas, autorização, elaboração de termo de responsabilidade e custos (dependendo da finalidade de uso). O prazo para conclusão dos pedidos é de até 10 dias úteis, porém este limite pode se estender conforme a quantidade de itens solicitados e/ou demanda interna.
+IMS Russel
+Rua do Russel, 270
+Rio de Janeiro/RJ
+CEP 22210-010
+Atendimento
+Apenas mediante agendamento , de segunda a sexta-feira, das 10h às 12h30 e das 14h às 17h30.
+Agendamento
+Somente por email:
+[email protected]
+Regulamento da sala de pesquisa ►
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/acervos/fotografia/
+Fotografia - Instituto Moreira Salles
+Bumba-meu-boi na Festa de São João, 1978. São Luís, Maranhão. Foto de Maureen Bisilliat / Acervo IMS
+Panorama parcial do Rio de Janeiro, c. 1885. Marc Ferrez/ Coleção Gilberto Ferrez/ Acervo IMS
+A motivação do IMS em relação ao campo da fotografia corresponde ao reconhecimento pleno de sua relevância no cenário cultural brasileiro, particularmente no âmbito da memória e da história do país, e também pelo papel primordial da fotografia no campo da comunicação e como plataforma e meio cada vez mais integrado às artes visuais. Compreendendo a necessidade de formação e preservação de acervos nessa área no Brasil, o Instituto Moreira Salles passou a atuar sistematicamente, a partir de 1995, na estruturação de seu acervo fotográfico, hoje uma referência no Brasil e no exterior.
+Leia mais
+Destaques do acervo
+Veja mais
+Por dentro da Fotografia
+Cursos online
+Palavra do coordenador
+https://www.youtube.com/watch?v=u29w72z_b5U
+Sergio Burgi , coordenador de fotografia do IMS, apresenta em conversa do projeto Por dentro do acervo um panorama do vasto acervo fotográfico da instituição, comentando da estrutura física aos destaques principais, além de revisitar a história da fotografia e propor uma reflexão sobre a imagem.
+Pesquise no acervo de Fotografia
+Você pode realizar buscas no amplo conjunto de imagens disponíveis para pesquisas online, cadastrar-se para salvá-las ou enviar sua seleção de imagens, caso deseje utilizá-las. Na base de dados, a visualização das imagens é de até 200% de ampliação. As alternativas de ação são: busca livre, busca avançada, solicitação de uso de imagens e opções de visualização.
+Como pesquisar ►
+Atendimento a pesquisas ►
+Fotos de Marc Ferrez, Maureen Bisilliat, Thomaz Farkas e Chico Albuquerque / Acervo IMS
+Mais sobre fotografia
+Google Arts & Culture
+IMS no Google Arts & Culture
+O Google Arts & Culture é uma plataforma na qual os usuários podem fazer visitas virtuais a exposições de museus do mundo inteiro. O IMS é parceiro do projeto desde 2012, com exposições disponíveis de artistas como Otto Stupakoff, Maureen Bisilliat e José Medeiros, entre outros.
+Revista ZUM
+A ZUM é uma publicação semestral do Instituto Moreira Salles dedicada ao universo fotográfico. A revista veicula ensaios visuais, artigos e entrevistas de artistas e pensadores nacionais e internacionais sobre fotografia e cultura visual e ainda promove a Bolsa de Fotografia ZUM/IMS.
+Brasiliana Fotográfica
+Patrimônio digital
+O site Brasiliana Fotográfica , surgido da união de esforços da Fundação Biblioteca Nacional e do Instituto Moreira Salles, reúne hoje instituições do país e do exterior com acervos originais de documentos fotográficos sobre o Brasil, que ajudam na difusão e reflexão do patrimônio digital.
+Loja IMS Veja mais
+Os americanos
+Os americanos , de Robert Frank, traz 83 fotografias resultantes da viagem do fotógrafo por quase todos os estados dos EUA entre 1955 e 1957. A jornada rendeu mais de 28 mil fotografias, verdadeiros retratos de uma América multifacetada.
+Chichico Alkmim, fotógrafo
+O catálogo da exposição Chichico Alkmim, fotógrafo traz imagens de Diamantina e arredores produzidas pelo fotógrafo mineiro na primeira metade do século XX.
+Corpo a corpo
+Com seis capas diferentes, Corpo a corpo: a disputa das imagens, da fotografia à transmissão ao vivo é o catálogo da exposição homônima, com um recorte da produção brasileira contemporânea em fotografia, cinema e vídeo.
+Marcel Gautherot: Brasília
+O livro reúne 153 imagens feitas por Gautherot entre 1958 e meados da década de 1960, além de ensaios do arquiteto e crítico inglês Kenneth Frampton e do coordenador de fotografia do IMS, Sergio Burgi.
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/acervos/iconografia/
+Iconografia - Instituto Moreira Salles
+Cidade Nova vista do Morro do Livramento, 1825-1826. Aquarela e guache (detalhe) sobre papel de Charles Landseer/ Acervo IMS
+Panorama do Rio de Janeiro tomado do morro do Castelo, c. 1830. Água-forte, água-tinta, aquarela, guache e pochoir sobre papel de Félix Émile Taunay. Auguste Nicolas Nepveu (editor)/Coleção Martha e Erico Stickel/ Acervo IMS
+A área de iconografia do IMS se dedica à pesquisa, à conservação e à difusão de acervos sobre a cultura gráfica brasileira. Reúne desenhos, gravuras e arquivos pessoais de artistas gráficos que ajudam a compor um panorama sobre a história da imagem impressa no Brasil. Seus arquivos e coleções se dividem em dois assuntos principais: uma Brasiliana, voltada para a iconografia brasileira, onde estão incluídas obras realizadas por artistas e naturalistas viajantes, entre eles Charles Landseer, Rugendas, Debret, Von Martius. E outro, voltado para a imprensa ilustrada, com acervos de artistas gráficos como J. Carlos e Millôr Fernandes.
+Leia mais
+Destaques do acervo
+Veja mais
+Por dentro da Iconografia
+Palavra da coordenadora
+A série de palestras Por dentro do acervo colocou o público do IMS Paulista em contato direto com os coordenadores de área do Instituto Moreira Salles, que apresentaram as particularidades de cada área. No quarto encontro, realizado em 9 de junho de 2018, Julia Kovensky , coordenadora de iconografia do IMS, falou sobre alguns dos destaques do acervo, como Johann Moritz Rugendas, Manuel de Araújo Porto-Alegre, Charles Landseer e Carl Friedrich Phillip von Martius, além de abordar os registros de intimidade por Marguerite Tollemache e Franz Joseph Frühbeck, as complexidades do acervo de Millôr Fernandes e o trabalho diário de conservação dos conjuntos.
+https://youtu.be/C7BcZ2dw40Q
+Pesquise no acervo de Iconografia
+Estão disponíveis para pesquisa online obras de iconografia brasileira do século XIX. Você pode realizar buscas livres, avançadas ou navegar pelas categorias mapas, álbuns, imagens e textos. O acesso ao banco de dados oferece a possibilidade de o usuário se cadastrar para salvar sua pesquisa, e uma ferramenta de zoom que permite observar as imagens em detalhes.
+Como pesquisar ►
+Atendimento a pesquisas ►
+Detalhes de obras de J. Carlos, Araújo Porto-Alegre, Von Martius e Luiz Schlappriz / Acervo IMS
+Mais sobre iconografia
+Brasiliana Iconográfica
+Cinco séculos de História
+O portal Brasiliana Iconográfica disponibiliza ao público gravuras, desenhos, pinturas, aquarelas, mapas e impressos que abrangem cinco séculos de história do Brasil. O site é fruto da união do acervo de quatro instituições: Instituto Moreira Salles, Fundação Biblioteca Nacional, Pinacoteca do Estado de São Paulo e Itaú Cultural.
+Glossário de técnicas e processos gráficos e fotográficos do século XIX
+As técnicas de reprodução precisa de imagens, por meio de impressões em gravura e litografia, e posteriormente pela fotografia, moldaram a arte e muitas áreas do conhecimento. Este glossário apresenta muitas destas técnicas que foram a base para o desenvolvimento da comunicação visual.
+Uma memória de Pernambuco
+O IMS guarda 26 das 33 litografias de Memória de Pernambuco – álbum para os amigos das artes , imagens de paisagens, tipos e costumes do Recife do século XIX registrados pelo suíço Luiz Schlappriz.
+Loja IMS Veja mais
+Millôr: obra gráfica
+A publicação reúne 500 desenhos do humorista, dramaturgo e jornalista Millôr Fernandes. Organizado por Cássio Loredano, Julia Kovensky e Paulo Roberto Pires, o livro mapeia os principais temas presentes na produção do artista.
+Millôr 100 + 100
+Frases e desenhos por Millôr Fernandes e selecionados por Cássio Loredano e Sérgio Augusto.
+Charles Landseer
+Desenhos e aquarelas de Portugal e do Brasil – 1825-1826.
+Ukiyo-e: Pintura do mundo flutuante
+Em dois volumes organizados pela professora e artista plástica Madalena Hashimoto, o livro é uma seleção de 155 gravuras ukiyo-e pertencentes ao acervo do Instituto Moreira Salles.
+Os reclames de Fúlvio Pennacchi
+Catálogo que exibe os primórdios da publicidade brasileira, com reprodução de cartazes de propaganda feitos pelo artista italiano radicado em São Paulo.
+Araújo Porto-Alegre: Singular & plural
+Catálogo da exposição homônima que reúne imagens das obras de Porto-Alegre, uma seleção com seus escritos e uma cronologia, além de artigos sobre diversos aspectos da atuação do artista.
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/acervos/literatura/
+Literatura - Instituto Moreira Salles
+Arquivo Carlos Drummond de Andrade / Fundação Casa de Rui Barbosa
+Bilhete de Clarice Lispector para Paulo Mendes Campos. Roma, 1946. Arquivo Paulo Mendes Campos/ Acervo IMS
+A área de Literatura do IMS começa a ser formada em 1994, com a chegada do arquivo do jornalista e escritor Otto Lara Resende. Ao conjunto inaugural somaram-se outros, que oferecem um retalho privilegiado das letras brasileiras, se considerarmos a produção de uma escritora da estatura de Clarice Lispector e de um poeta como Carlos Drummond de Andrade. Com acervo composto de biblioteca com cerca de 30 mil itens e arquivo de aproximadamente 130 mil, a área de Literatura promove exposições, publica livros com material inédito do acervo e contribui com estudos para edições mais bem cuidadas de seus autores, além de editar sites como os de Clarice Lispector e o Correio IMS, que reúne cartas notáveis de representantes de diversos segmentos da cultura brasileira.
+Leia mais
+Destaques do acervo
+Veja mais
+Mais sobre literatura
+IMS no vestibular
+Este projeto apresenta videoaulas sobre grandes clássicos da literatura brasileira, abordando a biografia dos autores e o contexto em que as obras foram publicadas. Além de apoiar estudantes que farão vestibular ou ENEM, o projeto está aberto a todas as pessoas que tenham interesse pela literatura brasileira.
+Cadernos de escritores
+Os mais de cem cadernos de escritores guardados no acervo do IMS mostram o quanto esses itens, cada vez mais raros em nossos dias, serviram no passado de laboratório de criação literária. Esta série em construção revela a singularidade desses documentos e a natureza de seus autores.
+Site dedicado a Carolina Maria de Jesus
+Incluindo biografia ilustrada, informações sobre obras publicadas e manuscritos, além de referências de pesquisas sobre a escritora e muito mais, o site especial criado pelo IMS para a autora de Quarto de despejo foi lançado em 2024.
+Memorias Transfronterizas
+Resultado da colaboração entre o IMS e a organização LGBT+Movimento, o projeto Memorias Transfronterizas reúne depoimentos em vídeo de pessoas migrantes LGBTTQIA+ da América Latina.
+Um site para Clarice Lispector
+O IMS criou um site dedicado à escritora Clarice Lispector. Em suas páginas há uma cronologia ilustrada; obras comentadas; destaques do acervo que está sob a guarda do instituto; duas aulas especialmente preparadas, de José Miguel Wisnik e Nadia Gotlib; e dois ebooks .
+Correio IMS: o site de cartas do IMS
+Guardião de milhares de cartas em seu acervo de Literatura, o Instituto Moreira Salles não podia se furtar a percorrer a história cultural do país por meio das correspondências, pinçadas não só de seu acervo como de outros, disponibilizadas neste Correio IMS.
+Cadernos de Literatura Brasileira
+Os Cadernos de Literatura Brasileira começaram a ser produzidos pelo IMS em 1996, oferecendo volumes centrados em diversos autores fundamentais das nossas letras. Em 16 anos, 27 Cadernos foram impressos. Disponibilizamos em formato digital uma seleção para consulta e leitura.
+O portal disponibiliza mais de 3 mil crônicas publicadas na imprensa brasileira principalmente nos anos 1950 e 1960, época de ouro do gênero, de nomes como Paulo Mendes Campos, Otto Lara Resende e Rubem Braga.
+Pesquise no acervo de Literatura
+Explore a base de dados, que disponibiliza descrições de itens dos Arquivos, além de imagens com o conforto de zoom até 200%. Você pode ler, nessa resolução, as crônicas de Paulo Mendes Campos publicadas na revista Manchete ou ver fotos de Ana Cristina Cesar, Clarice Lispector e Rachel de Queiroz. Surpreenda-se com as dedicatórias de livros transcritas na base de dados da Biblioteca.
+Como pesquisar ►
+Atendimento a pesquisas ►
+Ana Cristina Cesar, Otto Lara Resende, Clarice Lispector e Carlos Drummond de Andrade
+Loja IMS
+Inconfissões: fotobiografia de Ana Cristina Cesar
+Perfil visual da poeta, com fotografias de seu acervo e de acervos pessoais, além de textos escritos por pessoas que a conheceram intimamente e outros que não a conheceram pessoalmente, mas foram de alguma maneira tocados por sua obra.
+Três Ottos por Otto Lara Resende
+Vinte e três textos do escritor mineiro – alguns inéditos – pertencentes ao arquivo do autor.
+Drummond: jogo e confissão
+Coletânea de ensaios de Marlene de Castro Correia , professora emérita da UFRJ, dedicada ao estudo da obra de Drummond.
+Loja online do IMS ►
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/acervos/musica/
+Música - Instituto Moreira Salles
+Partituras de Chiquinha Gonzaga. Arquivo Chiquinha Gonzaga / Acervo IMS
+Abotoaduras que pertenceram a Pixinguinha/ Arquivo Pixinguinha / Acervo IMS
+Inaugurada no início dos anos 2000, a Reserva Técnica Musical do IMS tem hoje sob sua guarda 20 acervos que contemplam importantes documentos de compositores, instrumentistas, pesquisadores e colecionadores, entre eles Chiquinha Gonzaga, Ernesto Nazareth, Pixinguinha, Baden Powell, José Ramos Tinhorão, Edinha Diniz e João Máximo, entre outros nomes. Uma característica comum a esses conjuntos é a grande diversidade de suportes, que incluem desde partituras e gravações musicais preciosas, até livros, fotografias, documentos e registros de programas de rádio e entrevistas. Um conjunto de valor inestimável para a pesquisa musical e musicológica, disponibilizada cada vez mais por meio de novos recursos tecnológicos.
+Leia mais
+Destaques do acervo
+Veja mais
+Por dentro da Música
+Palavra da coordenadora
+Em conversa da série Por dentro do acervo realizada no IMS Paulista em 3 de março de 2018, a coordenadora de Música, Bia Paes Leme , apresenta o trabalho do Instituto Moreira Salles na preservação da memória musical brasileira – tanto a memória oral, guardada no imaginário das pessoas, quanto o material físico, representado por registros em diversos suportes – e esboça um panorama histórico da música no país desde o século XVI.
+https://www.youtube.com/watch?v=Ez6OFxfI-a4
+Pesquise no acervo de Música
+A Reserva Técnica Musical do IMS tem sob sua guarda acervos de compositores, instrumentistas, pesquisadores e colecionadores, todos disponíveis para consulta e pesquisa. São nomes como Chiquinha Gonzaga, Baden Powell, Elizeth Cardoso e José Ramos Tinhorão, entre outros, além de sites especiais.
+Como pesquisar ►
+Atendimento a pesquisas ►
+Coleção de discos de Humberto Franceschi na Reserva Técnica de Acervos do IMS
+Mais sobre música
+Ernesto Nazareth
+O compositor por inteiro
+Criado pelo IMS, o site especial é a maior referência na internet sobre Ernesto Nazareth: discografia completa, todas as gravações de músicas do compositor, biografia, fotos e blog. O alentado projeto envolve vários músicos e pesquisadores, entre eles Alexandre Dias e Paulo Aragão.
+Pixinguinha
+Preciosidades do acervo
+O compositor, instrumentista, arranjador e maestro Alfredo da Rocha Vianna Filho, o Pixinguinha, gênio incontestável da música brasileira, tem seu arquivo pessoal sob a guarda do IMS desde 2000. Veja os destaques do acervo no site especial dedicado ao músico.
+A rádio de internet do IMS
+Música popular brasileira, música clássica, jazz e choro fazem parte da programação da Batuta, a rádio de internet do Instituto Moreira Salles. Programas especiais, feitos pela equipe da rádio ou por convidados, contemplam a obra de artistas sob ângulos variados e mostram pérolas do acervo musical do IMS.
+Shows
+Veja todos no YouTube do IMS
+No dia 6 de agosto de 2017, o IMS Rio apresentou um show comemorando o aniversário de Baden Powell (1937-2000). O compositor, que completaria 80 anos em 2017, foi homenageado por seu filho, o violonista Marcel Powell, e pela cantora Thaís Motta.
+Em 2014, o IMS Rio recriou o espetáculo "Opinião", 50 anos depois, no qual Joyce e o grupo Casuarina tiveram total liberdade para montar seu próprio roteiro e construir os arranjos.
+O show Outras pautas – Pixinguinha em concerto foi realizado pelo IMS em 23 de setembro de 2014, no Teatro João Caetano, para marcar o lançamento das caixas de partituras "Pixinguinha: outras pautas" e "O Carnaval de Pixinguinha".
+Loja IMS Veja mais
+Pixinguinha – Inéditas e redescobertas
+A publicação reúne 20 partituras do compositor, dentre elas nove inéditas e outras 11 há muito tempo inacessíveis ao grande público. A série de partituras inéditas reflete períodos históricos e influências diversas da carreira musical de Pixinguinha.
+Chiquinha Gonzaga – uma história de vida
+Biografia da compositora e maestrina que abriu caminhos e ajudou a definir os rumos da música brasileira. O livro de Edinha Diniz traz cerca de 90 imagens que convidam o leitor a conhecer o Rio de Janeiro da virada do século, além de fotos do acervo da família da artista.
+O enigma do homem célebre: ambição e vocação de Ernesto Nazareth
+Cacá Machado apresenta uma análise dos elementos musicológicos, históricos e literários que envolvem a obra do compositor Ernesto Nazareth.
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/programacao/cinema-2/
+Cinema - Instituto Moreira Salles
+Todos
+Mostras
+Conversas & encontros
+Cursos & oficinas
+Shows
+Ação educativa
+Visitas
+Outros
+Exibir todas
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+
+## PÁGINA (evento) — https://ims.com.br/blog-do-cinema/
+Arquivo Blog do Cinema - Instituto Moreira Salles
+Categorias do Blog do Cinema
+Todos
+Correspondências
+Filmes da semana
+José Geraldo Couto
+Kleber Mendonça Filho
+Nas telas do IMS
+Sessão Cinética
+Sessão Mutual films
+Conversas com Kiarostami: Close-Up
+O crítico Godfrey Cheshire entrevista Abbas Kiarostami sobre seu filme Close-Up , em cartaz no cinema do IMS Paulista em novembro como parte da retrospectiva da obra do cineasta iraniano.
+Nas telas do IMS
+Uma super-8 em mãos negras: o filme doméstico de Odilon Lopez
+Lorenna Rocha escreve sobre o filme que reúne registros familiares e de viagens de Odilon Lopez, parte da Sessão INDETERMINAÇÕES de novembro, em cartaz no cinema do IMS Paulista.
+Nas telas do IMS
+Uma insistência disforme
+Diego Silva Souza escreve sobre os filmes de Odilon Lopez, tema da Sessão INDETERMINAÇÕES de novembro, em cartaz no IMS Paulista.
+Nas telas do IMS
+Art&Tricks: as artimanhas de Odilon Lopez
+Lorenna Rocha e Gabriel Araújo escrevem sobre Art&Tricks: as artimanhas de Odilon Lopez , Sessão INDETERMINAÇÕES em cartaz em novembro no IMS Paulista.
+Nas telas do IMS
+A revista de novembro
+A revista do cinema do IMS traz a programação em cartaz em São Paulo e Poços de Caldas, além de textos sobre filmes e diretores.
+Conseguiu descansar?
+Karol Maia escreve a Carol Rodrigues sobre o filme Criadas , em cartaz no IMS Paulista em outubro.
+Correspondências , Nas telas do IMS
+Como medir essa distância?
+Carol Rodrigues escreve a Karoline Maia sobre o filme Aqui não entra luz , em cartaz no cinema do IMS Paulista em outubro.
+Correspondências , Nas telas do IMS
+A revista de outubro
+A revista do cinema do IMS traz a programação em cartaz em São Paulo e Poços de Caldas, além de textos sobre filmes e diretores.
+Memórias negras e cinema
+Marcell Carrasco e Silvana Marcelina escrevem sobre a mostra Memórias negras: arquivos para o futuro , em cartaz nos cinemas do IMS Paulista e IMS Poços em setembro.
+Nas telas do IMS
+Já era, já é: o desejo pela casa ainda é grande
+Alana Falcão comenta os filmes da Sessão INDETERMINAÇÕES: Ruínas de sangue , em cartaz no cinema do IMS Paulista em setembro
+Nas telas do IMS
+Sobre os acervos ►
+Todos os sites do IMS ►
+Avenida Paulista, 2424
+CEP 01310-300 - São Paulo/SP
+Tel.: (11) 2842-9120
+Horário de visitação: Terça a domingo e feriados das 10h às 20h (fechado às segundas).
+Rua Teresópolis, 90
+CEP 37701-058 - Poços de Caldas/MG
+Tel.: (35) 3722-2776
+Horário de visitação: Terça a sexta das 13h às 19h. Sábado, domingo e feriados das 9h às 19h (fechado às segundas).
+Este site usa cookies para melhorar a sua experiência enquanto navega pelo site. Destes, os cookies que são categorizados como necessários são armazenados no seu navegador, pois são essenciais para o funcionamento das funcionalidades básicas do site. Também usamos cookies de terceiros que nos ajudam a analisar e entender como você usa este site. Esses cookies serão armazenados em seu navegador apenas com o seu consentimento. Você também tem a opção de cancelar esses cookies. Porém, a desativação de alguns desses cookies pode afetar sua experiência de navegação.
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

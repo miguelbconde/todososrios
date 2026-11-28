@@ -1,0 +1,30 @@
+esporte | 2026-12-24 | Corrida Pará Noel | Postinho Do Alto
+esporte | 2026-11-29 | Corrida guiada até ao Pão de Açúcar com pôr do sol no final | Monumento Nacional aos Mortos da Segunda Guerra Mundial
+local secreto ou sem data | 2024-10-04 | Lucky Strangers: As melhores experiências com as melhores pessoas! - Lista de espera | Localização Secreta  Rio de Janeiro
+local secreto ou sem data | 2050-01-01 | The Empire Strips Back: Uma Paródia Burlesca - Lista de espera | Localização Secreta  Rio de Janeiro
+período longo, sem data precisa | 2026-11-28 | Rio Carnaval Expo | Cidade do Samba
+período longo, sem data precisa | 2026-12-05 | Ensaio da Escola de Samba-Salgueiro  | Carnaval Rio de Janeiro | G.R.E.S. Salgueiro
+turismo ou passeio | 2026-11-29 | Passeio no Rio de Janeiro: Trem do Corcovado e Cristo Redentor com guia | Cristo Redentor
+turismo ou passeio | 2026-11-30 | Trem do Corcovado e acesso sem filas ao Cristo Redentor | Corcovado Train
+turismo ou passeio | 2026-11-30 | Estádio do Maracanã: sem filas | Maracanã Stadium
+turismo ou passeio | 2026-11-28 | Explore os bastidores do Carnaval e do samba do Rio | Cidade do Samba
+turismo ou passeio | 2026-11-29 | Acesso prioritário aos bondinhos do Pão de Açúcar | Skip the Line: Fast Pass Ticket Bondinho Pão de Açúcar
+turismo ou passeio | 2026-11-28 | Cristo Redentor sem filas pelo Trem do Corcovado | 
+turismo ou passeio | 2026-11-29 | Pão de Açúcar sem filas: visita guiada | Skip the Line: Fast Pass Ticket Bondinho Pão de Açúcar
+turismo ou passeio | 2026-11-29 | Visita à Lagoa e Parque Lage em scooter elétrica | Av. Ataulfo de Paiva, 1335
+turismo ou passeio | 2026-11-28 | Passeio de vela ao pôr do sol | Marina da Glória
+turismo ou passeio | 2026-11-29 | Pão de Açúcar: caminhada com escalada e subida ao cume | Árabe Urca
+turismo ou passeio | 2026-11-29 | Caminhada desafiadora até à Pedra da Gávea | Estr. Sorimã, 932
+turismo ou passeio | 2026-11-30 | Aulas de capoeira para iniciantes | Praça Nelson Mandela
+turismo ou passeio | 2026-11-28 | Experimente 33 comidas brasileiras incríveis: Carnes, rua, lanches e muito mais | Cook in Rio - Traditional Brazilian Kitchen Cooking Experience
+vale-presente | 2030-01-01 | Ballet of Lights - Cartão-presente | Localização Secreta  Rio de Janeiro
+vale-presente | 2030-01-01 | The Jury Experience - Cartão-presente | Localização Secreta  Rio de Janeiro
+vale-presente | 2024-02-19 | Cartão-Presente Candlelight - Rio de Janeiro | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-03-29 | Eu te amo pai!! - Cartão-presente Special Edition | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-08-21 | Cartão-Presente Fever - Rio de Janeiro | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-03-29 | Obrigado!! - Cartão-presente Special Edition | Localização Secreta  Rio de Janeiro
+vale-presente | 2030-01-01 | The Jazz Room -  Cartão-presente | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-03-29 | Parabéns!! - Cartão-presente Special Edition | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-03-29 | É demais trabalhar com você!! - Cartão-presente Special Edition | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-03-29 | Eu te amo mãe!! - Cartão-presente Special Edition | Localização Secreta  Rio de Janeiro
+vale-presente | 2025-03-29 | Night Pass!! - Cartão-presente Special Edition | Localização Secreta  Rio de Janeiro

@@ -1,0 +1,490 @@
+# F286 | Artur Fidalgo Galeria
+# endereço: https://arturfidalgo.com.br
+# coletado em 2026-11-28 05:57 UTC
+
+## FEED https://www.arturfidalgo.com.br/blog-feed.xml
+- sem data | Uma Certa Memória | https://www.arturfidalgo.com.br/post/uma-certa-mem%C3%B3ria | 01.10 - 13.11.2026 – Emika Takaki
+- sem data | Caleidoscópica | https://www.arturfidalgo.com.br/post/caleidosc%C3%B3pica | 01.10 - 13.11.2026 – Bruno Bogossian
+- sem data | O Engano do Olhar | https://www.arturfidalgo.com.br/post/o-engano-do-olhar | 09.09 - 17.10.2025 – Willy Reuter
+- sem data | A Opacidade do Mundo | https://www.arturfidalgo.com.br/post/a-opacidade-do-mundo-em-exibi%C3%A7%C3%A3o | 09.09 - 17.10.2025 – Lucas Rubly
+- sem data | Aqui e Ali | https://www.arturfidalgo.com.br/post/aqui-e-ali | 22.05 - 04.07.2025 – Agrippina R. Manhattan
+- sem data | Esquecimento Global | https://www.arturfidalgo.com.br/post/esquecimento-global | 13.11 - 13.12.2024 – Guga Ferraz
+- sem data | Avistar | https://www.arturfidalgo.com.br/post/metamorfoses-ambulantes-1 | 13.11 - 13.12.2024 – Franey
+- sem data | Metamorfoses ambulantes | https://www.arturfidalgo.com.br/post/metamorfoses-ambulantes | 11.07 - 16.08.2024 – Zoé Dubus
+- sem data | Cabeças & etc... | https://www.arturfidalgo.com.br/post/cabe%C3%A7as-etc | 09.04 - 30.04.2024 – Mariana Voigt Mascarenhas
+- sem data | Idílio Tropical | https://www.arturfidalgo.com.br/post/id%C3%ADlio-tropical | 09.04 - 30.04.2024 – Danilo Ribeiro
+- sem data | Devaneios | https://www.arturfidalgo.com.br/post/devaneios | 07.11 - 13.12.2023 – Clara Veiga
+- sem data | Sobre a temperança experimental | https://www.arturfidalgo.com.br/post/sobre-a-temperan%C3%A7a-experimental | 22.08 - 18.10.2023 – José Damasceno
+- sem data | Derretendo | https://www.arturfidalgo.com.br/post/derretendo | 18.04 - 31.05.2023 – Fernando de La Rocque
+- sem data | A Superfície do Mundo | https://www.arturfidalgo.com.br/post/a-superf%C3%ADcie-do-mundo | 13.09 - 21.10.2022 – Lilian Camelli
+- sem data | Distante Divino | https://www.arturfidalgo.com.br/post/simba | 13.09 - 21.10.2022 – Simba
+- sem data | André Dahmer | https://www.arturfidalgo.com.br/post/23-06-18-07-2022-andr%C3%A9-dahmer | 23.06 - 18.07.2022 – André Dahmer
+- sem data | Zênite | https://www.arturfidalgo.com.br/post/z%C3%AAnite | 23.06 - 18.07.2022 – Eduardo Scatena
+- sem data | Leila Bokel | https://www.arturfidalgo.com.br/post/leila-bokel | 12 Mai - 09 Jun 2022
+- sem data | Bruno Big Jam Session | https://www.arturfidalgo.com.br/post/bruno-big-jam-session | 12.05 - 09.06.2022 – Bruno Big
+- sem data | Pictopixel | https://www.arturfidalgo.com.br/post/pictopixel | 30 Mar - 30 Abr 2022 – Danilo Ribeiro
+
+## PÁGINA (página inicial) — https://www.arturfidalgo.com.br/
+INÍCIO | arturfidalgogaleria
+top of page
+INÍCIO
+ARTISTAS
+OBRAS
+CONTATO
+EXPOSIÇÕES
+SOBRE
+Mais
+Use tab to navigate through the menu items.
+EMIKA TAKAKI
+ARTISTAS
+.comp-lws7cboa {
+--wix-color-1: 255,255,255;
+--wix-color-2: 250,250,250;
+--wix-color-3: 175,175,175;
+--wix-color-4: 73,73,73;
+--wix-color-5: 40,40,40;
+--wix-color-6: 241,188,171;
+--wix-color-7: 228,152,129;
+--wix-color-8: 0,0,0;
+--wix-color-9: 143,47,19;
+--wix-color-10: 71,24,9;
+--wix-color-11: 211,238,187;
+--wix-color-12: 171,222,126;
+--wix-color-13: 128,166,95;
+--wix-color-14: 85,111,63;
+--wix-color-15: 43,55,32;
+--wix-color-16: 185,201,240;
+--wix-color-17: 148,170,224;
+--wix-color-18: 67,107,209;
+--wix-color-19: 45,71,139;
+--wix-color-20: 22,36,70;
+--wix-color-21: 246,215,224;
+--wix-color-22: 237,178,195;
+--wix-color-23: 178,133,146;
+--wix-color-24: 119,89,97;
+--wix-color-25: 59,44,49;
+--wix-color-26: 255,255,255;
+--wix-color-27: 40,40,40;
+--wix-color-28: 250,250,250;
+--wix-color-29: 175,175,175;
+--wix-color-30: 73,73,73;
+--wix-color-31: 214,71,28;
+--wix-color-32: 0,0,0;
+--wix-color-33: 175,175,175;
+--wix-color-34: 255,255,255;
+--wix-color-35: 40,40,40;
+--wix-color-36: 73,73,73;
+--wix-color-37: 73,73,73;
+--wix-color-38: 0,0,0;
+--wix-color-39: 0,0,0;
+--wix-color-40: 255,255,255;
+--wix-color-41: 255,255,255;
+--wix-color-42: 214,71,28;
+--wix-color-43: 214,71,28;
+--wix-color-44: 175,175,175;
+--wix-color-45: 175,175,175;
+--wix-color-46: 255,255,255;
+--wix-color-47: 255,255,255;
+--wix-color-48: 214,71,28;
+--wix-color-49: 214,71,28;
+--wix-color-50: 214,71,28;
+--wix-color-51: 214,71,28;
+--wix-color-52: 255,255,255;
+--wix-color-53: 255,255,255;
+--wix-color-54: 175,175,175;
+--wix-color-55: 175,175,175;
+--wix-font-Title: normal normal bold 59px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Title-style: normal;
+--wix-font-Title-variant: normal;
+--wix-font-Title-weight: bold;
+--wix-font-Title-size: 59px;
+--wix-font-Title-line-height: 1.4em;
+--wix-font-Title-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Title-text-decoration: none;
+--wix-font-Menu: normal normal normal 14px/1.1em spinnaker,sans-serif;
+--wix-font-Menu-style: normal;
+--wix-font-Menu-variant: normal;
+--wix-font-Menu-weight: normal;
+--wix-font-Menu-size: 14px;
+--wix-font-Menu-line-height: 1.1em;
+--wix-font-Menu-family: spinnaker,sans-serif;
+--wix-font-Menu-text-decoration: none;
+--wix-font-Page-title: normal normal bold 28px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Page-title-style: normal;
+--wix-font-Page-title-variant: normal;
+--wix-font-Page-title-weight: bold;
+--wix-font-Page-title-size: 28px;
+--wix-font-Page-title-line-height: 1.4em;
+--wix-font-Page-title-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Page-title-text-decoration: none;
+--wix-font-Heading-XL: normal normal normal 66px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-XL-style: normal;
+--wix-font-Heading-XL-variant: normal;
+--wix-font-Heading-XL-weight: normal;
+--wix-font-Heading-XL-size: 66px;
+--wix-font-Heading-XL-line-height: 1.4em;
+--wix-font-Heading-XL-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-XL-text-decoration: none;
+--wix-font-Heading-L: normal normal normal 40px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-L-style: normal;
+--wix-font-Heading-L-variant: normal;
+--wix-font-Heading-L-weight: normal;
+--wix-font-Heading-L-size: 40px;
+--wix-font-Heading-L-line-height: 1.4em;
+--wix-font-Heading-L-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-L-text-decoration: none;
+--wix-font-Heading-M: normal normal bold 28px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-M-style: normal;
+--wix-font-Heading-M-variant: normal;
+--wix-font-Heading-M-weight: bold;
+--wix-font-Heading-M-size: 28px;
+--wix-font-Heading-M-line-height: 1.4em;
+--wix-font-Heading-M-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-M-text-decoration: none;
+--wix-font-Heading-S: normal normal normal 15px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-S-style: normal;
+--wix-font-Heading-S-variant: normal;
+--wix-font-Heading-S-weight: normal;
+--wix-font-Heading-S-size: 15px;
+--wix-font-Heading-S-line-height: 1.4em;
+--wix-font-Heading-S-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Heading-S-text-decoration: none;
+--wix-font-Body-L: normal normal normal 15px/1.4em wfont_9e3cff_f7a73f99c33a4dc2b07d2a1634221c72,wf_f7a73f99c33a4dc2b07d2a163,orig_versa_pro_normal;
+--wix-font-Body-L-style: normal;
+--wix-font-Body-L-variant: normal;
+--wix-font-Body-L-weight: normal;
+--wix-font-Body-L-size: 15px;
+--wix-font-Body-L-line-height: 1.4em;
+--wix-font-Body-L-family: wfont_9e3cff_f7a73f99c33a4dc2b07d2a1634221c72,wf_f7a73f99c33a4dc2b07d2a163,orig_versa_pro_normal;
+--wix-font-Body-L-text-decoration: none;
+--wix-font-Body-M: normal normal normal 16px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Body-M-style: normal;
+--wix-font-Body-M-variant: normal;
+--wix-font-Body-M-weight: normal;
+--wix-font-Body-M-size: 16px;
+--wix-font-Body-M-line-height: 1.4em;
+--wix-font-Body-M-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Body-M-text-decoration: none;
+--wix-font-Body-S: normal normal normal 15px/1.4em brandon-grot-w01-light,sans-serif;
+--wix-font-Body-S-style: normal;
+--wix-font-Body-S-variant: normal;
+--wix-font-Body-S-weight: normal;
+--wix-font-Body-S-size: 15px;
+--wix-font-Body-S-line-height: 1.4em;
+--wix-font-Body-S-family: brandon-grot-w01-light,sans-serif;
+--wix-font-Body-S-text-decoration: none;
+--wix-font-Body-XS: normal normal normal 11px/1.3em din-next-w01-light,sans-serif;
+--wix-font-Body-XS-style: normal;
+--wix-font-Body-XS-variant: normal;
+--wix-font-Body-XS-weight: normal;
+--wix-font-Body-XS-size: 11px;
+--wix-font-Body-XS-line-height: 1.3em;
+--wix-font-Body-XS-family: din-next-w01-light,sans-serif;
+--wix-font-Body-XS-text-decoration: none;
+--wix-font-LIGHT: normal normal normal 12px/1.4em HelveticaNeueW01-45Ligh;
+--wix-font-LIGHT-style: normal;
+--wix-font-LIGHT-variant: normal;
+--wix-font-LIGHT-weight: normal;
+--wix-font-LIGHT-size: 12px;
+--wix-font-LIGHT-line-height: 1.4em;
+--wix-font-LIGHT-family: HelveticaNeueW01-45Ligh;
+--wix-font-LIGHT-text-decoration: none;
+--wix-font-MEDIUM: normal normal normal 12px/1.4em HelveticaNeueW01-55Roma;
+--wix-font-MEDIUM-style: normal;
+--wix-font-MEDIUM-variant: normal;
+--wix-font-MEDIUM-weight: normal;
+--wix-font-MEDIUM-size: 12px;
+--wix-font-MEDIUM-line-height: 1.4em;
+--wix-font-MEDIUM-family: HelveticaNeueW01-55Roma;
+--wix-font-MEDIUM-text-decoration: none;
+--wix-font-STRONG: normal normal normal 12px/1.4em HelveticaNeueW01-65Medi;
+--wix-font-STRONG-style: normal;
+--wix-font-STRONG-variant: normal;
+--wix-font-STRONG-weight: normal;
+--wix-font-STRONG-size: 12px;
+--wix-font-STRONG-line-height: 1.4em;
+--wix-font-STRONG-family: HelveticaNeueW01-65Medi;
+--wix-font-STRONG-text-decoration: none;
+--wix-direction: ltr;
+--m_overlayType: 0;
+--overlaySizePercent: 100;
+--videoPlay: 0;
+--newItemsDetails: 1;
+--itemClick: 1;
+--textsVerticalPadding: 6;
+--overlayGradientDegrees: 0;
+--gridStyle: 1;
+--previewHover: 0;
+--expandInfoPosition: 0;
+--overlaySizeType: 0;
+--titleDescriptionSpace: 12;
+--gallerySize: 48;
+--te-padding-slider: 50;
+--m_designedPresetId: -1;
+--newItemsLocation: 0;
+--scrollDirection: 0;
+--m_imageMargin: 23;
+--overlayAnimation: 1;
+--collageDensity: 80;
+--m_overlayAnimation: 0;
+--loveCounter: 1;
+--galleryLayout: 2;
+--scrollAnimation: 3;
+--numberOfImagesPerRow: 3;
+--galleryVerticalAlign: 0;
+--imageHoverAnimation: 4;
+--arrowsVerticalPosition: 0;
+--galleryHorizontalAlign: 0;
+--m_imageResize: 0;
+--imageResize: 0;
+--designedPresetId: -1;
+--m_overlayGradientDegrees: 180;
+--imageMargin: 40;
+--overlayType: 1;
+--m_galleryAlignExpand: 0;
+--textsHorizontalPadding: 9;
+--overlayPosition: 2;
+--textFont: normal normal normal 20px/1.4em brandon-grot-w01-light,sans-serif;
+--m_itemIconColorSlideshow: 40,40,40;
+--m_itemIconColorSlideshow-rgb: 40,40,40;
+--m_itemIconColorSlideshow-opacity: 1;
+--m_itemDescriptionFontColor: 255,255,255;
+--m_itemDescriptionFontColor-rgb: 255,255,255;
+--m_itemDescriptionFontColor-opacity: 1;
+--m_itemBorderColor: 40,40,40;
+--m_itemBorderColor-rgb: 40,40,40;
+--m_itemBorderColor-opacity: 1;
+--itemIconColor: 255,255,255;
+--itemIconColor-rgb: 255,255,255;
+--itemIconColor-opacity: 1;
+--titleColorExpand: 40,40,40;
+--titleColorExpand-rgb: 40,40,40;
+--titleColorExpand-opacity: 1;
+--loadMoreButtonFontColor: 40,40,40;
+--loadMoreButtonFontColor-rgb: 40,40,40;
+--loadMoreButtonFontColor-opacity: 1;
+--itemDescriptionFontColor: 255,255,255;
+--itemDescriptionFontColor-rgb: 255,255,255;
+--itemDescriptionFontColor-opacity: 1;
+--m_customButtonFontColor: 255,255,255;
+--m_customButtonFontColor-rgb: 255,255,255;
+--m_customButtonFontColor-opacity: 1;
+--m_overlayGradientColor1: 73,73,73,0.01;
+--m_overlayGradientColor1-rgb: 73,73,73;
+--m_overlayGradientColor1-opacity: 0.01;
+--m_arrowsColor: 255,255,255;
+--m_arrowsColor-rgb: 255,255,255;
+--m_arrowsColor-opacity: 1;
+--arrowsContainerBackgroundColor: 40,40,40,0.6;
+--arrowsContainerBackgroundColor-rgb: 40,40,40;
+--arrowsContainerBackgroundColor-opacity: 0.6;
+--m_externalCustomButtonColor: 0,0,0,0;
+--m_externalCustomButtonColor-rgb: 0,0,0;
+--m_externalCustomButtonColor-opacity: 0;
+--customButtonBorderColor: 255,255,255;
+--customButtonBorderColor-rgb: 255,255,255;
+--customButtonBorderColor-opacity: 1;
+--m_customButtonFontColorForHover: 40,40,40;
+--m_customButtonFontColorForHover-rgb: 40,40,40;
+--m_customButtonFontColorForHover-opacity: 1;
+--m_titleColorExpand: 40,40,40;
+--m_titleColorExpand-rgb: 40,40,40;
+--m_titleColorExpand-opacity: 1;
+--m_itemOpacity: 73,73,73,0.3;
+--m_itemOpacity-rgb: 73,73,73;
+--m_itemOpacity-opacity: 0.3;
+--m_backgroundGradientColor2: 0,0,0,0.5;
+--m_backgroundGradientColor2-rgb: 0,0,0;
+--m_backgroundGradientColor2-opacity: 0.5;
+--textBoxFillColor: 250,250,250;
+--textBoxFillColor-rgb: 250,250,250;
+--textBoxFillColor-opacity: 1;
+--backgroundGradientColor2: 0,0,0,0.5;
+--backgroundGradientColor2-rgb: 0,0,0;
+--backgroundGradientColor2-opacity: 0.5;
+--itemOpacity: 40,40,40,0.49;
+--itemOpacity-rgb: 40,40,40;
+--itemOpacity-opacity: 0.49;
+--loadMoreButtonColor: 255,255,255;
+--loadMoreButtonColor-rgb: 255,255,255;
+--loadMoreButtonColor-opacity: 1;
+--m_itemFontColor: 255,255,255;
+--m_itemFontColor-rgb: 255,255,255;
+--m_itemFontColor-opacity: 1;
+--m_arrowsContainerBackgroundColor: 40,40,40,0.6;
+--m_arrowsContainerBackgroundColor-rgb: 40,40,40;
+--m_arrowsContainerBackgroundColor-opacity: 0.6;
+--loadMoreButtonBorderColor: 40,40,40;
+--loadMoreButtonBorderColor-rgb: 40,40,40;
+--loadMoreButtonBorderColor-opacity: 1;
+--m_itemShadowOpacityAndColor: 40,40,40,0.2;
+--m_itemShadowOpacityAndColor-rgb: 40,40,40;
+--m_itemShadowOpacityAndColor-opacity: 0.2;
+--customButtonFontColor: 255,255,255;
+--customButtonFontColor-rgb: 255,255,255;
+--customButtonFontColor-opacity: 1;
+--imageLoadingColor: 250,250,250;
+--imageLoadingColor-rgb: 250,250,250;
+--imageLoadingColor-opacity: 1;
+--m_itemFontColorSlideshow: 40,40,40;
+--m_itemFontColorSlideshow-rgb: 40,40,40;
+--m_itemFontColorSlideshow-opacity: 1;
+--externalCustomButtonBorderColor: 40,40,40;
+--externalCustomButtonBorderColor-rgb: 40,40,40;
+--externalCustomButtonBorderColor-opacity: 1;
+--itemShadowOpacityAndColor: 40,40,40,0.2;
+--itemShadowOpacityAndColor-rgb: 40,40,40;
+--itemShadowOpacityAndColor-opacity: 0.2;
+--externalCustomButtonColor: 0,0,0,0;
+--externalCustomButtonColor-rgb: 0,0,0;
+--externalCustomButtonColor-opacity: 0;
+--itemFontColorSlideshow: 40,40,40;
+--itemFontColorSlideshow-rgb: 40,40,40;
+--itemFontColorSlideshow-opacity: 1;
+--itemFontColor: 255,255,255;
+--itemFontColor-rgb: 255,255,255;
+--itemFontColor-opacity: 1;
+--m_oneColorAnimationColor: 255,255,255;
+--m_oneColorAnimationColor-rgb: 255,255,255;
+--m_oneColorAnimationColor-opacity: 1;
+--m_actionsColorExpand: 40,40,40;
+--m_actionsColorExpand-rgb: 40,40,40;
+--m_actionsColorExpand-opacity: 1;
+--arrowsColor: 255,255,255;
+--arrowsColor-rgb: 255,255,255;
+--arrowsColor-opacity: 1;
+--m_itemIconColor: 255,255,255;
+--m_itemIconColor-rgb: 255,255,255;
+--m_itemIconColor-opacity: 1;
+--itemBorderColor: 40,40,40;
+--itemBorderColor-rgb: 40,40,40;
+--itemBorderColor-opacity: 1;
+--m_loadMoreButtonBorderColor: 40,40,40;
+--m_loadMoreButtonBorderColor-rgb: 40,40,40;
+--m_loadMoreButtonBorderColor-opacity: 1;
+--m_loadMoreButtonColor: 255,255,255;
+--m_loadMoreButtonColor-rgb: 255,255,255;
+--m_loadMoreButtonColor-opacity: 1;
+--backgroundGradientColor1: 255,255,255,0.5;
+--backgroundGradientColor1-rgb: 255,255,255;
+--backgroundGradientColor1-opacity: 0.5;
+--m_customButtonBorderColor: 255,255,255;
+--m_customButtonBorderColor-rgb: 255,255,255;
+--m_customButtonBorderColor-opacity: 1;
+--m_backgroundGradientColor1: 255,255,255,0.5;
+--m_backgroundGradientColor1-rgb: 255,255,255;
+--m_backgroundGradientColor1-opacity: 0.5;
+--itemIconColorSlideshow: 40,40,40;
+--itemIconColorSlideshow-rgb: 40,40,40;
+--itemIconColorSlideshow-opacity: 1;
+--foreColor: 250,250,250;
+--foreColor-rgb: 250,250,250;
+--foreColor-opacity: 1;
+--m_itemDescriptionFontColorSlideshow: 40,40,40;
+--m_itemDescriptionFontColorSlideshow-rgb: 40,40,40;
+--m_itemDescriptionFontColorSlideshow-opacity: 1;
+--bgColorExpand: 255,255,255;
+--bgColorExpand-rgb: 255,255,255;
+--bgColorExpand-opacity: 1;
+--textBoxBorderColor: 40,40,40;
+--textBoxBorderColor-rgb: 40,40,40;
+--textBoxBorderColor-opacity: 1;
+--customButtonFontColorForHover: 40,40,40;
+--customButtonFontColorForHover-rgb: 40,40,40;
+--customButtonFontColorForHover-opacity: 1;
+--m_loadMoreButtonFontColor: 40,40,40;
+--m_loadMoreButtonFontColor-rgb: 40,40,40;
+--m_loadMoreButtonFontColor-opacity: 1;
+--customButtonColor: 255,255,255,0;
+--customButtonColor-rgb: 255,255,255;
+--customButtonColor-opacity: 0;
+--descriptionColorExpand: 40,40,40;
+--descriptionColorExpand-rgb: 40,40,40;
+--descriptionColorExpand-opacity: 1;
+--m_bgColorExpand: 255,255,255;
+--m_bgColorExpand-rgb: 255,255,255;
+--m_bgColorExpand-opacity: 1;
+--actionsColorExpand: 40,40,40;
+--actionsColorExpand-rgb: 40,40,40;
+--actionsColorExpand-opacity: 1;
+[… cortado]
+
+## PÁGINA (listagem: indicada no cadastro) — https://www.arturfidalgo.com.br/blog
+EXPOSIÇÕES | arturfidalgogaleria
+top of page
+INÍCIO
+ARTISTAS
+OBRAS
+CONTATO
+EXPOSIÇÕES
+SOBRE
+Mais
+Use tab to navigate through the menu items.
+Todas
+Exposições
+Feiras
+Armazém
+Uma Certa Memória
+01.10 - 13.11.2026 – Emika Takaki
+Caleidoscópica
+01.10 - 13.11.2026 – Bruno Bogossian
+O Engano do Olhar
+09.09 - 17.10.2025 – Willy Reuter
+Contato
++55 21 3042 8426
++55 21 96565 1923
+contato@arturfidalgo.com.br
+Endereço
+R. Siqueira Campos 143 — 2° piso — loja 1
+Copacabana, Rio de Janeiro, RJ
+CEP 22031-900
+Horário de funcionamento
+SEG. A SEX.
+10H - 13H
+14H - 19H
+Termos de Uso
+bottom of page
+[… cortado]
+
+## PÁGINA (listagem: EXPOSIÇÕES) — https://www.arturfidalgo.com.br/blog
+EXPOSIÇÕES | arturfidalgogaleria
+top of page
+INÍCIO
+ARTISTAS
+OBRAS
+CONTATO
+EXPOSIÇÕES
+SOBRE
+Mais
+Use tab to navigate through the menu items.
+Todas
+Exposições
+Feiras
+Armazém
+Uma Certa Memória
+01.10 - 13.11.2026 – Emika Takaki
+Caleidoscópica
+01.10 - 13.11.2026 – Bruno Bogossian
+O Engano do Olhar
+09.09 - 17.10.2025 – Willy Reuter
+Contato
++55 21 3042 8426
++55 21 96565 1923
+contato@arturfidalgo.com.br
+Endereço
+R. Siqueira Campos 143 — 2° piso — loja 1
+Copacabana, Rio de Janeiro, RJ
+CEP 22031-900
+Horário de funcionamento
+SEG. A SEX.
+10H - 13H
+14H - 19H
+Termos de Uso
+bottom of page
+
+## PÁGINA (evento) — https://www.arturfidalgo.com.br/blog/categories/feiras
+Feiras
+
+## PÁGINA (evento) — https://www.arturfidalgo.com.br/post/o-engano-do-olhar
+O Engano do Olhar
+[… cortado]

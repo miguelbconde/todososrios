@@ -1,0 +1,52 @@
+{
+ "feito_em": "2026-11-28T06:06:59Z",
+ "sesc": {
+  "paginas": 61,
+  "eventos_no_rio_em_cartaz": 13,
+  "eventos_no_rio_ja_encerrados": 266,
+  "linhas": 25,
+  "fora": {
+   "já passou": 43
+  },
+  "falhas": []
+ },
+ "arte_que_acontece": {
+  "exposicoes_no_rio": 12,
+  "falhas": []
+ },
+ "concerto": {
+  "dias_lidos": 63,
+  "dias_com_rio": 26,
+  "apresentacoes_no_rio": 65,
+  "falhas": []
+ },
+ "riotur": {
+  "paginas_no_site": 2852,
+  "paginas_do_ultimo_ano": 2392,
+  "baixadas_hoje": 25,
+  "adiadas_para_a_proxima_ronda": 0,
+  "sem_data_no_texto": 340,
+  "eventos_na_janela": 89,
+  "provavelmente_fora": 11,
+  "falhas": []
+ },
+ "bilheteria_digital": {
+  "eventos_no_rj": 51,
+  "na_cidade_do_rio": 40,
+  "lidos": 40,
+  "falhas": []
+ },
+ "allevents": {
+  "eventos_lidos": 194,
+  "na_janela": 77,
+  "provavelmente_fora": 28,
+  "ja_lidos_pela_fever": 33,
+  "fora_da_cidade": 7,
+  "falhas": []
+ },
+ "visitrio": {
+  "materias_lidas": 40,
+  "com_datas_a_frente": 10,
+  "falhas": []
+ }
+}

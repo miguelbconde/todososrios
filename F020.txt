@@ -1,0 +1,1567 @@
+# F020 | Centro Cultural Correios RJ
+# endereço: https://correios.com.br
+# coletado em 2026-11-28 05:54 UTC
+
+## FEED https://www.correios.com.br/RSS
+- 2026-11-26 | CLOVIS BALBINO DE GOES - 26.11.2026 | https://www.correios.com.br/acesso-a-informacao/servidores/editais-de-notificacao-empregados/clovis-balbino-de-goes-26-11.2026 | 
+- 2026-11-24 | WENDERSON CAFE SANTOS - 24.11.2026 | https://www.correios.com.br/acesso-a-informacao/servidores/editais-de-notificacao-empregados/wenderson-cafe-santos-24-11.2026 | 
+- 2026-11-24 | JEAN MARCEL DA SILVA CALSING - 24.11.2026 | https://www.correios.com.br/acesso-a-informacao/servidores/editais-de-notificacao-empregados/jean-marcel-da-silva-calsing-24-11.2026 | 
+- 2026-11-17 | Correios Celular - Black Friday | https://www.correios.com.br/home-page-2024/banner-principal/correios-celular-black-friday | Correios Celular - Black Friday
+- 2026-11-12 | JUAN VICENTE DA SILVA - 12-11-2026 | https://www.correios.com.br/acesso-a-informacao/servidores/editais-de-notificacao-empregados/juan-vicente-da-silva-12-11-2026 | 
+- 2026-11-05 | DANILO ALVARO DE SOUSA REIS - 05-11-2026 | https://www.correios.com.br/acesso-a-informacao/servidores/editais-de-notificacao-empregados/danilo-alvaro-de-sousa-reis-05-11-2026 | 
+- 2026-11-05 | COMUNICADO 13/11/2026 / Complementação de Faixas de CEP - Caso Fortuito / Força Maior – Interrupção de Linhas Aéreas | https://www.correios.com.br/central-de-informacoes/boletim-aos-clientes/copy4_of_comunicado-05-11-2026-interrupcao-de-linhas-aereas | Informamos o reconhecimento de caso fortuito/força maior em razão da interrupção das operações da Total Linhas Aéreas, determinada pela Agência Nacional de Aviação Civil – ANAC, conforme estabelecido na Decisão nº 755, de 01 de setembro de 2026, e no Ofício nº 980/2026/GAB-ANAC.
+- 2026-11-05 | COMUNICADO 05/11/2026 / Comunicação de caso Fortuito / Força Maior – Interrupção de Linhas Aéreas | https://www.correios.com.br/central-de-informacoes/boletim-aos-clientes/copy3_of_comunicado-05-11-2026-interrupcao-de-linhas-aereas | Informamos o reconhecimento de caso fortuito/força maior em razão da interrupção das operações da Total Linhas Aéreas, determinada pela Agência Nacional de Aviação Civil – ANAC, conforme estabelecido na Decisão nº 755, de 01 de setembro de 2026, e no Ofício nº 980/2026/GAB-ANAC.
+- 2026-11-05 | Papai Noel dos Correios | https://www.correios.com.br/home-page-2024/banner-principal/papai-noel-dos-correios-2 | Papai Noel dos Correios 2026
+- 2026-11-04 | COMUNICADO 04/11/2026 / Envios para os EUA normalizados e a pré-postagem para o país já está disponível. | https://www.correios.com.br/central-de-informacoes/boletim-aos-clientes/copy2_of_comunicado-04-11-2026-envio-para-os-eua-normalizados | Após o anúncio das mudanças nas regras de importação dos Estados Unidos, os Correios iniciaram as adequações necessárias para restabelecer os envios do Exporta Fácil ao país.
+- 2026-11-03 | 2026 | https://www.correios.com.br/acesso-a-informacao/institucional/publicacoes/atas-de-reunioes/assembleia-geral-extraordinaria/2026 | 
+- 2026-11-01 | Shopee | https://www.correios.com.br/afiliados/shopee | 
+- 2026-11-01 | Aliexpress | https://www.correios.com.br/afiliados/aliexpress | 
+- 2026-10-29 | Mais Correios | https://www.correios.com.br/afiliados/mais-correios | 
+- 2026-10-29 | Afiliados | https://www.correios.com.br/afiliados | 
+
+## FEED https://www.correios.com.br/rss.xml
+- 2026-11-26 | CLOVIS BALBINO DE GOES - 26.11.2026 |  | 
+- 2026-11-24 | WENDERSON CAFE SANTOS - 24.11.2026 |  | 
+- 2026-11-24 | JEAN MARCEL DA SILVA CALSING - 24.11.2026 |  | 
+- 2026-11-17 | Correios Celular - Black Friday |  | Correios Celular - Black Friday
+- 2026-11-12 | JUAN VICENTE DA SILVA - 12-11-2026 |  | 
+- 2026-11-05 | DANILO ALVARO DE SOUSA REIS - 05-11-2026 |  | 
+- 2026-11-05 | COMUNICADO 13/11/2026 / Complementação de Faixas de CEP - Caso Fortuito / Força Maior – Interrupção de Linhas Aéreas |  | Informamos o reconhecimento de caso fortuito/força maior em razão da interrupção das operações da Total Linhas Aéreas, determinada pela Agência Nacional de Aviação Civil – ANAC, conforme estabelecido na Decisão nº 755, de 01 de setembro de 2026, e no Ofício nº 980/2026/GAB-ANAC.
+- 2026-11-05 | COMUNICADO 05/11/2026 / Comunicação de caso Fortuito / Força Maior – Interrupção de Linhas Aéreas |  | Informamos o reconhecimento de caso fortuito/força maior em razão da interrupção das operações da Total Linhas Aéreas, determinada pela Agência Nacional de Aviação Civil – ANAC, conforme estabelecido na Decisão nº 755, de 01 de setembro de 2026, e no Ofício nº 980/2026/GAB-ANAC.
+- 2026-11-05 | Papai Noel dos Correios |  | Papai Noel dos Correios 2026
+- 2026-11-04 | COMUNICADO 04/11/2026 / Envios para os EUA normalizados e a pré-postagem para o país já está disponível. |  | Após o anúncio das mudanças nas regras de importação dos Estados Unidos, os Correios iniciaram as adequações necessárias para restabelecer os envios do Exporta Fácil ao país.
+- 2026-11-03 | 2026 |  | 
+- 2026-10-31 | Shopee |  | 
+- 2026-10-31 | Aliexpress |  | 
+- 2026-10-29 | Mais Correios |  | 
+- 2026-10-29 | Afiliados |  | 
+
+## PÁGINA (página inicial) — https://www.correios.com.br/
+Correios
+Navegação
+Toggle navigation
+Página Inicial
+Enviar
+Receber
+Comprar
+Logística
+Atendimento
+Acesso à Informação
+Acessibilidade
+Alto Contraste
+Saiba mais sobre Acessibilidade
+Enviar
+Sedex Hoje
+Sua entrega em poucas horas!
+Conheça mais sobre o Sedex
+Encomendas
+Nacional
+Internacional
+Correspondência
+Envio Nacional e Internacional de Correspondências - Carta, Telegrama e Serviços Postais
+Tarifas
+Dinheiro
+Envio de Dinheiro Seguro e Prático | Vale Postal Correios
+Marketing Direto
+Soluções de Marketing Direto Impresso dos Correios
+Precisa de Ajuda?
+Como contratar os Correios
+Como endereçar suas encomendas
+Como endereçar suas correspondências
+Como embalar corretamente suas encomendas
+Correios de A a Z
+Tudo sobre CEP
+Proibições e Restrições
+Receber
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça mais sobre o Sedex
+Encomendas
+Nacional
+Internacional
+Dinheiro
+Precisa de Ajuda?
+Como contratar os Correios
+Como endereçar suas encomendas
+Como endereçar suas correspondências
+Como embalar corretamente suas encomendas
+Correios de A a Z
+Tudo sobre CEP
+Proibições e Restrições
+Comprar
+Mais Correios
+Últimas semanas de descontos no Mais Correios!
+Clique e compre
+Loja online
+E-Carta Fácil / Telegrama / Cupom Resposta
+E-DNE
+Comprar Selos e Embalagens
+Correios Celular
+Recarga Correios Celular
+Chip Virtual Correios Celular (eSIM)
+Conheça os nossos Planos
+Correios Certifica
+Certificado Digital
+Mais Correios
+Eletrodomésticos
+Celulares e Smartphones
+Tv e Vídeo
+Informática
+Casa, Móveis e Decorações
+Seguros
+Seguros
+Logística
+Log Saúde
+Logística completa e personalizada
+Conheça mais sobre o Log Saúde.
+Logística
+Logística para e-Commerce / Suprimentos / Customizada
+Precisa de Ajuda?
+Como contratar os Correios
+Como endereçar suas encomendas
+Como endereçar suas correspondências
+Como embalar corretamente suas encomendas
+Correios de A a Z
+Tudo sobre CEP
+Atendimento
+Seguros
+Você Mais Seguro! Para tornar sua vida mais tranquila.
+Acesse aqui e conheça mais sobre o Você Mais Seguro
+Balcão do Cidadão
+Emita seu CPF
+Consulte Restrição CPF ou CNPJ
+Acesse Serasa Limpa Nome
+Certificado Digital
+Achados e Perdidos
+Título de Capitalização
+Atendimento Presencial Telefônicas
+Soluções Financeiras
+Inscreva-se em Diversos Cursos
+Contrate seu Plano Odontológico
+Protocolo - Órgãos Judiciais
+Mais Serviços Por Estado ou Região
+Seguros
+Ferramentas
+Sistemas dos Correios
+Aplicativos dos Correios
+Meu Correios
+Correios Empresas
+Acompanhe seu contrato
+Faça seu contrato on-line
+Desenvolvedores
+Desenvolvedores
+Testers
+Correios Aqui
+Ponto de Coleta / Correios Modular
+Acesso à Informação
+Carteira Imobiliária dos Correios
+Conheça os imóveis dos Correios disponíveis em todo território nacional nas modalidades Licitação/Leilão, Venda Direta e Outorga/Cessão.
+Clique e saiba mais
+Institucional
+Ações e Programas
+Participação Social
+Auditorias
+Convênios e Transferências
+Receitas e Despesas
+Licitações e Contratos
+Servidores
+Informações Classificadas
+Serviço de Informação ao Cidadão - SIC
+Perguntas Frequentes
+Dados Abertos
+Transparência e Governança
+Faça Login
+ou Cadastre-se
+Meu Correios
+Correios Empresas
+Busca
+Busca
+apenas nesta seção
+Busca Avançada…
+Navegação
+Enviar
+Receber
+Comprar
+Logística
+Atendimento
+Acesso à Informação
+Você está aqui:
+Página Inicial
+Acompanhe seu Objeto
+Preços e Prazos
+Comprar no Mais Correios
+App Correios
+Busca CEP ou Endereço
+Correios Empresas
+Desconfiou de fraude?
+Minhas Importações
+Encontre sua agência
+Loja
+Pré Postagem
+Preços e Prazos Internacionais
+Correios Aqui - Seja um Parceiro
+Sala de Imprensa
+Filatelia
+Central de Atendimento
+•
+•
+•
+Agilize suas postagens no site ou app Correios!
+E entregue sua encomenda em uma de nossas agências.
+Origem
+Destino
+Altura (A)
+Largura (L)
+Comprimento (C)
+Calcular Frete
+Simule aqui outros serviços.
+Quer agilidade na hora de postar sua encomenda?
+Faça aqui no site ou app Correios e entregue em uma de nossas agências.
+*Valores exclusivos para postagem pelo site ou APP e sujeitos a revisão em caso de divergência nas dimensões informadas. Clique em prosseguir para garantir os descontos.
+Calcular novamente
+Prosseguir com a postagem
+Sua loja pode ser um Ponto de Coleta dos Correios
+Seja parceiro dos Correios. Transforme seu estabelecimento em um Ponto de Coleta: amplie as oportunidades do seu negócio oferecendo serviços
+de recebimento e entrega de encomendas dos Correios.
+Clique e saiba mais sobre o Ponto de Coleta
+Últimas notícias
+Correios reforça operação para a Black Friday
+Brasília – Os Correios operam normalmente em todo o país nesta sexta-feira (27) e reforçaram sua estrutura para atender ao aumento do volume de encomendas …
+...
+27 de Novembro de 2026 18h23
+Correios credencia novos Pontos de Coleta no estado de São Paulo
+Oportunidade de parceria é voltada a lojistas e proprietários de casas lotéricas de municípios do Alto Tietê, da Baixada Santista, do sudoeste da Grande São …</p ...
+26 de Novembro de 2026 15h06
+MÊS DA CONSCIÊNCIA NEGRA| Selo lançado na Serra da Barriga (AL) encerra a série Patrimônios Negros do Brasil
+Da Casa de Oxumarê à Greve dos Jangadeiros e à trajetória de Mãe Bernadete, quatro emissões dos Correios percorrem histórias da memória negra no Brasil. Jovens se d ...
+24 de Novembro de 2026 23h23
+O caminho das provas do Enem 2026 pelo Brasil
+Em dois dias de aplicação, os Correios entregaram mais de 10 milhões de cadernos de prova. Para chegar a alguns municípios, foi preciso navegar por rios ou seguir d ...
+18 de Novembro de 2026 17h39
+COMUNICADO 13/11/2026 / Complementação de Faixas de CEP - Caso Fortuito / Força Maior – Interrupção de Linhas Aéreas
+Informamos o reconhecimento de caso fortuito/força maior em razão da interrupção das operações da Total Linhas Aéreas, determinada pela Agência Nacional de Aviação Civil – ANAC, conforme estabelecido na Decisão nº 755, de 01 de setembro de 2026, e no Ofício nº 980/2026/GAB-ANAC.
+05 de Novembro de 2026 16h40
+COMUNICADO 05/11/2026 / Comunicação de caso Fortuito / Força Maior – Interrupção de Linhas Aéreas
+Informamos o reconhecimento de caso fortuito/força maior em razão da interrupção das operações da Total Linhas Aéreas, determinada pela Agência Nacional de Aviação Civil – ANAC, conforme estabelecido na Decisão nº 755, de 01 de setembro de 2026, e no Ofício nº 980/2026/GAB-ANAC.
+05 de Novembro de 2026 16h40
+Quer saber mais?
+Este é o seu ponto de acesso às principais notícias sobre os Correios.
+Confira comunicados oficiais, matérias especiais e informações sobre nossos projetos, serviços e iniciativas em todo o país.
+Fique por dentro e saiba como os Correios seguem conectando pessoas, negócios e histórias todos os dias.
+Boletim aos Clientes
+Sala de Imprensa
+Blog dos Correios
+Programa de Renegociação de Dívidas com os Correios
+O programa oferece possibilidades como redução de 100% dos juros de mora, isenção da cobrança da multa ou parcelamento em até 60 vezes do valor da dívida corrigida, entre outras vantagens!
+Clique aqui e conheça o Programa de Renegociação de Dívidas
+Correios Celular
+Adquira seu chip e conheça todas as vantagens de navegar com os Correios.
+Clique e acesse o Correios Celular
+Atendimento Comercial
+Vantagens exclusivas, preços diferenciados, ferramentas gratuitas e muito mais.
+Quero falar com um consultor!
+Certificado Digital
+Sua assinatura digital de forma rápida com a qualidade e confiança dos Correios.
+Clique e acesse o Certificado Digital
+Sedex, a encomenda líder do Brasil!
+Procurando confiança, qualidade e agilidade no seu envio? Vá de Sedex! O líder de entregas expressas no país. Os Correios possuem um Sedex para cada necessidade. Pensou encomenda, pensou Sedex!
+Conheça o Sedex Hoje
+Conheça o Sedex 10
+Conheça o Sedex 12
+Best Friday no Mais Correios
+Aproveite preços especiais para comprar o que você precisa e garantir boas oportunidades
+Aproveite as ofertas
+Filatelia
+Emissão Postal Comemorativa: Natal 2026
+Conheça!
+Acesso rápido
+Preços e Prazos
+Comprar no Mais Correios
+App Correios
+Busca CEP ou Endereço
+Correios Empresas
+Desconfiou de fraude?
+Minhas Importações
+Encontre sua agência
+Loja
+Pré Postagem
+Preços e Prazos Internacionais
+Correios Aqui - Seja um Parceiro
+Sala de Imprensa
+Filatelia
+Central de Atendimento
+•
+•
+•
+Fale Conosco
+Registro de manifestações
+Central de atendimento
+Soluções para o seu negócio
+Suporte ao cliente com contrato
+Ouvidoria
+Denúncia
+Segurança
+Sobre os Correios
+Identidade corporativa
+Educação e cultura
+Código de Conduta Ética e Integridade
+Transparência e prestação de contas
+Sustentabilidade
+Minha Privacidade nos Correios
+Mapa do Site
+Informações
+Postalis
+Postal Saúde
+Ministério das Comunicações
+Carta de Serviço ao Usuário
+SEI - Protocolo Eletrônico
+Acesso à Informação
+Loja on Line
+Siga os Correios
+Youtube
+Instagram
+Facebook
+Linkedin
+Tik Tok
+Flickr - Correios
+Twitter Correios
+Aplicativos Correios
+Aplicativo Correios - Apple
+Aplicativo Correios - Android
+© Copyright 2026 Correios
+CNPJ 34.028.316/0001-03
+Você está sendo redirecionado para um site externo. Verifique os termos e condições do novo site.
+O que deseja fazer?
+Cancelar
+Ir para o site externo
+Olá, eu sou a Carol! Em que posso ajudar?
+X
+Coletamos cookies exclusivamente com a finalidade de manter estatísticas de experiência dos clientes.
+As informações coletadas são anonimizadas, de forma que não identificam os usuários que efetuam o acesso.
+Ao utilizar este site, você concorda com a nossa política de monitoramento de cookies.
+Para maiores informações, consulte nossa
+Política de Privacidade e Notas Legais .
+Aceito
+
+## PÁGINA (listagem: Ações e Programas) — https://www.correios.com.br/acesso-a-informacao/acoes-e-programas
+Ações e Programas — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+https://www.correios.com.br/acesso-a-informacao/acoes-e-programas
+https://www.correios.com.br/@@site-logo/correios.svg
+Nesta seção, são divulgadas informações pertinentes aos programas, ações, projetos e atividades implementadas pelos Correios.
+A empresa não desenvolve programas, ações, projetos e atividades que resultem em renúncias de receitas.
+Saiba mais
+Programas financiados pelo Fundo de Amparo ao Trabalhador – FAT
+Os Correios não desenvolvem programas, ações, projetos e atividades financiados pelo FAT.
+Carta de Serviços
+Soluções postais e logísticas acessíveis, confiáveis e competitivas.
+Conheça a Carta de Serviços
+Indicadores e Resultados
+Nosso desempenho na meta de universalização e na prestação dos serviços postais brasileiros.
+Conheça os indicadores e resultados
+Planos Estratégico, Plurianual e Ações
+Acesse as informações do Plano Estratégico, Plano Plurianual, principais programas, projetos e ações.
+© Copyright 2026 Correios
+CNPJ 34.028.316/0001-03
+
+## PÁGINA (listagem: Clique aqui e conheça o Programa de Renegociação de Dívidas) — https://www.correios.com.br/central-de-informacoes/boletim-aos-clientes/programa-de-renegociacao-de-dividas-dos-correios
+Programa de Renegociação de Dívidas dos Correios — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Programa de Renegociação de Dívidas dos Correios
+Central de Informações
+Boletim aos Clientes
+Programa de Renegociação de Dívidas dos Correios
+Programa de Renegociação de Dívidas dos Correios
+O programa oferece vantagens como redução de 100% dos juros de mora, isenção da cobrança da multa ou parcelamento em até 60 vezes do valor da dívida corrigida
+https://www.correios.com.br/central-de-informacoes/boletim-aos-clientes/programa-de-renegociacao-de-dividas-dos-correios
+https://www.correios.com.br/@@site-logo/correios.svg
+Programa de Renegociação de Dívidas dos Correios
+O programa oferece vantagens como redução de 100% dos juros de mora, isenção da cobrança da multa ou parcelamento em até 60 vezes do valor da dívida corrigida
+O programa oferece vantagens como redução de 100% dos juros de mora, isenção da cobrança da multa ou parcelamento em até 60 vezes do valor da dívida corrigida, entre outras – mediante análise e nas condições publicadas no edital.
+Veja a seguir os requisitos para adesão:
+Data/prazo para adesão:
+O programa terá vigência de 180 dias a partir da publicação no Diário Oficial da União, podendo ser prorrogado por igual período.
+Perfil do público-alvo:
+Devedores de créditos cíveis dos Correios, principalmente os decorrentes de faturas comerciais.
+Valores passíveis de renegociação:
+Para os créditos cobrados pela via judicial, não há limitação de valores para renegociação.
+Para os créditos de pequeno valor cobrados na via administrativa, o conjunto de faturas cobradas na via administrativa não podem ultrapassar R$ 10.000,00 (dez mil reais) para o mesmo devedor até a data de publicação do acordo no Diário Oficial da União (DOU).
+Vantagem de adesão:
+Com a adesão, o devedor poderá liquidar os débitos nas seguintes modalidades:
+I - pagamento à vista e em dinheiro do total do valor da dívida corrigida monetariamente pelo IPCA-E, a contar do vencimento do débito originário até a data da adesão ao programa, com redução de 100% (cem por cento) dos juros de mora e isenção da cobrança da multa prevista nos contratos, acrescidos de honorários advocatícios de 10% (dez por cento);
+II - parcelamento em até 60 (sessenta) vezes do valor da dívida corrigida monetariamente pelo IPCA-E, a contar do vencimento do débito originário até a data da adesão ao programa, com redução de 100% (cem por cento) dos juros de mora e isenção da cobrança da multa prevista nos contratos, acrescidos de honorários advocatícios de 10% (dez por cento);
+§1º Para os créditos de pequeno valor, cobrados administrativamente, não haverá acréscimo de honorários advocatícios.
+§2º Não será concedido desconto de quaisquer outras multas que não aquelas previstas no presente artigo.
+§3º O valor de cada prestação mensal referentes à opção II será acrescido de juros proporcionais a 12,5% (doze vírgula cinco por cento) ao ano.
+§4º O valor de cada parcela não poderá ser inferior a R$ 100,00 (cem reais);
+Canal de atendimento:
+A adesão ao PRAECT 3 dar-se-á mediante TERMO DE ADESÃO E INSTRUMENTO DE ACORDO (Anexo I) a ser protocolado pela parte interessada na respectiva sede da Superintendência Estadual da ECT (ou da Administração Central da ECT caso o processo seja conduzido por esta área), localizada na correspondente jurisdição do Juízo em que tramite o feito, ou na Central de Serviços Financeiros - CEFIN ( Anexo II ), por meio dos canais de atendimento instituídos para este fim.
+Mais informações podem ser obtidas na íntegra da publicação no Diário Oficial da União .
+© Copyright 2026 Correios
+CNPJ 34.028.316/0001-03
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/encomendas/nacional/nacional
+Envios pelos Correios: Encomendas — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Envios pelos Correios: Encomendas
+Envie suas encomendas com segurança e rapidez pelos Correios! Escolha entre SEDEX, PAC e Correios Mini Envios, consulte prazos e preços, faça pré-postagem e acompanhe suas entregas.
+https://www.correios.com.br/enviar/encomendas/nacional
+https://www.correios.com.br/@@site-logo/correios.svg
+Envios pelos Correios: Encomendas
+Envie suas encomendas com segurança e rapidez pelos Correios! Escolha entre SEDEX, PAC e Correios Mini Envios, consulte prazos e preços, faça pré-postagem e acompanhe suas entregas.
+A escolha confiável para atender às suas necessidades de entrega
+Envie seu pacote com rapidez e eficiência . O SEDEX é a escolha certa para seus envios, seja para presentes de aniversário, documentos importantes ou produtos para seus clientes. Para cada necessidade, temos um SEDEX .
+Oferecemos qualidade, abrangência e segurança para garantir que sua encomenda chegue ao destino.
+Clique aqui e faça sua postagem online com preços diferenciados.
+Leve seu pacote até uma de nossas agências, tenha um atendimento ágil e ganhe tempo! Envie seu pacote agora mesmo!
+*Verifique aqui a disponibilidade do serviço para a sua cidade.
+Os prazos podem variar conforme condições operacionais.
+Saiba mais sobre o Sedex
+O que é o serviço?
+Produto de encomenda da Linha Expressa para o envio de mercadorias e documentos.
+Atributos do serviço
+a) Inerentes ao produto principal:
+I - Entrega Domiciliar;
+II - Devolução garantida;
+III - Indenização automática;
+IV - Registro;
+V - Rastreamento.
+b) Produtos exclusivos para clientes com contrato:
+I - Transporte de Armas;
+II - Transporte de Material Biológico;
+III - SEDEX Grandes Formatos;
+IV - Logística Reversa.
+c) Produtos Adicionais:
+I - Aviso de Recebimento (AR) Convencional, Digital e Eletrônico;
+II - Coleta Programada (apenas clientes com contrato);
+III - Devolução de Documento (DD) (apenas clientes com contrato);
+IV - Coleta Agendada (apenas clientes com contrato);
+V - Mão Própria (MP);
+VI - Posta Restante Pedida (apenas para Logística Reversa);
+VII - Valor Declarado (VD);
+VIII - Entrega no Vizinho;
+IX - Coleta no Mesmo Dia (apenas clientes com contrato);
+X – Comprovante Eletrônico de Entrega (CEE);
+XII – Locker (para as encomendas destinadas ao Locker ou a Caixa de Correio Inteligente não é permitida a contratação de serviços adicionais que necessitam de assinatura do destinatário, como: Aviso de Recebimento, Devolução de Documento e Mão Própria);
+XIII – Pagamento na Entrega.
+Quem pode solicitar
+Pessoas físicas e jurídicas, com ou sem contrato.
+Como solicitar o serviço
+O serviço pode ser solicitado:
+• Presencialmente, em agências dos Correios;
+• Por meio de sistemas de pré-postagem e contratos, quando aplicável;
+• Pontos de coleta e Locker.
+Disponível em todo território nacional.
+Documentos e requisitos necessários
+• Documento de identificação do remetente (CPF, CNPJ ou Passaporte (estrangeiro);
+• Informações completas do destinatário (nome, CPF/CNPJ e/ou e-mail, número do celular, com DDD);
+• Nota Fiscal ou Declaração de Conteúdo, quando exigido pela legislação vigente
+Formatos, Dimensões e Peso
+a) Envelope:
+• dimensões mínimas (C x L): 16 cm x 11 cm;
+• maior dimensão (C ou L): 60 cm.
+Obs.: Se o envelope possuir uma altura superior a 2 cm a encomenda deve ser mensurada como pacote.
+b) Pacote:
+• dimensões mínimas (C x L x A): Grandes Postagens (PLP): 11 cm x 6 cm x 0,4 cm;
+• maior dimensão (C ou L ou A): 100 cm;
+• soma máxima das dimensões (C + L + A): 200 cm
+c) Rolo:
+• menor dimensão de comprimento: 18 cm;
+• maior dimensão de comprimento: 100 cm;
+• menor dimensão de diâmetro: 5 cm;
+• maior dimensão de diâmetro: 91 cm;
+• soma mínima das dimensões [C + (2 x Diâmetro)]: 28 cm;
+• soma máxima das dimensões [C + (2 x Diâmetro)]: 200 cm
+d) Quando destinado a Locker:
+• Comprimento (C): 47 cm;
+• Largura (L): 31 cm;
+• Altura (A): 27 cm;
+e) Peso:
+• 30 kg;
+Condições de Aceitação
+As orientações completas quanto ao acondicionamento e as embalagens podem ser consultadas no Guia Técnico de Embalagens
+Principais etapas do serviço
+- Pré postagem (APP ou PPN);
+- Postagem da encomenda em unidade dos Correios ou Unidade Operacional dos Correios ou via sistema habilitado;
+- Tratamento e triagem do objeto;
+- Transporte prioritário;
+- Distribuição e entrega ao destinatário.
+Prazo máximo para a prestação do serviço
+A entrega da encomenda SEDEX ocorre em prazo variável, conforme as localidades de origem e destino.
+Previsão de prazo:
+O prazo de entrega é calculado em dias úteis, contado a partir do primeiro dia útil seguinte ao da postagem e não excede o prazo máximo informado no momento da contratação do serviço, conforme consulta prévia no sistema oficial de preços e prazos dos Correios .
+Os prazos:
+• variam conforme a localidade;
+• não consideram sábados, domingos e feriados nacionais;
+• podem sofrer acréscimo de 1 (um) dia útil quando a postagem ocorrer após o horário limite da unidade.
+O prazo máximo é previamente conhecido, informado ao usuário e vinculante, atendendo ao art. 7º, §2º, IV, da Lei nº 13.460/2017.
+Formas de entrega
+a) Entrega domiciliar;
+b) Entrega interna:
+- Agências dos Correios - via Clique e Retire e Caixa Postal através do Busca Agência
+- Locker : permite o envio e retirada de encomendas em armários inteligentes dos Correios (Locker), sem cobrança adicional no envio, na devolução e na entrega;
+- Caixa de Correio Inteligente ;
+- Entrega no Vizinho .
+Preços
+O valor da postagem varia conforme o peso e as localidades de origem e destino da remessa, acrescido do valor referente aos produtos adicionais eventualmente adquiridos.
+Os preços podem ser simulados no portal dos Correios :
+Forma de acompanhamento da solicitação
+O acompanhamento da entrega da encomenda pode ser realizado por meio do código de rastreamento (informado no momento da postagem ao remetente) via site oficial dos Correios , que permite consultar:
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/encomendas/nacional
+Envios pelos Correios: Encomendas — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Envios pelos Correios: Encomendas
+Envie suas encomendas com segurança e rapidez pelos Correios! Escolha entre SEDEX, PAC e Correios Mini Envios, consulte prazos e preços, faça pré-postagem e acompanhe suas entregas.
+https://www.correios.com.br/enviar/encomendas/nacional
+https://www.correios.com.br/@@site-logo/correios.svg
+Envios pelos Correios: Encomendas
+Envie suas encomendas com segurança e rapidez pelos Correios! Escolha entre SEDEX, PAC e Correios Mini Envios, consulte prazos e preços, faça pré-postagem e acompanhe suas entregas.
+A escolha confiável para atender às suas necessidades de entrega
+Envie seu pacote com rapidez e eficiência . O SEDEX é a escolha certa para seus envios, seja para presentes de aniversário, documentos importantes ou produtos para seus clientes. Para cada necessidade, temos um SEDEX .
+Oferecemos qualidade, abrangência e segurança para garantir que sua encomenda chegue ao destino.
+Clique aqui e faça sua postagem online com preços diferenciados.
+Leve seu pacote até uma de nossas agências, tenha um atendimento ágil e ganhe tempo! Envie seu pacote agora mesmo!
+*Verifique aqui a disponibilidade do serviço para a sua cidade.
+Os prazos podem variar conforme condições operacionais.
+Saiba mais sobre o Sedex
+O que é o serviço?
+Produto de encomenda da Linha Expressa para o envio de mercadorias e documentos.
+Atributos do serviço
+a) Inerentes ao produto principal:
+I - Entrega Domiciliar;
+II - Devolução garantida;
+III - Indenização automática;
+IV - Registro;
+V - Rastreamento.
+b) Produtos exclusivos para clientes com contrato:
+I - Transporte de Armas;
+II - Transporte de Material Biológico;
+III - SEDEX Grandes Formatos;
+IV - Logística Reversa.
+c) Produtos Adicionais:
+I - Aviso de Recebimento (AR) Convencional, Digital e Eletrônico;
+II - Coleta Programada (apenas clientes com contrato);
+III - Devolução de Documento (DD) (apenas clientes com contrato);
+IV - Coleta Agendada (apenas clientes com contrato);
+V - Mão Própria (MP);
+VI - Posta Restante Pedida (apenas para Logística Reversa);
+VII - Valor Declarado (VD);
+VIII - Entrega no Vizinho;
+IX - Coleta no Mesmo Dia (apenas clientes com contrato);
+X – Comprovante Eletrônico de Entrega (CEE);
+XII – Locker (para as encomendas destinadas ao Locker ou a Caixa de Correio Inteligente não é permitida a contratação de serviços adicionais que necessitam de assinatura do destinatário, como: Aviso de Recebimento, Devolução de Documento e Mão Própria);
+XIII – Pagamento na Entrega.
+Quem pode solicitar
+Pessoas físicas e jurídicas, com ou sem contrato.
+Como solicitar o serviço
+O serviço pode ser solicitado:
+• Presencialmente, em agências dos Correios;
+• Por meio de sistemas de pré-postagem e contratos, quando aplicável;
+• Pontos de coleta e Locker.
+Disponível em todo território nacional.
+Documentos e requisitos necessários
+• Documento de identificação do remetente (CPF, CNPJ ou Passaporte (estrangeiro);
+• Informações completas do destinatário (nome, CPF/CNPJ e/ou e-mail, número do celular, com DDD);
+• Nota Fiscal ou Declaração de Conteúdo, quando exigido pela legislação vigente
+Formatos, Dimensões e Peso
+a) Envelope:
+• dimensões mínimas (C x L): 16 cm x 11 cm;
+• maior dimensão (C ou L): 60 cm.
+Obs.: Se o envelope possuir uma altura superior a 2 cm a encomenda deve ser mensurada como pacote.
+b) Pacote:
+• dimensões mínimas (C x L x A): Grandes Postagens (PLP): 11 cm x 6 cm x 0,4 cm;
+• maior dimensão (C ou L ou A): 100 cm;
+• soma máxima das dimensões (C + L + A): 200 cm
+c) Rolo:
+• menor dimensão de comprimento: 18 cm;
+• maior dimensão de comprimento: 100 cm;
+• menor dimensão de diâmetro: 5 cm;
+• maior dimensão de diâmetro: 91 cm;
+• soma mínima das dimensões [C + (2 x Diâmetro)]: 28 cm;
+• soma máxima das dimensões [C + (2 x Diâmetro)]: 200 cm
+d) Quando destinado a Locker:
+• Comprimento (C): 47 cm;
+• Largura (L): 31 cm;
+• Altura (A): 27 cm;
+e) Peso:
+• 30 kg;
+Condições de Aceitação
+As orientações completas quanto ao acondicionamento e as embalagens podem ser consultadas no Guia Técnico de Embalagens
+Principais etapas do serviço
+- Pré postagem (APP ou PPN);
+- Postagem da encomenda em unidade dos Correios ou Unidade Operacional dos Correios ou via sistema habilitado;
+- Tratamento e triagem do objeto;
+- Transporte prioritário;
+- Distribuição e entrega ao destinatário.
+Prazo máximo para a prestação do serviço
+A entrega da encomenda SEDEX ocorre em prazo variável, conforme as localidades de origem e destino.
+Previsão de prazo:
+O prazo de entrega é calculado em dias úteis, contado a partir do primeiro dia útil seguinte ao da postagem e não excede o prazo máximo informado no momento da contratação do serviço, conforme consulta prévia no sistema oficial de preços e prazos dos Correios .
+Os prazos:
+• variam conforme a localidade;
+• não consideram sábados, domingos e feriados nacionais;
+• podem sofrer acréscimo de 1 (um) dia útil quando a postagem ocorrer após o horário limite da unidade.
+O prazo máximo é previamente conhecido, informado ao usuário e vinculante, atendendo ao art. 7º, §2º, IV, da Lei nº 13.460/2017.
+Formas de entrega
+a) Entrega domiciliar;
+b) Entrega interna:
+- Agências dos Correios - via Clique e Retire e Caixa Postal através do Busca Agência
+- Locker : permite o envio e retirada de encomendas em armários inteligentes dos Correios (Locker), sem cobrança adicional no envio, na devolução e na entrega;
+- Caixa de Correio Inteligente ;
+- Entrega no Vizinho .
+Preços
+O valor da postagem varia conforme o peso e as localidades de origem e destino da remessa, acrescido do valor referente aos produtos adicionais eventualmente adquiridos.
+Os preços podem ser simulados no portal dos Correios :
+Forma de acompanhamento da solicitação
+O acompanhamento da entrega da encomenda pode ser realizado por meio do código de rastreamento (informado no momento da postagem ao remetente) via site oficial dos Correios , que permite consultar:
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/encomendas/internacional
+Envio Internacional de Encomendas | Exporta Fácil | Correios — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Envio Internacional de Encomendas | Exporta Fácil | Correios
+Envie suas encomendas para vários lugares do mundo com os Correios! Utilize o Exporta Fácil e outros serviços internacionais para um envio rápido, seguro e rastreável.
+https://www.correios.com.br/enviar/encomendas/internacional
+https://www.correios.com.br/@@site-logo/correios.svg
+Envio Internacional de Encomendas | Exporta Fácil | Correios
+Envie suas encomendas para vários lugares do mundo com os Correios! Utilize o Exporta Fácil e outros serviços internacionais para um envio rápido, seguro e rastreável.
+Precisa enviar um envelope ou pacote com até 30kg? Exporta Fácil
+Limites e Dimensões
+Veja quais serviços adicionais estão disponíveis para seu envio internacional
+Formulário e documentos necessários
+- Para qualquer destino:
+Conhecimento de Embarque ( Formulário de postagem - CP72/AWB ). Gerado automaticamente na postagem.
+Nota Fiscal.
+Fatura Comercial ( Commercial Invoice )
+Outros documentos podem ser acrescentados de acordo com a solicitação do importador, ou exigências da aduana de origem ou destino. Exemplos: Certificado de origem, licença de exportação, visa têxtil (carimbo).
+Alguns destinos não aceitam objetos específicos. Por isso, recomendamos realizar consulta às restrições específicas de cada país, no site da UPU - União Postal Universal .
+- Registro de exportação:
+É obrigatório quando o valor da remessa internacional ultrapassar 1.000 dólares ou quando tratar-se de Exportação Temporária e Bagagem Desacompanhada, independentemente do valor. Em consonância com a Portaria COANA-RFB no 82 , publicada em 18/10/2017, o registro das exportações comerciais cursadas pelo Exporta Fácil poderá́ ser realizado nas seguintes hipóteses:
+Desembaraço
+Valor do bem
+Observações
+Lista de Remessa
+Até US$1.000 ou equivalente*
+Pessoa Física, jurídica, produtor rural, artesão, artista ou assemelhado, contanto que não seja nem Exportação Temporária nem Bagagem.
+Declaração Única de Exportação (DU-E).
+Qualquer valor
+Exportação Temporária e Bagagem de qualquer valor e qualquer exportação acima de US$ 1.000,00 ou equivalente.
+O Auditor responsável pelo desembaraço aduaneiro poderá aplicar a hipótese de desembaraço mais adequada para o envio da exportação.
+Guia de Exportação Temporária (.pdf 524Kb) ;
+Formulário de declaração do viajante (.ods 17Kb);
+Termo de Condições Gerais de Prestação dos Serviços Internacionais de Exportação (.pdf 401Kb)
+Termo de Serviço para Envio DDP (.pdf 280Kb)
+Etiqueta - Encomendas com Líquidos (.pdf 374kb)
+Consultoria Internacional
+Os Correios colocam à sua disposição uma equipe altamente capacitada, pronta para auxiliá-lo em todas as etapas da exportação.
+Solicite uma consultoria internacional
+Ficou com alguma dúvida sobre exportação?
+1. Prazo para retirada de encomendas.
+Clique aqui
+2. Enviar um presente para um amigo ou parente para fora do Brasil, é uma exportação?
+Sim. Exportação refere-se a toda atividade de venda, envio ou doação de produtos, bens e serviços de um determinado país para outro. Basicamente, significa a saída de um item ou serviço nacional com destino a outro país.
+3. O que é o Exporta fácil?
+O Exporta Fácil é um conjunto de serviços dos Correios de remessas com até 30Kg, que oferecem facilidade para empresas e pessoas físicas (artesãos, agricultores etc.) que desejam exportar seus produtos de maneira mais simples.
+4. É possível realizar uma pré-postagem na exportação?
+Sim. Realizar uma pré-postagem é rápido e fácil através da plataforma Minhas Exportações - MEXPO .
+Caso tenha alguma dúvida sobre a plataforma Minhas Exportações, ou gostaria de conhecer um pouco mais sobre o sistema, acesse aqui .
+5. O que são e como envio "Amostras" para exterior?
+Amostras são remessas sem cobertura cambial de fragmentos ou partes de qualquer mercadoria; em quantidade estritamente necessária para se conhecer sua natureza, espécie ou quantidade a possíveis interessados ou compradores.
+Somente poderá ser enviado por pessoa jurídica ou física (somente artesão, artista ou assemelhado, registrado em órgão específico como profissional autônomo e agricultores ou pecuaristas, registrados no Instituto Nacional de Colonização e Reforma Agrária - INCRA). O cliente poderá utilizar qualquer um dos serviços internacionais disponíveis no portfólio.
+Documentos necessários para o envio de amostras são:
+- Nota fiscal dos produtos;
+- Formulário de postagem AWB Airwaybill, gerado automaticamente na postagem.
+- Declaração Única de Exportação - DUE (quando o valor for superior a USD 1.000,00)
+- Certificado de Origem Form A - Documento necessário para a solicitação do tratamento preferencial e comprovação de origem da mercadoria exportada junto às alfândegas dos países outorgantes do Sistema Geral de Preferências (SGP).
+6. Os correios também realizam o desembaraço da mercadoria no exterior?
+Não. Os correios providenciam o desembaraço no Brasil das remessas destinadas ao exterior. O desembaraço alfandegário no exterior é realizado diretamente entre o destinatário/importador e a alfândega do país de destino.
+7. O que é a retenção de uma mercadoria na alfândega de destino?
+Mercadoria retida na alfândega significa que ela está temporariamente sob responsabilidade da aduana do país de destino para averiguação física e de documentos. Ao chegar ao destino, as remessas são submetidas a um procedimento formal de desalfandegamento - por determinação legal. As tratativas são realizadas diretamente entre o destinatário e a alfândega local no destino. Não há a possibilidade de intervenção dos Correios ou da Administração Postal de destino.
+Poderá ainda, ocorrer cobrança de tributos de importação e/ou outros valores de acordo com a legislação de cada país.
+8. O que é uma Exportação Temporária?
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/correspondencia/correspondencias
+Envio Nacional e Internacional de Correspondências - Carta, Telegrama e Serviços Postais — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Envie suas correspondências com segurança e agilidade pelos Correios! Utilize Carta, Telegrama, e-Carta e outros serviços postais com entrega confiável e rastreamento.
+https://www.correios.com.br/enviar/correspondencia
+https://www.correios.com.br/@@site-logo/correios.svg
+Envie suas correspondências com segurança e agilidade pelos Correios! Utilize Carta, Telegrama, e-Carta e outros serviços postais com entrega confiável e rastreamento.
+e-Carta
+Revolucione o envio dos seus documentos importantes com o e-Carta, uma solução inovadora e sustentável que traz eficiência em todas as etapas, desde a captação digital até a entrega física. Vencedor do prêmio de Melhor Alternativa de Entrega no World Post and Parcel Awards 2024 , o e-Carta garante confiança e pontualidade.
+Com o e-Carta, os Correios cuidam de toda a operação, integrando tecnologia, impressão, acabamento e entrega, em parceria com fornecedores especializados, facilitando o envio das suas correspondências. Modernize sua comunicação formal com uma solução híbrida e completa, que começa no digital e se transforma em uma entrega física. O futuro da comunicação formal está aqui.
+Envie agora!
+Carta Comercial
+É destinada ao envio de correspondências por pessoas jurídicas ou entidades inscritas no Cadastro Nacional da Pessoa Jurídica - CNPJ do Ministério da Fazenda, conforme previsto na Portaria do MCOM.
+Também é considerada Carta Comercial aquela que apresentar pelo menos um dos seguintes elementos: Remetente anônimo;
+Envelope com timbre ou qualquer outro indicativo de pessoa jurídica ou de entidade com CNPJ.
+Ideal para empresas e instituições que desejam manter uma comunicação formal, segura e institucionalizada.
+Escolha a Carta Comercial e fortaleça a imagem profissional da sua organização!
+Telegrama
+Envie seu telegrama de forma fácil e prática! Use a internet, telefone ou vá até uma agência. Sua mensagem com entrega garantida em até 4 horas para qualquer lugar do Brasil.
+- Envie seu telegrama agora pela internet e garanta uma entrega rápida e segura!
+- Se já tem contrato, envie seu Telegrama aqui!
+Carta
+Ideal para mensagens particulares, oficiais ou confidenciais, nossa solução é perfeita para convites e ocasiões especiais.
+Disponível apenas para pessoas físicas, com identificação obrigatória do remetente e pagamento à vista.
+Experimente agora e assegure uma comunicação segura e exclusiva!
+Carta Social
+Pagando apenas um centavo, os cadastrados no programa Bolsa Família e seus dependentes, assim como brasileiros e estrangeiros presos e custodiados, podem manter contato com parentes e amigos de forma fácil e humanizada.
+Aproveite essa oportunidade e mantenha-se conectado com quem você ama!
+Saiba mais sobre o e-Carta
+Se interessou pelo e-Carta? Descubra como ele funciona!
+Modalidades
+e-Carta Fácil: Ideal para empresas que precisam enviar pequenos ou médios volumes de correspondências com simplicidade, utilizando sistemas web
+intuitivos e ágeis.
+e-Carta Transmissão: Oferece flexibilidade na personalização dos leiautes para volumes médios. Recomendado para empresas que enfrentam variações
+sazonais em suas necessidades de postagem.
+e-Carta Integração: A solução perfeita para grandes volumes. Permite integração com sistemas internos, oferecendo flexibilidade e personalização avançada
+de leiautes, além de controle sobre cada envio.
+Conheça o processo
+Captação Eletrônica: O processo começa com a captação dos arquivos eletrônicos diretamente do sistema do cliente ou através de interfaces web
+simplificadas, garantindo segurança e integridade das informações desde o início.
+Impressão e Envelopamento: Após a captação, os documentos são impressos e envelopados em uma das Unidades de Produção dos Correios,
+estrategicamente localizadas para otimizar a distribuição, garantindo qualidade e precisão em cada detalhe.
+Postagem e Distribuição: Os documentos são postados e distribuídos por toda a rede dos Correios, assegurando que cheguem ao destino final com
+segurança e dentro dos prazos acordados.
+Retorno de Informações: O e-Carta Integração oferece acompanhamento em tempo real e feedback sobre o status de seus envios, permitindo uma gestão
+eficaz das correspondências.
+Confirmação de Entrega: A confirmação de entrega é opcional e garantida por Avisos de Recebimento (AR), que asseguram que seus documentos foram
+entregues no destino correto.
+Serviços Adicionais
+Aviso de Recebimento: Disponível para todas as modalidades em modelos específicos, essa opção assegura a confirmação de entrega no destino correto,
+ideal para documentos que exigem maior controle.
+Registro Nacional: Garante o rastreamento dos envios em território nacional, proporcionando maior segurança e controle sobre suas correspondências.
+Interrupção do Tratamento Eletrônico: Exclusivo para as modalidades e-Carta Integração e e-Carta Transmissão, permite interromper o tratamento
+eletrônico das mensagens conforme a necessidade do cliente.
+Devolução Eletrônica: Sem custos adicionais, este serviço permite a devolução eletrônica dos dados dos objetos não entregues, oferecendo agilidade e
+segurança na gestão de suas correspondências.
+Formas de Pagamento
+À Faturar: Disponível para todas as modalidades, mediante contrato, exclusivo para Pessoa Jurídica. Para contratar, entre em contato com a área comercial
+dos Correios.
+À Vista: Disponível apenas para a modalidade e-Carta Fácil.
+Saiba mais detalhes
+O que é o serviço?
+Entrega de comunicação impressa a pessoas físicas e jurídicas em todo o Brasil, que contenha informação de interesse específico do destinatário, com o envio da mensagem eletrônica pelo remetente e a impressão realizada pelos Correios.
+Quem pode solicitar?
+Bancos;
+Utilities;
+Governo;
+Empresas com grande volume.
+Como solicitar o serviço
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/correspondencia/tarifas
+Tarifas — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+https://www.correios.com.br/enviar/correspondencia/tarifas
+https://www.correios.com.br/@@site-logo/correios.svg
+Carta e Cartão Postal
+Tarifas vigentes a partir de 12/04/2026.
+Peso (g)
+Básico (R$)
+Registrada (R$)
+Reg. + AR (R$)
+Reg. + MP (R$)
+Reg. + AR+MP (R$)
+Até
+20
+R$ 2,65
+R$ 10,75
+R$ 18,85
+R$ 20,30
+R$ 28,40
+Mais de 20
+Até 50
+R$ 3,70
+R$ 11,80
+R$ 19,90
+R$ 21,35
+R$ 29,45
+Mais de 50
+até 100
+R$ 5,15
+R$ 13,25
+R$ 21,35
+R$ 22,80
+R$ 30,90
+Mais de 100
+até 150
+R$ 6,30
+R$ 14,40
+R$ 22,50
+R$ 23,95
+R$ 32,05
+Mais de 150
+até 200
+R$ 7,45
+R$ 15,55
+R$ 23,65
+R$ 25,10
+R$ 33,20
+Mais de 200
+até 250
+R$ 8,55
+R$ 16,65
+R$ 24,75
+R$ 26,20
+R$ 34,30
+Mais de 250
+até 300
+R$ 9,80
+R$ 17,90
+R$ 26,00
+R$ 27,45
+R$ 35,55
+Mais de 300
+até 350
+R$ 10,95
+R$ 19,05
+R$ 27,15
+R$ 28,60
+R$ 36,70
+Mais de 350
+até 400
+R$ 12,10
+R$ 20,20
+R$ 28,30
+R$ 29,75
+R$ 37,85
+Mais de 400
+até 450
+R$ 13,25
+R$ 21,35
+R$ 29,45
+R$ 30,90
+R$ 39,00
+Mais de 450
+até 500
+R$ 14,40
+R$ 22,50
+R$ 30,60
+R$ 32,05
+R$ 40,15
+Obs.: Aos objetos com peso superior a 500g, serão aplicadas as mesmas condições de VALOR e prestação do SEDEX.
+Carta Comercial
+Tarifas vigentes a partir de 12/04/2026.
+Peso (g)
+Básico (R$)
+Registrada (R$)
+Reg. + AR (R$)
+Reg. + MP (R$)
+Reg. + AR + MP (R$)
+Até 20*
+3,85
+15,60
+27,35
+29,40
+41,15
+Mais de 20 até 50
+5,40
+17,15
+28,90
+30,95
+42,70
+Mais de 50 até 100
+7,45
+19,20
+30,95
+33,00
+44,75
+Mais de 100 até 150
+9,10
+20,85
+32,60
+34,65
+46,40
+Mais de 150 até 200
+10,75
+22,50
+34,25
+36,30
+48,05
+Mais de 200 até 250
+12,45
+24,20
+35,95
+38,00
+49,75
+Mais de 250 até 300
+14,20
+25,95
+37,70
+39,75
+51,50
+Mais de 300 até 350
+15,90
+27,65
+39,40
+41,45
+53,20
+Mais de 350 até 400
+17,55
+29,30
+41,05
+43,10
+54,85
+Mais de 400 até 450
+19,20
+30,95
+42,70
+44,75
+56,50
+Mais de 450 até 500
+20,85
+32,60
+44,35
+46,40
+58,15
+Obs.: Aos objetos com peso superior a 500g, serão aplicadas as mesmas condições de VALOR e prestação do SEDEX.
+* Primeiro Porte da Carta Comercial
+Carta Social
+Tarifas vigentes a partir de 12/04/2026.
+Carta Social
+Limite máximo de peso: 10 gramas
+R$ 0,01
+Carta e Cartão Postal Internacional
+Tarifas vigentes a partir de 12/04/2026.
+Peso (g)
+Grupo 1 (R$)
+Grupo 2 (R$)
+Grupo 3 (R$)
+Grupo 4 (R$)
+Grupo 5 (R$)
+Até 20
+6,50
+6,75
+7,45
+8,95
+9,55
+21 a 50
+11,60
+11,85
+13,00
+15,45
+17,65
+51 a 100
+17,10
+17,95
+20,15
+23,45
+32,60
+101 a 250
+34,50
+35,75
+44,75
+48,45
+68,90
+251 a 500
+65,15
+67,10
+78,30
+87,55
+109,90
+501 a 1.000
+108,10
+111,85
+134,20
+149,10
+193,70
+1.001 a 1.500
+150,90
+156,45
+190,00
+210,55
+277,70
+1.501 a 2.000
+193,70
+201,20
+245,90
+272,00
+361,50
+Grupo Tarifário Internacional, saiba mais
+Telegrama
+Tarifas vigentes a partir de 12/04/2026.
+TELEGRAMA NACIONAL POR PÁGINA
+Meio de Acesso
+Telegrama
+Preço
+Agência
+Balcão
+R$ 23,47
+Internet
+Via Internet
+R$ 16,21
+TELEGRAMA INTERNACIONAL
+Palavras
+Grupo 1 (R$)
+Grupo 2 (R$)
+Grupo 3 (R$)
+Grupo 4 (R$)
+Grupo 5 (R$)
+7 Palavras Iniciais
+13,23
+14,14
+14,84
+21,49
+26,53
+Palavra Adicional
+1,89
+2,02
+2,12
+3,07
+3,79
+Grupo Tarifário Internacional, saiba mais
+Anterior Envio Nacional e Internacional de Correspondências - Carta, Telegrama e Serviços Postais
+© Copyright 2026 Correios
+CNPJ 34.028.316/0001-03
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/dinheiro/dinheiro
+Envio de Dinheiro Seguro e Prático | Vale Postal Correios — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Envie dinheiro com segurança pelos Correios! Com o Vale Postal, transfira valores para qualquer lugar sem necessidade de conta bancária.
+https://www.correios.com.br/enviar/dinheiro
+https://www.correios.com.br/@@site-logo/correios.svg
+Envie dinheiro com segurança pelos Correios! Com o Vale Postal, transfira valores para qualquer lugar sem necessidade de conta bancária.
+De forma simples, rápida e segura.
+Vale Postal
+Envie dinheiro de forma fácil, rápida e segura, sem precisar de conta bancária. Com nossa rede de agências espalhadas por todo o país, você pode enviar e receber dinheiro com total conveniência. O valor é disponibilizado para o destinatário em até 24 horas após a postagem e permanece na agência por até 365 dias.
+Sua empresa pode enviar dinheiro sem necessidade de conta bancária, simplificando suas relações com clientes e fornecedores. Para isso, é necessário celebrar um contrato de prestação de serviço conforme as necessidades da sua empresa.
+Fale com o gerente da agência mais próxima ou solicite uma visita comercial para mais informações.
+Transferências de uma Empresa para vários destinatários simultaneamente
+Transferência: A empresa contratante envia um arquivo eletrônico com os dados dos destinatários da remessa por meio de um aplicativo específico.
+Depósito: A empresa contratante deposita os valores na conta dos Correios. Após a confirmação do depósito, os pagamentos são disponibilizados para os beneficiários nas agências dos Correios.
+Dados Necessários:
+Nome
+CPF/CNPJ
+Finalidade da remessa
+Valor a ser pago
+Endereço completo
+Esta modalidade é exclusiva para transações realizadas no Brasil.
+Veja aqui os limites por remessa
+Remessa de balcão: valor máximo de R$ 1.000,00 por remessa;
+Remessa de contrato: valor máximo de R$ 5.000,00 por remessa.
+*Este serviço não é prestado por Agência de Correios Comercial – ACC e Agência de Correios Franqueada - ACF.
+Saiba quanto custa
+Vigência desde 12/04/2026
+Faixa
+Preço
+Até 50,00
+R$ 18,85
+Entre 50,01 até 100,00
+R$ 19,15
+Entre 100,01 até 200,00
+R$ 19,85
+Entre 200,01 até 500,00
+R$ 22,10
+Entre 500,01 até 800,00
+R$ 24,65
+Entre 800,01 até 1.000,00
+R$ 30,30
+Aviso Pagamento VPNE (via telegrama)
+R$ 21,60
+Aviso Emissão VPNE (via telegrama)
+R$ 21,60
+Após o envio, o valor ficará disponível por 180 dias para retirada pelo destinatário.
+Informações complementares
+• Não há cobrança de tarifa no recebimento da remessa;
+• Recebimento por terceiros: caso o destinatário esteja impossibilitado de comparecer à agência, poderá autorizar um representante legal (Preposto), utilizando o formulário transferência de pagamento. Acesse aqui o formulário . Preencha, imprima, assine e reconheça firma em cartório. Caso prefira, poderá fazer uma procuração com firma reconhecida;
+• Nas remessas nacionais, o valor ficará à disposição do destinatário por até 365 dias corridos a partir da data de envio. Passado esse prazo, a remessa ficará disponível somente para o remetente pelo período de 5 anos.
+• O serviço observa normas legais do BACEN e COAF;
+• Possui finalidade social, em conformidade com políticas de inclusão social (Governo e UPU).
+• Em caso de ausência de numerário, a unidade poderá indicar outra agência para que o destinatário retire o valor ou agendar uma data para pagamento do vale.
+Busca Agência
+Saiba onde encontrar uma agência mais próxima
+Visita Comercial
+Clique e solicite a visita de um de nossos consultores
+© Copyright 2026 Correios
+CNPJ 34.028.316/0001-03
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/marketing-direto/marketing
+Soluções de Marketing Direto Impresso dos Correios — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Alcance seu público com segmentação geográfica ou endereçamento individualizado.
+https://www.correios.com.br/enviar/marketing-direto
+https://www.correios.com.br/@@site-logo/correios.svg
+Alcance seu público com segmentação geográfica ou endereçamento individualizado.
+Transforme alcance em resultados com os Correios
+Atraia novos clientes, fortaleça sua marca e aumente o retorno das suas campanhas com soluções completas de Marketing Direto. Com segmentação inteligente, comunicação personalizada, validação de CEPs e a maior rede de distribuição do país, os Correios conectam sua mensagem ao público certo.
+* Verifique a disponibilidade e as condições comerciais do serviço.
+** Os prazos de entrega podem variar de acordo com as condições operacionais.
+Saiba mais sobre a Mala Direta Não Endereçada
+• Distribuição de peças promocionais e informativas sem identificação nominal do destinatário.
+• Segmentação geográfica por regiões de interesse do cliente.
+• Distribuição seletiva ou aleatória.
+• Não requer endereçamento.
+• Abrangência nacional. Postagem e entrega local
+• Peso de até 100 g por objeto.
+• Contratação com e sem contrato comercial.
+• Pagamento à vista ou a faturar.
+• Não admite serviços adicionais.
+• Objetos não entregues são refugados.
+• Franqueamento por chancela específica do serviço.
+Saiba mais sobre a Mala Direta Endereçada Varejo
+• Distribuição de mensagens promocionais e informativas com endereçamento individualizado.
+• Abrangência nacional.
+• Peso de até 300 g por objeto.
+• Aceita encartes, amostras e brindes.
+• Disponível à vista, sem necessidade de contrato.
+• Disponível a faturar para clientes pessoa jurídica com contrato.
+• Permite Registro, Aviso de Recebimento, Mão Própria, Valor Declarado, Serviços de Resposta, Coleta Programada e Devolução Física.
+• Possibilidade de devolução física conforme modalidade de postagem.
+• Franqueamento por chancela, registro ou máquina de franquear.
+Saiba mais sobre a Mala Direta Endereçada Industrial
+• Solução para grandes volumes de comunicação promocional endereçada.
+• Abrangência nacional.
+• Peso de até 300 g por objeto, incluindo encartes, brindes e amostras.
+• Utilização do Sistema Direto para gestão das postagens.
+• Validação prévia de CEPs e controle eletrônico da postagem.
+• Devolução Eletrônica dos motivos de não entrega sem custo adicional.
+• Permite serviços adicionais e Devolução Física opcional.
+• Contratação obrigatória por contrato comercial.
+• Pagamento exclusivamente a faturar.
+Saiba mais sobre o Impresso
+"O serviço de IMPRESSO possui a tarifa única nacional. É o mesmo preço para todo o país, variando apenas pelo peso do livro. O serviço consiste na postagem de livros conforme a Lei Postal nº 6.538/78. Além disso, o serviço prevê, de forma exclusiva, a utilização do serviço adicional de registro módico para rastreamento dos objetos com tarifa reduzida em 50% no valor do serviço convencional de rastreamento, em conformidade com a Lei nº 10.753/2003, que institui a Política Nacional do Livro.
+O serviço possui abrangência nacional, com preço que varia somente de acordo com o peso (de 0 a 10kg para postagens à com pagamento faturar e até 2kg para postagens com pagamento à vista) e não por CEP de destino. É possível adicionar serviços de rastreamento, confirmação de entrega, mão própria e valor declarado. O serviço é uma solução estratégica por ser uma alternativa econômica para difusão de conteúdo informativo e didático especialmente em regiões onde a universalização do acesso à informação é prioridade, fortalecendo a presença dos Correios como o principal operador logístico do país no segmento editorial, como agente de fomento à cultura e à educação."
+Saiba Mais sobre o e-DNE
+O que é o serviço?
+Base de dados oficial dos Correios, composta por informações de endereçamento em todo o território brasileiro, incluindo logradouros e respectivos Códigos de Endereçamento Postal (CEP).
+Quem pode solicitar?
+Pessoas jurídicas e profissionais que atuam com:
+- Marketing direto e CRM;
+- Tratamento e validação de endereços;
+- Comércio eletrônico;
+- Desenvolvimento de sistemas e bases de dados;
+- Call centers e telemarketing.
+Como solicitar o serviço?
+Modalidades:
+e-DNE GU
+Indicado aos clientes com contrato com os Correios que atendam às condições de disponibilização da modalidade. É fornecido sem ônus e contempla diferentes formatos de arquivo para utilização da base de endereços.
+e-DNE Básico
+Indicado para quem precisa trabalhar com a Base de CEP utilizando arquivos TXT, disponíveis em formatos delimitado e de tamanho fixo, sem necessidade de arquivo específico para Microsoft Access.
+e-DNE Máster
+Possui os formatos disponibilizados no Básico e acrescenta o arquivo MDB, destinado à utilização com Microsoft Access
+O serviço é solicitado por meio de formulário oficial disponibilizado nos canais institucionais dos Correios, com envio da solicitação à área comercial, definição da modalidade, formalização da contratação e posterior liberação da base após confirmação do pagamento.
+Documentos e requisitos necessários
+- Preenchimento do formulário oficial de solicitação do e‑DNE;
+- Aceite das condições contratuais e do Termo de Compromisso de uso da base;
+- Formalização da contratação conforme orientação da área comercial;
+- Confirmação do pagamento do serviço;
+- Atendimento às regras de uso e licenciamento dos dados.
+Principais etapas do serviço
+ Solicitação do serviço pelo cliente;
+ Análise e atendimento comercial pelos Correios;
+ Definição da modalidade (Básico, Master ou GU);
+ Formalização da contratação e pagamento;
+ Validação do pagamento;
+ Disponibilização da base por meio de link para download;
+ Utilização da base pelo cliente conforme regras contratuais.
+Prazo máximo para a prestação do serviço
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/precisa-de-ajuda/contrate-os-correios/contrate-os-correios
+Contrate os Correios – Soluções de Envio para Empresas e Negócios — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Contrate os Correios
+Contrate os Correios – Soluções de Envio para Empresas e Negócios
+Facilite sua logística com os Correios! Contrate serviços postais e soluções de envio ideais para empresas, e-commerces e empreendedores. Rápido, seguro e acessível.
+https://www.correios.com.br/enviar/precisa-de-ajuda/contrate-os-correios
+https://www.correios.com.br/@@site-logo/correios.svg
+Contrate os Correios – Soluções de Envio para Empresas e Negócios
+Facilite sua logística com os Correios! Contrate serviços postais e soluções de envio ideais para empresas, e-commerces e empreendedores. Rápido, seguro e acessível.
+Soluções sob medida para o seu negócio.
+Nossos pacotes de serviços reúnem produtos e condições comerciais para facilitar sua rotina de envios e reduzir custos
+*Sem exigência de valor mínimo mensal
+Conheça os demais pacotes
+Para as Empresas
+Preços diversificados, ferramentas gratuitas e prazos flexíveis para pagamento. Sua empresa conta com serviços de Encomendas, Carta Comercial, Impressos, Certificação Digital e muito mais.
+Saiba mais sobre a logística certa para sua empresa
+Para o Governo
+Reconhecidos pela confiança e credibilidade, oferecemos estrutura e serviços que promovem a inclusão social, digital e financeira, com ênfase na segurança e privacidade nas comunicações e transações.
+Descubra Agora as Soluções de Atendimento dos Correios.
+Além disso órgãos públicos podem contratar os Correios em condições vantajosas.
+Saiba como contratar por meio do Sistema Eletrônico de Informações - SEI , veja o passo a passo aqui!
+Por que contratar os Correios
+- Postagens em todas as agências dos Correios;
+- Maior rede de agências;
+- Maior frota logística;
+- Única em todo Brasil;
+- Pagamento mensal;
+- Isenção da cota mínima nos dois primeiros ciclos de faturamento;
+- Logística Reversa - Processo de retorno de mercadorias, para troca ou devoluções;
+- Confiável e moderna;
+- Integração via API para calculo de preços e prazos, consulta de rastreamentos, CEP, localização de agências, dentre outros;
+Entre em contato
+Para contratar, ligue 4003 8212 em todo Brasil (fixo e celular)
+Já tem contrato conosco e deseja fazer um upgrade ou tirar dúvidas nos contate através dos telefones 4003 8208 (capitais e regiões metropolitanas) ou 0800 881 8208 (demais localidades)
+Para atendimento comercial preencha o formulário e a área comercial em seu Estado entrará em contato.
+Mais informações, acesse a página da Central de Atendimento.
+Documentação necessária para contratar os Correios
+Empresário Individual
+CNPJ atualizado;
+RG, CPF;
+Ficha cadastral do titular da empresa;
+Relação de Faturamento dos últimos 12 meses assinada pelo empresário e pelo contador da empresa.
+Sociedade Empresarial Limitada
+CNPJ atualizado;
+RG, CPF;
+Contrato social e alterações contratuais ou alteração contratual consolidada;
+Relação de Faturamento dos últimos 12 meses assinada pelo administrador e pelo contador da empresa.
+Sociedade Simples
+CNPJ atualizado;
+RG, CPF;
+Contrato social e alterações contratuais ou alteração contratual consolidada;
+Relação de Faturamento dos últimos 12 meses assinada pelo administrador e pelo contador da empresa.
+Sociedade Sem Fim Lucrativo
+CNPJ atualizado;
+Ata de eleição da atual Diretoria;
+RG, CPF;
+Ata de Constituição e Estatuto social;
+Balanço Patrimonial e
+Demonstração de Resultado do Exercício do último exercício social;
+Declaração de Informações Econômico-Fiscais da Pessoa Jurídica - DIPJ;
+Declaração Simplificada da Pessoa Jurídica - DSPJ;
+Declaração Anual do Simples Nacional - DASN.
+Sociedade Anônima
+CNPJ atualizado;
+RG, CPF;
+Ata de eleição da atual Diretoria;
+Ata de Constituição e Estatuto Social;
+Relação de Faturamento dos últimos 12 meses assinada pelo administrador e pelo contador da empresa.
+Sociedade Cooperativa e Associação de Classe
+CNPJ atualizado;
+Ata de eleição da atual Diretoria;
+RG, CPF;
+Ata de Constituição e Estatuto social;
+Balanço Patrimonial e
+Demonstração de Resultado do último exercício social;
+Declaração de Informações Econômico-Fiscais da Pessoa Jurídica - DIPJ;
+Declaração Simplificada da Pessoa Jurídica - DSPJ;
+Declaração Anual do Simples Nacional - DASN;
+Órgão Público da Administração Direta e Indireta
+Dotação orçamentária;
+CNPJ atualizado;
+RG e CPF do Titular;
+Portaria do órgão ou documento similar que identifique o gestor que está assumindo a obrigação contratual com os Correios;
+Estatuto Social ou Regimento Interno ou documento similar;
+Cartório
+CNPJ atualizado;
+RG, CPF;
+Portaria de nomeação do tabelião;
+Relação de Faturamento dos últimos 12 meses assinada pelo administrador e pelo contador da empresa.
+Declaração do Imposto de Renda Pessoa Física - DIRPF.
+Condomínio
+CNPJ atualizado;
+RG, CPF;
+Estatuto;
+Balanço Patrimonial e Demonstração de Resultado do último exercício social;
+Declaração de Informações Econômico-Fiscais da Pessoa Jurídica - DIPJ;
+Declaração Simplificada da Pessoa Jurídica - DSPJ;
+Declaração Anual do Simples Nacional - DASN.
+Organismos Internacionais
+CNPJ atualizado;
+Ato de nomeação da autoridade diplomática ou dos representantes, das instituições;
+RG, CPF ou passaporte oficial dos responsáveis pela assinatura do contrato;
+Declaração de Informações Econômico-Fiscais da Pessoa Jurídica - DIPJ.
+Termos e anexos dos Produtos e Serviços contratados
+Contratos formalizados até Fevereiro de 2020
+Termo de Condições Gerais de Prestação de Serviços e Venda de Produtos (.pdf 199Kb)
+Termo de Condições Gerais de Prestação dos Serviços Internacionais (.pdf 229Kb)
+Termo de Categorização e Benefícios da Política Comercial dos Correios (.pdf 310Kb)
+Termo de Condições de Prestação de Serviços de Encomendas Nacionais (.pdf 245Kb)
+Termo de Condições Comerciais dos Pacotes de Serviços de Encomendas Nacionais (.pdf 134Kb)
+Anexo - Aquisição de Produtos (.pdf 89Kb)
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/precisa-de-ajuda/guia-de-enderecamento/guia-de-enderecamento
+Guia de Endereçamento — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+Guia de Endereçamento
+Guia de Endereçamento
+Guia de Endereçamento
+Guia de Endereçamento
+https://www.correios.com.br/enviar/precisa-de-ajuda/guia-de-enderecamento/guia-de-enderecamento
+https://www.correios.com.br/@@site-logo/correios.svg
+Guia de Endereçamento
+Porque endereçar corretamente?
+Com a distribuição de aproximadamente 1 milhão de encomendas por dia, os Correios contam com um parque automatizado de triagem que permite que as caixas e os envelopes sejam separados de acordo com a localidade
+de entrega de forma mais ágil. Contudo, para que os objetos cheguem aos seus destinos dentro do prazo estabelecido, é imprescindível que o endereçamento seja feito não apenas de forma correta, mas também com os respectivos códigos de barras e informações adicionais.
+Pré-postagem Nacional WEB - PPN WEB
+Descubra uma nova forma de enviar encomendas com agilidade e praticidade! A plataforma PPN WEB é para todos os clientes e simplifica a geração de rótulos de endereçamento e gerencia pré-postagens totalmente online. Com a PPN WEB você imprime as etiquetas e já recebe o código de rastreamento antes mesmo de ir até uma agência dos Correios. Rápido e fácil!
+Acesse aqui a PPN WEB
+Conheça aqui cada parte do endereço
+Nome do Destinatário/ Remetente
+O nome do destinatário e remetente é o que lhe identifica. Consiste para pessoas físicas no nome e sobrenome e para pessoas jurídicas no nome fantasia da empresa. Essa informação deve constar no endereçamento após a palavra DESTINATÁRIO ou REMETENTE.
+Logradouro: Tipo, nome, número, complemento e bairro
+Logradouro: É o termo utilizado pelos Correios para designar uma localidade específica. O logradouro é composto pelo seu tipo seguido dos nomes oficiais. Os tipos de logradouro mais comuns são:
+Exemplos
+aeroporto
+condomínio
+feira
+núcleo
+residencial
+trevo
+alameda
+conjunto
+jardim
+parque
+rodovia
+vale
+área
+distrito
+ladeira
+passarela
+rua
+vereda
+avenida
+esplanada
+lago
+pátio
+setor
+via
+campo
+estação
+lagoa
+praça
+sítio
+viaduto
+chácara
+estrada
+largo
+quadra
+travessa
+viela
+colônia
+fazenda
+loteamento
+recanto
+trecho
+vila
+Nome do Logradouro: Os logradouros são identificados pelo nome oficial atribuído pelo município ao qual estão vinculados. Exemplo: Avenida Paulista, sendo “Avenida” o tipo e “Paulista” o nome do logradouro.
+Número: O número especifica o imóvel no qual o objeto deve ser entregue. Ocorrem, raras vezes, de o imóvel não ter número. Para os logradouros sem numeração recomenda-se a utilização da sigla s/n.
+Complemento: Alguns logradouros ainda necessitam ser especificados por meio de complemento, Como por exemplo: Avenida Paulista 123 Loja B.
+Bairro: Bairro é uma comunidade ou região localizada em uma cidade ou município de acordo com as suas subdivisões geográficas.
+Para os endereços localizados no Distrito Federal, utiliza-se o modelo de divisão territorial utilizado pelo IBGE, que estabelece Brasília como único município. Dessa forma, para as regiões administrativas (RA) não divididas em bairros, estes locais devem ser informados como bairro. No caso das regiões administrativas subdividas em bairros, informar o bairro e a Região Administrativa entre parênteses. Ex: Veredas (Brazlândia).
+CEP: Composto por um conjunto numérico de oito dígitos, o objetivo principal do CEP é orientar e acelerar o encaminhamento, o tratamento e a entrega de objetos postados nos Correios, por meio da sua atribuição a localidades, logradouros, unidades dos Correios, serviços, órgãos públicos, empresas e edifícios. Não se deve escrever a sigla CEP antes dos algarismos que não deverão ser sublinhados ou separados por ponto.
+Exemplo: 01311-000
+Clique aqui e compreenda a estrutura dos CEPS
+A utilização correta do CEP, alinhada ao logradouro de destino, é fundamental para a entrega assertiva de sua encomenda.
+Nome da Localidade : O nome da localidade corresponde à designação da cidade ou município no qual o endereço de entrega está localizado.
+Exemplo: São Paulo.
+Sigla da Unidade da Federação: sigla da unidade da federação identifica o estado no qual o endereço está localizado. Exemplo: São Paulo / SP
+Informações adicionais
+Além do endereçamento correto, os Correios recomendam a utilização de rótulos padronizados que possuem os elementos gráficos e textuais necessários para o correto encaminhamento da sua encomenda. Tais símbolos ainda viabilizam a triagem dos objetos, o que contribui para a celeridade da entrega. A composição recomendada para o rótulo deve conter os seguintes elementos:
+- Código Data Matrix
+- Símbolo de encaminhamento
+- Informações da encomenda e do contratante
+- Código de rastreamento
+- Formulário para registro de dados do recebedor
+- Endereços do destinatário e remetente
+- CEP do destinatário em código de barras
+1. Código Data Matrix
+O Código Data Matrix contém informações da encomenda que viabilizam a automatização de processos em diversas etapas da entrega. O código deve ser aplicado nas dimensões mínimas de 25 x 25 mm com 3 mm de margem de proteção, contendo as seguintes informações:
+ITEM
+CARACTERES
+CEP destino
+8
+Complemento do CEP
+5
+CEP origem
+8
+Complemento do CEP
+5
+Validador do CEP destino
+1
+IDV
+2
+Dados variáveis (conforme tabela)
+131
+DADOS VARIÁVEIS
+CARACTERES
+Código de Rastreamento
+13
+Serviços Adicionais 9AR, MP, DD, VD)
+8
+Cartão de Postagem
+10
+Código de Serviço
+5
+Informações de Agrupamento
+2
+Número do Logradouro
+5
+Complemento do Logradouro
+20
+Valor Declarado
+5
+DDD + Telefone Destinatário
+12
+Latitude
+10
+Longitude
+10
+Pipe "I"
+1
+Reserva para cliente
+30
+Complemento do CEP : Ponto de entrega conforme DNE – Diretório Nacional de Endereço . Se não houve ponto de entrega, preencher com 00000.
+Validador do CEP Destino: Soma dos 8 dígitos do CEP de destino: Subtrai-se o resultado da soma dos algarismos do CEP do múltiplo de 10 imediatamente superior ao resultado. Ex: CEP: 71010050 à 7+1+0+1+0+0+5+0 = 14 Subtrai-se 14 de 20. O validador do CEP do exemplo é 6.
+[… cortado]
+
+## PÁGINA (evento) — https://www.correios.com.br/enviar/precisa-de-ajuda/correios-de-a-a-z
+Correios de A a Z — Correios
+Sedex 10
+Entrega até as 10h do útil seguinte
+Conheça os nossos Planos
+https://www.correios.com.br/enviar/precisa-de-ajuda
+https://www.correios.com.br/@@site-logo/correios.svg
+A
+Acondicionamento (como embalar)
+Áreas com entrega diferenciada
+Aviso de Recebimento - AR
+Aviso de Recebimento Digital - AR Digital
+Aviso de Recebimento Eletrônico - e-AR
+B
+Blog dos Correios
+Busca Agências
+Busca CEP
+C
+Caixa de correio inteligente
+Caixa Postal
+Calculador Preços e Prazos Nacionais
+Calculador Preços e Prazos Internacionais
+Carnê do Baú Jequiti
+Carta Resposta
+Carta e Carta Social
+Correios Empresa
+CEP - Código de Endereçamento Postal
+Clique e Retire
+Coleta
+Concurso de Cartas
+Consulta de Proteção ao Crédito - SERASA
+Correios Mini Envios
+Correios OnLine
+CPF - Cadastro de Pessoa Física
+Correios LOG+
+Cecograma
+Colis Postaux
+D
+Declaração de Conteúdo
+Despacho Postal
+Devolução de Documento (DD)
+Diretório Nacional de Endereços – DNE
+Documento Internacional
+E
+E-Carta
+E-Carta Fácil
+Embalagens Recomendadas pelos Correios - RPC
+Endereçamento
+Entrega
+Entrega Interativa
+Entrega no Vizinho
+Exporta Fácil
+EMS
+F
+Franqueamento Autorizado de Cartas - FAC
+Fatura Eletrônica
+Filatelia
+G
+Geomarketing
+Grandes Formatos (GF)
+I
+Impresso
+Indenização
+Inmetro na Palma da Mão
+L
+Lei de Acesso à Informação
+Logística de eleições
+Logística Integrada
+Logística Reversa
+M
+Mala Direta
+Malote
+Manuseio Especial
+Mão Própria
+Mini Envios
+Municípios de Fronteira
+N
+Nota Fiscal
+P
+PAC
+Pagamento na entrega
+Papai Noel dos Correios
+Parcelamento de Faturas
+Posta restante
+Posta restante pedida
+Postal saúde
+Prazo de guarda de objetos com entrega em agência
+Pré-postagem nacional
+Pré-postagem internacional
+Proibições e restrições
+Packet Express
+Packet Standard
+Prime Exprès
+Pequenas Encomendas Registradas
+Pequenas Encomendas Simples
+Ponto de Coleta
+R
+Rastreamento de Objetos
+Registro Nacional
+Registro Internacional
+Registro da Exportação
+Revista Postal Brasil
+Reclamação
+Recebimento de Contas ou Doações
+Retirada de Encomendas por Terceiros
+S
+SEDEX
+SEDEX 10
+SEDEX 12
+SEDEX Hoje
+Selos Postais
+Serviço de Informação ao Cidadão
+Serviços de Resposta
+Suspensão de Entrega (.pdf 401Kb)
+Símbolos da Arquitetura de Remessas Postais
+T
+Telegrama Nacional
+Título de Capitalização TELE SENA
+Termos e Anexos dos Produtos e Serviços Contratados
+Transcrição – Braille
+V
+Vale Postal Eletrônico
+Valor Declarado
+Veja mais
+Encontre sua Agência
+Saiba onde encontrar a agência mais próxima a você.
+Acompanhe seu objeto
+Consulte a situação da sua encomenda e previsão de entrega
+Preços e Prazos
+Simule os preços e prazos praticados para o destino desejado.
+© Copyright 2026 Correios
+CNPJ 34.028.316/0001-03

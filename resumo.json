@@ -1,0 +1,2392 @@
+{
+ "origem": "nuvem",
+ "feito_em": "2026-11-28 05:57 UTC",
+ "segundos": 196,
+ "fontes": [
+  {
+   "ids": [
+    "F001"
+   ],
+   "nome": "A Gentil Carioca",
+   "url": "https://agentilcarioca.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 64794,
+   "url_final": "https://www.agentilcarioca.com.br/",
+   "paginas": [
+    "https://www.agentilcarioca.com.br/",
+    "https://www.agentilcarioca.com.br/contact/",
+    "https://www.agentilcarioca.com.br/exhibitions/",
+    "https://www.agentilcarioca.com.br/en/contact/",
+    "https://www.agentilcarioca.com.br/contact/equipe/",
+    "https://www.agentilcarioca.com.br/en/exhibitions/",
+    "https://www.agentilcarioca.com.br/exhibitions/location/1/",
+    "https://www.agentilcarioca.com.br/exhibitions/location/2/",
+    "https://www.agentilcarioca.com.br/exhibitions/150-vivian-caccuri-anatomy-of-presence-schauwerk-sindelfingen-sindelfingen-alemanha/",
+    "https://www.agentilcarioca.com.br/exhibitions/138-opavivara-imaginalivre-parque-cultural-casa-do-governador-vila-velha/",
+    "https://www.agentilcarioca.com.br/exhibitions/152-diego-kohli-danca-para-montanhas/",
+    "https://www.agentilcarioca.com.br/exhibitions/153-romain-dumesnil-exorama/",
+    "https://www.agentilcarioca.com.br/exhibitions/154-amigo-oculto/"
+   ],
+   "mencoes_de_data": 266,
+   "situacao": "coletada",
+   "arquivo": "F001.txt"
+  },
+  {
+   "ids": [
+    "F002"
+   ],
+   "nome": "Academia Brasileira de Letras (ABL)",
+   "url": "https://academia.org.br/eventos",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 34384,
+   "url_final": "https://academia.org.br/eventos",
+   "paginas": [
+    "https://academia.org.br/eventos",
+    "https://academia.org.br/eventos-pesquisar",
+    "https://academia.org.br/academia/quem-somos",
+    "https://academia.org.br/academia/fundacao",
+    "https://academia.org.br/academia/estatuto",
+    "https://academia.org.br/academia/regimento",
+    "https://academia.org.br/academia/petit-trianon",
+    "https://academia.org.br/academia/palacio-austregesilo-de-athayde",
+    "https://academia.org.br/academia/premios",
+    "https://academia.org.br/academia/sites-comemorativos",
+    "https://www.academia.org.br/academia/academias-estaduais",
+    "https://academia.org.br/compliance/manual-de-conduta"
+   ],
+   "mencoes_de_data": 41,
+   "situacao": "coletada",
+   "arquivo": "F002.txt"
+  },
+  {
+   "ids": [
+    "F005"
+   ],
+   "nome": "Arquivo Nacional",
+   "url": "https://gov.br/arquivonacional",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "ids": [
+    "F012"
+   ],
+   "nome": "Biblioteca Nacional",
+   "url": "https://bn.gov.br/acontece/eventos",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 403)"
+  },
+  {
+   "ids": [
+    "F013",
+    "F184",
+    "F200"
+   ],
+   "nome": "Biblioteca Parque Estadual; Bibliotecas Parque de Manguinhos e Rocinha; Secretaria de Estado de Cultura (SECEC-RJ)",
+   "url": "https://cultura.rj.gov.br",
+   "regioes": [
+    "Centro",
+    "Toda a cidade",
+    "Várias"
+   ],
+   "degraus": [
+    "feed (10 itens)",
+    "texto de 5 página(s)"
+   ],
+   "caracteres": 31162,
+   "url_final": "https://cultura.rj.gov.br",
+   "paginas": [
+    "https://cultura.rj.gov.br",
+    "https://cultura.rj.gov.br/da-producao-de-espetaculos-a-comunicacao-conheca-profissoes-que-movimentam-a-economia-criativa/",
+    "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/",
+    "https://cultura.rj.gov.br/da-producao-de-espetaculos-a-comunicacao-conheca-profissoes-que-movimentam-a-economia-criativa/",
+    "https://cultura.rj.gov.br/governo-do-estado-lanca-programa-cultura-em-dia-para-regularizacao-de-pendencias-de-projetos-culturais/"
+   ],
+   "mencoes_de_data": 17,
+   "situacao": "coletada",
+   "arquivo": "F013.txt"
+  },
+  {
+   "ids": [
+    "F014"
+   ],
+   "nome": "Caixa Cultural Rio de Janeiro",
+   "url": "https://caixacultural.gov.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 270,
+   "url_final": "https://www.caixacultural.gov.br/Paginas/default.aspx",
+   "paginas": [
+    "https://www.caixacultural.gov.br/Paginas/default.aspx"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F014.txt"
+  },
+  {
+   "ids": [
+    "F016"
+   ],
+   "nome": "Carioca da Gema",
+   "url": "https://barcariocadagema.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "feed (20 itens)",
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 7825,
+   "url_final": "https://www.barcariocadagema.com.br/",
+   "paginas": [
+    "https://www.barcariocadagema.com.br/",
+    "https://www.barcariocadagema.com.br/shows"
+   ],
+   "mencoes_de_data": 17,
+   "situacao": "coletada",
+   "arquivo": "F016.txt"
+  },
+  {
+   "ids": [
+    "F017"
+   ],
+   "nome": "Casa do Choro",
+   "url": "https://casadochoro.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+  },
+  {
+   "ids": [
+    "F019"
+   ],
+   "nome": "CCBB Rio",
+   "url": "https://ccbb.com.br/rio-de-janeiro",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 42193,
+   "url_final": "https://ccbb.com.br/rio-de-janeiro/",
+   "paginas": [
+    "https://ccbb.com.br/rio-de-janeiro/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=hoje",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=semana",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/?cartaz=mes",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/meme-no-brsil-da-memeficacao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/palavras-em-cena-o-cinema-que-veio-dos-livros/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/um-atlas-de-lembrancas/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/entre-sim-e-o-nunca/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/21o-festival-de-cinema-italiano-no-brasil/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/yokai-parade-seres-sobrenaturais-do-japao/",
+    "https://ccbb.com.br/rio-de-janeiro/programacao/cinemateca-do-mam-no-ccbb/"
+   ],
+   "mencoes_de_data": 355,
+   "situacao": "coletada",
+   "arquivo": "F019.txt"
+  },
+  {
+   "ids": [
+    "F020"
+   ],
+   "nome": "Centro Cultural Correios RJ",
+   "url": "https://correios.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "feed (15 itens)",
+    "feed (15 itens)",
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 71644,
+   "url_final": "https://www.correios.com.br/",
+   "paginas": [
+    "https://www.correios.com.br/",
+    "https://www.correios.com.br/acesso-a-informacao/acoes-e-programas",
+    "https://www.correios.com.br/central-de-informacoes/boletim-aos-clientes/programa-de-renegociacao-de-dividas-dos-correios",
+    "https://www.correios.com.br/enviar/encomendas/nacional/nacional",
+    "https://www.correios.com.br/enviar/encomendas/nacional",
+    "https://www.correios.com.br/enviar/encomendas/internacional",
+    "https://www.correios.com.br/enviar/correspondencia/correspondencias",
+    "https://www.correios.com.br/enviar/correspondencia/tarifas",
+    "https://www.correios.com.br/enviar/dinheiro/dinheiro",
+    "https://www.correios.com.br/enviar/marketing-direto/marketing",
+    "https://www.correios.com.br/enviar/precisa-de-ajuda/contrate-os-correios/contrate-os-correios",
+    "https://www.correios.com.br/enviar/precisa-de-ajuda/guia-de-enderecamento/guia-de-enderecamento",
+    "https://www.correios.com.br/enviar/precisa-de-ajuda/correios-de-a-a-z"
+   ],
+   "mencoes_de_data": 56,
+   "situacao": "coletada",
+   "arquivo": "F020.txt"
+  },
+  {
+   "ids": [
+    "F021"
+   ],
+   "nome": "Centro Cultural Justiça Federal (CCJF)",
+   "url": "https://ccjf.trf2.jus.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 30085,
+   "url_final": "https://ccjf.trf2.jus.br",
+   "paginas": [
+    "https://ccjf.trf2.jus.br",
+    "https://ccjf.trf2.jus.br/programacao",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/noticias/em-cerimonia-especial-na-sala-de-sessoes-centro-cultural-justica-federal",
+    "https://ccjf.trf2.jus.br/visitas/biblioteca-do-ccjf",
+    "https://ccjf.trf2.jus.br/visitas/educativo",
+    "https://ccjf.trf2.jus.br/visitas/cafeteria",
+    "https://ccjf.trf2.jus.br/visitas/faqs",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/o-ccjf",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/arquitetura-e-espacos",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/audioguia",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/projetos",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/noticias",
+    "https://ccjf.trf2.jus.br/sobre-o-ccjf/informacoes-tecnicas"
+   ],
+   "mencoes_de_data": 56,
+   "situacao": "coletada",
+   "arquivo": "F021.txt"
+  },
+  {
+   "ids": [
+    "F023"
+   ],
+   "nome": "Centro Cultural Light",
+   "url": "https://institutolight.org.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "ids": [
+    "F027"
+   ],
+   "nome": "Cine Santa Teresa",
+   "url": "https://cinesantateresa.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "ids": [
+    "F028"
+   ],
+   "nome": "Cineclube Macunaíma (ABI)",
+   "url": "https://abi.org.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "feed (10 itens)",
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 37854,
+   "url_final": "https://www.abi.org.br/",
+   "paginas": [
+    "https://www.abi.org.br/",
+    "http://www.abi.org.br/tabela-de-eventos-alugueis-de-auditorios/",
+    "http://www.abi.org.br/institucional/historia/",
+    "http://www.abi.org.br/institucional/historia/presidentes/",
+    "http://www.abi.org.br/institucional/datas-da-abi/",
+    "http://www.abi.org.br/institucional/o-predio-da-abi/",
+    "http://www.abi.org.br/institucional/direcao/",
+    "http://www.abi.org.br/institucional/direcao/diretoria/",
+    "http://www.abi.org.br/institucional/direcao/conselho-deliberativo/",
+    "http://www.abi.org.br/institucional/direcao/conselho-consultivo/",
+    "http://www.abi.org.br/institucional/direcao/conselho-fiscal/",
+    "http://www.abi.org.br/institucional/direcao/comissoes/"
+   ],
+   "mencoes_de_data": 9,
+   "situacao": "coletada",
+   "arquivo": "F028.txt"
+  },
+  {
+   "ids": [
+    "F029"
+   ],
+   "nome": "Circo Crescer e Viver",
+   "url": "https://circocrescereviver.org.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 8 página(s)"
+   ],
+   "caracteres": 25105,
+   "url_final": "https://circocrescereviver.org.br",
+   "paginas": [
+    "https://circocrescereviver.org.br",
+    "https://circocrescereviver.org.br/pagina-em-construcao/",
+    "https://circocrescereviver.org.br/sobre/quem-somos/",
+    "https://circocrescereviver.org.br/sobre/transperencia/",
+    "https://circocrescereviver.org.br/arte-e-cultura/criacoes-e-espetaculos-autorais/",
+    "https://circocrescereviver.org.br/arte-e-cultura/cabaret/",
+    "https://circocrescereviver.org.br/apoie-o-circo/doacoes/",
+    "https://circocrescereviver.org.br/apoie-o-circo/patrocinios/"
+   ],
+   "mencoes_de_data": 18,
+   "situacao": "coletada",
+   "arquivo": "F029.txt"
+  },
+  {
+   "ids": [
+    "F030"
+   ],
+   "nome": "Circo Voador",
+   "url": "https://circovoador.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 174,
+   "url_final": "https://www.circovoador.com.br/",
+   "paginas": [
+    "https://www.circovoador.com.br/"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F030.txt"
+  },
+  {
+   "ids": [
+    "F031"
+   ],
+   "nome": "D-Edge Rio",
+   "url": "https://d-edge.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "feed (3 itens)",
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 2027,
+   "url_final": "https://www.d-edge.com.br/",
+   "paginas": [
+    "https://www.d-edge.com.br/"
+   ],
+   "mencoes_de_data": 2,
+   "situacao": "coletada",
+   "arquivo": "F031.txt"
+  },
+  {
+   "ids": [
+    "F033"
+   ],
+   "nome": "É Tudo Verdade",
+   "url": "https://etudoverdade.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+  },
+  {
+   "ids": [
+    "F034"
+   ],
+   "nome": "Fundição Progresso",
+   "url": "https://fundicaoprogresso.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 28468,
+   "url_final": "https://fundicaoprogresso.com.br",
+   "paginas": [
+    "https://fundicaoprogresso.com.br",
+    "https://fundicaoprogresso.com.br/Ingressos",
+    "https://www.fundicaoprogresso.com.br/Ingressos",
+    "https://fundicaoprogresso.com.br/Programacao",
+    "https://fundicaoprogresso.com.br/AFundicao/Historia",
+    "https://fundicaoprogresso.com.br/AFundicao/AcervoDigital",
+    "https://fundicaoprogresso.com.br/Multicultural/Cursos",
+    "https://fundicaoprogresso.com.br/Multicultural/ResidenciaArtistica",
+    "https://fundicaoprogresso.com.br/Multicultural/FundicaoAmbiental",
+    "https://fundicaoprogresso.com.br/Multicultural/EstudeoFunk",
+    "https://fundicaoprogresso.com.br/Multicultural/SeloFundisom",
+    "https://fundicaoprogresso.com.br/Informacoes/SAC",
+    "https://fundicaoprogresso.com.br/Informacoes/Parceiros",
+    "https://fundicaoprogresso.com.br/"
+   ],
+   "mencoes_de_data": 235,
+   "situacao": "coletada",
+   "arquivo": "F034.txt"
+  },
+  {
+   "ids": [
+    "F035"
+   ],
+   "nome": "Lapa 40 Graus",
+   "url": "https://lapa40graus.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lapa40graus."
+  },
+  {
+   "ids": [
+    "F037"
+   ],
+   "nome": "LIESA / Rio Carnaval",
+   "url": "https://liesa.com.br/noticias",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 28061,
+   "url_final": "https://liesa.com.br/noticias/",
+   "paginas": [
+    "https://liesa.com.br/noticias/",
+    "https://www.riocarnaval.com/",
+    "https://liesa.com.br/ingressos/",
+    "https://liesa.com.br/sustentabilidade/faq.html",
+    "https://liesa.com.br/carnaval/mapa-do-sambodromo.html",
+    "https://liesa.com.br/carnaval/escolas.html",
+    "https://liesa.com.br/ingressos/camarotes.html",
+    "https://liesa.com.br/ingressos/frisas.html",
+    "https://liesa.com.br/carnaval/horario-dos-desfiles.html",
+    "https://liesa.com.br/memoria/outros-carnavais/",
+    "https://liesa.com.br/carnaval/ranking.html",
+    "https://liesa.com.br/memoria/colocacoes.html",
+    "https://liesa.com.br/carnaval/justificativa-dos-jurados.html"
+   ],
+   "mencoes_de_data": 144,
+   "situacao": "coletada",
+   "arquivo": "F037.txt"
+  },
+  {
+   "ids": [
+    "F044"
+   ],
+   "nome": "Museu Histórico Nacional (MHN)",
+   "url": "https://mhn.museus.gov.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "feed (10 itens)",
+    "texto de 4 página(s)"
+   ],
+   "caracteres": 11868,
+   "url_final": "https://mhn.museus.gov.br",
+   "paginas": [
+    "https://mhn.museus.gov.br",
+    "https://mhn.museus.gov.br/temporarias/",
+    "https://mhn.museus.gov.br/exposicoes-2/",
+    "https://mhn.museus.gov.br/faca-seu-evento-aqui/"
+   ],
+   "mencoes_de_data": 19,
+   "situacao": "coletada",
+   "arquivo": "F044.txt"
+  },
+  {
+   "ids": [
+    "F045"
+   ],
+   "nome": "Museu Nacional de Belas Artes (MNBA)",
+   "url": "https://gov.br/museus/pt-br/museus-ibram/mnba",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "ids": [
+    "F046"
+   ],
+   "nome": "Paço Imperial",
+   "url": "https://gov.br/iphan/pt-br/unidades-especiais/centro-cultural-paco-imperial/programa-de-exposicoes",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "ids": [
+    "F049"
+   ],
+   "nome": "Real Gabinete Português de Leitura",
+   "url": "https://realgabinete.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 33190,
+   "url_final": "https://www.realgabinete.com.br",
+   "paginas": [
+    "https://www.realgabinete.com.br",
+    "https://www.realgabinete.com.br/Agenda",
+    "https://www.realgabinete.com.br/Agenda/xxi-dialogos-de-poesia-de-lingua-portuguesa",
+    "https://www.realgabinete.com.br/O-RGPL/Associe-se",
+    "https://www.realgabinete.com.br/O-RGPL/Diretoria-e-Conselhos",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Sobre-o-Real-Gabinete/Historia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Breve-Cronologia",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Presidentes",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Cooperadores",
+    "https://www.realgabinete.com.br/O-RGPL/Sobre-o-Real-Gabinete/Estatuto-Social",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico",
+    "https://www.realgabinete.com.br/O-Real-Gabinete/Patrimonio-Artistico/Apresentacao"
+   ],
+   "mencoes_de_data": 13,
+   "situacao": "coletada",
+   "arquivo": "F049.txt"
+  },
+  {
+   "ids": [
+    "F050"
+   ],
+   "nome": "Rio Scenarium",
+   "url": "https://rioscenarium.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 5474,
+   "url_final": "https://www.rioscenarium.com.br/",
+   "paginas": [
+    "https://www.rioscenarium.com.br/",
+    "https://www.rioscenarium.com.br/copia-ambientes"
+   ],
+   "mencoes_de_data": 26,
+   "situacao": "coletada",
+   "arquivo": "F050.txt"
+  },
+  {
+   "ids": [
+    "F051"
+   ],
+   "nome": "Sala Cecília Meireles",
+   "url": "https://salaceciliameireles.rj.gov.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 28196,
+   "url_final": "https://salaceciliameireles.rj.gov.br",
+   "paginas": [
+    "https://salaceciliameireles.rj.gov.br",
+    "https://salaceciliameireles.rj.gov.br/programacao-2/",
+    "https://salaceciliameireles.rj.gov.br/programacao/colecoes/",
+    "https://salaceciliameireles.rj.gov.br/programacao/teste-1-en/",
+    "https://salaceciliameireles.rj.gov.br/programacao/centre-de-musique-baroque-de-versailles/",
+    "https://salaceciliameireles.rj.gov.br/salas/sala-cecilia-meireles/",
+    "https://salaceciliameireles.rj.gov.br/programacao/orquestra-sinfonica-da-ufrj-xxix-panorama-da-musica-brasileira-atual/",
+    "https://salaceciliameireles.rj.gov.br/programacao/centre-de-musique-baroque-de-versaille-a-lopera/",
+    "https://salaceciliameireles.rj.gov.br/programacao/30-anos-da-academia-brasileira-de-literatura-de-cordel/",
+    "https://salaceciliameireles.rj.gov.br/programacao/orquestra-sinfonica-da-unirio/",
+    "https://salaceciliameireles.rj.gov.br/programacao/orquestra-sinfonica-do-conservatorio-de-musica-de-sydney/",
+    "https://salaceciliameireles.rj.gov.br/programacao/laura-valle-canta-porter/"
+   ],
+   "mencoes_de_data": 288,
+   "situacao": "coletada",
+   "arquivo": "F051.txt"
+  },
+  {
+   "ids": [
+    "F059",
+    "F119",
+    "F168",
+    "F180",
+    "F182",
+    "F197"
+   ],
+   "nome": "Teatro João Caetano; Teatro Glaucio Gill; Teatro Armando Gonzaga; Teatro Arthur Azevedo; Teatro Mário Lago; FUNARJ (Rede Estadual)",
+   "url": "https://rj.gov.br/funarj",
+   "regioes": [
+    "Centro",
+    "Toda a cidade",
+    "Zona Norte",
+    "Zona Oeste",
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 503)"
+  },
+  {
+   "ids": [
+    "F061"
+   ],
+   "nome": "Teatro Riachuelo Rio",
+   "url": "https://teatroriachuelorio.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 13132,
+   "url_final": "https://teatroriachuelorio.com.br",
+   "paginas": [
+    "https://teatroriachuelorio.com.br",
+    "https://teatroriachuelorio.com.br/realize-seu-evento/"
+   ],
+   "mencoes_de_data": 22,
+   "situacao": "coletada",
+   "arquivo": "F061.txt"
+  },
+  {
+   "ids": [
+    "F062"
+   ],
+   "nome": "Teatro Rival Petrobras",
+   "url": "https://teatrorivalrefit.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 8238,
+   "url_final": "https://teatrorivalrefit.com.br",
+   "paginas": [
+    "https://teatrorivalrefit.com.br",
+    "https://teatrorivalrefit.com.br/eventos/",
+    "https://teatrorivalrefit.com.br/",
+    "https://teatrorivalrefit.com.br/page/2/",
+    "https://teatrorivalrefit.com.br/page/3/",
+    "https://teatrorivalrefit.com.br/page/60/"
+   ],
+   "mencoes_de_data": 43,
+   "situacao": "coletada",
+   "arquivo": "F062.txt"
+  },
+  {
+   "ids": [
+    "F063"
+   ],
+   "nome": "Theatro Municipal do Rio de Janeiro",
+   "url": "https://theatromunicipal.rj.gov.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [
+    "feed (9 itens)",
+    "texto de 5 página(s)"
+   ],
+   "caracteres": 46005,
+   "url_final": "https://theatromunicipal.rj.gov.br",
+   "paginas": [
+    "https://theatromunicipal.rj.gov.br",
+    "https://theatromunicipal.rj.gov.br/tmrj-virtual/",
+    "https://theatromunicipal.rj.gov.br/programacao-beta/",
+    "https://theatromunicipal.rj.gov.br/exposicao-ritmo-revista-interdisciplinar-do-theatro-municipal-do-rio-de-janeiro/",
+    "https://theatromunicipal.rj.gov.br/novo-calendario-da-chamada-publica-de-ocupacao-da-sala-mario-tavares/"
+   ],
+   "mencoes_de_data": 63,
+   "situacao": "coletada",
+   "arquivo": "F063.txt"
+  },
+  {
+   "ids": [
+    "F064"
+   ],
+   "nome": "Trapiche Gamboa",
+   "url": "https://trapichegamboa.com.br",
+   "regioes": [
+    "Centro"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "ids": [
+    "F065"
+   ],
+   "nome": "Anita Schwartz Galeria de Arte",
+   "url": "https://anitaschwartz.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (1 itens)",
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 88038,
+   "url_final": "https://www.anitaschwartz.com.br/",
+   "paginas": [
+    "https://www.anitaschwartz.com.br/",
+    "https://www.anitaschwartz.com.br/exposicoes/",
+    "https://www.anitaschwartz.com.br/exposicoes/nuas-e-vestidas-de-cristina-salgado/",
+    "https://www.anitaschwartz.com.br/2026/10/save-the-date-quintal-de-rosana-palazyan/",
+    "https://www.anitaschwartz.com.br/2026/08/save-the-date-nuas-e-vestidas-de-cristina-saldago/",
+    "https://www.anitaschwartz.com.br/2026/04/luciano-figueiredo-inaugura-a-individual-por-toda-parte-escreverei-o-teu-nome/",
+    "https://www.anitaschwartz.com.br/2026/04/michelle-rosset-participa-da-exposicao-coletiva-espacotempo/",
+    "https://www.anitaschwartz.com.br/2026/04/veludo-exposicao-coletiva-abre-dia-14-04-2026-com-curadoria-de-ulisses-carrilho/",
+    "https://www.anitaschwartz.com.br/2026/03/cristina-salgado-inaugura-instalacao-no-octogono-da-pinacote-da-sao-paulo/",
+    "https://www.anitaschwartz.com.br/2026/02/marjo-mizumoto-inaugura-aonde-eu-queria-estar/",
+    "https://www.anitaschwartz.com.br/2025/11/apresentando-abertura-da-exposicao-gas-25-26/",
+    "https://www.anitaschwartz.com.br/2025/11/visita-guiada-com-pedro-valera/"
+   ],
+   "mencoes_de_data": 384,
+   "situacao": "coletada",
+   "arquivo": "F065.txt"
+  },
+  {
+   "ids": [
+    "F066"
+   ],
+   "nome": "ArtRio",
+   "url": "https://artrio.com",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 61937,
+   "url_final": "https://artrio.com",
+   "paginas": [
+    "https://artrio.com",
+    "https://artrio.com/agenda-cultural",
+    "https://artrio.com/",
+    "https://artrio.com/agenda-cultural?year=2026&month=11",
+    "https://artrio.com/agenda-cultural?year=2026&month=12",
+    "https://artrio.com/agenda-cultural?year=2027&month=01",
+    "https://artrio.com/agenda-cultural/pinakotheke-sao-paulo-revolta-em-preto-e-branco",
+    "https://artrio.com/agenda-cultural/pinakotheke-sao-paulo-xxxv-silviano-santiago-por-helio-oiticica",
+    "https://artrio.com/agenda-cultural/luisa-strina-juliana-santos",
+    "https://artrio.com/agenda-cultural/luisa-strina-pedro-zylbersztajn",
+    "https://artrio.com/agenda-cultural/claraboia-e-portas-vilaseca-meia-luz-de-emilia-estrada",
+    "https://artrio.com/agenda-cultural/cassia-bomeny-galeria-adrianna-eu"
+   ],
+   "mencoes_de_data": 801,
+   "situacao": "coletada",
+   "arquivo": "F066.txt"
+  },
+  {
+   "ids": [
+    "F068"
+   ],
+   "nome": "Beco das Garrafas",
+   "url": "https://becodasgarrafas.com.br/principal/events/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 4020,
+   "url_final": "https://becodasgarrafas.com.br/principal/events/",
+   "paginas": [
+    "https://becodasgarrafas.com.br/principal/events/"
+   ],
+   "mencoes_de_data": 91,
+   "situacao": "coletada",
+   "arquivo": "F068.txt"
+  },
+  {
+   "ids": [
+    "F070"
+   ],
+   "nome": "Blue Note Rio",
+   "url": "https://bluenoterio.com.br/shows/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 4754,
+   "url_final": "https://bluenoterio.com.br/shows/",
+   "paginas": [
+    "https://bluenoterio.com.br/shows/",
+    "https://bluenoterio.com.br/eventos/"
+   ],
+   "mencoes_de_data": 2,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F070.txt"
+  },
+  {
+   "ids": [
+    "F071"
+   ],
+   "nome": "Carpintaria (Fortes D'Aloia & Gabriel)",
+   "url": "https://fdag.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 9 página(s)"
+   ],
+   "caracteres": 35754,
+   "url_final": "https://fdag.com.br",
+   "paginas": [
+    "https://fdag.com.br",
+    "https://fdag.com.br/exposicoes/",
+    "https://fdag.com.br/en/exhibitions/",
+    "https://fdag.com.br/exposicoes/proximas/",
+    "https://fdag.com.br/exposicoes/passadas/",
+    "https://fdag.com.br/exposicoes/frank-walter-filosofia-da-cor/",
+    "https://fdag.com.br/exposicoes/troca-de-segredos/",
+    "https://fdag.com.br/exposicoes/lady-snowblood/",
+    "https://fdag.com.br/exposicoes/mare-baixa/"
+   ],
+   "mencoes_de_data": 103,
+   "situacao": "coletada",
+   "arquivo": "F071.txt"
+  },
+  {
+   "ids": [
+    "F072"
+   ],
+   "nome": "Casa da Ciência da UFRJ",
+   "url": "https://casadaciencia.ufrj.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 3 página(s)"
+   ],
+   "caracteres": 14080,
+   "url_final": "https://casadaciencia.ufrj.br",
+   "paginas": [
+    "https://casadaciencia.ufrj.br",
+    "https://casadaciencia.ufrj.br/?page_id=518",
+    "https://casadaciencia.ufrj.br/?programacao=floresta-em-jogo"
+   ],
+   "mencoes_de_data": 24,
+   "situacao": "coletada",
+   "arquivo": "F072.txt"
+  },
+  {
+   "ids": [
+    "F074"
+   ],
+   "nome": "Casa Firjan",
+   "url": "https://firjan.com.br/casafirjan",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 98110,
+   "url_final": "https://casafirjan.com.br/",
+   "paginas": [
+    "https://casafirjan.com.br/",
+    "https://casafirjan.com.br/agenda",
+    "https://casafirjan.com.br/noticias/casa-firjan-inaugura-exposicao-para-construir-futuros",
+    "https://casafirjan.com.br/a-casa-firjan/quem-somos",
+    "https://casafirjan.com.br/a-casa-firjan/exposicoes-e-atividades",
+    "https://casafirjan.com.br/a-casa-firjan/exposicoes-e-atividades/exposicoes",
+    "https://casafirjan.com.br/a-casa-firjan/exposicoes-e-atividades/atividades",
+    "https://casafirjan.com.br/fab-lab/o-que-e-fab-lab",
+    "https://casafirjan.com.br/noticias/inscreva-se-no-fab-lab-open-day-e-vivencie-cultura-maker-na-casa-firjan",
+    "https://casafirjan.com.br/fab-lab/fab-lab-para-empresas",
+    "https://casafirjan.com.br/palestras-debates-e-entrevistas/aquario-casa-firjan",
+    "https://casafirjan.com.br/palestras-debates-entrevistas/podcasts",
+    "https://casafirjan.com.br/palestras-debates-e-entrevistas/podcast/lab-de-tendencias"
+   ],
+   "mencoes_de_data": 130,
+   "situacao": "coletada",
+   "arquivo": "F074.txt"
+  },
+  {
+   "ids": [
+    "F075"
+   ],
+   "nome": "Casa Museu Eva Klabin",
+   "url": "https://evaklabin.org.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 29110,
+   "url_final": "https://www.evaklabin.org.br/pt",
+   "paginas": [
+    "https://www.evaklabin.org.br/pt",
+    "https://www.evaklabin.org.br/pt/eventos",
+    "https://www.evaklabin.org.br/pt/programacao/oficina/erika-palomino",
+    "https://www.evaklabin.org.br/pt/sobre/eva-klabin",
+    "https://www.evaklabin.org.br/pt/sobre/casa-museu",
+    "https://www.evaklabin.org.br/pt/sobre/quem-somos",
+    "https://www.evaklabin.org.br/pt/sobre/fale-conosco",
+    "https://www.evaklabin.org.br/pt/sobre/duvidas",
+    "https://www.evaklabin.org.br/pt/programacao",
+    "https://www.evaklabin.org.br/pt/explore/colecao",
+    "https://www.evaklabin.org.br/pt/explore/pesquisa-e-conservacao",
+    "https://www.evaklabin.org.br/pt/explore/educacao",
+    "https://www.evaklabin.org.br/pt/explore/musica"
+   ],
+   "mencoes_de_data": 60,
+   "situacao": "coletada",
+   "arquivo": "F075.txt"
+  },
+  {
+   "ids": [
+    "F076"
+   ],
+   "nome": "Casa Roberto Marinho",
+   "url": "https://casarobertomarinho.org.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 50616,
+   "url_final": "https://casarobertomarinho.org.br",
+   "paginas": [
+    "https://casarobertomarinho.org.br",
+    "https://casarobertomarinho.org.br/acontece?locale=pt-BR",
+    "https://casarobertomarinho.org.br/exposicao/58?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/639?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/638?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/637?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/636?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/635?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/634?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/633?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/632?locale=pt-BR",
+    "https://casarobertomarinho.org.br/acontece/630?locale=pt-BR"
+   ],
+   "mencoes_de_data": 659,
+   "situacao": "coletada",
+   "arquivo": "F076.txt"
+  },
+  {
+   "ids": [
+    "F080"
+   ],
+   "nome": "Cinesystem Belas Artes Botafogo",
+   "url": "https://cinesystem.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 240,
+   "url_final": "https://www.cinesystem.com.br/",
+   "paginas": [
+    "https://www.cinesystem.com.br/"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F080.txt"
+  },
+  {
+   "ids": [
+    "F082"
+   ],
+   "nome": "Danielian Galeria",
+   "url": "https://danielian.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 27737,
+   "url_final": "https://danielian.com.br",
+   "paginas": [
+    "https://danielian.com.br",
+    "https://danielian.com.br/menu-expo"
+   ],
+   "mencoes_de_data": 42,
+   "situacao": "coletada",
+   "arquivo": "F082.txt"
+  },
+  {
+   "ids": [
+    "F083"
+   ],
+   "nome": "EAV Parque Lage",
+   "url": "https://eavparquelage.rj.gov.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 45119,
+   "url_final": "https://eavparquelage.rj.gov.br",
+   "paginas": [
+    "https://eavparquelage.rj.gov.br",
+    "https://eavparquelage.rj.gov.br/acontece",
+    "https://eavparquelage.rj.gov.br/a-escola/sobre",
+    "https://eavparquelage.rj.gov.br/a-escola/equipe",
+    "https://eavparquelage.rj.gov.br/a-escola/professores",
+    "https://eavparquelage.rj.gov.br/a-escola/ameav",
+    "https://eavparquelage.rj.gov.br/a-escola/biblioteca",
+    "https://eavparquelage.rj.gov.br/a-escola/intercambio",
+    "https://eavparquelage.rj.gov.br/projetos/nossos-museus-rj",
+    "https://eavparquelage.rj.gov.br/projetos/visualidade-brasileira-em-50-anos-de-artes-visuais",
+    "https://eavparquelage.rj.gov.br/apoie/programa-amigo-eav",
+    "https://eavparquelage.rj.gov.br/apoie/doe-seu-ir"
+   ],
+   "mencoes_de_data": 70,
+   "situacao": "coletada",
+   "arquivo": "F083.txt"
+  },
+  {
+   "ids": [
+    "F084"
+   ],
+   "nome": "EcoVilla Ri Happy",
+   "url": "https://ecovillarihappy.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 3 página(s)"
+   ],
+   "caracteres": 15118,
+   "url_final": "https://ecovillarihappy.com.br",
+   "paginas": [
+    "https://ecovillarihappy.com.br",
+    "https://ecovillarihappy.com.br/programacao/",
+    "https://ecovillarihappy.com.br/realize-seu-evento/"
+   ],
+   "mencoes_de_data": 61,
+   "situacao": "coletada",
+   "arquivo": "F084.txt"
+  },
+  {
+   "ids": [
+    "F087"
+   ],
+   "nome": "Fundação Casa de Rui Barbosa",
+   "url": "https://gov.br/casaderuibarbosa/pt-br/assuntos/eventos",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "ids": [
+    "F088"
+   ],
+   "nome": "Futuros – Arte e Tecnologia (Oi Futuro)",
+   "url": "https://futuros.org.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 41917,
+   "url_final": "https://petrobrasfuturos.com.br/",
+   "paginas": [
+    "https://petrobrasfuturos.com.br/",
+    "https://petrobrasfuturos.com.br/programacao/",
+    "https://petrobrasfuturos.com.br/programacoes/exposicoes/",
+    "https://petrobrasfuturos.com.br/programacoes/teatro/",
+    "https://petrobrasfuturos.com.br/programacoes/musehum/",
+    "https://petrobrasfuturos.com.br/programacoes/programa-educativo/",
+    "https://petrobrasfuturos.com.br/programacoes/eventos/",
+    "https://petrobrasfuturos.com.br/programa-educativo/",
+    "https://petrobrasfuturos.com.br/programacao/exposicao-escrevendo-com-a-luz-zumvi/",
+    "https://petrobrasfuturos.com.br/programacao/exposicao-de-onde-venho-priscila-rooxo/",
+    "https://petrobrasfuturos.com.br/programacao/imunidade-instalacao-multimidia/",
+    "https://petrobrasfuturos.com.br/programacao/nhee-se-desejo-de-fala-exposicao-arte-indigena-contemporanea/"
+   ],
+   "mencoes_de_data": 245,
+   "situacao": "coletada",
+   "arquivo": "F088.txt"
+  },
+  {
+   "ids": [
+    "F089"
+   ],
+   "nome": "Galeria Athena",
+   "url": "https://galeriaathena.com",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 3 página(s)"
+   ],
+   "caracteres": 11974,
+   "url_final": "https://galeriaathena.com",
+   "paginas": [
+    "https://galeriaathena.com",
+    "https://galeriaathena.com/exhibitions/past/2026/",
+    "https://galeriaathena.com/en/exhibitions/past/2026/"
+   ],
+   "mencoes_de_data": 35,
+   "situacao": "coletada",
+   "arquivo": "F089.txt"
+  },
+  {
+   "ids": [
+    "F090"
+   ],
+   "nome": "Galeria Nara Roesler",
+   "url": "https://nararoesler.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1011)>"
+  },
+  {
+   "ids": [
+    "F091"
+   ],
+   "nome": "Grupo Estação (Botafogo, Gávea, Rio)",
+   "url": "https://grupoestacao.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (7 itens)",
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 36368,
+   "url_final": "https://grupoestacao.com.br",
+   "paginas": [
+    "https://grupoestacao.com.br",
+    "https://grupoestacao.com.br/cinemas/",
+    "https://grupoestacao.com.br/em-cartaz/",
+    "https://grupoestacao.com.br/experimente/",
+    "https://grupoestacao.com.br/cinemas/estacao-claro-botafogo/",
+    "https://grupoestacao.com.br/cinemas/estacao-claro-gavea/",
+    "https://grupoestacao.com.br/cinemas/estacao-claro-rio/",
+    "https://grupoestacao.com.br/cinemas/estacao-claro-botafogo/",
+    "https://grupoestacao.com.br/cinemas/estacao-claro-gavea/",
+    "https://grupoestacao.com.br/cinemas/estacao-claro-rio/",
+    "https://grupoestacao.com.br/filme/minotauro/",
+    "https://grupoestacao.com.br/filme/os-demonios-relancamento/",
+    "https://grupoestacao.com.br/filme/tudo-pode-ser-visto/",
+    "https://grupoestacao.com.br/filme/enfeiticadas-bem-vindos-a-hexe/"
+   ],
+   "mencoes_de_data": 162,
+   "situacao": "coletada",
+   "arquivo": "F091.txt"
+  },
+  {
+   "ids": [
+    "F092"
+   ],
+   "nome": "IMS Rio (Instituto Moreira Salles)",
+   "url": "https://ims.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (5 itens)",
+    "calendário WordPress (40 eventos)",
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 70810,
+   "url_final": "https://ims.com.br",
+   "paginas": [
+    "https://ims.com.br",
+    "https://ims.com.br/expos/",
+    "https://ims.com.br/cinema/",
+    "https://ims.com.br/convida/",
+    "https://ims.com.br/tours-virtuais/",
+    "https://ims.com.br/acervos/pesquise-nos-acervos/",
+    "https://ims.com.br/acervos/biblioteca-ims-paulista/",
+    "https://ims.com.br/acervos/centro-de-memoria-e-documentacao/",
+    "https://ims.com.br/acervos/fotografia/",
+    "https://ims.com.br/acervos/iconografia/",
+    "https://ims.com.br/acervos/literatura/",
+    "https://ims.com.br/acervos/musica/",
+    "https://ims.com.br/programacao/cinema-2/",
+    "https://ims.com.br/blog-do-cinema/"
+   ],
+   "mencoes_de_data": 148,
+   "situacao": "coletada",
+   "arquivo": "F092.txt"
+  },
+  {
+   "ids": [
+    "F093"
+   ],
+   "nome": "Jardim Botânico do Rio de Janeiro",
+   "url": "https://gov.br/jbrj",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+   "ids": [
+    "F094"
+   ],
+   "nome": "Livraria Argumento",
+   "url": "https://livrariaargumento.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.livrariaargu"
+  },
+  {
+   "ids": [
+    "F095"
+   ],
+   "nome": "Livraria Blooks",
+   "url": "https://blooks.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 9324,
+   "url_final": "https://blooks.com.br",
+   "paginas": [
+    "https://blooks.com.br"
+   ],
+   "mencoes_de_data": 8,
+   "situacao": "coletada",
+   "arquivo": "F095.txt"
+  },
+  {
+   "ids": [
+    "F096"
+   ],
+   "nome": "Livraria Martins Fontes / Prefácio",
+   "url": "https://livrariaprefacio.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "ids": [
+    "F097"
+   ],
+   "nome": "MAM Rio (Museu de Arte Moderna)",
+   "url": "https://mam.rio",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (5 itens)",
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 59889,
+   "url_final": "https://mam.rio",
+   "paginas": [
+    "https://mam.rio",
+    "https://mam.rio/cinemateca/",
+    "https://mam.rio/programacao/",
+    "https://mam.rio/bloco-escola/",
+    "https://mam.rio/cinemateca/agenda/este-mes/",
+    "https://mam.rio/cinemateca/sobre-a-cinemateca/",
+    "https://mam.rio/cinemateca/cinemateca-historico/",
+    "https://mam.rio/cinemateca/cinemateca-cronologia/",
+    "https://mam.rio/cinemateca/nova-identidade-visual-da-cinemateca/",
+    "https://mam.rio/acervo/colecoes-cinemateca/",
+    "https://mam.rio/cinemateca/artigos/",
+    "https://mam.rio/cinemateca/cinemateca-no-ccbbrj/",
+    "https://mam.rio/cinemateca/mais-cinemateca/",
+    "https://mam.rio/cinemateca/4-mostra-petrobras-de-cinema-brasileiro-materias-da-memoria/"
+   ],
+   "mencoes_de_data": 87,
+   "situacao": "coletada",
+   "arquivo": "F097.txt"
+  },
+  {
+   "ids": [
+    "F098"
+   ],
+   "nome": "Marina da Glória",
+   "url": "https://marinadagloria.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 2835,
+   "url_final": "https://brmarinas.com.br/axia-marina-da-gloria//",
+   "paginas": [
+    "https://brmarinas.com.br/axia-marina-da-gloria//"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F098.txt"
+  },
+  {
+   "ids": [
+    "F100"
+   ],
+   "nome": "Mercedes Viegas Arte Contemporânea",
+   "url": "https://mercedesviegas.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 24730,
+   "url_final": "https://www.mercedesviegas.com.br/",
+   "paginas": [
+    "https://www.mercedesviegas.com.br/",
+    "https://www.mercedesviegas.com.br/exposicoes",
+    "https://www.mercedesviegas.com.br/exposicoes/ecos",
+    "https://www.mercedesviegas.com.br/exposicoes/desestruturas",
+    "https://www.mercedesviegas.com.br/exposicoes/artrio-2026-",
+    "https://www.mercedesviegas.com.br/exposicoes/garotas-pellegrino-sodre",
+    "https://www.mercedesviegas.com.br/exposicoes/mercado-de-previsao",
+    "https://www.mercedesviegas.com.br/exposicoes/tempo-suspenso-tete-sa",
+    "https://www.mercedesviegas.com.br/exposicoes/cadernos-franca",
+    "https://www.mercedesviegas.com.br/exposicoes/averbacao",
+    "https://www.mercedesviegas.com.br/exposicoes/criaturas-everardo-miranda",
+    "https://www.mercedesviegas.com.br/exposicoes/hipermar-kemper"
+   ],
+   "mencoes_de_data": 295,
+   "situacao": "coletada",
+   "arquivo": "F100.txt"
+  },
+  {
+   "ids": [
+    "F101"
+   ],
+   "nome": "Mul.ti.plo Espaço Arte",
+   "url": "https://multiploespacoarte.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 17826,
+   "url_final": "https://www.mmmgaleria.com.br/",
+   "paginas": [
+    "https://www.mmmgaleria.com.br/",
+    "https://www.mmmgaleria.com.br/exposies",
+    "https://www.mmmgaleria.com.br/cones-expo-2026/#itemId=6998bad334ed8049bebf89c3",
+    "https://www.mmmgaleria.com.br/cones-expo-2026/#itemId=69cd74a83f96fa361d5d88f5",
+    "https://www.mmmgaleria.com.br/cones-expo-2026/#itemId=6a0dff1bf52341511c56b295",
+    "https://www.mmmgaleria.com.br/cones-expo-2026/#itemId=6a79e137417d4b4474b37df2",
+    "https://www.mmmgaleria.com.br/cones-expo-2026/#itemId=6ac9225520c8876b31e7df6d",
+    "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=67fa852090360a7aced9b202",
+    "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=685305c734e7fd265188e49d",
+    "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=69172e563360f70bf1699fa7",
+    "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=68d558e8144bec4c590484af",
+    "https://www.mmmgaleria.com.br/cones-expo-2025/#itemId=693c28356b381f6c363397a1"
+   ],
+   "mencoes_de_data": 320,
+   "situacao": "coletada",
+   "arquivo": "F101.txt"
+  },
+  {
+   "ids": [
+    "F102"
+   ],
+   "nome": "Museu da República (Palácio do Catete)",
+   "url": "https://museudarepublica.museus.gov.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (2 itens)",
+    "texto de 9 página(s)"
+   ],
+   "caracteres": 23079,
+   "url_final": "https://museudarepublica.museus.gov.br",
+   "paginas": [
+    "https://museudarepublica.museus.gov.br",
+    "https://museudarepublica.museus.gov.br/eventos-2/",
+    "https://museudarepublica.museus.gov.br/exposicoes-2/",
+    "https://museudarepublica.museus.gov.br/agenda-de-julho/",
+    "https://museudarepublica.museus.gov.br/programa-de-memoria-institucional/",
+    "https://museudarepublica.museus.gov.br/exposicoes-da-galeria-do-lago/",
+    "https://museudarepublica.museus.gov.br/exposicoes-atuais/",
+    "https://museudarepublica.museus.gov.br/exposicoes-anteriores/",
+    "https://museudarepublica.museus.gov.br/galeria-do-lago-recebe-o-jardim-da-memoria-exposicao-de-rodrigo-borges/"
+   ],
+   "mencoes_de_data": 104,
+   "situacao": "coletada",
+   "arquivo": "F102.txt"
+  },
+  {
+   "ids": [
+    "F104"
+   ],
+   "nome": "Museu Villa-Lobos",
+   "url": "https://museuvillalobos.museus.gov.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 4 página(s)"
+   ],
+   "caracteres": 7374,
+   "url_final": "https://museuvillalobos.museus.gov.br",
+   "paginas": [
+    "https://museuvillalobos.museus.gov.br",
+    "https://museuvillalobos.museus.gov.br/2026/04/28/agendamento/",
+    "https://museuvillalobos.museus.gov.br/2025/07/21/exposicoes-virtuais/",
+    "https://museuvillalobos.museus.gov.br/2025/07/22/eventos-especiais-2/"
+   ],
+   "mencoes_de_data": 3,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F104.txt"
+  },
+  {
+   "ids": [
+    "F105"
+   ],
+   "nome": "Pinakotheke Cultural",
+   "url": "https://pinakotheke.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 41363,
+   "url_final": "https://pinakotheke.com.br",
+   "paginas": [
+    "https://pinakotheke.com.br",
+    "https://pinakotheke.com.br/exhibitions/",
+    "https://pinakotheke.com.br/exhibitions/35/overview/",
+    "https://pinakotheke.com.br/news/25-revolta-em-preto-e-branco-exposicao-e-destaque-no-segundo-caderno-do-o/",
+    "https://pinakotheke.com.br/en/exhibitions/",
+    "https://pinakotheke.com.br/exhibitions/38-revolta-em-preto-e-branco-pinakotheke-sao-paulo/overview/",
+    "https://pinakotheke.com.br/exhibitions/36-revolta-em-preto-e-branco-pinakotheke-rio-de-janeiro/overview/",
+    "https://pinakotheke.com.br/exhibitions/37-xxxv-silviano-santiago-por-helio-oiticica-pinakotheke-rio-de-janeiro/overview/",
+    "https://pinakotheke.com.br/exhibitions/35-entre-espacos-raul-mourao-e-marcius-galan-pinakotheke-fortaleza/overview/",
+    "https://pinakotheke.com.br/exhibitions/34-surrealismos-arte-para-alem-da-razao-pinakotheke-sao-paulo/overview/",
+    "https://pinakotheke.com.br/exhibitions/32-frederico-morais-arte-e-critica-pinakotheke-cultural/overview/",
+    "https://pinakotheke.com.br/exhibitions/33-o-inicio-do-mundo-pinakotheke-cultural/overview/",
+    "https://pinakotheke.com.br/exhibitions/31-anima-christian-cravo-multiarte/overview/",
+    "https://pinakotheke.com.br/exhibitions/23-djanira-110-anos-pinakotheke-cultural/overview/"
+   ],
+   "mencoes_de_data": 160,
+   "situacao": "coletada",
+   "arquivo": "F105.txt"
+  },
+  {
+   "ids": [
+    "F107"
+   ],
+   "nome": "Portas Vilaseca Galeria",
+   "url": "https://portasvilaseca.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 13663,
+   "url_final": "https://portasvilaseca.com.br/pt",
+   "paginas": [
+    "https://portasvilaseca.com.br/pt",
+    "https://portasvilaseca.com.br/pt/exposicoes",
+    "https://portasvilaseca.com.br/pt/noticia/paco-imperial-apresenta-claudia-hersz-mostra-a-sua-cara",
+    "https://portasvilaseca.com.br/pt/noticia/kika-carvalho-participa-da-exposicao-eu-sou-porque-somos-no-cais-das-artes-em-vitoria-es",
+    "https://portasvilaseca.com.br/pt/exposicao/o-tempo-da-cor-kika-carvalho",
+    "https://portasvilaseca.com.br/pt/exposicao/das-promessas-que-a-gente-fez-kika-carvalho"
+   ],
+   "mencoes_de_data": 32,
+   "situacao": "coletada",
+   "arquivo": "F107.txt"
+  },
+  {
+   "ids": [
+    "F112"
+   ],
+   "nome": "Silvia Cintra + Box 4",
+   "url": "https://silviacintra.com.br/exposicoes/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 666,
+   "url_final": "https://silviacintra.com.br/exposicoes/",
+   "paginas": [
+    "https://silviacintra.com.br/exposicoes/",
+    "https://silviacintra.com.br/exposicoes/o-silencio/"
+   ],
+   "mencoes_de_data": 2,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F112.txt"
+  },
+  {
+   "ids": [
+    "F113"
+   ],
+   "nome": "Solar de Botafogo",
+   "url": "https://solardebotafogo.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "recusou a visita (código 403)"
+  },
+  {
+   "ids": [
+    "F114"
+   ],
+   "nome": "Teatro Casa Grande",
+   "url": "https://teatrocasagrande.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 21971,
+   "url_final": "https://www.teatroaxiacasagrande.com.br/",
+   "paginas": [
+    "https://www.teatroaxiacasagrande.com.br/",
+    "https://www.teatroaxiacasagrande.com.br/eventos/",
+    "https://www.teatroaxiacasagrande.com.br/programacao/",
+    "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/o-mercador-de-veneza/",
+    "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/leo-gandelman-cosmos/",
+    "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/miraculous-o-show-oficial-da-ladybug/"
+   ],
+   "mencoes_de_data": 92,
+   "situacao": "coletada",
+   "arquivo": "F114.txt"
+  },
+  {
+   "ids": [
+    "F116"
+   ],
+   "nome": "Teatro das Artes",
+   "url": "https://teatrodasartes.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "dados estruturados (19 eventos)",
+    "texto de 11 página(s)"
+   ],
+   "caracteres": 37589,
+   "url_final": "https://teatrodasartes.com.br",
+   "paginas": [
+    "https://teatrodasartes.com.br",
+    "https://teatrodasartes.com.br/locacao/",
+    "https://teatrodasartes.com.br/programacao/",
+    "https://teatrodasartes.com.br/eventos-passados/",
+    "https://teatrodasartes.com.br/eventos/universo-infantil/",
+    "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
+    "https://teatrodasartes.com.br/eventos/ca-entre-nos-dezembro-2026/",
+    "https://teatrodasartes.com.br/eventos/ca-entre-nos-9-dezembro-2026/",
+    "https://teatrodasartes.com.br/eventos/a-gongada-das-mil-xuxas-dezembro-2026/",
+    "https://teatrodasartes.com.br/eventos/psicologa-segundo-meu-psiquiatra-janeiro-2027/",
+    "https://teatrodasartes.com.br/eventos/uma-vida-de-amizade-janeiro-2027/"
+   ],
+   "mencoes_de_data": 99,
+   "situacao": "coletada",
+   "arquivo": "F116.txt"
+  },
+  {
+   "ids": [
+    "F118"
+   ],
+   "nome": "Teatro dos Quatro",
+   "url": "https://teatrodos4.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "ids": [
+    "F123"
+   ],
+   "nome": "Teatro Poeira & Poeirinha",
+   "url": "https://teatropoeira.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 4 página(s)"
+   ],
+   "caracteres": 13160,
+   "url_final": "https://www.teatropoeira.com.br/",
+   "paginas": [
+    "https://www.teatropoeira.com.br/",
+    "https://www.teatropoeira.com.br/margaridas",
+    "https://www.teatropoeira.com.br/antesdepois",
+    "https://www.teatropoeira.com.br/adoravel-face"
+   ],
+   "mencoes_de_data": 50,
+   "situacao": "coletada",
+   "arquivo": "F123.txt"
+  },
+  {
+   "ids": [
+    "F125"
+   ],
+   "nome": "Teatro TotalEnergies (antigo PetraGold)",
+   "url": "https://teatrototalenergies.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "dados estruturados (5 eventos)",
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 11658,
+   "url_final": "https://teatro.totalenergies.com.br/",
+   "paginas": [
+    "https://teatro.totalenergies.com.br/",
+    "https://teatro.totalenergies.com.br/eventos-corporativos"
+   ],
+   "mencoes_de_data": 27,
+   "situacao": "coletada",
+   "arquivo": "F125.txt"
+  },
+  {
+   "ids": [
+    "F126"
+   ],
+   "nome": "Vivo Rio",
+   "url": "https://vivorio.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 34339,
+   "url_final": "https://vivorio.com.br",
+   "paginas": [
+    "https://vivorio.com.br",
+    "https://vivorio.com.br/ingressos/",
+    "https://vivorio.com.br/no-dia-do-show/",
+    "https://vivorio.com.br/faca-seu-evento/",
+    "https://vivorio.com.br/eventos/paulinho-da-viola-2/",
+    "https://vivorio.com.br/eventos/leandro-karnal/",
+    "https://vivorio.com.br/eventos/pitty/",
+    "https://vivorio.com.br/eventos/rick-wakeman/",
+    "https://vivorio.com.br/eventos/tarja-turunen/",
+    "https://vivorio.com.br/eventos/mundo-torajo/",
+    "https://vivorio.com.br/eventos/natal-do-bita-com-orquestra-petrobras-sinfonica/",
+    "https://vivorio.com.br/eventos/kysha-e-mine/"
+   ],
+   "mencoes_de_data": 91,
+   "situacao": "coletada",
+   "arquivo": "F126.txt"
+  },
+  {
+   "ids": [
+    "F127"
+   ],
+   "nome": "Z42 Arte",
+   "url": "https://z42arte.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [Errno -2] Name or service not known>"
+  },
+  {
+   "ids": [
+    "F133"
+   ],
+   "nome": "Espaço Hall",
+   "url": "https://espacohall.com.br",
+   "regioes": [
+    "Zona Sudoeste"
+   ],
+   "degraus": [
+    "feed (1 itens)",
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 7305,
+   "url_final": "https://espacohall.com.br",
+   "paginas": [
+    "https://espacohall.com.br",
+    "https://espacohall.com.br/agenda/"
+   ],
+   "mencoes_de_data": 21,
+   "situacao": "coletada",
+   "arquivo": "F133.txt"
+  },
+  {
+   "ids": [
+    "F134"
+   ],
+   "nome": "Farmasi Arena",
+   "url": "https://farmasiarena.com.br",
+   "regioes": [
+    "Zona Sudoeste"
+   ],
+   "degraus": [
+    "texto de 5 página(s)"
+   ],
+   "caracteres": 25570,
+   "url_final": "https://farmasiarena.com.br",
+   "paginas": [
+    "https://farmasiarena.com.br",
+    "https://farmasiarena.com.br/show/",
+    "https://farmasiarena.com.br/eventos-corporativos/",
+    "https://farmasiarena.com.br/eventos-esportivos/",
+    "https://farmasiarena.com.br/proximos-eventos/"
+   ],
+   "mencoes_de_data": 7,
+   "situacao": "coletada",
+   "arquivo": "F134.txt"
+  },
+  {
+   "ids": [
+    "F135"
+   ],
+   "nome": "Museu Bispo do Rosário Arte Contemporânea",
+   "url": "https://museubispodorosario.com",
+   "regioes": [
+    "Zona Sudoeste"
+   ],
+   "degraus": [
+    "feed (2 itens)",
+    "dados estruturados (1 eventos)",
+    "texto de 6 página(s)"
+   ],
+   "caracteres": 16172,
+   "url_final": "https://museubispodorosario.com",
+   "paginas": [
+    "https://museubispodorosario.com",
+    "https://museubispodorosario.com/casa-b-2/",
+    "https://museubispodorosario.com/exposicoes/",
+    "https://museubispodorosario.com/mediacao-e-programas-publicos/",
+    "https://museubispodorosario.com/programa-de-geracao-de-trabalho-e-renda/",
+    "https://museubispodorosario.com/eventos/stella-do-patrocinio/"
+   ],
+   "mencoes_de_data": 17,
+   "situacao": "coletada",
+   "arquivo": "F135.txt"
+  },
+  {
+   "ids": [
+    "F136"
+   ],
+   "nome": "Museu do Pontal",
+   "url": "https://museudopontal.org.br",
+   "regioes": [
+    "Zona Sudoeste"
+   ],
+   "degraus": [
+    "feed (10 itens)",
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 18729,
+   "url_final": "https://museudopontal.org.br",
+   "paginas": [
+    "https://museudopontal.org.br",
+    "https://museudopontal.org.br/exposicoes/",
+    "https://museudopontal.org.br/programacao/",
+    "https://museudopontal.org.br/exposicoes-anteriores/",
+    "https://museudopontal.org.br/exposicao/festas-sambas-e-outros-carnavais/",
+    "https://museudopontal.org.br/exposicao/veio-a-escuta-do-sertao/",
+    "https://museudopontal.org.br/exposicao/roraimarte-iii/",
+    "https://museudopontal.org.br/exposicao/jose-bezerra-e-artistas-do-vale-do-catimbau-1/",
+    "https://museudopontal.org.br/exposicao/jacques-100-anos/",
+    "https://museudopontal.org.br/exposicao/novos-ares-pontal-reinventado/",
+    "https://museudopontal.org.br/programacao/contos-de-principe-29-nov/",
+    "https://museudopontal.org.br/programacao/raizes-que-pulsam-28-novembro-16h/",
+    "https://museudopontal.org.br/eventos/novasexposicoes/"
+   ],
+   "mencoes_de_data": 26,
+   "situacao": "coletada",
+   "arquivo": "F136.txt"
+  },
+  {
+   "ids": [
+    "F137"
+   ],
+   "nome": "Qualistage",
+   "url": "https://qualistage.com.br",
+   "regioes": [
+    "Zona Sudoeste"
+   ],
+   "degraus": [
+    "texto de 11 página(s)"
+   ],
+   "caracteres": 80874,
+   "url_final": "https://qualistage.com.br",
+   "paginas": [
+    "https://qualistage.com.br",
+    "https://qualistage.com.br/eventos",
+    "https://qualistage.com.br/evento/438/jorge-vercillo",
+    "https://qualistage.com.br/evento/431/gipsy-kings-part-sidney-magal",
+    "https://qualistage.com.br/evento/435/geriatricus",
+    "https://qualistage.com.br/evento/441/ferrugem",
+    "https://qualistage.com.br/evento/423/mauricio-manieri",
+    "https://qualistage.com.br/evento/443/di-ferrero-e-thiago-castanho-e-marcao-britto-charlie-brown-jr",
+    "https://qualistage.com.br/evento/424/rodrigo-teaser-data-extra-2",
+    "https://qualistage.com.br/evento/426/jack-johnson",
+    "https://qualistage.com.br/evento/449/ballet-de-kiev"
+   ],
+   "mencoes_de_data": 25,
+   "situacao": "coletada",
+   "arquivo": "F137.txt"
+  },
+  {
+   "ids": [
+    "F138"
+   ],
+   "nome": "Teatro Multiplan",
+   "url": "https://teatromultiplan.com.br",
+   "regioes": [
+    "Zona Sudoeste"
+   ],
+   "degraus": [
+    "texto de 8 página(s)"
+   ],
+   "caracteres": 11882,
+   "url_final": "https://teatromultiplan.com.br",
+   "paginas": [
+    "https://teatromultiplan.com.br",
+    "https://teatromultiplan.com.br/eventos/",
+    "https://teatromultiplan.com.br/programacao/",
+    "https://teatromultiplan.com.br/eventos/terapia-2026/",
+    "https://teatromultiplan.com.br/eventos/o-quebra-nozes-2026/",
+    "https://teatromultiplan.com.br/eventos/percy-jackson-musical-2026/",
+    "https://teatromultiplan.com.br/eventos/iron-maiden-symphonic-2026/",
+    "https://teatromultiplan.com.br/eventos/almost-elton-john-2027/"
+   ],
+   "mencoes_de_data": 28,
+   "situacao": "coletada",
+   "arquivo": "F138.txt"
+  },
+  {
+   "ids": [
+    "F152"
+   ],
+   "nome": "Centro Cultural da UERJ (Teatro Odylo Costa Filho e outros)",
+   "url": "https://uerj.br",
+   "regioes": [
+    "Zona Norte"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error timed out>"
+  },
+  {
+   "ids": [
+    "F157"
+   ],
+   "nome": "Galpão Bela Maré / Observatório de Favelas",
+   "url": "https://observatoriodefavelas.org.br",
+   "regioes": [
+    "Zona Norte"
+   ],
+   "degraus": [
+    "texto de 4 página(s)"
+   ],
+   "caracteres": 17633,
+   "url_final": "https://observatoriodefavelas.org.br",
+   "paginas": [
+    "https://observatoriodefavelas.org.br",
+    "https://observatoriodefavelas.org.br/agenda/exposicao-do-mangue-a-laje/",
+    "https://observatoriodefavelas.org.br/agenda/programacao-bela-mare-novembro/",
+    "https://observatoriodefavelas.org.br/agenda/programacao-arena-dicro-novembro/"
+   ],
+   "mencoes_de_data": 1,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F157.txt"
+  },
+  {
+   "ids": [
+    "F158"
+   ],
+   "nome": "Imperator (Centro Cultural João Nogueira)",
+   "url": "http://imperator.rj.gov.br/",
+   "regioes": [
+    "Zona Norte"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>"
+  },
+  {
+   "ids": [
+    "F167"
+   ],
+   "nome": "Superliga Carnavalesca do Brasil",
+   "url": "https://superligacarnavalesca.com.br",
+   "regioes": [
+    "Zona Norte"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)>"
+  },
+  {
+   "ids": [
+    "F181"
+   ],
+   "nome": "Teatro Bangu Shopping",
+   "url": "https://teatrobangushopping.com.br",
+   "regioes": [
+    "Zona Oeste"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 25676,
+   "url_final": "https://teatrobangushopping.com.br",
+   "paginas": [
+    "https://teatrobangushopping.com.br",
+    "https://teatrobangushopping.com.br/eventos",
+    "https://teatrobangushopping.com.br/programacao",
+    "https://teatrobangushopping.com.br/evento/brincando-com-bento-e-toto",
+    "https://teatrobangushopping.com.br/evento/melodrama",
+    "https://teatrobangushopping.com.br/evento/rodrigo-santanna-mulheres-em-turbulencia",
+    "https://teatrobangushopping.com.br/evento/bita-em-festa-dos-bichos",
+    "https://teatrobangushopping.com.br/evento/murilo-couto-novo-show",
+    "https://teatrobangushopping.com.br/evento/cacau-protasio-e-romulo-bellotti-em-durval-e-valcylange",
+    "https://teatrobangushopping.com.br/evento/trilhas-epicas-de-game-of-thrones-e-senhor-dos-aneis",
+    "https://teatrobangushopping.com.br/evento/flavio-andrade-como-sobreviver-a-propria-familia",
+    "https://teatrobangushopping.com.br/evento/evy-baddie-vai-tour",
+    "https://teatrobangushopping.com.br/evento/show-da-jessica"
+   ],
+   "mencoes_de_data": 142,
+   "situacao": "coletada",
+   "arquivo": "F181.txt"
+  },
+  {
+   "ids": [
+    "F186"
+   ],
+   "nome": "Fórum de Ciência e Cultura da UFRJ",
+   "url": "https://forum.ufrj.br",
+   "regioes": [
+    "Várias"
+   ],
+   "degraus": [
+    "feed (3 itens)",
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 36453,
+   "url_final": "https://forum.ufrj.br",
+   "paginas": [
+    "https://forum.ufrj.br",
+    "https://forum.ufrj.br/eventos/",
+    "https://forum.ufrj.br/o-forum/historia/",
+    "https://forum.ufrj.br/o-forum/equipe/",
+    "https://forum.ufrj.br/o-forum/organograma/",
+    "https://forum.ufrj.br/o-forum/regimento/",
+    "https://forum.ufrj.br/o-forum/conselho-diretor/",
+    "https://forum.ufrj.br/patrimonio-cultural/patrimonio-tombado/",
+    "https://forum.ufrj.br/patrimonio-cultural/acervos/",
+    "https://forum.ufrj.br/o-forum/sistema-eletronico-de-informacoes/",
+    "https://forum.ufrj.br/o-forum/identidade-visual/",
+    "https://forum.ufrj.br/comunicacao/radio-ufrj/"
+   ],
+   "mencoes_de_data": 35,
+   "situacao": "coletada",
+   "arquivo": "F186.txt"
+  },
+  {
+   "ids": [
+    "F189"
+   ],
+   "nome": "Livraria da Travessa",
+   "url": "https://travessa.com.br/eventos",
+   "regioes": [
+    "Várias"
+   ],
+   "degraus": [
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 59437,
+   "url_final": "https://www.travessa.com.br/eventos",
+   "paginas": [
+    "https://www.travessa.com.br/eventos",
+    "https://www.travessa.com.br/Eventos",
+    "https://www.travessa.com.br/wpgArtFiltroSeg.aspx?Lanc=C&TipoArtigo=4&TipoPagina=G",
+    "https://www.travessa.com.br/wpgArtFiltroSeg.aspx?Lanc=E&TipoArtigo=4&TipoPagina=G",
+    "https://www.travessa.com.br/livros/artes",
+    "https://www.travessa.com.br/livros/ciencias",
+    "https://www.travessa.com.br/livros/humanidades",
+    "https://www.travessa.com.br/livros/saude-esporte-lazer",
+    "https://www.travessa.com.br/livros/literatura-ficcao",
+    "https://www.travessa.com.br/livros/guias-turismo",
+    "https://www.travessa.com.br/wpgLivrosInfantoJuvenil.aspx?segmento=infantil",
+    "https://www.travessa.com.br/livros/idiomas-referencia",
+    "https://www.travessa.com.br/dvds/filmes",
+    "https://www.travessa.com.br/dvds/show"
+   ],
+   "mencoes_de_data": 68,
+   "situacao": "coletada",
+   "arquivo": "F189.txt"
+  },
+  {
+   "ids": [
+    "F190"
+   ],
+   "nome": "Museu da Imagem e do Som (MIS RJ)",
+   "url": "https://mis.rj.gov.br",
+   "regioes": [
+    "Várias"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 846,
+   "url_final": "https://mis.rj.gov.br",
+   "paginas": [
+    "https://mis.rj.gov.br"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F190.txt"
+  },
+  {
+   "ids": [
+    "F191"
+   ],
+   "nome": "Museus Castro Maya (Chácara do Céu / Açude)",
+   "url": "https://museuscastromaya.com.br",
+   "regioes": [
+    "Várias"
+   ],
+   "degraus": [],
+   "caracteres": 0,
+   "situacao": "não respondeu: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+  },
+  {
+   "ids": [
+    "F192"
+   ],
+   "nome": "Orquestra Sinfônica Brasileira (OSB)",
+   "url": "https://osb.com.br",
+   "regioes": [
+    "Várias"
+   ],
+   "degraus": [
+    "texto de 8 página(s)"
+   ],
+   "caracteres": 36242,
+   "url_final": "https://www.osb.com.br/",
+   "paginas": [
+    "https://www.osb.com.br/",
+    "https://www.osb.com.br/osb-jovem/",
+    "https://www.osb.com.br/programacao/",
+    "https://www.osb.com.br/conexoes-musicais/",
+    "https://www.osb.com.br/programa-de-amigos-da-osb/",
+    "https://www.osb.com.br/programacao/serie-mundo-alemanha-integracao-osb-e-osb-jovem-encerramento-da-temporada/",
+    "https://www.osb.com.br/orquestra-sinfonica-brasileira-anuncia-temporada-2026-com-programas-inspirados-na-literatura-e-nas-artes-visuais/",
+    "https://www.osb.com.br/programacao/musica-de-cinema-especial-harry-potter/"
+   ],
+   "mencoes_de_data": 106,
+   "situacao": "coletada",
+   "arquivo": "F192.txt"
+  },
+  {
+   "ids": [
+    "F194"
+   ],
+   "nome": "Teatros Firjan SESI",
+   "url": "https://firjan.com.br/atracoes",
+   "regioes": [
+    "Várias"
+   ],
+   "degraus": [
+    "texto de 12 página(s)"
+   ],
+   "caracteres": 68895,
+   "url_final": "https://firjan.com.br/atracoes/",
+   "paginas": [
+    "https://firjan.com.br/atracoes/",
+    "https://firjan.com.br/eventos/",
+    "https://firjan.com.br/english/who-we-are/default.htm",
+    "https://firjan.com.br/espanol/quienes-somos/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/juridica/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/sustentabilidade/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/suporte-ao-investidor/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/firjan-internacional/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/atestado-de-nao-similaridade/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/conselhos-empresariais/default.htm",
+    "https://www.firjan.com.br/firjan/empresas/competitividade-empresarial/foruns-empresariais/default.htm",
+    "https://www.firjan.com.br/o-sistema-firjan/sindicatos/default.htm"
+   ],
+   "mencoes_de_data": 45,
+   "situacao": "coletada",
+   "arquivo": "F194.txt"
+  },
+  {
+   "ids": [
+    "F196"
+   ],
+   "nome": "Festival do Rio",
+   "url": "https://festivaldorio.com.br",
+   "regioes": [
+    "Toda a cidade"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 168,
+   "url_final": "https://www.festivaldorio.com.br/br",
+   "paginas": [
+    "https://www.festivaldorio.com.br/br"
+   ],
+   "mencoes_de_data": 0,
+   "situacao": "coletada, mas sem datas à vista (a programação pode ser carregada depois)",
+   "arquivo": "F196.txt"
+  },
+  {
+   "ids": [
+    "F276"
+   ],
+   "nome": "FGV Arte",
+   "url": "https://arte.fgv.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 13 página(s)"
+   ],
+   "caracteres": 16909,
+   "url_final": "https://arte.fgv.br",
+   "paginas": [
+    "https://arte.fgv.br",
+    "https://arte.fgv.br/agenda",
+    "https://arte.fgv.br/visitas-mediadas",
+    "https://arte.fgv.br/agenda/exposicoes",
+    "https://arte.fgv.br/exposicoes-passadas",
+    "https://arte.fgv.br/agenda/eventos",
+    "https://arte.fgv.br/agenda/academico",
+    "https://arte.fgv.br/agenda/educativo",
+    "https://arte.fgv.br/sobre-nos/equipe",
+    "https://arte.fgv.br/exposicao/hugo-franca-max-lamb",
+    "https://arte.fgv.br/evento/afrofabulacoes-programacao-de-encerramento-de-afro-brasilidade",
+    "https://arte.fgv.br/evento/festival-infantil-criar-mundos-1a-edicao",
+    "https://arte.fgv.br/evento/visita-guiada-e-dialogo-com-thiago-martins-de-mello"
+   ],
+   "mencoes_de_data": 219,
+   "situacao": "coletada",
+   "arquivo": "F276.txt"
+  },
+  {
+   "ids": [
+    "F277"
+   ],
+   "nome": "Museu da Vida (Fiocruz)",
+   "url": "https://museudavida.fiocruz.br",
+   "regioes": [
+    "Zona Norte"
+   ],
+   "degraus": [
+    "texto de 14 página(s)"
+   ],
+   "caracteres": 76855,
+   "url_final": "https://www.museudavida.fiocruz.br/index.php/pt-br/",
+   "paginas": [
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias-menu",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/agende",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/agende",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2779-pesquisadora-mvf-ganha-premio-pop-ciencia-2026",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2778-evento-fiocruz-criacao-jogos",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2776-evento-parceria-mvf-total-energies",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2773-funcionamento-especial-sabados",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2772-festival-perifer-ia-pro-cultural",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2765-programacao-novembro-2026",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2764-snct-2026-30-10",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2763-snct-2026-29-10",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2762-snct-2026-28-10",
+    "https://www.museudavida.fiocruz.br/index.php/pt-br/noticias/2754-snct-2026-programacao"
+   ],
+   "mencoes_de_data": 194,
+   "situacao": "coletada",
+   "arquivo": "F277.txt"
+  },
+  {
+   "ids": [
+    "F279"
+   ],
+   "nome": "Galeria da Gávea",
+   "url": "https://galeriadagavea.com.br/exposicoes",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 7 página(s)"
+   ],
+   "caracteres": 5737,
+   "url_final": "https://galeriadagavea.com.br/exposicoes",
+   "paginas": [
+    "https://galeriadagavea.com.br/exposicoes",
+    "https://galeriadagavea.com.br/exposicao/1",
+    "https://galeriadagavea.com.br/exposicao/9",
+    "https://galeriadagavea.com.br/exposicao/10",
+    "https://galeriadagavea.com.br/en/exhibition/1",
+    "https://galeriadagavea.com.br/en/exhibition/9",
+    "https://galeriadagavea.com.br/en/exhibition/10"
+   ],
+   "mencoes_de_data": 24,
+   "situacao": "coletada",
+   "arquivo": "F279.txt"
+  },
+  {
+   "ids": [
+    "F280"
+   ],
+   "nome": "Galeria Movimento",
+   "url": "https://galeriamovimento.com.br/exposicoes",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 1 página(s)"
+   ],
+   "caracteres": 4073,
+   "url_final": "https://www.galeriamovimento.com.br/exposicoes",
+   "paginas": [
+    "https://www.galeriamovimento.com.br/exposicoes"
+   ],
+   "mencoes_de_data": 4,
+   "situacao": "coletada",
+   "arquivo": "F280.txt"
+  },
+  {
+   "ids": [
+    "F281"
+   ],
+   "nome": "Galeria Cavalo",
+   "url": "https://galeriacavalo.com/exposicoes/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 7 página(s)"
+   ],
+   "caracteres": 33127,
+   "url_final": "https://galeriacavalo.com/exposicoes/",
+   "paginas": [
+    "https://galeriacavalo.com/exposicoes/",
+    "https://galeriacavalo.com/exposicao/3165/",
+    "https://galeriacavalo.com/exposicao/7024/",
+    "https://galeriacavalo.com/exposicao/7852/",
+    "https://galeriacavalo.com/en/exposicao/3165/",
+    "https://galeriacavalo.com/en/exposicao/ana-clara-tito/",
+    "https://galeriacavalo.com/en/exposicao/i-am-not-the-man-you-think-i-am/"
+   ],
+   "mencoes_de_data": 140,
+   "situacao": "coletada",
+   "arquivo": "F281.txt"
+  },
+  {
+   "ids": [
+    "F284"
+   ],
+   "nome": "Galeria Patricia Costa",
+   "url": "https://galeriapatriciacosta.com.br/exposicoes/",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "texto de 2 página(s)"
+   ],
+   "caracteres": 5282,
+   "url_final": "https://galeriapatriciacosta.com.br/exposicoes/",
+   "paginas": [
+    "https://galeriapatriciacosta.com.br/exposicoes/",
+    "https://galeriapatriciacosta.com.br/galvao-exposicao/"
+   ],
+   "mencoes_de_data": 29,
+   "situacao": "coletada",
+   "arquivo": "F284.txt"
+  },
+  {
+   "ids": [
+    "F286"
+   ],
+   "nome": "Artur Fidalgo Galeria",
+   "url": "https://arturfidalgo.com.br",
+   "regioes": [
+    "Zona Sul"
+   ],
+   "degraus": [
+    "feed (20 itens)",
+    "texto de 5 página(s)"
+   ],
+   "caracteres": 18241,
+   "url_final": "https://www.arturfidalgo.com.br/",
+   "paginas": [
+    "https://www.arturfidalgo.com.br/",
+    "https://www.arturfidalgo.com.br/blog",
+    "https://www.arturfidalgo.com.br/blog",
+    "https://www.arturfidalgo.com.br/blog/categories/feiras",
+    "https://www.arturfidalgo.com.br/post/o-engano-do-olhar"
+   ],
+   "mencoes_de_data": 42,
+   "situacao": "coletada",
+   "arquivo": "F286.txt"
+  }
+ ]
+}
