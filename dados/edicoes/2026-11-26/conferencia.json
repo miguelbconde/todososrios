@@ -88,36 +88,12 @@
    "resolucao": "Corrigido: “Arena Cultural Dicró”."
   },
   {
-   "id": "2026-11-19-082",
-   "titulo": "Ônibus Biblioteca – Livros nas Praças",
-   "campo": "cartaz",
-   "veredito": "duvida",
-   "detalhe": "A fonte diz \"Até 27 de novembro, às 11h\", sem dizer em quais dias da semana nem em que praça (\"Livros nas Praças\"), dentro do bloco da Areninha Hermeto Pascoal. A ficha trata como atividade diária \"A partir das 11h\" na areninha; a fonte diz \"às 11h\" e não confirma que é todo dia.",
-   "resolucao": "Corrigido: horário passa a “Às 11h (a fonte não informa os dias)”."
-  },
-  {
    "id": "2026-11-19-135",
    "titulo": "Guardar – Coleção Marcia e Luiz Chrysostomo",
    "campo": "preco_texto",
    "veredito": "diverge",
    "detalhe": "A ficha traz só \"R$ 10 (meia R$ 5), só na bilheteria\". F066 (ArtRio) acrescenta \"Às quartas-feiras, a entrada é franca para todos os públicos.\" e \"Aos domingos, “ingresso família” a R$10 para grupos de quatro pessoas.\" A quarta gratuita (25/11 cai na edição) não aparece na ficha.",
    "resolucao": "Corrigido: acrescentado “grátis às quartas”."
-  },
-  {
-   "id": "2026-11-19-147",
-   "titulo": "O Nome do Bebê",
-   "campo": "classificacao",
-   "veredito": "diverge",
-   "detalhe": "A ficha deixa vazio. F114 traz \"Classificação etária: 12 anos. Menores a partir de 10 anos entram acompanhados dos pais ou responsáveis.\"",
-   "resolucao": "Corrigido: 12 anos."
-  },
-  {
-   "id": "2026-11-19-147",
-   "titulo": "O Nome do Bebê",
-   "campo": "sinopse",
-   "veredito": "diverge",
-   "detalhe": "A nota diz que a coleta não trouxe a sinopse, e a ficha só fala da temporada. F114 traz a sinopse completa: \"a comédia O Nome do Bebê, com Bianca Bin e grande elenco\", \"da dupla francesa Matthieu Delaporte e Alexandre de la Patellière\", \"A direção é de Elias Andreato\". A nota está errada (o preço, de fato, não aparece).",
-   "resolucao": "Corrigido: sinopse refeita a partir da fonte."
   },
   {
    "id": "2026-11-19-148",
@@ -366,14 +342,6 @@
    "veredito": "diverge",
    "detalhe": "A fonte não dá o número ou a filiação dos grupos.",
    "resolucao": "Corrigido: sinopse com os nomes dos grupos da fonte."
-  },
-  {
-   "id": "f-df1cb21491",
-   "titulo": "Daniel Lopes e Kwesny – KD o Show?!",
-   "campo": "sinopse",
-   "veredito": "diverge",
-   "detalhe": "A fonte diz que representam, não que são de lá.",
-   "resolucao": "Corrigido."
   },
   {
    "id": "f-8e32e2382f",
@@ -640,14 +608,6 @@
    "resolucao": "Corrigido: só Artes Visuais"
   },
   {
-   "titulo": "Quando Dança o Baobá",
-   "campo": "sessoes.hora",
-   "veredito": "duvida",
-   "detalhe": "22h pode ser hora padrão da listagem da Sympla",
-   "resolucao": "",
-   "id": "f-472932ae90"
-  },
-  {
    "titulo": "Lançamento de \"Plástico\", de Juan Pinheiro",
    "campo": "sessoes.hora",
    "veredito": "duvida",
@@ -821,14 +781,6 @@
    "campo": "sessoes.hora",
    "veredito": "diverge",
    "detalhe": "28/11: o PDF diz 19h, a Sympla 18h",
-   "resolucao": "Mantido: horário da Sympla (decisão da coordenação editorial de 26/11: em conflito de horário, vale a Sympla, salvo hora padrão)"
-  },
-  {
-   "id": "f-7adf1f93f5",
-   "titulo": "14ª Jornada (MAR)",
-   "campo": "sessoes",
-   "veredito": "diverge",
-   "detalhe": "a Sympla dá 27/11 às 17h; o PDF, 26 e 27/11 às 10h",
    "resolucao": "Mantido: horário da Sympla (decisão da coordenação editorial de 26/11: em conflito de horário, vale a Sympla, salvo hora padrão)"
   },
   {

@@ -1,20 +1,6 @@
 {
  "criterios_versao": "2026-11-15",
  "dias": {
-  "2026-11-27": [
-   {
-    "id": "f-cc466cac8b",
-    "porque": "A Velha Guarda Musical da Mangueira festeja 70 anos em três noites na Cidade Nova."
-   },
-   {
-    "id": "f-f7e52c2e2c",
-    "porque": "Filme e livro sobre a Noitada de Samba, no Centro."
-   },
-   {
-    "id": "f-2bc42b1a23",
-    "porque": "Lançamento do álbum \"Mãe África\" no Centro da Música Carioca."
-   }
-  ],
   "2026-11-28": [
    {
     "id": "f-8d7f1ac2c1",
@@ -880,6 +866,13 @@
     "porque": "Em Centro.",
     "automatico": true
    }
+  ],
+  "2027-01-27": [
+   {
+    "id": "f-30327b9bf9",
+    "porque": "Em Centro.",
+    "automatico": true
+   }
   ]
  },
  "mes": [
@@ -969,6 +962,7 @@
   "2027-01-23",
   "2027-01-24",
   "2027-01-25",
-  "2027-01-26"
+  "2027-01-26",
+  "2027-01-27"
  ]
 }

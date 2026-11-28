@@ -1,8 +1,8 @@
-# Boletim de saúde — 2026-11-27
+# Boletim de saúde — 2026-11-28
 
 ## Ronda das fontes
 
-- Feita em: 2026-11-27 06:03 UTC
+- Feita em: 2026-11-28 05:57 UTC
 - Lidas com datas: **64** de 97 visitadas
 - não respondeu: 20
 - coletada, mas sem datas à vista: 10
@@ -10,9 +10,9 @@
 
 ## Plataformas de ingresso
 
-- Ingresso.com: 8354 sessões de cinema
-- Sympla: 2136 eventos no Rio
-- Fever: 59 eventos no Rio
+- Ingresso.com: 7709 sessões de cinema
+- Sympla: 2125 eventos no Rio
+- Fever: 58 eventos no Rio
 
 ## Fichas automáticas (sem IA)
 
@@ -32,11 +32,11 @@
 
 ## Edição no ar
 
-- Fichas da redação de hoje até 2027-01-26: **500**
-- Por região: Centro 169, Zona Sul 154, Zona Norte 103, Zona Sudoeste 45, Zona Oeste 29
+- Fichas da redação de hoje até 2027-01-27: **468**
+- Por região: Centro 158, Zona Sul 145, Zona Norte 96, Zona Sudoeste 43, Zona Oeste 26
 - Fora da Zona Sul: 69%
-- Grátis: 86
+- Grátis: 81
 
 ## Alarmes
 
-- Nenhum.
+- a tarefa diária do Claude não entrega fichas desde 2026-11-26; o site segue no ar, mas só com o que o robô monta sozinho

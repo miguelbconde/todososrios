@@ -1,6 +1,6 @@
 # Ronda das fontes — resumo
 
-Feita em 2026-11-27 06:03 UTC, em 214 segundos, no serviço de automação do GitHub.
+Feita em 2026-11-28 05:57 UTC, em 196 segundos, no serviço de automação do GitHub.
 O texto recolhido dos sites não entra na linha principal do repositório nem no site: fica num ramo temporário (coleta-bruta), substituído a cada ronda, só para a redação das fichas.
 
 ## Situação
@@ -24,7 +24,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | CCBB Rio | coletada | texto de 12 página(s) |
 | Carioca da Gema | coletada | feed (20 itens), texto de 2 página(s) |
 | Carpintaria (Fortes D'Aloia & Gabriel) | coletada | texto de 9 página(s) |
-| Casa Firjan | coletada | texto de 12 página(s) |
+| Casa Firjan | coletada | texto de 13 página(s) |
 | Casa Museu Eva Klabin | coletada | texto de 13 página(s) |
 | Casa Roberto Marinho | coletada | texto de 12 página(s) |
 | Casa da Ciência da UFRJ | coletada | texto de 3 página(s) |
@@ -64,11 +64,11 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Pinakotheke Cultural | coletada | texto de 14 página(s) |
 | Portas Vilaseca Galeria | coletada | texto de 6 página(s) |
 | Qualistage | coletada | texto de 11 página(s) |
-| Real Gabinete Português de Leitura | coletada | texto de 12 página(s) |
+| Real Gabinete Português de Leitura | coletada | texto de 13 página(s) |
 | Rio Scenarium | coletada | texto de 2 página(s) |
 | Sala Cecília Meireles | coletada | texto de 12 página(s) |
 | Teatro Bangu Shopping | coletada | texto de 13 página(s) |
-| Teatro Casa Grande | coletada | texto de 7 página(s) |
+| Teatro Casa Grande | coletada | texto de 6 página(s) |
 | Teatro Multiplan | coletada | texto de 8 página(s) |
 | Teatro Poeira & Poeirinha | coletada | texto de 4 página(s) |
 | Teatro Riachuelo Rio | coletada | texto de 2 página(s) |
@@ -76,7 +76,7 @@ O texto recolhido dos sites não entra na linha principal do repositório nem no
 | Teatro TotalEnergies (antigo PetraGold) | coletada | dados estruturados (5 eventos), texto de 2 página(s) |
 | Teatro das Artes | coletada | dados estruturados (19 eventos), texto de 11 página(s) |
 | Teatros Firjan SESI | coletada | texto de 12 página(s) |
-| Theatro Municipal do Rio de Janeiro | coletada | feed (8 itens), texto de 5 página(s) |
+| Theatro Municipal do Rio de Janeiro | coletada | feed (9 itens), texto de 5 página(s) |
 | Vivo Rio | coletada | texto de 12 página(s) |
 | Blue Note Rio | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 2 página(s) |
 | Caixa Cultural Rio de Janeiro | coletada, mas sem datas à vista (a programação pode ser carregada depois) | texto de 1 página(s) |

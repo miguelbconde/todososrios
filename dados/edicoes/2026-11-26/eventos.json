@@ -1,9 +1,9 @@
 {
  "edicao": {
   "id": "2026-11-26",
-  "inicio": "2026-11-27",
-  "fim": "2027-01-26",
-  "titulo": "Programação de hoje até 26 de janeiro de 2027"
+  "inicio": "2026-11-28",
+  "fim": "2027-01-27",
+  "titulo": "Programação de hoje até 27 de janeiro de 2027"
  },
  "eventos": [
   {
@@ -596,38 +596,6 @@
    "trecho_fonte": "Estante Temática de Livros Segunda a sexta-feira, das 9h às 17h. Até 30/11. Grátis. Livre. Sábados das 9 às 13 horas. Grátis. Livre. Exposição de livros infantis e juvenis sobre cultura afro-brasileira.",
    "nota_redacao": "",
    "id": "2026-11-19-078",
-   "entrou_em": "2026-11-19"
-  },
-  {
-   "titulo": "Ônibus Biblioteca – Livros nas Praças",
-   "areas": [
-    "Livros & Debates",
-    "Infantil"
-   ],
-   "tipo": "cartaz",
-   "local": "Areninha Cultural Hermeto Pascoal",
-   "endereco": "Praça Primeiro de Maio, s/nº",
-   "bairro": "Bangu",
-   "regiao": "Zona Oeste",
-   "sessoes": [],
-   "cartaz": {
-    "inicio": null,
-    "fim": "2026-11-27",
-    "horario": "Às 11h (a fonte não informa os dias)"
-   },
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Biblioteca sobre rodas com empréstimo gratuito de livros (com cadastro), leitura dramatizada, teatro literário e contação de histórias.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Ônibus Biblioteca – Livros nas Praças Até 27 de novembro, às 11h. Grátis. Livre.",
-   "nota_redacao": "",
-   "id": "2026-11-19-082",
    "entrou_em": "2026-11-19"
   },
   {
@@ -1677,38 +1645,6 @@
   },
   {
    "cartaz": {
-    "inicio": "2026-11-19",
-    "fim": "2026-11-27",
-    "horario": ""
-   },
-   "sessoes": [],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Centro Cultural do Poder Judiciário). A Sympla dá o período de 19/11, 16h, a 27/11, 19h, sem dias nem horário de visitação.",
-   "aviso": "",
-   "titulo": "Ser imortal é deixar lucidamente algo fora de sítio",
-   "areas": [
-    "Artes Visuais"
-   ],
-   "tipo": "cartaz",
-   "local": "Espaço Cultura na Justiça (CCPJ)",
-   "endereco": "Rua Dom Manuel, s/nº",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Exposição no Espaço Cultura na Justiça, do Centro Cultural do Poder Judiciário, no Centro, até 27 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/exposicao-ser-imortal-e-deixar-lucidamente-algo-fora-de-sitio/3654692",
-   "trecho_fonte": "2026-11-19 16:00 até 2026-11-27 19:00 | Exposição Ser imortal é deixar lucidamente algo fora de sítio | Espaço Cultura na Justiça, Rua Dom Manuel Centro | organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ | https://www.sympla.com.br/evento/exposicao-ser-imortal-e-deixar-lucidamente-algo-fora-de-sitio/3654692 | TEMPORADA em cartaz na semana até 2026-11-25: dias não informados",
-   "id": "f-e02b0bbcb4",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": {
     "inicio": "2026-10-17",
     "fim": "2027-04-18",
     "horario": "Quarta a domingo e feriados, 10h–18h"
@@ -1768,2732 +1704,6 @@
    "link": "https://fdag.com.br/exposicoes/proximas/",
    "trecho_fonte": "Próximas [...] Fernanda Gomes 5 Dec 2026 – 13 Feb 2027 Carpintaria || Rio de Janeiro Carpintaria Rua Jardim Botânico 971 22470-051 Rio de Janeiro, Brasil [...] Horário de visitação Ter – Sex : 10h às 19h Sáb: 10h às 18h",
    "id": "f-f54e6935b5",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "10:00"
-    }
-   ],
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Local sem ficha anterior na base; endereço do PDF (o Planetário tem entrada também pela Rua Padre Leonel Franca). Classifiquei como Infantil por ser contação de história; o PDF não diz a faixa etária do público.",
-   "aviso": "",
-   "titulo": "Roda de leitura: \"O menino só\", de Andrea Taubman",
-   "areas": [
-    "Infantil",
-    "Livros & Debates"
-   ],
-   "tipo": "evento",
-   "local": "Biblioteca Ecio Salles (Planetário)",
-   "endereco": "Rua Vice-Governador Rubens Berardo, 100 (Planetário)",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "Contação do livro \"O menino só\", de Andrea Taubman, seguida de atividades, na biblioteca do Planetário da Gávea.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Biblioteca Ecio Salles No Planetário do Rio de Janeiro: Rua Vice-Governador Rúbens Berardo 100, Gávea Roda de leitura sobre \"O menino só\" de Andrea Taubman. Sexta-feira (27/11), às 10h. Grátis. Livre.",
-   "id": "f-5a864a586c",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "10:00"
-    }
-   ],
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Seção de cursos e oficinas do PDF; entra por ser seminário aberto e gratuito. O PDF não diz se há inscrição nem dá a programação. RER = relações étnico-raciais (sigla do PDF).",
-   "aviso": "",
-   "titulo": "3º Seminário de RER e Socioeducação",
-   "areas": [
-    "Livros & Debates"
-   ],
-   "tipo": "evento",
-   "local": "Muhcab – Museu da História e da Cultura Afro-Brasileira",
-   "endereco": "Rua Pedro Ernesto, 80",
-   "bairro": "Gamboa",
-   "regiao": "Centro",
-   "sinopse": "Terceira edição do seminário, com debates sobre direitos, desafios e protagonismo das juventudes negras. Das 10h às 17h.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Museu da História e da Cultura Afro-Brasileira (Muhcab) Rua Pedro Ernesto 80, Gamboa [...] 3° Seminário de RER e SocioEducação Quinta e sexta-feira (26 e 27/11), das 10h às 17h. Grátis. Livre.",
-   "id": "f-ac3862ec76",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "11:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).",
-   "aviso": "",
-   "titulo": "Festival Arpoarte 2026",
-   "areas": [
-    "Festas & Feiras"
-   ],
-   "tipo": "evento",
-   "local": "Armazéns 3 e 4 do Píer Mauá",
-   "endereco": "Avenida Rodrigues Alves",
-   "bairro": "Centro (Praça Mauá)",
-   "regiao": "Centro",
-   "sinopse": "Festival Arpoarte nos armazéns 3 e 4 do Píer Mauá, de 25 a 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
-   "trecho_fonte": "2026-11-25 14:00 até 2026-11-29 21:00 | FESTIVAL ARPOARTE 2026 | Armazém 3 e 4  - Pier Mauá, Avenida Rodrigues Alves Praça Mauá | organizador: FESTIVAL ARPOARTE 2026 | https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026)): Horário: 25 e 26/11, das 14h às 21h; 27 a 29/11, das 11h às 21h",
-   "id": "f-474fbba1fc",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "11:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "14:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-27",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Retirada de ingresso na bilheteria uma hora antes. O site do Theatro Municipal confirma o encontro nos dias 25 e 27 na Sala Mário Tavares, mas os horários vêm do roteiro da Revista CONCERTO. O roteiro não informa classificação etária nem acessibilidade.",
-   "aviso": "",
-   "titulo": "II Encontro Internacional de Piano Colaborativo – recitais na Sala Mário Tavares",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Sala Mário Tavares (anexo do Theatro Municipal)",
-   "endereco": "Av. Almirante Barroso, 14",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Recitais do encontro da Associação Brasileira de Piano Colaborativo, com pianistas do Brasil e do exterior ao lado de cantores e instrumentistas; na quarta à noite, um trio de piano jazz.",
-   "fonte": "Revista CONCERTO (roteiro)",
-   "link": "https://www.concerto.com.br/roteiros/2026-11-25",
-   "trecho_fonte": "2026-11-25 11:00 | Mariana Salles – violino, Hugo Pilger – violoncelo, Sérgio Barrenechea – flauta e Lúcia Barrenechea – piano | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital de abertura. Continuidade até dia 27. In || 2026-11-25 18:00 | Ben Markley – piano, Jefferson Lescowich – contrabaixo e Xande Figueiredo – bateria | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital Piano Jazz || 2026-11-27 11:00 | Recital Sons da Primavera | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Ass || 2026-11-27 14:00 | João Paulo Casarotti e Regiane Yamaguchi – pianos, Megan Barrera – soprano e Anderson César Alves – clarinete | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital música das || 2026-11-27 16:00 | Recital Interpretações | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Ass || 2026-11-27 18:00 | Gabriela Moncayo – soprano e Luis Vallés – piano e Homero Velho – barítono e Elvia Puccinelli – piano | Sala Mário Tavares (160 lugares) — Av. Almirante Barroso, 14-16 - Centro - Anexo do Theatro Municipal - Tel. (21) 2332-9191 - http://theatromunicipal.rj.gov.br/sala-mario-tavares-lanca-novo-edital-de-ocupacao/. | ingressos: Entrada franca, retirada na bilheteria uma hora antes. [...] programa segundo a revista: II Encontro Internacional da Associação Brasileira de Piano Colaborativo. Recital de encerra",
-   "id": "f-7dde1675cf",
-   "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "12:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: IICRio. Organizador: Istituto Italiano di Cultura.",
-   "aviso": "",
-   "titulo": "Notas e Sabores: Concerto Italiano com o ensemble Trompas da UFRJ",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Istituto Italiano di Cultura do Rio de Janeiro",
-   "endereco": "Avenida Presidente Antônio Carlos",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "O ensemble Trompas da UFRJ apresenta um \"Concerto Italiano\" na série Notas e Sabores do Istituto Italiano di Cultura, no Centro, ao meio-dia.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/serie-notas-e-sabores-concerto-italiano-com-o-ensemble-trompas-da-ufrj/3650433",
-   "trecho_fonte": "2026-11-27 12:00 até 2026-11-27 14:00 | Série Notas e Sabores: 'Concerto Italiano' com o ensemble Trompas da UFRJ | Istituto Italiano di Cultura do Rio de Janeiro, Avenida Presidente Antônio Carlos Centro | organizador: IICRio | https://www.sympla.com.br/evento/serie-notas-e-sabores-concerto-italiano-com-o-ensemble-trompas-da-ufrj/3650433",
-   "id": "f-d2eac34399",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "16:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Sintonia Dominó. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário; a fonte não diz.",
-   "aviso": "dias",
-   "titulo": "Lia e a Árvore da Montanha",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Gláucio Gill",
-   "endereco": "Praça Cardeal Arcoverde, s/nº",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Lia e a Árvore da Montanha\" em cartaz no Teatro Gláucio Gill, em Copacabana, às 16h, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
-   "trecho_fonte": "2026-11-14 16:00 até 2026-11-29 16:00 | Lia e a Árvore da Montanha | Teatro Gláucio Gill, Praça Cardeal Arcoverde Copacabana | organizador: Sintonia Dominó | https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
-   "id": "f-77a74481e4",
-   "entrou_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "15:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 15h como fim no dia 6. Musical, pelo título; Teatro. A Sympla dá o fim da temporada em 06/12 às 15:00; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
-   "aviso": "dias",
-   "titulo": "Um Natal Congelante: O Musical ao Vivo",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Vanucci",
-   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Um Natal Congelante: O Musical ao Vivo\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129278",
-   "trecho_fonte": "2026-11-20 16:00 até 2026-12-06 15:00 | “Um Natal Congelante: O Musical ao Vivo | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/129278",
-   "id": "f-92342029b1",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá de 27/11, 17h, a 29/11, 18h, sem a programação de cada dia; registrada só a abertura.",
-   "aviso": "",
-   "titulo": "14ª Jornada de Educação e Relações Étnico-Raciais: Territórios de Pertencimento",
-   "areas": [
-    "Livros & Debates"
-   ],
-   "tipo": "evento",
-   "local": "Museu de Arte do Rio (MAR)",
-   "endereco": "Praça Mauá, 5",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Jornada da Escola do Olhar no MAR sobre educação e relações étnico-raciais, com o tema \"Territórios de Pertencimento\". Segue até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/14a-jornada-de-educacao-e-relacoes-etnico-raciais-territorios-de-pertencimento/3657265",
-   "trecho_fonte": "2026-11-27 17:00 até 2026-11-29 18:00 | 14ª Jornada de Educação e Relações étnico-raciais: Territórios de Pertencimento | Museu de Arte do Rio, Praça Mauá Centro | organizador: Escola do Olhar | https://www.sympla.com.br/evento/14a-jornada-de-educacao-e-relacoes-etnico-raciais-territorios-de-pertencimento/3657265",
-   "id": "f-7adf1f93f5",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-19",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-20",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-26",
-     "hora": "15:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 15h como fim no dia 26. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público. Tiradas as datas presumidas de 24, 25 e 31/12 e 1/1 (feriados e vésperas). A Sympla dá o fim da temporada em 26/12 às 15:00; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
-   "aviso": "dias",
-   "titulo": "Patrulhinha de Natal",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Vanucci",
-   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Patrulhinha de Natal\" no Teatro Vanucci, na Gávea, até 26 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/118950",
-   "trecho_fonte": "2026-11-20 17:00 até 2026-12-26 15:00 | PATRULHINHA DE NATAL | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/118950",
-   "id": "f-836c624a59",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
-   "titulo": "Os Saltimbancos",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Cândido Mendes",
-   "endereco": "Rua Joana Angélica, 63",
-   "bairro": "Ipanema",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Os Saltimbancos\" no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126898",
-   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | OS SALTIMBANCOS | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126898",
-   "id": "f-beb283b529",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público.",
-   "aviso": "dias",
-   "titulo": "João e Maria na Casa de Chocolate",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Brigitte Blair",
-   "endereco": "Rua Miguel Lemos, 51",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "\"João e Maria na Casa de Chocolate\" no Teatro Brigitte Blair, em Copacabana, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/94955",
-   "trecho_fonte": "2026-11-21 17:00 até 2026-11-29 17:00 | João e Maria na Casa de chocolate | Teatro Brigitte Blair, R. Miguel Lemos, 51 - h  | organizador: FATIMA PEREIRA DIVERSOES / TEATRO BRIGITE BLAIR | https://bileto.sympla.com.br/event/94955",
-   "id": "f-e93b1ae67b",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "17:30"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:30"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público.",
-   "aviso": "dias",
-   "titulo": "Três Porquinhos Contra o Lobo Mau",
-   "areas": [
-    "Teatro",
-    "Infantil"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Henriqueta Brieba (Tijuca Tênis Clube)",
-   "endereco": "Rua Conde de Bonfim",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "\"Três Porquinhos Contra o Lobo Mau\" no Teatro Henriqueta Brieba, no Tijuca Tênis Clube, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/tres-porquinhos-contra-o-lobo-mau/3614726",
-   "trecho_fonte": "2026-11-21 17:30 até 2026-11-29 18:30 | Três Porquinhos Contra o Lobo Mau | Teatro Henriqueta Brieba (Tijuca Tênis Clube), Rua Conde de Bonfim Tijuca | organizador: Perfeito, Alegre e Forte Produções | https://www.sympla.com.br/evento/tres-porquinhos-contra-o-lobo-mau/3614726",
-   "id": "f-0c0ff790ad",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Beco do Rato. \"Roda\" presumida pelo nome e pela casa.",
-   "aviso": "",
-   "titulo": "Samba que Elas Querem",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Beco do Rato",
-   "endereco": "Rua Joaquim Silva",
-   "bairro": "Lapa",
-   "regiao": "Centro",
-   "sinopse": "Roda \"Samba que Elas Querem\" no Beco do Rato, na Lapa.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/samba-que-elas-querem/3645078",
-   "trecho_fonte": "2026-11-27 18:00 até 2026-11-28 02:00 | Samba que Elas Querem | Beco do Rato, Rua Joaquim Silva Centro | organizador: Beco do Rato | https://www.sympla.com.br/evento/samba-que-elas-querem/3645078",
-   "id": "f-96fb924318",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "18:00"
-    },
-    {
-     "data": "2027-01-08",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Três datas, cada uma com página própria; link da primeira.",
-   "aviso": "",
-   "titulo": "Velha Guarda Musical da Mangueira: 70 anos",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Circo Crescer e Viver",
-   "endereco": "Rua Carmo Neto, 143",
-   "bairro": "Cidade Nova",
-   "regiao": "Centro",
-   "sinopse": "A Velha Guarda Musical da Mangueira comemora 70 anos em três noites no Circo Crescer e Viver, na Cidade Nova.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643739",
-   "trecho_fonte": "2026-11-27 18:00 até 2026-11-27 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643739 || 2026-12-11 18:00 até 2026-12-11 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643744 || 2027-01-08 18:00 até 2027-01-08 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643748",
-   "id": "f-cc466cac8b",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Cely Leal. Organizadora: Cely Leal (pessoa física, não órgão público).",
-   "aviso": "",
-   "titulo": "Noitada de Samba – Foco de Resistência: filme e relançamento do livro",
-   "areas": [
-    "Livros & Debates",
-    "Cinema"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural da Justiça Federal",
-   "endereco": "Avenida Rio Branco",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Exibição do filme \"Noitada de Samba – Foco de Resistência\" e relançamento do livro de mesmo nome no Centro Cultural da Justiça Federal.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/noitada-de-samba-foco-de-resistencia-exibicao-do-filme-e-relancamento-do-livro-homonimo/3655828",
-   "trecho_fonte": "2026-11-27 18:00 até 2026-11-27 20:00 | Noitada de Samba Foco de Resistência - Exibição do filme e relançamento do livro homônimo | Centro Cultural da Justiça Federal, Avenida Rio Branco Centro | organizador: Cely Leal | https://www.sympla.com.br/evento/noitada-de-samba-foco-de-resistencia-exibicao-do-filme-e-relancamento-do-livro-homonimo/3655828",
-   "id": "f-f7e52c2e2c",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "18:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ. Organizador: Centro Cultural do Poder Judiciário (órgão público).",
-   "aviso": "",
-   "titulo": "Justiça em Cena: Perigosas Damas",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Centro Cultural do Poder Judiciário (CCPJ) – Tribunal do Júri Histórico",
-   "endereco": "Rua Dom Manuel, s/nº (Edifício Des. Caetano Pinto de Miranda Montenegro, 2º andar)",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "\"Perigosas Damas\" na série Justiça em Cena, no antigo Tribunal do Júri do Centro Cultural do Poder Judiciário, no Centro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/justica-em-cena-apresenta-perigosas-damas/3635750",
-   "trecho_fonte": "2026-11-27 18:30 até 2026-11-27 20:00 | Justiça em Cena apresenta Perigosas Damas | Tribunal do Júri Histórico - Edifício Des. Caetano Pinto de Miranda Montenegro - 2º andar, Rua Dom Manuel | organizador: CENTRO CULTURAL DO PODER JUDICIÁRIO - CCPJ | https://www.sympla.com.br/evento/justica-em-cena-apresenta-perigosas-damas/3635750",
-   "id": "f-2985740e6d",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-22"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "18:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
-   "titulo": "Além da Vida é Viver",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Miguel Falabella (Norte Shopping)",
-   "endereco": "Av. Dom Hélder Câmara, 5.474",
-   "bairro": "Cachambi",
-   "regiao": "Zona Norte",
-   "sinopse": "\"Além da Vida é Viver\" no Teatro Miguel Falabella, no Norte Shopping, até 27 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126763",
-   "trecho_fonte": "2026-11-06 18:30 até 2026-11-27 18:30 | “Além da Vida é Viver” | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella | https://bileto.sympla.com.br/event/126763",
-   "id": "f-7eba6e2f77",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "titulo": "La Strada – Os Que Vieram Antes de Nós",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Sesc Tijuca",
-   "endereco": "Rua Barão de Mesquita, 539",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "18:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 (meia R$ 15)",
-   "preco_min": 15,
-   "preco_max": 30,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "Libras nas sessões de 28 e 29/11",
-   "na_rua": false,
-   "sinopse": "Palhaçaria e teatro documentário sobre gerações de palhaços anônimos que fizeram a história do circo no Brasil.",
-   "fonte": "Sesc RJ (programação oficial)",
-   "link": "https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-antes-de-nos",
-   "trecho_fonte": "2026-11-26 19:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | Inteira: R$ 30; Meia: R$ 15 [...] | TEATRO, LIVRE || 2026-11-27 19:00 [...] || 2026-11-28 19:00 [...] acessibilidade: Libras || 2026-11-29 18:00 [...] acessibilidade: Libras || 2026-12-03 19:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | TEATRO, LIVRE || 2026-12-04 19:00 [...] || 2026-12-05 19:00 [...] || 2026-12-06 18:00 [...]",
-   "nota_redacao": "Ronda de 26/11: novas sessões de 3 a 6/12. Para essas a agenda não informa o preço; o preço da ficha (R$ 30, meia R$ 15) é o das sessões de novembro. Sessões já passadas (19 e 22/11) retiradas. Libras só em 28 e 29/11. O Sesc ainda não informou o preço das sessões de dezembro; mantido o de novembro.",
-   "id": "2026-11-19-115",
-   "entrou_em": "2026-11-19",
-   "aviso": "",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Programa não informado. O roteiro não informa preço, classificação etária nem acessibilidade.",
-   "aviso": "",
-   "titulo": "Cristiano Vogas – Série Piano na Sala",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Sala Cecília Meireles",
-   "endereco": "Largo da Lapa, 47",
-   "bairro": "Lapa",
-   "regiao": "Centro",
-   "sinopse": "Recital do pianista Cristiano Vogas na série Piano na Sala, da Sala Cecília Meireles.",
-   "fonte": "Revista CONCERTO (roteiro)",
-   "link": "https://www.concerto.com.br/roteiros/2026-11-27",
-   "trecho_fonte": "2026-11-27 19:00 | Cristiano Vogas - piano | Sala Cecília Meireles (647 lugares) — Largo da Lapa, 47 - Centro - Tel. (21) 2332-9223 - http://salaceciliameireles.inf.br/ - Ingressos: https://funarj.eleventickets.com/#!/home. Transmissão digital: https://www.youtube.com/c/salaceciliameireles | ingressos: não informado [...] programa segundo a revista: Série Piano ",
-   "id": "f-2750eaac64",
-   "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. O PDF grafa \"Noog\"; mantida a grafia \"Nóog\" da ficha. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Wesley Nóog & Banda Roda Jardim Suspenso: Mãe África",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Centro da Música Carioca Artur da Távola",
-   "endereco": "Rua Conde de Bonfim, 824",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "Wesley Nóog lança \"Mãe África\", seu oitavo álbum de estúdio, nos 20 anos de carreira, em show com a Banda Roda Jardim Suspenso que junta samba e danças urbanas e de salão.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://bileto.sympla.com.br/event/128255",
-   "trecho_fonte": "Sextas Lançamentos “Wesley Noog & Banda Roda Jardim Suspenso - Lançamento do Álbum Mãe África” Sexta-feira (27/11), às 19h. R$ 30 a R$ 60. Livre. || Centro da Música Carioca Artur da Távola || Rua Conde de Bonfim 824, Tijuca",
-   "id": "f-2bc42b1a23",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "17:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 17h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 17:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
-   "aviso": "dias",
-   "titulo": "Víboras – A Arte do Insulto",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Vanucci",
-   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Víboras – A Arte do Insulto\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126646",
-   "trecho_fonte": "2026-11-07 19:00 até 2026-12-06 17:30 | VÍBORAS - A ARTE DO INSULTO | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/126646",
-   "id": "f-39b3da215f",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Reserva a partir de 23/11 no site do Espaço Cultural BNDES. O roteiro não informa classificação etária nem acessibilidade.",
-   "aviso": "",
-   "titulo": "Hercules Gomes: Radamés Gnattali 120 anos",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Espaço Cultural BNDES",
-   "endereco": "Av. República do Chile, 100",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "O pianista Hercules Gomes dedica um recital às obras de Radamés Gnattali, nos 120 anos do compositor. Entrada franca, com reserva antecipada no site do BNDES.",
-   "fonte": "Revista CONCERTO (roteiro)",
-   "link": "https://www.concerto.com.br/roteiros/2026-11-27",
-   "trecho_fonte": "2026-11-27 19:00 | Hercules Gomes – piano | Espaço Cultural BNDES (300 lugares) — Av. República do Chile 100 – Centro – Tel. 0800 702 6337 – https://www.bndes.gov.br/. | ingressos: Entrada franca, com reserva antecipada de ingressos a partir do dia 23 às 12h em: www.bndes.gov.br/espacoculturalbndes. [...] programa segundo a revista: Recital dedicado a Radamés Gnattali, em celebração aos 120 anos de seu nascimento. Programa: obras de Gnattali.",
-   "id": "f-4074abe96b",
-   "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "15:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "Plateia: R$ 20 (inteira) e R$ 10 (meia); balcão: R$ 10 (inteira) e R$ 5 (meia). Clientes Caixa pagam meia.",
-   "preco_min": 10,
-   "preco_max": 20,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A Bilheteria Digital tem uma página por sessão (8 páginas, 27/11 a 6/12); juntei numa ficha e usei o link da primeira. Sessões tiradas do horário da apresentação (quinta e sexta 19h, sábado e domingo 18h, extra 28/11 15h), batendo com as páginas. Classificação indicativa não informada. A tabela chama de 'PLATEIA'/'BALCÃO' a meia; a inteira vem marcada.",
-   "aviso": "",
-   "tipo": "evento",
-   "fonte": "Bilheteria Digital (venda oficial)",
-   "titulo": "Sonho Elétrico",
-   "areas": [
-    "Teatro"
-   ],
-   "local": "Caixa Cultural – Teatro Nelson Rodrigues",
-   "endereco": "Av. República do Paraguai, 230",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Peça com texto e direção de Marcio Abreu, pela companhia brasileira de teatro, feita em diálogo com a obra do neurocientista Sidarta Ribeiro. Uma artista de banda atingida por um raio fica em coma e percorre memórias e sonhos entre a vida e a morte. Com pianista ao vivo em cena.",
-   "link": "https://www.bilheteriadigital.com/27-11-sonho-eletrico-27-de-novembro",
-   "trecho_fonte": "PLATEIA: R$ 10,00; Plateia (Meia Cliente CAIXA): R$ 10,00; Plateia (Inteira): R$ 20,00; BALCÃO: R$ 5,00; Balcão (Meia Cliente CAIXA): R$ 5,00; Balcão (Inteira): R$ 10,00 || Com texto e direção de Marcio Abreu e produção da companhia brasileira de teatro [...] · Local: CAIXA Cultural - Teatro Nelson Rodrigues · Endereço: Av. República do Paraguai, 230 - Centro, RJ · Período: 27 de novembro a 06 de dezembro de 2026 · Horário: Quinta e sexta, 19h; sábado e domingo, 18h · Sessão extra em 28 de novembro, sábado, 15h",
-   "id": "f-41ca124f0d",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organização: Solange Borelli / Radar Cultural.",
-   "aviso": "",
-   "titulo": "Dança à Deriva: A(s) – isso não é um solo (RJ) e Humana (AR)",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Cacilda Becker",
-   "endereco": "Rua do Catete",
-   "bairro": "Catete",
-   "regiao": "Zona Sul",
-   "sinopse": "Noite da edição carioca do Dança à Deriva no Teatro Cacilda Becker, com A(s) – isso não é um solo, do Rio, e Humana, da Argentina.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/27-11-a-s-isso-nao-e-um-solo-rj-humana-ar-danca-a-deriva-edicao-rj/3651188",
-   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 21:00 | 27/11 | A(s) - isso não é um solo (RJ) // Humana (AR) | Dança à Deriva - Edição RJ | Teatro Cacilda Becker, Rua do Catete  | organizador: Solange Borelli /  RADAR CULTURAL GESTÃO E PROJETOS | https://www.sympla.com.br/evento/27-11-a-s-isso-nao-e-um-solo-rj-humana-ar-danca-a-deriva-edicao-rj/3651188",
-   "id": "f-881ae763c1",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "18:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "Brás Cubas (Armazém Companhia de Teatro)",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Fundição Progresso",
-   "endereco": "Rua dos Arcos, 24",
-   "bairro": "Lapa",
-   "regiao": "Centro",
-   "sinopse": "A Armazém Companhia de Teatro em temporada com \"Brás Cubas\" na Fundição Progresso, na Lapa, até 12 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
-   "trecho_fonte": "2026-11-19 19:00 até 2026-12-12 19:00 | BRÁS CUBAS (Armazém Companhia de Teatro) | Fundição Progresso, Rua dos Arcos Lapa | organizador: Espaço Armazém - Fundição Progresso | https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): 26/11, quinta-feira 19h; 27/11, sexta-feira 19; 28/11, sábado 19h; 03/12, quinta-feira 19h; 05/12, sábado 19h; 06/12, domingo 18h; 10/12, quinta-feira 19h; 11/12, sexta-feira 19h; 12/12, sábado 19h",
-   "id": "f-913b8130f3",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "R$ 10 a R$ 20",
-   "preco_min": 10,
-   "preco_max": 20,
-   "gratis": false,
-   "classificacao": "18 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria (26/11–02/12): preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla (o PDF não dá página própria). Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Gosto Amargo na Pele",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Correios Léa Garcia",
-   "endereco": "Rua Visconde de Itaboraí, 20",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Ribamar Ribeiro escreve e dirige esta peça a partir de Plínio Marcos, num ambiente que mistura cabaré, circo e prostíbulo, sobre gente posta à margem. Último título da Trilogia dos Indesejáveis.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://bileto.sympla.com.br/event/128463",
-   "trecho_fonte": "Espetáculo \"Gosto amargo na pele\" Quinta-feira a sábado, às 19h. De 26/11 a 05/12. R$ 10 a R$ 20. 18 anos. || 2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 5 de Dezembro · Quinta, Sexta e Sábado às 19h00",
-   "id": "f-9c2207768d",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Dias e horários do calendário da Riotur (sextas, 19h; sábados, 17h), até o fim dado pela Sympla (28/11). A Sympla dá 19h como fim no dia 28; ficou o horário de sábado da Riotur. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "",
-   "titulo": "Todos os Amores Menos Aquele – um relato dramatizado",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Glauce Rocha",
-   "endereco": "Avenida Rio Branco",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "\"Todos os Amores Menos Aquele\", relato dramatizado, no Teatro Glauce Rocha, no Centro, até 28 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/todos-os-amores-menos-aquele-um-relato-dramatizado/3644473",
-   "trecho_fonte": "2026-11-20 19:00 até 2026-11-28 19:00 | Todos Os Amores Menos Aquele - um relato dramatizado | Teatro Glauce Rocha, Avenida Rio Branco Centro | organizador: Márciah Luna Cabral | https://www.sympla.com.br/evento/todos-os-amores-menos-aquele-um-relato-dramatizado/3644473 || Riotur (Calendário Oficial): Todos os Amores Menos Aquele no Teatro Glauce Rocha [...] Serviço Horário: Sextas-feiras, às 19h, e sábados, às 17h Local: Teatro Glauce Rocha Endereço: Av. Rio Branco, 179 – Centro",
-   "id": "f-b002c5aaef",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "18:00"
-    }
-   ],
-   "preco_texto": "Grátis",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": true,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: grátis e 12 anos. DIVERGÊNCIA no sábado 28/11: o PDF diz 19h, a Sympla diz 18h; mantive 18h, da Sympla, até a confirmação. Fonte e link mantidos na Sympla por isso. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Gonzaguinha",
-   "endereco": "Rua Benedito Hipólito, 125",
-   "bairro": "Praça XI",
-   "regiao": "Centro",
-   "sinopse": "Primeira edição de uma mostra que reúne trabalhos artísticos nascidos dos terreiros e de seus saberes, no Teatro Municipal Gonzaguinha.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129222",
-   "trecho_fonte": "1° Mostra de Artes de Terreiro Os Ciclomáticos Quinta-feira a sábado (26 a 28/11), às 19h. Grátis. 12 anos. || 2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 28 de Novembro · Quinta e Sexta às 19h00, Sábado às 18h00",
-   "id": "f-c21b141a4f",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação.",
-   "aviso": "",
-   "titulo": "MulheRio do Samba",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Glorioso Cultural",
-   "endereco": "Rua do Catete",
-   "bairro": "Catete",
-   "regiao": "Zona Sul",
-   "sinopse": "Noite \"MulheRio do Samba\" no Glorioso Cultural, no Catete.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/mulherio-do-samba/3640787",
-   "trecho_fonte": "2026-11-27 19:00 até 2026-11-27 23:30 | MulheRio do Samba | Glorioso Cultural, Rua do Catete Catete | organizador: Paulo Cesar Figueiredo | https://www.sympla.com.br/evento/mulherio-do-samba/3640787",
-   "id": "f-c7ada106b3",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "17:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "17:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). Período de 5/11 a 6/12 tirado do texto da página da Riotur; sessões listadas de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
-   "aviso": "",
-   "titulo": "Pororoca",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Sesc Ginástico",
-   "endereco": "Av. Graça Aranha, 187",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "Espetáculo \"Pororoca\" em temporada no Teatro Sesc Ginástico, no Centro, até 6 de dezembro.",
-   "fonte": "Riotur (Calendário Oficial)",
-   "link": "https://riotur.rio/evento-calendario/pororoca-no-teatro-sesc-ginasio-3/",
-   "trecho_fonte": "Horário: Quintas, sextas e sábados, às 19h, e domingos, às 17h Local: Teatro Sesc Ginástico Endereço: Av. Graça Aranha, 187 – Centro",
-   "id": "f-e449afdfbe",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "R$ 20",
-   "preco_min": 20,
-   "preco_max": 20,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Organizador: órgão público (Município do Rio). Link mantido na página de ingressos da Sympla (o PDF não dá página própria); preço e classificação passam a vir do PDF da SMC.",
-   "aviso": "",
-   "titulo": "O Circo Se Constrói",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Renato Russo",
-   "endereco": "Parque Poeta Manuel Bandeira, s/nº",
-   "bairro": "Cocotá (Ilha do Governador)",
-   "regiao": "Zona Norte",
-   "sinopse": "Montagem de dança dirigida por Raissa Martins, a partir de um caso verídico, que mistura vários estilos de dança com o circo e a cultura popular; o elenco tem gente de várias idades. Duração: 60 minutos.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://bileto.sympla.com.br/event/129212",
-   "trecho_fonte": "Areninha Cultural Renato Russo Parque Poeta Manuel Bandeira s/nº, Cocotá (Ilha do Governador) [...] Espetáculo “O Circo Se Constrói “ Sexta-feira (27/11), às 19h. R$ 20. Livre. [...] Com duração de 60 minutos e classificação indicativa livre",
-   "id": "f-ebbedebb15",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:30"
-    }
-   ],
-   "preco_texto": "R$ 35",
-   "preco_min": 35,
-   "preco_max": 35,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "O horário é o que a página dá para a noite (a casa informa abertura às 19h30 e show principal às 20h30 de terça a quinta). O texto da página fala em 'quarta-feira', mas a data é sexta, 27/11; segui a data.",
-   "aviso": "",
-   "local": "Carioca da Gema",
-   "endereco": "Av. Mem de Sá, 79",
-   "bairro": "Lapa",
-   "regiao": "Centro",
-   "fonte": "Site do Carioca da Gema (ronda de 24/11)",
-   "link": "https://www.barcariocadagema.com.br/",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "titulo": "Samba Carioca: apresentação do Bloco Carioca 2027",
-   "sinopse": "Apresentação dos blocos com os cantores Júlio Estrela, Bico Doce e JP Silva, numa noite de samba de carnaval no Carioca da Gema.",
-   "trecho_fonte": "sex., 27 de nov. Samba Carioca - Apresentação do Bloco Carioca 2027 / 27 de nov. de 2026, 19:30 BRT Carioca da Gema, Av. Mem de Sá, 79 - Centro, Rio de Janeiro - RJ, 20230-150, Brasil A quarta-feira vai ser quente no coração da Lapa! 🔥🎶 O palco do Carioca da Gema recebe uma apresentação dos blocos, com os cantores Júlio Estrela, Bico Doce e JP Silva, para uma noite de muito samba e energia lá em cima! || Valor entrada de terça ate quinta - R$ 30,00 sexta e sábado - R$ 35,00 véspera de feriado - R$35,00",
-   "id": "f-7c7e1e4065",
-   "entrou_em": "2026-11-24"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "19:30"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:30"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "18:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Dias e horários do calendário da Riotur (quinta a sábado, 19h30; domingo, 18h30), até o fim dado pela Sympla (29/11); o horário de início da Sympla (16h20) parece ser o da criação da página. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "",
-   "titulo": "Entre Atos",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Glauce Rocha (Sala Murilo Miranda)",
-   "endereco": "Avenida Rio Branco",
-   "bairro": "Centro",
-   "regiao": "Centro",
-   "sinopse": "\"Entre Atos\" na Sala Murilo Miranda do Teatro Glauce Rocha, no Centro, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/entre-atos-teatro-glauce-rocha/3632366",
-   "trecho_fonte": "2026-11-25 16:20 até 2026-11-29 20:30 | Entre Atos - Teatro Glauce Rocha | Teatro Glauce Rocha - Sala Murilo Miranda, Avenida Rio Branco Centro | organizador: Kéren Hapuque | https://www.sympla.com.br/evento/entre-atos-teatro-glauce-rocha/3632366 || Riotur (Calendário Oficial): Entre Atos no Teatro Glauce Rocha [...] Serviço Horário : Quinta-feira a sábado, às 19h30, e domingo, às 18h30 Local : Teatro Glauce Rocha (Sala Murilo Miranda) Endereço : Av. Rio Branco, 179 – Centro",
-   "id": "f-e1e9f06d4e",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "titulo": "Superiores",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
-   "endereco": "Rua Padre Leonel Franca, 240",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Nove atores criam com o corpo e a voz todos os sons e ambientes de uma fábula sobre poder, falada numa língua inventada que o público entende pelo som.",
-   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
-   "link": "https://cultura.prefeitura.rio/agendacultural/",
-   "trecho_fonte": "Espetáculo “Superiores” Sextas e sábados, 20h, domingos, 19h. Até 29/11. R$ 30 a R$ 60. Livre. || 2026-11-06 20:00 até 2026-11-29 19:00 | Superiores | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129281",
-   "nota_redacao": "Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.",
-   "id": "2026-11-19-006",
-   "entrou_em": "2026-11-19",
-   "aviso": "",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "titulo": "Confissões de Adolescente – o musical",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "EcoVilla Ri Happy",
-   "endereco": "Rua Jardim Botânico, 1.008",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Versão musical inédita da história sobre as dores e as descobertas de crescer.",
-   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
-   "link": "https://ecovillarihappy.com.br/programacao/",
-   "trecho_fonte": "Confissões de Adolescente 23 de outubro a 29 de novembro | Sextas às 20h, Sábados e Domingos às 19h Classificação: 16 anos FENÔMENO QUE MARCOU GERAÇÕES, ‘CONFISSÕES DE ADOLESOCENTE’ RETORNA AOS PALCOS EM VERSÃO MUSICAL INÉDITA.",
-   "nota_redacao": "A fonte não informa o preço. Correção de 26/11: a ficha só tinha a semana de 19/11; acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur (Sextas-feiras, às 20h; sábados e domingos, às 19h).",
-   "id": "2026-11-19-142",
-   "entrou_em": "2026-11-19",
-   "aviso": "",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "titulo": "O Nome do Bebê",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Casa Grande (Teatro Axia Casa Grande)",
-   "endereco": "Av. Afrânio de Melo Franco, 290",
-   "bairro": "Leblon",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Comédia da dupla francesa Matthieu Delaporte e Alexandre de la Patellière, com Bianca Bin no elenco e direção de Elias Andreato. Curtíssima temporada, até 27 de novembro.",
-   "fonte": "Site do Teatro Casa Grande (ronda de 19/11)",
-   "link": "https://www.teatroaxiacasagrande.com.br/programacao/detalhes/o-nome-do-bebe/",
-   "trecho_fonte": "CURTÍSSIMA TEMPORADA O Nome do Bebê 05 de Novembro a 27 de Novembro [...] Data: De 5 a 27 de novembro de 2026 Horário: Quintas e sextas às 20h00 Abertura da casa: 1h antes || a comédia O Nome do Bebê, com Bianca Bin e grande elenco [...] da dupla francesa Matthieu Delaporte e Alexandre de la Patellière [...] A direção é de Elias Andreato [...] Classificação etária: 12 anos.",
-   "nota_redacao": "A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até o fim da temporada (27/11), pelo próprio trecho do site, confirmado pela Riotur.",
-   "id": "2026-11-19-147",
-   "entrou_em": "2026-11-19",
-   "aviso": "",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "titulo": "Adorável Face de Andronieva Petrosa",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Poeirinha",
-   "endereco": "Rua São João Batista, 104",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-19",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-20",
-     "hora": "19:00"
-    }
-   ],
-   "cartaz": null,
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "sinopse": "Primeiro solo de Fabianna de Mello e Souza, em 40 anos de carreira: uma atriz recebe uma carta anônima que a acusa de plágio e passa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e direção de Denise Stutz.",
-   "fonte": "Site do Teatro Poeira (ronda de 19/11)",
-   "link": "https://www.teatropoeira.com.br/adoravel-face",
-   "trecho_fonte": "Adoravel Face TEATRO POEIRINHA 29 OUT a 20 DEZ QUI a SAB 20h e DOM 19h [...] Após 40 anos de carreira, Fabianna de Mello e Souza atua em seu primeiro solo, que transforma uma acusação de plágio em reflexão [...] ‘Adorável Face de Andronieva Petrosa’, solo de Fabianna de Mello e Souza, com dramaturgia de Cecilia Ripoll e direção de Denise Stutz, fará uma temporada no Teatro Poeirinha, de 29 de outubro a 20 de dezembro, com sessões de quinta à sábado, às 20h e domingos [...] Em cena, uma atriz recebe uma carta anônima acusando-a de plágio. [...] o que é original? || CLASSIFICAÇÃO: Livre || 2026-11-13 20:00 até 2026-12-20 19:00 | Adorável Face de Andronieva Petrosa - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104  | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/128003",
-   "nota_redacao": "A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até 20/12 (quinta a sábado, 20h; domingo, 19h), segundo a página da peça no site do Teatro Poeira; link trocado pela página da peça. A Sympla lista a peça no Teatro Poeira; mantido o Poeirinha, como diz o site do teatro.",
-   "id": "2026-11-19-151",
-   "entrou_em": "2026-11-19",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "R$ 35 a R$ 70",
-   "preco_min": 35,
-   "preco_max": 70,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Yuri Marçal: Macumbeiro",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Arena Cultural Fernando Torres",
-   "endereco": "Rua Bernardino de Andrade, 200 (Parque de Madureira)",
-   "bairro": "Madureira",
-   "regiao": "Zona Norte",
-   "sinopse": "No quinto solo de stand-up, nos 10 anos de carreira, Yuri Marçal, filho de mãe de santo, fala de sua vida nas religiões de matriz africana e do sentido da palavra \"macumbeiro\", passando por intolerância religiosa e fake news.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://bileto.sympla.com.br/event/126727",
-   "trecho_fonte": "Show de Comédia Stand Up “Macumbeiro com Yuri Marçal” Sexta-feira(27/11), às 20h. R$ 35 a R$ 70. 16 anos. || Arena Cultural Fernando Torres || Rua Bernardino de Andrade 200, Madureira",
-   "id": "f-132c6ce110",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: Sesi RJ. Música presumida pelo título.",
-   "aviso": "",
-   "titulo": "Beatles Fora da Caixa",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Firjan SESI Jacarepaguá",
-   "endereco": "Avenida Geremário Dantas, 940",
-   "bairro": "Jacarepaguá",
-   "regiao": "Zona Sudoeste",
-   "sinopse": "Show \"Beatles Fora da Caixa\" no Teatro Firjan SESI Jacarepaguá.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/122112",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | BEATLES FORA DA CAIXA | Teatro Firjan SESI JACAREPAGUÁ ., Avenida Geremário Dantas, 940  | organizador: SERVIÇO SOCIAL DA INDÚSTRIA – SESIRJ | https://bileto.sympla.com.br/event/122112",
-   "id": "f-1e3cc3099b",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "",
-   "titulo": "Tudo Aquilo que Fica",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Fashion Mall",
-   "endereco": "Estrada da Gávea, 899, loja 213",
-   "bairro": "São Conrado",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Tudo Aquilo que Fica\" no Teatro Fashion Mall, em São Conrado.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129335",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | TUDO AQUILO QUE FICA | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/129335",
-   "id": "f-220da6ee35",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "Algoritmo",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ipanema Rubens Corrêa",
-   "endereco": "Rua Prudente de Morais, 824",
-   "bairro": "Ipanema",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Algoritmo\" em cartaz no Teatro Municipal Ipanema Rubens Corrêa até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128420",
-   "trecho_fonte": "2026-11-12 20:00 até 2026-11-29 19:00 | Algoritmo | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/128420 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 29 de Novembro · Quinta a Sábado às 20h00, Domingo às 19h00",
-   "id": "f-5157b0c813",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Intérpretes não informados na listagem.",
-   "aviso": "",
-   "titulo": "Pra Gira Girar: celebração a Os Tincoãs",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Manouche",
-   "endereco": "Rua Jardim Botânico, 983",
-   "bairro": "Jardim Botânico",
-   "regiao": "Zona Sul",
-   "sinopse": "Show de lançamento da turnê \"Pra Gira Girar\", em celebração a Os Tincoãs.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128392",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Pra Gira Girar: Uma Celebração a Os Tincoãs  Turnê de Lançamento | Manouche, R. Jardim Botânico,983  | organizador: MIRANDA RESTAURANTE E EVENTOS | https://bileto.sympla.com.br/event/128392",
-   "id": "f-6f1c52fbee",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "II Encontro Nerd de Favela",
-   "areas": [
-    "Festas & Feiras"
-   ],
-   "tipo": "evento",
-   "local": "Areninha Cultural Herbert Vianna",
-   "endereco": "Rua Evanildo Alves, s/nº",
-   "bairro": "Maré",
-   "regiao": "Zona Norte",
-   "sinopse": "Segunda edição do encontro nerd na Areninha Herbert Vianna, na Maré.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/130664",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | II Encontro Nerd de Favela | Areninha Cultural Herbert Vianna - Maré, R. Evanildo Alves, s/nº  | organizador: Município de Rio de Janeiro - Areninha Cultural Herbert Vianna",
-   "id": "f-72ad055ee6",
-   "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Riotur traz o espetáculo na ronda. A página da Riotur dá R$ 50 (inteira) e R$ 25 (meia), mas pela regra o preço da Riotur só entra com confirmação; ficou sem preço. Classificação não informada.",
-   "aviso": "",
-   "titulo": "Embarcação Perdue",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Gláucio Gill",
-   "endereco": "Praça Cardeal Arcoverde, s/nº",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "Últimas sessões do espetáculo \"Embarcação Perdue\" no Teatro Gláucio Gill, em Copacabana, que encerra a temporada nesta sexta.",
-   "fonte": "Riotur (Calendário Oficial)",
-   "link": "https://riotur.rio/evento-calendario/embarcacao-perdue-teatro-glaucio-gil/",
-   "trecho_fonte": "Temporada: 5 a 27 de novembro Local: Teatro Glaucio Gil Endereço: Praça Cardeal Arcoverde, s/n – Copacabana Horário: quarta a sexta, às 20h",
-   "id": "f-76daacf063",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). Mesmo projeto das fichas de Madureira (26/11) e da Penha (3/12); esta é a apresentação de Realengo.",
-   "aviso": "",
-   "tipo": "evento",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "titulo": "Memórias do Samba: Teresa Cristina e Velha Guarda da Portela (Realengo)",
-   "areas": [
-    "Música"
-   ],
-   "local": "Areninha Cultural Gilberto Gil",
-   "endereco": "Av. Marechal Fontenelle, 5.000",
-   "bairro": "Realengo",
-   "regiao": "Zona Oeste",
-   "sinopse": "Teresa Cristina e a Velha Guarda da Portela no projeto Memórias do Samba, na Areninha Cultural Gilberto Gil, em Realengo.",
-   "link": "https://bileto.sympla.com.br/event/130668",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | TERESA CRISTINA E VELHA GUARDA DA PORTELA - SHOW MEMORIAS DO SAMBA | Areninha Cultural Gilberto Gil, Av. Marechal Fontenele, 5000  | organizador: Município de Rio de Janeiro - Areninha Cultural Gilberto Gil | https://bileto.sympla.com.br/event/130668",
-   "id": "f-80323410c1",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 29 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 29/11 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
-   "aviso": "dias",
-   "titulo": "Noite do Melodrama",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Cine Teatro (Teatros da Barra)",
-   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sinopse": "\"Noite do Melodrama\" no Cine Teatro dos Teatros da Barra, na Barra da Tijuca, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128119",
-   "trecho_fonte": "2026-11-21 20:00 até 2026-11-29 19:30 | NOITE DO MELODRAMA | Cine Teatro - Teatros da Barra, Av. Armando Lombardi, 350 - 3º Piso  | organizador: ESPACO PROVOCACOES | https://bileto.sympla.com.br/event/128119",
-   "id": "f-92e994a1ae",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "Senhorita Júlia, Pássaros em uma Mesma Gaiola",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Cândido Mendes",
-   "endereco": "Rua Joana Angélica, 63",
-   "bairro": "Ipanema",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126358",
-   "trecho_fonte": "2026-11-14 20:00 até 2026-11-29 20:00 | Senhorita Júlia, pássaros em uma mesma gaiola | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126358 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta a Domingo às 20h00",
-   "id": "f-94d2c5ff86",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "16:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "Descalços no Parque",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Clara Nunes",
-   "endereco": "Rua Marquês de São Vicente, 52, loja 370",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Descalços no Parque\" em cartaz no Teatro Clara Nunes, na Gávea, até 28 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/117119",
-   "trecho_fonte": "2026-11-21 20:00 até 2026-11-28 20:00 | Descalços no Parque | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370 | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/117119 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026): Riotur: Quintas e sextas, às 20h; sábados, às 16h e às 20h · Sympla: 26 a 28 de Novembro",
-   "id": "f-a3a00c3382",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação. DIVERGÊNCIA de dias e hora: o PDF diz sábados e domingos às 11h; a página da Sympla diz sexta e sábado às 20h e domingo às 19h. Mantive as sessões da Sympla até a confirmação; fonte e link mantidos na Sympla. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Minha Vó Ri",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Espaço Cultural Sérgio Porto",
-   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
-   "bairro": "Humaitá",
-   "regiao": "Zona Sul",
-   "sinopse": "Júlia Bernat faz seu primeiro solo, dirigida por Débora Lamm, misturando relato pessoal e pesquisa sobre a trajetória do movimento lésbico, com menções a Chantal Akerman e Rosely Roth; na trilha, Ângela Ro Ro e Cássia Eller.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128323",
-   "trecho_fonte": "Espetáculo “Minha Vó Ri” Sábados e domingos, às 11h. Até 13/12. R$ 30 a R$ 60. 12 anos. || 2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 de Novembro a 13 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
-   "id": "f-a8b365287d",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-10",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-12",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-13",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-17",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-19",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-20",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "O que Meu Peito Carrega Sobre Mim",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Poeira",
-   "endereco": "Rua São João Batista, 104",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sinopse": "\"O que Meu Peito Carrega Sobre Mim\" em cartaz no Teatro Poeira, em Botafogo, até 20 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/129151",
-   "trecho_fonte": "2026-11-14 20:00 até 2026-12-20 19:00 | O que meu peito carrega sobre mim - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/129151 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 20 de Dezembro · Quinta, Sexta e Sábado às 20h00, Domingo às 19h00",
-   "id": "f-b6ff10b271",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço.",
-   "aviso": "dias",
-   "titulo": "Loucas, Lindas e Lobas",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Cine Teatro (Teatros da Barra)",
-   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
-   "bairro": "Barra da Tijuca",
-   "regiao": "Zona Sudoeste",
-   "sinopse": "\"Loucas, Lindas e Lobas\" no Cine Teatro dos Teatros da Barra, na Barra da Tijuca, até 27 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/126832",
-   "trecho_fonte": "2026-11-13 20:00 até 2026-11-27 20:00 | LOUCAS, LINDAS E LOBAS | Cine Teatro - Teatros da Barra, Av. Armando Lombardi, 350 - 3º Piso  | organizador: ESPACO PROVOCACOES | https://bileto.sympla.com.br/event/126832",
-   "id": "f-ce17c3cc78",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "16 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "O PDF dá a faixa de preço sem dizer o que é meia e inteira; a faixa sugere meia e inteira. Link mantido: a página de venda do evento na Sympla (o PDF não dá link próprio). Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Cris Silva Cruz: Credo Que Delícia",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Ziembinski",
-   "endereco": "Rua Heitor Beltrão, s/nº",
-   "bairro": "Tijuca",
-   "regiao": "Zona Norte",
-   "sinopse": "Na Semana da Comédia do Ziembinski, edição Queer Comedy, Cris Silva Cruz fala dos 50 anos de idade, da infância numa família de dez irmãos e da mãe que manteve todos unidos.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://bileto.sympla.com.br/event/129023",
-   "trecho_fonte": "Semana da Comédia: Edição Queer Comedy apresenta Cris Cruz Credo Que Delícia Sexta-feira (27/11), às 20h. R$ 30 a R$ 60. 16 anos. || Teatro Municipal Ziembinski || Rua Heitor Beltrão s/nº, Tijuca",
-   "id": "f-d13457973d",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "de R$ 45 a R$ 100",
-   "preco_min": 45.0,
-   "preco_max": 100.0,
-   "gratis": false,
-   "classificacao": "18 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada.",
-   "aviso": "",
-   "titulo": "Daniel Lopes e Kwesny – KD o Show?!",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Bangu Shopping",
-   "endereco": "Rua da Fonseca, 240",
-   "bairro": "Bangu",
-   "regiao": "Zona Oeste",
-   "sinopse": "Os comediantes cariocas Daniel Lopes e Kwesny, que representam o subúrbio do Rio e a Baixada Fluminense, contam no stand-up as histórias de quem vive de comédia desde 2012.",
-   "fonte": "Uhuu (extração do Todos os Rios)",
-   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/daniel-e-kwesny-kd-o-show-16740",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Daniel Lopes e Kwesny - KD o Show ?! | Teatro Bangu Shopping | Comédia | de R$ 45,00 a R$ 100,00 (o menor pode ser meia) | classificação: 18 Anos || Kwesny e Daniel Lopes - São artistas/comediantes cariocas. Representando o subúrbio do Rio de Janeiro e a Baixada Fluminense. Fazem comédia desde 2012",
-   "id": "f-df1cb21491",
-   "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-12-11",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "R$ 80",
-   "preco_min": 80,
-   "preco_max": 80,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
-   "aviso": "",
-   "titulo": "MPB Entre Amigos",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Beco das Garrafas – Little Club",
-   "endereco": "Rua Duvivier, 37",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "Noite de música popular brasileira no Little Club, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
-   "fonte": "Beco das Garrafas (programação oficial)",
-   "link": "https://becodasgarrafas.com.br/principal/events/",
-   "trecho_fonte": "27 / nov || MPB ENTRE AMIGOS || 20:00 (SEX) | Little Club || R$ 80,00 || 11 / dez || MPB ENTRE AMIGOS || 20:00 (SEX) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
-   "id": "f-e59c4f09b5",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "Nhá Eva",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Companhia de Teatro Contemporâneo",
-   "endereco": "Rua Conde de Irajá",
-   "bairro": "Botafogo",
-   "regiao": "Zona Sul",
-   "sinopse": "\"Nhá Eva\" em cartaz na Companhia de Teatro Contemporâneo, em Botafogo, até 29 de novembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://www.sympla.com.br/evento/nha-eva/3614258",
-   "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): De 15 de novembro de 2026, às 20h00 · temporadas: 05/11 a 08/11; 12/11 a 15/11; 26/11 a 29/11",
-   "id": "f-e7b56859d2",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "de R$ 25 a R$ 140",
-   "preco_min": 25.0,
-   "preco_max": 140.0,
-   "gratis": false,
-   "classificacao": "Livre",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Uhuu tem o evento. O menor preço pode ser meia-entrada; a inteira não é informada na listagem. Acessibilidade não informada. Endereço do teatro (Shopping Cidade Copacabana) não vem da listagem; é o mesmo de sempre da casa.",
-   "aviso": "",
-   "titulo": "Milton Canta Lulu",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Claro MAIS RJ",
-   "endereco": "Rua Siqueira Campos, 143",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "Milton Guedes volta ao Rio com o show em homenagem a Lulu Santos, que estreou de casa cheia no mesmo teatro.",
-   "fonte": "Uhuu (extração do Todos os Rios)",
-   "link": "https://uhuu.com/evento/rj/rio-de-janeiro/milton-canta-lulu-16959",
-   "trecho_fonte": "2026-11-27 20:00 até 2026-11-27 20:00 | Milton Canta Lulu | Teatro Claro MAIS RJ | Espetáculo | de R$ 25,00 a R$ 140,00 (o menor pode ser meia) | classificação: Livre || Milton Guedes traz de volta ao Rio o espetáculo “Milton Canta Lulu” no dia 27 de novembro Após estreia com ingressos esgotados, show em homenagem a Lulu Santos volta ao Teatro Claro MAIS RJ",
-   "id": "f-f0a80e8eb5",
-   "entrou_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "R$ 30 a R$ 60",
-   "preco_min": 30,
-   "preco_max": 60,
-   "gratis": false,
-   "classificacao": "12 anos",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).",
-   "aviso": "",
-   "titulo": "Mistério Buffo",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Municipal Café Pequeno",
-   "endereco": "Av. Ataulfo de Paiva, 269",
-   "bairro": "Leblon",
-   "regiao": "Zona Sul",
-   "sinopse": "Douglas Kodi interpreta sozinho narrativas de Dario Fo e Franca Rame, numa combinação diferente a cada noite, no centenário de nascimento do dramaturgo italiano.",
-   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
-   "link": "https://bileto.sympla.com.br/event/129347",
-   "trecho_fonte": "Espetáculo“Mistério Buffo” Sexta-feira e sábado (27 e 28/11), às 20h, e domingo (29/11) às 19h. R$ 30 a R$ 60. 12 anos. || 2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta e Sábado às 20h00, Domingo às 19h00",
-   "id": "f-f8ed502f79",
-   "entrou_em": "2026-11-22",
-   "atualizado_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "20:30"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "20:30"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "20:30"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "19:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). O fim em 6/12 vem do texto da página da Riotur; a data de estreia não aparece, então listei as sessões de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
-   "aviso": "",
-   "titulo": "A Solidão do Feio",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Sesc Copacabana (Mezanino)",
-   "endereco": "Rua Domingos Ferreira, 160",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "Espetáculo \"A Solidão do Feio\" no mezanino do Sesc Copacabana, com sessões de quinta a domingo até 6 de dezembro.",
-   "fonte": "Riotur (Calendário Oficial)",
-   "link": "https://riotur.rio/evento-calendario/a-solidao-do-feio-no-teatro-sesc-copacabana-2/",
-   "trecho_fonte": "Horário: Quintas e sextas, às 20h30; sábados e domingos, às 19h Local: Mezanino do Sesc Copacabana Endereço: Rua Domingos Ferreira, 160 – Copacabana",
-   "id": "f-1da07461ee",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "21:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Teatro (humor) presumido pelo espaço e pelo subtítulo.",
-   "aviso": "",
-   "titulo": "Thiago Chagas em Extraviado 3.0",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Fashion Mall",
-   "endereco": "Estrada da Gávea, 899, loja 213",
-   "bairro": "São Conrado",
-   "regiao": "Zona Sul",
-   "sinopse": "Thiago Chagas apresenta \"Extraviado 3.0 – Rindo sem desligar o cérebro\" no Teatro Fashion Mall.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/125765",
-   "trecho_fonte": "2026-11-27 21:00 até 2026-11-27 21:00 | THIAGO CHAGAS EM EXTRAVIADO 3.0 - RINDO SEM DESLIGAR O CÉREBRO | Teatro Fashion Mall, Estrada da Gávea, 899 - loja 213  | organizador: TEATRO FASHION MALL | https://bileto.sympla.com.br/event/125765",
-   "id": "f-0bfb8b21e5",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-03",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-04",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-05",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-06",
-     "hora": "19:30"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
-   "aviso": "dias",
-   "titulo": "O Tigre",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Vanucci",
-   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "\"O Tigre\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/127654",
-   "trecho_fonte": "2026-11-20 21:00 até 2026-12-06 19:30 | O TIGRE | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/127654",
-   "id": "f-1fcc3e695b",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-12-18",
-     "hora": "21:00"
-    }
-   ],
-   "preco_texto": "R$ 80",
-   "preco_min": 80,
-   "preco_max": 80,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
-   "aviso": "",
-   "titulo": "Fernanda Santanna",
-   "areas": [
-    "Música"
-   ],
-   "tipo": "evento",
-   "local": "Beco das Garrafas – Bottle's Bar",
-   "endereco": "Rua Duvivier, 37",
-   "bairro": "Copacabana",
-   "regiao": "Zona Sul",
-   "sinopse": "Fernanda Santanna se apresenta no Bottle's Bar, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
-   "fonte": "Beco das Garrafas (programação oficial)",
-   "link": "https://becodasgarrafas.com.br/principal/events/",
-   "trecho_fonte": "27 / nov || FERNANDA SANTANNA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || 18 / dez || FERNANDA SANTANNA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
-   "id": "f-591e118397",
-   "entrou_em": "2026-11-26"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "20:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "20:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
-   "aviso": "",
-   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro Miguel Falabella (Norte Shopping)",
-   "endereco": "Av. Dom Hélder Câmara, 5.474",
-   "bairro": "Cachambi",
-   "regiao": "Zona Norte",
-   "sinopse": "Rodrigo Sant'Anna leva o espetáculo \"Mulheres em Turbulência\" ao Teatro Miguel Falabella, no Norte Shopping.",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "link": "https://bileto.sympla.com.br/event/128389",
-   "trecho_fonte": "2026-11-20 21:00 até 2026-11-29 20:00 | Mulheres em Turbulência com RODRIGO SANT'ANNA | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta às 21h00, Sábado e Domingo às 20h00",
-   "id": "f-6a27b066b3",
-   "entrou_em": "2026-11-25",
-   "atualizado_em": "2026-11-25"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-28",
-     "hora": "21:00"
-    },
-    {
-     "data": "2026-11-29",
-     "hora": "21:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "O site dá só o período (7 a 29/11); dias presumidos de quinta a domingo. A página informa \"21h e 19h\" sem dizer em que dias: usamos 21h (o horário da listagem vem com fuso errado, 3 horas adiantado). Preço e classificação não informados.",
-   "aviso": "dias",
-   "titulo": "Hétero Sigilo",
-   "areas": [
-    "Teatro"
-   ],
-   "tipo": "evento",
-   "local": "Teatro das Artes",
-   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
-   "bairro": "Gávea",
-   "regiao": "Zona Sul",
-   "sinopse": "Solo de Bernardo Dugin que mistura humor e confissão para falar dos pactos silenciosos feitos para caber na norma heterossexual. Em temporada até 29 de novembro.",
-   "fonte": "Teatro das Artes",
-   "link": "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
-   "trecho_fonte": "- Hétero Sigilo | início 2026-11-07T18:00:00-03:00 | fim 2026-11-29T18:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/ | ingressos.divertix Sinopse Solo que mistura humor e confissão para expor os pactos silenciosos que fazemos para caber na norma. Entre memórias, afetos e contradições, o espetáculo revela como a heteronormatividade atravessa corpos e subjetividades e convida o público a rir, se reconhecer e questionar o papel que interpreta na própria vida. Ficha Técnica Dramaturgia e Performance: Bernardo DuginDir [… cortado] || [página do evento] Horário || 21h e 19h",
-   "id": "f-740a844e42",
-   "entrou_em": "2026-11-23"
-  },
-  {
-   "cartaz": null,
-   "sessoes": [
-    {
-     "data": "2026-11-27",
-     "hora": "22:00"
-    }
-   ],
-   "preco_texto": "",
-   "preco_min": null,
-   "preco_max": null,
-   "gratis": false,
-   "classificacao": "",
-   "acessibilidade": "",
-   "na_rua": false,
-   "nota_redacao": "A listagem da Sympla não informa preço, classificação nem acessibilidade e não traz descrição. Organizador: órgão público (Município do Rio). A fonte não diz o gênero; classifiquei como Teatro (dança) pelo título. Hora como na listagem. A hora (22h) é a da Sympla, que parece usar 22h como padrão nas linhas da Arena Dicró.",
-   "aviso": "",
-   "tipo": "evento",
-   "fonte": "Sympla (extração do Todos os Rios)",
-   "titulo": "Quando Dança o Baobá",
-   "areas": [
-    "Teatro"
-   ],
-   "local": "Arena Cultural Dicró",
-   "endereco": "Rua Flora Lobo, Parque Ary Barroso, s/nº",
-   "bairro": "Penha Circular",
-   "regiao": "Zona Norte",
-   "sinopse": "Apresentação de \"Quando Dança o Baobá\" na Arena Cultural Dicró, na Penha.",
-   "link": "https://bileto.sympla.com.br/event/130792",
-   "trecho_fonte": "2026-11-27 22:00 até 2026-11-27 22:00 | Quando dança o Baobá | Arena Cultural Carlos Roberto de Oliveira (Dicró), Entrada pela R. Flora Lôbo, s/n ,0 - Parque Ari Barroso  | organizador: Município de Rio de Janeiro - Arena Cultural Carlos Alberto de Oliveira | https://bileto.sympla.com.br/event/130792",
-   "id": "f-472932ae90",
    "entrou_em": "2026-11-26"
   },
   {
@@ -4719,6 +1929,44 @@
    "entrou_em": "2026-11-19",
    "aviso": "",
    "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "11:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "11:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: FESTIVAL ARPOARTE 2026. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026)).",
+   "aviso": "",
+   "titulo": "Festival Arpoarte 2026",
+   "areas": [
+    "Festas & Feiras"
+   ],
+   "tipo": "evento",
+   "local": "Armazéns 3 e 4 do Píer Mauá",
+   "endereco": "Avenida Rodrigues Alves",
+   "bairro": "Centro (Praça Mauá)",
+   "regiao": "Centro",
+   "sinopse": "Festival Arpoarte nos armazéns 3 e 4 do Píer Mauá, de 25 a 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416",
+   "trecho_fonte": "2026-11-25 14:00 até 2026-11-29 21:00 | FESTIVAL ARPOARTE 2026 | Armazém 3 e 4  - Pier Mauá, Avenida Rodrigues Alves Praça Mauá | organizador: FESTIVAL ARPOARTE 2026 | https://www.sympla.com.br/evento/festival-arpoarte-2026/3648416 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026)): Horário: 25 e 26/11, das 14h às 21h; 27 a 29/11, das 11h às 21h",
+   "id": "f-474fbba1fc",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -4959,6 +2207,63 @@
     {
      "data": "2026-11-28",
      "hora": "15:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Plateia: R$ 20 (inteira) e R$ 10 (meia); balcão: R$ 10 (inteira) e R$ 5 (meia). Clientes Caixa pagam meia.",
+   "preco_min": 10,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A Bilheteria Digital tem uma página por sessão (8 páginas, 27/11 a 6/12); juntei numa ficha e usei o link da primeira. Sessões tiradas do horário da apresentação (quinta e sexta 19h, sábado e domingo 18h, extra 28/11 15h), batendo com as páginas. Classificação indicativa não informada. A tabela chama de 'PLATEIA'/'BALCÃO' a meia; a inteira vem marcada.",
+   "aviso": "",
+   "tipo": "evento",
+   "fonte": "Bilheteria Digital (venda oficial)",
+   "titulo": "Sonho Elétrico",
+   "areas": [
+    "Teatro"
+   ],
+   "local": "Caixa Cultural – Teatro Nelson Rodrigues",
+   "endereco": "Av. República do Paraguai, 230",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Peça com texto e direção de Marcio Abreu, pela companhia brasileira de teatro, feita em diálogo com a obra do neurocientista Sidarta Ribeiro. Uma artista de banda atingida por um raio fica em coma e percorre memórias e sonhos entre a vida e a morte. Com pianista ao vivo em cena.",
+   "link": "https://www.bilheteriadigital.com/27-11-sonho-eletrico-27-de-novembro",
+   "trecho_fonte": "PLATEIA: R$ 10,00; Plateia (Meia Cliente CAIXA): R$ 10,00; Plateia (Inteira): R$ 20,00; BALCÃO: R$ 5,00; Balcão (Meia Cliente CAIXA): R$ 5,00; Balcão (Inteira): R$ 10,00 || Com texto e direção de Marcio Abreu e produção da companhia brasileira de teatro [...] · Local: CAIXA Cultural - Teatro Nelson Rodrigues · Endereço: Av. República do Paraguai, 230 - Centro, RJ · Período: 27 de novembro a 06 de dezembro de 2026 · Horário: Quinta e sexta, 19h; sábado e domingo, 18h · Sessão extra em 28 de novembro, sábado, 15h",
+   "id": "f-41ca124f0d",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "15:00"
     }
    ],
    "preco_texto": "Grátis",
@@ -5065,6 +2370,44 @@
     {
      "data": "2026-11-29",
      "hora": "16:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Sintonia Dominó. Dias presumidos (quinta a domingo, além do primeiro dia) a partir do período informado; horário do primeiro dia, e o do último dia conforme o fim informado. Infantil presumido pelo título e pelo horário; a fonte não diz.",
+   "aviso": "dias",
+   "titulo": "Lia e a Árvore da Montanha",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Gláucio Gill",
+   "endereco": "Praça Cardeal Arcoverde, s/nº",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Lia e a Árvore da Montanha\" em cartaz no Teatro Gláucio Gill, em Copacabana, às 16h, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
+   "trecho_fonte": "2026-11-14 16:00 até 2026-11-29 16:00 | Lia e a Árvore da Montanha | Teatro Gláucio Gill, Praça Cardeal Arcoverde Copacabana | organizador: Sintonia Dominó | https://www.sympla.com.br/evento/lia-e-a-arvore-da-montanha/3630729",
+   "id": "f-77a74481e4",
+   "entrou_em": "2026-11-22"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
     },
     {
      "data": "2026-12-05",
@@ -5108,6 +2451,59 @@
    "id": "f-811784c086",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 15h como fim no dia 6. Musical, pelo título; Teatro. A Sympla dá o fim da temporada em 06/12 às 15:00; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
+   "aviso": "dias",
+   "titulo": "Um Natal Congelante: O Musical ao Vivo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Um Natal Congelante: O Musical ao Vivo\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129278",
+   "trecho_fonte": "2026-11-20 16:00 até 2026-12-06 15:00 | “Um Natal Congelante: O Musical ao Vivo | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/129278",
+   "id": "f-92342029b1",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5175,6 +2571,44 @@
    "trecho_fonte": "2026-11-28 16:00 até 2026-11-28 23:30 | Forró na Sala de Reboco convida  Rod Bigode no Quintal de Benfica | QUINTAL DE BENFICA, Rua Doutor Rodrigues de Santana Benfica | organizador: CM Produções e Eventos | https://www.sympla.com.br/evento/forro-na-sala-de-reboco-convida-rod-bigode-no-quintal-de-benfica/3662863",
    "id": "f-9a3b6abdab",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "16:00"
+    },
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Teatro Clara Nunes. Dias e horários conferidos em 25/11/2026 (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "Descalços no Parque",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Clara Nunes",
+   "endereco": "Rua Marquês de São Vicente, 52, loja 370",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Descalços no Parque\" em cartaz no Teatro Clara Nunes, na Gávea, até 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/117119",
+   "trecho_fonte": "2026-11-21 20:00 até 2026-11-28 20:00 | Descalços no Parque | Teatro Clara Nunes, Rua Marquês de São Vicente,52 - Loja 370 | organizador: Teatro Clara Nunes | https://bileto.sympla.com.br/event/117119 || Dias e horários (calendário oficial da Riotur (ronda de 25/11/2026) e página de ingressos da Sympla (Bileto), lida em 25/11/2026): Riotur: Quintas e sextas, às 20h; sábados, às 16h e às 20h · Sympla: 26 a 28 de Novembro",
+   "id": "f-a3a00c3382",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -5443,6 +2877,96 @@
     {
      "data": "2026-11-28",
      "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-26",
+     "hora": "15:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 15h como fim no dia 26. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público. Tiradas as datas presumidas de 24, 25 e 31/12 e 1/1 (feriados e vésperas). A Sympla dá o fim da temporada em 26/12 às 15:00; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
+   "aviso": "dias",
+   "titulo": "Patrulhinha de Natal",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Patrulhinha de Natal\" no Teatro Vanucci, na Gávea, até 26 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/118950",
+   "trecho_fonte": "2026-11-20 17:00 até 2026-12-26 15:00 | PATRULHINHA DE NATAL | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/118950",
+   "id": "f-836c624a59",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
     }
    ],
    "preco_texto": "R$ 30 a R$ 60",
@@ -5470,6 +2994,77 @@
    "id": "f-a0af483c60",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Dias e horários do calendário da Riotur (sextas, 19h; sábados, 17h), até o fim dado pela Sympla (28/11). A Sympla dá 19h como fim no dia 28; ficou o horário de sábado da Riotur. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "",
+   "titulo": "Todos os Amores Menos Aquele – um relato dramatizado",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Todos os Amores Menos Aquele\", relato dramatizado, no Teatro Glauce Rocha, no Centro, até 28 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/todos-os-amores-menos-aquele-um-relato-dramatizado/3644473",
+   "trecho_fonte": "2026-11-20 19:00 até 2026-11-28 19:00 | Todos Os Amores Menos Aquele - um relato dramatizado | Teatro Glauce Rocha, Avenida Rio Branco Centro | organizador: Márciah Luna Cabral | https://www.sympla.com.br/evento/todos-os-amores-menos-aquele-um-relato-dramatizado/3644473 || Riotur (Calendário Oficial): Todos os Amores Menos Aquele no Teatro Glauce Rocha [...] Serviço Horário: Sextas-feiras, às 19h, e sábados, às 17h Local: Teatro Glauce Rocha Endereço: Av. Rio Branco, 179 – Centro",
+   "id": "f-b002c5aaef",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "dias",
+   "titulo": "Os Saltimbancos",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Os Saltimbancos\" no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126898",
+   "trecho_fonte": "2026-11-14 17:00 até 2026-11-29 17:00 | OS SALTIMBANCOS | Teatro Cândido Mendes, Rua Joana Angélica , 63  | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126898",
+   "id": "f-beb283b529",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5575,6 +3170,44 @@
    "link": "https://cultura.prefeitura.rio/agendacultural/",
    "trecho_fonte": "Sarau Solos Suburbanos Sábado(28/11), às 17h. Grátis. Livre.",
    "id": "f-e6c784f0fc",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público.",
+   "aviso": "dias",
+   "titulo": "João e Maria na Casa de Chocolate",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Brigitte Blair",
+   "endereco": "Rua Miguel Lemos, 51",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "\"João e Maria na Casa de Chocolate\" no Teatro Brigitte Blair, em Copacabana, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/94955",
+   "trecho_fonte": "2026-11-21 17:00 até 2026-11-29 17:00 | João e Maria na Casa de chocolate | Teatro Brigitte Blair, R. Miguel Lemos, 51 - h  | organizador: FATIMA PEREIRA DIVERSOES / TEATRO BRIGITE BLAIR | https://bileto.sympla.com.br/event/94955",
+   "id": "f-e93b1ae67b",
    "entrou_em": "2026-11-26"
   },
   {
@@ -5700,6 +3333,44 @@
    "trecho_fonte": "CLÁSSICOS DO BRASIL / ALCEU VALENÇA + MARIA BETHANIA + VANESSA DA MATA 28 NOV Rio de Janeiro - RJ Marina da Glória Sábado às 17:00 [...] ARENA LOTE 06 A PARTIR DE R$ 210,00 [...] INGRESSO ARENA - INTEIRA LOTE 06 [...] VALOR R$ 420,00 TAXA R$ 42,00 [...] O Clássicos do Brasil conta com uma plataforma exclusiva para pessoas com deficiência (PCD), com acesso livre para todos os tipos de ingresso, localizada próxima ao palco || Av. Infante Dom Henrique, S/N - Glória, Rio de Janeiro - RJ [...] Classificação: 18 anos",
    "id": "f-fc28817220",
    "entrou_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "17:30"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. Gênero não informado; Teatro presumido pelo espaço. Não marcado Infantil: a fonte não dá classificação nem público.",
+   "aviso": "dias",
+   "titulo": "Três Porquinhos Contra o Lobo Mau",
+   "areas": [
+    "Teatro",
+    "Infantil"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Henriqueta Brieba (Tijuca Tênis Clube)",
+   "endereco": "Rua Conde de Bonfim",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sinopse": "\"Três Porquinhos Contra o Lobo Mau\" no Teatro Henriqueta Brieba, no Tijuca Tênis Clube, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/tres-porquinhos-contra-o-lobo-mau/3614726",
+   "trecho_fonte": "2026-11-21 17:30 até 2026-11-29 18:30 | Três Porquinhos Contra o Lobo Mau | Teatro Henriqueta Brieba (Tijuca Tênis Clube), Rua Conde de Bonfim Tijuca | organizador: Perfeito, Alegre e Forte Produções | https://www.sympla.com.br/evento/tres-porquinhos-contra-o-lobo-mau/3614726",
+   "id": "f-0c0ff790ad",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -5971,6 +3642,40 @@
    "entrou_em": "2026-11-25"
   },
   {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "Grátis",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": true,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: grátis e 12 anos. DIVERGÊNCIA no sábado 28/11: o PDF diz 19h, a Sympla diz 18h; mantive 18h, da Sympla, até a confirmação. Fonte e link mantidos na Sympla por isso. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "1ª Mostra de Artes de Terreiro Os Ciclomáticos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Gonzaguinha",
+   "endereco": "Rua Benedito Hipólito, 125",
+   "bairro": "Praça XI",
+   "regiao": "Centro",
+   "sinopse": "Primeira edição de uma mostra que reúne trabalhos artísticos nascidos dos terreiros e de seus saberes, no Teatro Municipal Gonzaguinha.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129222",
+   "trecho_fonte": "1° Mostra de Artes de Terreiro Os Ciclomáticos Quinta-feira a sábado (26 a 28/11), às 19h. Grátis. 12 anos. || 2026-11-26 19:00 até 2026-11-28 18:00 | 1° Mostra de Artes de Terreiro Os Ciclomáticos | Teatro Municipal Gonzaguinha, R. Benedito Hipólito, 125 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO GONZAGUINHA | https://bileto.sympla.com.br/event/129222 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 28 de Novembro · Quinta e Sexta às 19h00, Sábado às 18h00",
+   "id": "f-c21b141a4f",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
+  },
+  {
    "titulo": "Equina",
    "areas": [
     "Teatro"
@@ -6007,6 +3712,151 @@
    "entrou_em": "2026-11-19",
    "aviso": "",
    "atualizado_em": "2026-11-26"
+  },
+  {
+   "titulo": "La Strada – Os Que Vieram Antes de Nós",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Tijuca",
+   "endereco": "Rua Barão de Mesquita, 539",
+   "bairro": "Tijuca",
+   "regiao": "Zona Norte",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 (meia R$ 15)",
+   "preco_min": 15,
+   "preco_max": 30,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "Libras nas sessões de 28 e 29/11",
+   "na_rua": false,
+   "sinopse": "Palhaçaria e teatro documentário sobre gerações de palhaços anônimos que fizeram a história do circo no Brasil.",
+   "fonte": "Sesc RJ (programação oficial)",
+   "link": "https://cultura.sescrio.org.br/programacao/la-strada-os-que-vieram-antes-de-nos",
+   "trecho_fonte": "2026-11-26 19:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | Inteira: R$ 30; Meia: R$ 15 [...] | TEATRO, LIVRE || 2026-11-27 19:00 [...] || 2026-11-28 19:00 [...] acessibilidade: Libras || 2026-11-29 18:00 [...] acessibilidade: Libras || 2026-12-03 19:00 | LA STRADA – OS QUE VIERAM ANTES DE NÓS | Sesc Tijuca (Tijuca, Zona Norte) | preço não informado | TEATRO, LIVRE || 2026-12-04 19:00 [...] || 2026-12-05 19:00 [...] || 2026-12-06 18:00 [...]",
+   "nota_redacao": "Ronda de 26/11: novas sessões de 3 a 6/12. Para essas a agenda não informa o preço; o preço da ficha (R$ 30, meia R$ 15) é o das sessões de novembro. Sessões já passadas (19 e 22/11) retiradas. Libras só em 28 e 29/11. O Sesc ainda não informou o preço das sessões de dezembro; mantido o de novembro.",
+   "id": "2026-11-19-115",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "titulo": "Confissões de Adolescente – o musical",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "EcoVilla Ri Happy",
+   "endereco": "Rua Jardim Botânico, 1.008",
+   "bairro": "Jardim Botânico",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "16 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Versão musical inédita da história sobre as dores e as descobertas de crescer.",
+   "fonte": "Site da EcoVilla Ri Happy (ronda de 19/11)",
+   "link": "https://ecovillarihappy.com.br/programacao/",
+   "trecho_fonte": "Confissões de Adolescente 23 de outubro a 29 de novembro | Sextas às 20h, Sábados e Domingos às 19h Classificação: 16 anos FENÔMENO QUE MARCOU GERAÇÕES, ‘CONFISSÕES DE ADOLESOCENTE’ RETORNA AOS PALCOS EM VERSÃO MUSICAL INÉDITA.",
+   "nota_redacao": "A fonte não informa o preço. Correção de 26/11: a ficha só tinha a semana de 19/11; acrescentadas as sessões até o fim da temporada (29/11), pelo próprio trecho do site, confirmado pela Riotur (Sextas-feiras, às 20h; sábados e domingos, às 19h).",
+   "id": "2026-11-19-142",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:30"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). O fim em 6/12 vem do texto da página da Riotur; a data de estreia não aparece, então listei as sessões de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "A Solidão do Feio",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Sesc Copacabana (Mezanino)",
+   "endereco": "Rua Domingos Ferreira, 160",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Espetáculo \"A Solidão do Feio\" no mezanino do Sesc Copacabana, com sessões de quinta a domingo até 6 de dezembro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/a-solidao-do-feio-no-teatro-sesc-copacabana-2/",
+   "trecho_fonte": "Horário: Quintas e sextas, às 20h30; sábados e domingos, às 19h Local: Mezanino do Sesc Copacabana Endereço: Rua Domingos Ferreira, 160 – Copacabana",
+   "id": "f-1da07461ee",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -6050,6 +3900,117 @@
     },
     {
      "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 17h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 17:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
+   "aviso": "dias",
+   "titulo": "Víboras – A Arte do Insulto",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Víboras – A Arte do Insulto\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126646",
+   "trecho_fonte": "2026-11-07 19:00 até 2026-12-06 17:30 | VÍBORAS - A ARTE DO INSULTO | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/126646",
+   "id": "f-39b3da215f",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "18:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Espaço Armazém - Fundição Progresso. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "Brás Cubas (Armazém Companhia de Teatro)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Fundição Progresso",
+   "endereco": "Rua dos Arcos, 24",
+   "bairro": "Lapa",
+   "regiao": "Centro",
+   "sinopse": "A Armazém Companhia de Teatro em temporada com \"Brás Cubas\" na Fundição Progresso, na Lapa, até 12 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911",
+   "trecho_fonte": "2026-11-19 19:00 até 2026-12-12 19:00 | BRÁS CUBAS (Armazém Companhia de Teatro) | Fundição Progresso, Rua dos Arcos Lapa | organizador: Espaço Armazém - Fundição Progresso | https://www.sympla.com.br/evento/bras-cubas-armazem-companhia-de-teatro/3643911 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): 26/11, quinta-feira 19h; 27/11, sexta-feira 19; 28/11, sábado 19h; 03/12, quinta-feira 19h; 05/12, sábado 19h; 06/12, domingo 18h; 10/12, quinta-feira 19h; 11/12, sexta-feira 19h; 12/12, sábado 19h",
+   "id": "f-913b8130f3",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
      "hora": "18:00"
     }
    ],
@@ -6076,6 +4037,52 @@
    "link": "https://bileto.sympla.com.br/event/128863",
    "trecho_fonte": "Espetáculo “Fora de Quadro” Sábado(28/11), às 19h, e Domingo(29/11), às 18h. Grátis. 18 anos. || Centro Coreográfico da Cidade do Rio de Janeiro || Rua José Higino 115, Tijuca",
    "id": "f-9944b1aa2c",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "R$ 10 a R$ 20",
+   "preco_min": 10,
+   "preco_max": 20,
+   "gratis": false,
+   "classificacao": "18 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria (26/11–02/12): preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla (o PDF não dá página própria). Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Gosto Amargo na Pele",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Correios Léa Garcia",
+   "endereco": "Rua Visconde de Itaboraí, 20",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Ribamar Ribeiro escreve e dirige esta peça a partir de Plínio Marcos, num ambiente que mistura cabaré, circo e prostíbulo, sobre gente posta à margem. Último título da Trilogia dos Indesejáveis.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/128463",
+   "trecho_fonte": "Espetáculo \"Gosto amargo na pele\" Quinta-feira a sábado, às 19h. De 26/11 a 05/12. R$ 10 a R$ 20. 18 anos. || 2026-11-26 19:00 até 2026-12-05 19:00 | Gosto Amargo na Pele | Teatro Correios Léa Garcia, Rua Visconde de Itaboraí,20 | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Correios Léa Garcia | https://bileto.sympla.com.br/event/128463 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 5 de Dezembro · Quinta, Sexta e Sábado às 19h00",
+   "id": "f-9c2207768d",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-26"
   },
@@ -6192,6 +4199,59 @@
    "sessoes": [
     {
      "data": "2026-11-28",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "17:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "17:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Riotur traz o espetáculo na ronda (não está na agenda do Sesc lida hoje). Período de 5/11 a 6/12 tirado do texto da página da Riotur; sessões listadas de hoje até 6/12. Só a Riotur traz o evento na ronda; pela regra, sem preço (a Riotur manda ao link de venda). Classificação não informada.",
+   "aviso": "",
+   "titulo": "Pororoca",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Sesc Ginástico",
+   "endereco": "Av. Graça Aranha, 187",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "Espetáculo \"Pororoca\" em temporada no Teatro Sesc Ginástico, no Centro, até 6 de dezembro.",
+   "fonte": "Riotur (Calendário Oficial)",
+   "link": "https://riotur.rio/evento-calendario/pororoca-no-teatro-sesc-ginasio-3/",
+   "trecho_fonte": "Horário: Quintas, sextas e sábados, às 19h, e domingos, às 17h Local: Teatro Sesc Ginástico Endereço: Av. Graça Aranha, 187 – Centro",
+   "id": "f-e449afdfbe",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
      "hora": "19:30"
     }
    ],
@@ -6219,6 +4279,204 @@
    "trecho_fonte": "2026-11-28 19:30 até 2026-11-28 19:30 | “CRUA: JALOO ACÚSTICA” | TEATRO RIVAL PETROBRAS, Rua Álvaro Alvim ,33 - Subsolo  | organizador: TEATRO RIVAL | https://bileto.sympla.com.br/event/126404",
    "id": "f-8831f8dae4",
    "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "19:30"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "18:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Dias e horários do calendário da Riotur (quinta a sábado, 19h30; domingo, 18h30), até o fim dado pela Sympla (29/11); o horário de início da Sympla (16h20) parece ser o da criação da página. Gênero não informado; Teatro presumido pelo espaço.",
+   "aviso": "",
+   "titulo": "Entre Atos",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Glauce Rocha (Sala Murilo Miranda)",
+   "endereco": "Avenida Rio Branco",
+   "bairro": "Centro",
+   "regiao": "Centro",
+   "sinopse": "\"Entre Atos\" na Sala Murilo Miranda do Teatro Glauce Rocha, no Centro, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/entre-atos-teatro-glauce-rocha/3632366",
+   "trecho_fonte": "2026-11-25 16:20 até 2026-11-29 20:30 | Entre Atos - Teatro Glauce Rocha | Teatro Glauce Rocha - Sala Murilo Miranda, Avenida Rio Branco Centro | organizador: Kéren Hapuque | https://www.sympla.com.br/evento/entre-atos-teatro-glauce-rocha/3632366 || Riotur (Calendário Oficial): Entre Atos no Teatro Glauce Rocha [...] Serviço Horário : Quinta-feira a sábado, às 19h30, e domingo, às 18h30 Local : Teatro Glauce Rocha (Sala Murilo Miranda) Endereço : Av. Rio Branco, 179 – Centro",
+   "id": "f-e1e9f06d4e",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "titulo": "Superiores",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Domingos Oliveira (Planetário)",
+   "endereco": "Rua Padre Leonel Franca, 240",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Nove atores criam com o corpo e a voz todos os sons e ambientes de uma fábula sobre poder, falada numa língua inventada que o público entende pelo som.",
+   "fonte": "Programação Semanal da Cultura Rio 19–25/11 (PDF SMC)",
+   "link": "https://cultura.prefeitura.rio/agendacultural/",
+   "trecho_fonte": "Espetáculo “Superiores” Sextas e sábados, 20h, domingos, 19h. Até 29/11. R$ 30 a R$ 60. Livre. || 2026-11-06 20:00 até 2026-11-29 19:00 | Superiores | Teatro Municipal Domingos Oliveira, Rua Padre Leonel Franca, 240  | organizador: MUNICIPIO DE RIO DE JANEIRO - Teatro Domingos Oliveira | https://bileto.sympla.com.br/event/129281",
+   "nota_redacao": "Correção de 26/11: sessões até 29/11, nos dias e horários do PDF da Secretaria; a Sympla confirma o fim em 29/11.",
+   "id": "2026-11-19-006",
+   "entrou_em": "2026-11-19",
+   "aviso": "",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "titulo": "Adorável Face de Andronieva Petrosa",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeirinha",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "cartaz": null,
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "Livre",
+   "acessibilidade": "",
+   "na_rua": false,
+   "sinopse": "Primeiro solo de Fabianna de Mello e Souza, em 40 anos de carreira: uma atriz recebe uma carta anônima que a acusa de plágio e passa a se perguntar o que é original. Dramaturgia de Cecilia Ripoll e direção de Denise Stutz.",
+   "fonte": "Site do Teatro Poeira (ronda de 19/11)",
+   "link": "https://www.teatropoeira.com.br/adoravel-face",
+   "trecho_fonte": "Adoravel Face TEATRO POEIRINHA 29 OUT a 20 DEZ QUI a SAB 20h e DOM 19h [...] Após 40 anos de carreira, Fabianna de Mello e Souza atua em seu primeiro solo, que transforma uma acusação de plágio em reflexão [...] ‘Adorável Face de Andronieva Petrosa’, solo de Fabianna de Mello e Souza, com dramaturgia de Cecilia Ripoll e direção de Denise Stutz, fará uma temporada no Teatro Poeirinha, de 29 de outubro a 20 de dezembro, com sessões de quinta à sábado, às 20h e domingos [...] Em cena, uma atriz recebe uma carta anônima acusando-a de plágio. [...] o que é original? || CLASSIFICAÇÃO: Livre || 2026-11-13 20:00 até 2026-12-20 19:00 | Adorável Face de Andronieva Petrosa - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104  | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/128003",
+   "nota_redacao": "A coleta não trouxe o preço. Correção de 26/11: acrescentadas as sessões até 20/12 (quinta a sábado, 20h; domingo, 19h), segundo a página da peça no site do Teatro Poeira; link trocado pela página da peça. A Sympla lista a peça no Teatro Poeira; mantido o Poeirinha, como diz o site do teatro.",
+   "id": "2026-11-19-151",
+   "entrou_em": "2026-11-19",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: órgão público (Município do Rio). Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "Algoritmo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Ipanema Rubens Corrêa",
+   "endereco": "Rua Prudente de Morais, 824",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Algoritmo\" em cartaz no Teatro Municipal Ipanema Rubens Corrêa até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128420",
+   "trecho_fonte": "2026-11-12 20:00 até 2026-11-29 19:00 | Algoritmo | Teatro Municipal Ipanema Rubens Corrêa, Rua Prudente de Morais, 824 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO IPANEMA | https://bileto.sympla.com.br/event/128420 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 a 29 de Novembro · Quinta a Sábado às 20h00, Domingo às 19h00",
+   "id": "f-5157b0c813",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -6253,6 +4511,44 @@
    "id": "f-6576ed5f1c",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Só a Sympla tem o evento; a listagem não informa preço, classificação nem acessibilidade e não traz descrição. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "Rodrigo Sant'Anna – Mulheres em Turbulência (Norte Shopping)",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Miguel Falabella (Norte Shopping)",
+   "endereco": "Av. Dom Hélder Câmara, 5.474",
+   "bairro": "Cachambi",
+   "regiao": "Zona Norte",
+   "sinopse": "Rodrigo Sant'Anna leva o espetáculo \"Mulheres em Turbulência\" ao Teatro Miguel Falabella, no Norte Shopping.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128389",
+   "trecho_fonte": "2026-11-20 21:00 até 2026-11-29 20:00 | Mulheres em Turbulência com RODRIGO SANT'ANNA | Teatro Miguel Falabella, Norte Shopping - Av. Dom Hélder Câmara, 5474  | organizador: Teatro Miguel Falabella || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta às 21h00, Sábado e Domingo às 20h00",
+   "id": "f-6a27b066b3",
+   "entrou_em": "2026-11-25",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -6362,6 +4658,81 @@
      "hora": "20:00"
     },
     {
+     "data": "2026-11-29",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 29 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 29/11 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
+   "aviso": "dias",
+   "titulo": "Noite do Melodrama",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Cine Teatro (Teatros da Barra)",
+   "endereco": "Avenida Armando Lombardi, 350, 3º piso",
+   "bairro": "Barra da Tijuca",
+   "regiao": "Zona Sudoeste",
+   "sinopse": "\"Noite do Melodrama\" no Cine Teatro dos Teatros da Barra, na Barra da Tijuca, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128119",
+   "trecho_fonte": "2026-11-21 20:00 até 2026-11-29 19:30 | NOITE DO MELODRAMA | Cine Teatro - Teatros da Barra, Av. Armando Lombardi, 350 - 3º Piso  | organizador: ESPACO PROVOCACOES | https://bileto.sympla.com.br/event/128119",
+   "id": "f-92e994a1ae",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: PAR TEATROS. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "Senhorita Júlia, Pássaros em uma Mesma Gaiola",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Cândido Mendes",
+   "endereco": "Rua Joana Angélica, 63",
+   "bairro": "Ipanema",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Senhorita Júlia, Pássaros em uma Mesma Gaiola\" em cartaz no Teatro Cândido Mendes, em Ipanema, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/126358",
+   "trecho_fonte": "2026-11-14 20:00 até 2026-11-29 20:00 | Senhorita Júlia, pássaros em uma mesma gaiola | Teatro Cândido Mendes, Rua Joana Angélica , 63 | organizador: PAR TEATROS | https://bileto.sympla.com.br/event/126358 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta a Domingo às 20h00",
+   "id": "f-94d2c5ff86",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
      "data": "2026-12-04",
      "hora": "20:00"
     },
@@ -6407,6 +4778,68 @@
      "hora": "20:00"
     },
     {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação. DIVERGÊNCIA de dias e hora: o PDF diz sábados e domingos às 11h; a página da Sympla diz sexta e sábado às 20h e domingo às 19h. Mantive as sessões da Sympla até a confirmação; fonte e link mantidos na Sympla. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Minha Vó Ri",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Espaço Cultural Sérgio Porto",
+   "endereco": "Rua Visconde de Silva, ao lado do nº 292",
+   "bairro": "Humaitá",
+   "regiao": "Zona Sul",
+   "sinopse": "Júlia Bernat faz seu primeiro solo, dirigida por Débora Lamm, misturando relato pessoal e pesquisa sobre a trajetória do movimento lésbico, com menções a Chantal Akerman e Rosely Roth; na trilha, Ângela Ro Ro e Cássia Eller.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/128323",
+   "trecho_fonte": "Espetáculo “Minha Vó Ri” Sábados e domingos, às 11h. Até 13/12. R$ 30 a R$ 60. 12 anos. || 2026-11-20 20:00 até 2026-12-13 19:00 | Minha Vó Ri | Espaço Cultural Municipal Sérgio Porto - CTPT, Rua Visconde de Silva s/n,0 | organizador: Município do Rio de Janeiro - Espaço Cultural Sergio Porto | https://bileto.sympla.com.br/event/128323 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 de Novembro a 13 de Dezembro · Sexta e Sábado às 20h00, Domingo às 19h00",
+   "id": "f-a8b365287d",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
      "data": "2026-12-13",
      "hora": "16:00"
     }
@@ -6435,6 +4868,92 @@
    "trecho_fonte": "2026-11-28 20:00 até 2027-01-24 16:00 | Candlelight: Vivaldi, As Quatro Estações | Museu do Amanhã, Praça Mauá, 1 - Centro, Rio de Janeiro, 20081-240 | a partir de R$ 51.2 | datas: 2026-11-28 20:00; 2026-12-13 16:00; 2027-01-24 16:00 | https://feverup.com/m/111570 || Redescubra As Quatro Estações de Vivaldi em um concerto Candlelight no Museu do Amanhã, no Rio de Janeiro, iluminado por um mar de velas. Este evento é um concerto tributo.",
    "id": "f-ace70f183f",
    "entrou_em": "2026-11-24"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-10",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-12",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-13",
+     "hora": "19:00"
+    },
+    {
+     "data": "2026-12-17",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-18",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-19",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-12-20",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: TEATRO POEIRA. Dias e horários conferidos em 25/11/2026 (página de ingressos da Sympla (Bileto), lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "O que Meu Peito Carrega Sobre Mim",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Poeira",
+   "endereco": "Rua São João Batista, 104",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "\"O que Meu Peito Carrega Sobre Mim\" em cartaz no Teatro Poeira, em Botafogo, até 20 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/129151",
+   "trecho_fonte": "2026-11-14 20:00 até 2026-12-20 19:00 | O que meu peito carrega sobre mim - (Não será permitida a entrada após o início do Espetáculo) | Teatro Poeira, R. São João Batista, 104 | organizador: TEATRO POEIRA | https://bileto.sympla.com.br/event/129151 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 26 de Novembro a 20 de Dezembro · Quinta, Sexta e Sábado às 20h00, Domingo às 19h00",
+   "id": "f-b6ff10b271",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
   },
   {
    "cartaz": null,
@@ -6501,6 +5020,82 @@
    "trecho_fonte": "Semana da Comédia: Edição Queer Comedy apresenta “Bonfim Comedy Show” Sábado (28/11), às 20h. R$ 30 a R$ 60. 14 anos. || Teatro Municipal Ziembinski || Rua Heitor Beltrão s/nº, Tijuca",
    "id": "f-e76af35dff",
    "entrou_em": "2026-11-23",
+   "atualizado_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. organizador: Instituto Paranaense de Educação Política e Cultura. Dias e horários conferidos em 25/11/2026 (página do evento na Sympla, lida em 25/11/2026).",
+   "aviso": "",
+   "titulo": "Nhá Eva",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Companhia de Teatro Contemporâneo",
+   "endereco": "Rua Conde de Irajá",
+   "bairro": "Botafogo",
+   "regiao": "Zona Sul",
+   "sinopse": "\"Nhá Eva\" em cartaz na Companhia de Teatro Contemporâneo, em Botafogo, até 29 de novembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/nha-eva/3614258",
+   "trecho_fonte": "2026-11-15 20:00 até 2026-11-29 22:00 | Nhá Eva | Companhia de Teatro Contemporâneo, Rua Conde de Irajá Botafogo | organizador: Instituto Paranaense de Educação Política e Cultura | https://www.sympla.com.br/evento/nha-eva/3614258 || Dias e horários (página do evento na Sympla, lida em 25/11/2026): De 15 de novembro de 2026, às 20h00 · temporadas: 05/11 a 08/11; 12/11 a 15/11; 26/11 a 29/11",
+   "id": "f-e7b56859d2",
+   "entrou_em": "2026-11-22",
+   "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "20:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "19:00"
+    }
+   ],
+   "preco_texto": "R$ 30 a R$ 60",
+   "preco_min": 30,
+   "preco_max": 60,
+   "gratis": false,
+   "classificacao": "12 anos",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Correção de 26/11 com o PDF da Secretaria: preço e classificação; dias e horários iguais aos da Sympla. Link mantido na página de ingressos da Sympla. Organizador: órgão público (Município do Rio).",
+   "aviso": "",
+   "titulo": "Mistério Buffo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Municipal Café Pequeno",
+   "endereco": "Av. Ataulfo de Paiva, 269",
+   "bairro": "Leblon",
+   "regiao": "Zona Sul",
+   "sinopse": "Douglas Kodi interpreta sozinho narrativas de Dario Fo e Franca Rame, numa combinação diferente a cada noite, no centenário de nascimento do dramaturgo italiano.",
+   "fonte": "Programação Semanal da Cultura Rio 26/11–02/12 (PDF SMC)",
+   "link": "https://bileto.sympla.com.br/event/129347",
+   "trecho_fonte": "Espetáculo“Mistério Buffo” Sexta-feira e sábado (27 e 28/11), às 20h, e domingo (29/11) às 19h. R$ 30 a R$ 60. 12 anos. || 2026-11-27 20:00 até 2026-11-29 19:00 | Mistério Buffo | Teatro Municipal Café Pequeno, Av. Ataulfo de Paiva, 269 | organizador: MUNICIPIO DE RIO DE JANEIRO - TEATRO CAFÉ PEQUENO | https://bileto.sympla.com.br/event/129347 || Dias e horários (página de ingressos da Sympla (Bileto), lida em 25/11/2026): 27 a 29 de Novembro · Sexta e Sábado às 20h00, Domingo às 19h00",
+   "id": "f-f8ed502f79",
+   "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-26"
   },
   {
@@ -6713,6 +5308,96 @@
    "trecho_fonte": "Renato Albani: Salve-se quem puder 28/11/2026 || Riotur: Horário: 21h Local: Farmasi Arena Endereço: Av. Embaixador Abelardo Bueno, 3.401 – Barra da Tijuca",
    "id": "f-0e345919ae",
    "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-03",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-04",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-05",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-12-06",
+     "hora": "19:30"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. A fonte dá só o período da temporada, sem os dias; sessões presumidas de quinta a domingo no horário de início informado (regra da temporada sem os dias), depois de procurar o título na Riotur, na Uhuu, na Bilheteria Digital e no AllEvents sem achar os dias. A Sympla dá 19h30 como fim no dia 6 (talvez o horário de domingo). Gênero não informado; Teatro presumido pelo espaço. A Sympla dá o fim da temporada em 06/12 às 19:30; a última sessão foi ajustada para essa hora. A hora das outras sessões do mesmo dia da semana pode ser a mesma.",
+   "aviso": "dias",
+   "titulo": "O Tigre",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro Vanucci",
+   "endereco": "Rua Marquês de São Vicente, 52, 3º andar, loja 371",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "\"O Tigre\" no Teatro Vanucci, na Gávea, até 6 de dezembro.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://bileto.sympla.com.br/event/127654",
+   "trecho_fonte": "2026-11-20 21:00 até 2026-12-06 19:30 | O TIGRE | Teatro Vanucci, Rua Marques São Vicente , 52 - 3º andar Loja 371  | organizador: Teatro Vanucci | https://bileto.sympla.com.br/event/127654",
+   "id": "f-1fcc3e695b",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-11-28",
+     "hora": "21:00"
+    },
+    {
+     "data": "2026-11-29",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "O site dá só o período (7 a 29/11); dias presumidos de quinta a domingo. A página informa \"21h e 19h\" sem dizer em que dias: usamos 21h (o horário da listagem vem com fuso errado, 3 horas adiantado). Preço e classificação não informados.",
+   "aviso": "dias",
+   "titulo": "Hétero Sigilo",
+   "areas": [
+    "Teatro"
+   ],
+   "tipo": "evento",
+   "local": "Teatro das Artes",
+   "endereco": "Rua Marquês de São Vicente, 52 (Shopping da Gávea)",
+   "bairro": "Gávea",
+   "regiao": "Zona Sul",
+   "sinopse": "Solo de Bernardo Dugin que mistura humor e confissão para falar dos pactos silenciosos feitos para caber na norma heterossexual. Em temporada até 29 de novembro.",
+   "fonte": "Teatro das Artes",
+   "link": "https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/",
+   "trecho_fonte": "- Hétero Sigilo | início 2026-11-07T18:00:00-03:00 | fim 2026-11-29T18:00:00-03:00 | Teatro das Artes | preço 0 | https://teatrodasartes.com.br/eventos/hetero-sigilo-novembro-2026/ | ingressos.divertix Sinopse Solo que mistura humor e confissão para expor os pactos silenciosos que fazemos para caber na norma. Entre memórias, afetos e contradições, o espetáculo revela como a heteronormatividade atravessa corpos e subjetividades e convida o público a rir, se reconhecer e questionar o papel que interpreta na própria vida. Ficha Técnica Dramaturgia e Performance: Bernardo DuginDir [… cortado] || [página do evento] Horário || 21h e 19h",
+   "id": "f-740a844e42",
+   "entrou_em": "2026-11-23"
   },
   {
    "cartaz": null,
@@ -13409,6 +12094,43 @@
    "sessoes": [
     {
      "data": "2026-12-11",
+     "hora": "18:00"
+    },
+    {
+     "data": "2027-01-08",
+     "hora": "18:00"
+    }
+   ],
+   "preco_texto": "",
+   "preco_min": null,
+   "preco_max": null,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A listagem da Sympla não informa preço nem classificação. Organizador: o próprio Circo Crescer e Viver. Três datas, cada uma com página própria; link da primeira.",
+   "aviso": "",
+   "titulo": "Velha Guarda Musical da Mangueira: 70 anos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Circo Crescer e Viver",
+   "endereco": "Rua Carmo Neto, 143",
+   "bairro": "Cidade Nova",
+   "regiao": "Centro",
+   "sinopse": "A Velha Guarda Musical da Mangueira comemora 70 anos em três noites no Circo Crescer e Viver, na Cidade Nova.",
+   "fonte": "Sympla (extração do Todos os Rios)",
+   "link": "https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643739",
+   "trecho_fonte": "2026-11-27 18:00 até 2026-11-27 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643739 || 2026-12-11 18:00 até 2026-12-11 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643744 || 2027-01-08 18:00 até 2027-01-08 23:00 | Velha Guarda Apresenta: 70 anos da Velha Guarda Musical da Mangueira | Circo Crescer e Viver, Rua Carmo Neto Cidade Nova | organizador: Circo Crescer e Viver | https://www.sympla.com.br/evento/velha-guarda-apresenta-70-anos-da-velha-guarda-musical-da-mangueira/3643748",
+   "id": "f-cc466cac8b",
+   "entrou_em": "2026-11-23"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
      "hora": "19:00"
     }
    ],
@@ -13688,6 +12410,39 @@
    "id": "f-b945f69659",
    "entrou_em": "2026-11-22",
    "atualizado_em": "2026-11-25"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
+     "data": "2026-12-11",
+     "hora": "20:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "A fonte não diz quem toca. Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "MPB Entre Amigos",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Little Club",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Noite de música popular brasileira no Little Club, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "27 / nov || MPB ENTRE AMIGOS || 20:00 (SEX) | Little Club || R$ 80,00 || 11 / dez || MPB ENTRE AMIGOS || 20:00 (SEX) | Little Club || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-e59c4f09b5",
+   "entrou_em": "2026-11-26"
   },
   {
    "cartaz": null,
@@ -15704,6 +14459,39 @@
    "cartaz": null,
    "sessoes": [
     {
+     "data": "2026-12-18",
+     "hora": "21:00"
+    }
+   ],
+   "preco_texto": "R$ 80",
+   "preco_min": 80,
+   "preco_max": 80,
+   "gratis": false,
+   "classificacao": "",
+   "acessibilidade": "",
+   "na_rua": false,
+   "nota_redacao": "Endereço e bairro da própria fonte (rodapé da página de shows). A fonte não tem página por show nem texto de apresentação: sinopse só com nome, sala e título do show; link é a página de shows. Classificação e acessibilidade não informadas.",
+   "aviso": "",
+   "titulo": "Fernanda Santanna",
+   "areas": [
+    "Música"
+   ],
+   "tipo": "evento",
+   "local": "Beco das Garrafas – Bottle's Bar",
+   "endereco": "Rua Duvivier, 37",
+   "bairro": "Copacabana",
+   "regiao": "Zona Sul",
+   "sinopse": "Fernanda Santanna se apresenta no Bottle's Bar, no Beco das Garrafas, em Copacabana. Duas sextas-feiras.",
+   "fonte": "Beco das Garrafas (programação oficial)",
+   "link": "https://becodasgarrafas.com.br/principal/events/",
+   "trecho_fonte": "27 / nov || FERNANDA SANTANNA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || 18 / dez || FERNANDA SANTANNA || 21:00 (SEX) | Bottle's Bar || R$ 80,00 || Rua Duvivier, 37 - Beco das Garrafas || Copacabana",
+   "id": "f-591e118397",
+   "entrou_em": "2026-11-26"
+  },
+  {
+   "cartaz": null,
+   "sessoes": [
+    {
      "data": "2026-12-19",
      "hora": "14:00"
     }
@@ -17021,6 +15809,10 @@
     {
      "data": "2027-01-24",
      "hora": "17:00"
+    },
+    {
+     "data": "2027-01-27",
+     "hora": "19:00"
     }
    ],
    "preco_texto": "",
